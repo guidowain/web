@@ -76,8 +76,12 @@ export default function Carousel() {
   // Keyboard
   useEffect(() => {
     const h = (e: KeyboardEvent) => {
-      if (e.key === 'ArrowRight') { setPaused(true); nextSlide() }
-      if (e.key === 'ArrowLeft')  { setPaused(true); prevSlide() }
+      if (e.key === 'ArrowRight') nextSlide()
+      if (e.key === 'ArrowLeft') prevSlide()
+      if (e.key === ' ') {
+        e.preventDefault()
+        setPaused(p => !p)
+      }
     }
     window.addEventListener('keydown', h)
     return () => window.removeEventListener('keydown', h)
@@ -87,7 +91,7 @@ export default function Carousel() {
   const onPointerUp   = (e: React.PointerEvent) => {
     if (dragStart.current === null) return
     const diff = dragStart.current - e.clientX
-    if (Math.abs(diff) > 50) { setPaused(true); diff > 0 ? nextSlide() : prevSlide() }
+    if (Math.abs(diff) > 50) { diff > 0 ? nextSlide() : prevSlide() }
     dragStart.current = null
   }
 
@@ -96,8 +100,6 @@ export default function Carousel() {
       className={styles.section}
       onPointerDown={onPointerDown}
       onPointerUp={onPointerUp}
-      onMouseEnter={() => setPaused(true)}
-      onMouseLeave={() => setPaused(false)}
     >
       <div className={styles.topBar}>
         <span className={styles.sectionLabel}>Selected Work</span>
@@ -155,13 +157,20 @@ export default function Carousel() {
             <button
               key={i}
               className={`${styles.dot} ${i === current ? styles.dotActive : ''}`}
-              onClick={() => { setPaused(true); goTo(i) }}
+              onClick={() => goTo(i)}
             />
           ))}
         </div>
         <div className={styles.arrows}>
-          <button className={styles.arrow} onClick={() => { setPaused(true); prevSlide() }}>←</button>
-          <button className={styles.arrow} onClick={() => { setPaused(true); nextSlide() }}>→</button>
+          <button className={styles.arrow} onClick={prevSlide} aria-label="Previous slide">←</button>
+          <button
+            className={styles.arrow}
+            onClick={() => setPaused(p => !p)}
+            aria-label={paused ? 'Play autoplay' : 'Pause autoplay'}
+          >
+            {paused ? '▶' : '⏸'}
+          </button>
+          <button className={styles.arrow} onClick={nextSlide} aria-label="Next slide">→</button>
         </div>
         <span className={styles.hint}>Drag or arrow keys</span>
       </div>

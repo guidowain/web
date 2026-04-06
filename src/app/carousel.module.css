@@ -120,7 +120,7 @@
 }
 .dotActive { width: 20px; border-radius: 2px; background: var(--accent); }
 
-.arrows { display: flex; gap: 10px; }
+.arrows { display: flex; gap: 10px; align-items: center; }
 .arrow {
   width: 36px; height: 36px;
   border: 1px solid var(--border); border-radius: 50%;
