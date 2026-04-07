@@ -21,7 +21,7 @@ const SLIDES = [
 
 ]
 
-const AUTOPLAY_MS = 4500
+const AUTOPLAY_MS = 3000
 
 export default function Carousel() {
   const [current, setCurrent]               = useState(0)
@@ -142,7 +142,7 @@ export default function Carousel() {
               <img
                 src={slide.img}
                 alt={slide.client}
-                className={styles.slideImg}
+                className={`${styles.slideImg} ${isActive ? styles.kenBurns : ''}`}
                 draggable={false}
               />
             </div>

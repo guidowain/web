@@ -214,6 +214,15 @@
   transition: color 0.2s;
 }
 .social:hover { color: var(--accent-dark); }
+.social svg {
+  width: 22px;
+  height: 22px;
+  fill: var(--accent-dark);
+  display: block;
+  opacity: 0.7;
+  transition: opacity 0.2s, transform 0.2s;
+}
+.social:hover svg { opacity: 1; transform: scale(1.1); }
 
 /* ── FOOTER ── */
 .footer {

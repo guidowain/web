@@ -1,20 +1,15 @@
 'use client'
 
+import { useMemo } from 'react'
 import Carousel from './Carousel'
 import styles from './page.module.css'
-
-const MARQUEE = [
-  'Skin Cleanup',
-  'Colour Grading',
-  'Product Packshot',
-  'BG Removal',
-  'Creative Compositing',
-  'Image Restoration',
-  'RAW Processing',
-  'AI Generation',
-]
+import { getLang } from '@/lib/getLang'
+import { translations } from '@/lib/translations'
 
 export default function Home() {
+  const lang = getLang()
+  const copy = useMemo(() => translations[lang], [lang])
+
   return (
     <>
       <nav className={styles.nav}>
@@ -22,7 +17,7 @@ export default function Home() {
           GUID<span className={styles.navAccent}>O</span> WAIN
         </div>
         <a href="#contact" className={styles.navContact}>
-          Contact
+          {copy.navContact}
         </a>
       </nav>
 
@@ -41,11 +36,8 @@ export default function Home() {
         <div className={styles.heroRight}>
           <div className={styles.heroContent}>
             <div className={styles.heroBottom}>
-              <div className={styles.heroSub}>Retoucher &amp; AI Artist</div>
-              <p className={styles.heroDesc}>
-                Buenos Aires · 12+ years turning good shots into scroll-stoppers for fashion,
-                beauty &amp; lifestyle.
-              </p>
+              <div className={styles.heroSub}>{copy.heroSub}</div>
+              <p className={styles.heroDesc}>{copy.heroDesc}</p>
             </div>
           </div>
         </div>
@@ -53,7 +45,7 @@ export default function Home() {
 
       <div className={styles.marqueeWrap}>
         <div className={styles.marqueeTrack}>
-          {[...MARQUEE, ...MARQUEE].map((item, i) => (
+          {[...copy.marquee, ...copy.marquee].map((item, i) => (
             <span key={i} className={styles.mi}>
               {item}
               <span className={styles.miDot}>✦</span>
@@ -68,37 +60,36 @@ export default function Home() {
         <div className={styles.aboutLeft}>
           <div className={styles.aboutInner}>
             <div className={styles.aboutBig}>
-              <span className={styles.aboutLine}>PIXEL PERFECT.</span>
-              <span className={styles.aboutLine}>EVERY TIME.</span>
+              <span className={styles.aboutLine}>{copy.aboutLine1}</span>
+              <span className={styles.aboutLine}>{copy.aboutLine2}</span>
             </div>
           </div>
         </div>
 
         <div className={styles.aboutRight}>
           <div className={styles.aboutCopy}>
-            <p className={styles.aboutBody}>
-              I'm Guido Wain — a Buenos Aires-based photo retoucher and AI artist with 12+ years
-              turning good shots into scroll-stoppers. After a decade working shoulder-to-shoulder
-              with photographers and art directors across fashion, beauty and lifestyle, I went
-              solo to give brands a fast, fuss-free path to pixel-perfect images.
-            </p>
+            <p className={styles.aboutBody}>{copy.aboutBody1}</p>
 
-            <p className={styles.aboutBody}>
-              Whether you need a full campaign polished, one hero shot rescued, or AI-generated
-              visuals that nobody can tell apart from a real shoot — I deliver production-ready
-              files that make art directors relax and products pop.
-            </p>
+            <p className={styles.aboutBody}>{copy.aboutBody2}</p>
           </div>
         </div>
       </section>
 
       <section id="contact" className={styles.contact}>
         <div className={styles.contactHead}>
-          LET&apos;S
-          <br />
-          WORK
-          <br />
-          TOGETHER.
+          {copy.contactLine1}
+          {copy.contactLine2 && (
+            <>
+              <br />
+              {copy.contactLine2}
+            </>
+          )}
+          {copy.contactLine3 && (
+            <>
+              <br />
+              {copy.contactLine3}
+            </>
+          )}
         </div>
 
         <div className={styles.contactRight}>
@@ -111,30 +102,30 @@ export default function Home() {
             rel="noreferrer"
             className={styles.contactLink}
           >
-            +54 911 6335 7223
+            +54 9 11 6335 7223
           </a>
 
           <div className={styles.socials}>
             <a
-              href="https://www.linkedin.com"
+              href="http://www.linkedin.com/in/guidowainstein"
               target="_blank"
               rel="noreferrer"
               className={styles.social}
               aria-label="LinkedIn"
             >
-              <svg viewBox="0 0 24 24" aria-hidden="true">
-                <path d="M4.98 3.5C4.98 4.88 3.87 6 2.5 6S0 4.88 0 3.5 1.11 1 2.5 1s2.48 1.12 2.48 2.5zM.5 8h4V24h-4V8zm7 0h3.6v2.2h.05c.5-.95 1.75-2.2 3.6-2.2 3.85 0 4.55 2.5 4.55 5.75V24h-4v-8.75c0-2.1-.05-4.75-2.9-4.75-2.9 0-3.35 2.25-3.35 4.6V24h-4V8z" />
+              <svg viewBox="0 0 448 512" aria-hidden="true">
+                <path d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 01107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"/>
               </svg>
             </a>
             <a
-              href="https://www.instagram.com"
+              href="https://www.instagram.com/waintouch"
               target="_blank"
               rel="noreferrer"
               className={styles.social}
               aria-label="Instagram"
             >
-              <svg viewBox="0 0 24 24" aria-hidden="true">
-                <path d="M12 2.2c3.2 0 3.6 0 4.9.1 1.2.1 2 .3 2.5.5.6.2 1 .5 1.4.9.4.4.7.8.9 1.4.2.5.4 1.3.5 2.5.1 1.3.1 1.7.1 4.9s0 3.6-.1 4.9c-.1 1.2-.3 2-.5 2.5-.2.6-.5 1-.9 1.4-.4.4-.8.7-1.4.9-.5.2-1.3.4-2.5.5-1.3.1-1.7.1-4.9.1s-3.6 0-4.9-.1c-1.2-.1-2-.3-2.5-.5-.6-.2-1-.5-1.4-.9-.4-.4-.7-.8-.9-1.4-.2-.5-.4-1.3-.5-2.5C2.2 15.6 2.2 15.2 2.2 12s0-3.6.1-4.9c.1-1.2.3-2 .5-2.5.2-.6.5-1 .9-1.4.4-.4.8-.7 1.4-.9.5-.2 1.3-.4 2.5-.5C8.4 2.2 8.8 2.2 12 2.2zm0 3.8a6 6 0 100 12 6 6 0 000-12zm0 9.8a3.8 3.8 0 110-7.6 3.8 3.8 0 010 7.6zm6.4-10.6a1.4 1.4 0 11-2.8 0 1.4 1.4 0 012.8 0z" />
+              <svg viewBox="0 0 448 512" aria-hidden="true">
+                <path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"/>
               </svg>
             </a>
           </div>
@@ -143,7 +134,7 @@ export default function Home() {
 
       <footer className={styles.footer}>
         <span>®2026 Guido Wain</span>
-        <span>Buenos Aires, Argentina</span>
+        <span>{copy.footerLocation}</span>
       </footer>
     </>
   )

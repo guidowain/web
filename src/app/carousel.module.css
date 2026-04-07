@@ -45,6 +45,7 @@
   user-select: none;
 }
 .clientBgShow { color: rgba(232,240,237,0.04); }
+.clientBgOn   { color: rgba(232,240,237,0.04); }
 
 /* Image area */
 .imgArea {
@@ -147,4 +148,13 @@
   }
   .clientBg { font-size: clamp(48px, 20vw, 120px); }
   .hint { display: none; }
+}
+
+/* Ken Burns — subtle perpetual scale while active */
+.kenBurns {
+  animation: kenBurns 3s ease-in-out infinite alternate;
+}
+@keyframes kenBurns {
+  from { transform: scale(1.0); }
+  to   { transform: scale(1.05); }
 }
