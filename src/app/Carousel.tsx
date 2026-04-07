@@ -5,14 +5,20 @@ import styles from './carousel.module.css'
 
 const SLIDES = [
   { img: '/images/Messi.png',        client: 'ADIDAS'       },
-  { img: '/images/Gillette.png',     client: 'GILLETTE'     },
-  { img: '/images/BMW.jpg',          client: 'BMW'          },
-  { img: '/images/Ritz.png',         client: 'RITZ'         },
-  { img: '/images/Goose Island.png', client: 'GOOSE ISLAND' },
-  { img: '/images/Model.jpg',        client: 'EDITORIAL'    },
-  { img: '/images/Liquid IV.png',    client: 'LIQUID I.V.'  },
-  { img: '/images/JustEgg.png',      client: 'JUST EGG'     },
   { img: '/images/HP 1.gif',         client: 'HP'           },
+  { img: '/images/Makers-Mark.png',   client: 'MAKERS MARK'  },
+  { img: '/images/BMW.jpg',          client: 'BMW'          },
+  { img: '/images/JustEgg.png',      client: 'JUST EGG'     },
+  { img: '/images/Ritz.png',         client: 'RITZ'         },
+  { img: '/images/Action.png',      client: 'ACTION'     },
+  { img: '/images/Hornitos.png',   client: 'HORNITOS'  },
+  { img: '/images/Gillette.png',     client: 'GILLETTE'     },
+  { img: '/images/Goose Island.png', client: 'GOOSE ISLAND' },
+  { img: '/images/Sentinel.png',      client: 'SENTINEL'     },
+  { img: '/images/HP 2.gif',         client: 'HP'           },
+  { img: '/images/Cenomi.jpg',        client: 'CENOMI'    },
+  { img: '/images/Liquid IV.png',    client: 'LIQUID I.V.'  },
+
 ]
 
 const AUTOPLAY_MS = 4500
