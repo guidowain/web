@@ -206,12 +206,14 @@
   margin-top: 4px;
 }
 .social {
-  font-size: 10px;
-  font-weight: 700;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
+  display: flex;
   color: rgba(5,26,19,0.45);
   transition: color 0.2s;
+}
+.social svg {
+  width: 20px;
+  height: 20px;
+  fill: currentColor;
 }
 .social:hover { color: var(--accent-dark); }
 .social svg {
