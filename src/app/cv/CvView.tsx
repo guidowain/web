@@ -16,6 +16,9 @@ type SectionCopy = {
   download: string
   portfolio: string
   available: string
+  navExperience: string
+  navSkills: string
+  navContact: string
 }
 
 const sectionCopy: Record<Lang, SectionCopy> = {
@@ -30,6 +33,9 @@ const sectionCopy: Record<Lang, SectionCopy> = {
     download: 'Download PDF',
     portfolio: 'Portfolio',
     available: 'Available worldwide',
+    navExperience: 'Experience',
+    navSkills: 'Toolkit',
+    navContact: 'Contact',
   },
   es: {
     about: 'Sobre mi',
@@ -42,6 +48,9 @@ const sectionCopy: Record<Lang, SectionCopy> = {
     download: 'Descargar PDF',
     portfolio: 'Portfolio',
     available: 'Disponible worldwide',
+    navExperience: 'Experiencia',
+    navSkills: 'Herramientas',
+    navContact: 'Contacto',
   },
 }
 
@@ -109,6 +118,11 @@ export default function CvView({ content }: { content: SiteContent }) {
         <a className={styles.brand} href="/">
           GUID<span>O</span> WAIN
         </a>
+        <div className={styles.navLinks}>
+          <a href="#experience">{copy.navExperience}</a>
+          <a href="#skills">{copy.navSkills}</a>
+          <a href="#contact">{copy.navContact}</a>
+        </div>
         <div className={styles.navActions}>
           <div className={styles.langSwitch} aria-label="Language">
             {(['es', 'en'] as Lang[]).map((item) => (
@@ -143,7 +157,7 @@ export default function CvView({ content }: { content: SiteContent }) {
         <p>{cv.profile.summary[lang]}</p>
       </section>
 
-      <section className={styles.block}>
+      <section className={styles.block} id="experience">
         <div className={styles.sectionHead}>
           <span>01</span>
           <h2>{copy.experience}</h2>
@@ -151,7 +165,7 @@ export default function CvView({ content }: { content: SiteContent }) {
         <CvEntryList entries={cv.experience} lang={lang} />
       </section>
 
-      <section className={styles.block}>
+      <section className={`${styles.block} ${styles.altBlock}`} id="skills">
         <div className={styles.sectionHead}>
           <span>02</span>
           <h2>{copy.skills}</h2>
@@ -202,7 +216,7 @@ export default function CvView({ content }: { content: SiteContent }) {
         </div>
       </section>
 
-      <section className={styles.cta}>
+      <section className={styles.cta} id="contact">
         <h2>{copy.contact}</h2>
         <div>
           <a href={`mailto:${cv.profile.email}`}>{cv.profile.email}</a>
