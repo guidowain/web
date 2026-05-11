@@ -1,0 +1,486 @@
+{
+  "translations": {
+    "en": {
+      "navContact": "Contact",
+      "heroSub": "Retoucher & AI Artist",
+      "heroDesc": "Buenos Aires · 12+ years turning good shots into scroll stoppers for products, fashion & lifestyle.",
+      "aboutLine1": "PIXEL PERFECT.",
+      "aboutLine2": "EVERY TIME.",
+      "aboutBody1": "I'm Guido Wain, a Buenos Aires based photo retoucher and AI artist with 12+ years turning good shots into scroll stoppers.",
+      "aboutBody2": "Whether you need a full campaign polished, one hero shot rescued, or AI generated visuals, I deliver production ready files that make art directors relax and products pop.",
+      "contactLine1": "LET'S",
+      "contactLine2": "WORK",
+      "contactLine3": "TOGETHER.",
+      "footerLocation": "Buenos Aires, Argentina",
+      "marquee": [
+        "Skin Cleanup",
+        "Colour Grading",
+        "Product Packshot",
+        "BG Removal",
+        "Creative Compositing",
+        "Image Restoration",
+        "RAW Processing",
+        "AI Generation"
+      ]
+    },
+    "es": {
+      "navContact": "Contacto",
+      "heroSub": "Retocador & Artista AI",
+      "heroDesc": "Buenos Aires · +12 años transformando buenas fotos en imágenes que te hacen volver a mirar para producto, moda y lifestyle.",
+      "aboutLine1": "PIXEL PERFECT.",
+      "aboutLine2": "SIEMPRE.",
+      "aboutBody1": "Soy Guido Wain, retocador fotográfico y artista AI de Buenos Aires, con más de 12 años transformando buenas fotos en imágenes que te hacen volver a mirar.",
+      "aboutBody2": "Ya sea una campaña entera, una imagen clave que haya que rescatar o visuales generados con AI, entrego archivos listos para producción que hacen que el trabajo fluya y que el producto destaque.",
+      "contactLine1": "TRABAJEMOS",
+      "contactLine2": "JUNTOS.",
+      "contactLine3": "",
+      "footerLocation": "Buenos Aires, Argentina",
+      "marquee": [
+        "Limpieza de piel",
+        "Color grading",
+        "Packshot de producto",
+        "Recorte de fondo",
+        "Composición creativa",
+        "Restauración",
+        "Procesado RAW",
+        "Generación con AI"
+      ]
+    }
+  },
+  "contact": {
+    "email": "contact@guidowain.com",
+    "phoneLabel": "+54 9 11 6335 7223",
+    "whatsappUrl": "https://wa.me/5491163357223",
+    "linkedinUrl": "http://www.linkedin.com/in/guidowainstein",
+    "instagramUrl": "https://www.instagram.com/waintouch"
+  },
+  "slides": [
+    {
+      "img": "/images/Messi.png",
+      "client": "ADIDAS"
+    },
+    {
+      "img": "/images/HP 1.gif",
+      "client": "HP"
+    },
+    {
+      "img": "/images/Makers-Mark.png",
+      "client": "MAKERS MARK"
+    },
+    {
+      "img": "/images/BMW.jpg",
+      "client": "BMW"
+    },
+    {
+      "img": "/images/JustEgg.png",
+      "client": "JUST EGG"
+    },
+    {
+      "img": "/images/Ritz.png",
+      "client": "RITZ"
+    },
+    {
+      "img": "/images/YPF-afa.png",
+      "client": "YPF"
+    },
+    {
+      "img": "/images/Action.png",
+      "client": "ACTION"
+    },
+    {
+      "img": "/images/Hornitos.png",
+      "client": "HORNITOS"
+    },
+    {
+      "img": "/images/Gillette.png",
+      "client": "GILLETTE"
+    },
+    {
+      "img": "/images/Goose Island.png",
+      "client": "GOOSE ISLAND"
+    },
+    {
+      "img": "/images/Sentinel.png",
+      "client": "SENTINEL"
+    },
+    {
+      "img": "/images/HP 2.gif",
+      "client": "HP"
+    },
+    {
+      "img": "/images/Cenomi.jpg",
+      "client": "CENOMI"
+    },
+    {
+      "img": "/images/Liquid IV.png",
+      "client": "LIQUID I.V."
+    }
+  ],
+  "cv": {
+    "profile": {
+      "name": "Guido Wainstein",
+      "title": {
+        "en": "Photo Retoucher & AI Artist",
+        "es": "Retocador Fotográfico & Artista AI"
+      },
+      "location": "Buenos Aires, Argentina",
+      "phone": "+54 9 11 6335 7223",
+      "email": "contact@guidowain.com",
+      "website": "guidowain.com"
+    },
+    "experience": [
+      {
+        "id": "media-monks",
+        "title": {
+          "en": "Senior Photo Retoucher & AI Artist",
+          "es": "Retocador Fotográfico Senior & Artista AI"
+        },
+        "organization": {
+          "en": "Media.Monks",
+          "es": "Media.Monks"
+        },
+        "period": {
+          "en": "April 2021 - Present",
+          "es": "Abril 2021 - Presente"
+        },
+        "description": {
+          "en": "Retouching and AI image production for global brands including HP, BMW, Mondelez, Google, and Netflix. Compositing, creative collaboration with art directors, and generative AI integrated into production workflows.",
+          "es": "Retoque y producción de imágenes con AI para marcas globales como HP, BMW, Mondelez, Google y Netflix. Composición, colaboración creativa con directores de arte e integración de AI generativa en flujos de producción."
+        }
+      },
+      {
+        "id": "freelance-ai",
+        "title": {
+          "en": "AI Image Generation",
+          "es": "Generación de Imágenes con AI"
+        },
+        "organization": {
+          "en": "Freelance",
+          "es": "Freelance"
+        },
+        "period": {
+          "en": "2024 - Present",
+          "es": "2024 - Presente"
+        },
+        "description": {
+          "en": "Key Visual 2026 for CIF (Unilever). Generative AI production from brief to final delivery.",
+          "es": "Key Visual 2026 para CIF (Unilever). Producción con AI generativa desde el brief hasta la entrega final."
+        }
+      },
+      {
+        "id": "ephoto",
+        "title": {
+          "en": "Founder & Director",
+          "es": "Fundador & Director"
+        },
+        "organization": {
+          "en": "ePhoto",
+          "es": "ePhoto"
+        },
+        "period": {
+          "en": "December 2014 - August 2020",
+          "es": "Diciembre 2014 - Agosto 2020"
+        },
+        "description": {
+          "en": "Product photography studio focused on eCommerce. Developed the ePhotography Method, a workflow that helps sellers streamline their product image production.",
+          "es": "Estudio de fotografía de producto enfocado en eCommerce. Desarrollo del Método ePhotography, un flujo de trabajo que ayuda a vendedores a optimizar la producción de imágenes de producto."
+        }
+      },
+      {
+        "id": "dafiti",
+        "title": {
+          "en": "Senior Photo Retoucher & Photographer",
+          "es": "Retocador Fotográfico Senior & Fotógrafo"
+        },
+        "organization": {
+          "en": "Dafiti",
+          "es": "Dafiti"
+        },
+        "period": {
+          "en": "September 2018 - April 2021",
+          "es": "Septiembre 2018 - Abril 2021"
+        },
+        "description": {
+          "en": "Daily lookbook production with models and stylists. Full retouching pipeline for eCommerce. Developed a shooting table for children's products and automated retouching and clipping path actions in Photoshop.",
+          "es": "Producción diaria de lookbooks con modelos y estilistas. Pipeline completo de retoque para eCommerce. Desarrollo de mesa de fotografía para productos infantiles y automatización de acciones de retoque y trazado de recorte en Photoshop."
+        }
+      },
+      {
+        "id": "juan-salvarredy",
+        "title": {
+          "en": "Photography Assistant",
+          "es": "Asistente de Fotografía"
+        },
+        "organization": {
+          "en": "Juan Salvarredy",
+          "es": "Juan Salvarredy"
+        },
+        "period": {
+          "en": "February 2013 - December 2014",
+          "es": "Febrero 2013 - Diciembre 2014"
+        },
+        "description": {
+          "en": "Lighting, on-set direction, and client briefings for commercial photography productions.",
+          "es": "Iluminación, dirección en set y reuniones con clientes para producciones de fotografía comercial."
+        }
+      },
+      {
+        "id": "eaf",
+        "title": {
+          "en": "Professor",
+          "es": "Profesor"
+        },
+        "organization": {
+          "en": "Escuela Argentina de Fotografía",
+          "es": "Escuela Argentina de Fotografía"
+        },
+        "period": {
+          "en": "August 2018 - Present",
+          "es": "Agosto 2018 - Presente"
+        },
+        "description": {
+          "en": "Graphic Design.",
+          "es": "Diseño Gráfico."
+        }
+      },
+      {
+        "id": "ort-professor",
+        "title": {
+          "en": "Professor",
+          "es": "Profesor"
+        },
+        "organization": {
+          "en": "Escuela ORT II",
+          "es": "Escuela ORT II"
+        },
+        "period": {
+          "en": "April 2015 - March 2018",
+          "es": "Abril 2015 - Marzo 2018"
+        },
+        "description": {
+          "en": "TV Production and Audiovisual Technology.",
+          "es": "Producción de TV y Tecnología Audiovisual."
+        }
+      },
+      {
+        "id": "aloha",
+        "title": {
+          "en": "Professor",
+          "es": "Profesor"
+        },
+        "organization": {
+          "en": "Aloha Photo School",
+          "es": "Aloha Photo School"
+        },
+        "period": {
+          "en": "January 2014 - March 2015",
+          "es": "Enero 2014 - Marzo 2015"
+        },
+        "description": {
+          "en": "Advertising Photography.",
+          "es": "Fotografía Publicitaria."
+        }
+      }
+    ],
+    "skills": [
+      {
+        "id": "software",
+        "title": {
+          "en": "Software",
+          "es": "Software"
+        },
+        "items": [
+          {
+            "en": "Adobe Photoshop",
+            "es": "Adobe Photoshop"
+          },
+          {
+            "en": "Lightroom",
+            "es": "Lightroom"
+          },
+          {
+            "en": "Capture One Pro",
+            "es": "Capture One Pro"
+          },
+          {
+            "en": "Illustrator",
+            "es": "Illustrator"
+          },
+          {
+            "en": "Premiere Pro",
+            "es": "Premiere Pro"
+          },
+          {
+            "en": "After Effects",
+            "es": "After Effects"
+          },
+          {
+            "en": "Figma",
+            "es": "Figma"
+          },
+          {
+            "en": "Google Sheets",
+            "es": "Google Sheets"
+          }
+        ]
+      },
+      {
+        "id": "ai-tools",
+        "title": {
+          "en": "AI & Emerging Tools",
+          "es": "AI & Herramientas Emergentes"
+        },
+        "items": [
+          {
+            "en": "AI Image Generation",
+            "es": "Generación de imágenes con AI"
+          },
+          {
+            "en": "AI Upscaling",
+            "es": "Escalado con AI"
+          },
+          {
+            "en": "Generative AI workflow integration",
+            "es": "Integración de AI generativa en flujos de trabajo"
+          }
+        ]
+      },
+      {
+        "id": "other",
+        "title": {
+          "en": "Other",
+          "es": "Otros"
+        },
+        "items": [
+          {
+            "en": "Color theory",
+            "es": "Teoría del color"
+          },
+          {
+            "en": "Digital development",
+            "es": "Revelado digital"
+          },
+          {
+            "en": "eCommerce",
+            "es": "eCommerce"
+          },
+          {
+            "en": "Fine Art Printing",
+            "es": "Impresión Fine Art"
+          },
+          {
+            "en": "HTML5",
+            "es": "HTML5"
+          },
+          {
+            "en": "Community Management",
+            "es": "Community Management"
+          }
+        ]
+      }
+    ],
+    "education": [
+      {
+        "id": "fuc",
+        "title": {
+          "en": "Universidad del Cine (FUC)",
+          "es": "Universidad del Cine (FUC)"
+        },
+        "organization": {
+          "en": "Director of Photography",
+          "es": "Director de Fotografía"
+        },
+        "period": {
+          "en": "2014-2015",
+          "es": "2014-2015"
+        },
+        "description": {
+          "en": "",
+          "es": ""
+        }
+      },
+      {
+        "id": "efc",
+        "title": {
+          "en": "EFC Andy Goldstein",
+          "es": "EFC Andy Goldstein"
+        },
+        "organization": {
+          "en": "Professional Photography",
+          "es": "Fotografía Profesional"
+        },
+        "period": {
+          "en": "2010-2012",
+          "es": "2010-2012"
+        },
+        "description": {
+          "en": "",
+          "es": ""
+        }
+      },
+      {
+        "id": "uces",
+        "title": {
+          "en": "UCES",
+          "es": "UCES"
+        },
+        "organization": {
+          "en": "Advertising",
+          "es": "Publicidad"
+        },
+        "period": {
+          "en": "2011-2012",
+          "es": "2011-2012"
+        },
+        "description": {
+          "en": "",
+          "es": ""
+        }
+      },
+      {
+        "id": "ort",
+        "title": {
+          "en": "Escuela Técnica ORT II",
+          "es": "Escuela Técnica ORT II"
+        },
+        "organization": {
+          "en": "Technical Bachelor in Media Communication",
+          "es": "Bachiller Técnico en Comunicación de Medios"
+        },
+        "period": {
+          "en": "2004-2008",
+          "es": "2004-2008"
+        },
+        "description": {
+          "en": "",
+          "es": ""
+        }
+      }
+    ],
+    "languages": [
+      {
+        "id": "spanish",
+        "text": {
+          "en": "Spanish, Native",
+          "es": "Español, Nativo"
+        }
+      },
+      {
+        "id": "english",
+        "text": {
+          "en": "English, Advanced",
+          "es": "Inglés, Avanzado"
+        }
+      }
+    ],
+    "volunteering": [
+      {
+        "id": "tedx",
+        "text": {
+          "en": "Organizing Member & Photographer, TEDxRiodelaPlata · 2014-2019",
+          "es": "Miembro organizador & fotógrafo, TEDxRiodelaPlata · 2014-2019"
+        }
+      }
+    ]
+  }
+}
