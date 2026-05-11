@@ -132,8 +132,8 @@
       {
         "id": "media-monks",
         "title": {
-          "en": "Senior Photo Retoucher",
-          "es": "Retocador Fotográfico Senior"
+          "en": "Senior Photo Retoucher & AI Artist",
+          "es": "Retocador Fotográfico Senior & Artista AI"
         },
         "organization": {
           "en": "Media.Monks",
@@ -149,6 +149,25 @@
         }
       },
       {
+        "id": "freelance-ai",
+        "title": {
+          "en": "AI Image Generation",
+          "es": "Generación de Imágenes con AI"
+        },
+        "organization": {
+          "en": "Freelance",
+          "es": "Freelance"
+        },
+        "period": {
+          "en": "2024 - Present",
+          "es": "2024 - Presente"
+        },
+        "description": {
+          "en": "Key Visual 2026 for CIF (Unilever). Generative AI production from brief to final delivery.",
+          "es": "Key Visual 2026 para CIF (Unilever). Producción con AI generativa desde el brief hasta la entrega final."
+        }
+      },
+      {
         "id": "ephoto",
         "title": {
           "en": "Founder & Director",
@@ -159,8 +178,8 @@
           "es": "ePhoto"
         },
         "period": {
-          "en": "December 2014 - August 2020",
-          "es": "Diciembre 2014 - Agosto 2020"
+          "en": "December 2014 - Present",
+          "es": "Diciembre 2014 - Presente"
         },
         "description": {
           "en": "Product photography studio focused on eCommerce. Developed the ePhotography Method, a workflow that helps sellers streamline their product image production.",
@@ -216,8 +235,8 @@
           "es": "Escuela Argentina de Fotografía"
         },
         "period": {
-          "en": "August 2018 - August 2020",
-          "es": "Agosto 2018 - Agosto 2020"
+          "en": "August 2018 - Present",
+          "es": "Agosto 2018 - Presente"
         },
         "description": {
           "en": "Graphic Design.",
@@ -308,8 +327,8 @@
       {
         "id": "ai-tools",
         "title": {
-          "en": "AI",
-          "es": "AI"
+          "en": "AI & Emerging Tools",
+          "es": "AI & Herramientas Emergentes"
         },
         "items": [
           {
@@ -348,6 +367,10 @@
           {
             "en": "Fine Art Printing",
             "es": "Impresión Fine Art"
+          },
+          {
+            "en": "HTML5",
+            "es": "HTML5"
           },
           {
             "en": "Community Management",
