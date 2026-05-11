@@ -132,8 +132,8 @@
       {
         "id": "media-monks",
         "title": {
-          "en": "Senior Photo Retoucher & AI Artist",
-          "es": "Retocador Fotográfico Senior & Artista AI"
+          "en": "Senior Photo Retoucher",
+          "es": "Retocador Fotográfico Senior"
         },
         "organization": {
           "en": "Media.Monks",
@@ -146,25 +146,6 @@
         "description": {
           "en": "Retouching and AI image production for global brands including HP, BMW, Mondelez, Google, and Netflix. Compositing, creative collaboration with art directors, and generative AI integrated into production workflows.",
           "es": "Retoque y producción de imágenes con AI para marcas globales como HP, BMW, Mondelez, Google y Netflix. Composición, colaboración creativa con directores de arte e integración de AI generativa en flujos de producción."
-        }
-      },
-      {
-        "id": "freelance-ai",
-        "title": {
-          "en": "AI Image Generation",
-          "es": "Generación de Imágenes con AI"
-        },
-        "organization": {
-          "en": "Freelance",
-          "es": "Freelance"
-        },
-        "period": {
-          "en": "2024 - Present",
-          "es": "2024 - Presente"
-        },
-        "description": {
-          "en": "Key Visual 2026 for CIF (Unilever). Generative AI production from brief to final delivery.",
-          "es": "Key Visual 2026 para CIF (Unilever). Producción con AI generativa desde el brief hasta la entrega final."
         }
       },
       {
@@ -327,8 +308,8 @@
       {
         "id": "ai-tools",
         "title": {
-          "en": "AI & Emerging Tools",
-          "es": "AI & Herramientas Emergentes"
+          "en": "AI",
+          "es": "AI"
         },
         "items": [
           {
@@ -367,10 +348,6 @@
           {
             "en": "Fine Art Printing",
             "es": "Impresión Fine Art"
-          },
-          {
-            "en": "HTML5",
-            "es": "HTML5"
           },
           {
             "en": "Community Management",
