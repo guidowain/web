@@ -140,9 +140,7 @@ export default function CvView({ content }: { content: SiteContent }) {
       </section>
 
       <section className={styles.about}>
-        <p>
-          {cv.experience[0]?.description[lang]} {cv.experience[1]?.description[lang]}
-        </p>
+        <p>{cv.profile.summary[lang]}</p>
       </section>
 
       <section className={styles.block}>

@@ -45,6 +45,7 @@ export type CvContent = {
   profile: {
     name: string
     title: LocalizedString
+    summary: LocalizedString
     location: string
     phone: string
     email: string

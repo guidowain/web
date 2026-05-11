@@ -174,6 +174,19 @@ export default function AdminEditor({ initialContent }: { initialContent: SiteCo
     }))
   }
 
+  function updateCvProfileSummary(lang: Lang, value: string) {
+    updateCv((cv) => ({
+      ...cv,
+      profile: {
+        ...cv.profile,
+        summary: {
+          ...cv.profile.summary,
+          [lang]: value,
+        },
+      },
+    }))
+  }
+
   function updateCvEntry(
     section: CvEntrySection,
     index: number,
@@ -735,6 +748,10 @@ export default function AdminEditor({ initialContent }: { initialContent: SiteCo
                   />
                 </label>
                 {renderCvLocalizedField('Título profesional', content.cv.profile.title, updateCvProfileTitle)}
+                {renderCvLocalizedField('Resumen / bajada del CV', content.cv.profile.summary, updateCvProfileSummary, {
+                  multiline: true,
+                  wide: true,
+                })}
                 <label className={styles.field}>
                   <span>Ubicación</span>
                   <input
