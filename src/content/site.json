@@ -149,25 +149,6 @@
         }
       },
       {
-        "id": "ephoto",
-        "title": {
-          "en": "Founder & Director",
-          "es": "Fundador & Director"
-        },
-        "organization": {
-          "en": "ePhoto",
-          "es": "ePhoto"
-        },
-        "period": {
-          "en": "December 2014 - August 2020",
-          "es": "Diciembre 2014 - Agosto 2020"
-        },
-        "description": {
-          "en": "Product photography studio focused on eCommerce. Developed the ePhotography Method, a workflow that helps sellers streamline their product image production.",
-          "es": "Estudio de fotografía de producto enfocado en eCommerce. Desarrollo del Método ePhotography, un flujo de trabajo que ayuda a vendedores a optimizar la producción de imágenes de producto."
-        }
-      },
-      {
         "id": "dafiti",
         "title": {
           "en": "Senior Photo Retoucher & Photographer",
@@ -184,6 +165,25 @@
         "description": {
           "en": "Daily lookbook production with models and stylists. Full retouching pipeline for eCommerce. Developed a shooting table for children's products and automated retouching and clipping path actions in Photoshop.",
           "es": "Producción diaria de lookbooks con modelos y estilistas. Pipeline completo de retoque para eCommerce. Desarrollo de mesa de fotografía para productos infantiles y automatización de acciones de retoque y trazado de recorte en Photoshop."
+        }
+      },
+      {
+        "id": "ephoto",
+        "title": {
+          "en": "Founder & Director",
+          "es": "Fundador & Director"
+        },
+        "organization": {
+          "en": "ePhoto",
+          "es": "ePhoto"
+        },
+        "period": {
+          "en": "December 2014 - August 2020",
+          "es": "Diciembre 2014 - Agosto 2020"
+        },
+        "description": {
+          "en": "Product photography studio focused on eCommerce. Developed the ePhotography Method, a workflow that helps sellers streamline their product image production.",
+          "es": "Estudio de fotografía de producto enfocado en eCommerce. Desarrollo del Método ePhotography, un flujo de trabajo que ayuda a vendedores a optimizar la producción de imágenes de producto."
         }
       },
       {
@@ -348,10 +348,6 @@
           {
             "en": "Fine Art Printing",
             "es": "Impresión Fine Art"
-          },
-          {
-            "en": "HTML5",
-            "es": "HTML5"
           },
           {
             "en": "Community Management",
