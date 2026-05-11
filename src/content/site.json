@@ -149,25 +149,6 @@
         }
       },
       {
-        "id": "freelance-ai",
-        "title": {
-          "en": "AI Image Generation",
-          "es": "Generación de Imágenes con AI"
-        },
-        "organization": {
-          "en": "Freelance",
-          "es": "Freelance"
-        },
-        "period": {
-          "en": "2024 - Present",
-          "es": "2024 - Presente"
-        },
-        "description": {
-          "en": "Key Visual 2026 for CIF (Unilever). Generative AI production from brief to final delivery.",
-          "es": "Key Visual 2026 para CIF (Unilever). Producción con AI generativa desde el brief hasta la entrega final."
-        }
-      },
-      {
         "id": "ephoto",
         "title": {
           "en": "Founder & Director",
