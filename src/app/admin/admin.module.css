@@ -1,0 +1,518 @@
+.shell,
+.loginPage {
+  min-height: 100vh;
+  background: var(--bg);
+  color: var(--white);
+}
+
+.loginPage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+}
+
+.loginCard {
+  width: min(100%, 380px);
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  padding: 28px;
+  border: 1px solid var(--border);
+  background: #0c0f0e;
+}
+
+.loginTitle {
+  margin: 0;
+  font-size: 44px;
+  line-height: 0.9;
+  text-transform: uppercase;
+}
+
+.shell {
+  display: grid;
+  grid-template-columns: 240px 1fr;
+}
+
+.sidebar {
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+  padding: 22px 18px;
+  border-right: 1px solid var(--border);
+  background: var(--bg);
+}
+
+.brand {
+  color: var(--white);
+  font-size: 20px;
+  font-weight: 900;
+  letter-spacing: 0.04em;
+}
+
+.brand span,
+.kicker {
+  color: var(--accent);
+}
+
+.navList {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.navList a,
+.navList button,
+.ghostButton {
+  color: var(--muted);
+  border: 0;
+  background: transparent;
+  text-align: left;
+  padding: 10px 12px;
+  font: inherit;
+  cursor: pointer;
+}
+
+.navList a:hover,
+.navList button:hover,
+.navList .navActive,
+.ghostButton:hover {
+  color: var(--white);
+  background: rgba(232, 240, 237, 0.05);
+}
+
+.navList .navActive {
+  border-left: 2px solid var(--accent);
+}
+
+.ghostButton {
+  margin-top: auto;
+}
+
+.panel {
+  padding: 36px;
+}
+
+.header,
+.sectionHeader {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.header {
+  margin-bottom: 24px;
+}
+
+.header h1,
+.section h2 {
+  margin: 0;
+  color: var(--white);
+  font-size: clamp(32px, 5vw, 56px);
+  line-height: 0.95;
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
+}
+
+.section h2 {
+  font-size: clamp(24px, 3vw, 36px);
+}
+
+.kicker {
+  margin: 0 0 6px;
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+
+.primaryButton,
+.secondaryButton,
+.iconAddButton,
+.uploadButton {
+  border: 0;
+  background: var(--accent);
+  color: var(--accent-dark);
+  min-height: 42px;
+  padding: 0 16px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 900;
+  font-size: 11px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.secondaryButton,
+.iconAddButton,
+.uploadButton {
+  background: rgba(232, 240, 237, 0.08);
+  color: var(--white);
+  border: 1px solid var(--border);
+}
+
+.iconAddButton {
+  min-width: 42px;
+  padding: 0;
+  color: var(--accent);
+  font-size: 22px;
+  line-height: 1;
+}
+
+.primaryButton:disabled,
+.secondaryButton:disabled,
+.cardActions button:disabled {
+  cursor: not-allowed;
+  opacity: 0.45;
+}
+
+.section,
+.slideCard {
+  border: 1px solid var(--border);
+  background: #0c0f0e;
+}
+
+.section {
+  margin-top: 18px;
+  padding: 24px;
+}
+
+.formGrid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+  margin-top: 22px;
+}
+
+.contentGroups {
+  display: grid;
+  gap: 16px;
+  margin-top: 22px;
+}
+
+.contentGroup {
+  display: grid;
+  grid-template-columns: minmax(160px, 220px) 1fr;
+  gap: 24px;
+  padding: 18px;
+  border: 1px solid var(--border);
+  background: rgba(8, 11, 10, 0.42);
+}
+
+.cvBlock {
+  display: grid;
+  gap: 14px;
+  padding: 18px;
+  border: 1px solid var(--border);
+  background: rgba(8, 11, 10, 0.42);
+}
+
+.cvBlockHeader {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.cvBlockHeader h3 {
+  margin: 0;
+  color: var(--white);
+  font-size: 18px;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.groupIntro h3 {
+  margin: 0;
+  color: var(--white);
+  font-size: 15px;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.groupIntro p {
+  margin: 8px 0 0;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.45;
+}
+
+.groupGrid,
+.groupGridThree {
+  display: grid;
+  gap: 14px;
+}
+
+.groupGrid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.groupGridThree {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.localizedField {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.fieldWide {
+  grid-column: 1 / -1;
+}
+
+.field span,
+.localizedField > span {
+  color: var(--muted);
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.field input,
+.field textarea,
+.localizedColumn input,
+.localizedColumn textarea {
+  width: 100%;
+  border: 1px solid var(--border);
+  background: var(--bg);
+  color: var(--white);
+  padding: 12px;
+  font: inherit;
+  outline: none;
+}
+
+.field textarea,
+.localizedColumn textarea {
+  min-height: 112px;
+  resize: vertical;
+}
+
+.field input:focus,
+.field textarea:focus,
+.localizedColumn input:focus,
+.localizedColumn textarea:focus {
+  border-color: var(--accent);
+}
+
+.localizedColumns {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.localizedColumn {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.localizedColumn small {
+  color: var(--accent);
+  font-size: 9px;
+  font-weight: 900;
+  letter-spacing: 0.18em;
+}
+
+.segmented {
+  display: flex;
+  border: 1px solid var(--border);
+  background: var(--bg);
+}
+
+.segmented button {
+  border: 0;
+  background: transparent;
+  color: var(--muted);
+  padding: 10px 14px;
+  font-weight: 900;
+  cursor: pointer;
+}
+
+.segmented .segmentActive {
+  background: var(--accent);
+  color: var(--accent-dark);
+}
+
+.slideList {
+  display: grid;
+  gap: 12px;
+  margin-top: 22px;
+}
+
+.cvList {
+  display: grid;
+  gap: 12px;
+}
+
+.slideCard {
+  display: grid;
+  grid-template-columns: 120px 1fr auto;
+  gap: 16px;
+  align-items: center;
+  padding: 14px;
+}
+
+.slideCard img {
+  width: 120px;
+  height: 90px;
+  object-fit: contain;
+  background: var(--bg);
+}
+
+.cvCard,
+.cvInlineCard {
+  display: grid;
+  gap: 16px;
+  padding: 14px;
+  border: 1px solid var(--border);
+  background: #0c0f0e;
+}
+
+.cvCard {
+  grid-template-columns: 1fr auto;
+  align-items: start;
+}
+
+.cvInlineCard {
+  grid-template-columns: 1fr auto;
+  align-items: end;
+}
+
+.cvFields {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.slideFields {
+  display: grid;
+  grid-template-columns: minmax(160px, 220px) minmax(220px, 1fr) auto;
+  gap: 12px;
+  align-items: end;
+}
+
+.skillItems {
+  display: grid;
+  gap: 8px;
+}
+
+.skillItem {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 8px;
+  align-items: end;
+}
+
+.skillItem button {
+  border: 1px solid var(--border);
+  background: transparent;
+  color: rgba(232, 240, 237, 0.68);
+  padding: 0 12px;
+  font: inherit;
+  cursor: pointer;
+}
+
+.uploadButton input {
+  display: none;
+}
+
+.cardActions {
+  display: flex;
+  gap: 6px;
+}
+
+.cardActions button {
+  min-width: 36px;
+  min-height: 36px;
+  border: 1px solid var(--border);
+  background: transparent;
+  color: rgba(232, 240, 237, 0.68);
+  padding: 0 10px;
+  cursor: pointer;
+}
+
+.cardActions .deleteButton,
+.skillItem .deleteButton {
+  color: #ff6b6b;
+  border-color: rgba(255, 107, 107, 0.42);
+}
+
+.cardActions .deleteButton:hover,
+.skillItem .deleteButton:hover {
+  color: #ffd0d0;
+  background: rgba(255, 107, 107, 0.12);
+  border-color: rgba(255, 107, 107, 0.78);
+}
+
+.success,
+.error {
+  padding: 12px 14px;
+  margin: 0 0 14px;
+  font-size: 14px;
+}
+
+.success {
+  color: var(--accent);
+  background: rgba(61, 255, 192, 0.08);
+}
+
+.error {
+  color: #ff8d8d;
+  background: rgba(255, 86, 86, 0.08);
+}
+
+@media (max-width: 900px) {
+  .shell {
+    grid-template-columns: 1fr;
+  }
+
+  .sidebar {
+    position: static;
+    height: auto;
+  }
+
+  .panel {
+    padding: 20px;
+  }
+
+  .header,
+  .sectionHeader,
+  .cvBlockHeader,
+  .slideCard,
+  .cvCard,
+  .cvInlineCard,
+  .slideFields {
+    grid-template-columns: 1fr;
+    flex-direction: column;
+  }
+
+  .formGrid,
+  .contentGroup,
+  .cvFields,
+  .groupGrid,
+  .groupGridThree,
+  .localizedColumns,
+  .skillItem {
+    grid-template-columns: 1fr;
+  }
+
+  .slideCard {
+    display: grid;
+  }
+}

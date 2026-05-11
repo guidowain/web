@@ -34,7 +34,17 @@ Luego: `deploy-guidowain`
 
 ### Variables de entorno
 
-No hay variables de entorno necesarias.
+Para el sitio publico no hay variables necesarias. Para usar el back office:
+
+```bash
+ADMIN_PASSWORD=tu-password
+ADMIN_SESSION_SECRET=un-string-largo-random
+GITHUB_REPO=guidowain/web
+GITHUB_BRANCH=main
+GITHUB_TOKEN=github-token-con-permiso-de-escritura
+```
+
+En produccion, `ADMIN_PASSWORD`, `GITHUB_REPO` y `GITHUB_BRANCH` se configuran en Vercel. `GITHUB_TOKEN` tambien tiene que cargarse en Vercel para que el admin pueda guardar cambios en el repo.
 
 ## Estructura
 
@@ -48,14 +58,13 @@ src/
 next.config.js      → permite imágenes de framerusercontent.com
 ```
 
-## Actualizar imágenes
+## Actualizar imagenes
 
-Las imágenes están en `src/app/page.tsx` en el array `portfolioImages`.
-Cada entrada tiene: `src`, `alt`, y `span` (`normal` | `tall` | `wide`).
+Las imagenes estan en `public/images` y los trabajos del carrusel se editan desde `/admin`.
 
-Para reemplazar una imagen:
-1. Subí la imagen a `/public/images/nombre.jpg`
-2. Cambiá el `src` a `/images/nombre.jpg`
+Para reemplazar una imagen manualmente:
+1. Subi la imagen a `/public/images/nombre.jpg`
+2. Cambia el `img` correspondiente en `src/content/site.json`
 3. Deploy
 
 ## Dominio

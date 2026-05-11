@@ -2,34 +2,18 @@
 
 import { useState, useEffect, useRef, useCallback } from 'react'
 import styles from './carousel.module.css'
-
-const SLIDES = [
-  { img: '/images/Messi.png',        client: 'ADIDAS'       },
-  { img: '/images/HP 1.gif',         client: 'HP'           },
-  { img: '/images/Makers-Mark.png',   client: 'MAKERS MARK'  },
-  { img: '/images/BMW.jpg',          client: 'BMW'          },
-  { img: '/images/JustEgg.png',      client: 'JUST EGG'     },
-  { img: '/images/Ritz.png',         client: 'RITZ'         },
-  { img: '/images/Action.png',      client: 'ACTION'     },
-  { img: '/images/Hornitos.png',   client: 'HORNITOS'  },
-  { img: '/images/Gillette.png',     client: 'GILLETTE'     },
-  { img: '/images/Goose Island.png', client: 'GOOSE ISLAND' },
-  { img: '/images/Sentinel.png',      client: 'SENTINEL'     },
-  { img: '/images/HP 2.gif',         client: 'HP'           },
-  { img: '/images/Cenomi.jpg',        client: 'CENOMI'    },
-  { img: '/images/Liquid IV.png',    client: 'LIQUID I.V.'  },
-
-]
+import type { Slide } from '@/lib/admin/contentTypes'
 
 const AUTOPLAY_MS = 3000
 
-export default function Carousel() {
+export default function Carousel({ slides }: { slides: Slide[] }) {
+  const initialClient = slides[0]?.client || ''
   const [current, setCurrent]               = useState(0)
   const [prev, setPrev]                     = useState<number | null>(null)
   const [animating, setAnimating]           = useState(false)
-  const [clientLabel, setClientLabel]       = useState(SLIDES[0].client)
+  const [clientLabel, setClientLabel]       = useState(initialClient)
   const [labelVisible, setLabelVisible]     = useState(false)
-  const [clientBg, setClientBg]             = useState(SLIDES[0].client)
+  const [clientBg, setClientBg]             = useState(initialClient)
   const [clientBgShow, setClientBgShow]     = useState(true)
   const [paused, setPaused]                 = useState(false)
   const [progressKey, setProgressKey]       = useState(0)
@@ -37,11 +21,13 @@ export default function Carousel() {
 
   // Initial label reveal
   useEffect(() => {
+    if (slides.length === 0) return
     const t = setTimeout(() => setLabelVisible(true), 600)
     return () => clearTimeout(t)
-  }, [])
+  }, [slides.length])
 
   const goTo = useCallback((idx: number) => {
+    if (!slides[idx]) return
     if (animating || idx === current) return
     setAnimating(true)
     setPrev(current)
@@ -49,14 +35,14 @@ export default function Carousel() {
     // bg text flicker out/in
     setClientBgShow(false)
     setTimeout(() => {
-      setClientBg(SLIDES[idx].client)
+      setClientBg(slides[idx].client)
       setClientBgShow(true)
     }, 200)
 
     // label slide
     setLabelVisible(false)
     setTimeout(() => {
-      setClientLabel(SLIDES[idx].client)
+      setClientLabel(slides[idx].client)
       setLabelVisible(true)
     }, 350)
 
@@ -67,17 +53,23 @@ export default function Carousel() {
       setProgressKey(k => k + 1)
       setAnimating(false)
     }, 700)
-  }, [animating, current])
+  }, [animating, current, slides])
 
-  const nextSlide = useCallback(() => goTo((current + 1) % SLIDES.length), [current, goTo])
-  const prevSlide = useCallback(() => goTo((current - 1 + SLIDES.length) % SLIDES.length), [current, goTo])
+  const nextSlide = useCallback(() => {
+    if (slides.length === 0) return
+    goTo((current + 1) % slides.length)
+  }, [current, goTo, slides.length])
+  const prevSlide = useCallback(() => {
+    if (slides.length === 0) return
+    goTo((current - 1 + slides.length) % slides.length)
+  }, [current, goTo, slides.length])
 
   // Autoplay
   useEffect(() => {
-    if (paused) return
+    if (paused || slides.length === 0) return
     const t = setTimeout(nextSlide, AUTOPLAY_MS)
     return () => clearTimeout(t)
-  }, [current, paused, nextSlide])
+  }, [current, paused, nextSlide, slides.length])
 
   // Keyboard
   useEffect(() => {
@@ -101,6 +93,10 @@ export default function Carousel() {
     dragStart.current = null
   }
 
+  if (slides.length === 0) {
+    return null
+  }
+
   return (
     <section
       className={styles.section}
@@ -111,7 +107,7 @@ export default function Carousel() {
         <span className={styles.sectionLabel}>Selected Work</span>
         <span className={styles.counter}>
           <span className={styles.counterCurrent}>{String(current + 1).padStart(2, '0')}</span>
-          {' / '}{String(SLIDES.length).padStart(2, '0')}
+          {' / '}{String(slides.length).padStart(2, '0')}
         </span>
       </div>
 
@@ -131,7 +127,7 @@ export default function Carousel() {
 
       {/* Images — crossfade */}
       <div className={styles.imgArea}>
-        {SLIDES.map((slide, i) => {
+        {slides.map((slide, i) => {
           const isActive = i === current
           const isLeaving = i === prev
           return (
@@ -159,7 +155,7 @@ export default function Carousel() {
 
       <div className={styles.bottomBar}>
         <div className={styles.dots}>
-          {SLIDES.map((_, i) => (
+          {slides.map((_, i) => (
             <button
               key={i}
               className={`${styles.dot} ${i === current ? styles.dotActive : ''}`}
