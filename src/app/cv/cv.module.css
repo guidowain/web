@@ -90,18 +90,18 @@
   min-height: 520px;
   border-bottom: 1px solid var(--border);
   position: relative;
-  overflow: hidden;
 }
 
 .hero::after {
   content: "";
   position: absolute;
-  right: -180px;
-  top: 20px;
-  width: 520px;
-  height: 520px;
-  background: radial-gradient(circle, rgba(61, 255, 192, 0.18), transparent 66%);
-  filter: blur(42px);
+  right: clamp(40px, 8vw, 130px);
+  top: 50%;
+  width: clamp(420px, 44vw, 680px);
+  height: clamp(420px, 44vw, 680px);
+  background: radial-gradient(circle, rgba(61, 255, 192, 0.14) 0%, rgba(61, 255, 192, 0.08) 34%, transparent 68%);
+  filter: blur(46px);
+  transform: translateY(-50%);
   pointer-events: none;
 }
 
@@ -227,13 +227,6 @@
   gap: 20px 36px;
   padding: 30px 0;
   border-bottom: 1px solid var(--border);
-  transition: background 0.18s ease, padding 0.18s ease;
-}
-
-.entry:hover {
-  background: rgba(61, 255, 192, 0.045);
-  padding-left: 14px;
-  padding-right: 14px;
 }
 
 .entryRole,
