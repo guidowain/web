@@ -1,0 +1,417 @@
+/*
+  Tokens del microsite cumple35.
+  Para cambiar el estilo completo, editá solo las variables de .main.
+*/
+
+.main {
+  --c-bg:           #0d0a07;
+  --c-bg-warm:      #130f08;
+  --c-gold:         #c9a227;
+  --c-gold-light:   #f0c840;
+  --c-cream:        #f5ead0;
+  --c-cream-muted:  rgba(245, 234, 208, 0.55);
+  --c-border:       rgba(180, 130, 30, 0.22);
+
+  min-height: 100vh;
+  background: var(--c-bg);
+  color: var(--c-cream);
+  font-family: 'Nunito', sans-serif;
+}
+
+/* ─── HERO SLIDESHOW ──────────────────────────────────── */
+
+.hero {
+  position: relative;
+  height: 100svh;
+  min-height: 500px;
+  overflow: hidden;
+  background: #0d0a07;
+}
+
+.slide {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  transition: opacity 1.4s ease;
+}
+
+.slideActive {
+  opacity: 1;
+}
+
+/* Ken Burns on active slide image */
+.slideActive > * {
+  animation: kenBurns 9s ease-out forwards;
+}
+
+@keyframes kenBurns {
+  from { transform: scale(1)    translate(0, 0); }
+  to   { transform: scale(1.09) translate(-1.5%, -1%); }
+}
+
+/* Placeholder when no photo is loaded */
+.slidePlaceholder {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #1c1509 0%, #0f0d08 50%, #1a1005 100%);
+  border: 1px dashed rgba(180, 130, 30, 0.18);
+}
+
+.slidePlaceholder span {
+  font-family: var(--font-playfair), serif;
+  font-size: 12px;
+  letter-spacing: 0.35em;
+  color: rgba(180, 130, 30, 0.28);
+  text-transform: uppercase;
+}
+
+/* Gradient overlay: transparent top → opaque bottom */
+.heroOverlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to bottom,
+    rgba(13, 10, 7, 0.15) 0%,
+    rgba(13, 10, 7, 0)    25%,
+    rgba(13, 10, 7, 0)    50%,
+    rgba(13, 10, 7, 0.65) 78%,
+    rgba(13, 10, 7, 1)    100%
+  );
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  padding-bottom: 72px;
+  text-align: center;
+  gap: 6px;
+}
+
+.heroSubtitle {
+  font-family: var(--font-dancing), cursive;
+  font-size: clamp(18px, 4.5vw, 26px);
+  color: rgba(200, 160, 40, 0.82);
+}
+
+.heroTitle {
+  font-family: var(--font-playfair), serif;
+  font-size: clamp(100px, 26vw, 190px);
+  font-weight: 900;
+  line-height: 0.82;
+  color: transparent;
+  background: linear-gradient(135deg, #c9a227 0%, #f0c840 38%, #a07818 66%, #e0b020 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  letter-spacing: -4px;
+}
+
+.heroName {
+  font-family: var(--font-playfair), serif;
+  font-size: clamp(13px, 2.8vw, 18px);
+  letter-spacing: 0.42em;
+  color: rgba(245, 234, 208, 0.6);
+  text-transform: uppercase;
+}
+
+/* Slide indicator dots */
+.heroDots {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 8px;
+}
+
+.dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: rgba(200, 160, 40, 0.3);
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  transition: background 0.3s, transform 0.3s;
+}
+
+.dotActive {
+  background: rgba(200, 160, 40, 0.88);
+  transform: scale(1.35);
+}
+
+/* ─── WELCOME (texto rosa cringe) ─────────────────────── */
+
+.welcome {
+  background: var(--c-bg-warm);
+  padding: 88px 24px;
+  border-top: 1px solid var(--c-border);
+  border-bottom: 1px solid var(--c-border);
+}
+
+.welcomeInner {
+  max-width: 620px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+/* Placeholder dashed box visible mientras no hay texto */
+.welcomePlaceholder {
+  font-family: var(--font-dancing), cursive;
+  font-size: clamp(20px, 5vw, 30px);
+  color: rgba(200, 160, 40, 0.4);
+  font-style: italic;
+  border: 2px dashed rgba(180, 130, 30, 0.28);
+  padding: 48px 28px;
+  line-height: 1.7;
+  letter-spacing: 0.02em;
+}
+
+/* ─── RSVP ────────────────────────────────────────────── */
+
+.rsvp {
+  background: var(--c-bg);
+  padding: 88px 24px;
+}
+
+.rsvpInner {
+  max-width: 520px;
+  margin: 0 auto;
+}
+
+.sectionTitle {
+  font-family: var(--font-playfair), serif;
+  font-size: clamp(38px, 9vw, 58px);
+  font-weight: 900;
+  font-style: italic;
+  color: var(--c-cream);
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+.sectionSubtitle {
+  font-size: 11px;
+  letter-spacing: 0.25em;
+  color: var(--c-cream-muted);
+  text-align: center;
+  margin-bottom: 52px;
+  text-transform: lowercase;
+}
+
+/* Form layout */
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.fieldLabel {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.fieldLabel > span {
+  font-size: 10px;
+  letter-spacing: 0.28em;
+  text-transform: lowercase;
+  color: rgba(200, 160, 40, 0.68);
+}
+
+.fieldLabel > span em {
+  font-style: italic;
+  opacity: 0.7;
+  letter-spacing: 0;
+}
+
+/* Text / number inputs */
+.input {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid var(--c-border);
+  color: var(--c-cream);
+  padding: 13px 16px;
+  font-size: 15px;
+  font-family: 'Nunito', sans-serif;
+  outline: none;
+  transition: border-color 0.2s, box-shadow 0.2s;
+  -webkit-appearance: none;
+  appearance: none;
+  border-radius: 0;
+  width: 100%;
+}
+
+.input:focus {
+  border-color: rgba(200, 160, 40, 0.55);
+  box-shadow: 0 0 0 2px rgba(200, 160, 40, 0.07);
+}
+
+.inputNarrow {
+  width: 96px;
+}
+
+/* Option button groups */
+.options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.option {
+  background: transparent;
+  border: 1px solid var(--c-border);
+  color: var(--c-cream-muted);
+  padding: 9px 16px;
+  font-size: 14px;
+  font-family: 'Nunito', sans-serif;
+  cursor: pointer;
+  transition: border-color 0.2s, color 0.2s, background 0.2s;
+  border-radius: 0;
+}
+
+.option:hover {
+  border-color: rgba(200, 160, 40, 0.45);
+  color: var(--c-cream);
+}
+
+.optionActive {
+  background: rgba(200, 160, 40, 0.13);
+  border-color: rgba(200, 160, 40, 0.65);
+  color: var(--c-gold-light);
+}
+
+/* Submit button */
+.submit {
+  background: linear-gradient(135deg, #c9a227 0%, #a07818 100%);
+  border: none;
+  color: #0d0a07;
+  padding: 17px 32px;
+  font-size: 12px;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 800;
+  letter-spacing: 0.22em;
+  text-transform: lowercase;
+  cursor: pointer;
+  transition: opacity 0.2s, transform 0.15s;
+  margin-top: 8px;
+  border-radius: 0;
+  width: 100%;
+}
+
+.submit:hover:not(:disabled) {
+  opacity: 0.88;
+  transform: translateY(-1px);
+}
+
+.submit:disabled {
+  opacity: 0.32;
+  cursor: not-allowed;
+}
+
+/* Thank-you message after submit */
+.thanks {
+  font-family: var(--font-dancing), cursive;
+  font-size: clamp(28px, 7vw, 44px);
+  color: var(--c-gold-light);
+  text-align: center;
+  padding: 48px 0;
+  line-height: 1.4;
+}
+
+/* ─── EVENT INFO ──────────────────────────────────────── */
+
+.eventInfo {
+  background: var(--c-bg-warm);
+  padding: 88px 24px;
+  border-top: 1px solid var(--c-border);
+}
+
+.eventInner {
+  max-width: 520px;
+  margin: 0 auto;
+}
+
+.eventDetails {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin: 48px 0 40px;
+}
+
+.eventRow {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  padding: 16px 20px;
+  border: 1px solid var(--c-border);
+  background: rgba(0, 0, 0, 0.22);
+}
+
+.eventIcon {
+  font-size: 20px;
+  line-height: 1.5;
+  flex-shrink: 0;
+}
+
+.eventValue {
+  font-family: var(--font-playfair), serif;
+  font-size: clamp(16px, 4vw, 22px);
+  color: var(--c-cream);
+  line-height: 1.4;
+  padding-top: 2px;
+}
+
+/* Google Maps embed */
+.mapContainer {
+  margin: 32px 0;
+  border: 1px solid var(--c-border);
+  overflow: hidden;
+}
+
+/* Calendar buttons */
+.calButtons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 8px;
+}
+
+.calBtn {
+  flex: 1;
+  min-width: 140px;
+  background: transparent;
+  border: 1px solid var(--c-border);
+  color: rgba(200, 160, 40, 0.75);
+  padding: 13px 20px;
+  font-size: 11px;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: lowercase;
+  cursor: pointer;
+  text-align: center;
+  transition: background 0.2s, border-color 0.2s, color 0.2s;
+  text-decoration: none;
+  border-radius: 0;
+  display: inline-block;
+}
+
+.calBtn:hover {
+  background: rgba(200, 160, 40, 0.08);
+  border-color: rgba(200, 160, 40, 0.48);
+  color: var(--c-gold-light);
+}
+
+/* ─── Mobile ──────────────────────────────────────────── */
+@media (max-width: 480px) {
+  .welcome,
+  .rsvp,
+  .eventInfo {
+    padding-top: 64px;
+    padding-bottom: 64px;
+  }
+
+  .heroTitle {
+    letter-spacing: -2px;
+  }
+}
