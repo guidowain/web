@@ -34,6 +34,11 @@ export default function CumplePage() {
 
   return (
     <main className={styles.main}>
+      <div className={styles.marquee}>
+        <span className={styles.marqueeInner}>
+          🎂 CUMPLE DE GUIDO &nbsp;★&nbsp; 35 AÑOS &nbsp;★&nbsp; VIERNES 5 DE JUNIO &nbsp;★&nbsp; 🍩 NO FALTÉS 🍩 &nbsp;★&nbsp; CUMPLE DE GUIDO &nbsp;★&nbsp; 35 AÑOS &nbsp;★&nbsp; VIERNES 5 DE JUNIO &nbsp;★&nbsp; 🎉 TE ESPERAMOS 🎉 &nbsp;★&nbsp;
+        </span>
+      </div>
       <Slideshow />
 
       <section className={styles.welcome}>

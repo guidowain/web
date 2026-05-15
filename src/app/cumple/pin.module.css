@@ -1,8 +1,81 @@
-/* ─── Full-screen overlay ─────────────────────────────── */
+/* ═══════════════════════════════════════════════════════
+   PIN SCREEN — FULL HOMERO MODE 🍩
+   ═══════════════════════════════════════════════════════ */
+
+/* ─── Animations ──────────────────────────────────────── */
+
+@keyframes rainbowText {
+  0%   { color: #ff0000; }
+  14%  { color: #ff6600; }
+  28%  { color: #ffcc00; }
+  42%  { color: #00bb00; }
+  57%  { color: #0066ff; }
+  71%  { color: #9900ff; }
+  85%  { color: #ff0099; }
+  100% { color: #ff0000; }
+}
+
+@keyframes blink {
+  0%, 49%   { opacity: 1; }
+  50%, 100% { opacity: 0; }
+}
+
+@keyframes bounce {
+  0%, 100% { transform: translateY(0)     rotate(0deg); }
+  25%       { transform: translateY(-18px) rotate(-5deg); }
+  75%       { transform: translateY(-10px) rotate(4deg); }
+}
+
+@keyframes spinSlow {
+  from { transform: rotate(0deg); }
+  to   { transform: rotate(360deg); }
+}
+
+@keyframes floatUpDown {
+  0%, 100% { transform: translateY(0)    scale(1); }
+  50%       { transform: translateY(-15px) scale(1.1); }
+}
+
+@keyframes wiggle {
+  0%, 100% { transform: rotate(-8deg); }
+  50%       { transform: rotate(8deg); }
+}
+
+@keyframes spinBorder {
+  from { transform: rotate(0deg); }
+  to   { transform: rotate(360deg); }
+}
+
+@keyframes shake {
+  0%, 100% { transform: translateX(0)    rotate(0deg); }
+  20%       { transform: translateX(-10px) rotate(-2deg); }
+  40%       { transform: translateX(10px)  rotate(2deg); }
+  60%       { transform: translateX(-8px)  rotate(-1deg); }
+  80%       { transform: translateX(8px)   rotate(1deg); }
+}
+
+@keyframes pulse {
+  0%, 100% { transform: scale(1); }
+  50%       { transform: scale(1.04); }
+}
+
+@keyframes rainbowBg {
+  0%   { background-position: 0% 50%; }
+  100% { background-position: 200% 50%; }
+}
+
+/* ─── Background ──────────────────────────────────────── */
+
 .overlay {
   position: fixed;
   inset: 0;
-  background: #0d0a07;
+  background-color: #ffff00;
+  background-image:
+    radial-gradient(circle, #ff69b4 1.5px, transparent 1.5px),
+    radial-gradient(circle, #00ccff 1.5px, transparent 1.5px),
+    radial-gradient(circle, #ff6600 1.5px, transparent 1.5px);
+  background-size: 38px 38px, 68px 68px, 53px 53px;
+  background-position: 0 0, 19px 19px, 9px 33px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -10,178 +83,149 @@
   z-index: 100;
 }
 
-/* Radial warm glow */
-.overlay::before {
-  content: '';
-  position: absolute;
-  inset: 0;
-  background: radial-gradient(ellipse 65% 55% at 50% 50%, rgba(160, 100, 20, 0.28) 0%, transparent 70%);
-  pointer-events: none;
-}
+/* ─── Floating emojis (donuts etc.) ──────────────────── */
 
-/* Subtle noise texture */
-.overlay::after {
-  content: '';
+.floatingEmoji {
   position: absolute;
-  inset: 0;
-  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.05'/%3E%3C/svg%3E");
-  opacity: 0.35;
-  pointer-events: none;
-}
-
-/* ─── Floating Roman numerals ─────────────────────────── */
-.floatingRoman {
-  position: absolute;
-  font-family: var(--font-playfair), 'Playfair Display', serif;
-  color: rgba(180, 130, 30, 0.07);
+  font-size: clamp(26px, 5vw, 46px);
   pointer-events: none;
   user-select: none;
+  z-index: 0;
   line-height: 1;
-  z-index: 0;
 }
 
-.r1 { font-size: clamp(80px, 14vw, 160px); top: 3%;  left: -2%; font-weight: 900; }
-.r2 { font-size: clamp(60px, 9vw, 120px);  top: 18%; right: 2%; font-weight: 400; font-style: italic; }
-.r3 { font-size: clamp(50px, 8vw, 100px);  bottom: 8%;  left: 4%;  font-weight: 700; }
-.r4 { font-size: clamp(40px, 6vw, 80px);   bottom: 22%; right: 6%; font-weight: 900; }
-.r5 { font-size: clamp(60px, 11vw, 130px); top: 52%; left: 28%; font-weight: 900; opacity: 0.6; }
+.e0  { top: 5%;  left: 3%;   animation: bounce      2.1s ease-in-out infinite; }
+.e1  { top: 8%;  right: 5%;  animation: floatUpDown 1.8s ease-in-out infinite; }
+.e2  { top: 22%; left: 88%;  animation: wiggle      1.5s ease-in-out infinite; }
+.e3  { top: 38%; left: 2%;   animation: bounce      2.4s ease-in-out infinite 0.3s; }
+.e4  { top: 55%; right: 3%;  animation: floatUpDown 2s   ease-in-out infinite 0.5s; }
+.e5  { top: 70%; left: 7%;   animation: wiggle      1.7s ease-in-out infinite 0.2s; }
+.e6  { top: 82%; right: 8%;  animation: bounce      1.9s ease-in-out infinite 0.7s; }
+.e7  { top: 90%; left: 40%;  animation: floatUpDown 2.2s ease-in-out infinite 0.4s; }
+.e8  { top: 15%; left: 45%;  animation: wiggle      2s   ease-in-out infinite 0.1s; }
+.e9  { top: 46%; left: 48%;  animation: spinSlow    6s   linear    infinite;        font-size: clamp(50px, 10vw, 90px); opacity: 0.12; }
+.e10 { top: 3%;  left: 60%;  animation: floatUpDown 2.3s ease-in-out infinite 0.9s; }
+.e11 { top: 65%; left: 75%;  animation: wiggle      1.4s ease-in-out infinite 0.3s; }
 
-/* ─── Sparkles ────────────────────────────────────────── */
-.sparkle {
+/* ─── Spinning rainbow border wrapper ────────────────── */
+
+.frameWrapper {
+  position: relative;
+  z-index: 1;
+  max-width: 440px;
+  width: calc(100% - 40px);
+  padding: 5px;
+  animation: pulse 2s ease-in-out infinite;
+}
+
+/* spinning conic gradient = spinning rainbow border */
+.frameWrapper::before {
+  content: '';
   position: absolute;
-  color: rgba(200, 160, 40, 0.55);
-  pointer-events: none;
-  font-size: 11px;
-  z-index: 0;
-  animation: twinkle 3s ease-in-out infinite;
+  inset: -4px;
+  background: conic-gradient(
+    #ff0000, #ff6600, #ffff00,
+    #00cc00, #0066ff, #9900ff,
+    #ff0099, #ff0000
+  );
+  animation: spinBorder 1.2s linear infinite;
+  z-index: -1;
+  border-radius: 6px;
 }
 
-@keyframes twinkle {
-  0%, 100% { opacity: 0.25; transform: scale(1) rotate(0deg); }
-  50%       { opacity: 1;    transform: scale(1.5) rotate(20deg); }
+/* white gap between spinning border and frame */
+.frameWrapper::after {
+  content: '';
+  position: absolute;
+  inset: 4px;
+  background: white;
+  z-index: -1;
+  border-radius: 3px;
 }
 
 /* ─── Frame ───────────────────────────────────────────── */
+
 .frame {
   position: relative;
-  z-index: 1;
-  background: linear-gradient(155deg, #1c1409 0%, #130f07 50%, #0f0c04 100%);
-  max-width: 420px;
-  width: calc(100% - 48px);
-  /* Double border effect via box-shadow */
-  box-shadow:
-    0 0 0 1px rgba(180, 130, 30, 0.45),
-    0 0 0 4px rgba(13, 10, 7, 0.9),
-    0 0 0 5px rgba(180, 130, 30, 0.2),
-    0 0 50px rgba(160, 100, 20, 0.25),
-    0 0 100px rgba(120, 70, 10, 0.12),
-    inset 0 0 40px rgba(0, 0, 0, 0.6);
+  background: white;
+  border-radius: 2px;
+  overflow: hidden;
+  border: 4px solid #000;
+  box-shadow: 6px 6px 0 #000;
 }
 
-/* Animated glow pulse on outer border */
-.frame::before {
-  content: '';
-  position: absolute;
-  inset: -3px;
-  border: 1px solid rgba(200, 160, 40, 0.12);
-  animation: glowPulse 4s ease-in-out infinite;
-  pointer-events: none;
+.frame.shake {
+  animation: shake 0.5s cubic-bezier(0.36, 0.07, 0.19, 0.97);
 }
 
-/* Inner decorative border */
-.frame::after {
-  content: '';
-  position: absolute;
-  inset: 10px;
-  border: 1px solid rgba(180, 130, 30, 0.15);
-  pointer-events: none;
-}
+/* ─── Inner content ───────────────────────────────────── */
 
-@keyframes glowPulse {
-  0%, 100% { opacity: 0.2; box-shadow: none; }
-  50%       { opacity: 1;   box-shadow: 0 0 20px rgba(200, 160, 40, 0.15); }
-}
-
-/* ─── Corner ornaments ────────────────────────────────── */
-.corner {
-  position: absolute;
-  width: 22px;
-  height: 22px;
-  border-color: rgba(200, 160, 40, 0.65);
-  border-style: solid;
-  z-index: 2;
-}
-
-.tl { top: 12px;    left: 12px;  border-width: 2px 0 0 2px; }
-.tr { top: 12px;    right: 12px; border-width: 2px 2px 0 0; }
-.bl { bottom: 12px; left: 12px;  border-width: 0 0 2px 2px; }
-.br { bottom: 12px; right: 12px; border-width: 0 2px 2px 0; }
-
-/* ─── Content ─────────────────────────────────────────── */
 .inner {
-  padding: 44px 36px 40px;
+  padding: 28px 36px 36px;
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 16px;
+  gap: 14px;
   text-align: center;
 }
 
+/* "⭐ ACCESO SECRETO ⭐" blinking */
 .topLabel {
-  font-family: var(--font-playfair), 'Playfair Display', serif;
-  font-size: 9px;
-  letter-spacing: 0.45em;
-  color: rgba(200, 160, 40, 0.65);
+  font-family: var(--font-bangers), 'Bangers', 'Impact', sans-serif;
+  font-size: clamp(18px, 4.5vw, 26px);
+  letter-spacing: 0.12em;
   text-transform: uppercase;
-  font-weight: 700;
+  animation: rainbowText 1.2s linear infinite;
+  text-shadow: 2px 2px 0 #000;
 }
 
-/* ─── Divider ─────────────────────────────────────────── */
+/* Spinning divider emoji */
 .divider {
-  width: 100%;
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  color: rgba(180, 130, 30, 0.45);
-  font-size: 13px;
+  font-size: 22px;
+  display: inline-block;
+  animation: spinSlow 3s linear infinite;
+  line-height: 1;
 }
 
-.divider::before,
-.divider::after {
-  content: '';
-  flex: 1;
-  height: 1px;
-  background: rgba(180, 130, 30, 0.22);
-}
-
-/* ─── Big "35" ────────────────────────────────────────── */
+/* BIG "35" */
 .bigNumber {
-  font-family: var(--font-playfair), 'Playfair Display', serif;
-  font-size: clamp(72px, 20vw, 116px);
-  font-weight: 900;
-  line-height: 0.9;
-  color: transparent;
-  background: linear-gradient(140deg, #d4a820 0%, #f0c840 35%, #b8860b 65%, #e8b820 100%);
-  -webkit-background-clip: text;
-  background-clip: text;
-  letter-spacing: -3px;
+  font-family: var(--font-bangers), 'Bangers', 'Impact', sans-serif;
+  font-size: clamp(88px, 23vw, 136px);
+  line-height: 0.85;
+  letter-spacing: 3px;
+  animation: rainbowText 0.9s linear infinite;
+  text-shadow:
+    5px 5px 0 #000,
+    -2px -2px 0 #000,
+    2px -2px 0 #000,
+    -2px  2px 0 #000;
 }
 
 .years {
-  font-family: var(--font-dancing), 'Dancing Script', cursive;
-  font-size: clamp(20px, 5vw, 28px);
-  color: rgba(240, 200, 100, 0.82);
-  margin-top: -10px;
+  font-family: var(--font-comic), 'Comic Sans MS', cursive;
+  font-size: clamp(16px, 4vw, 22px);
+  font-weight: 700;
+  color: #ff0099;
+  text-shadow: 2px 2px 0 #000;
+  margin-top: -6px;
+  animation: wiggle 1.8s ease-in-out infinite;
+  display: inline-block;
 }
 
 .prompt {
-  font-size: 10px;
-  letter-spacing: 0.22em;
-  color: rgba(200, 175, 120, 0.55);
-  text-transform: lowercase;
+  font-family: var(--font-comic), 'Comic Sans MS', cursive;
+  font-size: clamp(12px, 3vw, 15px);
+  font-weight: 700;
+  color: #000;
+  background: #ffff00;
+  padding: 5px 14px;
+  border: 3px solid #000;
+  box-shadow: 3px 3px 0 #000;
+  display: inline-block;
 }
 
 /* ─── PIN inputs ──────────────────────────────────────── */
+
 .inputs {
   display: flex;
   gap: 10px;
@@ -189,74 +233,65 @@
 }
 
 .digit {
-  width: 52px;
-  height: 64px;
-  background: rgba(0, 0, 0, 0.45);
-  border: 1px solid rgba(180, 130, 30, 0.38);
-  color: #f0c840;
-  font-family: var(--font-playfair), 'Playfair Display', serif;
-  font-size: 28px;
-  font-weight: 700;
+  width: 56px;
+  height: 68px;
+  border: 4px solid #000;
+  color: #000;
+  font-family: var(--font-bangers), 'Bangers', 'Impact', sans-serif;
+  font-size: 34px;
+  letter-spacing: 1px;
   text-align: center;
   outline: none;
-  transition: border-color 0.2s, box-shadow 0.2s;
   -moz-appearance: textfield;
   appearance: textfield;
   border-radius: 0;
+  box-shadow: 4px 4px 0 #000;
+  transition: transform 0.1s;
 }
+
+.digit:nth-child(1) { background: #ff69b4; }
+.digit:nth-child(2) { background: #00ccff; }
+.digit:nth-child(3) { background: #ffff00; }
+.digit:nth-child(4) { background: #7fff00; }
 
 .digit::-webkit-outer-spin-button,
-.digit::-webkit-inner-spin-button {
-  -webkit-appearance: none;
-}
+.digit::-webkit-inner-spin-button { -webkit-appearance: none; }
 
 .digit:focus {
-  border-color: rgba(240, 200, 60, 0.75);
-  box-shadow: 0 0 14px rgba(200, 160, 30, 0.28), inset 0 0 8px rgba(200, 160, 30, 0.05);
+  outline: none;
+  transform: scale(1.12) rotate(-3deg);
+  box-shadow: 6px 6px 0 #ff6600;
 }
 
 .digitError {
-  border-color: rgba(200, 60, 40, 0.65) !important;
-  color: rgba(230, 90, 70, 0.9) !important;
-  box-shadow: 0 0 10px rgba(200, 60, 40, 0.2) !important;
+  background: #ff0000 !important;
+  color: #fff !important;
 }
 
-/* ─── Error message ───────────────────────────────────── */
+/* ─── Error ───────────────────────────────────────────── */
+
 .errorMsg {
-  font-size: 10px;
-  letter-spacing: 0.25em;
-  color: rgba(220, 80, 60, 0.78);
-  text-transform: lowercase;
+  font-family: var(--font-comic), 'Comic Sans MS', cursive;
+  font-size: 15px;
+  font-weight: 700;
+  color: #ff0000;
+  text-shadow: 1px 1px 0 #000;
+  animation: blink 0.5s step-end infinite;
 }
 
-/* ─── Bottom ornament ─────────────────────────────────── */
+/* ─── Bottom ──────────────────────────────────────────── */
+
 .bottomOrnament {
-  font-size: 11px;
-  color: rgba(180, 130, 30, 0.3);
-  letter-spacing: 0.08em;
-  margin-top: 4px;
+  font-size: 22px;
+  letter-spacing: 6px;
+  animation: rainbowText 0.8s linear infinite;
+  display: inline-block;
 }
 
-/* ─── Shake animation ─────────────────────────────────── */
-.shake {
-  animation: shake 0.55s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
-}
+/* ─── Mobile ──────────────────────────────────────────── */
 
-@keyframes shake {
-  0%, 100% { transform: translateX(0); }
-  15%, 55%, 85% { transform: translateX(-7px); }
-  35%, 70% { transform: translateX(7px); }
-}
-
-/* ─── Mobile tweaks ───────────────────────────────────── */
 @media (max-width: 400px) {
-  .inner {
-    padding: 36px 24px 32px;
-  }
-
-  .digit {
-    width: 44px;
-    height: 56px;
-    font-size: 24px;
-  }
+  .inner { padding: 20px 18px 24px; }
+  .digit { width: 46px; height: 58px; font-size: 26px; }
+  .floatingEmoji { font-size: 20px; }
 }

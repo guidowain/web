@@ -7,6 +7,23 @@ interface Props {
   onUnlock: (pin: string) => boolean
 }
 
+const EMOJIS = ['🍩', '🎉', '⭐', '🎈', '🎂', '🌈', '🤪', '🍕', '🎊', '🦄', '💥', '🔥']
+
+const EMOJI_POSITIONS = [
+  { top: '5%',  left: '3%'  },
+  { top: '8%',  right: '5%' },
+  { top: '22%', left: '88%' },
+  { top: '38%', left: '2%'  },
+  { top: '55%', right: '3%' },
+  { top: '70%', left: '7%'  },
+  { top: '82%', right: '8%' },
+  { top: '90%', left: '40%' },
+  { top: '15%', left: '45%' },
+  { top: '46%', left: '48%' },
+  { top: '3%',  left: '60%' },
+  { top: '65%', left: '75%' },
+]
+
 export default function PinGate({ onUnlock }: Props) {
   const [digits, setDigits] = useState(['', '', '', ''])
   const [error, setError] = useState(false)
@@ -49,81 +66,56 @@ export default function PinGate({ onUnlock }: Props) {
     }
   }
 
-  const SPARKLE_POSITIONS = [
-    { top: '8%',  left: '15%',  delay: '0s' },
-    { top: '12%', left: '70%',  delay: '0.3s' },
-    { top: '22%', left: '88%',  delay: '0.6s' },
-    { top: '35%', left: '5%',   delay: '0.9s' },
-    { top: '60%', left: '92%',  delay: '1.2s' },
-    { top: '75%', left: '20%',  delay: '1.5s' },
-    { top: '85%', left: '78%',  delay: '1.8s' },
-    { top: '90%', left: '42%',  delay: '2.1s' },
-    { top: '15%', left: '42%',  delay: '2.4s' },
-    { top: '50%', left: '2%',   delay: '2.7s' },
-    { top: '45%', left: '97%',  delay: '0.15s' },
-    { top: '70%', left: '55%',  delay: '0.45s' },
-  ]
-
   return (
     <div className={styles.overlay}>
-      {/* Floating Roman numerals */}
-      <span className={`${styles.floatingRoman} ${styles.r1}`}>XXXV</span>
-      <span className={`${styles.floatingRoman} ${styles.r2}`}>I</span>
-      <span className={`${styles.floatingRoman} ${styles.r3}`}>XIX</span>
-      <span className={`${styles.floatingRoman} ${styles.r4}`}>XCI</span>
-      <span className={`${styles.floatingRoman} ${styles.r5}`}>MMI</span>
-
-      {/* Sparkles */}
-      {SPARKLE_POSITIONS.map((pos, i) => (
+      {/* Floating emojis */}
+      {EMOJI_POSITIONS.map((pos, i) => (
         <span
           key={i}
-          className={styles.sparkle}
-          style={{ top: pos.top, left: pos.left, animationDelay: pos.delay }}
+          className={`${styles.floatingEmoji} ${styles[`e${i}`]}`}
+          style={pos}
         >
-          ✦
+          {EMOJIS[i]}
         </span>
       ))}
 
-      {/* Main frame */}
-      <div className={`${styles.frame} ${shaking ? styles.shake : ''}`}>
-        <span className={`${styles.corner} ${styles.tl}`} />
-        <span className={`${styles.corner} ${styles.tr}`} />
-        <span className={`${styles.corner} ${styles.bl}`} />
-        <span className={`${styles.corner} ${styles.br}`} />
+      {/* Spinning rainbow border wrapper */}
+      <div className={styles.frameWrapper}>
+        <div className={`${styles.frame} ${shaking ? styles.shake : ''}`}>
+          <div className={styles.inner}>
+            <p className={styles.topLabel}>⭐ ACCESO SECRETO ⭐</p>
 
-        <div className={styles.inner}>
-          <p className={styles.topLabel}>ACCESO PRIVADO</p>
+            <span className={styles.divider}>🍩</span>
 
-          <div className={styles.divider}><span>✦</span></div>
+            <p className={styles.bigNumber}>35</p>
+            <p className={styles.years}>años de Guido!!</p>
 
-          <p className={styles.bigNumber}>35</p>
-          <p className={styles.years}>años de Guido</p>
+            <span className={styles.divider}>🎂</span>
 
-          <div className={styles.divider}><span>—</span></div>
+            <p className={styles.prompt}>🔐 ingresá el código de invitación 🔐</p>
 
-          <p className={styles.prompt}>ingresá el código de invitación</p>
+            <div className={styles.inputs}>
+              {digits.map((d, i) => (
+                <input
+                  key={i}
+                  ref={refs[i]}
+                  className={`${styles.digit} ${error ? styles.digitError : ''}`}
+                  type="tel"
+                  inputMode="numeric"
+                  maxLength={1}
+                  value={d}
+                  onChange={e => handleDigit(i, e.target.value)}
+                  onKeyDown={e => handleKeyDown(i, e)}
+                  autoFocus={i === 0}
+                  aria-label={`Dígito ${i + 1} del PIN`}
+                />
+              ))}
+            </div>
 
-          <div className={styles.inputs}>
-            {digits.map((d, i) => (
-              <input
-                key={i}
-                ref={refs[i]}
-                className={`${styles.digit} ${error ? styles.digitError : ''}`}
-                type="tel"
-                inputMode="numeric"
-                maxLength={1}
-                value={d}
-                onChange={e => handleDigit(i, e.target.value)}
-                onKeyDown={e => handleKeyDown(i, e)}
-                autoFocus={i === 0}
-                aria-label={`Dígito ${i + 1} del PIN`}
-              />
-            ))}
+            {error && <p className={styles.errorMsg}>❌ código incorrecto ❌</p>}
+
+            <p className={styles.bottomOrnament}>🌈 ⭐ 🌈 ⭐ 🌈</p>
           </div>
-
-          {error && <p className={styles.errorMsg}>código incorrecto</p>}
-
-          <p className={styles.bottomOrnament}>⊱ ─────────── ⊰</p>
         </div>
       </div>
     </div>
