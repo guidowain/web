@@ -4,22 +4,14 @@ import { useState, useEffect } from 'react'
 import Image from 'next/image'
 import styles from './cumple.module.css'
 
-// TODO: reemplazar con las rutas reales cuando tengas las fotos
-// Agregá cada foto en public/images/cumple/ y listá los paths acá (hasta 12)
-const PHOTOS: string[] = [
-  // '/images/cumple/foto1.jpg',
-  // '/images/cumple/foto2.jpg',
-  // '/images/cumple/foto3.jpg',
-  // '/images/cumple/foto4.jpg',
-  // '/images/cumple/foto5.jpg',
-  // '/images/cumple/foto6.jpg',
-  // '/images/cumple/foto7.jpg',
-  // '/images/cumple/foto8.jpg',
-  // '/images/cumple/foto9.jpg',
-  // '/images/cumple/foto10.jpg',
-  // '/images/cumple/foto11.jpg',
-  // '/images/cumple/foto12.jpg',
-]
+// Poné las fotos en public/images/cumple/ con el nombre 1.png, 2.png, etc.
+// Cuando agregues fotos, cambiá este número:
+const PHOTO_COUNT = 0 // <-- poner la cantidad de fotos que subiste
+
+const PHOTOS: string[] = Array.from(
+  { length: PHOTO_COUNT },
+  (_, i) => `/images/cumple/${i + 1}.png`
+)
 
 const PLACEHOLDER_COUNT = 5
 

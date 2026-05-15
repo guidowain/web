@@ -2,12 +2,11 @@
 
 import styles from './cumple.module.css'
 
-// TODO: completar hora y dirección cuando los tengas
 const EVENT = {
   date: 'Viernes 5 de junio de 2026',
-  time: 'Hora a confirmar',          // TODO: ej. '21:00 hs'
-  address: 'Dirección a confirmar',   // TODO: ej. 'Av. Corrientes 1234, CABA'
-  mapsEmbedUrl: '',                   // TODO: URL embed de Google Maps
+  time: '21:00 hs',
+  address: 'Juan Ramírez de Velasco 623 PB "A" (entre Malabia y Acevedo)',
+  mapsEmbedUrl: '', // TODO: URL embed de Google Maps (opcional)
 }
 
 function downloadIcs() {

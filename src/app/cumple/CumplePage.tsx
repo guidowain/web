@@ -36,7 +36,7 @@ export default function CumplePage() {
     <main className={styles.main}>
       <div className={styles.marquee}>
         <span className={styles.marqueeInner}>
-          🎂 CUMPLE DE GUIDO &nbsp;★&nbsp; 35 AÑOS &nbsp;★&nbsp; VIERNES 5 DE JUNIO &nbsp;★&nbsp; 🍩 NO FALTÉS 🍩 &nbsp;★&nbsp; CUMPLE DE GUIDO &nbsp;★&nbsp; 35 AÑOS &nbsp;★&nbsp; VIERNES 5 DE JUNIO &nbsp;★&nbsp; 🎉 TE ESPERAMOS 🎉 &nbsp;★&nbsp;
+          GUIDO CUMPLE 35 &nbsp;★&nbsp; VIERNES 5 DE JUNIO &nbsp;★&nbsp; EN REALIDAD CUMPLE EL 2 DE JUNIO &nbsp;★&nbsp; GUIDO CUMPLE 35 &nbsp;★&nbsp; VIERNES 5 DE JUNIO &nbsp;★&nbsp; EN REALIDAD CUMPLE EL 2 DE JUNIO &nbsp;★&nbsp;
         </span>
       </div>
       <Slideshow />
