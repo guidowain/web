@@ -6,11 +6,11 @@ import styles from './cumple.module.css'
 
 // Poné las fotos en public/images/cumple/ con el nombre 1.png, 2.png, etc.
 // Cuando agregues fotos, cambiá este número:
-const PHOTO_COUNT = 0 // <-- poner la cantidad de fotos que subiste
+const PHOTO_COUNT = 13
 
 const PHOTOS: string[] = Array.from(
   { length: PHOTO_COUNT },
-  (_, i) => `/images/cumple/${i + 1}.png`
+  (_, i) => `/images/cumple/${i + 1}.webp`
 )
 
 const PLACEHOLDER_COUNT = 5
