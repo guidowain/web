@@ -36,7 +36,7 @@
 }
 
 @keyframes marqueeScroll {
-  from { transform: translateX(100vw); }
+  from { transform: translateX(0); }
   to   { transform: translateX(-100%); }
 }
 
@@ -99,11 +99,14 @@
   white-space: nowrap;
   border-bottom: 4px solid #000;
   animation: rainbowBg 2s linear infinite;
+  display: flex;
 }
 
 .marqueeInner {
   display: inline-block;
-  animation: marqueeScroll 18s linear infinite;
+  flex-shrink: 0;
+  min-width: 100%;
+  animation: marqueeScroll 14s linear infinite;
 }
 
 /* ─── HERO SLIDESHOW ──────────────────────────────────── */

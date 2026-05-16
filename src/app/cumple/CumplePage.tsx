@@ -35,8 +35,12 @@ export default function CumplePage() {
   return (
     <main className={styles.main}>
       <div className={styles.marquee}>
-        <span className={styles.marqueeInner}>
-          GUIDO CUMPLE 35 &nbsp;★&nbsp; VIERNES 5 DE JUNIO &nbsp;★&nbsp; EN REALIDAD CUMPLE EL 2 DE JUNIO &nbsp;★&nbsp; GUIDO CUMPLE 35 &nbsp;★&nbsp; VIERNES 5 DE JUNIO &nbsp;★&nbsp; EN REALIDAD CUMPLE EL 2 DE JUNIO &nbsp;★&nbsp;
+        {/* El texto se repite dos veces para que el loop sea seamless */}
+        <span className={styles.marqueeInner} aria-hidden="true">
+          GUIDO CUMPLE 35 &nbsp;★&nbsp; VIERNES 5 DE JUNIO &nbsp;★&nbsp; EN REALIDAD CUMPLE EL 2 DE JUNIO &nbsp;★&nbsp;
+        </span>
+        <span className={styles.marqueeInner} aria-hidden="true">
+          GUIDO CUMPLE 35 &nbsp;★&nbsp; VIERNES 5 DE JUNIO &nbsp;★&nbsp; EN REALIDAD CUMPLE EL 2 DE JUNIO &nbsp;★&nbsp;
         </span>
       </div>
       <Slideshow />
