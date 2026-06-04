@@ -1,0 +1,551 @@
+{
+  "fecha": "2026-06-04",
+  "generadoEn": "2026-06-04T17:33:02.410Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Las noticias de hoy giran en torno a la IA aplicada en diversas áreas, desde la búsqueda de Google hasta la creación de contenido en Meta y los desafíos de TSMC para satisfacer la demanda. En el ámbito de Apple, se destaca el calendario de 'Friday Night Baseball' y el crecimiento del ecosistema de la App Store. En Argentina, la atención se centra en los pronósticos económicos del BCRA, movimientos en la Aduana y el mercado cambiario, además de las exportaciones agropecuarias. También hay novedades financieras sobre bancarrotas y el mercado cripto.",
+  "radarPersonal": [],
+  "loImportante": [
+    "Meta lanza un asistente de IA para creadores en Facebook.",
+    "TSMC tiene dificultades para satisfacer la demanda de chips de IA.",
+    "El ecosistema de la App Store alcanzó los 1.4 billones de dólares en 2025, impulsado por apps de IA.",
+    "El BCRA publica hoy el REM de mayo con pronósticos económicos clave para Argentina.",
+    "El Gobierno echó a Ricardo Echegaray de la Aduana por una condena judicial."
+  ],
+  "oportunidades": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "titulo": "Google Search potencia las compras de segunda mano con IA",
+      "detalle": "Google Search y Shopping integran herramientas de IA para facilitar la búsqueda y compra de artículos vintage y de segunda mano.",
+      "acciones": [
+        "Explorar las nuevas funciones de búsqueda de Google para compras de segunda mano.",
+        "Evaluar el potencial de estas herramientas para optimizar la búsqueda de ofertas."
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "titulo": "Meta lanza asistente de IA para creadores en Facebook",
+      "detalle": "Los creadores de contenido en Facebook ahora cuentan con un asistente de IA que responde preguntas sobre rendimiento y comentarios, facilitando la gestión de sus perfiles.",
+      "acciones": [
+        "Investigar cómo los creadores pueden aprovechar este nuevo asistente.",
+        "Considerar la integración de herramientas similares en otras plataformas."
+      ]
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "titulo": "El ecosistema de la App Store superó los 1.4 billones de dólares en 2025",
+      "detalle": "El crecimiento del App Store fue liderado por las aplicaciones de IA, alcanzando un valor total de 1.4 billones de dólares en 2025. Apple se queda con el 10% de esa cifra.",
+      "acciones": [
+        "Analizar el impacto de la IA en el crecimiento de la App Store.",
+        "Evaluar las oportunidades de inversión en desarrolladores de apps de IA."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "titulo": "TSMC lucha por satisfacer la demanda de IA",
+      "detalle": "El mayor fabricante de semiconductores del mundo, TSMC, enfrenta dificultades para cumplir con la creciente demanda de chips de inteligencia artificial, incluso con la expansión de sus fábricas en EE. UU.",
+      "acciones": "Monitorear la capacidad de TSMC y sus competidores para escalar la producción de chips de IA."
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "titulo": "Los tribunales se adaptan a la avalancha de demandas generadas por IA",
+      "detalle": "Los sistemas judiciales enfrentan el desafío de procesar un gran volumen de demandas generadas por inteligencia artificial, lo que requiere nuevas estrategias y herramientas para su gestión.",
+      "acciones": "Seguir la evolución de la regulación y el impacto legal de la IA en los procesos judiciales."
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "titulo": "Incertidumbre económica en Argentina",
+      "detalle": "El BCRA publicará hoy el REM de mayo, con las proyecciones de especialistas sobre inflación, dólar y crecimiento económico, reflejando la volatilidad del panorama financiero argentino.",
+      "acciones": "Prestar atención a las proyecciones del REM para evaluar el rumbo económico del país."
+    }
+  ],
+  "conexiones": [],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+      "tituloOriginal": "5 ways Google Search can level up your thrift and vintage shopping",
+      "tituloLimpio": "Google Search potencia las compras de segunda mano con IA",
+      "resumen": "Google Search y Shopping integran herramientas de IA para facilitar la búsqueda y compra de artículos vintage y de segunda mano.",
+      "porQueImporta": "Demuestra la aplicación práctica de la IA en herramientas de consumo cotidiano, mejorando la experiencia del usuario y potencialmente impulsando el comercio electrónico de nicho.",
+      "publicadoEn": "2026-06-03T13:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Thrifting_Header.max-600x600.format-webp.webp",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Google Search",
+        "E-commerce",
+        "Vintage",
+        "Herramientas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/04/apple-tv-friday-night-baseball-july/",
+      "tituloOriginal": "Apple TV and MLB Release July Schedule for 'Friday Night Baseball'",
+      "tituloLimpio": "Apple TV+ anuncia calendario de 'Friday Night Baseball' para julio",
+      "resumen": "Apple y la MLB publicaron el calendario de julio para las transmisiones de 'Friday Night Baseball' en Apple TV+, incluidas con la suscripción.",
+      "porQueImporta": "Muestra la estrategia de Apple de expandir su contenido deportivo exclusivo, buscando atraer y retener suscriptores a Apple TV+.",
+      "publicadoEn": "2026-06-04T16:15:52.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "Apple TV+",
+        "Deportes",
+        "MLB",
+        "Streaming"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "categoria": "Finance",
+      "fuente": "Sherwood",
+      "url": "https://sherwood.news/business/gm-has-reportedly-rehired-more-than-100-former-cruise-employees-18-months-after-shuttering-the-robotaxi-unit/",
+      "tituloOriginal": "GM has reportedly rehired more than 100 former Cruise employees, 18 months after shuttering the robotaxi unit",
+      "tituloLimpio": "GM recontrata a más de 100 ex empleados de Cruise",
+      "resumen": "General Motors ha recontratado a más de 100 empleados de su extinta unidad de robotaxis, Cruise, 18 meses después de su cierre.",
+      "porQueImporta": "Indica un posible replanteamiento o reestructuración de las estrategias de vehículos autónomos de GM, aprendiendo de la experiencia de Cruise.",
+      "publicadoEn": "2026-06-04T17:25:43.000Z",
+      "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/1189070710_05-november-2019-us-san-francisco-a-robot-car-of-the-general-motors-subsidiary-cruise-is-on-a.jpg",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Business",
+        "Automotriz",
+        "GM",
+        "Cruise",
+        "Vehículos Autónomos"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/dolar-inflacion-y-pbi-los-gurues-la-city-daran-conocer-sus-nuevos-pronosticos-economicos-n6285081",
+      "tituloOriginal": "Dólar, inflación y PBI: los gurúes de la city darán a conocer sus nuevos pronósticos económicos",
+      "tituloLimpio": "Argentina: Gurúes económicos publican nuevos pronósticos de dólar, inflación y PBI",
+      "resumen": "El Banco Central de la República Argentina (BCRA) publicará hoy el REM de mayo, con las proyecciones de 45 especialistas sobre inflación, dólar y crecimiento económico.",
+      "porQueImporta": "Ofrece una visión clave sobre las expectativas del mercado financiero argentino, fundamental para entender el contexto económico actual y futuro del país.",
+      "publicadoEn": "2026-06-04T16:33:00.000Z",
+      "imagen": "https://media.ambito.com/p/b03f420bc8ebadeb70af3d8fb043682f/adjuntos/239/imagenes/042/752/0042752969/bcra-banco-central.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Finanzas",
+        "Economía",
+        "BCRA",
+        "Pronósticos"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/sociable-reddit-expands-shopify-integration-access-globally/822011/",
+      "tituloOriginal": "Sociable: Reddit expands Shopify integration access globally",
+      "tituloLimpio": "Reddit expande integración con Shopify a nivel global",
+      "resumen": "Reddit y Shopify amplían su integración para facilitar la conexión de cuentas, el seguimiento de datos y la sincronización de catálogos a nivel mundial.",
+      "porQueImporta": "Mejora las herramientas para los vendedores en Reddit, facilitando la gestión de sus negocios y la conexión con la audiencia de la plataforma.",
+      "publicadoEn": "2026-06-04T17:00:00.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "Reddit",
+        "Shopify",
+        "E-commerce",
+        "Herramientas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
+      "tituloOriginal": "Meta rolls out a new AI creator assistant on Facebook",
+      "tituloLimpio": "Meta lanza asistente de IA para creadores en Facebook",
+      "resumen": "Los creadores de contenido en Facebook ahora cuentan con un asistente de IA que responde preguntas sobre rendimiento y comentarios, facilitando la gestión de sus perfiles.",
+      "porQueImporta": "Representa un avance en la aplicación de IA para potenciar a los creadores de contenido, ofreciendo herramientas para optimizar su trabajo y engagement.",
+      "publicadoEn": "2026-06-04T16:32:48.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Meta",
+        "Facebook",
+        "Marketing",
+        "Productividad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
+      "tituloOriginal": "TSMC struggles to keep up with AI demand: ‘We can only support so much’",
+      "tituloLimpio": "TSMC lucha por satisfacer la demanda de IA",
+      "resumen": "El mayor fabricante de semiconductores del mundo, TSMC, enfrenta dificultades para cumplir con la creciente demanda de chips de inteligencia artificial, incluso con la expansión de sus fábricas en EE. UU.",
+      "porQueImporta": "Subraya la tensión entre la explosiva demanda de IA y la capacidad de producción de hardware, un cuello de botella clave para el avance tecnológico.",
+      "publicadoEn": "2026-06-04T14:15:44.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Tecnología",
+        "Semiconductores",
+        "TSMC",
+        "Negocios"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+      "tituloOriginal": "How courts are coping with a flood of AI-generated lawsuits",
+      "tituloLimpio": "Los tribunales se adaptan a la avalancha de demandas generadas por IA",
+      "resumen": "Los sistemas judiciales enfrentan el desafío de procesar un gran volumen de demandas generadas por inteligencia artificial, lo que requiere nuevas estrategias y herramientas para su gestión.",
+      "porQueImporta": "Evidencia los desafíos legales y regulatorios emergentes de la IA, mostrando cómo las instituciones deben adaptarse a las nuevas realidades tecnológicas.",
+      "publicadoEn": "2026-06-04T10:50:18.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Legal",
+        "Regulación",
+        "Tecnología"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/04/lm-studio-now-lets-you-use-your-iphone-to-talk-to-local-models-on-your-mac/",
+      "tituloOriginal": "LM Studio now lets you use your iPhone to talk to local models on your Mac",
+      "tituloLimpio": "LM Studio permite usar el iPhone para interactuar con modelos de IA locales en Mac",
+      "resumen": "La aplicación Locally de LM Studio se actualiza con 'Link', una función que permite a los usuarios interactuar con modelos de lenguaje grandes (LLMs) ejecutándose en sus Macs desde sus iPhones.",
+      "porQueImporta": "Facilita el acceso y la interacción con modelos de IA locales, democratizando su uso y permitiendo experiencias más integradas entre dispositivos.",
+      "publicadoEn": "2026-06-04T17:21:32.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "AI",
+        "Herramientas",
+        "Productividad",
+        "LM Studio"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/06/04/app-store-ecosystem-surges-to-14-trillion-globally-in-2025-from-a-certain-point-of-view?utm_source=rss",
+      "tituloOriginal": "App Store ecosystem surges to $1.4 trillion globally in 2025, from a certain point of view",
+      "tituloLimpio": "El ecosistema de la App Store superó los 1.4 billones de dólares en 2025",
+      "resumen": "El crecimiento del App Store fue liderado por las aplicaciones de IA, alcanzando un valor total de 1.4 billones de dólares en 2025. Apple se queda con el 10% de esa cifra.",
+      "porQueImporta": "Destaca el enorme valor económico del ecosistema de Apple y el rol protagónico de la IA en su expansión, señalando un área de gran oportunidad.",
+      "publicadoEn": "2026-06-04T15:17:44.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "App Store",
+        "AI",
+        "Finanzas",
+        "Negocios"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/news/coming-soon-whats-next-on-apple-tv-and-apple-arcade-in-june-2026/",
+      "tituloOriginal": "Coming Soon: What’s Next on Apple TV and Apple Arcade in June 2026",
+      "tituloLimpio": "Novedades de Apple TV y Apple Arcade para junio de 2026",
+      "resumen": "Se detallan las nuevas series, películas y juegos que llegarán a Apple TV y Apple Arcade durante junio de 2026.",
+      "porQueImporta": "Información relevante para usuarios de los servicios de entretenimiento de Apple, mostrando la oferta de contenido continuo.",
+      "publicadoEn": "2026-06-03T16:54:05.000Z",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "Apple TV+",
+        "Apple Arcade",
+        "Streaming",
+        "Gaming"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/69-old-furniture-store-chain-170700563.html",
+      "tituloOriginal": "69-year-old furniture store chain files for Chapter 11 bankruptcy",
+      "tituloLimpio": "Cadena de muebles de 69 años se declara en bancarrota (Capítulo 11)",
+      "resumen": "Una reconocida cadena de tiendas de muebles, con 69 años de trayectoria, ha presentado una solicitud de bancarrota bajo el Capítulo 11.",
+      "porQueImporta": "Indica dificultades en el sector minorista tradicional y posibles cambios en el mercado de muebles, afectando a consumidores y competidores.",
+      "publicadoEn": "2026-06-03T17:07:00.000Z",
+      "imagen": "https://media.zenfs.com/en/thestreet_881/c8e37dded9149af6aab0651cde493b80",
+      "globalScore": 86,
+      "personalScore": 100,
+      "tags": [
+        "Finance",
+        "Business",
+        "Bancarrota",
+        "Retail",
+        "Mercado"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-broadcom-avgo-crowdstrike-crwd/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Stock Market Today: Dow Soars 900 Points; Broadcom, CrowdStrike Plunge As This New IPO Shines (Live Coverage)",
+      "tituloLimpio": "Mercado bursátil: Dow Jones sube 900 puntos; Broadcom y CrowdStrike caen",
+      "resumen": "El Dow Jones experimentó un alza significativa, mientras que Broadcom y CrowdStrike sufrieron caídas notables, en contraste con el brillo de una nueva IPO.",
+      "porQueImporta": "Proporciona un panorama del comportamiento del mercado bursátil, con movimientos importantes en acciones tecnológicas clave y el debut de una nueva oferta pública.",
+      "publicadoEn": "2026-06-04T16:59:52.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/e0c97cbfdbfc80f0e4bf333ee4fa7816",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Finance",
+        "Mercado",
+        "Bolsa",
+        "Tecnología",
+        "Inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/04/hyperliquid-pulls-back-from-record-highs-as-arthur-hayes-exits-position-shy-of-usd150-price-target",
+      "tituloOriginal": "Hyperliquid pulls back from record highs as Arthur Hayes exits position shy of $150 price target",
+      "tituloLimpio": "Hyperliquid retrocede desde máximos históricos; Arthur Hayes sale de posición",
+      "resumen": "El trader de criptomonedas Arthur Hayes vendió su posición en Hyperliquid, citando riesgos macroeconómicos y la 'manía de la IA', antes de alcanzar su objetivo de precio.",
+      "porQueImporta": "Refleja la volatilidad del mercado cripto y la influencia de factores externos como la IA y la macroeconomía en las decisiones de inversión de figuras clave.",
+      "publicadoEn": "2026-06-04T15:52:19.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/57b73e12887e950abd2895d9db7f2e84d5c237e4-2048x1365.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Finance",
+        "Cripto",
+        "Hyperliquid",
+        "Arthur Hayes",
+        "Inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Here’s what happened in crypto today",
+      "tituloLimpio": "Resumen de noticias de criptomonedas del día",
+      "resumen": "Un resumen de las últimas noticias sobre tendencias diarias y eventos que impactan el precio de Bitcoin, blockchain, DeFi, Web3 y la regulación cripto.",
+      "porQueImporta": "Ofrece una visión general rápida de los desarrollos más importantes en el espacio de las criptomonedas.",
+      "publicadoEn": "2026-06-04T14:58:17.000Z",
+      "imagen": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0xMTA1ODktd2hhdC1oYXBwZW5lZC1pbi1jcnlwdG8tdG9kYXkuanBn.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Finance",
+        "Cripto",
+        "Bitcoin",
+        "Blockchain",
+        "Regulación"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/rural/exportaciones-carne-cerdo-saltaron-161-huevos-29-primer-cuatrimestre_0_l6T0GmYj8k.html",
+      "tituloOriginal": "Las exportaciones de carne de cerdo saltaron 161% y las de huevos casi un 29% en el primer cuatrimestre",
+      "tituloLimpio": "Exportaciones de carne de cerdo y huevos crecieron significativamente en Argentina",
+      "resumen": "Las exportaciones de carne de cerdo aumentaron un 161% y las de huevos un 29% en el primer cuatrimestre del año en Argentina, mostrando una mejora en el desempeño exterior de estos sectores.",
+      "porQueImporta": "Indica una recuperación y crecimiento en sectores específicos de la agroindustria argentina, con potencial impacto en la balanza comercial.",
+      "publicadoEn": "2026-06-04T16:40:14.000Z",
+      "imagen": "https://www.clarin.com/img/2024/05/16/dyeRBAN9F_1200x630__1.jpg",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Economía",
+        "Exportaciones",
+        "Agro",
+        "Carne de Cerdo",
+        "Huevos"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/gobierno-echo-ricardo-echegaray-ex-titular-afip-kirchnerismo-condena-judicial_0_uo1udsf8Tk.html",
+      "tituloOriginal": "El Gobierno echó de la Aduana a Ricardo Echegaray, el ex titular de la AFIP durante el kirchnerismo, por una condena judicial",
+      "tituloLimpio": "Gobierno argentino echa a Ricardo Echegaray de la Aduana por condena judicial",
+      "resumen": "Ricardo Echegaray, ex titular de la AFIP durante el kirchnerismo, fue exonerado de la Aduana por una condena judicial que lo inhabilita para ejercer cargos públicos.",
+      "porQueImporta": "Movimiento político y judicial relevante en Argentina, relacionado con la gestión de funcionarios pasados y la aplicación de sentencias.",
+      "publicadoEn": "2026-06-04T15:58:24.000Z",
+      "imagen": "https://www.clarin.com/img/2016/04/20/Hk1WDek4e_1200x630.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Política",
+        "Judicial",
+        "Aduana",
+        "AFIP"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/06/04/cuanto-cuesta-viajar-a-kansas-para-ver-el-primer-partido-de-la-seleccion-en-el-mundial-2026/",
+      "tituloOriginal": "Cuánto cuesta viajar a Kansas para ver el primer partido de la Selección en el Mundial 2026",
+      "tituloLimpio": "Costo de viajar a Kansas para el primer partido de Argentina en el Mundial 2026",
+      "resumen": "Se detallan las opciones y precios de agencias de turismo para viajar a Kansas y presenciar el debut de la Selección Argentina en el Mundial 2026.",
+      "porQueImporta": "Noticia de interés para los argentinos, combinando deporte y turismo, con implicaciones económicas para los viajeros.",
+      "publicadoEn": "2026-06-04T16:45:38.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/3HU5D2O76RCCDIRJTCOEWSDYV4.jpg?auth=cf416d0d23509d3fe195d850a2e32d54d48a1c47e7daed5d6e79b80743e4331b&smart=true&width=1920&height=1079",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Mundial 2026",
+        "Deportes",
+        "Turismo",
+        "Economía"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/06/04/senado-en-vivo-las-ultimas-noticias-sobre-la-sesion-y-el-nombramiento-de-50-jueces-federales/",
+      "tituloOriginal": "Senado, en vivo: avanza el nombramiento de más de 70 jueces y fiscales y debaten proyectos clave para el Gobierno",
+      "tituloLimpio": "Senado argentino avanza en nombramiento de jueces y fiscales y debate proyectos clave",
+      "resumen": "La Cámara alta debate y aprueba proyectos importantes para el Gobierno, incluyendo el nombramiento de más de 70 jueces y fiscales.",
+      "porQueImporta": "Información crucial sobre el funcionamiento del poder legislativo argentino y la agenda del gobierno actual, con impacto en la estructura judicial.",
+      "publicadoEn": "2026-06-04T17:17:12.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/5NZUW4GLFVEVREJPYKGBTWCEJU.jpg?auth=af52929d432fcc3b60c47c91f42130590ecfb87821e6de9243fb9d7b6b0035bb&smart=true&width=6048&height=4024",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Política",
+        "Senado",
+        "Judicial",
+        "Gobierno"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid04062026/",
+      "tituloOriginal": "Dólar hoy y dólar blue, en vivo: a cuánto cotiza el oficial y cuál es el precio del paralelo este jueves 4 de junio, minuto a minuto",
+      "tituloLimpio": "Dólar hoy y dólar blue en Argentina: cotizaciones del jueves 4 de junio",
+      "resumen": "Se informa la cotización del dólar oficial y el dólar blue en Argentina para este jueves 4 de junio, minuto a minuto.",
+      "porQueImporta": "Información financiera esencial para el día a día en Argentina, reflejando la dinámica del mercado cambiario.",
+      "publicadoEn": "2026-06-04T17:26:56.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/BARCXNG22ZGTTIEDUQ6EI2BRFA.png?auth=ab75931da4676dcb7e1a7f252d4130b8afbd11a8f250522a9f785de03c9c4422&smart=true&width=2000&height=1333",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Finanzas",
+        "Dólar",
+        "Economía",
+        "Mercado"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Politica",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-tension-en-el-oficialismo-y-controversia-por-el-pliego-de-nid04062026/",
+      "tituloOriginal": "Javier Milei y sus medidas, en vivo: tensión en el oficialismo y controversia por el pliego de Michelli",
+      "tituloLimpio": "Tensión en oficialismo argentino por medidas de Javier Milei y pliego de Michelli",
+      "resumen": "Se sigue la tensión dentro del oficialismo argentino y la controversia generada por el pliego de Verónica Michelli, candidata a jueza.",
+      "porQueImporta": "Detalla las dinámicas internas del gobierno de Javier Milei y los desafíos políticos que enfrenta, con implicaciones para la gobernabilidad.",
+      "publicadoEn": "2026-06-04T17:30:44.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/JTM56J7DC5HHPKER4MI2B2LT2U.JPG?auth=b0f58d961d4c7dd5f71156dc634d9d73d2a507b65375916931a439410a906551&smart=true&width=2000&height=1333",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Política",
+        "Javier Milei",
+        "Gobierno",
+        "Tensión Política"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "fuente": "Adweek",
+      "url": "https://www.adweek.com/convergent-tv/samsung-tv-plus-dhar-mann-studio-partnership-unlikely-romance/",
+      "tituloOriginal": "Samsung TV Plus Partners With Dhar Mann Studios to Premiere Its First Original Series",
+      "tituloLimpio": "Samsung TV Plus se asocia con Dhar Mann Studios para su primera serie original",
+      "resumen": "Samsung TV Plus colaborará con Dhar Mann Studios para estrenar su primera serie original, destacando cómo los creadores impulsan las plataformas FAST.",
+      "porQueImporta": "Muestra la estrategia de las plataformas de streaming gratuitas (FAST) para diferenciarse a través de contenido original y colaboraciones con creadores populares.",
+      "publicadoEn": "2026-06-04T13:03:51.000Z",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "Samsung",
+        "Streaming",
+        "Contenido Original",
+        "Dhar Mann"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-06-04T17:33:02.410Z"
+  }
+}

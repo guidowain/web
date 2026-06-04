@@ -1,0 +1,49 @@
+{
+  "preferencias": {
+    "categoriasFavoritas": [
+      "AI",
+      "Apple",
+      "Finance",
+      "Argentina",
+      "Marketing",
+      "Tools & Automation"
+    ],
+    "keywordsFavoritas": [
+      "ai",
+      "ia",
+      "apple",
+      "iphone",
+      "mac",
+      "wwdc",
+      "investing",
+      "etf",
+      "schd",
+      "argentina",
+      "marketing",
+      "seo",
+      "advertising",
+      "design",
+      "automation",
+      "productivity",
+      "framer",
+      "vercel",
+      "claude",
+      "codex",
+      "photoshop",
+      "retouching",
+      "startup"
+    ],
+    "fuentesFavoritas": [
+      "Sherwood",
+      "MacRumors",
+      "9to5Mac",
+      "La Nacion Economia",
+      "Infobae Economia"
+    ],
+    "fuentesSilenciadas": [],
+    "aprendizajeActivo": true,
+    "actualizadoEn": "2026-06-04T00:00:00.000Z"
+  },
+  "feedback": [],
+  "guardadas": []
+}

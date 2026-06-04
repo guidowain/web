@@ -1,0 +1,38 @@
+name: Generar News Brief
+
+on:
+  schedule:
+    - cron: '0 12 * * *'
+    - cron: '0 17 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Usar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Instalar dependencias
+        run: npm ci
+
+      - name: Generar brief
+        run: npm run news:generate
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-2.5-flash-lite' }}
+
+      - name: Commit de datos
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'Generar News Brief'
+          file_pattern: data/news/**/*.json
