@@ -10,7 +10,7 @@ export default async function FechaPage({ params }: { params: { fecha: string } 
   try {
     const brief = await leerBrief(params.fecha)
     return (
-      <NewsShell titulo={`Brief ${params.fecha}`}>
+      <NewsShell>
         <BriefView brief={brief} />
       </NewsShell>
     )

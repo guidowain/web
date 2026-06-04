@@ -1,48 +1,79 @@
-import type { BriefDiario, NoticiaNormalizada } from '@/lib/news/types'
+import type { BriefDiario, CategoriaNoticias, NoticiaNormalizada } from '@/lib/news/types'
 import { NewsActions } from './NewsActions'
 import styles from './news.module.css'
 
+const CAT_CLASS: Record<CategoriaNoticias, string> = {
+  'AI': styles.catAI,
+  'Apple': styles.catApple,
+  'Finance': styles.catFinance,
+  'Argentina': styles.catArgentina,
+  'Business': styles.catBusiness,
+  'Marketing': styles.catMarketing,
+  'Tools & Automation': styles.catTools,
+}
+
+function formatTime(value: string) {
+  return new Intl.DateTimeFormat('es-AR', { hour: '2-digit', minute: '2-digit' }).format(new Date(value))
+}
+
 function formatDate(value: string) {
-  return new Intl.DateTimeFormat('es-AR', { dateStyle: 'medium', timeStyle: 'short' }).format(new Date(value))
+  return new Intl.DateTimeFormat('es-AR', { dateStyle: 'long' }).format(new Date(value))
 }
 
 function NewsItem({ noticia }: { noticia: NoticiaNormalizada }) {
+  const dotClass = CAT_CLASS[noticia.categoria] ?? styles.catDefault
+
   return (
-    <article className={styles.item}>
-      <h3 className={styles.itemTitle}>
-        <a href={noticia.url} target="_blank" rel="noreferrer">{noticia.tituloLimpio}</a>
-      </h3>
-      <p className={styles.meta}>
-        <span>{noticia.categoria}</span>
-        <span>{noticia.fuente}</span>
-        <span>{noticia.personalScore}</span>
-      </p>
-      <p className={styles.body}>{noticia.resumen}</p>
-      {noticia.porQueImporta ? <p className={styles.body}>{noticia.porQueImporta}</p> : null}
+    <article className={styles.article}>
+      <div className={styles.articleMeta}>
+        <span className={`${styles.categoryDot} ${dotClass}`} />
+        <span className={styles.categoryLabel}>{noticia.categoria}</span>
+        <span className={styles.metaSep}>·</span>
+        <span className={styles.sourceMeta}>{noticia.fuente}</span>
+        <span className={styles.metaSep}>·</span>
+        <span className={styles.sourceMeta}>{formatTime(noticia.publicadoEn)}</span>
+        <span className={`${styles.score} ${styles.metaSep}`} style={{ marginLeft: 'auto' }}>
+          {noticia.personalScore}
+        </span>
+      </div>
+
+      {noticia.imagen && (
+        // eslint-disable-next-line @next/next/no-img-element
+        <img className={styles.articleImage} src={noticia.imagen} alt="" loading="lazy" />
+      )}
+      <h2 className={styles.articleTitle}>
+        <a href={noticia.url} target="_blank" rel="noreferrer">
+          {noticia.tituloLimpio}
+        </a>
+      </h2>
+
+      {noticia.resumen && <p className={styles.articleSummary}>{noticia.resumen}</p>}
+
       <NewsActions noticia={noticia} />
     </article>
   )
 }
 
 export function BriefView({ brief }: { brief: BriefDiario }) {
+  const ts = `${formatDate(brief.generadoEn)} · ${formatTime(brief.generadoEn)} · ${brief.actualizacion}`
+
   return (
-    <div className={styles.stack}>
-      <section className={brief.estado.estado === 'ok' ? styles.statusOk : styles.statusError}>
-        {formatDate(brief.generadoEn)} · {brief.actualizacion}
-        {brief.estado.estado === 'error' ? <span> · Error: {brief.estado.mensaje}</span> : null}
-      </section>
+    <>
+      <div className={styles.status}>
+        <span className={`${styles.statusDot} ${brief.estado.estado === 'error' ? styles.statusDotError : ''}`} />
+        {ts}
+        {brief.estado.estado === 'error' && ` · ${brief.estado.mensaje}`}
+      </div>
 
-      {brief.resumenEjecutivo ? (
-        <section className={styles.card}>
-          <p className={styles.body}>{brief.resumenEjecutivo}</p>
+      {brief.resumenEjecutivo && (
+        <section className={styles.executive}>
+    <p className={styles.executiveText}>{brief.resumenEjecutivo}</p>
         </section>
-      ) : null}
+      )}
 
-      <section className={styles.card}>
-        <div className={styles.list}>
-          {brief.noticias.map((noticia) => <NewsItem key={noticia.id} noticia={noticia} />)}
-        </div>
-      </section>
-    </div>
+      <div className={styles.articles}>
+        {brief.noticias.map((n) => <NewsItem key={n.id} noticia={n} />)}
+      </div>
+    </>
   )
 }

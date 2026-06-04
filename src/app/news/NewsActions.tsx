@@ -29,12 +29,33 @@ export function NewsActions({ noticia }: { noticia: NoticiaNormalizada }) {
 
   return (
     <div className={styles.actions}>
-      <button className={styles.smallButton} disabled={estado === 'saving'} onClick={() => sendFeedback('interesante')} aria-label="Me gusta">👍</button>
-      <button className={styles.smallButton} disabled={estado === 'saving'} onClick={() => sendFeedback('no_interesante')} aria-label="No me gusta">👎</button>
-      <button className={styles.smallButton} disabled={estado === 'saving'} onClick={save}>Guardar</button>
-      <a className={styles.smallButton} href={noticia.url} target="_blank" rel="noreferrer">Leer</a>
-      {estado === 'saved' ? <span className={styles.muted}>OK</span> : null}
-      {estado === 'error' ? <span className={styles.errorText}>Error</span> : null}
+      <button
+        className={styles.actionBtn}
+        disabled={estado === 'saving'}
+        onClick={() => sendFeedback('interesante')}
+        title="Me interesa"
+      >
+        ↑
+      </button>
+      <button
+        className={styles.actionBtn}
+        disabled={estado === 'saving'}
+        onClick={() => sendFeedback('no_interesante')}
+        title="No me interesa"
+      >
+        ↓
+      </button>
+      <div className={styles.actionSep} />
+      <button
+        className={styles.actionBtn}
+        disabled={estado === 'saving'}
+        onClick={save}
+        title="Guardar"
+      >
+        ⊕
+      </button>
+      {estado === 'saved' && <span className={styles.actionFeedback}>guardado</span>}
+      {estado === 'error' && <span className={styles.actionError}>error</span>}
     </div>
   )
 }

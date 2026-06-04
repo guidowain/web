@@ -10,13 +10,14 @@ export default async function HoyPage() {
   const brief = await leerUltimoBrief()
 
   return (
-    <NewsShell titulo="Hoy">
+    <NewsShell>
       {brief ? (
         <BriefView brief={brief} />
       ) : (
-        <section className={styles.card}>
-          <h2>Sin brief</h2>
-        </section>
+        <div className={styles.empty}>
+          <div className={styles.emptyIcon}>◌</div>
+          <p className={styles.emptyText}>Sin brief disponible</p>
+        </div>
       )}
     </NewsShell>
   )
