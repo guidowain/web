@@ -1,0 +1,487 @@
+{
+  "fecha": "2026-06-05",
+  "generadoEn": "2026-06-05T14:57:45.069Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "Las principales novedades giran en torno a la inteligencia artificial, con Google anunciando sus últimas actualizaciones y discusiones sobre los costos crecientes de la IA. Apple se prepara para su WWDC, con expectativas de nuevo hardware. En Argentina, el plazo fijo se mantiene estancado y hay novedades sobre la siembra de trigo y movimientos políticos. En finanzas, Oracle muestra un rally alcista previo a sus resultados, mientras que XRP y Zcash presentan movimientos y vulnerabilidades. El marketing se enfoca en la estrategia de identidad de USA Today y una campaña de Coca-Cola.",
+  "radarPersonal": [],
+  "loImportante": [
+    "Google anuncia sus últimas actualizaciones de IA en mayo.",
+    "Apple se prepara para la WWDC con posibles lanzamientos de hardware.",
+    "El plazo fijo en Argentina se mantiene estancado con rendimientos bajos.",
+    "Oracle muestra un rally alcista previo a sus resultados, impulsado por la IA.",
+    "La siembra de trigo en Argentina bate un nuevo récord."
+  ],
+  "oportunidades": [
+    {
+      "id": "oracle-stock-orcl-ai-infrastructure-leader-earnings-adobe-adbe-trading-markets",
+      "categoria": "Investing",
+      "titulo": "Oracle Stock, A New AI Infrastructure Leader, Rallies Bullishly Ahead Of Earnings",
+      "detalle": "Oracle muestra un fuerte rally alcista previo a la presentación de sus resultados, consolidándose como un líder en infraestructura de IA. Esto podría ser una señal interesante para inversores en el sector tecnológico y de IA.",
+      "acciones": [
+        "Monitorear los resultados de Oracle.",
+        "Evaluar la exposición a acciones de infraestructura de IA."
+      ]
+    },
+    {
+      "id": "will-apple-launch-new-hardware-at-wwdc-next-week",
+      "categoria": "Productivity",
+      "titulo": "Apple podría lanzar nuevo hardware en la WWDC",
+      "detalle": "A pesar de ser un evento centrado en software, Apple tiene varios lanzamientos de hardware en camino y podría presentarlos en la WWDC. Esto es relevante para quienes siguen el ecosistema Apple y buscan novedades en dispositivos.",
+      "acciones": [
+        "Seguir de cerca los anuncios de la WWDC.",
+        "Evaluar el impacto de nuevo hardware en el mercado."
+      ]
+    },
+    {
+      "id": "the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs",
+      "categoria": "Automation",
+      "titulo": "Los costos de la IA se vuelven un problema central para la industria",
+      "detalle": "La industria de la IA está lidiando con los altos costos asociados al uso de tokens y la necesidad de implementar 'guardrails' para controlar los gastos. Esto podría influir en el desarrollo y la adopción de nuevas herramientas de IA.",
+      "acciones": [
+        "Analizar cómo las empresas gestionan los costos de IA.",
+        "Identificar herramientas de IA más eficientes en costos."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "the-meta-hack-shows-theres-more-to-ai-security-than-mythos",
+      "categoria": "Technology",
+      "titulo": "Vulnerabilidad de seguridad en IA de Meta",
+      "detalle": "Un hackeo a través del agente de soporte de IA de Meta permitió el robo de cuentas de Instagram. Esto demuestra que la seguridad en IA es un área crítica y vulnerable, con implicaciones para la confianza del usuario y la protección de datos.",
+      "mitigacion": "Mantenerse informado sobre las medidas de seguridad implementadas por las plataformas de IA y las empresas tecnológicas. Evaluar la seguridad de las herramientas de IA antes de su adopción."
+    },
+    {
+      "id": "zcash-new-shielded-pool-orchard-counterfeiting-bug",
+      "categoria": "Technology",
+      "titulo": "Falla de falsificación en Zcash",
+      "detalle": "Un bug en el nuevo pool blindado de Zcash (Orchard) ha generado dudas sobre la verificación de suministro. Esto representa un riesgo para la integridad de la criptomoneda y la confianza de los inversores.",
+      "mitigacion": "Monitorear las actualizaciones y correcciones de Zcash. Evaluar el riesgo asociado a criptomonedas con vulnerabilidades de seguridad conocidas."
+    },
+    {
+      "id": "disguised-russian-banking-app-surges-to-top-three-on-the-us-app-store",
+      "categoria": "Platform",
+      "titulo": "Aplicación bancaria rusa disfrazada en el App Store de EE.UU.",
+      "detalle": "Una aplicación bancaria rusa se posicionó entre las tres más descargadas en EE.UU. sin ser transparente sobre su origen. Esto plantea preocupaciones sobre la seguridad y la transparencia en las tiendas de aplicaciones.",
+      "mitigacion": "Ser cauteloso con aplicaciones de origen desconocido o sospechoso. Verificar la reputación y las reseñas de las aplicaciones antes de descargarlas."
+    }
+  ],
+  "conexiones": [],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+      "tituloOriginal": "The latest AI news we announced in May 2026",
+      "tituloLimpio": "Google anuncia sus últimas actualizaciones de IA de mayo",
+      "resumen": "Google ha publicado un resumen de las novedades en inteligencia artificial anunciadas durante el mes de mayo.",
+      "porQueImporta": "Permite conocer los avances recientes de uno de los principales actores en el campo de la IA.",
+      "publicadoEn": "2026-06-05T14:45:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/May_AI_Recap_still.max-600x600.format-webp.webp",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Google",
+        "Actualizaciones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/05/will-apple-launch-new-hardware-at-wwdc-next-week/",
+      "tituloOriginal": "Will Apple Launch New Hardware at WWDC Next Week?",
+      "tituloLimpio": "Apple podría lanzar nuevo hardware en la WWDC",
+      "resumen": "Se especula sobre la posibilidad de que Apple presente nuevo hardware durante su próxima Conferencia Mundial de Desarrolladores (WWDC), aunque el evento se centra principalmente en software.",
+      "porQueImporta": "Relevante para el ecosistema Apple y para quienes buscan novedades en dispositivos.",
+      "publicadoEn": "2026-06-05T14:56:38.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "WWDC",
+        "Hardware"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/plazo-fijo-estancado-asi-operan-los-principales-bancos-hoy-viernes-5-junio-n6285457",
+      "tituloOriginal": "Plazo fijo estancado: así operan los principales bancos hoy, viernes 5 de junio",
+      "tituloLimpio": "Plazo fijo estancado en Argentina: bancos operan con rendimientos bajos",
+      "resumen": "Los rendimientos de los plazos fijos en Argentina se mantienen en niveles bajos, con el mercado atento a los movimientos monetarios y financieros.",
+      "porQueImporta": "Información clave sobre el estado de las inversiones a plazo fijo en el país.",
+      "publicadoEn": "2026-06-05T14:13:00.000Z",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Finanzas",
+        "Plazo Fijo"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/campaign-trail-coca-cola-rides-a-roller-coaster-of-world-cup-emotions/821781/",
+      "tituloOriginal": "Campaign Trail: Coca-Cola rides a roller coaster of World Cup emotions",
+      "tituloLimpio": "Coca-Cola utiliza emociones del Mundial en su nueva campaña",
+      "resumen": "La campaña \"No Better Feeling\" de Coca-Cola busca intensificar la experiencia de un momento deportivo para cerrar su iniciativa \"Feel It All\".",
+      "porQueImporta": "Ejemplo de estrategia de marketing que conecta una marca global con eventos de gran alcance emocional.",
+      "publicadoEn": "2026-06-05T13:54:00.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "Coca-Cola",
+        "Campaña"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+      "tituloOriginal": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+      "tituloLimpio": "La industria de la IA se enfrenta al alto costo de los tokens",
+      "resumen": "La conversación en la industria de la IA ha pasado de la velocidad de desarrollo a la necesidad de controlar los costos de los tokens y establecer 'guardrails'.",
+      "porQueImporta": "Indica un cambio de enfoque en el desarrollo de IA, priorizando la eficiencia de costos.",
+      "publicadoEn": "2026-06-05T14:49:12.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Costos",
+        "Tecnología"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
+      "tituloOriginal": "This AI startup says it can tell if a script will make a hit film",
+      "tituloLimpio": "Startup de IA afirma predecir el éxito de guiones de películas",
+      "resumen": "Quilty, una startup de IA, asegura poder predecir el éxito de una película analizando su guion, aunque ha generado escepticismo en la industria.",
+      "porQueImporta": "Muestra la aplicación de IA en la industria del entretenimiento y los desafíos de validación.",
+      "publicadoEn": "2026-06-05T13:57:31.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Entretenimiento",
+        "Predicción"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+      "tituloOriginal": "The Meta hack shows there’s more to AI security than Mythos",
+      "tituloLimpio": "Hackeo a Meta expone vulnerabilidades en seguridad de IA",
+      "resumen": "Un ataque a través del agente de IA de Meta permitió el robo de cuentas de Instagram, evidenciando la necesidad de mejorar la seguridad en sistemas de IA.",
+      "porQueImporta": "Destaca la importancia crítica de la seguridad en las aplicaciones de IA.",
+      "publicadoEn": "2026-06-05T09:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Seguridad",
+        "Meta"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/05/disguised-russian-banking-app-surges-to-top-three-on-the-us-app-store/",
+      "tituloOriginal": "Disguised Russian banking app surges to top three on the US App Store",
+      "tituloLimpio": "Aplicación bancaria rusa se posiciona en el App Store de EE.UU.",
+      "resumen": "Una aplicación de productividad de origen ruso, que funciona como banca, ha alcanzado el top tres de descargas gratuitas en la App Store de Estados Unidos.",
+      "porQueImporta": "Alerta sobre la presencia de aplicaciones de origen dudoso en tiendas de aplicaciones populares.",
+      "publicadoEn": "2026-06-05T14:24:45.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "App Store",
+        "Seguridad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/06/05/stay-safe-browse-the-internet-freely-with-70-off-proton-vpn?utm_source=rss",
+      "tituloOriginal": "Stay safe & browse the internet freely with 70% off Proton VPN",
+      "tituloLimpio": "Proton VPN ofrece 70% de descuento para navegar de forma segura",
+      "resumen": "Se promociona una oferta del 70% en suscripciones de Proton VPN, destacando la importancia de las VPNs para la privacidad en internet en 2026.",
+      "porQueImporta": "Relevante para la seguridad y privacidad online, un tema cada vez más importante.",
+      "publicadoEn": "2026-06-05T13:57:52.000Z",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "Privacidad",
+        "VPN"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/club/macstories-weekly-issue-516/",
+      "tituloOriginal": "MacStories Weekly: Issue 516",
+      "tituloLimpio": "MacStories Weekly: Edición 516",
+      "resumen": "La edición semanal de MacStories incluye enlaces, novedades de apps y resúmenes de artículos y podcasts, con un enfoque en la previa de la WWDC.",
+      "porQueImporta": "Contenido curado para usuarios del ecosistema Apple, con anticipación a la WWDC.",
+      "publicadoEn": "2026-06-05T14:17:40.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "MacStories",
+        "WWDC"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-scales-most-powerful-ai-033300925.html",
+      "tituloOriginal": "Anthropic scales its most powerful AI a day after filing to IPO",
+      "tituloLimpio": "Anthropic escala su IA más potente un día después de anunciar su IPO",
+      "resumen": "Anthropic ha puesto a disposición su modelo de IA más potente, un día después de haber presentado la documentación para su Oferta Pública Inicial (IPO).",
+      "porQueImporta": "Movimiento estratégico de una empresa clave en IA, con implicaciones para el mercado financiero y tecnológico.",
+      "publicadoEn": "2026-06-04T03:33:00.000Z",
+      "imagen": "https://media.zenfs.com/en/thestreet_881/24e1b6fc5456d981e079c3385a584230",
+      "globalScore": 86,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "AI",
+        "IPO"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/research/earnings-preview/oracle-stock-orcl-ai-infrastructure-leader-earnings-adobe-adbe-trading-markets/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Oracle Stock, A New AI Infrastructure Leader, Rallies Bullishly Ahead Of Earnings",
+      "tituloLimpio": "Oracle Stock, líder en infraestructura de IA, sube antes de resultados",
+      "resumen": "Las acciones de Oracle (ORCL) muestran un fuerte rally alcista previo a la presentación de sus resultados, consolidándose como un líder en infraestructura de IA.",
+      "porQueImporta": "Indicador positivo para el sector de infraestructura de IA y una posible oportunidad de inversión.",
+      "publicadoEn": "2026-06-05T13:58:43.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/24a35f5f0e035f7943d664a16473cb8b",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "Oracle",
+        "AI",
+        "Inversiones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/05/xrp-falls-toward-usd1-10-as-liquidation-driven-selloff-pushes-token-to-multi-month-lows",
+      "tituloOriginal": "XRP falls toward $1.10 as liquidation-driven selloff pushes token to multi-month lows",
+      "tituloLimpio": "XRP cae hacia $1.10 por ventas impulsadas por liquidaciones",
+      "resumen": "XRP ha perdido otro 5% y se acerca a los $1.10, con el mercado analizando si esta caída marca una capitulación o el inicio de un descenso más pronunciado.",
+      "porQueImporta": "Movimiento importante en el mercado de criptomonedas, relevante para inversores en este sector.",
+      "publicadoEn": "2026-06-05T14:53:06.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/9e7b2f7568aca85ac08149c12268f3ca6a2def87-1188x740.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "Criptomonedas",
+        "XRP"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/zcash-new-shielded-pool-orchard-counterfeiting-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Zcash weighs new shielded pool after counterfeiting flaw",
+      "tituloLimpio": "Zcash evalúa nuevo pool blindado tras falla de falsificación",
+      "resumen": "Los desarrolladores de Zcash están considerando un nuevo pool blindado y contabilidad de 'turnstile' luego de que un bug en Orchard generara dudas sobre la verificación del suministro.",
+      "porQueImporta": "Novedades sobre la seguridad y la integridad de Zcash, importante para sus usuarios e inversores.",
+      "publicadoEn": "2026-06-05T13:18:41.000Z",
+      "imagen": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS10b3AtNS1iaWdnZXN0LW1pbmluZy1mYXJtcy16Y2FzaC5qcGc=.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "Criptomonedas",
+        "Zcash"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/rural/siembra-trigo-sigue-paso-firme-bate-nuevo-record_0_KXMqIEl87V.html",
+      "tituloOriginal": "La siembra de trigo sigue a paso firme y bate un nuevo récord",
+      "tituloLimpio": "Siembra de trigo en Argentina bate récord",
+      "resumen": "La siembra de trigo en Argentina avanza firmemente y ha batido un nuevo récord, cubriendo el 32% de las hectáreas estipuladas, una marca nunca antes alcanzada.",
+      "porQueImporta": "Noticia positiva para el sector agropecuario argentino, con implicaciones económicas.",
+      "publicadoEn": "2026-06-05T14:01:17.000Z",
+      "imagen": "https://www.clarin.com/img/2025/05/06/tIuQsYqf1_1200x630__1.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Agro",
+        "Trigo"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/designacion-jueza-michelli-ministro-justicia-advirtio-milei-obligado-firmar-nombramiento_0_HITR58Enk7.html",
+      "tituloOriginal": "Tras la designación de la jueza Michelli, el ministro de Justicia advirtió que Milei no está obligado a firmar el nombramiento",
+      "tituloLimpio": "Ministro de Justicia: Milei no está obligado a firmar nombramiento de jueza",
+      "resumen": "El ministro de Justicia aclaró que, si bien el Senado habilitó la designación de la jueza Michelli, el Presidente no está obligado a firmar el nombramiento y puede retirarlo.",
+      "porQueImporta": "Detalle relevante sobre las facultades presidenciales y la dinámica política en Argentina.",
+      "publicadoEn": "2026-06-05T13:00:20.000Z",
+      "imagen": "https://www.clarin.com/img/2026/05/19/0VRN3pszq_1200x630__1.jpg",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Política",
+        "Milei"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/06/05/el-dato-macro-que-sorprendio-a-uno-de-los-economistas-que-mas-escucha-el-gobierno-y-la-variable-clave-que-pidio-mejorar/",
+      "tituloOriginal": "El dato macro que sorprendió a uno de los economistas que más escucha el Gobierno y la variable clave que pidió mejorar",
+      "tituloLimpio": "Dato macro sorprendió a economista cercano al Gobierno; piden mejorar variable clave",
+      "resumen": "Ricardo Arriazu, un economista consultado por el Gobierno, expresó sorpresa ante un dato macroeconómico y solicitó mejoras en una variable clave.",
+      "porQueImporta": "Insight sobre las perspectivas económicas y las prioridades del gobierno argentino.",
+      "publicadoEn": "2026-06-05T14:37:23.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/O64V2SOV6VGOHH2PYRLDNZFH2A.jpg?auth=2933259016c778189ac6969a46d51e5336952a578475c8240897ead54ce18f51&smart=true&width=1920&height=1278",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Economía",
+        "Macroeconomía"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/06/05/la-sesion-en-el-senado-desnudo-el-desorden-del-gobierno-y-la-interna-sumo-un-nuevo-capitulo/",
+      "tituloOriginal": "La aprobación del pliego de la jueza Michelli en el Senado sumó un nuevo capítulo en la interna del Gobierno",
+      "tituloLimpio": "Aprobación de jueza Michelli en el Senado expone interna del Gobierno",
+      "resumen": "La aprobación del pliego de la jueza Michelli en el Senado, a pesar de directivas del Ejecutivo, ha escalado la interna del gobierno libertario.",
+      "porQueImporta": "Revela tensiones y divisiones dentro del gobierno argentino.",
+      "publicadoEn": "2026-06-05T13:53:11.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/5NZUW4GLFVEVREJPYKGBTWCEJU.jpg?auth=af52929d432fcc3b60c47c91f42130590ecfb87821e6de9243fb9d7b6b0035bb&smart=true&width=6048&height=4024",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Política",
+        "Gobierno"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid05062026/",
+      "tituloOriginal": "Dólar hoy y dólar blue, en vivo: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 5 de junio, minuto a minuto",
+      "tituloLimpio": "Dólar oficial y blue: cotizaciones del viernes 5 de junio",
+      "resumen": "El dólar oficial cotiza a $1460 para la venta, mientras que el dólar blue se ubica en $1435 para la misma operación.",
+      "porQueImporta": "Información actualizada sobre el comportamiento del dólar en Argentina.",
+      "publicadoEn": "2026-06-05T14:52:24.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/GHSZNGFV4FBN7D6V3AYV4H6RTU.jpg?auth=d9c8fd22de8f9f8455c0d6610ecd246b61fdc09688eb4385a24c4611144e9133&smart=true&width=2000&height=1333",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Finanzas",
+        "Dólar"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Politica",
+      "url": "https://www.lanacion.com.ar/politica/el-exjuez-bailaque-denuncio-a-su-contador-que-es-arrepentido-lo-acuso-de-haber-mentido-para-nid05062026/",
+      "tituloOriginal": "El exjuez Bailaque denunció a su contador, que es arrepentido: lo acusó de haber mentido para beneficiarse",
+      "tituloLimpio": "Exjuez Bailaque denuncia a su contador arrepentido",
+      "resumen": "El exjuez Bailaque ha denunciado a su contador, quien es un arrepentido, acusándolo de haber mentido para beneficiarse.",
+      "porQueImporta": "Desarrollo judicial relevante en Argentina, con implicaciones para casos de corrupción.",
+      "publicadoEn": "2026-06-05T14:46:26.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/ZQN2UFNJCRAR7PT3Q3XFO3L654.JPG?auth=f25384e908d7969a11b0af9496077c37dee7672fa99821a2d1c6c8120cd09407&smart=true&width=1341&height=1005",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Judicial",
+        "Corrupción"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "fuente": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/the-strategy-behind-usa-today-cos-big-identity-shift-with-kristin-roberts-and-lark-marie-anton/",
+      "tituloOriginal": "The Strategy Behind USA Today Co.’s Big Identity Shift With Kristin Roberts and Lark-Marie Anton",
+      "tituloLimpio": "Estrategia detrás del cambio de identidad de USA Today en la era de la IA",
+      "resumen": "Se analiza la estrategia detrás de la reestructuración de identidad de USA Today Co., y lo que esto significa para el futuro de la publicación en la era de la IA.",
+      "porQueImporta": "Perspectiva sobre cómo los medios de comunicación se adaptan a la IA y los cambios en el panorama editorial.",
+      "publicadoEn": "2026-06-05T09:13:46.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "AI",
+        "Medios"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-06-05T14:57:45.069Z"
+  }
+}
