@@ -1,80 +1,110 @@
 {
   "fecha": "2026-06-06",
-  "generadoEn": "2026-06-06T13:50:26.412Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "Las noticias de hoy giran en torno a avances en IA, el ecosistema Apple y el mercado financiero, con un foco especial en Argentina. Se destaca la integración de IA en productos Apple, movimientos en el mercado bursátil influenciados por la IA y el empleo, y estrategias para el ahorro en dólares en Argentina. También hay novedades sobre el mercado de criptomonedas y el sector de salud.",
+  "generadoEn": "2026-06-06T18:06:04.829Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Las noticias de hoy giran en torno a avances en IA, el ecosistema Apple y la economía argentina. Se destaca la caída de las bolsas por ventas masivas de IA, mientras que Apple presenta ofertas interesantes y mejoras en Chrome para macOS. En Argentina, se analiza el rendimiento de los plazos fijos y se destraban exportaciones de carne ovina. También hay novedades sobre el mercado automotor y la política judicial.",
   "radarPersonal": [],
   "loImportante": [
-    "Apple se prepara para una nueva versión de Siri con foco en IA en WWDC.",
-    "El mercado bursátil muestra volatilidad por la IA y datos de empleo, afectando las expectativas de tasas.",
-    "Argentina avanza en acuerdos comerciales con el Reino Unido, marcando un hito post-Malvinas.",
-    "El crédito hipotecario en Argentina sigue sin repuntar a pesar de las bajas tasas."
+    "La bolsa cae por ventas masivas en el sector IA, afectando al S&P 500 y Nasdaq.",
+    "Google anuncia sus últimas novedades en IA para mayo de 2026.",
+    "Se presentan ofertas destacadas en productos Apple, incluyendo AirPods Max 2 a precio récord.",
+    "En Argentina, se analiza la rentabilidad de los plazos fijos y se destraban exportaciones de carne ovina a Brasil.",
+    "El mercado automotor global tiene un nuevo auto más vendido que ya está disponible en Argentina."
   ],
   "oportunidades": [
     {
-      "id": "apple-wwdc-siri-ai",
-      "categoria": "AI",
-      "titulo": "Nueva Siri con IA en WWDC",
-      "detalle": "Apple presentaría una renovada Siri potenciada por IA en su próxima conferencia WWDC, lo que podría significar un avance importante en la integración de IA en sus dispositivos.",
-      "acciones": [
-        "Monitorear anuncios de WWDC.",
-        "Evaluar el impacto de la nueva Siri en el ecosistema Apple."
-      ]
-    },
-    {
-      "id": "argentina-ahorro-dolares",
+      "id": "apple-deals-20260606",
       "categoria": "Investing",
-      "titulo": "Estrategias para ahorrar en dólares",
-      "detalle": "Se presentan métodos efectivos para ahorrar en dólares en Argentina, ofreciendo alternativas para proteger el patrimonio ante la inflación.",
+      "titulo": "Oportunidades en productos Apple",
+      "detalle": "Se observan ofertas significativas en productos Apple, incluyendo AirPods Max 2 a un precio histórico de $499 y descuentos en AirPods Pro 3 y Apple Watch Series 11. Esto podría ser una oportunidad para adquirir tecnología a buen precio.",
       "acciones": [
-        "Analizar las 5 formas presentadas para ahorrar en dólares.",
-        "Considerar la implementación de estas estrategias para el ahorro personal."
+        "Monitorear precios de productos Apple.",
+        "Evaluar la compra de dispositivos en oferta."
       ]
     },
     {
-      "id": "travala-usdc-base",
-      "categoria": "Automation",
-      "titulo": "IA para reservas de hoteles con cripto",
-      "detalle": "Travala permite que agentes de IA reserven hoteles usando USDC en la red Base, aunque el viajero aprueba el pago final.",
+      "id": "argentina-plazo-fijo-20260606",
+      "categoria": "Investing",
+      "titulo": "Análisis de Plazo Fijo en Argentina",
+      "detalle": "Se detalla cuánto se gana al depositar $450.000 a 30 días en junio de 2026. Las tasas siguen bajas, requiriendo mayor capital para ganancias significativas, lo que invita a buscar alternativas de inversión más rentables.",
       "acciones": [
-        "Investigar la plataforma Travala y su integración con IA y criptomonedas.",
-        "Evaluar el potencial de automatización en reservas de viajes."
+        "Comparar tasas de plazo fijo con otras opciones de inversión.",
+        "Evaluar estrategias para maximizar rendimientos en pesos."
+      ]
+    },
+    {
+      "id": "meta-stablecoins-20260606",
+      "categoria": "Automation",
+      "titulo": "Meta y las Stablecoins para Creadores",
+      "detalle": "Meta está pagando a creadores en Stablecoins (USDC), validando su uso como herramienta de pago. Sin embargo, la conversión a moneda local sigue siendo un desafío.",
+      "acciones": [
+        "Investigar el uso de Stablecoins en plataformas de creadores.",
+        "Evaluar la viabilidad de pagos en criptomonedas para negocios."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "mercado-ai-selloff",
+      "id": "ai-selloff-20260605",
       "categoria": "Market",
-      "titulo": "Volatilidad del mercado por IA y empleo",
-      "detalle": "Las acciones cayeron ante una venta masiva relacionada con la IA y un informe de empleo robusto que reduce las esperanzas de un recorte de tasas.",
-      "acciones": [
-        "Monitorear de cerca los movimientos del mercado bursátil.",
-        "Reevaluar la exposición a acciones tecnológicas y su correlación con la IA."
-      ]
+      "titulo": "Caída del Mercado por IA",
+      "detalle": "Las acciones caen debido a una venta masiva en el sector IA, con el S&P 500 rompiendo una racha de ganancias y el Nasdaq 100 experimentando su peor día desde abril de 2025. Un informe de empleo robusto reduce las esperanzas de una bajada de tasas.",
+      "mitigacion": "Diversificar la cartera de inversiones y monitorear de cerca el sector tecnológico y las decisiones de política monetaria."
     },
     {
-      "id": "meta-ai-security",
+      "id": "meta-hack-20260605",
       "categoria": "Technology",
-      "titulo": "Vulnerabilidades en IA de Meta",
-      "detalle": "Un hackeo a un agente de IA de Meta permitió el robo de cuentas de Instagram, demostrando debilidades en la seguridad de IA.",
-      "acciones": [
-        "Estar atento a las medidas de seguridad que Meta implementará.",
-        "Considerar los riesgos de seguridad asociados a la interacción con agentes de IA."
-      ]
+      "titulo": "Vulnerabilidades en Seguridad de IA de Meta",
+      "detalle": "Un hackeo a través del agente de soporte de IA de Meta permitió el robo de cuentas de Instagram. Esto demuestra que la seguridad en IA va más allá de lo aparente y expone riesgos en la interacción con sistemas automatizados.",
+      "mitigacion": "Fortalecer las medidas de seguridad en sistemas de IA y estar alerta ante posibles ataques que exploten vulnerabilidades."
     },
     {
-      "id": "argentina-credito-hipotecario",
-      "categoria": "Market",
-      "titulo": "Estancamiento del crédito hipotecario en Argentina",
-      "detalle": "A pesar de las bajas tasas, el crédito hipotecario en Argentina no logra repuntar, limitando el acceso a la vivienda.",
-      "acciones": [
-        "Seguir de cerca las políticas económicas que puedan reactivar el mercado hipotecario.",
-        "Evaluar alternativas de inversión inmobiliaria si el crédito sigue limitado."
-      ]
+      "id": "indiana-data-center-20260606",
+      "categoria": "Regulatory",
+      "titulo": "Conflictos por Centros de Datos",
+      "detalle": "En Shelbyville, Indiana, el alcalde minimiza la oposición a un centro de datos de $2 mil millones, calificando a los opositores como residentes de 'casas de mierda'. Esto refleja tensiones entre desarrollo tecnológico y comunidades locales.",
+      "mitigacion": "Monitorear regulaciones y conflictos locales relacionados con la infraestructura tecnológica y la inteligencia artificial."
     }
   ],
-  "conexiones": [],
+  "conexiones": [
+    {
+      "id": "ai-market-finance-20260606",
+      "titulo": "Intersección entre IA, Mercado y Finanzas",
+      "historias": [
+        "Sherwood: Stocks tumble amid AI sell-off as a blowout jobs report dampens hope of a rate cut this year",
+        "Yahoo Finance: Can Pfizer's Dividend Survive the Patent Cliff? This $10.5 Billion Cancer Bet Could Hold the Answer.",
+        "Yahoo Finance: Dow Jones Futures: What To Do As Market Rally Faces First Real Test; SpaceX IPO, Apple, Oracle Loom",
+        "CoinDesk: Meta is paying creators in Stablecoins. Spending them is someone else's problem",
+        "CoinTelegraph: Travala lets AI agents book hotels with USDC on Base"
+      ],
+      "conclusion": "La IA está generando movimientos significativos en los mercados financieros, desde caídas bursátiles hasta nuevas formas de pago y automatización de servicios. La volatilidad actual, sumada a la incertidumbre sobre tasas de interés, exige cautela y análisis estratégico."
+    },
+    {
+      "id": "apple-tech-20260606",
+      "titulo": "Novedades y Competencia en el Ecosistema Apple",
+      "historias": [
+        "MacRumors: $499 AirPods Max 2? The Best Apple Deals of the Week Are Here",
+        "9to5Mac: Hands-on: BenQ’s new MA270S is a glossy 27-inch 5K display made for Mac",
+        "AppleInsider: Chrome for macOS soundly beats browser benchmark records",
+        "MacStories: Podcast Rewind: Automation Wishes, RG Rotate Impressions, Lessons from Shipping Apps, and Heading to Apple Park"
+      ],
+      "conclusion": "El ecosistema Apple sigue activo con ofertas tentadoras y mejoras en rendimiento, como el caso de Chrome en macOS. La competencia en monitores también se intensifica, buscando replicar la calidad de las pantallas de Apple. La automatización sigue siendo un tema clave, incluso en podcasts dedicados al ecosistema."
+    },
+    {
+      "id": "argentina-economy-politics-20260606",
+      "titulo": "Panorama Económico y Político en Argentina",
+      "historias": [
+        "Ambito: Plazo fijo en junio 2026: cuánto gano si deposito $450.000 a 30 días",
+        "Clarin Economia: ¿Fin del mito? Con los recursos naturales no nos salvamos",
+        "Clarin Politica: El kirchnerismo acusa al ministro de Defensa de borrar el nombre del general Perón de la fachada de la Escuela Militar de Montaña",
+        "Infobae Economia: El auto más vendido en todo el mundo en 2025 ya se puede comprar en Argentina: cómo es y cuánto cuesta",
+        "Infobae Politica: “Es solamente un acto formal, el presidente tiene que designar” a Michelli como jueza, dijo Juan Carlos Maqueda",
+        "La Nacion Economia: Llegó un gesto de Brasil y se destraban las exportaciones de 900 toneladas de carne ovina",
+        "La Nacion Politica: La refundación de la Justicia de Milei y Mahiques: un inicio endogámico y nombres negociados con gobernadores"
+      ],
+      "conclusion": "La economía argentina presenta un escenario complejo, con bajas tasas en plazos fijos, debate sobre el rol de los recursos naturales y novedades en el mercado automotor. En el plano político, se observan tensiones y definiciones sobre nombramientos judiciales y disputas históricas."
+    }
+  ],
   "noticias": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
@@ -82,9 +112,9 @@
       "fuente": "Google AI Blog",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
       "tituloOriginal": "The latest AI news we announced in May 2026",
-      "tituloLimpio": "Google comparte sus últimas novedades en IA de mayo",
-      "resumen": "Google ha publicado un resumen de las actualizaciones más importantes en inteligencia artificial anunciadas durante el mes de mayo.",
-      "porQueImporta": "Permite estar al tanto de los desarrollos de uno de los líderes en IA.",
+      "tituloLimpio": "Google comparte sus últimas actualizaciones de IA de mayo de 2026",
+      "resumen": "Google ha publicado un resumen de las novedades en inteligencia artificial anunciadas durante el mes de mayo de 2026.",
+      "porQueImporta": "Permite estar al tanto de los avances y direcciones de Google en el campo de la IA, crucial para entender el futuro tecnológico.",
       "publicadoEn": "2026-06-05T14:45:00.000Z",
       "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/May_AI_Recap_still.max-600x600.format-webp.webp",
       "globalScore": 100,
@@ -92,7 +122,8 @@
       "tags": [
         "IA",
         "Google",
-        "Actualizaciones"
+        "Actualizaciones",
+        "Tecnología"
       ],
       "tambienVistoEn": []
     },
@@ -102,17 +133,17 @@
       "fuente": "MacRumors",
       "url": "https://www.macrumors.com/2026/06/06/best-apple-deals-of-the-week-6-5-26/",
       "tituloOriginal": "$499 AirPods Max 2? The Best Apple Deals of the Week Are Here",
-      "tituloLimpio": "Ofertas destacadas en productos Apple",
-      "resumen": "Esta semana hay ofertas importantes en AirPods Max 2 a $499, AirPods Pro 3 y Apple Watch Series 11.",
-      "porQueImporta": "Oportunidad de adquirir productos Apple a precios reducidos.",
+      "tituloLimpio": "Ofertas destacadas en productos Apple: AirPods Max 2 a $499",
+      "resumen": "Esta semana, los AirPods Max 2 alcanzan un mínimo histórico de $499. También hay ofertas en AirPods Pro 3 y Apple Watch Series 11.",
+      "porQueImporta": "Oportunidad de adquirir tecnología Apple a precios reducidos, especialmente los AirPods Max 2.",
       "publicadoEn": "2026-06-06T13:05:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
         "Ofertas",
-        "AirPods",
-        "Apple Watch"
+        "AirPods Max",
+        "Tecnología"
       ],
       "tambienVistoEn": []
     },
@@ -122,18 +153,18 @@
       "fuente": "Sherwood",
       "url": "https://sherwood.news/markets/stocks-tumble-amid-ai-selloff-as-a-blowout-jobs-report-dampens-hope-of-a-rate-cut-this-year/",
       "tituloOriginal": "Stocks tumble amid AI sell-off as a blowout jobs report dampens hope of a rate cut this year",
-      "tituloLimpio": "Mercado bursátil cae por ventas de IA y datos de empleo",
-      "resumen": "El S&P 500 y el Nasdaq 100 sufrieron caídas significativas, afectadas por el sector de IA y un informe de empleo que aleja la posibilidad de recortes de tasas.",
-      "porQueImporta": "Indica volatilidad en el mercado y posibles cambios en la política monetaria.",
+      "tituloLimpio": "Bolsas caen por ventas masivas de IA y datos de empleo desalientan baja de tasas",
+      "resumen": "El S&P 500 rompió su racha de ganancias y el Nasdaq 100 tuvo su peor día desde abril de 2025, afectado por ventas en el sector IA y un fuerte informe de empleo.",
+      "porQueImporta": "Indica una corrección importante en el mercado bursátil, influenciada directamente por el sector de IA y las expectativas económicas.",
       "publicadoEn": "2026-06-05T20:02:59.000Z",
       "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/2277773016_yellowstone-national-park-wyoming-a-grizzly-bear-walks-through-grasses-on-may-22-2026-in.jpg",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Finanzas",
+        "Mercado",
         "IA",
-        "Mercado Bursátil",
-        "Tasas de Interés"
+        "Inversiones"
       ],
       "tambienVistoEn": []
     },
@@ -141,20 +172,19 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/los-metodos-mas-efectivos-ahorrar-dolares-5-formas-que-pueden-cambiar-tu-n6284915",
-      "tituloOriginal": "Los métodos más efectivos para ahorrar en dólares: 5 formas que pueden cambiar tu economía",
-      "tituloLimpio": "5 formas efectivas para ahorrar dólares en Argentina",
-      "resumen": "Se detallan métodos prácticos para generar ahorros mensuales en dólares, requiriendo disciplina y buena gestión.",
-      "porQueImporta": "Ofrece herramientas concretas para la gestión financiera personal en el contexto argentino.",
-      "publicadoEn": "2026-06-06T00:30:00.000Z",
-      "imagen": "https://media.ambito.com/p/c8c1709f86ff04c73b0ccf73e4f87143/adjuntos/239/imagenes/043/371/0043371332/ahorrar-dolares.jpg",
-      "globalScore": 88,
+      "url": "https://www.ambito.com/economia/plazo-fijo-junio-2026-cuanto-gano-si-deposito-450000-30-dias-n6285176",
+      "tituloOriginal": "Plazo fijo en junio 2026: cuánto gano si deposito $450.000 a 30 días",
+      "tituloLimpio": "Rentabilidad de un plazo fijo de $450.000 en Argentina en junio de 2026",
+      "resumen": "Se detalla cuánto se gana con un plazo fijo de $450.000 a 30 días en junio de 2026, señalando que las tasas bajas requieren mayor capital para ganancias significativas.",
+      "porQueImporta": "Información práctica para quienes buscan rentabilidad en pesos en Argentina, mostrando el impacto de las tasas actuales.",
+      "publicadoEn": "2026-06-06T15:00:00.000Z",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Finanzas Personales",
-        "Ahorro",
-        "Dólares"
+        "Finanzas",
+        "Inversiones",
+        "Plazo Fijo"
       ],
       "tambienVistoEn": []
     },
@@ -164,16 +194,17 @@
       "fuente": "Marketing Dive",
       "url": "https://www.marketingdive.com/news/campaign-trail-coca-cola-rides-a-roller-coaster-of-world-cup-emotions/821781/",
       "tituloOriginal": "Campaign Trail: Coca-Cola rides a roller coaster of World Cup emotions",
-      "tituloLimpio": "Coca-Cola lanza campaña emocional para el Mundial",
-      "resumen": "La nueva campaña 'No Better Feeling' de Coca-Cola busca conectar emocionalmente con el público durante la Copa del Mundo.",
-      "porQueImporta": "Ejemplo de estrategia de marketing emocional a gran escala.",
+      "tituloLimpio": "Coca-Cola utiliza emociones del Mundial en su nueva campaña",
+      "resumen": "La campaña 'No Better Feeling' de Coca-Cola, creada por WPP Open X, busca amplificar la emoción de momentos clave del Mundial.",
+      "porQueImporta": "Ejemplo de cómo las grandes marcas utilizan eventos globales y la conexión emocional para sus campañas de marketing.",
       "publicadoEn": "2026-06-05T13:54:00.000Z",
-      "globalScore": 90,
+      "globalScore": 84,
       "personalScore": 100,
       "tags": [
         "Marketing",
         "Coca-Cola",
-        "Mundial"
+        "Mundial",
+        "Campañas"
       ],
       "tambienVistoEn": []
     },
@@ -181,18 +212,19 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
-      "tituloOriginal": "Startup Battlefield 200 applications officially close in 3 days",
-      "tituloLimpio": "Últimos días para aplicar a Startup Battlefield 200",
-      "resumen": "Las inscripciones para Startup Battlefield 200 cierran el 8 de junio, ofreciendo una oportunidad para startups de presentarse en TechCrunch Disrupt 2026.",
-      "porQueImporta": "Oportunidad para startups de ganar visibilidad y financiación.",
-      "publicadoEn": "2026-06-05T20:00:00.000Z",
-      "globalScore": 100,
+      "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+      "tituloOriginal": "Sriram Krishnan is leaving his role as White House AI advisor",
+      "tituloLimpio": "Asesor de IA de la Casa Blanca deja su cargo para fundar nueva institución",
+      "resumen": "Sriram Krishnan deja su rol como asesor de IA de la Casa Blanca para iniciar una nueva entidad enfocada en la política de IA.",
+      "porQueImporta": "Cambio relevante en la esfera de la política de IA en EE.UU., con implicaciones para el futuro desarrollo y regulación.",
+      "publicadoEn": "2026-06-06T17:42:15.000Z",
+      "globalScore": 92,
       "personalScore": 100,
       "tags": [
         "IA",
-        "Startups",
-        "Emprendimiento"
+        "Política",
+        "Estados Unidos",
+        "Regulación"
       ],
       "tambienVistoEn": []
     },
@@ -200,39 +232,19 @@
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
       "fuente": "The Verge AI",
-      "url": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
-      "tituloOriginal": "Here comes new Siri again",
-      "tituloLimpio": "Apple prepara el regreso de Siri con IA",
-      "resumen": "Se espera que Apple presente una versión renovada de Siri, potenciada por inteligencia artificial, en la próxima WWDC.",
-      "porQueImporta": "Podría ser un punto de inflexión para la asistente de voz de Apple y su competitividad en IA.",
-      "publicadoEn": "2026-06-06T12:00:00.000Z",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "Apple",
-        "IA",
-        "Siri",
-        "WWDC"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "categoria": "AI",
-      "fuente": "MIT Technology Review AI",
-      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-      "tituloOriginal": "The Meta hack shows there’s more to AI security than Mythos",
-      "tituloLimpio": "Hackeo a IA de Meta expone fallos de seguridad",
-      "resumen": "Un ataque a un agente de IA de Meta permitió el robo de cuentas de Instagram, evidenciando la necesidad de reforzar la seguridad en sistemas de IA.",
-      "porQueImporta": "Alerta sobre los riesgos de seguridad en la implementación de IA y la protección de datos.",
-      "publicadoEn": "2026-06-05T09:00:00.000Z",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center",
+      "tituloOriginal": "The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center",
+      "tituloLimpio": "Alcalde de Indiana minimiza oposición a centro de datos de IA",
+      "resumen": "El alcalde de Shelbyville, Indiana, desestimó las objeciones a un centro de datos de $2 mil millones, sugiriendo que solo quienes viven en 'casas de mierda' se oponen.",
+      "porQueImporta": "Muestra el conflicto entre el desarrollo de infraestructura tecnológica (centros de datos para IA) y las comunidades locales.",
+      "publicadoEn": "2026-06-06T15:05:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "IA",
-        "Seguridad",
-        "Meta",
-        "Instagram"
+        "Tecnología",
+        "Infraestructura",
+        "Comunidad"
       ],
       "tambienVistoEn": []
     },
@@ -240,18 +252,18 @@
       "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Apple",
       "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/06/apple-work-how-zero-touch-enrollment-killed-the-market-for-stolen-corporate-devices/",
-      "tituloOriginal": "Apple @ Work: How zero-touch enrollment killed the market for stolen corporate devices",
-      "tituloLimpio": "Enrollment 'zero-touch' de Apple reduce robo de dispositivos corporativos",
-      "resumen": "La gestión remota 'zero-touch' de Apple ha eliminado el mercado de dispositivos corporativos robados.",
-      "porQueImporta": "Demuestra la efectividad de las soluciones de seguridad y gestión de Apple para empresas.",
-      "publicadoEn": "2026-06-06T13:00:00.000Z",
+      "url": "https://9to5mac.com/2026/06/06/benq-ma270s-hands-on-for-mac-studio-display-competitor-27-inch-5k-monitor/",
+      "tituloOriginal": "Hands-on: BenQ’s new MA270S is a glossy 27-inch 5K display made for Mac",
+      "tituloLimpio": "Nuevo monitor BenQ MA270S: Competidor directo para el Studio Display de Apple",
+      "resumen": "BenQ lanza el MA270S, un monitor de 27 pulgadas y 5K con acabado brillante, diseñado para ser una alternativa al Apple Studio Display.",
+      "porQueImporta": "Aumenta la competencia en el mercado de monitores de alta gama para usuarios de Mac, ofreciendo opciones alternativas.",
+      "publicadoEn": "2026-06-06T17:41:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "Seguridad",
-        "Empresas",
+        "Monitores",
+        "Periféricos",
         "Tecnología"
       ],
       "tambienVistoEn": []
@@ -262,16 +274,16 @@
       "fuente": "AppleInsider",
       "url": "https://appleinsider.com/articles/26/06/06/chrome-for-macos-soundly-beats-browser-benchmark-records?utm_source=rss",
       "tituloOriginal": "Chrome for macOS soundly beats browser benchmark records",
-      "tituloLimpio": "Chrome para macOS bate récords de rendimiento",
-      "resumen": "Google Chrome ha establecido nuevos récords de velocidad en macOS gracias a mejoras recientes, superando benchmarks.",
-      "porQueImporta": "Noticia relevante para usuarios de Mac que utilizan Chrome, indicando una mejora en la experiencia.",
+      "tituloLimpio": "Chrome para macOS bate récords de rendimiento en benchmarks",
+      "resumen": "Google Chrome ha establecido nuevos récords de rendimiento en macOS tras un año de mejoras, medidos en un MacBook Pro con chip M5.",
+      "porQueImporta": "Indica una mejora significativa en la velocidad y eficiencia de Chrome en el ecosistema Apple, beneficiando a los usuarios.",
       "publicadoEn": "2026-06-06T13:34:09.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "Chrome",
         "macOS",
+        "Chrome",
         "Rendimiento"
       ],
       "tambienVistoEn": []
@@ -282,17 +294,17 @@
       "fuente": "MacStories",
       "url": "https://www.macstories.net/news/podcast-rewind-automation-wishes-rg-rotate-impressions-lessons-from-shipping-apps-and-heading-to-apple-park/",
       "tituloOriginal": "Podcast Rewind: Automation Wishes, RG Rotate Impressions, Lessons from Shipping Apps, and Heading to Apple Park",
-      "tituloLimpio": "Automatización y planes para WWDC en Podcast Rewind",
-      "resumen": "El último episodio de Podcast Rewind discute deseos de automatización para WWDC y experiencias al lanzar apps.",
-      "porQueImporta": "Perspectiva sobre automatización y desarrollo de apps en el ecosistema Apple.",
+      "tituloLimpio": "Podcast Rewind: Deseos de automatización y lecciones al lanzar apps",
+      "resumen": "Episodios de podcasts de MacStories discuten deseos de automatización para WWDC, impresiones de RG Rotate y lecciones aprendidas al lanzar aplicaciones.",
+      "porQueImporta": "Ofrece perspectivas sobre automatización y desarrollo de software dentro del ecosistema Apple, útil para desarrolladores y entusiastas.",
       "publicadoEn": "2026-06-05T15:24:28.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
         "Automatización",
-        "WWDC",
-        "Apps"
+        "Desarrollo",
+        "Productividad"
       ],
       "tambienVistoEn": []
     },
@@ -300,20 +312,20 @@
       "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
       "categoria": "Finance",
       "fuente": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/healthcare/articles/novos-wegovy-pill-isnt-just-133500213.html",
-      "tituloOriginal": "Novo's Wegovy Pill Isn't Just Beating Expectations -- It's Obliterating Them. Is the Beaten-Down Stock a Buy Now?",
-      "tituloLimpio": "Wegovy de Novo supera expectativas; ¿es momento de comprar la acción?",
-      "resumen": "La píldora Wegovy de Novo Nordisk está teniendo un éxito arrollador, superando todas las previsiones. Se analiza si es una buena oportunidad de inversión.",
-      "porQueImporta": "Información clave para inversores en el sector salud y farmacéutico.",
-      "publicadoEn": "2026-06-06T13:35:00.000Z",
-      "imagen": "https://media.zenfs.com/en/motleyfool.com/e11958e754416c4462455c35ee8f67cc",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/pfizers-dividend-survive-patent-cliff-175200060.html",
+      "tituloOriginal": "Can Pfizer's Dividend Survive the Patent Cliff? This $10.5 Billion Cancer Bet Could Hold the Answer.",
+      "tituloLimpio": "Pfizer: ¿Podrá su dividendo sobrevivir al 'patent cliff' con una apuesta de $10.5 mil millones?",
+      "resumen": "Se analiza si el dividendo de Pfizer puede resistir la pérdida de patentes, con una inversión de $10.5 mil millones en tratamientos contra el cáncer como posible solución.",
+      "porQueImporta": "Evaluación de la salud financiera de una gigante farmacéutica y su capacidad para mantener el retorno a los inversores ante desafíos clave.",
+      "publicadoEn": "2026-06-06T17:52:00.000Z",
+      "imagen": "https://media.zenfs.com/en/motleyfool.com/81bbc046021aad1faf5abb415114ff9f",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Finanzas",
         "Inversiones",
-        "Salud",
-        "Farmacéutica"
+        "Pfizer",
+        "Farmacéuticas"
       ],
       "tambienVistoEn": []
     },
@@ -323,18 +335,18 @@
       "fuente": "Yahoo Finance",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-what-to-do-market-rally-test-spacex-ipo-apple-oracle/?src=A00220&yptr=yahoo",
       "tituloOriginal": "Dow Jones Futures: What To Do As Market Rally Faces First Real Test; SpaceX IPO, Apple, Oracle Loom",
-      "tituloLimpio": "Futuros del Dow Jones y pruebas del mercado; SpaceX y Apple en la mira",
-      "resumen": "Los futuros del Dow Jones enfrentan su primera prueba real mientras se esperan anuncios importantes de SpaceX y Apple.",
-      "porQueImporta": "Análisis del comportamiento del mercado y eventos corporativos relevantes.",
-      "publicadoEn": "2026-06-06T12:22:13.000Z",
+      "tituloLimpio": "Futuros del Dow Jones: ¿Cómo actuar ante la prueba del mercado? SpaceX, Apple y Oracle en la mira",
+      "resumen": "Análisis sobre cómo reaccionar ante la actual tendencia alcista del mercado, con la expectativa de IPOs de SpaceX y movimientos de Apple y Oracle.",
+      "porQueImporta": "Guía para inversores sobre el comportamiento del mercado y eventos corporativos relevantes que podrían influir en las cotizaciones.",
+      "publicadoEn": "2026-06-06T15:47:52.000Z",
       "imagen": "https://media.zenfs.com/en/ibd.com/53cb5ccd6529d26f805783b37decf65d",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Finanzas",
         "Mercado",
-        "Apple",
-        "SpaceX"
+        "Inversiones",
+        "Apple"
       ],
       "tambienVistoEn": []
     },
@@ -342,20 +354,20 @@
       "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
       "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/06/satoshi-era-bitcoin-at-center-of-usd285-billion-lawsuit-moves-after-14-years",
-      "tituloOriginal": "Satoshi-era bitcoin at center of $285 billion lawsuit moves after 14 years",
-      "tituloLimpio": "Demanda millonaria por Bitcoin de la era Satoshi",
-      "resumen": "Un litigio de $285 mil millones se centra en un Bitcoin de la época de Satoshi Nakamoto, con movimientos legales tras 14 años.",
-      "porQueImporta": "Desarrollo significativo en el ámbito legal y de las criptomonedas.",
-      "publicadoEn": "2026-06-06T13:30:00.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/1015dde522ef326b0be42591a52370d74f450a3f-6070x4047.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "url": "https://www.coindesk.com/opinion/2026/06/06/meta-is-paying-creators-in-stablecoins-spending-them-is-someone-else-s-problem",
+      "tituloOriginal": "Meta is paying creators in Stablecoins. Spending them is someone else's problem",
+      "tituloLimpio": "Meta paga a creadores en Stablecoins: Gastarlas es problema de otros",
+      "resumen": "La decisión de Meta de pagar en USDC valida las stablecoins, pero expone el problema de su conversión a moneda local utilizable.",
+      "porQueImporta": "Destaca la creciente adopción de criptomonedas en pagos, pero también las limitaciones prácticas para su uso diario.",
+      "publicadoEn": "2026-06-06T16:30:00.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/cfaf9c075207a73ff2c9f56502c1b48c8c1fc2dc-3754x2250.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
       "globalScore": 96,
       "personalScore": 100,
       "tags": [
         "Finanzas",
         "Criptomonedas",
-        "Bitcoin",
-        "Legal"
+        "Meta",
+        "Stablecoins"
       ],
       "tambienVistoEn": []
     },
@@ -365,18 +377,18 @@
       "fuente": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/travala-ai-agents-book-hotels-usdc-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "tituloOriginal": "Travala lets AI agents book hotels with USDC on Base",
-      "tituloLimpio": "Travala permite reservas de hoteles con IA y USDC en Base",
-      "resumen": "La plataforma Travala integra IA para que agentes puedan reservar hoteles usando USDC en la red Base, con aprobación final del usuario.",
-      "porQueImporta": "Innovación en la intersección de IA, criptomonedas y turismo.",
+      "tituloLimpio": "Travala permite a agentes de IA reservar hoteles con USDC en Base",
+      "resumen": "La plataforma Travala introduce un protocolo para que agentes de IA reserven hoteles usando USDC en la red Base, aunque el viajero aprueba el pago final.",
+      "porQueImporta": "Avance en la automatización de reservas de viajes mediante IA y uso de criptomonedas, integrando nuevas tecnologías en el sector.",
       "publicadoEn": "2026-06-05T20:55:27.000Z",
       "imagen": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy90cmF2YWxhLWNyeXB0b2N1cnJlbmN5LnBuZw==.png",
       "globalScore": 84,
       "personalScore": 100,
       "tags": [
         "IA",
+        "Automatización",
         "Criptomonedas",
-        "Base",
-        "Turismo"
+        "Viajes"
       ],
       "tambienVistoEn": []
     },
@@ -384,20 +396,20 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/ethereum-hoy-cotizacion-y-precio-del-eth-este-sabado-6-de-junio-de-2026_0_hzWiwSVxg6.html",
-      "tituloOriginal": "Ethereum hoy: cotización y precio del ETH este sábado 6 de junio de 2026",
-      "tituloLimpio": "Cotización de Ethereum hoy, 6 de junio de 2026",
-      "resumen": "Se presenta el valor actualizado del Ether (ETH) y un resumen de su historia.",
-      "porQueImporta": "Información relevante para quienes siguen el mercado de criptomonedas.",
-      "publicadoEn": "2026-06-06T10:30:02.000Z",
-      "imagen": "https://www.clarin.com/img/2022/11/09/-fXyWJ1iQ_1200x630__1.jpg",
+      "url": "https://www.clarin.com/economia/fin-mito-recursos-naturales-salvamos_0_44CwNtQlEM.html",
+      "tituloOriginal": "¿Fin del mito? Con los recursos naturales no nos salvamos",
+      "tituloLimpio": "Argentina: ¿Los recursos naturales no alcanzan para el desarrollo?",
+      "resumen": "Un estudio de economistas sugiere que la minería y Vaca Muerta aportan poco al empleo y valor agregado, abogando por agregar valor a las exportaciones.",
+      "porQueImporta": "Debate fundamental sobre el modelo de desarrollo económico en Argentina, cuestionando la dependencia de recursos primarios.",
+      "publicadoEn": "2026-06-06T15:16:02.000Z",
+      "imagen": "https://www.clarin.com/img/2026/06/06/pq8X0iQvq_1200x630__1.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Criptomonedas",
-        "Ethereum",
-        "Finanzas"
+        "Economía",
+        "Recursos Naturales",
+        "Desarrollo"
       ],
       "tambienVistoEn": []
     },
@@ -405,20 +417,20 @@
       "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Politica",
-      "url": "https://www.clarin.com/politica/primera-vez-guerra-malvinas-argentina-integra-acuerdo-comercial-socio-reino-unido_0_Y8QuqQamvN.html",
-      "tituloOriginal": "Por primera vez desde la Guerra de Malvinas, Argentina integra un acuerdo comercial en el que es socio del Reino Unido",
-      "tituloLimpio": "Argentina firma acuerdo comercial con Reino Unido post-Malvinas",
-      "resumen": "Por primera vez desde la Guerra de Malvinas, Argentina se integra a un acuerdo comercial donde el Reino Unido es socio, a través del Tratado Transpacífico.",
-      "porQueImporta": "Hito diplomático y comercial con implicaciones significativas para la política exterior argentina.",
-      "publicadoEn": "2026-06-06T11:01:44.000Z",
-      "imagen": "https://www.clarin.com/img/2026/06/03/OB8jGDSbz_1200x630__1.jpg",
-      "globalScore": 98,
+      "url": "https://www.clarin.com/politica/kirchnerismo-acusa-ministro-defensa-borrar-nombre-general-peron-fachada-escuela-militar-montana_0_rBnRsB9Bvb.html",
+      "tituloOriginal": "El kirchnerismo acusa al ministro de Defensa de borrar el nombre del general Perón de la fachada de la Escuela Militar de Montaña",
+      "tituloLimpio": "Tensión política: Acusan al Ministro de Defensa de borrar el nombre de Perón de escuela militar",
+      "resumen": "El kirchnerismo denuncia que el Ministro de Defensa eliminó el nombre del General Perón de la fachada de la Escuela Militar de Montaña en Bariloche.",
+      "porQueImporta": "Refleja las disputas políticas y simbólicas en Argentina, con acusaciones cruzadas sobre la historia y la memoria.",
+      "publicadoEn": "2026-06-06T14:27:42.000Z",
+      "imagen": "https://www.clarin.com/img/2026/06/06/4sFKZvjA-_1200x630__1.jpg",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
         "Política",
-        "Comercio Internacional",
-        "Reino Unido"
+        "Defensa",
+        "Historia"
       ],
       "tambienVistoEn": []
     },
@@ -426,20 +438,20 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/06/06/el-credito-hipotecario-no-repunta-cuales-son-las-opciones-todavia-disponibles-y-cuanto-cuestan/",
-      "tituloOriginal": "El crédito hipotecario no repunta: cuáles son las opciones todavía disponibles y cuánto cuestan",
-      "tituloLimpio": "Crédito hipotecario en Argentina: opciones y costos",
-      "resumen": "El crédito hipotecario no repunta en Argentina a pesar de las bajas tasas. Se detallan las opciones disponibles y sus costos.",
-      "porQueImporta": "Panorama del mercado inmobiliario y de financiamiento en Argentina.",
-      "publicadoEn": "2026-06-06T13:19:26.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/BAHX2LKQWRB55PDO6YO7L4Q2TM.png?auth=c12927057a19c04e54e2a30e51df6a9bb051f02ff67ce672a490a43302e7ac5d&smart=true&width=2752&height=1536",
-      "globalScore": 98,
+      "url": "https://www.infobae.com/economia/2026/06/06/el-auto-mas-vendido-en-todo-el-mundo-en-2025-ya-se-puede-comprar-en-argentina-como-es-y-cuando-cuesta/",
+      "tituloOriginal": "El auto más vendido en todo el mundo en 2025 ya se puede comprar en Argentina: cómo es y cuánto cuesta",
+      "tituloLimpio": "El auto más vendido del mundo en 2025 ya está en Argentina",
+      "resumen": "El vehículo más vendido globalmente en 2025, con versiones híbridas y eléctricas, ya se puede adquirir en Argentina.",
+      "porQueImporta": "Novedad importante para el mercado automotor argentino, trayendo modelos de alta demanda global.",
+      "publicadoEn": "2026-06-06T17:31:10.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/AYKLDM4MXZF5HKNVQDGFCB4UCU.jpg?auth=ad85973aaa36f2f2cc447c9e4b859121e57280e18df1fb32a3fe89561d2e65e8&smart=true&width=1920&height=1080",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Finanzas",
-        "Crédito Hipotecario",
-        "Economía"
+        "Automóviles",
+        "Mercado",
+        "Tecnología"
       ],
       "tambienVistoEn": []
     },
@@ -447,19 +459,20 @@
       "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Politica",
-      "url": "https://www.infobae.com/politica/2026/06/06/el-gobierno-bonaerense-decreto-tres-dias-de-duelo-por-la-muerte-del-indio-solari/",
-      "tituloOriginal": "El Gobierno bonaerense decretó tres días de duelo por la muerte del Indio Solari",
-      "tituloLimpio": "Gobierno bonaerense decreta duelo por muerte del Indio Solari",
-      "resumen": "Se decretaron tres días de duelo provincial por el fallecimiento del músico Indio Solari.",
-      "porQueImporta": "Noticia de interés cultural y social en la provincia de Buenos Aires.",
-      "publicadoEn": "2026-06-06T13:25:22.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/COTZPTUDXBHMTNBLLH2IUZT6GE.jpg?auth=70d3d9e61d4f105d023e53a583b8dd4dd0bb14d3129dad4fdf36cd74a6f91a1a&smart=true&width=3949&height=2738",
-      "globalScore": 94,
+      "url": "https://www.infobae.com/politica/2026/06/06/es-solamente-un-acto-formal-el-presidente-tiene-que-designar-a-michelli-como-jueza-dijo-maqueda/",
+      "tituloOriginal": "“Es solamente un acto formal, el presidente tiene que designar” a Michelli como jueza, dijo Juan Carlos Maqueda",
+      "tituloLimpio": "Designación de jueza: \"Es solo un acto formal\", afirma ex juez de la Corte",
+      "resumen": "Juan Carlos Maqueda, ex juez de la Corte Suprema, califica la designación de Michelli como jueza como un acto formal que el presidente debe cumplir.",
+      "porQueImporta": "Aclara aspectos del proceso de nombramiento judicial en Argentina, indicando la inminencia de la confirmación de la jueza.",
+      "publicadoEn": "2026-06-06T17:58:36.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/52CNPB72CFANJAUGT4HAES5EVM.png?auth=45c5101606d9e8e55a4f9b4749127cfb17131f6d48055fb6917e474178d35dca&smart=true&width=1536&height=1024",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Cultura",
-        "Indio Solari"
+        "Política",
+        "Justicia",
+        "Corte Suprema"
       ],
       "tambienVistoEn": []
     },
@@ -467,20 +480,20 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/aguinaldo-como-aprovechar-este-ingreso-extra-para-armar-un-fondo-de-emergencia-nid06062026/",
-      "tituloOriginal": "Aguinaldo: cómo aprovechar este ingreso extra para armar un fondo de emergencia",
-      "tituloLimpio": "Cómo usar el aguinaldo para crear un fondo de emergencia",
-      "resumen": "Se explican estrategias para aprovechar el aguinaldo y constituir un fondo de emergencia que mantenga su valor y liquidez.",
-      "porQueImporta": "Consejos prácticos para la gestión financiera personal en Argentina.",
-      "publicadoEn": "2026-06-06T12:23:40.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/UP23SJTMTRHR5PCIUX42UZ52BA.jpg?auth=03a53a71e2041613e89622f6394423e8c5d7ba772d22deb676ed444dc4224e2c&smart=true&width=2000&height=1333",
-      "globalScore": 98,
+      "url": "https://www.lanacion.com.ar/economia/campo/estabamos-al-limite-llego-un-gesto-de-brasil-y-se-destraban-las-exportaciones-de-900-toneladas-de-nid06062026/",
+      "tituloOriginal": "Llegó un gesto de Brasil y se destraban las exportaciones de 900 toneladas de carne ovina",
+      "tituloLimpio": "Destraban exportaciones de carne ovina a Brasil tras gesto diplomático",
+      "resumen": "Un acuerdo con Brasil permite destrabar la exportación de 900 toneladas de carne ovina, superando restricciones sanitarias.",
+      "porQueImporta": "Noticia positiva para el sector agroexportador argentino, abriendo un mercado importante para la carne ovina patagónica.",
+      "publicadoEn": "2026-06-06T17:51:28.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/HDL42DUKLBEBXC3IOINDYHNBCA.jpg?auth=0682da2226b253ef51677e71c6d597608c5a0d6d21c81bccb1c024076ca34c2e&smart=true&width=2000&height=1333",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Finanzas Personales",
-        "Ahorro",
-        "Aguinaldo"
+        "Economía",
+        "Exportaciones",
+        "Agro"
       ],
       "tambienVistoEn": []
     },
@@ -488,20 +501,20 @@
       "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Politica",
-      "url": "https://www.lanacion.com.ar/politica/pablo-gerchunoff-si-el-central-acercara-el-dolar-al-techo-de-la-banda-milei-casi-se-aseguraria-la-nid06062026/",
-      "tituloOriginal": "“Si el Central acercara el dólar al techo de la banda, Milei casi se aseguraría la reelección”",
-      "tituloLimpio": "Análisis: Dólar en techo de banda y reelección de Milei",
-      "resumen": "Un historiador económico analiza que si el Banco Central acerca el dólar al techo de la banda, Milei casi aseguraría su reelección.",
-      "porQueImporta": "Perspectiva económica y política sobre la gestión del gobierno argentino.",
-      "publicadoEn": "2026-06-06T09:49:18.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/6T75HIK3ANFTLA7DYQ7R7ARHZI.JPG?auth=7eeb6fa91509311bee1ab13771c3b08d025edcc83089dd16b522481bdba4b239&smart=true&width=1965&height=1333",
+      "url": "https://www.lanacion.com.ar/politica/la-refundacion-de-la-justicia-de-milei-y-mahiques-un-inicio-con-candidatos-de-la-familia-judicial-y-nid06062026/",
+      "tituloOriginal": "La refundación de la Justicia de Milei y Mahiques: un inicio endogámico y nombres negociados con gobernadores",
+      "tituloLimpio": "Nombramientos judiciales en Argentina: Nombres negociados y endogamia",
+      "resumen": "Los pliegos de jueces y fiscales aprobados por el Senado y pendientes de firma presidencial muestran un patrón de parentesco y negociaciones con gobernadores.",
+      "porQueImporta": "Revela la dinámica interna de los nombramientos judiciales en Argentina, sugiriendo influencias políticas y familiares.",
+      "publicadoEn": "2026-06-06T15:34:32.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/WG5OQ22GMFGQFJZBZQQR3TJAGU.jpg?auth=17d1b657a0f8926a4968581e0e1b269bf7bce2339d0b2e230943a72c930e9ff8&smart=true&width=428&height=321",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Economía",
         "Política",
-        "Dólar"
+        "Justicia",
+        "Nombramientos"
       ],
       "tambienVistoEn": []
     },
@@ -511,9 +524,9 @@
       "fuente": "Adweek",
       "url": "https://www.adweek.com/brand-marketing/how-ouras-cmo-took-it-from-sleep-tracker-to-wellness-disruptor/",
       "tituloOriginal": "How Oura’s CMO Took It From Sleep Tracker to Wellness Disruptor",
-      "tituloLimpio": "Cómo Oura pasó de rastreador de sueño a disruptor del bienestar",
-      "resumen": "La estrategia de marketing de Oura para posicionarse como líder en bienestar a través de su anillo inteligente.",
-      "porQueImporta": "Estudio de caso sobre branding y marketing en el sector de wearables y salud.",
+      "tituloLimpio": "Cómo la CMO de Oura convirtió un rastreador de sueño en un disruptor del bienestar",
+      "resumen": "La CMO de Oura lideró la transformación de la marca de un simple rastreador de sueño a un referente en bienestar con su anillo inteligente.",
+      "porQueImporta": "Estudio de caso sobre estrategia de marketing y posicionamiento de marca, mostrando cómo innovar y liderar un mercado.",
       "publicadoEn": "2026-06-05T11:41:38.000Z",
       "globalScore": 82,
       "personalScore": 100,
@@ -521,13 +534,13 @@
         "Marketing",
         "Oura",
         "Bienestar",
-        "Wearables"
+        "Estrategia"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-06-06T13:50:26.412Z"
+    "generadoEn": "2026-06-06T18:06:04.829Z"
   }
 }
