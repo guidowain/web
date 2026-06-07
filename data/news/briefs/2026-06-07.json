@@ -1,89 +1,147 @@
 {
   "fecha": "2026-06-07",
-  "generadoEn": "2026-06-07T14:00:43.589Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "Las noticias de hoy giran en torno a avances en IA, el posible diseño del iPhone plegable y el impacto de la IA en los mercados financieros. En Argentina, se destaca el viaje del titular del BCRA a China para renovar el swap y datos sobre ventas minoristas pyme. También hay novedades sobre el mercado cripto y movimientos políticos en CABA.",
+  "generadoEn": "2026-06-07T18:04:39.457Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Las noticias de hoy giran en torno a la IA, con Google anunciando novedades y la dificultad creciente para distinguir el contenido generado por IA. En el ámbito de Apple, se discute la comparación del Apple Watch Series 11 con competidores y los retrasos en lanzamientos de nuevos productos por las actualizaciones de IA. En finanzas, el mercado bursátil sufre una caída por la venta de acciones de IA y un informe de empleo que aleja las esperanzas de recorte de tasas. En Argentina, se destacan consejos para ahorrar en supermercados, la cotización del Ethereum y la postura de Victoria Villarruel sobre el acceso a la prensa. También hay información sobre el impacto de la guerra en Medio Oriente en las aerolíneas.",
   "radarPersonal": [],
   "loImportante": [
-    "El posible diseño del iPhone plegable se revela en detalle, con especulaciones sobre su disponibilidad en blanco.",
-    "Las acciones bursátiles sufrieron caídas significativas debido a una venta masiva relacionada con la IA, sumado a un informe de empleo que reduce las expectativas de recortes de tasas.",
-    "El titular del Banco Central argentino, Santiago Bausili, viaja a China para negociar la renovación del swap, crucial para las reservas del país.",
-    "OpenAI lanza un 'Modo de Bloqueo' para proteger datos sensibles de ataques de inyección de prompts, aunque la vulnerabilidad persiste."
+    "Google anuncia sus últimas novedades en IA de mayo.",
+    "El mercado bursátil cae ante la venta de acciones de IA y la expectativa de tasas de interés.",
+    "Victoria Villarruel reafirma su compromiso con la libertad de prensa en Argentina.",
+    "Las aerolíneas ajustan proyecciones de ganancias por la guerra en Medio Oriente y el alza del combustible."
   ],
   "oportunidades": [
     {
-      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
-      "categoria": "Investing",
-      "titulo": "Acciones con potencial en la próxima ola de IA",
-      "detalle": "Se identifican tres acciones por debajo de los $50 que podrían beneficiarse del auge de la IA, manteniéndose aún fuera del radar principal.",
-      "acciones": [
-        "Investigar estas acciones para evaluar su potencial de crecimiento.",
-        "Considerar la diversificación de cartera con empresas emergentes en IA."
-      ]
-    },
-    {
-      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
-      "categoria": "Marketing",
-      "titulo": "Transformación de marca con enfoque en bienestar",
-      "detalle": "La estrategia de marketing de Oura ha logrado posicionar su anillo inteligente como un disruptor en el mercado del bienestar, pasando de ser un simple rastreador de sueño a un producto integral.",
-      "acciones": [
-        "Analizar las campañas de Oura para identificar tácticas efectivas de posicionamiento de marca.",
-        "Explorar cómo la narrativa de 'bienestar' puede aplicarse a otros productos tecnológicos."
-      ]
-    },
-    {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "id": "oportunidad-1",
       "categoria": "AI",
-      "titulo": "Seguridad en IA: Lecciones del hackeo de Meta",
-      "detalle": "Un incidente de seguridad en Meta, donde se utilizó su agente de IA para robar cuentas de Instagram, subraya la importancia de ir más allá de las percepciones comunes sobre la seguridad en IA.",
+      "titulo": "Avances en IA y su impacto en la detección de contenido",
+      "detalle": "La IA generativa avanza a pasos agigantados, haciendo cada vez más difícil distinguir el contenido creado por humanos del generado por máquinas. Esto presenta desafíos y oportunidades para la autenticidad y la verificación.",
       "acciones": [
-        "Revisar las medidas de seguridad implementadas en sistemas de IA.",
-        "Evaluar los riesgos de seguridad asociados con la interacción de usuarios y agentes de IA."
+        "Monitorear herramientas de detección de contenido IA.",
+        "Evaluar el impacto en la credibilidad de la información."
+      ]
+    },
+    {
+      "id": "oportunidad-2",
+      "categoria": "Investing",
+      "titulo": "Oportunidades de inversión post-corrección de IA",
+      "detalle": "La reciente caída en acciones ligadas a la IA podría presentar oportunidades de entrada para inversores con visión a largo plazo, una vez que se estabilice el mercado.",
+      "acciones": [
+        "Analizar empresas de IA con fundamentos sólidos.",
+        "Considerar ETFs sectoriales de IA."
+      ]
+    },
+    {
+      "id": "oportunidad-3",
+      "categoria": "Argentina",
+      "titulo": "Estrategias de ahorro en consumo masivo",
+      "detalle": "Ante la inflación, los supermercados ofrecen beneficios y promociones. Identificar estas oportunidades puede generar un ahorro significativo en las compras diarias.",
+      "acciones": [
+        "Comparar precios y promociones activas.",
+        "Utilizar programas de fidelización y medios de pago con descuentos."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
-      "categoria": "Market",
-      "titulo": "Volatilidad del mercado por ventas de IA y datos de empleo",
-      "detalle": "La caída de las acciones y la disminución de las esperanzas de recortes de tasas de interés generan un panorama de incertidumbre en los mercados financieros.",
-      "mitigacion": "Monitorear de cerca los indicadores económicos y las noticias sobre IA. Considerar estrategias de inversión defensivas."
-    },
-    {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "id": "riesgo-1",
       "categoria": "AI",
-      "titulo": "Vulnerabilidades persistentes en IA a pesar de nuevas medidas",
-      "detalle": "Aunque OpenAI introduce un 'Modo de Bloqueo', la posibilidad de ataques de inyección de prompts que expongan datos sensibles aún existe.",
-      "mitigacion": "Implementar capas adicionales de seguridad y validación en el uso de herramientas de IA. Educar a los usuarios sobre los riesgos."
+      "titulo": "Vulnerabilidades de seguridad en sistemas de IA",
+      "detalle": "El hackeo a Meta a través de su agente de soporte de IA demuestra que la seguridad en estos sistemas es más compleja de lo que parece, con potenciales fugas de datos y accesos no autorizados.",
+      "mitigacion": "Fortalecer los protocolos de seguridad y auditorías regulares en sistemas de IA. Estar atento a nuevas vulnerabilidades reportadas."
     },
     {
-      "id": "cointelegraph-aHR0cHM6Ly93d3cuY29p",
-      "categoria": "Regulatory",
-      "titulo": "Incertidumbre regulatoria en el sector cripto",
-      "detalle": "Republicanos del Senado presionan a los reguladores financieros para clarificar las reglas de capital para criptoactivos, indicando una posible tensión regulatoria.",
-      "mitigacion": "Mantenerse informado sobre los desarrollos regulatorios en el espacio cripto. Evaluar el impacto potencial en inversiones y operaciones."
+      "id": "riesgo-2",
+      "categoria": "Market",
+      "titulo": "Volatilidad del mercado por IA y tasas de interés",
+      "detalle": "La caída de las acciones bursátiles, impulsada por la venta de activos de IA y la posibilidad de que las tasas de interés no bajen pronto, genera incertidumbre en los mercados.",
+      "mitigacion": "Diversificar las inversiones y mantener una estrategia de gestión de riesgos. Estar atento a los indicadores económicos clave."
+    },
+    {
+      "id": "riesgo-3",
+      "categoria": "Argentina",
+      "titulo": "Impacto económico de conflictos internacionales",
+      "detalle": "La guerra en Medio Oriente y el aumento del combustible afectan directamente a las aerolíneas, recortando sus proyecciones de ganancias y potencialmente impactando los costos de los pasajes.",
+      "mitigacion": "Monitorear la evolución del conflicto y su impacto en los precios de la energía y el transporte. Evaluar alternativas de viaje si los costos aumentan significativamente."
     }
   ],
-  "conexiones": [],
+  "conexiones": [
+    {
+      "id": "conexion-1",
+      "titulo": "IA y su impacto en la vida cotidiana y el mercado",
+      "historias": [
+        "Google AI Blog: Novedades en IA de mayo.",
+        "The Verge AI: Dificultad creciente para identificar contenido IA.",
+        "MIT Technology Review AI: Vulnerabilidades de seguridad en IA (Meta hack).",
+        "Sherwood: Caída de bolsa por venta de acciones de IA."
+      ],
+      "conclusion": "La inteligencia artificial sigue siendo un motor clave de innovación y también de volatilidad en los mercados. Los avances en IA de Google y la creciente dificultad para distinguir contenido generado por IA son puntos centrales. A su vez, las vulnerabilidades de seguridad y el impacto en el mercado bursátil subrayan la necesidad de cautela y análisis profundo."
+    },
+    {
+      "id": "conexion-2",
+      "titulo": "Apple, tecnología personal y el futuro de los wearables",
+      "historias": [
+        "9to5Mac: Comparativa del Apple Watch Series 11 con Oura, Fitbit y Whoop.",
+        "AppleInsider: Retrasos en lanzamientos de nuevos productos Apple por actualizaciones de IA.",
+        "MacRumors: Descuentos en cargadores Anker previo a Prime Day.",
+        "MacStories: Discusión sobre automatización y planes para visitar Apple Park."
+      ],
+      "conclusion": "Apple se prepara para lanzar nuevas versiones de su Watch, compitiendo en el mercado de wearables de salud. Los avances en IA de la compañía parecen estar influyendo en los tiempos de lanzamiento de nuevos productos. Mientras tanto, accesorios como los cargadores Anker presentan ofertas, y la comunidad de desarrolladores discute automatización y planes futuros."
+    },
+    {
+      "id": "conexion-3",
+      "titulo": "Panorama económico y político en Argentina",
+      "historias": [
+        "Ambito: Consejos para ahorrar en supermercados.",
+        "Clarin Economia: Cotización del Ethereum.",
+        "Clarin Politica: Victoria Villarruel se diferencia de Milei sobre acceso a prensa.",
+        "Infobae Economia: Claves del éxito de negocios.",
+        "Infobae Politica: Análisis del 'círculo rojo' y la Justicia.",
+        "La Nacion Economia: Impacto de guerra y combustible en aerolíneas.",
+        "La Nacion Politica: Mauricio Macri sobre libertad de prensa."
+      ],
+      "conclusion": "En Argentina, la atención se divide entre estrategias de ahorro en el consumo, el comportamiento de las criptomonedas como Ethereum, y el escenario político. La vicepresidenta Villarruel marca distancia del presidente Milei en cuanto a la libertad de prensa, mientras que figuras como Mauricio Macri también se pronuncian al respecto. El sector de negocios busca claves de éxito, y el contexto internacional, como la guerra en Medio Oriente, impacta en sectores clave como el de las aerolíneas."
+    }
+  ],
   "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+      "tituloOriginal": "The latest AI news we announced in May 2026",
+      "tituloLimpio": "Google anuncia sus últimas novedades en IA de mayo",
+      "resumen": "Google comparte las actualizaciones más recientes en inteligencia artificial anunciadas durante mayo de 2026.",
+      "porQueImporta": "Permite conocer los avances directos de Google en el campo de la IA, fundamental para entender la dirección de la tecnología.",
+      "publicadoEn": "2026-06-05T14:45:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/May_AI_Recap_still.max-600x600.format-webp.webp",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Google",
+        "Novedades",
+        "Mayo 2026"
+      ],
+      "tambienVistoEn": []
+    },
     {
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Apple",
       "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/07/best-look-yet-at-foldable-iphone-design-revealed/",
-      "tituloOriginal": "Best Look at Foldable iPhone Design Revealed, May Only Come in White",
-      "tituloLimpio": "Revelan el diseño del iPhone plegable, podría venir solo en blanco",
-      "resumen": "Imágenes detalladas de una unidad dummy de un iPhone plegable muestran un diseño finalizado, sugiriendo que podría lanzarse únicamente en color blanco.",
-      "porQueImporta": "Ofrece la mejor visión hasta la fecha del esperado iPhone plegable, un producto clave para Apple.",
-      "publicadoEn": "2026-06-07T10:28:04.000Z",
+      "url": "https://www.macrumors.com/2026/06/07/ankers-prime-chargers-low/",
+      "tituloOriginal": "Anker 3-in-1 Wireless Charging Station Now $40 Off Ahead of Amazon Prime Day",
+      "tituloLimpio": "Cargadores Anker con descuento previo a Amazon Prime Day",
+      "resumen": "La estación de carga inalámbrica Anker 3 en 1 tiene un descuento de $40, anticipándose al evento Prime Day de Amazon.",
+      "porQueImporta": "Oportunidad de compra para accesorios tecnológicos populares, con un descuento significativo.",
+      "publicadoEn": "2026-06-07T14:00:15.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "iPhone",
-        "Plegable",
-        "Diseño"
+        "Accesorios",
+        "Descuentos",
+        "Amazon"
       ],
       "tambienVistoEn": []
     },
@@ -93,9 +151,9 @@
       "fuente": "Sherwood",
       "url": "https://sherwood.news/markets/stocks-tumble-amid-ai-selloff-as-a-blowout-jobs-report-dampens-hope-of-a-rate-cut-this-year/",
       "tituloOriginal": "Stocks tumble amid AI sell-off as a blowout jobs report dampens hope of a rate cut this year",
-      "tituloLimpio": "Bolsas caen por ventas masivas ligadas a IA y datos de empleo",
-      "resumen": "El S&P 500 rompió una racha de nueve semanas alcistas y el Nasdaq 100 tuvo su peor día desde abril de 2025, ante la expectativa de que un fuerte informe de empleo aleje la posibilidad de recortes de tasas.",
-      "porQueImporta": "Indica una corrección importante en el mercado, influenciada por la IA y la política monetaria.",
+      "tituloLimpio": "Bolsa cae por venta de acciones de IA y datos de empleo desalientan recorte de tasas",
+      "resumen": "El S&P 500 rompió una racha de nueve semanas alcistas y el Nasdaq 100 tuvo su peor día desde abril de 2025, ante una liquidación de acciones de IA y un informe de empleo que reduce las esperanzas de una baja de tasas de interés.",
+      "porQueImporta": "Indica una corrección importante en el mercado bursátil, influenciada directamente por el sector de IA y las expectativas macroeconómicas.",
       "publicadoEn": "2026-06-05T20:02:59.000Z",
       "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/2277773016_yellowstone-national-park-wyoming-a-grizzly-bear-walks-through-grasses-on-may-22-2026-in.jpg",
       "globalScore": 94,
@@ -103,8 +161,9 @@
       "tags": [
         "Finanzas",
         "Mercado",
-        "IA",
-        "Tasas de interés"
+        "AI",
+        "Tasas de interés",
+        "Acciones"
       ],
       "tambienVistoEn": []
     },
@@ -112,21 +171,19 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/clave-las-reservas-santiago-bausili-viaja-china-asegurar-la-continuidad-del-swap-n6286025",
-      "tituloOriginal": "Clave para las reservas: Santiago Bausili viaja a China para negociar la renovación del swap",
-      "tituloLimpio": "Bausili viaja a China para renovar el swap, clave para las reservas",
-      "resumen": "El titular del Banco Central argentino se dirige a China para negociar la continuidad del swap, cuyo vencimiento es en agosto.",
-      "porQueImporta": "Es una operación fundamental para la estabilidad de las reservas del país y la política cambiaria.",
-      "publicadoEn": "2026-06-07T13:32:00.000Z",
-      "imagen": "https://media.ambito.com/p/eaba82554c17523063d06f18afee3c83/adjuntos/239/imagenes/043/423/0043423979/1200x675/smart/swap-china-banco-central-dolares.jpg",
-      "globalScore": 94,
+      "url": "https://www.ambito.com/economia/supermercados-y-beneficios-como-ahorrar-las-compras-este-domingo-7-junio-n6285212",
+      "tituloOriginal": "Supermercados y beneficios: cómo ahorrar en las compras de este domingo 7 de junio",
+      "tituloLimpio": "Cómo ahorrar en las compras de supermercado este domingo",
+      "resumen": "Se detallan ofertas y beneficios disponibles en supermercados para este domingo 7 de junio, incluyendo promociones por cadena y medio de pago.",
+      "porQueImporta": "Ofrece consejos prácticos y directos para reducir gastos en la canasta familiar en Argentina.",
+      "publicadoEn": "2026-06-07T14:00:00.000Z",
+      "globalScore": 90,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Economía",
-        "BCRA",
-        "China",
-        "Reservas"
+        "Consumo",
+        "Ahorro",
+        "Supermercados"
       ],
       "tambienVistoEn": []
     },
@@ -136,17 +193,37 @@
       "fuente": "Marketing Dive",
       "url": "https://www.marketingdive.com/news/campaign-trail-coca-cola-rides-a-roller-coaster-of-world-cup-emotions/821781/",
       "tituloOriginal": "Campaign Trail: Coca-Cola rides a roller coaster of World Cup emotions",
-      "tituloLimpio": "Coca-Cola y la montaña rusa emocional del Mundial",
-      "resumen": "La campaña \"No Better Feeling\" de Coca-Cola busca potenciar la emoción de un momento deportivo clave, conectando con su lema \"Feel It All\".",
-      "porQueImporta": "Ejemplo de una estrategia de marketing que vincula una marca global con eventos de gran impacto emocional.",
+      "tituloLimpio": "Coca-Cola celebra las emociones del Mundial con su nueva campaña",
+      "resumen": "La campaña \"No Better Feeling\" de Coca-Cola, creada por WPP Open X, busca amplificar la emoción de un momento deportivo clave para cerrar la campaña \"Feel It All\".",
+      "porQueImporta": "Ejemplo de cómo una marca global utiliza eventos masivos y marketing emocional para conectar con su audiencia.",
       "publicadoEn": "2026-06-05T13:54:00.000Z",
       "globalScore": 84,
       "personalScore": 100,
       "tags": [
         "Marketing",
         "Coca-Cola",
-        "Deportes",
-        "Campañas"
+        "Mundial",
+        "Campaña"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "fuente": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/how-ouras-cmo-took-it-from-sleep-tracker-to-wellness-disruptor/",
+      "tituloOriginal": "How Oura’s CMO Took It From Sleep Tracker to Wellness Disruptor",
+      "tituloLimpio": "Oura transforma su anillo inteligente en un disruptor del bienestar",
+      "resumen": "El CMO de Oura explica cómo la empresa pasó de ser un simple rastreador de sueño a un líder en tecnología de bienestar con su anillo inteligente.",
+      "porQueImporta": "Caso de estudio sobre cómo una empresa de tecnología de consumo reposicionó su producto y estrategia de marketing.",
+      "publicadoEn": "2026-06-05T11:41:38.000Z",
+      "globalScore": 82,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "Oura",
+        "Wearables",
+        "Bienestar"
       ],
       "tambienVistoEn": []
     },
@@ -154,19 +231,19 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
-      "tituloOriginal": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-      "tituloLimpio": "OpenAI lanza 'Modo de Bloqueo' para proteger datos sensibles",
-      "resumen": "La nueva función busca reducir la posibilidad de que datos sensibles sean expuestos a través de ataques de inyección de prompts, aunque la vulnerabilidad no se elimina por completo.",
-      "porQueImporta": "Representa un esfuerzo de OpenAI por mejorar la seguridad de su plataforma, crucial para la adopción empresarial.",
-      "publicadoEn": "2026-06-06T20:32:24.000Z",
-      "globalScore": 94,
+      "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+      "tituloOriginal": "Notion restores access to Anthropic after service disruption",
+      "tituloLimpio": "Notion restablece acceso a Anthropic tras interrupción del servicio",
+      "resumen": "Notion ha restaurado el acceso a los servicios de Anthropic después de una interrupción que afectó a muchos usuarios.",
+      "porQueImporta": "Detalla un problema técnico y su resolución en una plataforma popular de productividad que integra IA.",
+      "publicadoEn": "2026-06-07T17:56:22.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "IA",
-        "OpenAI",
-        "Seguridad",
-        "Datos"
+        "AI",
+        "Notion",
+        "Anthropic",
+        "Servicio"
       ],
       "tambienVistoEn": []
     },
@@ -176,17 +253,17 @@
       "fuente": "The Verge AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators",
       "tituloOriginal": "AI ‘content creators’ are getting harder to spot",
-      "tituloLimpio": "Los 'creadores de contenido' de IA son cada vez más difíciles de identificar",
-      "resumen": "La línea entre el contenido generado por humanos y el creado por IA se difumina, haciendo más complejo distinguir su origen.",
-      "porQueImporta": "Plantea desafíos en cuanto a autenticidad, desinformación y el futuro del contenido digital.",
+      "tituloLimpio": "Contenido generado por IA es cada vez más difícil de detectar",
+      "resumen": "La línea entre el contenido creado por humanos y el generado por inteligencia artificial se difumina, haciendo más complejo su reconocimiento.",
+      "porQueImporta": "Plantea un desafío significativo en cuanto a la autenticidad y la verificación de la información en la era digital.",
       "publicadoEn": "2026-06-07T12:00:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "IA",
+        "AI",
         "Contenido",
-        "Medios",
-        "Tecnología"
+        "Detección",
+        "Verificación"
       ],
       "tambienVistoEn": []
     },
@@ -196,14 +273,14 @@
       "fuente": "MIT Technology Review AI",
       "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
       "tituloOriginal": "The Meta hack shows there’s more to AI security than Mythos",
-      "tituloLimpio": "Hackeo en Meta expone falencias de seguridad en IA",
-      "resumen": "Un ataque reciente utilizó el agente de soporte de IA de Meta para robar cuentas de Instagram, demostrando que la seguridad en IA va más allá de lo aparente.",
-      "porQueImporta": "Revela vulnerabilidades prácticas en sistemas de IA que pueden ser explotadas, con implicaciones para la seguridad de datos.",
+      "tituloLimpio": "Hackeo a Meta expone vulnerabilidades en seguridad de IA",
+      "resumen": "Un ataque a través del agente de soporte de IA de Meta permitió el robo de cuentas de Instagram, demostrando que la seguridad en IA es un área crítica y compleja.",
+      "porQueImporta": "Alerta sobre riesgos de seguridad concretos asociados a la implementación de IA en grandes plataformas.",
       "publicadoEn": "2026-06-05T09:00:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "IA",
+        "AI",
         "Seguridad",
         "Meta",
         "Hackeo"
@@ -214,19 +291,19 @@
       "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Apple",
       "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/07/dummy-unit-iphone-fold-ultra-new-look/",
-      "tituloOriginal": "New dummy units give our closest look yet at the iPhone Fold",
-      "tituloLimpio": "Nuevas unidades dummy muestran el iPhone Fold en detalle",
-      "resumen": "Fotos de unidades dummy ofrecen la vista más cercana hasta ahora del diseño esperado del primer teléfono plegable de Apple, que tendría una pantalla de aproximadamente 7.8 pulgadas.",
-      "porQueImporta": "Proporciona información visual concreta sobre el diseño y tamaño del futuro iPhone plegable.",
-      "publicadoEn": "2026-06-07T13:29:38.000Z",
+      "url": "https://9to5mac.com/2026/06/07/heres-how-apple-watch-series-11-stacks-up-against-oura-fitbit-and-whoop-per-wsj/",
+      "tituloOriginal": "Here’s how Apple Watch Series 11 stacks up against Oura, Fitbit, and Whoop, per WSJ",
+      "tituloLimpio": "Comparativa del Apple Watch Series 11 con competidores",
+      "resumen": "Según The Wall Street Journal, el Apple Watch Series 11 se compara favorablemente con los smart rings de Oura y las bandas de Fitbit y Whoop en salud y fitness.",
+      "porQueImporta": "Análisis comparativo clave para entender la posición del Apple Watch en el competitivo mercado de wearables de salud.",
+      "publicadoEn": "2026-06-07T16:04:54.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "iPhone",
-        "Plegable",
-        "Diseño"
+        "Wearables",
+        "Comparativa",
+        "Salud"
       ],
       "tambienVistoEn": []
     },
@@ -234,19 +311,19 @@
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
       "categoria": "Apple",
       "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/06/07/more-iphone-fold-dummy-shots-appear-in-folded-open-forms?utm_source=rss",
-      "tituloOriginal": "More iPhone Fold dummy shots appear in folded, open forms",
-      "tituloLimpio": "Más imágenes de unidades dummy del iPhone Fold",
-      "resumen": "Nuevas fotos de una supuesta unidad dummy del iPhone Fold aparecen en formatos plegado y abierto, reforzando la apariencia rumoreada del modelo.",
-      "porQueImporta": "Complementa la información visual sobre el diseño del iPhone plegable, aumentando la expectativa.",
-      "publicadoEn": "2026-06-07T12:54:22.000Z",
+      "url": "https://appleinsider.com/articles/26/06/07/slow-to-arrive-apple-intelligence-upgrades-delayed-new-product-category-launches?utm_source=rss",
+      "tituloOriginal": "Slow-to-arrive Apple Intelligence upgrades delayed new product category launches",
+      "tituloLimpio": "Actualizaciones de Apple Intelligence retrasan lanzamientos de nuevos productos",
+      "resumen": "Los avances en Apple Intelligence están provocando demoras en el lanzamiento de nuevas categorías de productos, como un Home Hub y gafas inteligentes.",
+      "porQueImporta": "Revela cómo la estrategia de IA de Apple está impactando su roadmap de hardware y la llegada de innovaciones.",
+      "publicadoEn": "2026-06-07T15:09:48.000Z",
       "globalScore": 92,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "iPhone",
-        "Plegable",
-        "Diseño"
+        "AI",
+        "Lanzamientos",
+        "Productos"
       ],
       "tambienVistoEn": []
     },
@@ -256,9 +333,9 @@
       "fuente": "MacStories",
       "url": "https://www.macstories.net/news/podcast-rewind-automation-wishes-rg-rotate-impressions-lessons-from-shipping-apps-and-heading-to-apple-park/",
       "tituloOriginal": "Podcast Rewind: Automation Wishes, RG Rotate Impressions, Lessons from Shipping Apps, and Heading to Apple Park",
-      "tituloLimpio": "Automatización y lecciones de desarrollo de apps en MacStories",
-      "resumen": "Federico y John discuten sus deseos de automatización para WWDC y comparten lecciones aprendidas al lanzar aplicaciones.",
-      "porQueImporta": "Ofrece perspectivas sobre herramientas y estrategias de desarrollo, relevantes para quienes trabajan con tecnología y apps.",
+      "tituloLimpio": "Discusión sobre automatización y planes para visitar Apple Park",
+      "resumen": "Federico y John comparten sus deseos de automatización para WWDC y planes para visitar Apple Park en los últimos episodios de podcasts de MacStories.",
+      "porQueImporta": "Ofrece una mirada a las expectativas de la comunidad de desarrolladores y planes de la industria tecnológica.",
       "publicadoEn": "2026-06-05T15:24:28.000Z",
       "globalScore": 100,
       "personalScore": 100,
@@ -266,7 +343,7 @@
         "Apple",
         "Automatización",
         "Desarrollo",
-        "Apps"
+        "Podcast"
       ],
       "tambienVistoEn": []
     },
@@ -274,20 +351,20 @@
       "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
       "categoria": "Finance",
       "fuente": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/next-nvidia-3-stocks-below-120500020.html",
-      "tituloOriginal": "The next NVIDIA? These 3 stocks below $50 are poised to win the next AI boom (and they’re still flying under the radar)",
-      "tituloLimpio": "3 acciones bajo $50 con potencial en el auge de la IA",
-      "resumen": "Se señalan tres acciones de bajo costo que se perfilan para beneficiarse de la próxima ola de crecimiento impulsada por la IA.",
-      "porQueImporta": "Identifica oportunidades de inversión en el sector de IA con un umbral de entrada accesible.",
-      "publicadoEn": "2026-06-06T12:05:00.000Z",
-      "imagen": "https://media.zenfs.com/en/moneywise_ecomm_711/46687c749678df59c9fb024b9596dd44",
-      "globalScore": 90,
+      "url": "https://finance.yahoo.com/markets/stocks/articles/invested-10-000-meta-platforms-174500511.html",
+      "tituloOriginal": "If You Invested $10,000 in Meta Platforms Stock 10 Years Ago, Here's How Much You'd Have Today",
+      "tituloLimpio": "Inversión de $10,000 en Meta hace 10 años: cuánto valdría hoy",
+      "resumen": "Se calcula el rendimiento de una inversión de $10,000 en acciones de Meta Platforms realizada hace una década.",
+      "porQueImporta": "Ilustra el potencial de inversión a largo plazo en empresas tecnológicas líderes.",
+      "publicadoEn": "2026-06-07T17:45:00.000Z",
+      "imagen": "https://media.zenfs.com/en/motleyfool.com/0c57acf1ab0698dd4731ee69464e1a62",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Finanzas",
         "Inversión",
-        "IA",
-        "Acciones"
+        "Meta",
+        "Rendimiento"
       ],
       "tambienVistoEn": []
     },
@@ -295,20 +372,20 @@
       "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
       "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/06/07/ethereum-foundation-cuts-and-departures-aren-t-a-crisis-joe-lubin-says",
-      "tituloOriginal": "Ethereum Foundation cuts and departures aren't a crisis, Joe Lubin says",
-      "tituloLimpio": "Joe Lubin: Recortes en Ethereum Foundation no son una crisis",
-      "resumen": "El líder de Consensys opina que el rol de la Ethereum Foundation debería ser más acotado, enfocado en la tecnología y valores centrales de la red.",
-      "porQueImporta": "Ofrece una perspectiva sobre la estructura y el futuro de la Fundación Ethereum en medio de cambios.",
-      "publicadoEn": "2026-06-07T13:00:00.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/d24e9e537cd71ad7aac0c7e03d7614f0d51f8618-2048x1365.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "globalScore": 92,
+      "url": "https://www.coindesk.com/business/2026/06/06/michael-saylor-revives-bitcoin-buy-speculation-as-scrutiny-over-strategy-grows",
+      "tituloOriginal": "Michael Saylor revives bitcoin-buy speculation as scrutiny over Strategy grows",
+      "tituloLimpio": "Michael Saylor reaviva especulación sobre compra de Bitcoin",
+      "resumen": "El presidente ejecutivo de MicroStrategy, Michael Saylor, publicó un gráfico familiar sugiriendo que es un \"buen momento para añadir más puntos\" (BTC).",
+      "porQueImporta": "Indica posibles movimientos de grandes tenedores de Bitcoin, lo que puede influir en el mercado de criptomonedas.",
+      "publicadoEn": "2026-06-07T17:41:57.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/49ac93ccbf9bcc916ad8632cdc9797b8d1ba129a-3771x2121.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Finanzas",
-        "Cripto",
-        "Ethereum",
-        "Blockchain"
+        "Bitcoin",
+        "Michael Saylor",
+        "Inversión"
       ],
       "tambienVistoEn": []
     },
@@ -316,20 +393,20 @@
       "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
       "categoria": "Finance",
       "fuente": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/senate-republicans-push-finance-regulators-to-clarify-crypto-capital-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "tituloOriginal": "Senate Republicans push finance watchdogs to clarify crypto capital rules",
-      "tituloLimpio": "Republicanos del Senado piden claridad en reglas de capital para cripto",
-      "resumen": "Un grupo de legisladores, liderado por Cynthia Lummis, insta a los reguladores a definir un tratamiento de capital justo para los activos digitales.",
-      "porQueImporta": "Refleja la creciente atención regulatoria sobre las criptomonedas y la potencial influencia en el mercado.",
-      "publicadoEn": "2026-06-05T04:26:57.000Z",
-      "imagen": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9jeW50aGlhLWx1bW1pcy1wb3J0cmFpdC0xLmpwZw==.jpg",
-      "globalScore": 82,
+      "url": "https://cointelegraph.com/markets/bitcoin-risks-new-purge-with-bear-market-losses-still-35b-below-2022-total?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Bitcoin risks new 'purge' with bear-market losses still $35B below 2022 total",
+      "tituloLimpio": "Bitcoin podría enfrentar nueva \"purga\" con pérdidas de mercado bajista",
+      "resumen": "Las pérdidas realizadas de Bitcoin aún están por debajo del total de 2022, lo que lleva a predecir que el fondo del próximo mercado bajista aún no se ha alcanzado.",
+      "porQueImporta": "Análisis técnico y predictivo sobre el comportamiento futuro del precio de Bitcoin y el mercado cripto.",
+      "publicadoEn": "2026-06-07T14:29:19.000Z",
+      "imagen": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9jcnlwdG8tcmVkLW1hcmtldC1wcmljZS1hbmFseXNpcy10ZXJtaW5hdG9yLWJlYXIuanBlZw==.jpeg",
+      "globalScore": 90,
       "personalScore": 100,
       "tags": [
         "Finanzas",
-        "Cripto",
-        "Regulación",
-        "EEUU"
+        "Bitcoin",
+        "Mercado bajista",
+        "Criptomonedas"
       ],
       "tambienVistoEn": []
     },
@@ -339,9 +416,9 @@
       "fuente": "Clarin Economia",
       "url": "https://www.clarin.com/economia/ethereum-hoy-cotizacion-y-precio-del-eth-este-domingo-7-de-junio-de-2026_0_n3nMaSTqaC.html",
       "tituloOriginal": "Ethereum hoy: cotización y precio del ETH este domingo 7 de junio de 2026",
-      "tituloLimpio": "Cotización del Ethereum este domingo 7 de junio de 2026",
-      "resumen": "Se presenta el valor actualizado del ETH, la segunda criptomoneda más importante por capitalización, junto con su origen e historia.",
-      "porQueImporta": "Informa sobre el estado actual de una criptomoneda relevante en el mercado financiero.",
+      "tituloLimpio": "Cotización del Ethereum hoy, domingo 7 de junio de 2026",
+      "resumen": "Se presenta el valor actualizado del Ethereum (ETH), la segunda criptomoneda más importante por capitalización, junto con su origen e historia.",
+      "porQueImporta": "Información relevante para quienes siguen el mercado de criptomonedas en Argentina.",
       "publicadoEn": "2026-06-07T10:30:01.000Z",
       "imagen": "https://www.clarin.com/img/2022/11/09/-fXyWJ1iQ_1200x630__1.jpg",
       "globalScore": 94,
@@ -349,8 +426,30 @@
       "tags": [
         "Argentina",
         "Finanzas",
-        "Cripto",
-        "Ethereum"
+        "Ethereum",
+        "Criptomonedas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/dia-periodista-victoria-villarruel-volvio-diferenciarse-javier-milei-dijo-va-limitar-acceso-prensa-senado_0_58cZmqL8ZM.html",
+      "tituloOriginal": "En el Día del Periodista, Victoria Villarruel volvió a diferenciarse de Javier Milei: dijo que nunca va a limitar el acceso de la prensa al Senado",
+      "tituloLimpio": "Villarruel se diferencia de Milei: \"Nunca limitaré el acceso de la prensa al Senado\"",
+      "resumen": "En el Día del Periodista, la vicepresidenta Victoria Villarruel afirmó que nunca limitará el acceso de la prensa al Senado, marcando una diferencia con medidas recientes en Casa Rosada.",
+      "porQueImporta": "Posicionamiento político clave en Argentina, destacando la libertad de prensa en un contexto de tensiones.",
+      "publicadoEn": "2026-06-07T16:40:37.000Z",
+      "imagen": "https://www.clarin.com/img/2026/06/07/-jW4xWRXt_1200x630__1.jpg",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Política",
+        "Prensa",
+        "Villarruel",
+        "Milei"
       ],
       "tambienVistoEn": []
     },
@@ -358,20 +457,20 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/06/07/en-mayo-las-ventas-minoristas-pyme-cayeron-12-respecto-de-2025-pero-mostraron-un-leve-repunte-sobre-abril/",
-      "tituloOriginal": "En mayo las ventas minoristas pyme cayeron 1,2% respecto de 2025, pero mostraron un leve repunte sobre abril",
-      "tituloLimpio": "Ventas minoristas pyme cayeron 1,2% en mayo, pero repuntaron respecto a abril",
-      "resumen": "Las ventas online de comercios con local a la calle muestran un cambio estructural, aunque no compensan la caída de las ventas presenciales.",
-      "porQueImporta": "Brinda un panorama del desempeño del sector pyme en Argentina, con tendencias de consumo.",
-      "publicadoEn": "2026-06-07T13:49:39.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/LBMKTPHKNZDPZFLQAJVBXOCV6M.jpg?auth=c42230e4519a5e86c63383285793d30feecaa5c3779936e37d64fdfaa9ee60aa&smart=true&width=6016&height=4016",
-      "globalScore": 98,
+      "url": "https://www.infobae.com/economia/2026/06/07/cuales-son-las-claves-del-exito-tres-negocios-actuales-que-empezaron-con-una-simple-idea-y-llegaron-a-facturar-millones/",
+      "tituloOriginal": "¿Cuáles son las claves del éxito?: tres negocios actuales que empezaron con una simple idea y llegaron a facturar millones",
+      "tituloLimpio": "Claves del éxito: negocios que empezaron con una idea y facturaron millones",
+      "resumen": "Se analizan tres negocios actuales que, partiendo de ideas simples, lograron escalar y facturar millones, destacando sus estrategias de éxito en un mercado inestable.",
+      "porQueImporta": "Casos inspiradores y lecciones prácticas para emprendedores y empresarios en Argentina.",
+      "publicadoEn": "2026-06-07T17:31:55.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/2OLBAQ4M7ZA6BPHXCJNXF5RJ7A.png?auth=0067feaac7b599d9531f6465e2528b8af346168c554d5bfebbdc3d0926b8834e&smart=true&width=612&height=285",
+      "globalScore": 90,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Economía",
-        "Pymes",
-        "Consumo"
+        "Negocios",
+        "Emprendimiento",
+        "Éxito"
       ],
       "tambienVistoEn": []
     },
@@ -379,20 +478,20 @@
       "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Politica",
-      "url": "https://www.infobae.com/politica/2026/06/07/reacomodamientos-en-caba-bullrich-se-corre-pilar-ramirez-se-afirma-como-pieza-clave-y-la-coalicion-de-centro-explora-formulas/",
-      "tituloOriginal": "Reacomodamientos en CABA: Bullrich se corre, Pilar Ramírez se afirma como pieza clave y la coalición de centro explora fórmulas",
-      "tituloLimpio": "Reacomodamientos políticos en CABA: Bullrich se corre, Ramírez se afirma",
-      "resumen": "Se analizan los movimientos y alianzas políticas en la Ciudad de Buenos Aires de cara a futuras elecciones, con la figura de Pilar Ramírez ganando relevancia.",
-      "porQueImporta": "Ofrece una visión de la dinámica política local y las posibles coaliciones.",
-      "publicadoEn": "2026-06-07T06:29:44.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/S222KWMOWVHPRK5P57DOIQGMAU.jfif?auth=59b2a6caa689c1e2993167bf71ee573135a05eaf164fce76b41f86b54a78bac5&smart=true&width=4096&height=2731",
-      "globalScore": 100,
+      "url": "https://www.infobae.com/politica/2026/06/07/circulo-rojo-desbarajustes-en-el-doble-comando-y-avance-sobre-la-justicia-dos-caras-de-una-misma-moneda/",
+      "tituloOriginal": "Círculo rojo: desbarajustes en el doble comando y avance sobre la Justicia, dos caras de una misma moneda",
+      "tituloLimpio": "Análisis del \"círculo rojo\": tensiones internas y avance sobre la Justicia",
+      "resumen": "Se discuten desbarajustes en el \"doble comando\" y el avance sobre la Justicia, contrastando con la aprobación de pliegos y el intento de \"colonización\" de Comodoro Py.",
+      "porQueImporta": "Profundiza en las dinámicas de poder y las estrategias políticas en Argentina.",
+      "publicadoEn": "2026-06-07T14:39:37.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/6SSJ7WODHFBGHLWTWRBLYCNCB4.jpg?auth=7b5a1868f971c5bfde6749f8b43ca20df49abec3fdb5cfe7bf563d8b356bb7dc&smart=true&width=1429&height=804",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
         "Política",
-        "CABA",
-        "Elecciones"
+        "Justicia",
+        "Poder"
       ],
       "tambienVistoEn": []
     },
@@ -400,46 +499,49 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/que-dia-se-paga-el-aguinaldo-en-junio-de-2026-nid04062026/",
-      "tituloOriginal": "Qué día se paga el aguinaldo en junio de 2026",
-      "tituloLimpio": "Fecha de pago del aguinaldo en junio de 2026",
-      "resumen": "Se informa sobre el plazo para el pago de la primera cuota del aguinaldo en Argentina durante junio.",
-      "porQueImporta": "Información práctica y relevante para trabajadores y empleadores en Argentina.",
-      "publicadoEn": "2026-06-07T13:06:13.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/D5GS6WXGKJHQ7CLZAUUZZYNN6E.jpg?auth=b960c33792652a5177908defe9e06f956a44fac7ea5e5bba4429b7e1bde9636b&smart=true&width=2000&height=1333",
+      "url": "https://www.lanacion.com.ar/economia/por-la-guerra-en-medio-oriente-y-la-suba-del-combustible-las-aerolineas-recortaron-a-la-mitad-su-nid07062026/",
+      "tituloOriginal": "Por la guerra en Medio Oriente y la suba del combustible, las aerolíneas recortaron a la mitad su proyección de ganancias",
+      "tituloLimpio": "Aerolíneas recortan proyecciones de ganancias por guerra y combustible",
+      "resumen": "La guerra en Medio Oriente y la suba del combustible obligaron a las aerolíneas a reducir a la mitad su proyección de ganancias, aunque esperan crecimiento en la demanda.",
+      "porQueImporta": "Impacto directo de eventos geopolíticos y económicos en un sector clave como el transporte aéreo.",
+      "publicadoEn": "2026-06-07T16:47:10.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/NR4KSHQATBF2XCWVWGHQJJ2QD4.jpg?auth=192e1227979b6a4f1c70f041eed74642883d44d05dfe4a4addd086d45e625982&smart=true&width=1600&height=1067",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
         "Economía",
-        "Laboral",
-        "Aguinaldo"
+        "Aerolíneas",
+        "Combustible",
+        "Guerra"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
-      "categoria": "Marketing",
-      "fuente": "Adweek",
-      "url": "https://www.adweek.com/brand-marketing/how-ouras-cmo-took-it-from-sleep-tracker-to-wellness-disruptor/",
-      "tituloOriginal": "How Oura’s CMO Took It From Sleep Tracker to Wellness Disruptor",
-      "tituloLimpio": "Cómo Oura pasó de rastreador de sueño a disruptor del bienestar",
-      "resumen": "El CMO de Oura detalla la estrategia que transformó el anillo inteligente en un líder del mercado de bienestar, lanzando su campaña más ambiciosa.",
-      "porQueImporta": "Estudio de caso sobre transformación de marca y marketing de productos de salud y bienestar.",
-      "publicadoEn": "2026-06-05T11:41:38.000Z",
-      "globalScore": 82,
+      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Politica",
+      "url": "https://www.lanacion.com.ar/politica/mauricio-macri-en-el-dia-del-periodista-deseo-que-siempre-puedan-hacer-su-trabajo-seguros-y-en-nid07062026/",
+      "tituloOriginal": "Mauricio Macri, en el Día del Periodista: “Deseo que siempre puedan hacer su trabajo seguros y en libertad”",
+      "tituloLimpio": "Macri: \"Deseo que siempre puedan hacer su trabajo seguros y en libertad\"",
+      "resumen": "El expresidente Mauricio Macri, en el Día del Periodista, destacó el rol de los medios y la importancia de la libertad de expresión y prensa para la democracia.",
+      "porQueImporta": "Declaración relevante de una figura política importante en Argentina sobre la libertad de prensa.",
+      "publicadoEn": "2026-06-07T17:52:52.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/OKXCPDJEXVEQZOZLEDKSWNNKLQ.jpg?auth=05885eeb5b3878e3356972fa0d1b8425a84a2d9f3c182c8dfdf0c1344301ae00&smart=true&width=1280&height=854",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "Marketing",
-        "Oura",
-        "Bienestar",
-        "Marcas"
+        "Argentina",
+        "Política",
+        "Prensa",
+        "Macri",
+        "Libertad de expresión"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-06-07T14:00:43.589Z"
+    "generadoEn": "2026-06-07T18:04:39.457Z"
   }
 }
