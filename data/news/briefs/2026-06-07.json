@@ -1,0 +1,445 @@
+{
+  "fecha": "2026-06-07",
+  "generadoEn": "2026-06-07T14:00:43.589Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "Las noticias de hoy giran en torno a avances en IA, el posible diseño del iPhone plegable y el impacto de la IA en los mercados financieros. En Argentina, se destaca el viaje del titular del BCRA a China para renovar el swap y datos sobre ventas minoristas pyme. También hay novedades sobre el mercado cripto y movimientos políticos en CABA.",
+  "radarPersonal": [],
+  "loImportante": [
+    "El posible diseño del iPhone plegable se revela en detalle, con especulaciones sobre su disponibilidad en blanco.",
+    "Las acciones bursátiles sufrieron caídas significativas debido a una venta masiva relacionada con la IA, sumado a un informe de empleo que reduce las expectativas de recortes de tasas.",
+    "El titular del Banco Central argentino, Santiago Bausili, viaja a China para negociar la renovación del swap, crucial para las reservas del país.",
+    "OpenAI lanza un 'Modo de Bloqueo' para proteger datos sensibles de ataques de inyección de prompts, aunque la vulnerabilidad persiste."
+  ],
+  "oportunidades": [
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Investing",
+      "titulo": "Acciones con potencial en la próxima ola de IA",
+      "detalle": "Se identifican tres acciones por debajo de los $50 que podrían beneficiarse del auge de la IA, manteniéndose aún fuera del radar principal.",
+      "acciones": [
+        "Investigar estas acciones para evaluar su potencial de crecimiento.",
+        "Considerar la diversificación de cartera con empresas emergentes en IA."
+      ]
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "titulo": "Transformación de marca con enfoque en bienestar",
+      "detalle": "La estrategia de marketing de Oura ha logrado posicionar su anillo inteligente como un disruptor en el mercado del bienestar, pasando de ser un simple rastreador de sueño a un producto integral.",
+      "acciones": [
+        "Analizar las campañas de Oura para identificar tácticas efectivas de posicionamiento de marca.",
+        "Explorar cómo la narrativa de 'bienestar' puede aplicarse a otros productos tecnológicos."
+      ]
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "titulo": "Seguridad en IA: Lecciones del hackeo de Meta",
+      "detalle": "Un incidente de seguridad en Meta, donde se utilizó su agente de IA para robar cuentas de Instagram, subraya la importancia de ir más allá de las percepciones comunes sobre la seguridad en IA.",
+      "acciones": [
+        "Revisar las medidas de seguridad implementadas en sistemas de IA.",
+        "Evaluar los riesgos de seguridad asociados con la interacción de usuarios y agentes de IA."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "categoria": "Market",
+      "titulo": "Volatilidad del mercado por ventas de IA y datos de empleo",
+      "detalle": "La caída de las acciones y la disminución de las esperanzas de recortes de tasas de interés generan un panorama de incertidumbre en los mercados financieros.",
+      "mitigacion": "Monitorear de cerca los indicadores económicos y las noticias sobre IA. Considerar estrategias de inversión defensivas."
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "titulo": "Vulnerabilidades persistentes en IA a pesar de nuevas medidas",
+      "detalle": "Aunque OpenAI introduce un 'Modo de Bloqueo', la posibilidad de ataques de inyección de prompts que expongan datos sensibles aún existe.",
+      "mitigacion": "Implementar capas adicionales de seguridad y validación en el uso de herramientas de IA. Educar a los usuarios sobre los riesgos."
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Regulatory",
+      "titulo": "Incertidumbre regulatoria en el sector cripto",
+      "detalle": "Republicanos del Senado presionan a los reguladores financieros para clarificar las reglas de capital para criptoactivos, indicando una posible tensión regulatoria.",
+      "mitigacion": "Mantenerse informado sobre los desarrollos regulatorios en el espacio cripto. Evaluar el impacto potencial en inversiones y operaciones."
+    }
+  ],
+  "conexiones": [],
+  "noticias": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/07/best-look-yet-at-foldable-iphone-design-revealed/",
+      "tituloOriginal": "Best Look at Foldable iPhone Design Revealed, May Only Come in White",
+      "tituloLimpio": "Revelan el diseño del iPhone plegable, podría venir solo en blanco",
+      "resumen": "Imágenes detalladas de una unidad dummy de un iPhone plegable muestran un diseño finalizado, sugiriendo que podría lanzarse únicamente en color blanco.",
+      "porQueImporta": "Ofrece la mejor visión hasta la fecha del esperado iPhone plegable, un producto clave para Apple.",
+      "publicadoEn": "2026-06-07T10:28:04.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "iPhone",
+        "Plegable",
+        "Diseño"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "categoria": "Finance",
+      "fuente": "Sherwood",
+      "url": "https://sherwood.news/markets/stocks-tumble-amid-ai-selloff-as-a-blowout-jobs-report-dampens-hope-of-a-rate-cut-this-year/",
+      "tituloOriginal": "Stocks tumble amid AI sell-off as a blowout jobs report dampens hope of a rate cut this year",
+      "tituloLimpio": "Bolsas caen por ventas masivas ligadas a IA y datos de empleo",
+      "resumen": "El S&P 500 rompió una racha de nueve semanas alcistas y el Nasdaq 100 tuvo su peor día desde abril de 2025, ante la expectativa de que un fuerte informe de empleo aleje la posibilidad de recortes de tasas.",
+      "porQueImporta": "Indica una corrección importante en el mercado, influenciada por la IA y la política monetaria.",
+      "publicadoEn": "2026-06-05T20:02:59.000Z",
+      "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/2277773016_yellowstone-national-park-wyoming-a-grizzly-bear-walks-through-grasses-on-may-22-2026-in.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "Mercado",
+        "IA",
+        "Tasas de interés"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/clave-las-reservas-santiago-bausili-viaja-china-asegurar-la-continuidad-del-swap-n6286025",
+      "tituloOriginal": "Clave para las reservas: Santiago Bausili viaja a China para negociar la renovación del swap",
+      "tituloLimpio": "Bausili viaja a China para renovar el swap, clave para las reservas",
+      "resumen": "El titular del Banco Central argentino se dirige a China para negociar la continuidad del swap, cuyo vencimiento es en agosto.",
+      "porQueImporta": "Es una operación fundamental para la estabilidad de las reservas del país y la política cambiaria.",
+      "publicadoEn": "2026-06-07T13:32:00.000Z",
+      "imagen": "https://media.ambito.com/p/eaba82554c17523063d06f18afee3c83/adjuntos/239/imagenes/043/423/0043423979/1200x675/smart/swap-china-banco-central-dolares.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Economía",
+        "BCRA",
+        "China",
+        "Reservas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/campaign-trail-coca-cola-rides-a-roller-coaster-of-world-cup-emotions/821781/",
+      "tituloOriginal": "Campaign Trail: Coca-Cola rides a roller coaster of World Cup emotions",
+      "tituloLimpio": "Coca-Cola y la montaña rusa emocional del Mundial",
+      "resumen": "La campaña \"No Better Feeling\" de Coca-Cola busca potenciar la emoción de un momento deportivo clave, conectando con su lema \"Feel It All\".",
+      "porQueImporta": "Ejemplo de una estrategia de marketing que vincula una marca global con eventos de gran impacto emocional.",
+      "publicadoEn": "2026-06-05T13:54:00.000Z",
+      "globalScore": 84,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "Coca-Cola",
+        "Deportes",
+        "Campañas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "tituloOriginal": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "tituloLimpio": "OpenAI lanza 'Modo de Bloqueo' para proteger datos sensibles",
+      "resumen": "La nueva función busca reducir la posibilidad de que datos sensibles sean expuestos a través de ataques de inyección de prompts, aunque la vulnerabilidad no se elimina por completo.",
+      "porQueImporta": "Representa un esfuerzo de OpenAI por mejorar la seguridad de su plataforma, crucial para la adopción empresarial.",
+      "publicadoEn": "2026-06-06T20:32:24.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "OpenAI",
+        "Seguridad",
+        "Datos"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators",
+      "tituloOriginal": "AI ‘content creators’ are getting harder to spot",
+      "tituloLimpio": "Los 'creadores de contenido' de IA son cada vez más difíciles de identificar",
+      "resumen": "La línea entre el contenido generado por humanos y el creado por IA se difumina, haciendo más complejo distinguir su origen.",
+      "porQueImporta": "Plantea desafíos en cuanto a autenticidad, desinformación y el futuro del contenido digital.",
+      "publicadoEn": "2026-06-07T12:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "Contenido",
+        "Medios",
+        "Tecnología"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+      "tituloOriginal": "The Meta hack shows there’s more to AI security than Mythos",
+      "tituloLimpio": "Hackeo en Meta expone falencias de seguridad en IA",
+      "resumen": "Un ataque reciente utilizó el agente de soporte de IA de Meta para robar cuentas de Instagram, demostrando que la seguridad en IA va más allá de lo aparente.",
+      "porQueImporta": "Revela vulnerabilidades prácticas en sistemas de IA que pueden ser explotadas, con implicaciones para la seguridad de datos.",
+      "publicadoEn": "2026-06-05T09:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "Seguridad",
+        "Meta",
+        "Hackeo"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/07/dummy-unit-iphone-fold-ultra-new-look/",
+      "tituloOriginal": "New dummy units give our closest look yet at the iPhone Fold",
+      "tituloLimpio": "Nuevas unidades dummy muestran el iPhone Fold en detalle",
+      "resumen": "Fotos de unidades dummy ofrecen la vista más cercana hasta ahora del diseño esperado del primer teléfono plegable de Apple, que tendría una pantalla de aproximadamente 7.8 pulgadas.",
+      "porQueImporta": "Proporciona información visual concreta sobre el diseño y tamaño del futuro iPhone plegable.",
+      "publicadoEn": "2026-06-07T13:29:38.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "iPhone",
+        "Plegable",
+        "Diseño"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/06/07/more-iphone-fold-dummy-shots-appear-in-folded-open-forms?utm_source=rss",
+      "tituloOriginal": "More iPhone Fold dummy shots appear in folded, open forms",
+      "tituloLimpio": "Más imágenes de unidades dummy del iPhone Fold",
+      "resumen": "Nuevas fotos de una supuesta unidad dummy del iPhone Fold aparecen en formatos plegado y abierto, reforzando la apariencia rumoreada del modelo.",
+      "porQueImporta": "Complementa la información visual sobre el diseño del iPhone plegable, aumentando la expectativa.",
+      "publicadoEn": "2026-06-07T12:54:22.000Z",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "iPhone",
+        "Plegable",
+        "Diseño"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/news/podcast-rewind-automation-wishes-rg-rotate-impressions-lessons-from-shipping-apps-and-heading-to-apple-park/",
+      "tituloOriginal": "Podcast Rewind: Automation Wishes, RG Rotate Impressions, Lessons from Shipping Apps, and Heading to Apple Park",
+      "tituloLimpio": "Automatización y lecciones de desarrollo de apps en MacStories",
+      "resumen": "Federico y John discuten sus deseos de automatización para WWDC y comparten lecciones aprendidas al lanzar aplicaciones.",
+      "porQueImporta": "Ofrece perspectivas sobre herramientas y estrategias de desarrollo, relevantes para quienes trabajan con tecnología y apps.",
+      "publicadoEn": "2026-06-05T15:24:28.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "Automatización",
+        "Desarrollo",
+        "Apps"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/next-nvidia-3-stocks-below-120500020.html",
+      "tituloOriginal": "The next NVIDIA? These 3 stocks below $50 are poised to win the next AI boom (and they’re still flying under the radar)",
+      "tituloLimpio": "3 acciones bajo $50 con potencial en el auge de la IA",
+      "resumen": "Se señalan tres acciones de bajo costo que se perfilan para beneficiarse de la próxima ola de crecimiento impulsada por la IA.",
+      "porQueImporta": "Identifica oportunidades de inversión en el sector de IA con un umbral de entrada accesible.",
+      "publicadoEn": "2026-06-06T12:05:00.000Z",
+      "imagen": "https://media.zenfs.com/en/moneywise_ecomm_711/46687c749678df59c9fb024b9596dd44",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "Inversión",
+        "IA",
+        "Acciones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/06/07/ethereum-foundation-cuts-and-departures-aren-t-a-crisis-joe-lubin-says",
+      "tituloOriginal": "Ethereum Foundation cuts and departures aren't a crisis, Joe Lubin says",
+      "tituloLimpio": "Joe Lubin: Recortes en Ethereum Foundation no son una crisis",
+      "resumen": "El líder de Consensys opina que el rol de la Ethereum Foundation debería ser más acotado, enfocado en la tecnología y valores centrales de la red.",
+      "porQueImporta": "Ofrece una perspectiva sobre la estructura y el futuro de la Fundación Ethereum en medio de cambios.",
+      "publicadoEn": "2026-06-07T13:00:00.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/d24e9e537cd71ad7aac0c7e03d7614f0d51f8618-2048x1365.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "Cripto",
+        "Ethereum",
+        "Blockchain"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/senate-republicans-push-finance-regulators-to-clarify-crypto-capital-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Senate Republicans push finance watchdogs to clarify crypto capital rules",
+      "tituloLimpio": "Republicanos del Senado piden claridad en reglas de capital para cripto",
+      "resumen": "Un grupo de legisladores, liderado por Cynthia Lummis, insta a los reguladores a definir un tratamiento de capital justo para los activos digitales.",
+      "porQueImporta": "Refleja la creciente atención regulatoria sobre las criptomonedas y la potencial influencia en el mercado.",
+      "publicadoEn": "2026-06-05T04:26:57.000Z",
+      "imagen": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9jeW50aGlhLWx1bW1pcy1wb3J0cmFpdC0xLmpwZw==.jpg",
+      "globalScore": 82,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "Cripto",
+        "Regulación",
+        "EEUU"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/ethereum-hoy-cotizacion-y-precio-del-eth-este-domingo-7-de-junio-de-2026_0_n3nMaSTqaC.html",
+      "tituloOriginal": "Ethereum hoy: cotización y precio del ETH este domingo 7 de junio de 2026",
+      "tituloLimpio": "Cotización del Ethereum este domingo 7 de junio de 2026",
+      "resumen": "Se presenta el valor actualizado del ETH, la segunda criptomoneda más importante por capitalización, junto con su origen e historia.",
+      "porQueImporta": "Informa sobre el estado actual de una criptomoneda relevante en el mercado financiero.",
+      "publicadoEn": "2026-06-07T10:30:01.000Z",
+      "imagen": "https://www.clarin.com/img/2022/11/09/-fXyWJ1iQ_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Finanzas",
+        "Cripto",
+        "Ethereum"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/06/07/en-mayo-las-ventas-minoristas-pyme-cayeron-12-respecto-de-2025-pero-mostraron-un-leve-repunte-sobre-abril/",
+      "tituloOriginal": "En mayo las ventas minoristas pyme cayeron 1,2% respecto de 2025, pero mostraron un leve repunte sobre abril",
+      "tituloLimpio": "Ventas minoristas pyme cayeron 1,2% en mayo, pero repuntaron respecto a abril",
+      "resumen": "Las ventas online de comercios con local a la calle muestran un cambio estructural, aunque no compensan la caída de las ventas presenciales.",
+      "porQueImporta": "Brinda un panorama del desempeño del sector pyme en Argentina, con tendencias de consumo.",
+      "publicadoEn": "2026-06-07T13:49:39.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/LBMKTPHKNZDPZFLQAJVBXOCV6M.jpg?auth=c42230e4519a5e86c63383285793d30feecaa5c3779936e37d64fdfaa9ee60aa&smart=true&width=6016&height=4016",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Economía",
+        "Pymes",
+        "Consumo"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/06/07/reacomodamientos-en-caba-bullrich-se-corre-pilar-ramirez-se-afirma-como-pieza-clave-y-la-coalicion-de-centro-explora-formulas/",
+      "tituloOriginal": "Reacomodamientos en CABA: Bullrich se corre, Pilar Ramírez se afirma como pieza clave y la coalición de centro explora fórmulas",
+      "tituloLimpio": "Reacomodamientos políticos en CABA: Bullrich se corre, Ramírez se afirma",
+      "resumen": "Se analizan los movimientos y alianzas políticas en la Ciudad de Buenos Aires de cara a futuras elecciones, con la figura de Pilar Ramírez ganando relevancia.",
+      "porQueImporta": "Ofrece una visión de la dinámica política local y las posibles coaliciones.",
+      "publicadoEn": "2026-06-07T06:29:44.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/S222KWMOWVHPRK5P57DOIQGMAU.jfif?auth=59b2a6caa689c1e2993167bf71ee573135a05eaf164fce76b41f86b54a78bac5&smart=true&width=4096&height=2731",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Política",
+        "CABA",
+        "Elecciones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/que-dia-se-paga-el-aguinaldo-en-junio-de-2026-nid04062026/",
+      "tituloOriginal": "Qué día se paga el aguinaldo en junio de 2026",
+      "tituloLimpio": "Fecha de pago del aguinaldo en junio de 2026",
+      "resumen": "Se informa sobre el plazo para el pago de la primera cuota del aguinaldo en Argentina durante junio.",
+      "porQueImporta": "Información práctica y relevante para trabajadores y empleadores en Argentina.",
+      "publicadoEn": "2026-06-07T13:06:13.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/D5GS6WXGKJHQ7CLZAUUZZYNN6E.jpg?auth=b960c33792652a5177908defe9e06f956a44fac7ea5e5bba4429b7e1bde9636b&smart=true&width=2000&height=1333",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Economía",
+        "Laboral",
+        "Aguinaldo"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "fuente": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/how-ouras-cmo-took-it-from-sleep-tracker-to-wellness-disruptor/",
+      "tituloOriginal": "How Oura’s CMO Took It From Sleep Tracker to Wellness Disruptor",
+      "tituloLimpio": "Cómo Oura pasó de rastreador de sueño a disruptor del bienestar",
+      "resumen": "El CMO de Oura detalla la estrategia que transformó el anillo inteligente en un líder del mercado de bienestar, lanzando su campaña más ambiciosa.",
+      "porQueImporta": "Estudio de caso sobre transformación de marca y marketing de productos de salud y bienestar.",
+      "publicadoEn": "2026-06-05T11:41:38.000Z",
+      "globalScore": 82,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "Oura",
+        "Bienestar",
+        "Marcas"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-06-07T14:00:43.589Z"
+  }
+}
