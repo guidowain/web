@@ -1,112 +1,116 @@
 {
   "fecha": "2026-06-08",
-  "generadoEn": "2026-06-08T15:58:44.035Z",
+  "generadoEn": "2026-06-08T19:22:01.128Z",
   "actualizacion": "14:00",
-  "resumenEjecutivo": "Hoy la atención está puesta en la WWDC de Apple, con la expectativa de novedades en iOS 27 y Siri. En el plano económico, se discute el impacto de la situación geopolítica en el mercado y movimientos importantes en cripto. En Argentina, se aborda el cálculo del aguinaldo, el salario mínimo y la política fiscal en el agro, además de la relación con Trump y el Mercosur. En IA, Amazon suma diseño de indumentaria con IA y Microsoft habla de superinteligencia.",
+  "resumenEjecutivo": "Apple se robó el show en WWDC 2026 con importantes avances en IA para desarrolladores, incluyendo mejoras en Xcode y un nuevo framework de Foundation Models. Siri promete ser más inteligente, aunque el acceso a la beta será por lista de espera. En Argentina, la clase media porteña necesita casi $2.5 millones para ser considerada como tal, mientras el Ministerio de Economía fue evacuado por una amenaza de bomba. En finanzas, se advierte una disparidad entre acciones 'viejas' y 'nuevas', y Bitcoin muestra debilidad en su soporte de $60K.",
   "radarPersonal": [],
   "loImportante": [
-    "Apple presenta hoy sus novedades en software en la WWDC 2026, incluyendo iOS 27 y una nueva versión de Siri.",
-    "El mercado financiero reacciona a la escalada de tensiones geopolíticas, con movimientos en acciones y criptomonedas.",
-    "En Argentina, se detallan las claves para calcular el aguinaldo y se actualiza el Salario Mínimo, Vital y Móvil.",
-    "Se destaca un nuevo protocolo fiscal para semillas en Argentina que busca impulsar exportaciones agropecuarias.",
-    "Yuval Noah Harari cuestiona la idea de Milei de otorgar personalidad jurídica a la IA, generando debate."
+    "Apple presentó mejoras significativas en Xcode y un nuevo framework de Foundation Models para desarrolladores, integrando capacidades de IA en sus herramientas.",
+    "Siri se renueva con inteligencia artificial avanzada, pero el acceso a las nuevas funcionalidades en iOS 27 será mediante una lista de espera.",
+    "El costo de vida para ser considerado clase media en Buenos Aires superó los $2.5 millones, según datos oficiales.",
+    "Expertos alertan sobre una brecha creciente entre el rendimiento de acciones 'tradicionales' y las de 'nueva economía', sugiriendo oportunidades de inversión.",
+    "Bitcoin enfrenta presión bajista, con analistas advirtiendo que el soporte de $60.000 podría no mantenerse."
   ],
   "oportunidades": [
     {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "AI",
-      "titulo": "Amazon permite diseñar indumentaria personalizada con IA",
-      "detalle": "La nueva función en la app de Amazon Shopping permite a los usuarios crear diseños con Alexa para imprimirlos en productos como remeras y buzos.",
+      "titulo": "Nuevas herramientas de IA para desarrolladores de Apple",
+      "detalle": "Apple lanzó un framework de Foundation Models y mejoras en Xcode que permiten flujos de trabajo de codificación asistida por IA y el uso de imágenes en modelos on-device.",
       "acciones": [
-        "Explorar la herramienta para posibles aplicaciones de marca o personalización.",
-        "Evaluar el potencial de esta tecnología para el e-commerce."
+        "Explorar el nuevo framework de Foundation Models.",
+        "Evaluar las mejoras de Xcode para flujos de trabajo de IA.",
+        "Considerar el impacto en el desarrollo de aplicaciones."
       ]
     },
     {
-      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
-      "categoria": "Marketing",
-      "titulo": "WPP prueba talento publicitario con perfiles no tradicionales en su nuevo estudio Hex",
-      "detalle": "El estudio Hex, compuesto mayormente por jóvenes de la Generación Z con experiencia fuera de la publicidad tradicional, busca abordar la brecha de habilidades en IA de la industria.",
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Investing",
+      "titulo": "Oportunidades en la disparidad del mercado bursátil",
+      "detalle": "Existe una advertencia sobre una brecha entre acciones 'viejas' y 'nuevas', sugiriendo que hay formas de capitalizar esta diferencia.",
       "acciones": [
-        "Analizar el modelo de Hex para la captación y desarrollo de talento.",
-        "Considerar la integración de perfiles diversos para la innovación en marketing."
+        "Investigar qué sectores o empresas representan las 'nuevas' acciones.",
+        "Analizar estrategias para invertir en la tendencia mencionada.",
+        "Consultar con asesores financieros sobre la diversificación."
       ]
     },
     {
-      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
-      "categoria": "Marketing",
-      "titulo": "Accenture Song adquiere Whalar para expandir su alcance en marketing de influencers",
-      "detalle": "La adquisición busca potenciar la escala global de Accenture Song en el ámbito del marketing de influencia.",
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "Automation",
+      "titulo": "Amazon expande la creación de merchandising con IA",
+      "detalle": "Amazon permite ahora la generación de diseños de merchandising personalizados mediante IA, utilizando prompts de texto para crear imágenes que se imprimen en productos.",
       "acciones": [
-        "Monitorear la integración de Whalar en Accenture Song.",
-        "Evaluar el impacto en el mercado de marketing de influencers."
+        "Probar la herramienta de diseño de merchandising con IA de Amazon.",
+        "Evaluar el potencial para creadores de contenido o pequeños negocios.",
+        "Considerar la integración con plataformas de venta."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "categoria": "AI",
-      "titulo": "Microsoft AI advierte sobre la cercanía de la superinteligencia",
-      "detalle": "Mustafa Suleyman, CEO de Microsoft AI, señala que la superinteligencia está cerca, aunque descarta la pérdida masiva de empleos.",
-      "mitigacion": "Mantenerse informado sobre los avances en IA y sus implicaciones éticas y laborales. Evaluar estrategias de adaptación y formación continua."
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Platform",
+      "titulo": "Acceso limitado a las nuevas funciones de IA de Apple",
+      "detalle": "A pesar de los anuncios de IA en iOS 27, el acceso a la nueva Siri AI requerirá anotarse en una lista de espera, lo que podría retrasar la adopción y el aprovechamiento de estas tecnologías.",
+      "mitigacion": "Mantenerse informado sobre la apertura de la lista de espera y priorizar la inscripción."
     },
     {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "categoria": "AI",
-      "titulo": "Hackeo en Meta expone vulnerabilidades en la seguridad de IA",
-      "detalle": "Atacantes utilizaron el agente de soporte al cliente de IA de Meta para robar cuentas de Instagram, demostrando fallos en la seguridad.",
-      "mitigacion": "Revisar y fortalecer los protocolos de seguridad en sistemas de IA, especialmente aquellos que interactúan con datos sensibles de usuarios."
-    },
-    {
-      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
       "categoria": "Market",
-      "titulo": "Tensiones geopolíticas podrían afectar negativamente al mercado bursátil",
-      "detalle": "La relación entre Warsh y Trump se deteriora, anticipando posibles repercusiones negativas en la bolsa, independientemente del desenlace.",
-      "mitigacion": "Diversificar las inversiones y monitorear de cerca los desarrollos geopolíticos y su impacto en los mercados."
-    }
-  ],
-  "conexiones": [
-    {
-      "id": "apple-wwdc-2026",
-      "titulo": "Expectativas sobre la WWDC 2026 y el futuro de Apple",
-      "historias": [
-        "Apple Event Today: Tim Cook Kicks Things Off With 'Good Morning' Video",
-        "WWDC 2026 News Hub live from Apple Park: iOS 27, new Siri, more",
-        "The last good morning: Celebrities help Tim Cook start WWDC"
-      ],
-      "conclusion": "La WWDC de hoy marca un hito importante para Apple, con el foco puesto en las actualizaciones de software y la evolución de Siri. La presencia de celebridades en el inicio del evento subraya la relevancia de la presentación."
+      "titulo": "Debilidad en el precio de Bitcoin",
+      "detalle": "El precio de Bitcoin podría perder el soporte de $60.000 debido a vientos en contra macroeconómicos y movimientos bajistas en el mercado.",
+      "mitigacion": "Monitorear de cerca los niveles de soporte y resistencia de Bitcoin. Considerar estrategias de gestión de riesgo para posiciones en criptomonedas."
     },
     {
-      "id": "ia-y-politica-en-argentina",
-      "titulo": "Debate sobre IA y su rol en la política argentina",
-      "historias": [
-        "Yuval Noah Harari cuestionó la idea de Milei de darle personalidad jurídica a la inteligencia artificial",
-        "Microsoft’s AI chief says superintelligence is near, but won’t take your job"
-      ],
-      "conclusion": "Mientras Argentina debate la personalidad jurídica de la IA, figuras globales como Harari plantean interrogantes éticos y de riesgo, contrastando con las proyecciones de avance tecnológico de gigantes como Microsoft."
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Regulatory",
+      "titulo": "Amenaza de bomba en el Ministerio de Economía",
+      "detalle": "Una amenaza de bomba obligó a evacuar el Ministerio de Economía, generando incertidumbre y posibles interrupciones en la operatividad de la cartera.",
+      "mitigacion": "Seguir de cerca las comunicaciones oficiales sobre la seguridad y el funcionamiento del Ministerio."
     }
   ],
+  "conexiones": [],
   "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+      "tituloOriginal": "The latest AI news we announced in May 2026",
+      "tituloLimpio": "Google comparte sus últimas actualizaciones de IA de mayo 2026",
+      "resumen": "Google detalla las novedades y avances en inteligencia artificial anunciados durante mayo de 2026.",
+      "porQueImporta": "Ofrece una visión general de los desarrollos de IA de uno de los principales actores del sector, útil para seguir la competencia y las tendencias.",
+      "publicadoEn": "2026-06-05T14:45:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/May_AI_Recap_still.max-600x600.format-webp.webp",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Google",
+        "Actualizaciones",
+        "Tecnología"
+      ],
+      "tambienVistoEn": []
+    },
     {
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Apple",
       "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/08/tim-cook-apple-event-good-morning-video/",
-      "tituloOriginal": "Apple Event Today: Tim Cook Kicks Things Off With 'Good Morning' Video",
-      "tituloLimpio": "Tim Cook da inicio a la WWDC 2026 con un video de \"buenos días\"",
-      "resumen": "El CEO de Apple, Tim Cook, abrió la WWDC 2026 con un video que incluye saludos de celebridades, previo a la presentación principal.",
-      "porQueImporta": "Marca el inicio de la conferencia anual de desarrolladores de Apple, donde se esperan anuncios clave de software como iOS 27 y novedades en Siri.",
-      "publicadoEn": "2026-06-08T13:42:34.000Z",
+      "url": "https://www.macrumors.com/2026/06/08/apple-unveils-xcode-and-models-improvements/",
+      "tituloOriginal": "Apple Unveils Xcode and Foundation Models Framework Improvements",
+      "tituloLimpio": "Apple mejora Xcode y presenta framework de Foundation Models con IA",
+      "resumen": "Apple anunció mejoras en Xcode y un nuevo framework de Foundation Models para desarrolladores, que incluye soporte para imágenes en modelos on-device y flujos de trabajo de codificación asistida por IA.",
+      "porQueImporta": "Representa un avance significativo para los desarrolladores que buscan integrar IA en sus aplicaciones y optimizar sus procesos de codificación.",
+      "publicadoEn": "2026-06-08T19:05:06.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
         "WWDC",
-        "Tim Cook",
-        "Software",
-        "iOS 27",
-        "Siri"
+        "AI",
+        "Desarrollo",
+        "Xcode",
+        "Foundation Models"
       ],
       "tambienVistoEn": []
     },
@@ -114,20 +118,21 @@
       "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
       "categoria": "Finance",
       "fuente": "Sherwood",
-      "url": "https://sherwood.news/crypto/bitmine-buys-the-dip-makes-largest-ethereum-purchase-this-year/",
-      "tituloOriginal": "BitMine buys the dip, makes largest ethereum purchase this year",
-      "tituloLimpio": "BitMine realiza la mayor compra de Ethereum del año",
-      "resumen": "La firma BitMine adquirió 126,971 tokens de Ethereum la semana pasada, aprovechando la caída del precio.",
-      "porQueImporta": "Indica un movimiento significativo en el mercado de criptomonedas por parte de un actor importante, sugiriendo confianza en Ethereum a pesar de la volatilidad.",
-      "publicadoEn": "2026-06-08T15:29:08.000Z",
-      "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/2257213955_las-vegas-nevada-tom-lee-chairman-of-the-board-of-bitmine-speaks-onstage-during-the-bitmine.jpg?w=1600",
+      "url": "https://sherwood.news/tech/siri-ai-is-going-to-be-great-for-apple-if-it-works-sound-familiar/",
+      "tituloOriginal": "Siri AI is going to be great for Apple — if it works. Sound familiar?",
+      "tituloLimpio": "La nueva Siri de Apple: ¿un gran avance o una promesa repetida?",
+      "resumen": "Apple anunció una Siri mejorada en su conferencia de desarrolladores, pero la historia sugiere cautela sobre si esta vez cumplirá las expectativas.",
+      "porQueImporta": "Ofrece una perspectiva crítica sobre los anuncios de IA de Apple, recordando ciclos anteriores y la importancia de la ejecución.",
+      "publicadoEn": "2026-06-08T19:20:26.000Z",
+      "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/Screenshot-2026-06-08-at-1.03.20-PM.png?w=1600",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "Finance",
-        "Criptomonedas",
-        "Ethereum",
-        "Inversión"
+        "Apple",
+        "Siri",
+        "AI",
+        "WWDC",
+        "Análisis"
       ],
       "tambienVistoEn": []
     },
@@ -135,20 +140,21 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/como-calcular-el-aguinaldo-paso-paso-saber-cuanto-cobras-n6286342",
-      "tituloOriginal": "¿Cómo calcular el aguinaldo? Paso a paso para saber cuánto cobrás",
-      "tituloLimpio": "Cómo calcular el aguinaldo en Argentina",
-      "resumen": "Se explica el procedimiento paso a paso para calcular el Sueldo Anual Complementario (SAC) en Argentina, que se liquida en junio y diciembre.",
-      "porQueImporta": "Información práctica y relevante para todos los trabajadores en Argentina, detallando cómo se calcula este pago semestral.",
-      "publicadoEn": "2026-06-08T15:20:00.000Z",
-      "globalScore": 90,
+      "url": "https://www.ambito.com/economia/una-familia-portena-necesito-casi-25-millones-ser-considerada-clase-media-n6286447",
+      "tituloOriginal": "Una familia porteña necesitó casi $2,5 millones para ser considerada de clase media",
+      "tituloLimpio": "Clase media en Buenos Aires: se necesitan casi $2.5 millones para ser considerado",
+      "resumen": "Una familia porteña necesitó aproximadamente $2.5 millones para ser considerada de clase media, según estimaciones previas a la publicación de la inflación de mayo.",
+      "porQueImporta": "Proporciona un dato clave sobre el poder adquisitivo y el costo de vida en Argentina, relevante para entender el contexto económico.",
+      "publicadoEn": "2026-06-08T18:50:00.000Z",
+      "imagen": "https://media.ambito.com/p/2e6ce1d50bba5d6004e153299e1ae62a/adjuntos/239/imagenes/042/960/0042960314/supermercados-consumo-gondolas-precios-inflacion.jpg",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
         "Economía",
-        "Laboral",
-        "Aguinaldo",
-        "Salarios"
+        "Inflación",
+        "Clase Media",
+        "Buenos Aires"
       ],
       "tambienVistoEn": []
     },
@@ -158,17 +164,17 @@
       "fuente": "Marketing Dive",
       "url": "https://www.marketingdive.com/news/wpp-puts-different-type-of-ad-talent-to-the-test-with-new-studio-hex/822227/",
       "tituloOriginal": "WPP puts a different type of ad talent to the test with new studio Hex",
-      "tituloLimpio": "WPP prueba talento publicitario no tradicional con nuevo estudio Hex",
-      "resumen": "El estudio Hex de WPP, compuesto por jóvenes de la Generación Z sin experiencia publicitaria previa, busca suplir la falta de habilidades en IA en la industria.",
-      "porQueImporta": "Una iniciativa innovadora para captar y formar talento en marketing, adaptándose a las nuevas demandas del mercado y la tecnología.",
+      "tituloLimpio": "WPP prueba talento publicitario con perfiles no tradicionales en su estudio Hex",
+      "resumen": "WPP lanzó el estudio Hex, compuesto mayormente por jóvenes de la Generación Z con experiencia fuera de la publicidad tradicional, para abordar la brecha de habilidades en IA.",
+      "porQueImporta": "Muestra cómo las agencias de marketing están adaptándose a la IA y buscando talento diverso para innovar.",
       "publicadoEn": "2026-06-08T15:08:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Marketing",
-        "WPP",
-        "Talento",
         "AI",
+        "Talento",
+        "WPP",
         "Generación Z"
       ],
       "tambienVistoEn": []
@@ -177,20 +183,21 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/",
-      "tituloOriginal": "Amazon now lets you design custom merch using AI",
-      "tituloLimpio": "Amazon permite diseñar indumentaria personalizada con IA",
-      "resumen": "Una nueva función en la app de Amazon permite a los usuarios crear diseños con IA para imprimirlos en productos como remeras y buzos.",
-      "porQueImporta": "Demuestra la aplicación práctica de la IA en el comercio electrónico y la personalización de productos, abriendo nuevas posibilidades para marcas y consumidores.",
-      "publicadoEn": "2026-06-08T15:49:12.000Z",
+      "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "tituloOriginal": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+      "tituloLimpio": "WWDC 2026: Todos los anuncios sobre Siri AI, iOS 27 y Apple Intelligence",
+      "resumen": "Apple presentó en WWDC 2026 importantes novedades en Siri, iOS 27 y Apple Intelligence, marcando un hito en la integración de IA en sus sistemas operativos y dispositivos.",
+      "porQueImporta": "Detalla las principales innovaciones de IA anunciadas por Apple, cruciales para entender la dirección futura de sus productos y servicios.",
+      "publicadoEn": "2026-06-08T19:14:11.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
+        "Apple",
+        "WWDC",
         "AI",
-        "Amazon",
-        "E-commerce",
-        "Personalización",
-        "Herramientas"
+        "Siri",
+        "iOS 27",
+        "Apple Intelligence"
       ],
       "tambienVistoEn": []
     },
@@ -198,19 +205,20 @@
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
       "fuente": "The Verge AI",
-      "url": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
-      "tituloOriginal": "Microsoft’s AI chief says superintelligence is near, but won’t take your job",
-      "tituloLimpio": "Microsoft AI: La superinteligencia está cerca, pero no reemplazará empleos",
-      "resumen": "Mustafa Suleyman, CEO de Microsoft AI, afirma que la superinteligencia está cerca, aunque descarta la idea de que vaya a eliminar masivamente puestos de trabajo.",
-      "porQueImporta": "Ofrece una perspectiva sobre el futuro de la IA desde una de las compañías líderes, abordando preocupaciones sobre el impacto laboral.",
-      "publicadoEn": "2026-06-08T14:00:00.000Z",
+      "url": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
+      "tituloOriginal": "Amazon is launching AI-generated custom merch",
+      "tituloLimpio": "Amazon lanza merchandising personalizado generado por IA",
+      "resumen": "Amazon expande sus funciones de impresión bajo demanda para incluir diseños de merchandising creados por IA a través de Alexa for Shopping.",
+      "porQueImporta": "Abre nuevas posibilidades para la personalización de productos y la creación de contenido visual mediante IA.",
+      "publicadoEn": "2026-06-08T17:52:51.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "AI",
-        "Microsoft",
-        "Superinteligencia",
-        "Futuro del trabajo"
+        "Amazon",
+        "Marketing",
+        "Personalización",
+        "Merchandising"
       ],
       "tambienVistoEn": []
     },
@@ -220,9 +228,9 @@
       "fuente": "MIT Technology Review AI",
       "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
       "tituloOriginal": "The Meta hack shows there’s more to AI security than Mythos",
-      "tituloLimpio": "Hackeo en Meta evidencia fallos de seguridad en IA",
-      "resumen": "Un ataque reciente utilizó el agente de soporte de IA de Meta para robar cuentas de Instagram, exponiendo vulnerabilidades.",
-      "porQueImporta": "Subraya la importancia crítica de la seguridad en los sistemas de IA y la necesidad de proteger los datos de los usuarios ante nuevas amenazas.",
+      "tituloLimpio": "Hackeo a Meta expone vulnerabilidades en la seguridad de IA",
+      "resumen": "Un reciente hackeo a través del agente de soporte de IA de Meta permitió el robo de cuentas de Instagram, demostrando que la seguridad de IA va más allá de los mitos.",
+      "porQueImporta": "Resalta los riesgos de seguridad asociados a las herramientas de IA y la necesidad de enfoques robustos para proteger datos y cuentas.",
       "publicadoEn": "2026-06-05T09:00:00.000Z",
       "globalScore": 90,
       "personalScore": 100,
@@ -230,8 +238,8 @@
         "AI",
         "Seguridad",
         "Meta",
-        "Instagram",
-        "Vulnerabilidades"
+        "Hackeo",
+        "Vulnerabilidad"
       ],
       "tambienVistoEn": []
     },
@@ -239,20 +247,20 @@
       "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Apple",
       "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/08/wwdc-2026-news-hub-live-from-apple-park-ios-27-new-siri-more/",
-      "tituloOriginal": "WWDC 2026 News Hub live from Apple Park: iOS 27, new Siri, more",
-      "tituloLimpio": "WWDC 2026: Se esperan iOS 27 y una nueva versión de Siri",
-      "resumen": "Apple presentará hoy en la WWDC 2026 sus próximas actualizaciones de software, incluyendo iOS 27 y una versión renovada de Siri.",
-      "porQueImporta": "Las novedades en el sistema operativo y el asistente virtual de Apple son de gran interés para desarrolladores y usuarios, definiendo la experiencia futura en sus dispositivos.",
-      "publicadoEn": "2026-06-08T15:49:35.000Z",
+      "url": "https://9to5mac.com/2026/06/08/ios-27-beta-1-has-a-waitlist-for-accessing-new-siri-ai/",
+      "tituloOriginal": "iOS 27 beta has a waitlist for accessing new Siri AI and app",
+      "tituloLimpio": "iOS 27 beta incluye lista de espera para acceder a la nueva Siri AI",
+      "resumen": "La beta 1 de iOS 27 ya está disponible, pero el acceso a la nueva Siri AI requerirá anotarse en una lista de espera.",
+      "porQueImporta": "Indica que, si bien la IA de Siri es una prioridad para Apple, su implementación inicial será gradual y controlada.",
+      "publicadoEn": "2026-06-08T19:17:59.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "WWDC",
         "iOS 27",
+        "AI",
         "Siri",
-        "Software"
+        "Beta"
       ],
       "tambienVistoEn": []
     },
@@ -260,63 +268,41 @@
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
       "categoria": "Apple",
       "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/06/08/the-last-good-morning-celebrities-help-tim-cook-start-wwdc?utm_source=rss",
-      "tituloOriginal": "The last good morning: Celebrities help Tim Cook start WWDC",
-      "tituloLimpio": "Celebridades acompañan a Tim Cook en el inicio de la WWDC",
-      "resumen": "Horas antes de su última keynote como CEO en la WWDC, Tim Cook compartió un video con figuras conocidas deseando \"buenos días\".",
-      "porQueImporta": "Refleja la importancia del evento para Apple y la despedida de Cook, anticipando los anuncios de software que definirán la estrategia de la compañía.",
-      "publicadoEn": "2026-06-08T14:16:58.000Z",
+      "url": "https://appleinsider.com/articles/26/06/08/tvos-27-sneaks-out-with-redesigned-podcasts-app-ai-subtitle-generation?utm_source=rss",
+      "tituloOriginal": "tvOS 27 sneaks out with redesigned Podcasts app & AI subtitle generation",
+      "tituloLimpio": "tvOS 27 trae subtítulos generados por IA y rediseño de Podcasts",
+      "resumen": "tvOS 27, lanzado discretamente, incluye generación de subtítulos por IA en videos, ajuste de tamaño de texto y una nueva app de Podcasts.",
+      "porQueImporta": "Muestra cómo la IA se está integrando en diferentes sistemas operativos de Apple, incluso en plataformas menos centrales como tvOS, mejorando la accesibilidad.",
+      "publicadoEn": "2026-06-08T19:14:07.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "WWDC",
-        "Tim Cook",
-        "Keynote"
+        "tvOS 27",
+        "AI",
+        "Accesibilidad",
+        "Podcasts"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
       "categoria": "Finance",
       "fuente": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-marvell-stock-mrvl/?src=A00220&yptr=yahoo",
-      "tituloOriginal": "Stock Market Today: Nasdaq Bolts Higher After Iran Halts Strikes; Marvell, Intel Rally (Live Coverage)",
-      "tituloLimpio": "Mercado bursátil reacciona positivamente a la pausa de ataques de Irán",
-      "resumen": "El Nasdaq y otros índices bursátiles subieron tras la confirmación de que Irán detuvo sus ataques, mientras acciones como Marvell e Intel mostraron ganancias.",
-      "porQueImporta": "Demuestra la sensibilidad del mercado a las noticias geopolíticas y la rápida recuperación ante la disminución de tensiones.",
-      "publicadoEn": "2026-06-08T15:38:48.000Z",
-      "imagen": "https://media.zenfs.com/en/ibd.com/55ca4252bd7c66820fc61ce444908e68",
-      "globalScore": 94,
+      "url": "https://finance.yahoo.com/markets/stocks/articles/companies-essentially-failing-experts-warn-101500369.html",
+      "tituloOriginal": "'Companies are essentially failing': Experts warn of disturbing disparity between 'old' and 'new' stocks. How to cash in",
+      "tituloLimpio": "Expertos advierten sobre disparidad entre acciones 'viejas' y 'nuevas'",
+      "resumen": "Analistas señalan una creciente brecha entre el rendimiento de las acciones tradicionales y las de la 'nueva economía', sugiriendo que algunas empresas están 'fallando' en comparación.",
+      "porQueImporta": "Alerta sobre tendencias importantes en el mercado financiero y posibles oportunidades de inversión.",
+      "publicadoEn": "2026-06-07T10:15:00.000Z",
+      "imagen": "https://media.zenfs.com/en/moneywise_ecomm_711/ad868c0d4e73ae506e6d4835d9133209",
+      "globalScore": 90,
       "personalScore": 100,
       "tags": [
-        "Finance",
-        "Mercado",
-        "Acciones",
-        "Geopolítica",
-        "Nasdaq"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
-      "categoria": "Finance",
-      "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/06/08/sam-bankman-fried-officially-asks-donald-trump-for-a-presidential-pardon",
-      "tituloOriginal": "Sam Bankman-Fried officially asks Trump for a presidential pardon",
-      "tituloLimpio": "Sam Bankman-Fried pide indulto presidencial a Donald Trump",
-      "resumen": "El ex CEO de FTX, Sam Bankman-Fried, solicitó formalmente un indulto presidencial a Donald Trump, apostando por su historial de perdones en cripto.",
-      "porQueImporta": "Un desarrollo clave en el caso de Bankman-Fried, con implicaciones potenciales para el sector cripto y la justicia estadounidense.",
-      "publicadoEn": "2026-06-08T15:41:10.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/0eb2824b221f5953df66f43e67ea7c75ce09f945-1620x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "globalScore": 96,
-      "personalScore": 100,
-      "tags": [
-        "Finance",
-        "Criptomonedas",
-        "Sam Bankman-Fried",
-        "Donald Trump",
-        "Legal"
+        "Finanzas",
+        "Inversión",
+        "Mercado Bursátil",
+        "Acciones"
       ],
       "tambienVistoEn": []
     },
@@ -324,20 +310,19 @@
       "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
       "categoria": "Finance",
       "fuente": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-etfs-outflows-ether-altcoin-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "tituloOriginal": "Spot Bitcoin ETFs bleed $1.7B as outflow streak hits four weeks",
-      "tituloLimpio": "ETFs de Bitcoin registran salidas récord por cuatro semanas consecutivas",
-      "resumen": "Los fondos cotizados (ETFs) de Bitcoin al contado están experimentando una racha de cuatro semanas de salidas netas, totalizando $1.7 mil millones.",
-      "porQueImporta": "Muestra una tendencia de desinversión en ETFs de Bitcoin, lo que podría indicar un enfriamiento del interés o toma de ganancias en el mercado.",
-      "publicadoEn": "2026-06-08T14:46:26.000Z",
-      "imagen": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1ldGYtcmVjYXAtMi5qcGc=.jpg",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-60k-support-not-yet-safe-as-more-macro-headwinds-stack-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Bitcoin price $60K support not yet safe as more macro headwinds stack up",
+      "tituloLimpio": "Soporte de $60K de Bitcoin en riesgo ante vientos macroeconómicos",
+      "resumen": "El precio de Bitcoin podría no mantener el soporte de $60.000 debido a la acumulación de vientos en contra macroeconómicos y movimientos bajistas.",
+      "porQueImporta": "Indica una posible debilidad en el mercado de criptomonedas, afectando a inversores y al ecosistema en general.",
+      "publicadoEn": "2026-06-08T15:17:15.000Z",
+      "imagen": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0yMTE4MjUtYml0Y29pbi1zLWZ1dHVyZS1iZWFyLW1hcmtldC1ib3R0b20tY291bGQtYmUtZG9sbGFyNjBrLWRhdGEuanBn.jpg",
       "globalScore": 90,
       "personalScore": 100,
       "tags": [
-        "Finance",
+        "Finanzas",
+        "Criptomonedas",
         "Bitcoin",
-        "ETFs",
-        "Inversión",
         "Mercado"
       ],
       "tambienVistoEn": []
@@ -346,43 +331,21 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/rural/argentina-salda-deuda-historica-sturzenegger-celebro-nuevo-protocolo-fiscalizar-semillas-dijo-aumentaran-us-4000-exportaciones-agro_0_X1WgsQnyPs.html",
-      "tituloOriginal": "\"Argentina salda otra deuda histórica\": Sturzenegger destacó el nuevo protocolo para fiscalizar semillas y pidió que ahora el \"sector privado recoja el guante\"",
-      "tituloLimpio": "Argentina mejora fiscalización de semillas para impulsar exportaciones agro",
-      "resumen": "Se implementó un nuevo protocolo para fiscalizar semillas, buscando aumentar las exportaciones agropecuarias en US$ 4.000 millones.",
-      "porQueImporta": "Una medida que busca modernizar el sector agroexportador argentino y atraer inversión, con potencial impacto económico significativo.",
-      "publicadoEn": "2026-06-08T14:43:47.000Z",
-      "imagen": "https://www.clarin.com/img/2026/05/12/ef9jg58Bn_1200x630__1.jpg",
-      "globalScore": 94,
+      "url": "https://www.clarin.com/economia/ingresos-necesitan-ciudad-buenos-aires-clase-media_0_mRTHw4PxsY.html",
+      "tituloOriginal": "Cuántos ingresos se necesitan en la Ciudad de Buenos Aires para ser de clase media",
+      "tituloLimpio": "Ingresos necesarios en CABA para ser clase media: entre $2.5 y $3.6 millones",
+      "resumen": "Los ingresos requeridos en la Ciudad de Buenos Aires para ser considerado clase media oscilan entre $2.5 y $3.6 millones, dependiendo de si se es propietario o inquilino.",
+      "porQueImporta": "Detalla con mayor precisión el umbral económico para la clase media en la capital argentina, basándose en datos oficiales.",
+      "publicadoEn": "2026-06-08T16:41:48.000Z",
+      "imagen": "https://www.clarin.com/img/2026/06/08/4KSrCmlsF_1200x630__1.jpg",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
         "Economía",
-        "Agro",
-        "Exportaciones",
-        "Sturzenegger"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
-      "categoria": "Argentina",
-      "fuente": "Clarin Politica",
-      "url": "https://www.clarin.com/politica/nueva-cumbre-mercosur-avanza-comercio-profundizan-tensiones-politicas-relacion-trump_0_g3Is4kFp4y.html",
-      "tituloOriginal": "A poco de una nueva cumbre, el Mercosur avanza en comercio, pero se profundizan las tensiones políticas por la relación con Trump",
-      "tituloLimpio": "Mercosur avanza en comercio pero enfrenta tensiones políticas por relación con Trump",
-      "resumen": "El bloque regional logra avances en acuerdos comerciales, pero las diferencias políticas internas, especialmente sobre la relación con Trump, generan fricciones.",
-      "porQueImporta": "Refleja la complejidad de la política exterior argentina y del Mercosur, con implicaciones para las relaciones comerciales y diplomáticas.",
-      "publicadoEn": "2026-06-08T14:30:33.000Z",
-      "imagen": "https://www.clarin.com/img/2026/03/01/i8vUneF4i_1200x630__1.jpg",
-      "globalScore": 90,
-      "personalScore": 100,
-      "tags": [
-        "Argentina",
-        "Política",
-        "Mercosur",
-        "Trump",
-        "Comercio"
+        "CABA",
+        "Clase Media",
+        "Ingresos"
       ],
       "tambienVistoEn": []
     },
@@ -390,43 +353,20 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/06/08/de-cuanto-es-el-salario-minimo-vital-y-movil-en-junio-2026/",
-      "tituloOriginal": "De cuánto es el Salario Mínimo, Vital y Móvil en junio 2026",
-      "tituloLimpio": "Salario Mínimo, Vital y Móvil en Argentina para junio 2026",
-      "resumen": "Se informa el monto actualizado del Salario Mínimo, Vital y Móvil en Argentina para junio de 2026, que impacta en beneficios sociales y programas estatales.",
-      "porQueImporta": "Dato clave para entender el poder adquisitivo y las bases salariales en el país, afectando a trabajadores y beneficiarios de ayudas sociales.",
-      "publicadoEn": "2026-06-08T15:48:38.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/C5E2WCLTJJHR5PDFXCE6LSPSYA.png?auth=9b15e8d8160bb16fd4d4eecc232d72a0123120076241ed93eefab49085b67d2f&smart=true&width=2752&height=1536",
+      "url": "https://www.infobae.com/economia/2026/06/08/evacuaron-el-ministerio-de-economia-por-una-amenaza-de-bomba/",
+      "tituloOriginal": "Evacuaron el Ministerio de Economía por una amenaza de bomba",
+      "tituloLimpio": "Evacuaron el Ministerio de Economía por amenaza de bomba",
+      "resumen": "El Ministerio de Economía fue evacuado tras recibir una amenaza de bomba, interrumpiendo temporalmente las actividades.",
+      "porQueImporta": "Un evento de seguridad que afecta a una cartera económica clave en Argentina, generando preocupación.",
+      "publicadoEn": "2026-06-08T19:18:53.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/LWDTP7NIU5H73NT5VVVFRJERGI.jpeg?auth=d918d9015d542b736620600b507573dca82cb3b648b75ddcd29ca89e0f0c4077&smart=true&width=1600&height=1200",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Economía",
-        "Salario Mínimo",
-        "Laboral"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
-      "categoria": "Argentina",
-      "fuente": "Infobae Politica",
-      "url": "https://www.infobae.com/politica/2026/06/08/yuval-noah-harari-destaco-a-milei-como-un-politico-audaz-pero-cuestiono-su-idea-de-darle-personalidad-juridica-a-la-inteligencia-artificial/",
-      "tituloOriginal": "Yuval Noah Harari cuestionó la idea de Milei de darle personalidad jurídica a la inteligencia artificial",
-      "tituloLimpio": "Yuval Noah Harari cuestiona la idea de Milei sobre personalidad jurídica para la IA",
-      "resumen": "El historiador Yuval Noah Harari criticó la propuesta del presidente Milei de otorgar personalidad jurídica a la inteligencia artificial, advirtiendo sobre riesgos.",
-      "porQueImporta": "Plantea un debate ético y filosófico de alto nivel sobre el futuro de la IA y su regulación, con la participación de figuras internacionales.",
-      "publicadoEn": "2026-06-08T15:53:39.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/AHL7B2G22ZGRHOJBHJKJ27WT2E.png?auth=d4d01ea927d0951d3aae79ddd87baf23578c21edce0a8afa0f207d93295bc5c6&smart=true&width=2752&height=1536",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "Argentina",
-        "Política",
-        "AI",
-        "Yuval Noah Harari",
-        "Javier Milei",
-        "Ética"
+        "Seguridad",
+        "Ministerio de Economía",
+        "Amenaza"
       ],
       "tambienVistoEn": []
     },
@@ -434,20 +374,21 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid08062026/",
-      "tituloOriginal": "Dólar hoy y dólar blue, en vivo: a cuánto cotiza el oficial y cuál es el precio del paralelo este lunes 8 de junio, minuto a minuto",
-      "tituloLimpio": "Dólar hoy y dólar blue en Argentina: cotizaciones del 8 de junio",
-      "resumen": "Se detallan las cotizaciones del dólar oficial y el dólar blue en Argentina para este lunes 8 de junio.",
-      "porQueImporta": "Información esencial para seguir la evolución del mercado cambiario en Argentina, clave para la economía y las decisiones de inversión.",
-      "publicadoEn": "2026-06-08T15:50:20.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/Q6EZVCOJS5HWNNRECDDYX2XJUM.jpg?auth=e5a4c765cf7b7ad3c743309860206287605e6de6fe22c2435e2c2c9741f5e529&smart=true&width=2000&height=1333",
-      "globalScore": 98,
+      "url": "https://www.lanacion.com.ar/economia/el-banco-mundial-y-el-bid-votaran-las-garantias-para-que-la-argentina-pueda-refinanciar-pagos-nid08062026/",
+      "tituloOriginal": "El Banco Mundial y el BID votarán las garantías para que la Argentina pueda refinanciar pagos",
+      "tituloLimpio": "Banco Mundial y BID votarán garantías para refinanciar pagos de Argentina",
+      "resumen": "Los directorios del Banco Mundial y el BID evaluarán garantías para que Argentina pueda refinanciar sus compromisos de pago, con reuniones programadas para mediados de junio.",
+      "porQueImporta": "Es una noticia financiera crucial para Argentina, indicando posibles mecanismos para aliviar la carga de deuda a corto plazo.",
+      "publicadoEn": "2026-06-08T19:15:52.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/PMRYOREB2JHGNPGEV5Z2SYUOYY.jpg?auth=50ff36ecff27925b8d71fe2d7c2610361cf4eb18bf6e1dd991662086d670b96f&smart=true&width=4000&height=2666",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Economía",
-        "Dólar",
-        "Mercado cambiario"
+        "Finanzas",
+        "Banco Mundial",
+        "BID",
+        "Deuda"
       ],
       "tambienVistoEn": []
     },
@@ -455,25 +396,26 @@
       "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
       "categoria": "Marketing",
       "fuente": "Adweek",
-      "url": "https://www.adweek.com/commerce/exclusive-accenture-song-will-buywhalar-gaining-global-scale-in-influencer-marketing/",
-      "tituloOriginal": "EXCLUSIVE: Accenture Song Will Buy Whalar, Gaining Global Scale in Influencer Marketing",
-      "tituloLimpio": "Accenture Song compra Whalar para potenciar marketing de influencers",
-      "resumen": "Accenture Song, la división de servicios de marketing de Accenture, adquirirá la agencia Whalar para expandir su escala global en marketing de influencia.",
-      "porQueImporta": "Movimiento estratégico importante en el sector del marketing de influencia, consolidando la oferta de grandes consultoras en esta área.",
-      "publicadoEn": "2026-06-08T11:15:00.000Z",
-      "globalScore": 100,
+      "url": "https://www.adweek.com/brand-marketing/through-visa-partnership-ea-sports-fc-rides-world-cup-wave-without-mentioning-fifa/",
+      "tituloOriginal": "Through Visa Partnership, EA Sports FC Rides World Cup Wave Without Mentioning FIFA",
+      "tituloLimpio": "EA Sports FC capitaliza el Mundial con Visa, sin mencionar a FIFA",
+      "resumen": "EA Sports FC, tras finalizar su acuerdo con FIFA, está aprovechando la ola del Mundial a través de una asociación con Visa, sin hacer referencia directa a la FIFA.",
+      "porQueImporta": "Un caso interesante de marketing deportivo y gestión de marca tras la ruptura de una asociación icónica.",
+      "publicadoEn": "2026-06-08T14:22:29.000Z",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Marketing",
-        "Accenture",
-        "Influencer Marketing",
-        "Adquisición"
+        "Deportes",
+        "EA Sports FC",
+        "Visa",
+        "Mundial"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-06-08T15:58:44.035Z"
+    "generadoEn": "2026-06-08T19:22:01.128Z"
   }
 }
