@@ -1,0 +1,419 @@
+{
+  "fecha": "2026-06-09",
+  "generadoEn": "2026-06-09T14:58:42.873Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "Las principales novedades giran en torno a Apple, con actualizaciones en Podcasts, iOS 27 y watchOS 27, y el avance de la IA en diversas áreas, incluyendo el marketing y el sector legal. En Argentina, se destaca la postergación de la privatización de Intercargo y la situación del dólar. También hay novedades financieras sobre inversiones en DeFi y el mercado de criptomonedas.",
+  "radarPersonal": [],
+  "loImportante": [
+    "Apple Podcasts suma reproducción de video en Mac y Apple TV, además de una nueva función de búsqueda.",
+    "iOS 27 introduce soporte para lenguaje natural en la app Calendario y controles de volumen separados para alarmas y notificaciones.",
+    "watchOS 27 enfoca en IA de Siri y mejoras de calidad de vida para el Apple Watch.",
+    "El déficit comercial de EE.UU. bajó en abril gracias a un récord en exportaciones, lo que podría impulsar su economía.",
+    "La privatización de Intercargo en Argentina se posterga por segunda vez, extendiendo el plazo para la presentación de ofertas."
+  ],
+  "oportunidades": [
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "Automation",
+      "titulo": "Sandstone recauda $30M para llevar IA a equipos legales internos",
+      "detalle": "La startup Sandstone busca democratizar el acceso a la inteligencia artificial para departamentos legales corporativos, lo que podría optimizar procesos y reducir costos.",
+      "acciones": [
+        "Investigar el potencial de Sandstone y su tecnología.",
+        "Evaluar cómo la IA está impactando el sector legal."
+      ]
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "titulo": "Hearst Magazines lanza Aura IQ, una plataforma publicitaria con IA",
+      "detalle": "Aura IQ permite crear audiencias personalizadas a partir de RFPs en minutos, agilizando significativamente el proceso de planificación publicitaria.",
+      "acciones": [
+        "Analizar las capacidades de Aura IQ para campañas de marketing.",
+        "Considerar la adopción de plataformas publicitarias basadas en IA."
+      ]
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Investing",
+      "titulo": "Ethena recibe respaldo de Janus Henderson para su token ENA y distribución de USDe",
+      "detalle": "La inversión de un gestor de activos tradicional en infraestructura DeFi como Ethena subraya la creciente integración entre finanzas tradicionales y cripto.",
+      "acciones": [
+        "Evaluar la inversión en Ethena (ENA) o productos relacionados.",
+        "Monitorear la tendencia de inversión de gestores tradicionales en DeFi."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "titulo": "Microsoft matiza declaraciones sobre IA y el futuro del trabajo de oficina",
+      "detalle": "El jefe de IA de Microsoft aclara que la IA asistirá a los trabajadores de cuello blanco en lugar de reemplazarlos masivamente en el corto plazo, pero la incertidumbre persiste.",
+      "mitigacion": "Mantenerse informado sobre la evolución de la IA y su impacto en la fuerza laboral, enfocándose en la adaptación y el desarrollo de habilidades complementarias."
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Regulatory",
+      "titulo": "Postergan por segunda vez la privatización de Intercargo",
+      "detalle": "La demora en el proceso de privatización de Intercargo genera incertidumbre sobre los plazos y las condiciones finales de la operación.",
+      "mitigacion": "Seguir de cerca las actualizaciones sobre el proceso de privatización y sus posibles implicaciones económicas y de mercado."
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Market",
+      "titulo": "Cadena de comida rápida de 56 años cierra más de 700 locales",
+      "detalle": "El cierre masivo de una cadena establecida sugiere posibles debilidades en el sector de la restauración o cambios en las preferencias del consumidor.",
+      "mitigacion": "Analizar las causas detrás de estos cierres para identificar posibles riesgos en inversiones o estrategias de negocio relacionadas."
+    }
+  ],
+  "conexiones": [],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+      "tituloOriginal": "The latest AI news we announced in May 2026",
+      "tituloLimpio": "Google comparte sus últimas actualizaciones de IA de mayo 2026",
+      "resumen": "El blog de Google AI detalla los avances y novedades en inteligencia artificial anunciados por la compañía durante el mes de mayo.",
+      "porQueImporta": "Permite conocer de primera mano las direcciones y desarrollos de IA de uno de los líderes del sector.",
+      "publicadoEn": "2026-06-05T14:45:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/May_AI_Recap_still.max-600x600.format-webp.webp",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "Google",
+        "IA",
+        "Actualización",
+        "Tecnología"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/09/apple-podcasts-gets-video-on-mac-and-apple-tv/",
+      "tituloOriginal": "Apple Podcasts Gets Video on Mac and Apple TV, Plus New Search Feature",
+      "tituloLimpio": "Apple Podcasts suma video en Mac y Apple TV, y nueva función de búsqueda",
+      "resumen": "Apple introduce mejoras significativas en Podcasts, permitiendo la reproducción de video en macOS y tvOS, además de una interfaz renovada y una función de búsqueda mejorada.",
+      "porQueImporta": "Refuerza la apuesta de Apple por el contenido de video dentro de su ecosistema de podcasts, abriendo nuevas posibilidades para creadores y consumidores.",
+      "publicadoEn": "2026-06-09T14:40:56.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "Podcasts",
+        "Video",
+        "Mac",
+        "Apple TV",
+        "Actualización"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/mundo/el-deficit-comercial-eeuu-abril-gracias-un-record-las-exportaciones-n6286761",
+      "tituloOriginal": "El déficit comercial de EEUU bajó en abril gracias a un récord en las exportaciones",
+      "tituloLimpio": "Déficit comercial de EE.UU. bajó en abril por récord de exportaciones",
+      "resumen": "El saldo comercial de Estados Unidos mostró un déficit menor en abril, impulsado por un máximo histórico en las exportaciones, lo que podría ser un motor de crecimiento.",
+      "porQueImporta": "Señala un posible fortalecimiento del sector externo estadounidense, con implicaciones para la economía global.",
+      "publicadoEn": "2026-06-09T14:40:00.000Z",
+      "globalScore": 86,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Economía",
+        "EEUU",
+        "Comercio",
+        "Exportaciones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/customer-acquisition-media-spend-accelerates-amid-rush-to-ai-gartner/822274/",
+      "tituloOriginal": "Media spend on customer acquisition accelerates amid rush to AI: Gartner",
+      "tituloLimpio": "Gasto en marketing para adquisición de clientes se acelera con la IA",
+      "resumen": "El gasto en medios para adquisición de clientes está aumentando rápidamente, impulsado por la adopción de IA, aunque la preparación para la IA aún puede ser insuficiente.",
+      "porQueImporta": "Indica una tendencia clara en inversión publicitaria hacia estrategias más eficientes y automatizadas gracias a la IA.",
+      "publicadoEn": "2026-06-09T13:35:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "IA",
+        "Inversión",
+        "Adquisición de clientes",
+        "Gartner"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/tech/946879/microsoft-mustafa-suleyman-ai-white-collar-jobs",
+      "tituloOriginal": "Microsoft AI chief walks back comments about AI taking over white-collar work",
+      "tituloLimpio": "Microsoft matiza declaraciones sobre IA y el futuro del trabajo de oficina",
+      "resumen": "El jefe de IA de Microsoft, Mustafa Suleyman, aclara que la IA asistirá a los trabajadores de cuello blanco en lugar de reemplazarlos masivamente en el corto plazo.",
+      "porQueImporta": "Aporta claridad sobre el impacto inmediato de la IA en empleos cualificados, aunque la tendencia a largo plazo sigue siendo un tema de debate.",
+      "publicadoEn": "2026-06-09T14:54:51.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Microsoft",
+        "IA",
+        "Empleo",
+        "Tecnología",
+        "Futuro del trabajo"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+      "tituloOriginal": "Learning to lead in a hybrid human-AI enterprise",
+      "tituloLimpio": "Liderazgo en empresas híbridas humano-IA",
+      "resumen": "A medida que la adopción de agentes de IA se dispara, los equipos de liderazgo deben considerar las implicaciones de una fuerza laboral mixta humano-IA.",
+      "porQueImporta": "Ofrece una perspectiva sobre los desafíos y estrategias de gestión en el nuevo paradigma de trabajo colaborativo entre humanos y IA.",
+      "publicadoEn": "2026-06-09T10:20:06.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "Liderazgo",
+        "Empresas",
+        "Gestión",
+        "Fuerza laboral"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/09/ios-27-gives-apples-calendar-app-new-feature-ive-wanted-for-years/",
+      "tituloOriginal": "iOS 27 gives Apple’s Calendar app new feature I’ve wanted for years",
+      "tituloLimpio": "iOS 27 añade soporte para lenguaje natural en Calendario",
+      "resumen": "La beta de iOS 27 incluye una esperada función que permite crear eventos en la app Calendario usando lenguaje natural.",
+      "porQueImporta": "Simplifica la gestión de la agenda para los usuarios de Apple, haciendo más intuitiva la adición de citas y recordatorios.",
+      "publicadoEn": "2026-06-09T14:35:07.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "iOS 27",
+        "Calendario",
+        "Productividad",
+        "Actualización"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/inside/ios-27/tips/how-to-control-separate-alarm-notification-alert-volumes-ios-27?utm_source=rss",
+      "tituloOriginal": "How to control separate alarm & notification alert volumes iOS 27",
+      "tituloLimpio": "iOS 27 permite controlar volúmenes de alarma y notificaciones por separado",
+      "resumen": "iOS 27 introduce controles de sonido y vibración que permiten ajustar de forma independiente los volúmenes de alarmas, temporizadores y notificaciones.",
+      "porQueImporta": "Ofrece mayor personalización y control sobre las alertas del dispositivo, mejorando la experiencia del usuario.",
+      "publicadoEn": "2026-06-09T14:32:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "iOS 27",
+        "Notificaciones",
+        "Personalización",
+        "Actualización"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/news/watchos-27-the-macstories-overview/",
+      "tituloOriginal": "watchOS 27: The MacStories Overview",
+      "tituloLimpio": "watchOS 27: Novedades y mejoras en el Apple Watch",
+      "resumen": "watchOS 27 se enfoca en la IA de Siri y trae mejoras de calidad de vida, además de otras optimizaciones para el Apple Watch.",
+      "porQueImporta": "Continúa la integración de IA en el ecosistema Apple y mejora la funcionalidad del reloj inteligente.",
+      "publicadoEn": "2026-06-09T13:58:13.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "watchOS 27",
+        "Siri",
+        "IA",
+        "Actualización"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-micron-sandisk/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Stock Market Today: Nasdaq, Small Caps Jump After Trump Comments; Cancer Stock Soars (Live Coverage)",
+      "tituloLimpio": "Mercado bursátil: Nasdaq y small caps suben tras comentarios de Trump",
+      "resumen": "El mercado bursátil estadounidense, incluyendo el Nasdaq y las acciones de pequeña capitalización, experimentó un alza tras declaraciones del expresidente Trump.",
+      "porQueImporta": "Refleja la sensibilidad del mercado a las declaraciones políticas y su impacto en índices clave.",
+      "publicadoEn": "2026-06-09T14:27:29.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/f84dddde254e978a0083114ec56c1e2b",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "Mercado",
+        "Bolsa",
+        "EEUU",
+        "Inversiones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/06/09/ethena-lands-janus-henderson-backing-as-asset-manager-invests-in-ena-eyes-usde-distribution",
+      "tituloOriginal": "Ethena lands Janus Henderson backing as asset manager invests in ENA, eyes USDe distribution",
+      "tituloLimpio": "Ethena recibe respaldo de Janus Henderson en inversión en ENA",
+      "resumen": "Janus Henderson invierte en Ethena (ENA), respaldando la infraestructura DeFi y apuntando a la distribución de su stablecoin USDe.",
+      "porQueImporta": "Confirma la creciente aceptación y el interés de inversores institucionales en proyectos de finanzas descentralizadas.",
+      "publicadoEn": "2026-06-09T14:54:59.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/4f2c96f3cc47bb440512f4f7a38cb2ed453a6fec-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "Criptomonedas",
+        "DeFi",
+        "Inversión",
+        "Ethena"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/privacy-starkware-sui-move-compliance-confidential-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Privacy push as StarkWare and Sui move toward compliance-ready confidential transfers",
+      "tituloLimpio": "StarkWare y Sui avanzan en transferencias confidenciales listas para cumplimiento",
+      "resumen": "StarkWare y Sui implementan sistemas de transferencia confidencial, mientras Zama mejora el cumplimiento y un bug en Zcash resalta riesgos de privacidad.",
+      "porQueImporta": "Muestra los esfuerzos continuos por equilibrar la privacidad en las transacciones de criptomonedas con la necesidad de cumplimiento regulatorio.",
+      "publicadoEn": "2026-06-09T14:01:11.000Z",
+      "imagen": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS10aGUtc2lnbmlmaWNhbmNlLW9mLXByaXZhY3ktaW4td2ViMy5qcGc=.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "Criptomonedas",
+        "Privacidad",
+        "Regulación",
+        "Blockchain"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/privatizacion-intercargo-postergan-segunda-vez-fecha-presentacion-ofertas_0_2qhBxx0CY0.html",
+      "tituloOriginal": "Privatización de Intercargo: postergan por segunda vez la fecha de presentación de ofertas",
+      "tituloLimpio": "Privatización de Intercargo: postergan por segunda vez la presentación de ofertas",
+      "resumen": "La fecha de presentación de ofertas para la privatización de Intercargo se pospone nuevamente, extendiendo el plazo por 15 días.",
+      "porQueImporta": "Indica demoras en un proceso clave de privatización en Argentina, generando incertidumbre sobre los tiempos y condiciones.",
+      "publicadoEn": "2026-06-09T12:28:37.000Z",
+      "imagen": "https://www.clarin.com/img/2025/12/06/koBsoswaH_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Intercargo",
+        "Privatización",
+        "Economía",
+        "Gobierno"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/06/09/jubilaciones-y-pensiones-anses-establecio-el-calendario-de-pagos-y-fechas-de-cobro-para-el-aguinaldo/",
+      "tituloOriginal": "Jubilaciones y pensiones: ANSES estableció el calendario de pagos y fechas de cobro para el aguinaldo",
+      "tituloLimpio": "ANSES: calendario de pagos y fechas de cobro del aguinaldo",
+      "resumen": "El ANSES ha establecido el calendario oficial de pagos y las fechas de cobro del aguinaldo para jubilados y pensionados en junio de 2026.",
+      "porQueImporta": "Información relevante para los beneficiarios de jubilaciones y pensiones en Argentina.",
+      "publicadoEn": "2026-06-09T14:46:40.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/YC3M2ZN6QNC3LEMAJDL6WCKRWQ.JPG?auth=436ef0eda315bd3c3d9e4bd2f0036138b4a1149672162eeb16907b62ec7cdbbc&smart=true&width=5311&height=2987",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Jubilaciones",
+        "Pensiones",
+        "ANSES",
+        "Aguinaldo"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid09062026/",
+      "tituloOriginal": "Dólar hoy y dólar blue, en vivo: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 9 de junio, minuto a minuto",
+      "tituloLimpio": "Dólar hoy y dólar blue: cotizaciones del martes 9 de junio",
+      "resumen": "Información actualizada sobre la cotización del dólar oficial y el dólar blue en Argentina, junto con datos del MEP y el CCL.",
+      "porQueImporta": "Proporciona datos clave para entender la dinámica del mercado cambiario argentino.",
+      "publicadoEn": "2026-06-09T14:35:24.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/GHSZNGFV4FBN7D6V3AYV4H6RTU.jpg?auth=d9c8fd22de8f9f8455c0d6610ecd246b61fdc09688eb4385a24c4611144e9133&smart=true&width=2000&height=1333",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Dólar",
+        "Economía",
+        "Finanzas",
+        "Mercado cambiario"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "fuente": "Adweek",
+      "url": "https://www.adweek.com/media/hearst-magazines-aura-iq-agentic-ai-ad-platform/",
+      "tituloOriginal": "Hearst Magazines Launches Aura IQ, an AI-Powered Ad Platform",
+      "tituloLimpio": "Hearst Magazines lanza Aura IQ, plataforma publicitaria con IA",
+      "resumen": "La nueva plataforma Aura IQ de Hearst Magazines permite crear audiencias personalizadas a partir de RFPs en minutos, reduciendo drásticamente el tiempo de planificación.",
+      "porQueImporta": "Demuestra cómo la IA está optimizando procesos clave en el marketing y la publicidad, ofreciendo mayor agilidad.",
+      "publicadoEn": "2026-06-09T08:00:00.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "IA",
+        "Publicidad",
+        "Hearst",
+        "Herramientas"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-06-09T14:58:42.873Z"
+  }
+}
