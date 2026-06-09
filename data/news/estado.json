@@ -46,6 +46,21 @@
   },
   "feedback": [
     {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs-1781027018497",
+      "noticiaId": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "keywords": [
+        "Finanzas",
+        "Criptomonedas",
+        "Privacidad",
+        "Regulación",
+        "Blockchain"
+      ],
+      "feedback": "no_interesante",
+      "timestamp": "2026-06-09T17:43:38.497Z"
+    },
+    {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv-1781026792168",
       "noticiaId": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
       "categoria": "AI",
