@@ -1,69 +1,68 @@
 {
   "fecha": "2026-06-09",
-  "generadoEn": "2026-06-09T14:58:42.873Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "Las principales novedades giran en torno a Apple, con actualizaciones en Podcasts, iOS 27 y watchOS 27, y el avance de la IA en diversas áreas, incluyendo el marketing y el sector legal. En Argentina, se destaca la postergación de la privatización de Intercargo y la situación del dólar. También hay novedades financieras sobre inversiones en DeFi y el mercado de criptomonedas.",
+  "generadoEn": "2026-06-09T19:14:24.623Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Las novedades de hoy giran en torno a la IA y su aplicación en empresas, las actualizaciones de Apple con visionOS y macOS, y el panorama financiero con movimientos en criptomonedas y ofertas bancarias en Argentina. También hay novedades sobre el dólar y el aguinaldo en el país.",
   "radarPersonal": [],
   "loImportante": [
-    "Apple Podcasts suma reproducción de video en Mac y Apple TV, además de una nueva función de búsqueda.",
-    "iOS 27 introduce soporte para lenguaje natural en la app Calendario y controles de volumen separados para alarmas y notificaciones.",
-    "watchOS 27 enfoca en IA de Siri y mejoras de calidad de vida para el Apple Watch.",
-    "El déficit comercial de EE.UU. bajó en abril gracias a un récord en exportaciones, lo que podría impulsar su economía.",
-    "La privatización de Intercargo en Argentina se posterga por segunda vez, extendiendo el plazo para la presentación de ofertas."
+    "Apple actualiza visionOS y macOS, integrando más IA y mejoras de diseño.",
+    "Google anuncia avances en IA para mayo, enfocándose en aplicaciones prácticas.",
+    "El mercado financiero muestra movimientos en criptomonedas y subas en bonos del Tesoro de EE.UU.",
+    "Argentina: ofertas bancarias por el Día del Padre y novedades sobre el aguinaldo para empleados de comercio."
   ],
   "oportunidades": [
     {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "categoria": "Automation",
-      "titulo": "Sandstone recauda $30M para llevar IA a equipos legales internos",
-      "detalle": "La startup Sandstone busca democratizar el acceso a la inteligencia artificial para departamentos legales corporativos, lo que podría optimizar procesos y reducir costos.",
+      "id": "hasbro-ai-licensing",
+      "categoria": "AI",
+      "titulo": "Hasbro usa IA para licenciar personajes",
+      "detalle": "Hasbro lanzó un estudio de IA para licenciar personajes como Optimus Prime y Mr. Potato Head, enfocándose en licencias conductuales.",
       "acciones": [
-        "Investigar el potencial de Sandstone y su tecnología.",
-        "Evaluar cómo la IA está impactando el sector legal."
+        "Analizar el potencial de licencias de IA para marcas.",
+        "Evaluar modelos de negocio similares."
       ]
     },
     {
-      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
-      "categoria": "Marketing",
-      "titulo": "Hearst Magazines lanza Aura IQ, una plataforma publicitaria con IA",
-      "detalle": "Aura IQ permite crear audiencias personalizadas a partir de RFPs en minutos, agilizando significativamente el proceso de planificación publicitaria.",
-      "acciones": [
-        "Analizar las capacidades de Aura IQ para campañas de marketing.",
-        "Considerar la adopción de plataformas publicitarias basadas en IA."
-      ]
-    },
-    {
-      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "id": "uk-crypto-etns",
       "categoria": "Investing",
-      "titulo": "Ethena recibe respaldo de Janus Henderson para su token ENA y distribución de USDe",
-      "detalle": "La inversión de un gestor de activos tradicional en infraestructura DeFi como Ethena subraya la creciente integración entre finanzas tradicionales y cripto.",
+      "titulo": "Reino Unido abre puerta a fondos mutuos con cripto ETNs",
+      "detalle": "El regulador financiero del Reino Unido propone permitir que los fondos mutuos tengan hasta un 10% de exposición a cripto ETNs.",
       "acciones": [
-        "Evaluar la inversión en Ethena (ENA) o productos relacionados.",
-        "Monitorear la tendencia de inversión de gestores tradicionales en DeFi."
+        "Monitorear la regulación de criptoactivos en mercados clave.",
+        "Evaluar oportunidades de inversión en ETNs."
+      ]
+    },
+    {
+      "id": "apple-tvos-hardware-cutoff",
+      "categoria": "Productivity",
+      "titulo": "Apple deja de dar soporte a hardware antiguo de Apple TV",
+      "detalle": "tvOS 27 finaliza el soporte para modelos de Apple TV de 2015 y 2017, marcando un hito en la discontinuación de hardware.",
+      "acciones": [
+        "Evaluar el ciclo de vida de hardware de Apple.",
+        "Considerar el impacto en usuarios con dispositivos antiguos."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "categoria": "AI",
-      "titulo": "Microsoft matiza declaraciones sobre IA y el futuro del trabajo de oficina",
-      "detalle": "El jefe de IA de Microsoft aclara que la IA asistirá a los trabajadores de cuello blanco en lugar de reemplazarlos masivamente en el corto plazo, pero la incertidumbre persiste.",
-      "mitigacion": "Mantenerse informado sobre la evolución de la IA y su impacto en la fuerza laboral, enfocándose en la adaptación y el desarrollo de habilidades complementarias."
-    },
-    {
-      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
-      "categoria": "Regulatory",
-      "titulo": "Postergan por segunda vez la privatización de Intercargo",
-      "detalle": "La demora en el proceso de privatización de Intercargo genera incertidumbre sobre los plazos y las condiciones finales de la operación.",
-      "mitigacion": "Seguir de cerca las actualizaciones sobre el proceso de privatización y sus posibles implicaciones económicas y de mercado."
-    },
-    {
-      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "id": "rivian-lease-prices",
       "categoria": "Market",
-      "titulo": "Cadena de comida rápida de 56 años cierra más de 700 locales",
-      "detalle": "El cierre masivo de una cadena establecida sugiere posibles debilidades en el sector de la restauración o cambios en las preferencias del consumidor.",
-      "mitigacion": "Analizar las causas detrás de estos cierres para identificar posibles riesgos en inversiones o estrategias de negocio relacionadas."
+      "titulo": "Precios de leasing de Rivian fuera de control",
+      "detalle": "Las acciones de Rivian cayeron ante las quejas de los compradores por los altos precios de leasing en el día del lanzamiento del R2.",
+      "mitigacion": "Monitorear la respuesta de Rivian y la competencia en el sector de vehículos eléctricos."
+    },
+    {
+      "id": "cheaper-ai-models",
+      "categoria": "Technology",
+      "titulo": "Presión por modelos de IA más económicos",
+      "detalle": "Existe una tendencia en las empresas tecnológicas a buscar modelos de IA más baratos que no sacrifiquen calidad, lo que podría cambiar la economía del sector.",
+      "mitigacion": "Evaluar la adopción de modelos de IA más eficientes y su impacto en la innovación."
+    },
+    {
+      "id": "argentina-paso-reform",
+      "categoria": "Regulatory",
+      "titulo": "Incertidumbre sobre la reforma electoral y las PASO en Argentina",
+      "detalle": "La discusión sobre la obligatoriedad de las PASO genera divisiones en el gobierno y dificulta la reforma electoral.",
+      "mitigacion": "Seguir de cerca las definiciones políticas sobre el sistema electoral argentino."
     }
   ],
   "conexiones": [],
@@ -74,17 +73,17 @@
       "fuente": "Google AI Blog",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
       "tituloOriginal": "The latest AI news we announced in May 2026",
-      "tituloLimpio": "Google comparte sus últimas actualizaciones de IA de mayo 2026",
-      "resumen": "El blog de Google AI detalla los avances y novedades en inteligencia artificial anunciados por la compañía durante el mes de mayo.",
-      "porQueImporta": "Permite conocer de primera mano las direcciones y desarrollos de IA de uno de los líderes del sector.",
+      "tituloLimpio": "Google comparte sus últimas novedades en IA de mayo",
+      "resumen": "Google detalla las novedades y avances en inteligencia artificial anunciados durante mayo de 2026.",
+      "porQueImporta": "Ofrece un vistazo a las direcciones que está tomando Google en IA, crucial para entender el futuro de la tecnología.",
       "publicadoEn": "2026-06-05T14:45:00.000Z",
       "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/May_AI_Recap_still.max-600x600.format-webp.webp",
       "globalScore": 88,
       "personalScore": 100,
       "tags": [
-        "Google",
         "IA",
-        "Actualización",
+        "Google",
+        "Novedades",
         "Tecnología"
       ],
       "tambienVistoEn": []
@@ -93,21 +92,40 @@
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Apple",
       "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/09/apple-podcasts-gets-video-on-mac-and-apple-tv/",
-      "tituloOriginal": "Apple Podcasts Gets Video on Mac and Apple TV, Plus New Search Feature",
-      "tituloLimpio": "Apple Podcasts suma video en Mac y Apple TV, y nueva función de búsqueda",
-      "resumen": "Apple introduce mejoras significativas en Podcasts, permitiendo la reproducción de video en macOS y tvOS, además de una interfaz renovada y una función de búsqueda mejorada.",
-      "porQueImporta": "Refuerza la apuesta de Apple por el contenido de video dentro de su ecosistema de podcasts, abriendo nuevas posibilidades para creadores y consumidores.",
-      "publicadoEn": "2026-06-09T14:40:56.000Z",
+      "url": "https://www.macrumors.com/2026/06/09/macos-golden-gate-liquid-glass/",
+      "tituloOriginal": "All the Liquid Glass Changes in macOS Golden Gate",
+      "tituloLimpio": "macOS Golden Gate: Mejoras en el diseño 'Liquid Glass'",
+      "resumen": "Se detallan los cambios implementados en el diseño 'Liquid Glass' de macOS Golden Gate, abordando críticas previas sobre legibilidad y consistencia.",
+      "porQueImporta": "Actualizaciones importantes en el sistema operativo de Apple, con foco en la experiencia de usuario y diseño.",
+      "publicadoEn": "2026-06-09T19:11:35.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "Podcasts",
-        "Video",
-        "Mac",
-        "Apple TV",
-        "Actualización"
+        "macOS",
+        "Diseño",
+        "Liquid Glass"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "categoria": "Finance",
+      "fuente": "Sherwood",
+      "url": "https://sherwood.news/markets/rivian-on-r2-launch-day-shoppers-point-out-out-of-control-lease-prices/",
+      "tituloOriginal": "Rivian dips on R2 launch day, as shoppers point out “out of control” lease prices",
+      "tituloLimpio": "Rivian cae en bolsa tras lanzamiento del R2 por altos precios de leasing",
+      "resumen": "Las acciones de Rivian bajaron más de un 8% luego de que los compradores señalaran precios de leasing 'fuera de control' en el día del lanzamiento del modelo R2.",
+      "porQueImporta": "Indicador de la recepción del mercado ante nuevos lanzamientos de vehículos eléctricos y la estrategia de precios.",
+      "publicadoEn": "2026-06-09T17:52:35.000Z",
+      "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/2277181233_normal-illinois-rivian-r-2-suvs-go-through-the-final-assembly-and-inspection-process-at-the.jpg",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "Rivian",
+        "Vehículos Eléctricos",
+        "Mercado"
       ],
       "tambienVistoEn": []
     },
@@ -115,20 +133,20 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/mundo/el-deficit-comercial-eeuu-abril-gracias-un-record-las-exportaciones-n6286761",
-      "tituloOriginal": "El déficit comercial de EEUU bajó en abril gracias a un récord en las exportaciones",
-      "tituloLimpio": "Déficit comercial de EE.UU. bajó en abril por récord de exportaciones",
-      "resumen": "El saldo comercial de Estados Unidos mostró un déficit menor en abril, impulsado por un máximo histórico en las exportaciones, lo que podría ser un motor de crecimiento.",
-      "porQueImporta": "Señala un posible fortalecimiento del sector externo estadounidense, con implicaciones para la economía global.",
-      "publicadoEn": "2026-06-09T14:40:00.000Z",
-      "globalScore": 86,
+      "url": "https://www.ambito.com/economia/ahorro-supermercados-las-ofertas-que-se-pueden-aprovechar-este-martes-9-junio-n6286507",
+      "tituloOriginal": "Ahorro en supermercados: las ofertas que se pueden aprovechar este martes 9 de junio",
+      "tituloLimpio": "Ofertas de supermercados para aprovechar este martes 9 de junio",
+      "resumen": "Se detallan las ofertas disponibles en supermercados, incluyendo descuentos y financiación en productos seleccionados.",
+      "porQueImporta": "Información útil para el consumidor argentino sobre ahorro en compras cotidianas.",
+      "publicadoEn": "2026-06-09T16:30:00.000Z",
+      "imagen": "https://media.ambito.com/p/427511866f5fe385e0efe75672b2cd60/adjuntos/239/imagenes/043/380/0043380359/carrefour.jpg",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Economía",
-        "EEUU",
-        "Comercio",
-        "Exportaciones"
+        "Consumo",
+        "Ofertas",
+        "Supermercados"
       ],
       "tambienVistoEn": []
     },
@@ -136,20 +154,39 @@
       "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
       "categoria": "Marketing",
       "fuente": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/customer-acquisition-media-spend-accelerates-amid-rush-to-ai-gartner/822274/",
-      "tituloOriginal": "Media spend on customer acquisition accelerates amid rush to AI: Gartner",
-      "tituloLimpio": "Gasto en marketing para adquisición de clientes se acelera con la IA",
-      "resumen": "El gasto en medios para adquisición de clientes está aumentando rápidamente, impulsado por la adopción de IA, aunque la preparación para la IA aún puede ser insuficiente.",
-      "porQueImporta": "Indica una tendencia clara en inversión publicitaria hacia estrategias más eficientes y automatizadas gracias a la IA.",
-      "publicadoEn": "2026-06-09T13:35:00.000Z",
-      "globalScore": 100,
+      "url": "https://www.marketingdive.com/news/hasbro-launches-ai-studio-to-license-optimus-prime-mr-potato-head/822356/",
+      "tituloOriginal": "Optimus Prime will take your call: Hasbro leans into AI-driven licensing",
+      "tituloLimpio": "Hasbro usa IA para licenciar personajes icónicos",
+      "resumen": "La compañía de juguetes lanza un estudio de IA llamado Sixth Wall para licenciar personajes como Optimus Prime y Mr. Potato Head, enfocándose en cómo interactúan y se comportan.",
+      "porQueImporta": "Ejemplo de cómo las empresas están aplicando IA para expandir el valor de sus marcas y propiedades intelectuales.",
+      "publicadoEn": "2026-06-09T15:00:00.000Z",
+      "globalScore": 96,
       "personalScore": 100,
       "tags": [
         "Marketing",
         "IA",
-        "Inversión",
-        "Adquisición de clientes",
-        "Gartner"
+        "Licencias",
+        "Hasbro"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+      "tituloOriginal": "Can tech companies learn to love cheaper AI models?",
+      "tituloLimpio": "Empresas tecnológicas buscan modelos de IA más económicos",
+      "resumen": "Se plantea la pregunta de si las empresas tecnológicas pueden adoptar modelos de IA más baratos sin sacrificar la calidad, lo que implicaría un cambio económico significativo.",
+      "porQueImporta": "Analiza la viabilidad económica y estratégica de la IA, un factor clave para su adopción masiva.",
+      "publicadoEn": "2026-06-09T18:56:09.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "Tecnología",
+        "Economía",
+        "Modelos de IA"
       ],
       "tambienVistoEn": []
     },
@@ -157,20 +194,19 @@
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
       "fuente": "The Verge AI",
-      "url": "https://www.theverge.com/tech/946879/microsoft-mustafa-suleyman-ai-white-collar-jobs",
-      "tituloOriginal": "Microsoft AI chief walks back comments about AI taking over white-collar work",
-      "tituloLimpio": "Microsoft matiza declaraciones sobre IA y el futuro del trabajo de oficina",
-      "resumen": "El jefe de IA de Microsoft, Mustafa Suleyman, aclara que la IA asistirá a los trabajadores de cuello blanco en lugar de reemplazarlos masivamente en el corto plazo.",
-      "porQueImporta": "Aporta claridad sobre el impacto inmediato de la IA en empleos cualificados, aunque la tendencia a largo plazo sigue siendo un tema de debate.",
-      "publicadoEn": "2026-06-09T14:54:51.000Z",
+      "url": "https://www.theverge.com/tech/946733/apple-shortcuts-ai-safari-tabs-vibe-code",
+      "tituloOriginal": "Apple’s best AI idea looks a lot like vibe coding",
+      "tituloLimpio": "Apple integra IA en sus sistemas, similar a 'vibe coding'",
+      "resumen": "Se compara la aproximación de Apple a la IA, incluyendo funciones de Siri y generación de texto/imágenes, con el concepto de 'vibe coding'.",
+      "porQueImporta": "Perspectiva crítica sobre las implementaciones de IA de Apple y su posicionamiento frente a la competencia.",
+      "publicadoEn": "2026-06-09T13:34:48.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "Microsoft",
+        "Apple",
         "IA",
-        "Empleo",
-        "Tecnología",
-        "Futuro del trabajo"
+        "Siri",
+        "WWDC"
       ],
       "tambienVistoEn": []
     },
@@ -181,8 +217,8 @@
       "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
       "tituloOriginal": "Learning to lead in a hybrid human-AI enterprise",
       "tituloLimpio": "Liderazgo en empresas híbridas humano-IA",
-      "resumen": "A medida que la adopción de agentes de IA se dispara, los equipos de liderazgo deben considerar las implicaciones de una fuerza laboral mixta humano-IA.",
-      "porQueImporta": "Ofrece una perspectiva sobre los desafíos y estrategias de gestión en el nuevo paradigma de trabajo colaborativo entre humanos y IA.",
+      "resumen": "A medida que la adopción de agentes de IA se dispara, las empresas deben considerar cómo liderar equipos que combinan humanos y IA de forma autónoma.",
+      "porQueImporta": "Aborda los desafíos de gestión y liderazgo en el nuevo paradigma de trabajo con IA.",
       "publicadoEn": "2026-06-09T10:20:06.000Z",
       "globalScore": 100,
       "personalScore": 100,
@@ -190,8 +226,7 @@
         "IA",
         "Liderazgo",
         "Empresas",
-        "Gestión",
-        "Fuerza laboral"
+        "Automatización"
       ],
       "tambienVistoEn": []
     },
@@ -199,20 +234,19 @@
       "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Apple",
       "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/09/ios-27-gives-apples-calendar-app-new-feature-ive-wanted-for-years/",
-      "tituloOriginal": "iOS 27 gives Apple’s Calendar app new feature I’ve wanted for years",
-      "tituloLimpio": "iOS 27 añade soporte para lenguaje natural en Calendario",
-      "resumen": "La beta de iOS 27 incluye una esperada función que permite crear eventos en la app Calendario usando lenguaje natural.",
-      "porQueImporta": "Simplifica la gestión de la agenda para los usuarios de Apple, haciendo más intuitiva la adición de citas y recordatorios.",
-      "publicadoEn": "2026-06-09T14:35:07.000Z",
+      "url": "https://9to5mac.com/2026/06/09/apple-tv-just-dropped-trailers-for-two-upcoming-returning-shows/",
+      "tituloOriginal": "Apple TV just dropped trailers for two upcoming returning shows",
+      "tituloLimpio": "Apple TV+ lanza tráilers de dos series que regresan",
+      "resumen": "Apple TV+ estrena los avances de dos producciones que volverán pronto a la plataforma, sumándose a su oferta de verano.",
+      "porQueImporta": "Novedades sobre el contenido de Apple TV+, relevante para suscriptores y el mercado del streaming.",
+      "publicadoEn": "2026-06-09T19:07:15.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "iOS 27",
-        "Calendario",
-        "Productividad",
-        "Actualización"
+        "Streaming",
+        "Contenido",
+        "Apple TV+"
       ],
       "tambienVistoEn": []
     },
@@ -220,20 +254,19 @@
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
       "categoria": "Apple",
       "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/inside/ios-27/tips/how-to-control-separate-alarm-notification-alert-volumes-ios-27?utm_source=rss",
-      "tituloOriginal": "How to control separate alarm & notification alert volumes iOS 27",
-      "tituloLimpio": "iOS 27 permite controlar volúmenes de alarma y notificaciones por separado",
-      "resumen": "iOS 27 introduce controles de sonido y vibración que permiten ajustar de forma independiente los volúmenes de alarmas, temporizadores y notificaciones.",
-      "porQueImporta": "Ofrece mayor personalización y control sobre las alertas del dispositivo, mejorando la experiencia del usuario.",
-      "publicadoEn": "2026-06-09T14:32:00.000Z",
+      "url": "https://appleinsider.com/articles/26/06/09/for-the-first-time-in-four-years-tvos-cuts-off-some-older-apple-tv-hardware?utm_source=rss",
+      "tituloOriginal": "For the first time in four years, tvOS cuts off some older Apple TV hardware",
+      "tituloLimpio": "tvOS 27 deja de dar soporte a hardware antiguo de Apple TV",
+      "resumen": "Por primera vez en cuatro años, Apple ha discontinuado el soporte para modelos de Apple TV de 2015 (HD) y 2017 (4K de primera generación) con tvOS 27.",
+      "porQueImporta": "Marca un punto de inflexión en la política de soporte de hardware de Apple para sus dispositivos de entretenimiento.",
+      "publicadoEn": "2026-06-09T18:59:01.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "iOS 27",
-        "Notificaciones",
-        "Personalización",
-        "Actualización"
+        "Hardware",
+        "tvOS",
+        "Soporte"
       ],
       "tambienVistoEn": []
     },
@@ -241,42 +274,40 @@
       "id": "macstories-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Apple",
       "fuente": "MacStories",
-      "url": "https://www.macstories.net/news/watchos-27-the-macstories-overview/",
-      "tituloOriginal": "watchOS 27: The MacStories Overview",
-      "tituloLimpio": "watchOS 27: Novedades y mejoras en el Apple Watch",
-      "resumen": "watchOS 27 se enfoca en la IA de Siri y trae mejoras de calidad de vida, además de otras optimizaciones para el Apple Watch.",
-      "porQueImporta": "Continúa la integración de IA en el ecosistema Apple y mejora la funcionalidad del reloj inteligente.",
-      "publicadoEn": "2026-06-09T13:58:13.000Z",
+      "url": "https://www.macstories.net/news/visionos-27-the-macstories-overview/",
+      "tituloOriginal": "visionOS 27: The MacStories Overview",
+      "tituloLimpio": "Visión general de visionOS 27",
+      "resumen": "Se presenta un resumen de las novedades de visionOS 27, incluyendo la integración de Siri con IA y mejoras para el Vision Pro.",
+      "porQueImporta": "Detalles clave sobre la evolución del sistema operativo de realidad espacial de Apple.",
+      "publicadoEn": "2026-06-09T17:55:35.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "watchOS 27",
-        "Siri",
+        "visionOS",
         "IA",
-        "Actualización"
+        "Realidad Espacial"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
       "categoria": "Finance",
       "fuente": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-micron-sandisk/?src=A00220&yptr=yahoo",
-      "tituloOriginal": "Stock Market Today: Nasdaq, Small Caps Jump After Trump Comments; Cancer Stock Soars (Live Coverage)",
-      "tituloLimpio": "Mercado bursátil: Nasdaq y small caps suben tras comentarios de Trump",
-      "resumen": "El mercado bursátil estadounidense, incluyendo el Nasdaq y las acciones de pequeña capitalización, experimentó un alza tras declaraciones del expresidente Trump.",
-      "porQueImporta": "Refleja la sensibilidad del mercado a las declaraciones políticas y su impacto en índices clave.",
-      "publicadoEn": "2026-06-09T14:27:29.000Z",
-      "imagen": "https://media.zenfs.com/en/ibd.com/f84dddde254e978a0083114ec56c1e2b",
-      "globalScore": 94,
+      "url": "https://finance.yahoo.com/economy/articles/56-old-beloved-fast-food-005500959.html",
+      "tituloOriginal": "56-year-old beloved fast-food chain closes over 700 locations",
+      "tituloLimpio": "Cadena de comida rápida cierra más de 700 locales",
+      "resumen": "Una reconocida cadena de comida rápida, con 56 años de trayectoria, anuncia el cierre de más de 700 de sus establecimientos.",
+      "porQueImporta": "Indicador de posibles dificultades en el sector de la restauración o reestructuraciones empresariales a gran escala.",
+      "publicadoEn": "2026-06-09T00:55:00.000Z",
+      "imagen": "https://media.zenfs.com/en/thestreet_881/88dd6a0aec9f401bbaf782c623dd510c",
+      "globalScore": 92,
       "personalScore": 100,
       "tags": [
         "Finanzas",
-        "Mercado",
-        "Bolsa",
-        "EEUU",
-        "Inversiones"
+        "Negocios",
+        "Restauración",
+        "Cierre de empresas"
       ],
       "tambienVistoEn": []
     },
@@ -284,21 +315,20 @@
       "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
       "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/06/09/ethena-lands-janus-henderson-backing-as-asset-manager-invests-in-ena-eyes-usde-distribution",
-      "tituloOriginal": "Ethena lands Janus Henderson backing as asset manager invests in ENA, eyes USDe distribution",
-      "tituloLimpio": "Ethena recibe respaldo de Janus Henderson en inversión en ENA",
-      "resumen": "Janus Henderson invierte en Ethena (ENA), respaldando la infraestructura DeFi y apuntando a la distribución de su stablecoin USDe.",
-      "porQueImporta": "Confirma la creciente aceptación y el interés de inversores institucionales en proyectos de finanzas descentralizadas.",
-      "publicadoEn": "2026-06-09T14:54:59.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/4f2c96f3cc47bb440512f4f7a38cb2ed453a6fec-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "globalScore": 92,
+      "url": "https://www.coindesk.com/policy/2026/06/09/uk-financial-regulator-moves-to-allow-mutual-funds-10-exposure-to-crypto-etns",
+      "tituloOriginal": "UK financial regulator moves to allow mutual funds 10% exposure to crypto ETNs",
+      "tituloLimpio": "Reino Unido permitiría a fondos mutuos invertir en cripto ETNs",
+      "resumen": "El regulador financiero del Reino Unido (FCA) propone permitir que ciertos fondos de inversión tengan hasta un 10% de exposición a cripto ETNs.",
+      "porQueImporta": "Un paso importante hacia la integración de activos digitales en vehículos de inversión tradicionales en Europa.",
+      "publicadoEn": "2026-06-09T15:39:13.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/dbb610731e2e80de9999432f992d34df58281552-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 96,
       "personalScore": 100,
       "tags": [
         "Finanzas",
         "Criptomonedas",
-        "DeFi",
-        "Inversión",
-        "Ethena"
+        "Regulación",
+        "ETNs"
       ],
       "tambienVistoEn": []
     },
@@ -306,21 +336,20 @@
       "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
       "categoria": "Finance",
       "fuente": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/privacy-starkware-sui-move-compliance-confidential-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "tituloOriginal": "Privacy push as StarkWare and Sui move toward compliance-ready confidential transfers",
-      "tituloLimpio": "StarkWare y Sui avanzan en transferencias confidenciales listas para cumplimiento",
-      "resumen": "StarkWare y Sui implementan sistemas de transferencia confidencial, mientras Zama mejora el cumplimiento y un bug en Zcash resalta riesgos de privacidad.",
-      "porQueImporta": "Muestra los esfuerzos continuos por equilibrar la privacidad en las transacciones de criptomonedas con la necesidad de cumplimiento regulatorio.",
-      "publicadoEn": "2026-06-09T14:01:11.000Z",
-      "imagen": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS10aGUtc2lnbmlmaWNhbmNlLW9mLXByaXZhY3ktaW4td2ViMy5qcGc=.jpg",
+      "url": "https://cointelegraph.com/markets/bitcoin-may-act-as-a-canary-in-the-coal-mine-as-risk-off-pressure-spreads-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Bitcoin may act as a ‘canary in the coal mine’ as risk-off pressure spreads: Bitwise",
+      "tituloLimpio": "Bitcoin como 'canario en la mina de carbón' ante presión 'risk-off'",
+      "resumen": "Según Bitwise, Bitcoin podría estar anticipando una tendencia de 'risk-off' en los mercados globales, dada la liquidez y reservas de stablecoins elevadas.",
+      "porQueImporta": "Análisis sobre el rol de Bitcoin como indicador de sentimiento del mercado y posibles movimientos de capital.",
+      "publicadoEn": "2026-06-09T17:48:44.000Z",
+      "imagen": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0yMzI0MDUtaG93LXUtcy1iaXRjb2luLW1pbmVzLWFyZS1jaG9raW5nLXRoZS1ncmlkLWJpdG1haW4tYXQtdGhlLWNlbnRlci1vZi10aGUtc3Rvcm0uanBn.jpg",
       "globalScore": 90,
       "personalScore": 100,
       "tags": [
         "Finanzas",
-        "Criptomonedas",
-        "Privacidad",
-        "Regulación",
-        "Blockchain"
+        "Bitcoin",
+        "Mercado",
+        "Inversiones"
       ],
       "tambienVistoEn": []
     },
@@ -328,21 +357,41 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/privatizacion-intercargo-postergan-segunda-vez-fecha-presentacion-ofertas_0_2qhBxx0CY0.html",
-      "tituloOriginal": "Privatización de Intercargo: postergan por segunda vez la fecha de presentación de ofertas",
-      "tituloLimpio": "Privatización de Intercargo: postergan por segunda vez la presentación de ofertas",
-      "resumen": "La fecha de presentación de ofertas para la privatización de Intercargo se pospone nuevamente, extendiendo el plazo por 15 días.",
-      "porQueImporta": "Indica demoras en un proceso clave de privatización en Argentina, generando incertidumbre sobre los tiempos y condiciones.",
-      "publicadoEn": "2026-06-09T12:28:37.000Z",
-      "imagen": "https://www.clarin.com/img/2025/12/06/koBsoswaH_1200x630__1.jpg",
+      "url": "https://www.clarin.com/economia/aguinaldo-empleados-comercio-fechas-cobro-dinero-corresponde_0_C7AGcqw7Gi.html",
+      "tituloOriginal": "Aguinaldo para empleados de comercio: fechas de cobro y cuánto dinero corresponde",
+      "tituloLimpio": "Fechas y cálculo del aguinaldo para empleados de comercio",
+      "resumen": "Se informa sobre las fechas límite para el cobro del aguinaldo de los empleados de comercio y los conceptos que se consideran para su cálculo.",
+      "porQueImporta": "Información esencial para trabajadores del sector comercio en Argentina sobre sus derechos salariales.",
+      "publicadoEn": "2026-06-09T18:16:09.000Z",
+      "imagen": "https://www.clarin.com/img/2026/01/06/6IidO00BH_1200x630__1.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Empleo",
+        "Aguinaldo",
+        "Comercio"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/obligatoriedad-primarias-divide-gobierno-saben-puede-beneficiar-eliminan-paso_0_q2WTNOInW9.html",
+      "tituloOriginal": "El futuro de las PASO genera más cortocircuitos entre el Gobierno y los aliados y tambalea la reforma electoral",
+      "tituloLimpio": "Debate por las PASO divide al Gobierno y complica la reforma electoral",
+      "resumen": "La discusión sobre la continuidad o eliminación de las PASO genera tensiones internas en el oficialismo y dificulta los acuerdos para una reforma electoral.",
+      "porQueImporta": "Refleja la complejidad política en Argentina y el impacto en la estructura electoral del país.",
+      "publicadoEn": "2026-06-09T16:49:30.000Z",
+      "imagen": "https://www.clarin.com/img/2026/05/26/CsWzYHveV_1200x630__1.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Intercargo",
-        "Privatización",
-        "Economía",
-        "Gobierno"
+        "Política",
+        "PASO",
+        "Reforma Electoral"
       ],
       "tambienVistoEn": []
     },
@@ -350,21 +399,41 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/06/09/jubilaciones-y-pensiones-anses-establecio-el-calendario-de-pagos-y-fechas-de-cobro-para-el-aguinaldo/",
-      "tituloOriginal": "Jubilaciones y pensiones: ANSES estableció el calendario de pagos y fechas de cobro para el aguinaldo",
-      "tituloLimpio": "ANSES: calendario de pagos y fechas de cobro del aguinaldo",
-      "resumen": "El ANSES ha establecido el calendario oficial de pagos y las fechas de cobro del aguinaldo para jubilados y pensionados en junio de 2026.",
-      "porQueImporta": "Información relevante para los beneficiarios de jubilaciones y pensiones en Argentina.",
-      "publicadoEn": "2026-06-09T14:46:40.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/YC3M2ZN6QNC3LEMAJDL6WCKRWQ.JPG?auth=436ef0eda315bd3c3d9e4bd2f0036138b4a1149672162eeb16907b62ec7cdbbc&smart=true&width=5311&height=2987",
+      "url": "https://www.infobae.com/economia/2026/06/09/descuentos-de-hasta-35-y-24-cuotas-sin-interes-una-por-una-las-promociones-que-lanzaron-dos-bancos-por-el-dia-del-padre/",
+      "tituloOriginal": "Descuentos de hasta 35% y 24 cuotas sin interés: una por una, las promociones que lanzaron dos bancos por el Día del Padre",
+      "tituloLimpio": "Promociones bancarias por el Día del Padre: descuentos y cuotas",
+      "resumen": "Dos bancos lanzaron promociones con descuentos de hasta 35% y hasta 24 cuotas sin interés para compras por el Día del Padre.",
+      "porQueImporta": "Oportunidades de ahorro y financiación para consumidores en Argentina, especialmente relevantes para la fecha.",
+      "publicadoEn": "2026-06-09T19:01:42.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/VB6RI2XA7JAYHJJUC7HIS6YVUI.png?auth=8cb1c7032dc774344c43e1e9eb45776078b90b40260192eda741f55602e98d44&smart=true&width=1536&height=1024",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Jubilaciones",
-        "Pensiones",
-        "ANSES",
-        "Aguinaldo"
+        "Finanzas",
+        "Promociones",
+        "Día del Padre"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/06/09/en-corrientes-se-hara-el-primer-juicio-por-terrorismo-a-una-organizacion-vinculada-al-tren-de-aragua/",
+      "tituloOriginal": "En Corrientes se hará el primer juicio por terrorismo a una organización vinculada al Tren de Aragua",
+      "tituloLimpio": "Primer juicio por terrorismo vinculado al Tren de Aragua en Argentina",
+      "resumen": "En Corrientes se llevará a cabo el primer juicio por terrorismo contra una organización vinculada al Tren de Aragua, tras confirmarse la imputación.",
+      "porQueImporta": "Un caso judicial relevante que aborda el crimen organizado y el terrorismo en Argentina.",
+      "publicadoEn": "2026-06-09T18:44:17.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/5KODOVCHAVB7NJZALVLSDYEMSY.jpg?auth=697040ccdd64bd0e3ca3bd25815c9923ac48bee0362829f982872a208e78d496&smart=true&width=1920&height=1080",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Justicia",
+        "Terrorismo",
+        "Crimen Organizado"
       ],
       "tambienVistoEn": []
     },
@@ -374,10 +443,10 @@
       "fuente": "La Nacion Economia",
       "url": "https://www.lanacion.com.ar/economia/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid09062026/",
       "tituloOriginal": "Dólar hoy y dólar blue, en vivo: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 9 de junio, minuto a minuto",
-      "tituloLimpio": "Dólar hoy y dólar blue: cotizaciones del martes 9 de junio",
-      "resumen": "Información actualizada sobre la cotización del dólar oficial y el dólar blue en Argentina, junto con datos del MEP y el CCL.",
-      "porQueImporta": "Proporciona datos clave para entender la dinámica del mercado cambiario argentino.",
-      "publicadoEn": "2026-06-09T14:35:24.000Z",
+      "tituloLimpio": "Dólar: cotización oficial y blue este martes 9 de junio",
+      "resumen": "El dólar oficial cotiza a $1465 para la venta, mientras que el dólar blue se ubica en $1460.",
+      "porQueImporta": "Información clave sobre la evolución del tipo de cambio en Argentina, fundamental para la economía.",
+      "publicadoEn": "2026-06-09T19:00:00.000Z",
       "imagen": "https://resizer.glanacion.com/resizer/v2/GHSZNGFV4FBN7D6V3AYV4H6RTU.jpg?auth=d9c8fd22de8f9f8455c0d6610ecd246b61fdc09688eb4385a24c4611144e9133&smart=true&width=2000&height=1333",
       "globalScore": 98,
       "personalScore": 100,
@@ -385,8 +454,28 @@
         "Argentina",
         "Dólar",
         "Economía",
-        "Finanzas",
-        "Mercado cambiario"
+        "Finanzas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Politica",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-interna-oficialista-y-nueva-actividad-en-el-senado-nid09062026/",
+      "tituloOriginal": "Javier Milei y sus medidas, en vivo: la interna oficialista y nueva actividad en el Senado",
+      "tituloLimpio": "Javier Milei: medidas, interna oficialista y actividad en el Senado",
+      "resumen": "Seguimiento en vivo de las medidas del Presidente, la dinámica interna del oficialismo y las novedades en el Senado.",
+      "porQueImporta": "Actualización sobre la gestión gubernamental y las tensiones políticas en Argentina.",
+      "publicadoEn": "2026-06-09T19:12:00.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/WQFKPFTXMNDIXACE4QES52VS6I.JPG?auth=18577b98412148e4e5907ec98bec9fd0696f324684aa2a4577f7d4d3eab39d78&smart=true&width=1600&height=1066",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Política",
+        "Javier Milei",
+        "Senado"
       ],
       "tambienVistoEn": []
     },
@@ -394,26 +483,46 @@
       "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
       "categoria": "Marketing",
       "fuente": "Adweek",
-      "url": "https://www.adweek.com/media/hearst-magazines-aura-iq-agentic-ai-ad-platform/",
-      "tituloOriginal": "Hearst Magazines Launches Aura IQ, an AI-Powered Ad Platform",
-      "tituloLimpio": "Hearst Magazines lanza Aura IQ, plataforma publicitaria con IA",
-      "resumen": "La nueva plataforma Aura IQ de Hearst Magazines permite crear audiencias personalizadas a partir de RFPs en minutos, reduciendo drásticamente el tiempo de planificación.",
-      "porQueImporta": "Demuestra cómo la IA está optimizando procesos clave en el marketing y la publicidad, ofreciendo mayor agilidad.",
-      "publicadoEn": "2026-06-09T08:00:00.000Z",
-      "globalScore": 94,
+      "url": "https://www.adweek.com/brand-marketing/how-new-cmo-jill-cress-is-pushing-babylist-past-the-registry/",
+      "tituloOriginal": "How New CMO Jill Cress Is Pushing Babylist Past the Registry",
+      "tituloLimpio": "Nueva CMO de Babylist busca expandir la marca más allá del registro",
+      "resumen": "La nueva Directora de Marketing de Babylist, Jill Cress, busca transformar la empresa en una plataforma integral para padres, preparándose para una posible salida a bolsa.",
+      "porQueImporta": "Estrategia de marketing y crecimiento de una empresa en el sector de productos para bebés, con miras a una expansión significativa.",
+      "publicadoEn": "2026-06-09T13:58:59.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Marketing",
-        "IA",
-        "Publicidad",
-        "Hearst",
-        "Herramientas"
+        "Negocios",
+        "Babylist",
+        "IPO"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuYmFy",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-060826/card/u-s-treasury-yields-rise-dollar-hits-two-month-high-iIjIdrlF1whq8E7p9f4D?siteid=yhoof2&yptr=yahoo",
+      "tituloOriginal": "U.S. Treasury Yields Rise, Dollar Hits Two-Month High",
+      "tituloLimpio": "Rendimientos del Tesoro de EE.UU. suben, dólar alcanza máximo de dos meses",
+      "resumen": "Los rendimientos de los bonos del Tesoro de Estados Unidos aumentaron, y el dólar alcanzó su nivel más alto en dos meses.",
+      "porQueImporta": "Movimientos importantes en los mercados financieros globales que pueden afectar las inversiones y el comercio internacional.",
+      "publicadoEn": "2026-06-08T10:10:17.000Z",
+      "imagen": "https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e",
+      "globalScore": 82,
+      "personalScore": 92,
+      "tags": [
+        "Finanzas",
+        "Mercado",
+        "Bonos del Tesoro",
+        "Dólar"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-06-09T14:58:42.873Z"
+    "generadoEn": "2026-06-09T19:14:24.623Z"
   }
 }
