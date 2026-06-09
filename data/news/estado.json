@@ -44,6 +44,21 @@
     "aprendizajeActivo": true,
     "actualizadoEn": "2026-06-04T00:00:00.000Z"
   },
-  "feedback": [],
+  "feedback": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv-1781026792168",
+      "noticiaId": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "keywords": [
+        "Google",
+        "IA",
+        "Actualización",
+        "Tecnología"
+      ],
+      "feedback": "no_interesante",
+      "timestamp": "2026-06-09T17:39:52.168Z"
+    }
+  ],
   "guardadas": []
 }
