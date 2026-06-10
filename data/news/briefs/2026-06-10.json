@@ -1,0 +1,483 @@
+{
+  "fecha": "2026-06-10",
+  "generadoEn": "2026-06-10T15:43:05.798Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Guido, te traigo las novedades más relevantes del día. Apple sigue innovando con iOS 27 y mejoras en sus íconos, mientras que en IA, Google y OpenAI presentan avances. En Argentina, se discute la ley de Inocencia Fiscal y Moody's mejora la calificación de la deuda de la Ciudad de Buenos Aires. También hay oportunidades de inversión en el sector tecnológico y novedades en marketing.",
+  "radarPersonal": [],
+  "loImportante": [
+    "Apple detalla cambios en Liquid Glass para iOS 27, mejorando legibilidad y personalización.",
+    "OpenAI y Nvidia negocian un centro de datos de 10 gigavatios en Ohio.",
+    "El régimen de Inocencia Fiscal vuelve a ser tema de debate en Argentina con un nuevo proyecto de ley.",
+    "Accenture adquiere Whalar para potenciar su presencia en la economía de creadores."
+  ],
+  "oportunidades": [
+    {
+      "id": "oportunidad-1",
+      "categoria": "Investing",
+      "titulo": "Oportunidad de Inversión en IA: OpenAI y Nvidia",
+      "detalle": "La posible alianza entre OpenAI y Nvidia para un centro de datos masivo en Ohio podría ser un indicador de futuras inversiones y crecimiento en el sector de IA.",
+      "acciones": [
+        "Monitorear el avance de las negociaciones.",
+        "Evaluar el impacto en las acciones de Nvidia y el ecosistema de IA."
+      ]
+    },
+    {
+      "id": "oportunidad-2",
+      "categoria": "Investing",
+      "titulo": "Rendimiento de Acciones Tecnológicas Relacionadas con IA",
+      "detalle": "Noticias sobre Supermicro y su financiamiento para pedidos de IA sugieren un mercado activo y demanda creciente, a pesar de fluctuaciones puntuales.",
+      "acciones": [
+        "Analizar el comportamiento de acciones como SMCI.",
+        "Explorar otros proveedores de infraestructura para IA."
+      ]
+    },
+    {
+      "id": "oportunidad-3",
+      "categoria": "Marketing",
+      "titulo": "Expansión en la Economía de Creadores",
+      "detalle": "La adquisición de Whalar por parte de Accenture resalta la importancia creciente de la economía de creadores y las estrategias de marketing asociadas.",
+      "acciones": [
+        "Investigar el impacto de esta adquisición en el mercado.",
+        "Considerar estrategias de marketing de influencers y creadores."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "riesgo-1",
+      "categoria": "AI",
+      "titulo": "Restricciones en Modelos de IA para Ciberseguridad",
+      "detalle": "Investigadores de ciberseguridad expresan descontento por las estrictas 'guardrails' del modelo Fable de Anthropic, limitando su uso en tareas críticas.",
+      "mitigacion": "Evaluar la aplicabilidad de modelos de IA alternativos o la posibilidad de ajustar configuraciones para tareas específicas."
+    },
+    {
+      "id": "riesgo-2",
+      "categoria": "Regulatory",
+      "titulo": "Debate sobre la Ley de Inocencia Fiscal en Argentina",
+      "detalle": "La ley de Inocencia Fiscal y las propuestas de reforma generan debate y críticas, especialmente sobre la exclusión de funcionarios y la posible evasión.",
+      "mitigacion": "Seguir de cerca la evolución legislativa y las implicaciones para el mercado y la inversión en Argentina."
+    },
+    {
+      "id": "riesgo-3",
+      "categoria": "Market",
+      "titulo": "Volatilidad en el Sector de Criptomonedas",
+      "detalle": "A pesar de la resiliencia del mercado de juegos onchain, el sector cripto en general sigue mostrando volatilidad.",
+      "mitigacion": "Mantener cautela en inversiones directas en criptoactivos y diversificar el portafolio."
+    }
+  ],
+  "conexiones": [],
+  "noticias": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/10/how-liquid-glass-is-changing-in-ios-27/",
+      "tituloOriginal": "Here's How Liquid Glass Is Changing in iOS 27",
+      "tituloLimpio": "Apple mejora Liquid Glass en iOS 27 con más personalización y legibilidad",
+      "resumen": "Apple detalla las mejoras en Liquid Glass para iOS 27, enfocándose en la legibilidad, personalización, comportamiento de las barras laterales y los íconos de las apps.",
+      "porQueImporta": "Estas actualizaciones en el lenguaje de diseño de Apple impactan directamente en la experiencia de usuario de sus dispositivos y la estética de las aplicaciones.",
+      "publicadoEn": "2026-06-10T15:17:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "iOS 27",
+        "Liquid Glass",
+        "Diseño",
+        "Experiencia de Usuario"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "categoria": "Finance",
+      "fuente": "Sherwood",
+      "url": "https://sherwood.news/tech/report-openai-and-nvidia-in-talks-to-team-up-for-10-gigawatt-data-center-in-ohio/",
+      "tituloOriginal": "Report: OpenAI and Nvidia in talks to team up for 10-gigawatt data center in Ohio",
+      "tituloLimpio": "OpenAI y Nvidia negocian un centro de datos de 10 gigavatios en Ohio",
+      "resumen": "Se reporta que OpenAI y Nvidia están en conversaciones para construir un centro de datos de 10 gigavatios en tierras federales en Ohio, con un contrato de arrendamiento a 20 años para OpenAI.",
+      "porQueImporta": "Esta potencial colaboración marca un hito en la infraestructura de IA, sugiriendo una inversión masiva y un compromiso a largo plazo en el desarrollo de capacidades de IA.",
+      "publicadoEn": "2026-06-10T15:41:28.000Z",
+      "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/2279684900_washington-dc-open-ai-ceo-sam-altman-speaks-to-reporters-after-meeting-with-sen-bernie.jpg",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "OpenAI",
+        "Nvidia",
+        "IA",
+        "Centros de Datos",
+        "Inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/que-es-el-regimen-inocencia-fiscal-y-porque-se-esta-hablando-ahora-del-tema-n6287243",
+      "tituloOriginal": "Qué es el régimen de Inocencia Fiscal y porqué se está hablando ahora del tema",
+      "tituloLimpio": "Argentina debate el régimen de Inocencia Fiscal y su reforma",
+      "resumen": "El tema del régimen de Inocencia Fiscal vuelve a estar en agenda en Argentina, con el Gobierno enviando al Congreso un proyecto de reforma que busca dotar de mayor seguridad al mecanismo.",
+      "porQueImporta": "Es crucial para entender las políticas económicas y fiscales del país, y cómo se busca incentivar la declaración de activos.",
+      "publicadoEn": "2026-06-10T15:13:00.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Inocencia Fiscal",
+        "Economía",
+        "Reforma Fiscal",
+        "Congreso"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/accenture-acquires-whalar-agency-to-gain-creator-economy-advantage/822473/",
+      "tituloOriginal": "Accenture acquires Whalar agency to gain creator economy advantage",
+      "tituloLimpio": "Accenture adquiere Whalar para fortalecer su posición en la economía de creadores",
+      "resumen": "Accenture ha adquirido la agencia Whalar, que ha gestionado más de 600 millones de dólares en campañas de creadores, para ganar ventaja en la economía de creadores.",
+      "porQueImporta": "Demuestra la creciente importancia estratégica de la economía de creadores para grandes consultoras y agencias, y el potencial de crecimiento en este sector.",
+      "publicadoEn": "2026-06-10T14:37:00.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "Accenture",
+        "Economía de Creadores",
+        "Adquisición",
+        "Agencias"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "tituloOriginal": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
+      "tituloLimpio": "Investigadores de ciberseguridad critican las restricciones del modelo Fable de Anthropic",
+      "resumen": "Investigadores de ciberseguridad señalan que el nuevo modelo Fable de Anthropic tiene 'guardrails' demasiado estrictos para su aplicación en trabajos de ciberseguridad.",
+      "porQueImporta": "Plantea un desafío para la adopción de modelos de IA avanzados en sectores sensibles donde la flexibilidad es clave.",
+      "publicadoEn": "2026-06-10T15:41:22.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "Ciberseguridad",
+        "Anthropic",
+        "Restricciones",
+        "Modelos de IA"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
+      "tituloOriginal": "I tried Siri AI, and so far it actually works",
+      "tituloLimpio": "Siri con IA en iOS 27 cumple expectativas básicas de los usuarios",
+      "resumen": "La nueva Siri potenciada por IA en iOS 27 ha demostrado ser capaz de realizar tareas como añadir eventos de múltiples fuentes a un calendario, algo muy demandado por los usuarios.",
+      "porQueImporta": "Representa un avance significativo en la utilidad práctica de los asistentes de voz de Apple, respondiendo a necesidades reales de los usuarios.",
+      "publicadoEn": "2026-06-09T23:43:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "Siri",
+        "IA",
+        "iOS 27",
+        "Productividad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+      "tituloOriginal": "Learning to lead in a hybrid human-AI enterprise",
+      "tituloLimpio": "Liderazgo en empresas híbridas humano-IA: un desafío creciente",
+      "resumen": "Con la esperada adopción masiva de agentes de IA, los equipos de liderazgo deben considerar las implicaciones de una fuerza laboral híbrida, donde los agentes de IA pueden coordinar tareas complejas autónomamente.",
+      "porQueImporta": "Aborda la transformación organizacional y de liderazgo necesaria para integrar la IA de manera efectiva en el entorno empresarial.",
+      "publicadoEn": "2026-06-09T10:20:06.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "Liderazgo",
+        "Empresas",
+        "Fuerza Laboral",
+        "Automatización"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/10/deals-airpods-pro-240w-beats-cable-macbook-pro/",
+      "tituloOriginal": "Deals: AirPods Pro 3 hit best price ever at $179, MacBook Pro $300 off, Series 11 $130 off, more",
+      "tituloLimpio": "Ofertas: AirPods Pro 3 a $179, MacBook Pro con $300 de descuento",
+      "resumen": "Se reportan ofertas significativas en productos Apple, incluyendo los AirPods Pro 3 a su precio más bajo histórico y descuentos en modelos de MacBook Pro y MacBook Air.",
+      "porQueImporta": "Oportunidad de adquirir hardware de Apple a precios reducidos, relevante para quienes buscan actualizar sus equipos.",
+      "publicadoEn": "2026-06-10T15:29:49.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "Ofertas",
+        "AirPods Pro",
+        "MacBook Pro",
+        "Descuentos"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/06/10/airpods-pro-3-plunge-to-179-lowest-price-ever-ahead-of-prime-day?utm_source=rss",
+      "tituloOriginal": "AirPods Pro 3 plunge to $179, lowest price ever, ahead of Prime Day",
+      "tituloLimpio": "AirPods Pro 3 alcanzan su precio más bajo histórico de $179",
+      "resumen": "Los AirPods Pro 3 están disponibles a $179, su precio más bajo registrado, anticipándose al Prime Day y al Día del Padre.",
+      "porQueImporta": "Noticia de interés para consumidores interesados en adquirir auriculares de alta gama a un precio reducido.",
+      "publicadoEn": "2026-06-10T14:35:14.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "AirPods Pro",
+        "Ofertas",
+        "Descuentos",
+        "Electrónica"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/linked/wwdc-2026-macos-27-icon-refinements/",
+      "tituloOriginal": "WWDC 2026: macOS 27 Icon Refinements",
+      "tituloLimpio": "Apple refina los íconos en macOS 27 con 'Liquid Glass'",
+      "resumen": "Apple anunció mejoras en los íconos de sus aplicaciones en macOS 27, integrando capas de 'Liquid Glass' para que se vean más nítidos y definidos.",
+      "porQueImporta": "Detalla una mejora estética y de diseño en el sistema operativo de escritorio de Apple, contribuyendo a una experiencia visual más pulida.",
+      "publicadoEn": "2026-06-10T12:38:01.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "macOS 27",
+        "Diseño",
+        "Íconos",
+        "WWDC 2026"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/video/spacex-openai-ipo-wave-investors-175555019.html",
+      "tituloOriginal": "The SpaceX–OpenAI IPO wave: What investors must do now",
+      "tituloLimpio": "Olas de IPOs de SpaceX y OpenAI: qué deben hacer los inversores",
+      "resumen": "Análisis sobre las posibles salidas a bolsa de SpaceX y OpenAI y las estrategias que los inversores deben considerar.",
+      "porQueImporta": "Proporciona una perspectiva sobre oportunidades de inversión en empresas tecnológicas de alto perfil.",
+      "publicadoEn": "2026-06-09T17:55:55.000Z",
+      "imagen": "https://media.zenfs.com/en/thestreet_video_805/4f4b93eca0ae663c64f252704f1155eb",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "Inversión",
+        "SpaceX",
+        "OpenAI",
+        "IPOs"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/news/technology/smci-stock-supermicro-falls-on-financing-to-fund-ai-orders/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Supermicro Stock Tumbles On Financing Deals To Fund AI Orders",
+      "tituloLimpio": "Acciones de Supermicro caen tras anuncios de financiamiento para pedidos de IA",
+      "resumen": "Las acciones de Supermicro (SMCI) experimentaron una caída tras la revelación de acuerdos de financiamiento destinados a cubrir pedidos de inteligencia artificial.",
+      "porQueImporta": "Indica posibles ajustes en el mercado de hardware para IA y la reacción de los inversores a las estrategias de financiación de empresas clave.",
+      "publicadoEn": "2026-06-10T14:38:30.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/f573ab1c6f63691a764e5395d29b2a37",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "Inversión",
+        "Supermicro",
+        "IA",
+        "Acciones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/06/10/prediction-markets-get-first-u-s-rule-proposal-as-cftc-proposes-contract-reviews",
+      "tituloOriginal": "Prediction markets get first U.S. rule proposal as CFTC pursues contract reviews",
+      "tituloLimpio": "Mercados de predicción en EE.UU. reciben su primera propuesta regulatoria",
+      "resumen": "La Commodity Futures Trading Commission (CFTC) ha propuesto una regla para revisar contratos en mercados de predicción, marcando la primera propuesta regulatoria de este tipo en EE.UU.",
+      "porQueImporta": "Un paso importante en la regulación de los mercados de predicción, con implicaciones para la industria de criptomonedas y finanzas descentralizadas.",
+      "publicadoEn": "2026-06-10T13:58:41.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/2ea663e27b7a8aedacb15a99a17ec144f1ef72ac-4928x2772.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "Regulación",
+        "CFTC",
+        "Mercados de Predicción",
+        "Cripto"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/onchain-gambling-market-pullback-trm-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Onchain gambling keeps rolling with $14B quarter despite crypto slump: TRM Labs",
+      "tituloLimpio": "Juegos onchain facturan $14 mil millones en el trimestre a pesar de la caída cripto",
+      "resumen": "El mercado de juegos onchain generó 14 mil millones de dólares en el último trimestre, mostrando resiliencia gracias a usuarios recurrentes y flujos de stablecoins, según TRM Labs.",
+      "porQueImporta": "Destaca la fortaleza y el crecimiento continuo de un nicho específico dentro del ecosistema cripto, a pesar de las tendencias generales del mercado.",
+      "publicadoEn": "2026-06-10T15:00:00.000Z",
+      "imagen": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS13aGVuLXByZWRpY3Rpb24tbWFya2V0cy1nby13cm9uZy13aG8tZGVjaWRlcy13aGF0LWNvdW50cy1hcy10aGUtdHJ1dGgtMS5qcGc=.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "Cripto",
+        "Juegos Onchain",
+        "Stablecoins",
+        "TRM Labs"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/inocencia-fiscal-ley-gobierno-impulso-salgan-dolares-colchon_0_NXlbFIxGrz.html",
+      "tituloOriginal": "Qué es la Inocencia Fiscal, la ley que el Gobierno impulsó para que salgan los dólares del colchón",
+      "tituloLimpio": "Ley de Inocencia Fiscal en Argentina: busca que salgan los dólares del 'colchón'",
+      "resumen": "La ley de Inocencia Fiscal en Argentina, impulsada por el Gobierno, busca facilitar la utilización de fondos no declarados sin ser un blanqueo tradicional, con un régimen simplificado y plazos más cortos para delitos de evasión.",
+      "porQueImporta": "Detalla los mecanismos y objetivos de una política fiscal clave en Argentina, con impacto en la repatriación de capitales.",
+      "publicadoEn": "2026-06-10T14:44:28.000Z",
+      "imagen": "https://www.clarin.com/img/2026/03/02/Hm3VJJDcg_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Economía",
+        "Inocencia Fiscal",
+        "Blanqueo",
+        "Política Fiscal"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/06/10/moodys-le-subio-la-nota-a-la-deuda-de-la-ciudad-de-buenos-aires/",
+      "tituloOriginal": "Moody's le subió la nota a la deuda de la Ciudad de Buenos Aires",
+      "tituloLimpio": "Moody's mejora la calificación de la deuda de la Ciudad de Buenos Aires",
+      "resumen": "Moody's ha elevado la calificación de la deuda de la Ciudad de Buenos Aires, reflejando una evaluación positiva de sus elementos financieros y operativos.",
+      "porQueImporta": "Es una señal de confianza en la gestión económica de la ciudad y puede influir en futuras decisiones de inversión.",
+      "publicadoEn": "2026-06-10T15:33:51.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/SVJM45UIY5AARMI2ZHV2X77QVQ.jpeg?auth=5bf5f2cfd36a6a18dae610c656175436f75ac63223d05bfab40d2a5fff5475ab&smart=true&width=1265&height=844",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Finanzas",
+        "Moody's",
+        "Deuda",
+        "Ciudad de Buenos Aires"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/jose-luis-daza-sobre-el-dolar-no-inviten-a-una-devaluacion-para-salvar-su-negocio-nid10062026/",
+      "tituloOriginal": "José Luis Daza sobre el dólar: “No inviten a una devaluación para salvar su negocio”",
+      "tituloLimpio": "Dólar en Argentina: 'No inviten a una devaluación para salvar su negocio'",
+      "resumen": "El viceministro de Economía de Argentina defiende el esquema cambiario oficial, proyecta una moneda fuerte y anticipa una 'avalancha' de inversiones.",
+      "porQueImporta": "Declaraciones clave del gobierno sobre la política cambiaria y las expectativas de inversión en Argentina.",
+      "publicadoEn": "2026-06-10T15:16:52.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/4C3MQM4HXRAORMDUD3MO63KZVQ.jpeg?auth=14fe4dcb92392c0ef8165374bb8af02d71780e6fde61154dbb6159a09dd7abf7&smart=true&width=1280&height=969",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Economía",
+        "Dólar",
+        "Política Cambiaria",
+        "Inversiones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Politica",
+      "url": "https://www.lanacion.com.ar/politica/tras-la-maniobra-de-adorni-la-oposicion-eleva-las-criticas-y-pide-excluir-a-los-funcionarios-de-la-nid10062026/",
+      "tituloOriginal": "Tras la maniobra de Adorni, la oposición eleva las críticas y pide excluir a los funcionarios de la ley de Inocencia Fiscal",
+      "tituloLimpio": "Oposición pide excluir a funcionarios de la ley de Inocencia Fiscal en Argentina",
+      "resumen": "Tras una maniobra del vocero Adorni, la oposición argentina eleva críticas y pide excluir a funcionarios públicos y jueces de la ley de Inocencia Fiscal.",
+      "porQueImporta": "Refleja el debate político y las tensiones en torno a la ley de Inocencia Fiscal y su aplicación a cargos públicos.",
+      "publicadoEn": "2026-06-10T15:36:11.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/MABVOG5RLFFSFGIXLKELWR7NRM.JPG?auth=0593bf604a46816e0bbce067be658fe9bc66b603d3635b319d446aa670c4c219&smart=true&width=3000&height=2000",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Política",
+        "Inocencia Fiscal",
+        "Oposición",
+        "Debate Legislativo"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "fuente": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/virtual-vanguard-recap-rethinking-privacy-consumer-trust-and-data-consent/",
+      "tituloOriginal": "Virtual Vanguard Recap: Rethinking Privacy: Consumer Trust and Data Consent",
+      "tituloLimpio": "Repensando la privacidad y la confianza del consumidor en marketing",
+      "resumen": "Un resumen de 'Virtual Vanguard' discute cómo repensar la privacidad, la confianza del consumidor y el consentimiento de datos en las estrategias de marketing.",
+      "porQueImporta": "Aborda temas cruciales para los profesionales del marketing sobre la gestión de datos y la relación con los consumidores en un entorno de creciente preocupación por la privacidad.",
+      "publicadoEn": "2026-06-10T08:00:00.000Z",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "Privacidad",
+        "Confianza del Consumidor",
+        "Datos",
+        "Consentimiento"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-06-10T15:43:05.798Z"
+  }
+}
