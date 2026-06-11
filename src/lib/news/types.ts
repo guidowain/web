@@ -115,8 +115,16 @@ export type PreferenciasNoticias = {
   actualizadoEn: string
 }
 
+export type CredencialWebAuthnGuardada = {
+  id: string
+  publicKey: string
+  algorithm: number
+  creadaEn: string
+}
+
 export type EstadoPersistenteNoticias = {
   preferencias: PreferenciasNoticias
   feedback: FeedbackUsuario[]
   guardadas: NoticiaGuardada[]
+  credencialesWebAuthn: CredencialWebAuthnGuardada[]
 }

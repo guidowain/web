@@ -1,0 +1,124 @@
+.screen {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #fff;
+  color: #111;
+  font-family: var(--font-inter), system-ui, sans-serif;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  padding: 48px 40px;
+  text-align: center;
+}
+
+.wordmark {
+  font-family: var(--font-newsreader), Georgia, serif;
+  font-size: 24px;
+  font-style: italic;
+  color: #111;
+  letter-spacing: -0.01em;
+}
+
+.dot {
+  color: #c33;
+}
+
+.title {
+  font-size: 15px;
+  font-weight: 450;
+  color: #555;
+  margin: 0;
+}
+
+.hint {
+  font-size: 13px;
+  color: #999;
+  margin: -8px 0 0;
+}
+
+.pinRow {
+  display: flex;
+  gap: 10px;
+}
+
+.pinInput {
+  width: 52px;
+  height: 64px;
+  text-align: center;
+  font-size: 28px;
+  font-family: inherit;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background: #fafafa;
+  color: #111;
+  outline: none;
+  transition: border-color 0.12s, background 0.12s;
+}
+
+.pinInput:focus {
+  border-color: #111;
+  background: #fff;
+}
+
+.actions {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 220px;
+}
+
+.primary {
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: 500;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 24px;
+  background: #111;
+  color: #fff;
+  cursor: pointer;
+}
+
+.primary:hover {
+  background: #333;
+}
+
+.secondary {
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: 450;
+  padding: 10px 18px;
+  border: 1px solid #ddd;
+  border-radius: 24px;
+  background: #fff;
+  color: #555;
+  cursor: pointer;
+}
+
+.secondary:hover {
+  color: #111;
+  border-color: #aaa;
+}
+
+.error {
+  font-size: 13px;
+  color: #c33;
+  margin: 0;
+}
+
+.shake {
+  animation: shake 0.4s ease;
+}
+
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  25% { transform: translateX(-8px); }
+  50% { transform: translateX(8px); }
+  75% { transform: translateX(-5px); }
+}

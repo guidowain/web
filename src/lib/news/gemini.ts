@@ -20,7 +20,7 @@ export async function pedirBriefAGemini(input: {
   if (!apiKey) throw new Error('Falta GEMINI_API_KEY.')
 
   const model = process.env.GEMINI_MODEL || 'gemini-2.5-flash-lite'
-  const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`
+  const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`
   const noticias = input.noticias.slice(0, 60).map((item) => ({
     id: item.id,
     categoria: item.categoria,
@@ -74,7 +74,7 @@ ${JSON.stringify(noticias)}
 
   const response = await fetch(endpoint, {
     method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
+    headers: { 'Content-Type': 'application/json', 'x-goog-api-key': apiKey },
     body: JSON.stringify({
       contents: [{ role: 'user', parts: [{ text: prompt }] }],
       generationConfig: {

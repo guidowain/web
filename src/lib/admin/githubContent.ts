@@ -86,22 +86,6 @@ function buildGithubContentsUrl(repo: string, filePath: string, branch?: string)
   return url.toString()
 }
 
-async function getRemoteSha(filePath: string) {
-  const { repo, branch } = getGithubConfig()
-  const url = buildGithubContentsUrl(repo, filePath, branch)
-
-  try {
-    const data = await githubRequest<GithubContentResponse>(url)
-    return data.sha
-  } catch (error) {
-    if (error instanceof Error && error.message.includes('GitHub API error 404')) {
-      return undefined
-    }
-
-    throw error
-  }
-}
-
 export async function getFileFromGithub(filePath: string) {
   const { repo, branch } = getGithubConfig()
   const url = buildGithubContentsUrl(repo, filePath, branch)
@@ -114,21 +98,61 @@ export async function getFileFromGithub(filePath: string) {
   return Buffer.from(data.content.replace(/\s/g, ''), 'base64')
 }
 
-export async function saveFilesToGithub(files: GithubFilePayload[]) {
+type GithubDirEntry = {
+  name: string
+  type: string
+}
+
+export async function listDirFromGithub(dirPath: string) {
   const { repo, branch } = getGithubConfig()
+  const url = buildGithubContentsUrl(repo, dirPath, branch)
+  const data = await githubRequest<GithubDirEntry[] | GithubContentResponse>(url, { cache: 'no-store' })
 
-  for (const file of files) {
-    const sha = await getRemoteSha(file.path)
-    const url = buildGithubContentsUrl(repo, file.path)
-
-    await githubRequest(url, {
-      method: 'PUT',
-      body: JSON.stringify({
-        branch,
-        message: `Update site content: ${file.path}`,
-        content: file.contentBase64,
-        ...(sha ? { sha } : {}),
-      }),
-    })
+  if (!Array.isArray(data)) {
+    throw new Error(`GitHub path ${dirPath} is not a directory.`)
   }
+
+  return data.filter((entry) => entry.type === 'file').map((entry) => entry.name)
+}
+
+// Un solo commit atómico vía Git Data API (blobs → tree → commit → ref).
+// La actualización del ref es fast-forward: si hubo una escritura concurrente, falla en vez de pisarla.
+export async function saveFilesToGithub(files: GithubFilePayload[]) {
+  if (files.length === 0) return
+
+  const { repo, branch } = getGithubConfig()
+  const gitBase = `${githubApiBase}/repos/${repo}/git`
+
+  const ref = await githubRequest<{ object: { sha: string } }>(`${gitBase}/ref/heads/${branch}`, { cache: 'no-store' })
+  const headSha = ref.object.sha
+  const headCommit = await githubRequest<{ tree: { sha: string } }>(`${gitBase}/commits/${headSha}`, { cache: 'no-store' })
+
+  const treeEntries = await Promise.all(
+    files.map(async (file) => {
+      const blob = await githubRequest<{ sha: string }>(`${gitBase}/blobs`, {
+        method: 'POST',
+        body: JSON.stringify({ content: file.contentBase64, encoding: 'base64' }),
+      })
+      return { path: file.path, mode: '100644', type: 'blob', sha: blob.sha }
+    }),
+  )
+
+  const tree = await githubRequest<{ sha: string }>(`${gitBase}/trees`, {
+    method: 'POST',
+    body: JSON.stringify({ base_tree: headCommit.tree.sha, tree: treeEntries }),
+  })
+
+  const message = files.length === 1
+    ? `Update site content: ${files[0].path}`
+    : `Update site content (${files.length} archivos)`
+
+  const commit = await githubRequest<{ sha: string }>(`${gitBase}/commits`, {
+    method: 'POST',
+    body: JSON.stringify({ message, tree: tree.sha, parents: [headSha] }),
+  })
+
+  await githubRequest(`${gitBase}/refs/heads/${branch}`, {
+    method: 'PATCH',
+    body: JSON.stringify({ sha: commit.sha }),
+  })
 }

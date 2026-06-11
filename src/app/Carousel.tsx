@@ -1,6 +1,7 @@
 'use client'
 
 import { useState, useEffect, useRef, useCallback } from 'react'
+import Image from 'next/image'
 import styles from './carousel.module.css'
 import type { Slide } from '@/lib/admin/contentTypes'
 
@@ -135,9 +136,14 @@ export default function Carousel({ slides }: { slides: Slide[] }) {
               key={i}
               className={`${styles.slide} ${isActive ? styles.slideIn : ''} ${isLeaving ? styles.slideOut : ''}`}
             >
-              <img
+              <Image
                 src={slide.img}
                 alt={slide.client}
+                width={1600}
+                height={1000}
+                quality={80}
+                sizes="(max-width: 768px) 100vw, 90vw"
+                priority={i === 0}
                 className={`${styles.slideImg} ${isActive ? styles.kenBurns : ''}`}
                 draggable={false}
               />

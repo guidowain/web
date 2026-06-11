@@ -56,63 +56,63 @@
   },
   "slides": [
     {
-      "img": "/images/Messi.png",
+      "img": "/images/Messi.webp",
       "client": "ADIDAS"
     },
     {
-      "img": "/images/HP 1.gif",
+      "img": "/images/HP 1.webp",
       "client": "HP"
     },
     {
-      "img": "/images/Makers-Mark.png",
+      "img": "/images/Makers-Mark.webp",
       "client": "MAKERS MARK"
     },
     {
-      "img": "/images/BMW.jpg",
+      "img": "/images/BMW.webp",
       "client": "BMW"
     },
     {
-      "img": "/images/JustEgg.png",
+      "img": "/images/JustEgg.webp",
       "client": "JUST EGG"
     },
     {
-      "img": "/images/Ritz.png",
+      "img": "/images/Ritz.webp",
       "client": "RITZ"
     },
     {
-      "img": "/images/YPF-afa.png",
+      "img": "/images/YPF-afa.webp",
       "client": "YPF"
     },
     {
-      "img": "/images/Action.png",
+      "img": "/images/Action.webp",
       "client": "ACTION"
     },
     {
-      "img": "/images/Hornitos.png",
+      "img": "/images/Hornitos.webp",
       "client": "HORNITOS"
     },
     {
-      "img": "/images/Gillette.png",
+      "img": "/images/Gillette.webp",
       "client": "GILLETTE"
     },
     {
-      "img": "/images/Goose Island.png",
+      "img": "/images/Goose Island.webp",
       "client": "GOOSE ISLAND"
     },
     {
-      "img": "/images/Sentinel.png",
+      "img": "/images/Sentinel.webp",
       "client": "SENTINEL"
     },
     {
-      "img": "/images/HP 2.gif",
+      "img": "/images/HP 2.webp",
       "client": "HP"
     },
     {
-      "img": "/images/Cenomi.jpg",
+      "img": "/images/Cenomi.webp",
       "client": "CENOMI"
     },
     {
-      "img": "/images/Liquid IV.png",
+      "img": "/images/Liquid IV.webp",
       "client": "LIQUID I.V."
     }
   ],

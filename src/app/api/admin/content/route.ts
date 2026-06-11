@@ -3,7 +3,7 @@ import path from 'path'
 import { NextRequest, NextResponse } from 'next/server'
 import { verifyAdminToken } from '@/lib/admin/auth'
 import { saveFilesToGithub } from '@/lib/admin/githubContent'
-import { loadSiteContent } from '@/lib/admin/siteContentStore'
+import { invalidateSiteContent, loadSiteContent } from '@/lib/admin/siteContentStore'
 import type { PendingImage, SiteContent } from '@/lib/admin/contentTypes'
 
 export const runtime = 'nodejs'
@@ -81,6 +81,7 @@ async function saveProduction(content: SiteContent, images: PendingImage[]) {
   ]
 
   await saveFilesToGithub(files)
+  invalidateSiteContent()
   return await loadSiteContent()
 }
 
@@ -121,6 +122,7 @@ async function saveRequest(request: NextRequest) {
       savedContent = await saveProduction(body.content, body.images || [])
     } else {
       savedContent = await saveLocal(body.content, body.images || [])
+      invalidateSiteContent()
     }
 
     return NextResponse.json({ message: 'Saved.', content: savedContent })

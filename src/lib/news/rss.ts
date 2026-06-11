@@ -104,6 +104,7 @@ export async function leerRssNoticias() {
       const response = await fetch(source.url, {
         headers: { 'User-Agent': 'News Brief Guido Wain/1.0' },
         next: { revalidate: 0 },
+        signal: AbortSignal.timeout(10_000),
       })
       if (!response.ok) throw new Error(`${source.nombre}: HTTP ${response.status}`)
       return parseRssItems(source, await response.text())

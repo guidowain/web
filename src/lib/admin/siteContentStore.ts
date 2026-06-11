@@ -1,10 +1,12 @@
 import { promises as fs } from 'fs'
 import path from 'path'
+import { revalidateTag, unstable_cache } from 'next/cache'
 import siteContent from '@/content/site.json'
 import { getFileFromGithub } from '@/lib/admin/githubContent'
 import type { SiteContent } from '@/lib/admin/contentTypes'
 
 const siteContentPath = 'src/content/site.json'
+export const siteContentTag = 'site-content'
 
 function normalizeSiteContent(content: SiteContent) {
   const fallbackSummary = {
@@ -32,7 +34,7 @@ function parseSiteContent(value: string) {
   return normalizeSiteContent(JSON.parse(value) as SiteContent)
 }
 
-export async function loadSiteContent() {
+async function loadSiteContentDirecto() {
   if (process.env.VERCEL) {
     try {
       return parseSiteContent((await getFileFromGithub(siteContentPath)).toString('utf8'))
@@ -48,4 +50,17 @@ export async function loadSiteContent() {
   } catch {
     return normalizeSiteContent(siteContent as SiteContent)
   }
+}
+
+const loadSiteContentCacheado = unstable_cache(loadSiteContentDirecto, ['site-content'], {
+  tags: [siteContentTag],
+  revalidate: 600,
+})
+
+export async function loadSiteContent() {
+  return loadSiteContentCacheado()
+}
+
+export function invalidateSiteContent() {
+  revalidateTag(siteContentTag)
 }

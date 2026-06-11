@@ -1,6 +1,7 @@
 import { promises as fs } from 'fs'
 import path from 'path'
-import { getFileFromGithub, saveFilesToGithub } from '@/lib/admin/githubContent'
+import { revalidateTag, unstable_cache } from 'next/cache'
+import { getFileFromGithub, listDirFromGithub, saveFilesToGithub } from '@/lib/admin/githubContent'
 import { crearPreferenciasIniciales } from './config'
 import type { BriefDiario, EstadoPersistenteNoticias, NoticiaGuardada, PreferenciasNoticias } from './types'
 
@@ -42,6 +43,7 @@ export function crearEstadoInicial(): EstadoPersistenteNoticias {
     preferencias: crearPreferenciasIniciales(),
     feedback: [],
     guardadas: [],
+    credencialesWebAuthn: [],
   }
 }
 
@@ -52,6 +54,7 @@ export async function leerEstadoNoticias(): Promise<EstadoPersistenteNoticias> {
       preferencias: parsed.preferencias ?? crearPreferenciasIniciales(),
       feedback: Array.isArray(parsed.feedback) ? parsed.feedback : [],
       guardadas: Array.isArray(parsed.guardadas) ? parsed.guardadas : [],
+      credencialesWebAuthn: Array.isArray(parsed.credencialesWebAuthn) ? parsed.credencialesWebAuthn : [],
     }
   } catch {
     return crearEstadoInicial()
@@ -92,38 +95,69 @@ export async function quitarNoticiaGuardada(noticiaId: string) {
   return estado.guardadas
 }
 
+export async function leerCredencialesWebAuthn() {
+  return (await leerEstadoNoticias()).credencialesWebAuthn
+}
+
+export async function guardarCredencialWebAuthn(credencial: EstadoPersistenteNoticias['credencialesWebAuthn'][number]) {
+  const estado = await leerEstadoNoticias()
+  estado.credencialesWebAuthn = [
+    credencial,
+    ...estado.credencialesWebAuthn.filter((item) => item.id !== credencial.id),
+  ].slice(0, 10)
+  await guardarEstadoNoticias(estado)
+  return estado.credencialesWebAuthn
+}
+
 export function briefPath(fecha: string) {
   return `${dataRoot}/briefs/${fecha}.json`
 }
 
-export async function leerBrief(fecha: string) {
+const briefsTag = 'news-briefs'
+
+// unstable_cache y revalidateTag solo funcionan dentro del runtime de Next;
+// scripts/generar-news.ts usa este módulo desde un proceso suelto.
+const enRuntimeDeNext = () => Boolean(process.env.NEXT_RUNTIME)
+
+async function leerBriefDirecto(fecha: string) {
   return JSON.parse(await readText(briefPath(fecha))) as BriefDiario
+}
+
+const leerBriefCacheada = unstable_cache(leerBriefDirecto, ['news-brief'], {
+  tags: [briefsTag],
+  revalidate: 600,
+})
+
+export async function leerBrief(fecha: string) {
+  return enRuntimeDeNext() ? leerBriefCacheada(fecha) : leerBriefDirecto(fecha)
 }
 
 export async function guardarBrief(brief: BriefDiario) {
   await writeText(briefPath(brief.fecha), json(brief))
+  if (enRuntimeDeNext()) {
+    revalidateTag(briefsTag)
+  }
 }
 
-export async function listarFechasBriefs() {
+async function listarFechasBriefsDirecto() {
   if (process.env.VERCEL) {
-    const hoy = new Date().toISOString().slice(0, 10)
-    const fechas = new Set([hoy])
-    for (let index = 1; index <= 30; index += 1) {
-      const fecha = new Date(Date.now() - index * 24 * 60 * 60 * 1000).toISOString().slice(0, 10)
-      try {
-        await leerBrief(fecha)
-        fechas.add(fecha)
-      } catch {
-        // GitHub Contents API no lista carpetas en el helper actual; probamos una ventana chica.
-      }
-    }
-    return Array.from(fechas).sort().reverse()
+    const files = await listDirFromGithub(`${dataRoot}/briefs`)
+    return files.filter((file) => file.endsWith('.json')).map((file) => file.replace(/\.json$/, '')).sort().reverse()
   }
 
+  const dir = fullPath(`${dataRoot}/briefs`)
+  const files = await fs.readdir(dir)
+  return files.filter((file) => file.endsWith('.json')).map((file) => file.replace(/\.json$/, '')).sort().reverse()
+}
+
+const listarFechasBriefsCacheada = unstable_cache(listarFechasBriefsDirecto, ['news-fechas-briefs'], {
+  tags: [briefsTag],
+  revalidate: 600,
+})
+
+export async function listarFechasBriefs() {
   try {
-    const dir = fullPath(`${dataRoot}/briefs`)
-    const files = await fs.readdir(dir)
-    return files.filter((file) => file.endsWith('.json')).map((file) => file.replace(/\.json$/, '')).sort().reverse()
+    return enRuntimeDeNext() ? await listarFechasBriefsCacheada() : await listarFechasBriefsDirecto()
   } catch {
     return []
   }
