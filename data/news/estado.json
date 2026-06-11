@@ -75,5 +75,13 @@
       "timestamp": "2026-06-09T17:39:52.168Z"
     }
   ],
-  "guardadas": []
+  "guardadas": [],
+  "credencialesWebAuthn": [
+    {
+      "id": "22nT4ePNf4Knnk9LXSqTQB0mEws",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEpICz6/QRc99wsPoBUVcxZbzYh2e7vR0UVsRQWzGQNuPv4W8Zmbf5kLdNbbtzAuUfCZIUjWYsOkDWCI49Y3WoGw==",
+      "algorithm": -7,
+      "creadaEn": "2026-06-11T15:49:01.370Z"
+    }
+  ]
 }
