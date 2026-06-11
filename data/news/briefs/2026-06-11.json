@@ -1,110 +1,91 @@
 {
   "fecha": "2026-06-11",
-  "generadoEn": "2026-06-11T16:08:29.987Z",
+  "generadoEn": "2026-06-11T17:33:48.029Z",
   "actualizacion": "14:00",
-  "resumenEjecutivo": "Las noticias de hoy giran en torno a las novedades de Apple post-WWDC, con su acción bajando pero analistas optimistas, y rumores de un MacBook con pantalla táctil. En IA, Google DeepMind expresa preocupación por la interacción masiva de agentes, mientras que Anthropic pide disculpas por guardarraíles ocultos en Claude Fable. En Argentina, el riesgo país sigue bajando y se reglamenta el blanqueo laboral. En finanzas, los ETFs de cripto tuvieron salidas importantes y se analizan las tasas de interés. En marketing, Pinterest suma integración con Amazon y la FIFA lanza su tracker de anuncios para el Mundial 2026.",
+  "resumenEjecutivo": "Las noticias clave del día giran en torno a Apple y su nueva campaña para los AirPods Pro 3, destacando su cancelación de ruido. En el ámbito de la IA, Google DeepMind expresa preocupación por la interacción masiva de agentes, mientras que Deezer lanza una herramienta para identificar música generada por IA. En Argentina, el Banco Mundial ajusta sus proyecciones de crecimiento, siendo optimista para el país, y se discuten las implicancias de la declaración jurada de Adorni y su tenencia de Bitcoin. Finalmente, Coinbase introduce cuentas para agentes de IA que pueden operar y gastar de forma autónoma.",
   "radarPersonal": [],
   "loImportante": [
-    "La acción de Apple (AAPL) bajó tras la WWDC, pero los analistas mantienen una visión constructiva a largo plazo.",
-    "Se rumorea fuertemente la confirmación de un MacBook con pantalla táctil, marcando un hito para la línea Mac.",
-    "El riesgo país argentino perforó los 450 puntos, su nivel más bajo en ocho años, impulsado por la mejora en la calificación de la deuda.",
-    "Se reglamentó el blanqueo laboral en Argentina, permitiendo a las empresas regularizar empleados no registrados con quitas y planes de pago.",
-    "Google DeepMind investiga los riesgos potenciales de la interacción entre millones de agentes de IA."
+    "Apple promociona la cancelación de ruido de sus nuevos AirPods Pro 3 con un anuncio protagonizado por Vini Jr.",
+    "Google DeepMind investiga los riesgos de la interacción entre millones de agentes de IA.",
+    "El Banco Mundial proyecta un crecimiento del 3,6% para Argentina en 2026, superando el promedio global.",
+    "Coinbase lanza cuentas para agentes de IA que pueden operar y gastar de forma autónoma."
   ],
   "oportunidades": [
     {
-      "id": "marketing-pinterest-amazon",
-      "categoria": "Marketing",
-      "titulo": "Pinterest facilita las compras con integración de Amazon Storefronts",
-      "detalle": "Pinterest permite a creadores elegibles incluir enlaces de afiliados en sus Pins, facilitando que los seguidores compren productos directamente desde la app.",
-      "acciones": [
-        "Explorar cómo implementar enlaces de afiliados en Pins para productos relevantes.",
-        "Evaluar el impacto de esta función en el engagement y las ventas."
-      ]
-    },
-    {
-      "id": "finance-crypto-etfs",
-      "categoria": "Investing",
-      "titulo": "Análisis de la resiliencia de los ETFs de cripto",
-      "detalle": "A pesar de las salidas significativas en mayo, los ETFs de cripto con exposiciones diversificadas mostraron resiliencia, ofreciendo señales para inversores a largo plazo.",
-      "acciones": [
-        "Revisar la composición de los ETFs de cripto con mejor desempeño.",
-        "Considerar estrategias de inversión a largo plazo en cripto a través de ETFs diversificados."
-      ]
-    },
-    {
-      "id": "automation-screenshots-pool",
+      "id": "coinbase-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Automation",
-      "titulo": "Pool: Transforma capturas de pantalla en un banco de memoria buscable",
-      "detalle": "La nueva app Pool organiza automáticamente las capturas de pantalla, rastrea enlaces originales y ayuda a redescubrir contenido guardado.",
+      "titulo": "Cuentas de Agentes de IA en Coinbase",
+      "detalle": "Coinbase permite que agentes de IA se conecten a cuentas de usuarios para operar criptomonedas, acceder a datos y realizar pagos de forma autónoma.",
       "acciones": [
-        "Probar la app Pool para gestionar y organizar capturas de pantalla.",
-        "Evaluar su utilidad para recuperar información y productos guardados."
+        "Explorar la plataforma 'Coinbase for Agents'.",
+        "Evaluar la seguridad y el potencial de automatización para inversiones.",
+        "Considerar la integración con otros asistentes de IA."
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "Vinculación de Tiendas de Amazon en Pinterest",
+      "detalle": "Pinterest permite a creadores elegibles enlazar sus tiendas de Amazon directamente en sus Pins, facilitando la compra de productos desde la app.",
+      "acciones": [
+        "Analizar el impacto en el e-commerce y el marketing de afiliados.",
+        "Evaluar la implementación de esta función para productos propios o de clientes."
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "titulo": "Identificación de Música por IA en Plataformas de Streaming",
+      "detalle": "Deezer desarrolla una herramienta para detectar música generada por IA en playlists de Spotify, Apple Music y otras plataformas.",
+      "acciones": [
+        "Monitorear el desarrollo y adopción de esta tecnología.",
+        "Considerar las implicaciones para artistas y la industria musical."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "ai-anthropic-guardrails",
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
       "categoria": "AI",
-      "titulo": "Anthropic pide disculpas por guardarraíles ocultos en Claude Fable",
-      "detalle": "Anthropic admitió haber implementado restricciones ocultas en su modelo Claude Fable 5, afectando a investigadores y desarrolladores. Se comprometen a mayor transparencia.",
-      "mitigacion": "Monitorear las comunicaciones de Anthropic sobre la transparencia de sus modelos y evaluar el impacto en la investigación y desarrollo de IA."
+      "titulo": "Riesgos de la Interacción Masiva de Agentes de IA",
+      "detalle": "Google DeepMind investiga los peligros potenciales cuando millones de agentes de IA interactúan entre sí online sin supervisión humana.",
+      "mitigacion": "Seguir de cerca las investigaciones sobre seguridad y alineación de la IA. Fomentar el desarrollo de protocolos de seguridad robustos."
     },
     {
-      "id": "ai-google-deepmind-agents",
-      "categoria": "AI",
-      "titulo": "Preocupación de Google DeepMind por la interacción masiva de agentes de IA",
-      "detalle": "Google DeepMind financia investigación sobre los peligros potenciales de la interacción entre millones de agentes de IA sin supervisión humana.",
-      "mitigacion": "Seguir de cerca los avances en la investigación de seguridad y alineación de IA, especialmente en lo referente a la interacción de agentes autónomos."
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Regulatory",
+      "titulo": "Implicaciones de la Declaración Jurada de Adorni",
+      "detalle": "Se analiza la posible sanción económica para Manuel Adorni por haber omitido la tenencia de Bitcoin en sus declaraciones de impuestos.",
+      "mitigacion": "Verificar el cumplimiento de las normativas fiscales vigentes para activos digitales en Argentina."
     },
     {
-      "id": "market-rates-inflation",
-      "categoria": "Market",
-      "titulo": "Aumento de tasas tras datos de inflación y empleo",
-      "detalle": "Las tasas de interés, incluyendo las hipotecarias, muestran una tendencia al alza tras datos de inflación elevados y un mercado laboral fuerte.",
-      "mitigacion": "Revisar estrategias de inversión y endeudamiento ante el posible aumento de las tasas de interés."
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "Environmental",
+      "titulo": "Consumo de Agua en Centros de Datos de IA",
+      "detalle": "Los centros de datos de Amazon consumieron 2.500 millones de galones de agua el año pasado, generando preocupación por el uso de recursos en la construcción de nuevos centros de IA.",
+      "mitigacion": "Evaluar el impacto ambiental de la infraestructura de IA y buscar soluciones más sostenibles."
     }
   ],
   "conexiones": [],
   "noticias": [
     {
-      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "categoria": "AI",
-      "fuente": "Google AI Blog",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
-      "tituloOriginal": "The latest AI news we announced in May 2026",
-      "tituloLimpio": "Novedades de IA de Google en Mayo 2026",
-      "resumen": "Resumen de las últimas actualizaciones y anuncios de inteligencia artificial realizados por Google durante el mes de mayo de 2026.",
-      "porQueImporta": "Información directa sobre el avance de la IA en una de las empresas líderes del sector.",
-      "publicadoEn": "2026-06-05T14:45:00.000Z",
-      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/May_AI_Recap_still.max-600x600.format-webp.webp",
-      "globalScore": 88,
-      "personalScore": 100,
-      "tags": [
-        "AI",
-        "Google",
-        "Tecnología"
-      ],
-      "tambienVistoEn": []
-    },
-    {
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Apple",
       "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/11/aapl-stock-slides-following-wwdc/",
-      "tituloOriginal": "AAPL Stock Slides Following WWDC, But Analysts Broadly Raise Targets",
-      "tituloLimpio": "Acción de Apple cae tras WWDC, pero analistas elevan objetivos",
-      "resumen": "Las acciones de Apple (AAPL) perdieron valor esta semana después de la WWDC 2026, aunque una ola de revisiones al alza en los objetivos de precio de los analistas sugiere que la visión a largo plazo de Wall Street sigue siendo constructiva.",
-      "porQueImporta": "Impacto directo en la inversión en Apple y la percepción del mercado tras un evento clave.",
-      "publicadoEn": "2026-06-11T15:51:16.000Z",
+      "url": "https://www.macrumors.com/2026/06/11/apple-airpods-pro-3-anc-ad/",
+      "tituloOriginal": "Apple Touts 'World's Best' AirPods Pro 3 Noise Cancellation in New Vini Jr. Ad",
+      "tituloLimpio": "Apple destaca la cancelación de ruido de los AirPods Pro 3 en nuevo anuncio con Vini Jr.",
+      "resumen": "Apple lanzó un nuevo anuncio para sus AirPods Pro 3, centrándose en su cancelación de ruido activa y protagonizado por el futbolista Vini Jr., coincidiendo con el inicio del Mundial 2026.",
+      "porQueImporta": "Refuerza la estrategia de marketing de Apple en torno a sus productos de audio y la asociación con figuras deportivas de renombre.",
+      "publicadoEn": "2026-06-11T17:25:56.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "WWDC",
-        "Finanzas",
-        "Inversiones"
+        "AirPods Pro 3",
+        "Marketing",
+        "Cancelación de Ruido",
+        "Vini Jr."
       ],
       "tambienVistoEn": []
     },
@@ -112,19 +93,21 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/por-que-baja-el-riesgo-pais-y-cual-es-la-meta-deseada-el-gobierno-n6287692",
-      "tituloOriginal": "Por qué baja el riesgo país y cuál es la meta deseada por el Gobierno",
-      "tituloLimpio": "Riesgo país argentino cae a su nivel más bajo en ocho años",
-      "resumen": "El riesgo país, medido por J.P. Morgan, cae con fuerza y perfora los 450 puntos básicos, su nivel más bajo en ocho años.",
-      "porQueImporta": "Indicador clave de la confianza del mercado en la economía argentina.",
-      "publicadoEn": "2026-06-11T15:19:00.000Z",
-      "globalScore": 94,
+      "url": "https://www.ambito.com/economia/el-banco-mundial-recorto-sus-proyecciones-globales-que-preve-argentina-2026-n6287734",
+      "tituloOriginal": "El Banco Mundial recortó sus proyecciones globales: qué prevé para Argentina en 2026",
+      "tituloLimpio": "Banco Mundial recorta proyecciones globales pero prevé crecimiento para Argentina en 2026",
+      "resumen": "El Banco Mundial proyecta una desaceleración del crecimiento global al 2,5% en 2026, pero estima que Argentina crecerá un 3,6%, superando el promedio.",
+      "porQueImporta": "Ofrece una perspectiva externa positiva sobre la economía argentina, contrastando con la tendencia global.",
+      "publicadoEn": "2026-06-11T16:56:00.000Z",
+      "imagen": "https://media.ambito.com/p/10129368809e159a34945a5afa62531b/adjuntos/239/imagenes/030/025/0030025627/1200x675/smart/para-el-banco-mundial-la-economia-argentina-crecera-un-27-este-ano.jpg",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Finanzas",
         "Economía",
-        "Inversiones"
+        "Banco Mundial",
+        "Proyecciones",
+        "Crecimiento"
       ],
       "tambienVistoEn": []
     },
@@ -134,9 +117,9 @@
       "fuente": "Marketing Dive",
       "url": "https://www.marketingdive.com/news/pinterest-adds-amazon-storefront-linking/822639/",
       "tituloOriginal": "Sociable: Pinterest adds Amazon Storefront linking",
-      "tituloLimpio": "Pinterest suma integración con Amazon Storefronts",
-      "resumen": "Pinterest permite ahora a creadores elegibles incluir enlaces de afiliados en sus Pins, facilitando que los seguidores compren productos directamente desde la app.",
-      "porQueImporta": "Mejora la experiencia de compra y abre nuevas vías de monetización para creadores y plataformas.",
+      "tituloLimpio": "Pinterest integra vinculación de tiendas de Amazon",
+      "resumen": "Pinterest permite ahora a creadores elegibles incluir enlaces a sus tiendas de Amazon en los Pins, facilitando la compra directa desde la aplicación.",
+      "porQueImporta": "Una nueva funcionalidad que potencia el comercio electrónico y el marketing de afiliados dentro de la plataforma.",
       "publicadoEn": "2026-06-11T14:58:00.000Z",
       "globalScore": 96,
       "personalScore": 100,
@@ -144,7 +127,8 @@
         "Marketing",
         "Pinterest",
         "Amazon",
-        "E-commerce"
+        "E-commerce",
+        "Marketing de Afiliados"
       ],
       "tambienVistoEn": []
     },
@@ -152,19 +136,20 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
-      "tituloOriginal": "Pool’s new app turns your screenshots into something useful",
-      "tituloLimpio": "App Pool convierte capturas de pantalla en memoria buscable",
-      "resumen": "La nueva aplicación Pool organiza automáticamente las capturas de pantalla, rastrea los enlaces originales y ayuda a redescubrir contenido guardado, como productos o ideas.",
-      "porQueImporta": "Herramienta práctica para mejorar la productividad y la gestión de información digital.",
-      "publicadoEn": "2026-06-11T15:30:00.000Z",
-      "globalScore": 96,
+      "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+      "tituloOriginal": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
+      "tituloLimpio": "Deezer lanza herramienta para identificar música generada por IA",
+      "resumen": "Deezer introdujo una nueva herramienta capaz de escanear playlists de Spotify, Apple Music y otras plataformas para identificar música creada por inteligencia artificial.",
+      "porQueImporta": "Aborda la creciente preocupación por la autenticidad y el origen de la música en la era de la IA.",
+      "publicadoEn": "2026-06-11T16:36:20.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "AI",
-        "Productividad",
-        "Herramientas",
-        "Aplicaciones"
+        "IA",
+        "Deezer",
+        "Música",
+        "Streaming",
+        "Detección IA"
       ],
       "tambienVistoEn": []
     },
@@ -172,18 +157,20 @@
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
       "fuente": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-      "tituloOriginal": "Anthropic apologizes for invisible Claude Fable guardrails",
-      "tituloLimpio": "Anthropic se disculpa por guardarraíles ocultos en Claude Fable",
-      "resumen": "Anthropic pidió disculpas por haber limitado sigilosamente su modelo de IA Claude Fable 5 con guardarraíles invisibles, y se compromete a ser más transparente.",
-      "porQueImporta": "Revela prácticas de transparencia en el desarrollo de IA y su impacto en la comunidad investigadora.",
-      "publicadoEn": "2026-06-11T11:40:43.000Z",
-      "globalScore": 100,
+      "url": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
+      "tituloOriginal": "Amazon’s data centers used 2.5 billion gallons of water last year",
+      "tituloLimpio": "Centros de datos de Amazon consumieron 2.500 millones de galones de agua",
+      "resumen": "Los centros de datos de Amazon utilizaron 2.500 millones de galones de agua el año pasado, en medio de debates sobre el consumo de recursos para la construcción de centros de datos de IA.",
+      "porQueImporta": "Resalta el impacto ambiental de la infraestructura tecnológica, especialmente la requerida para la IA, y la necesidad de prácticas sostenibles.",
+      "publicadoEn": "2026-06-11T17:26:57.000Z",
+      "globalScore": 96,
       "personalScore": 100,
       "tags": [
-        "AI",
-        "Ética",
-        "Tecnología"
+        "Amazon",
+        "IA",
+        "Centros de Datos",
+        "Sostenibilidad",
+        "Consumo de Agua"
       ],
       "tambienVistoEn": []
     },
@@ -193,17 +180,17 @@
       "fuente": "MIT Technology Review AI",
       "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
       "tituloOriginal": "Google DeepMind is worried about what happens when millions of agents start to interact",
-      "tituloLimpio": "Google DeepMind alerta sobre riesgos de interacción masiva de IA",
-      "resumen": "Google DeepMind está financiando investigación sobre los peligros potenciales de la interacción entre millones de agentes de IA que operan online sin supervisión humana.",
-      "porQueImporta": "Plantea interrogantes sobre la seguridad y el control a medida que la IA se vuelve más autónoma y ubicua.",
+      "tituloLimpio": "Google DeepMind se preocupa por la interacción de millones de agentes de IA",
+      "resumen": "Google DeepMind está financiando investigaciones sobre los peligros potenciales de la interacción masiva de agentes de IA online sin supervisión humana.",
+      "porQueImporta": "Plantea interrogantes sobre la seguridad y el control de sistemas de IA cada vez más autónomos y conectados.",
       "publicadoEn": "2026-06-11T11:00:45.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "AI",
-        "Google",
-        "Seguridad",
-        "Ética"
+        "IA",
+        "Google DeepMind",
+        "Seguridad IA",
+        "Agentes Autónomos"
       ],
       "tambienVistoEn": []
     },
@@ -211,19 +198,20 @@
       "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Apple",
       "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/11/ios-27-brings-another-very-welcome-improvement-to-camera-control-on-iphone/",
-      "tituloOriginal": "iOS 27 brings another very welcome improvement to Camera Control on iPhone",
-      "tituloLimpio": "iOS 27 mejora el control de la cámara en iPhone con Siri",
-      "resumen": "iOS 27 y Siri AI introducen un cambio positivo en el Control de Cámara del iPhone, beneficiándose del nuevo modo de cámara de Siri que reemplaza a Visual Intelligence.",
-      "porQueImporta": "Novedad relevante para usuarios de iPhone y desarrolladores de apps que interactúan con la cámara.",
-      "publicadoEn": "2026-06-11T15:50:16.000Z",
+      "url": "https://9to5mac.com/2026/06/11/apples-new-airpods-pro-3-video-highlights-worlds-best-in-ear-active-noise-cancellation/",
+      "tituloOriginal": "Apple’s new AirPods Pro 3 video highlights ‘world’s best’ in-ear active noise cancellation",
+      "tituloLimpio": "Nuevo video de Apple resalta la cancelación de ruido de los AirPods Pro 3",
+      "resumen": "Apple promociona la cancelación de ruido activa de sus AirPods Pro 3 en un nuevo video, mientras el producto se encuentra a su precio más bajo en Amazon ($179).",
+      "porQueImporta": "Destaca la estrategia de Apple para impulsar las ventas de sus auriculares y la efectividad de su tecnología de cancelación de ruido.",
+      "publicadoEn": "2026-06-11T17:19:54.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "iOS",
-        "AI",
-        "Tecnología"
+        "AirPods Pro 3",
+        "Marketing",
+        "Cancelación de Ruido",
+        "Oferta"
       ],
       "tambienVistoEn": []
     },
@@ -231,59 +219,20 @@
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
       "categoria": "Apple",
       "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/06/11/surprising-nobody-leaker-claims-a-touchscreen-macbook-is-100-confirmed?utm_source=rss",
-      "tituloOriginal": "Surprising nobody, leaker claims a touchscreen MacBook is '100% confirmed'",
-      "tituloLimpio": "Filtración confirma MacBook con pantalla táctil",
-      "resumen": "Una nueva filtración asegura que el primer Mac de Apple con pantalla táctil está '100% confirmado', días después de reportes sobre pruebas de producción.",
-      "porQueImporta": "Potencial cambio de paradigma en la línea de computadoras de Apple.",
-      "publicadoEn": "2026-06-11T15:15:39.000Z",
-      "globalScore": 96,
-      "personalScore": 100,
-      "tags": [
-        "Apple",
-        "MacBook",
-        "Rumores",
-        "Tecnología"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
-      "categoria": "Apple",
-      "fuente": "MacStories",
-      "url": "https://www.macstories.net/stories/wwdc-2026-between-seasons/",
-      "tituloOriginal": "WWDC 2026: Between Seasons",
-      "tituloLimpio": "Reflexiones post-WWDC 2026",
-      "resumen": "Una mirada personal sobre la experiencia de la WWDC 2026, destacando la atmósfera y las impresiones generales del evento.",
-      "porQueImporta": "Perspectiva interna sobre el evento clave de Apple.",
-      "publicadoEn": "2026-06-11T14:52:05.000Z",
+      "url": "https://appleinsider.com/articles/26/06/11/if-your-iphone-or-mac-has-apple-intelligence-youre-getting-siri-ai?utm_source=rss",
+      "tituloOriginal": "If your iPhone or Mac has Apple Intelligence, you're getting Siri AI",
+      "tituloLimpio": "Siri con IA llegará a iPhones y Macs compatibles con Apple Intelligence",
+      "resumen": "Contrario a algunas interpretaciones, la nueva Siri con IA, anunciada en WWDC 2026, estará disponible en hardware lanzado desde 2024 y se incluirá en iOS 27 y macOS 2.",
+      "porQueImporta": "Aclara la disponibilidad de la nueva Siri con IA, un avance clave en la integración de inteligencia artificial en los dispositivos de Apple.",
+      "publicadoEn": "2026-06-11T17:06:38.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "WWDC",
-        "Eventos"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
-      "categoria": "Finance",
-      "fuente": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/rates-tick-up-after-hot-inflation-and-strong-jobs-numbers-mortgage-and-refinance-interest-rates-today-100000405.html",
-      "tituloOriginal": "Rates tick up after hot inflation and strong jobs numbers: Mortgage and refinance interest rates today",
-      "tituloLimpio": "Tasas de interés suben tras datos de inflación y empleo",
-      "resumen": "Las tasas hipotecarias y de refinanciamiento suben tras datos de inflación elevados y cifras sólidas de empleo.",
-      "porQueImporta": "Impacto directo en el costo del crédito y decisiones financieras personales y empresariales.",
-      "publicadoEn": "2026-06-11T10:00:00.000Z",
-      "imagen": "https://s.yimg.com/uu/api/res/1.2/Al4zstTbS6BukUjH6.i5eQ--~B/aD01MTkwO3c9Nzc4NTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-06/8d435ca7-13bd-4a47-b507-a8b514c15aad",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "Finanzas",
-        "Economía",
-        "Tasas de Interés",
-        "Mercado"
+        "Apple Intelligence",
+        "Siri",
+        "IA",
+        "WWDC 2026"
       ],
       "tambienVistoEn": []
     },
@@ -291,20 +240,43 @@
       "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
       "categoria": "Finance",
       "fuente": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-strikes-oracle-stock-orcl/?src=A00220&yptr=yahoo",
-      "tituloOriginal": "Stock Market Today: Russell 2000 Leads Upside Ahead Of SpaceX IPO; AI Stocks Rally (Live Coverage)",
-      "tituloLimpio": "Mercado bursátil con subas, impulsado por IA y previo a IPO de SpaceX",
-      "resumen": "El mercado bursátil muestra avances, con el Russell 2000 liderando al alza y las acciones de IA repuntando, en la previa de la IPO de SpaceX.",
-      "porQueImporta": "Visión general del comportamiento del mercado y sectores clave.",
-      "publicadoEn": "2026-06-11T15:49:51.000Z",
-      "imagen": "https://media.zenfs.com/en/ibd.com/efdd2096566747a1c5895ff0ab582f7b",
-      "globalScore": 98,
+      "url": "https://www.investors.com/news/general-motors-gm-ford-ev-batteries-energy-storage-cars-autos/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "GM Diversifies Its Battery Technology",
+      "tituloLimpio": "GM diversifica su tecnología de baterías",
+      "resumen": "General Motors está diversificando su enfoque en la tecnología de baterías para vehículos eléctricos y almacenamiento de energía.",
+      "porQueImporta": "Información relevante sobre la estrategia de un importante fabricante de automóviles en el sector de la movilidad eléctrica y el almacenamiento de energía.",
+      "publicadoEn": "2026-06-11T17:09:07.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/62282aaa75537ff8c791cc59cd32f58b",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Business",
+        "GM",
+        "Vehículos Eléctricos",
+        "Baterías",
+        "Tecnología"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/shell-ceo-warns-oil-prices-170451007.html",
+      "tituloOriginal": "Shell’s CEO Warns That Oil Prices Will Continue Rising Long After the War Ends. Here’s What That Means for Oil Stocks.",
+      "tituloLimpio": "CEO de Shell advierte sobre alza de precios del petróleo post-conflicto",
+      "resumen": "El CEO de Shell predice que los precios del petróleo seguirán subiendo incluso después de que termine la guerra, con implicaciones para las acciones del sector.",
+      "porQueImporta": "Análisis de mercado sobre la volatilidad y las tendencias futuras de los precios del petróleo y su impacto en las inversiones.",
+      "publicadoEn": "2026-06-11T17:04:51.000Z",
+      "imagen": "https://media.zenfs.com/en/motleyfool.com/7d52f6031e2c03946dfb3590302a1386",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Finanzas",
-        "Mercado",
-        "Inversiones",
-        "AI"
+        "Petróleo",
+        "Shell",
+        "Mercado Energético",
+        "Inversiones"
       ],
       "tambienVistoEn": []
     },
@@ -312,41 +284,21 @@
       "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
       "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/06/10/crypto-for-advisors-crypto-etfs",
-      "tituloOriginal": "Crypto for Advisors: Crypto ETFs",
-      "tituloLimpio": "ETFs de cripto: salidas en mayo, pero resiliencia en diversificación",
-      "resumen": "Los ETFs de cripto globales registraron salidas significativas en mayo, aunque las exposiciones diversificadas mostraron resiliencia, ofreciendo señales para inversores a largo plazo.",
-      "porQueImporta": "Análisis del comportamiento de los fondos cotizados de criptomonedas y su implicancia para inversores.",
-      "publicadoEn": "2026-06-11T15:00:00.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/07dbd36bdb264d398cf1b09d0cc63a185235fd27-5472x3648.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "globalScore": 96,
+      "url": "https://www.coindesk.com/tech/2026/06/11/coinbase-launches-ai-agent-accounts-that-can-trade-and-spend-on-your-behalf",
+      "tituloOriginal": "Coinbase launches AI agent accounts that can trade and spend on your behalf",
+      "tituloLimpio": "Coinbase lanza cuentas para agentes de IA que operan y gastan en tu nombre",
+      "resumen": "La nueva plataforma 'Coinbase for Agents' permite a asistentes de IA como ChatGPT y Claude conectarse a cuentas de Coinbase para operar cripto, acceder a datos y realizar pagos de forma autónoma.",
+      "porQueImporta": "Un paso significativo hacia la automatización financiera y la integración de la IA en la gestión de activos digitales.",
+      "publicadoEn": "2026-06-11T17:00:00.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/3a9eec4547a8b835a4a4de35dbdd3a67dcaa6b2f-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Finanzas",
-        "Cripto",
-        "ETFs",
-        "Inversiones"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
-      "categoria": "Finance",
-      "fuente": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/masspay-coinbase-partner-stablecoin-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "tituloOriginal": "MassPay taps Coinbase to expand stablecoin payouts",
-      "tituloLimpio": "MassPay y Coinbase expanden pagos transfronterizos con stablecoins",
-      "resumen": "MassPay se asocia con Coinbase para ofrecer pagos transfronterizos con USDC, buscando reducir costos y acelerar liquidaciones para empresas que pagan a nivel global.",
-      "porQueImporta": "Avance en la adopción de stablecoins para transacciones comerciales internacionales.",
-      "publicadoEn": "2026-06-11T16:00:00.000Z",
-      "imagen": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9jcnlwdG8tcGF5bWVudC1pbmZyYXN0cnVjdHVyZS1jb2luYmFzZS5wbmc=.png",
-      "globalScore": 90,
-      "personalScore": 100,
-      "tags": [
-        "Finanzas",
-        "Cripto",
-        "Pagos",
-        "Tecnología"
+        "Coinbase",
+        "IA",
+        "Criptomonedas",
+        "Automatización"
       ],
       "tambienVistoEn": []
     },
@@ -354,20 +306,21 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/arca-reglamento-blanqueo-laboral-plan-regularizar-empleados-registrados_0_xeDlG97f6y.html",
-      "tituloOriginal": "ARCA reglamentó el blanqueo laboral: cómo será el plan para regularizar empleados no registrados",
-      "tituloLimpio": "Reglamentan blanqueo laboral en Argentina",
-      "resumen": "El Gobierno reglamentó el blanqueo laboral, permitiendo a las empresas regularizar empleados no registrados hasta fines de noviembre con quitas y planes de pago.",
-      "porQueImporta": "Medida importante para el mercado laboral y las empresas en Argentina.",
-      "publicadoEn": "2026-06-11T15:19:51.000Z",
-      "imagen": "https://www.clarin.com/img/2026/06/11/_KYepWpSA_1200x630__1.jpg",
-      "globalScore": 90,
+      "url": "https://www.clarin.com/economia/banco-mundial-ajusto-proyeccion-economia-argentina-estima-crecera-36-ano_0_km5ub4o2YF.html",
+      "tituloOriginal": "El Banco Mundial ajustó su proyección sobre la economía argentina y estima que crecerá 3,6% este año",
+      "tituloLimpio": "Banco Mundial ajusta proyección para Argentina: crecerá 3,6% este año",
+      "resumen": "El Banco Mundial moderó su previsión de crecimiento para Argentina al 3,6% para 2026, manteniéndose por encima del promedio regional.",
+      "porQueImporta": "Confirma y detalla la proyección positiva del Banco Mundial para la economía argentina.",
+      "publicadoEn": "2026-06-11T16:18:58.000Z",
+      "imagen": "https://www.clarin.com/img/2026/06/11/GYwwJMpcF_1200x630__1.jpg",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
         "Economía",
-        "Laboral",
-        "Negocios"
+        "Banco Mundial",
+        "Proyecciones",
+        "Crecimiento"
       ],
       "tambienVistoEn": []
     },
@@ -375,20 +328,43 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/06/11/el-riesgo-pais-cae-con-fuerza-se-acerca-a-los-450-puntos-tras-la-mejora-en-la-calificacion-de-la-deuda-argentina/",
-      "tituloOriginal": "El riesgo país cae con fuerza y rompe el piso de los 450 puntos tras la mejora en la calificación de la deuda argentina",
-      "tituloLimpio": "Riesgo país argentino rompe 450 puntos tras mejora en calificación de deuda",
-      "resumen": "El riesgo país baja más de 50 puntos impulsado por la suba de bonos y la mejora en la calificación de la deuda argentina por parte de Standard & Poor's.",
-      "porQueImporta": "Confirma la tendencia positiva en la percepción de riesgo de Argentina y el impacto de las agencias calificadoras.",
-      "publicadoEn": "2026-06-11T15:55:14.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/S53A73EYI5G73FHFU4KJJIJTTA.jpg?auth=5b5657172725d6777bd69209c7e8bd0d6c3ab054e0bf0168c306ef9415d13088&smart=true&width=1000&height=606",
-      "globalScore": 98,
+      "url": "https://www.infobae.com/economia/2026/06/11/que-sancion-economica-podria-recibir-adorni-por-haber-ocultado-la-tenencia-de-bitcoin-en-sus-declaraciones-de-impuestos/",
+      "tituloOriginal": "Qué sanción económica podría recibir Adorni por haber ocultado la tenencia de Bitcoin en sus declaraciones de impuestos",
+      "tituloLimpio": "Sanción económica para Adorni por ocultar tenencia de Bitcoin",
+      "resumen": "Se analiza la posible sanción económica que podría recibir Manuel Adorni por haber omitido la tenencia de Bitcoin en sus declaraciones de impuestos.",
+      "porQueImporta": "Destaca la importancia del cumplimiento fiscal y las implicaciones legales de la tenencia de criptomonedas para funcionarios públicos.",
+      "publicadoEn": "2026-06-11T17:14:00.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/CZHTBZKX3VBXRELBQHP3OVXWP4.png?auth=ba1201580aa1273d92153d72867ee931a6259d29fb7e13f920eb43018f0f7294&smart=true&width=2752&height=1536",
+      "globalScore": 86,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Finanzas",
-        "Economía",
-        "Deuda"
+        "Manuel Adorni",
+        "Bitcoin",
+        "Impuestos",
+        "Regulación"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/06/11/manuel-adorni-retoma-su-agenda-con-una-reunion-de-la-mesa-politica-y-busca-una-foto-de-apoyo-tras-presentar-su-declaracion-jurada/",
+      "tituloOriginal": "Las nuevas críticas de Bullrich a Adorni agravaron la interna del Gobierno y pierde fuerza la foto de apoyo al jefe de Gabinete",
+      "tituloLimpio": "Críticas de Bullrich a Adorni agravan interna del Gobierno",
+      "resumen": "Las críticas de Patricia Bullrich a Manuel Adorni complican la interna del gobierno y debilitan la imagen de apoyo al jefe de Gabinete tras la presentación de su declaración jurada.",
+      "porQueImporta": "Revela tensiones internas dentro del gobierno argentino y el impacto de las declaraciones públicas de funcionarios.",
+      "publicadoEn": "2026-06-11T17:17:06.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/YZEPQVW2WZAR7O7DDDECNS7KYE.jpeg?auth=82480b1f159070407543bf097438910915d8ba627942e2c2470f62bb92fcd702&smart=true&width=1280&height=960",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Gobierno",
+        "Política",
+        "Manuel Adorni",
+        "Patricia Bullrich"
       ],
       "tambienVistoEn": []
     },
@@ -396,20 +372,43 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/campo/vacunas-bovinas-el-gobierno-amplio-la-flexibilizacion-para-productos-aprobados-en-el-exterior-nid11062026/",
-      "tituloOriginal": "Vacunas bovinas: el Gobierno amplió la flexibilización para productos aprobados en el exterior",
-      "tituloLimpio": "Flexibilizan trámites para vacunas bovinas aprobadas en el exterior",
-      "resumen": "El Senasa amplió la flexibilización para vacunas bovinas aprobadas en el exterior, eximiendo de parte de los trámites a productos que cumplen con el régimen de equivalencia.",
-      "porQueImporta": "Noticia relevante para el sector agropecuario y el comercio internacional de productos veterinarios.",
-      "publicadoEn": "2026-06-11T16:05:56.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/MB6YESE56ZECHFN36PNJVLTGFA.jpeg?auth=dc64c37325eb734443e03772ca7a13d0a2468dd937d522b724ad2fad453dc10f&smart=true&width=1280&height=720",
+      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid11062026/",
+      "tituloOriginal": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este jueves 11 de junio, minuto a minuto",
+      "tituloLimpio": "Dólar oficial y blue: cotizaciones del jueves 11 de junio",
+      "resumen": "El dólar oficial cotiza a $1450 para la venta, mientras que el dólar blue se ubica en $1445 para la misma operación este jueves.",
+      "porQueImporta": "Información clave sobre la evolución del tipo de cambio en Argentina, relevante para decisiones económicas y de inversión.",
+      "publicadoEn": "2026-06-11T17:20:08.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/RIXF5FYGWRDCJI5DEY2FV4NBWE.png?auth=4c484207044b08a445131ed2bc0f086433cc2ed17da5c5481e24da6159eaefcc&smart=true&width=2000&height=1333",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
+        "Dólar",
         "Economía",
-        "Campo",
-        "Regulación"
+        "Finanzas",
+        "Cotización"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Politica",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-explicacion-de-adorni-de-su-declaracion-jurada-y-el-respaldo-nid11062026/",
+      "tituloOriginal": "Javier Milei y sus medidas, en vivo: la explicación de Adorni de su declaración jurada y el respaldo de Milei",
+      "tituloLimpio": "Milei y sus medidas: Adorni explica su declaración jurada con respaldo presidencial",
+      "resumen": "Se detalla la explicación de Manuel Adorni sobre su declaración jurada y el respaldo recibido por parte del presidente Javier Milei, en el contexto de las medidas gubernamentales.",
+      "porQueImporta": "Ofrece una visión sobre la gestión y comunicación del gobierno argentino respecto a temas sensibles como las declaraciones patrimoniales.",
+      "publicadoEn": "2026-06-11T17:29:02.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/A4NRG4SND5HUDMXZKDWNRH27JU.jpg?auth=325ba18363d3d080870f77634e7b216d3d140ba65b6ba1814cc4e3112675d02d&smart=true&width=2000&height=1333",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Javier Milei",
+        "Manuel Adorni",
+        "Política",
+        "Declaración Jurada"
       ],
       "tambienVistoEn": []
     },
@@ -419,23 +418,24 @@
       "fuente": "Adweek",
       "url": "https://www.adweek.com/brand-marketing/fifa-world-cup-26-ad-tracker-brands-kick-off-summer-of-soccer/",
       "tituloOriginal": "FIFA World Cup 26 Ad Tracker: Brands Kick Off Summer of Soccer",
-      "tituloLimpio": "FIFA lanza tracker de anuncios para el Mundial 2026",
-      "resumen": "La FIFA estrena un rastreador de anuncios para seguir las campañas y activaciones de las marcas durante el verano del fútbol, previo al Mundial 2026.",
-      "porQueImporta": "Interesante para entender las estrategias de marketing y publicidad en torno a eventos deportivos masivos.",
+      "tituloLimpio": "Marcas lanzan campañas para el Mundial de Fútbol 2026",
+      "resumen": "Las marcas comienzan a activar sus campañas publicitarias y promociones en anticipación al verano del fútbol con el Mundial 2026.",
+      "porQueImporta": "Indica el inicio de una importante temporada de marketing y publicidad ligada a un evento deportivo global.",
       "publicadoEn": "2026-06-11T12:05:00.000Z",
       "globalScore": 90,
       "personalScore": 100,
       "tags": [
         "Marketing",
-        "FIFA",
+        "Mundial 2026",
         "Publicidad",
-        "Deportes"
+        "Marcas",
+        "Eventos Deportivos"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-06-11T16:08:29.987Z"
+    "generadoEn": "2026-06-11T17:33:48.029Z"
   }
 }
