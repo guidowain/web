@@ -1,0 +1,446 @@
+{
+  "fecha": "2026-06-11",
+  "generadoEn": "2026-06-11T15:42:14.723Z",
+  "actualizacion": "manual",
+  "resumenEjecutivo": "Las noticias de hoy giran en torno a avances en IA, movimientos importantes en el ecosistema Apple, la economía argentina mostrando mejoras en el riesgo país y exportaciones, y novedades en marketing digital. También hay información sobre el mercado financiero y cripto.",
+  "radarPersonal": [],
+  "loImportante": [
+    "macOS 27 Golden Gate revierte cambios de diseño de la versión anterior, eliminando íconos de elementos de menú.",
+    "JM Smucker reporta ventas de mil millones de dólares en Uncrustables para el año fiscal 2026.",
+    "El riesgo país argentino cae por debajo de los 450 puntos básicos, su nivel más bajo en ocho años.",
+    "Pinterest integra la vinculación de tiendas de Amazon para creadores, facilitando la compra directa desde la app.",
+    "Google DeepMind investiga los riesgos de la interacción entre millones de agentes de IA."
+  ],
+  "oportunidades": [
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "Pinterest facilita la compra con integración de Amazon",
+      "detalle": "Pinterest permite ahora a los creadores enlazar sus tiendas de Amazon directamente en los Pins, facilitando que los seguidores compren productos sin salir de la app.",
+      "acciones": [
+        "Explorar cómo implementar esta función en estrategias de marketing.",
+        "Analizar el impacto en las ventas y el engagement de los creadores."
+      ]
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Investing",
+      "titulo": "Producto argentino con récord exportador",
+      "detalle": "El complejo citrícola argentino registra su mejor desempeño exportador en 20 años, con un crecimiento significativo en volumen y facturación, especialmente en mercados asiáticos y europeos.",
+      "acciones": [
+        "Investigar oportunidades de inversión en el sector citrícola argentino.",
+        "Analizar la demanda internacional y las proyecciones a futuro."
+      ]
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Investing",
+      "titulo": "SpaceX IPO con alta demanda y rating de compra",
+      "detalle": "La Oferta Pública Inicial (IPO) de SpaceX ha sido fuertemente sobre-suscrita y recibe una calificación de 'Compra', impulsando las acciones del sector espacial.",
+      "acciones": [
+        "Monitorear el desempeño de SpaceX post-IPO.",
+        "Evaluar el potencial de inversión en empresas del sector espacial."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "titulo": "Anthropic pide disculpas por 'guardarraíles invisibles' en Claude Fable",
+      "detalle": "Anthropic admitió haber implementado restricciones ocultas en su modelo de IA Claude Fable 5, lo que ha generado críticas por falta de transparencia y su impacto en el desarrollo de sistemas competidores.",
+      "mitigacion": "Mantenerse informado sobre las políticas de transparencia de los desarrolladores de IA y evaluar el impacto de estas restricciones en la confiabilidad de los modelos."
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "titulo": "Preocupación en Google DeepMind por la interacción de millones de agentes IA",
+      "detalle": "Google DeepMind está financiando investigación sobre los peligros potenciales de la interacción masiva de agentes de IA en línea, ante la posibilidad de que actúen sin supervisión humana.",
+      "mitigacion": "Seguir de cerca los avances en seguridad y alineación de IA, y considerar los riesgos de sistemas autónomos a gran escala."
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Regulatory",
+      "titulo": "Pichetto pide anular condena a Cristina Kirchner",
+      "detalle": "El diputado Miguel Ángel Pichetto solicitó al Congreso declarar nula la condena a Cristina Kirchner en la causa Vialidad, argumentando que el Congreso tiene facultad para intervenir y que la condena debilita la democracia.",
+      "mitigacion": "Observar el desarrollo político y legal de esta solicitud y su potencial impacto en la estabilidad institucional y el marco regulatorio."
+    }
+  ],
+  "conexiones": [],
+  "noticias": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/11/macos-27-golden-gate-menu-items/",
+      "tituloOriginal": "macOS 27 Golden Gate Reverses a Divisive Tahoe Design Choice",
+      "tituloLimpio": "macOS 27 Golden Gate elimina íconos de elementos de menú",
+      "resumen": "Apple revierte una decisión de diseño en macOS 27 Golden Gate, eliminando la mayoría de los íconos de elementos de menú que se habían introducido en macOS 26 Tahoe.",
+      "porQueImporta": "Cambios en la interfaz de usuario de macOS pueden afectar la experiencia del usuario y la usabilidad de las aplicaciones.",
+      "publicadoEn": "2026-06-11T15:05:17.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "macOS",
+        "Diseño",
+        "Interfaz de Usuario"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "categoria": "Finance",
+      "fuente": "Sherwood",
+      "url": "https://sherwood.news/business/jm-smucker-says-it-sold-1-billion-worth-of-uncrustables-in-fy2026/",
+      "tituloOriginal": "JM Smucker says it sold $1 billion worth of Uncrustables in FY2026",
+      "tituloLimpio": "JM Smucker vende mil millones de dólares en Uncrustables en FY2026",
+      "resumen": "JM Smucker anunció que sus productos Uncrustables alcanzaron mil millones de dólares en ventas durante el año fiscal 2026.",
+      "porQueImporta": "Indica un fuerte desempeño y demanda para un producto específico, reflejando el éxito de estrategias de marketing y distribución.",
+      "publicadoEn": "2026-06-11T15:41:04.000Z",
+      "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/2167836416_south-williamsport-pennsylvania-uncrustables-at-the-2024-little-league-baseball-world-series.jpg",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Business",
+        "Finanzas",
+        "Consumo Masivo"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/por-que-baja-el-riesgo-pais-y-cual-es-la-meta-deseada-el-gobierno-n6287692",
+      "tituloOriginal": "Por qué baja el riesgo país y cuál es la meta deseada por el Gobierno",
+      "tituloLimpio": "Riesgo país argentino cae a su nivel más bajo en ocho años",
+      "resumen": "El riesgo país de Argentina, medido por J.P. Morgan, ha caído por debajo de los 450 puntos básicos, marcando su nivel más bajo en ocho años.",
+      "porQueImporta": "Una baja significativa en el riesgo país es un indicador positivo de la confianza de los inversores en la economía argentina y puede facilitar el acceso a financiamiento.",
+      "publicadoEn": "2026-06-11T15:19:00.000Z",
+      "imagen": "https://media.ambito.com/p/ffb2322f7beaec032c8c01f825fb1df0/adjuntos/239/imagenes/043/128/0043128779/1200x675/832x432:852x452/riesgo-pais-mercados.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Finanzas",
+        "Economía",
+        "Inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/pinterest-adds-amazon-storefront-linking/822639/",
+      "tituloOriginal": "Sociable: Pinterest adds Amazon Storefront linking",
+      "tituloLimpio": "Pinterest permite vincular tiendas de Amazon",
+      "resumen": "Pinterest ha añadido la funcionalidad para que los creadores elegibles enlacen sus tiendas de Amazon directamente en los Pins, facilitando la compra de productos.",
+      "porQueImporta": "Mejora la experiencia de compra dentro de la plataforma y abre nuevas vías de monetización para creadores y vendedores.",
+      "publicadoEn": "2026-06-11T14:58:00.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "E-commerce",
+        "Redes Sociales",
+        "Pinterest",
+        "Amazon"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
+      "tituloOriginal": "Pool’s new app turns your screenshots into something useful",
+      "tituloLimpio": "Nueva app convierte capturas de pantalla en banco de memoria buscable",
+      "resumen": "La aplicación Pool organiza automáticamente capturas de pantalla en colecciones personalizadas, rastrea enlaces originales y ayuda a redescubrir contenido guardado.",
+      "porQueImporta": "Ofrece una solución práctica para gestionar la información visual y digital, mejorando la productividad personal.",
+      "publicadoEn": "2026-06-11T15:30:00.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Herramientas",
+        "Productividad",
+        "Aplicaciones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "tituloOriginal": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "tituloLimpio": "Anthropic se disculpa por 'guardarraíles invisibles' en Claude Fable",
+      "resumen": "Anthropic ha pedido disculpas por haber implementado restricciones ocultas en su modelo de IA Claude Fable 5, que afectaron a investigadores y desarrolladores.",
+      "porQueImporta": "Plantea cuestiones sobre la transparencia y la ética en el desarrollo de modelos de IA avanzados.",
+      "publicadoEn": "2026-06-11T11:40:43.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Ética",
+        "Tecnología",
+        "Anthropic"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "tituloOriginal": "Google DeepMind is worried about what happens when millions of agents start to interact",
+      "tituloLimpio": "Google DeepMind preocupado por la interacción de millones de agentes IA",
+      "resumen": "Google DeepMind está financiando investigación sobre los riesgos potenciales de la interacción entre millones de agentes de IA en línea.",
+      "porQueImporta": "Aborda las preocupaciones sobre la seguridad y el control de sistemas de IA autónomos a gran escala.",
+      "publicadoEn": "2026-06-11T11:00:45.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Seguridad",
+        "Investigación",
+        "Google"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/11/deals-airpods-pro-3-m5-macbook-iphone-17-pro-beats/",
+      "tituloOriginal": "Deals: AirPods Pro 3, M5 MacBook Pro $220 off, iPhone 17 Pro $250 off, Beats, iPad, more",
+      "tituloLimpio": "Ofertas en productos Apple: AirPods Pro 3, MacBook Pro M5 y iPhone 17 Pro",
+      "resumen": "Se ofrecen descuentos significativos en AirPods Pro 3, MacBook Pro con chip M5 y iPhone 17 Pro, además de otros productos de Apple y Beats.",
+      "porQueImporta": "Oportunidad de adquirir hardware de Apple a precios reducidos.",
+      "publicadoEn": "2026-06-11T15:30:05.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "Ofertas",
+        "Electrónica",
+        "Descuentos"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/06/11/surprising-nobody-leaker-claims-a-touchscreen-macbook-is-100-confirmed?utm_source=rss",
+      "tituloOriginal": "Surprising nobody, leaker claims a touchscreen MacBook is '100% confirmed'",
+      "tituloLimpio": "Filtración confirma MacBook con pantalla táctil",
+      "resumen": "Una nueva filtración asegura que el primer MacBook de Apple con pantalla táctil está '100% confirmado', con rumores de que ya estaría en producción.",
+      "porQueImporta": "Podría representar un cambio significativo en la línea de productos Mac de Apple, fusionando la experiencia táctil con la computación tradicional.",
+      "publicadoEn": "2026-06-11T15:15:39.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "MacBook",
+        "Tecnología",
+        "Filtraciones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/stories/wwdc-2026-between-seasons/",
+      "tituloOriginal": "WWDC 2026: Between Seasons",
+      "tituloLimpio": "Reflexiones sobre WWDC 2026",
+      "resumen": "Un análisis post-WWDC 2026 que reflexiona sobre los eventos y anuncios de la conferencia de desarrolladores de Apple.",
+      "porQueImporta": "Ofrece una perspectiva sobre las novedades y la dirección futura de Apple, especialmente en software y servicios.",
+      "publicadoEn": "2026-06-11T14:52:05.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "WWDC",
+        "Software",
+        "Desarrolladores"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/brookfield-corporation-bn-renews-normal-151527536.html",
+      "tituloOriginal": "Brookfield Corporation (BN) Renews Normal Course Issuer Bid to Repurchase 10% of Public Float",
+      "tituloLimpio": "Brookfield Corporation renueva programa de recompra de acciones",
+      "resumen": "Brookfield Corporation ha renovado su programa de recompra de acciones para adquirir hasta el 10% de su flotación pública.",
+      "porQueImporta": "Indica una estrategia de la empresa para devolver valor a los accionistas y potencialmente aumentar el precio de la acción.",
+      "publicadoEn": "2026-06-11T15:15:27.000Z",
+      "imagen": "https://media.zenfs.com/en/insidermonkey.com/052b065ee41fda8484a8885b5284fb72",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "Inversión",
+        "Empresas",
+        "Brookfield"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/news/spacex-ipo-spcx-stock-buy-rating-price-target-oversubscribed-share-demand-availability/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "A Heavily Oversubscribed SpaceX IPO Gets A Buy Rating; Space Stocks Soar",
+      "tituloLimpio": "IPO de SpaceX sobre-suscrita y recibe rating de compra",
+      "resumen": "La Oferta Pública Inicial de SpaceX ha sido fuertemente sobre-suscrita y analistas le otorgan una calificación de 'Compra', impulsando el sector espacial.",
+      "porQueImporta": "Un fuerte debut bursátil para SpaceX y un impulso para las empresas del sector aeroespacial y de exploración espacial.",
+      "publicadoEn": "2026-06-11T14:44:47.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/2e6d2c6f0584a931028b00b36f4f162f",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "Inversión",
+        "SpaceX",
+        "IPO",
+        "Espacio"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/06/10/crypto-for-advisors-crypto-etfs",
+      "tituloOriginal": "Crypto for Advisors: Crypto ETFs",
+      "tituloLimpio": "ETFs de Criptomonedas: Flujos de salida en mayo, pero diversificación resiliente",
+      "resumen": "Los ETFs de criptomonedas globales vieron salidas significativas en mayo, aunque las exposiciones diversificadas mostraron resiliencia, según el análisis de CoinDesk.",
+      "porQueImporta": "Proporciona información sobre el comportamiento del mercado de ETFs de cripto y su potencial para inversores a largo plazo.",
+      "publicadoEn": "2026-06-11T15:00:00.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/07dbd36bdb264d398cf1b09d0cc63a185235fd27-5472x3648.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "Criptomonedas",
+        "ETFs",
+        "Inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Here’s what happened in crypto today",
+      "tituloLimpio": "Resumen de noticias de criptomonedas del día",
+      "resumen": "Un resumen de las últimas noticias y eventos que impactan el precio de Bitcoin, blockchain, DeFi, Web3 y la regulación de cripto.",
+      "porQueImporta": "Mantiene al día sobre los desarrollos clave en el volátil mercado de las criptomonedas.",
+      "publicadoEn": "2026-06-11T15:01:00.000Z",
+      "imagen": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0xMTA1ODktd2hhdC1oYXBwZW5lZC1pbi1jcnlwdG8tdG9kYXkuanBn.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Criptomonedas",
+        "Finanzas",
+        "Noticias"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/arca-reglamento-blanqueo-laboral-plan-regularizar-empleados-registrados_0_xeDlG97f6y.html",
+      "tituloOriginal": "ARCA reglamentó el blanqueo laboral: cómo será el plan para regularizar empleados no registrados",
+      "tituloLimpio": "ARCA reglamenta blanqueo laboral para regularizar empleados",
+      "resumen": "La reglamentación del blanqueo laboral permite a las empresas regularizar empleados no registrados hasta fines de noviembre, con quitas en deudas previsionales y planes de pago.",
+      "porQueImporta": "Una medida importante para formalizar el empleo en Argentina, con beneficios fiscales y facilidades de pago para las empresas.",
+      "publicadoEn": "2026-06-11T15:19:51.000Z",
+      "imagen": "https://www.clarin.com/img/2026/06/11/_KYepWpSA_1200x630__1.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Economía",
+        "Laboral",
+        "Regulación"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/06/11/cual-es-el-producto-argentino-que-atraviesa-su-mejor-desempeno-exportador-en-20-anos/",
+      "tituloOriginal": "Cuál es el producto argentino que atraviesa su mejor desempeño exportador en 20 años",
+      "tituloLimpio": "Producto argentino con mejor desempeño exportador en 20 años",
+      "resumen": "El complejo citrícola argentino alcanzó su mejor desempeño exportador en dos décadas, facturando USD 108 millones entre enero y abril de 2026.",
+      "porQueImporta": "Destaca la fortaleza de un sector productivo argentino en mercados internacionales, mostrando potencial de crecimiento y rentabilidad.",
+      "publicadoEn": "2026-06-11T15:26:24.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/ZTXPCJYWCNFMREJ3YHMZKKVTVA.jpg?auth=0b38bded05dcfab6eda864f8a58589cfadea2f606cf54fe6882889486440c3dc&smart=true&width=1000&height=682",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Economía",
+        "Exportaciones",
+        "Agroindustria"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/inflacion-de-mayo-cual-fue-el-ipc-acumulado-y-que-proyectan-las-consultoras-para-este-ano-nid11062026/",
+      "tituloOriginal": "Inflación de mayo: cuál fue el IPC acumulado y qué proyectan las consultoras para este año",
+      "tituloLimpio": "Inflación de mayo: IPC acumulado y proyecciones",
+      "resumen": "Se espera la publicación del Índice de Precios al Consumidor (IPC) de mayo en Argentina, con análisis y proyecciones de consultoras sobre la inflación acumulada y anual.",
+      "porQueImporta": "Información crucial para entender la evolución de la economía argentina y tomar decisiones de inversión o consumo.",
+      "publicadoEn": "2026-06-11T15:30:00.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/LCG2JPMRRVBTDCQZVVPLA5AVOQ.jpg?auth=a1b53fa45064a55505fbc28e3d00636eda08f72dc5f7a4da3b2deea802cbc20b&smart=true&width=2000&height=1333",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Economía",
+        "Inflación",
+        "Finanzas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "fuente": "Adweek",
+      "url": "https://www.adweek.com/agencies/exclusive-hp-hands-global-media-to-publicis-ending-omnicoms-17-year-run/",
+      "tituloOriginal": "EXCLUSIVE: HP Hands Global Media to Publicis, Ending Omnicom’s 17-Year Run",
+      "tituloLimpio": "HP adjudica su inversión global en medios a Publicis",
+      "resumen": "HP ha seleccionado a Publicis para gestionar su inversión global en medios, poniendo fin a una relación de 17 años con Omnicom.",
+      "porQueImporta": "Un cambio significativo en el panorama de las agencias de publicidad y marketing, con un contrato estimado en 250 millones de dólares.",
+      "publicadoEn": "2026-06-11T11:20:06.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "Publicidad",
+        "Agencias",
+        "HP",
+        "Publicis"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-06-11T15:42:14.723Z"
+  }
+}
