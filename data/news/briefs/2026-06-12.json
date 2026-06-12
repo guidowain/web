@@ -1,112 +1,113 @@
 {
   "fecha": "2026-06-12",
-  "generadoEn": "2026-06-12T17:33:46.822Z",
+  "generadoEn": "2026-06-12T19:04:57.032Z",
   "actualizacion": "14:00",
-  "resumenEjecutivo": "Guido, te traigo las novedades clave del día. Apple sigue metiendo IA en sus sistemas operativos con mejoras en dibujo y Siri. En finanzas, hay alertas sobre la burbuja de IA y movimientos interesantes en cripto y acciones. En Argentina, Melconian opina sobre la economía, S&P ve presiones cambiarias pero confía en el gobierno, y hay novedades sobre SpaceX y una marca de zapatillas local. También, Geico usa IA para marketing y Google DeepMind se preocupa por la interacción de millones de agentes de IA.",
+  "resumenEjecutivo": "Las noticias de hoy giran en torno a la economía argentina, con foco en declaraciones de Manuel Adorni y el análisis de S&P sobre el futuro del dólar. En tecnología, Apple sigue dando que hablar con promociones y novedades en macOS, mientras que la IA avanza con preocupaciones sobre la interacción de agentes y el uso de asistentes como Siri. También hay movimientos en el mundo de los videojuegos con Microsoft y en el mercado cripto con Bitcoin recuperándose.",
   "radarPersonal": [],
   "loImportante": [
-    "Apple está integrando IA en sus sistemas operativos, mejorando herramientas de dibujo y la funcionalidad de Siri.",
-    "Hay señales de alerta sobre una posible burbuja en el sector de IA, con opiniones de directores de Bank of America.",
-    "En Argentina, se debate el rumbo económico con la visión de Melconian y el análisis de S&P sobre el dólar y la deuda.",
-    "SpaceX tuvo un debut exitoso en Wall Street, marcando un hito en el mercado de IPOs.",
-    "El mercado cripto muestra movimientos con VanEck apostando por BNB y Bitcoin reaccionando a eventos globales."
+    "El análisis de S&P sobre la Argentina, proyectando presiones sobre el dólar en 2027 pero confiando en la capacidad del gobierno para manejarlas.",
+    "Las declaraciones de Manuel Adorni sobre sus ingresos exentos de Ganancias, que generaron controversia y análisis por parte de la Justicia.",
+    "La recuperación del Bitcoin, que según un analista de Standard Chartered marcó el fin del 'invierno cripto'.",
+    "Novedades de Apple: una promoción para obtener AirPods Pro 3 con la Apple Card y detalles sobre la función Visual Intelligence en macOS Golden Gate.",
+    "La preocupación de Google DeepMind sobre la interacción de millones de agentes de IA y sus potenciales peligros."
   ],
   "oportunidades": [
     {
-      "id": "apple-ios-drawing-tools",
-      "categoria": "AI",
-      "titulo": "Mejoras en Herramientas de Dibujo con IA en iOS y macOS",
-      "detalle": "Apple expande las herramientas de dibujo en sus sistemas operativos, integrando IA para mejorar la experiencia en apps como Mensajes.",
-      "acciones": [
-        "Explorar las nuevas funciones de dibujo en iOS 27 y macOS Golden Gate.",
-        "Evaluar el impacto en la productividad y creatividad de los usuarios."
-      ]
-    },
-    {
-      "id": "spacex-ipo-infobae",
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Investing",
-      "titulo": "Debut Exitoso de SpaceX en Wall Street",
-      "detalle": "SpaceX comenzó a cotizar en el Nasdaq con un precio inicial de USD 150 por acción, marcando un hito en el mercado de IPOs.",
+      "titulo": "Aprovechar la promo de Apple Card para conseguir AirPods Pro 3",
+      "detalle": "La promoción de Apple Card que permite obtener AirPods Pro 3 de forma efectiva al registrarse y realizar una compra finaliza pronto (15 de junio).",
       "acciones": [
-        "Monitorear el desempeño de las acciones de SpaceX (SPCX).",
-        "Analizar el impacto en el sector aeroespacial y tecnológico."
+        "Evaluar la conveniencia de solicitar la Apple Card si aún no se tiene.",
+        "Considerar la compra de AirPods Pro 3 si se planeaba hacerlo."
       ]
     },
     {
-      "id": "argentina-sp-rating",
-      "categoria": "Argentina",
-      "titulo": "Perspectivas Económicas de Argentina según S&P",
-      "detalle": "S&P subió la nota de Argentina y anticipa presiones sobre el dólar en 2027, pero confía en la capacidad del gobierno para gestionar el estrés económico.",
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Investing",
+      "titulo": "Potencial recuperación del mercado cripto",
+      "detalle": "Un analista de Standard Chartered sugiere que Bitcoin tocó fondo en USD 59.000, marcando el fin del 'invierno cripto', impulsado por el IPO de SpaceX y esperanzas de paz entre EE.UU. e Irán.",
       "acciones": [
-        "Seguir de cerca las variables económicas argentinas.",
-        "Evaluar la estrategia del gobierno ante posibles presiones cambiarias."
+        "Monitorear la evolución del precio de Bitcoin y otras criptomonedas.",
+        "Considerar inversiones en el sector si se alinea con el perfil de riesgo."
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "Uso de IA para la creación de contenido de marca",
+      "detalle": "Geico utiliza al personaje Geico Gecko como invitado en un podcast generado por IA, buscando ir más allá de la publicidad tradicional.",
+      "acciones": [
+        "Explorar cómo la IA puede usarse para generar contenido innovador y atractivo para las marcas.",
+        "Analizar la efectividad de usar personajes o mascotas en formatos de IA."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "ai-bubble-risk",
-      "categoria": "Market",
-      "titulo": "Riesgo de Burbuja en el Sector de IA",
-      "detalle": "Un director de Bank of America advierte que la burbuja de IA podría estar cerca de estallar, sugiriendo la necesidad de estrategias para capear una posible crisis.",
-      "mitigacion": "Diversificar inversiones y estar atento a las señales del mercado. Preparar planes de contingencia ante caídas bruscas."
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Regulatory",
+      "titulo": "Escrutinio sobre declaraciones juradas de funcionarios",
+      "detalle": "La declaración de Manuel Adorni sobre ingresos exentos de Ganancias, significativamente superiores a su salario, genera cuestionamientos y un análisis judicial.",
+      "mitigacion": "Mantener transparencia y claridad en las declaraciones patrimoniales y de ingresos. Estar preparado para justificar cualquier discrepancia."
     },
     {
-      "id": "google-deepmind-agent-interaction",
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Market",
+      "titulo": "Presiones sobre el dólar en Argentina en 2027",
+      "detalle": "S&P advierte sobre presiones cambiarias en Argentina para 2027, año electoral, aunque confía en la capacidad del gobierno para gestionarlas.",
+      "mitigacion": "Diversificar inversiones y estar atento a la evolución económica y política argentina. Considerar coberturas ante la volatilidad."
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
       "categoria": "AI",
-      "titulo": "Riesgos de Interacción Masiva de Agentes de IA",
-      "detalle": "Google DeepMind expresa preocupación por las consecuencias de la interacción entre millones de agentes de IA sin supervisión humana directa.",
-      "mitigacion": "Mantenerse informado sobre las investigaciones en seguridad y alineación de IA. Fomentar el desarrollo responsable de estas tecnologías."
-    },
-    {
-      "id": "argentina-dolar-pressure-2027",
-      "categoria": "Market",
-      "titulo": "Presiones sobre el Dólar en Argentina en 2027",
-      "detalle": "S&P advierte sobre posibles presiones sobre el dólar en Argentina para 2027, vinculadas a escenarios electorales y descontento social.",
-      "mitigacion": "Monitorear la evolución del contexto político y social argentino. Evaluar la exposición a activos dolarizados."
+      "titulo": "Riesgos de la interacción masiva de agentes de IA",
+      "detalle": "Google DeepMind está investigando los peligros potenciales cuando millones de agentes de IA interactúan entre sí online sin supervisión humana directa.",
+      "mitigacion": "Seguir de cerca los avances en seguridad y alineación de IA. Fomentar el desarrollo responsable y ético de estas tecnologías."
     }
   ],
-  "conexiones": [],
+  "conexiones": [
+    {
+      "id": "spacex-ipo-argentina-bitcoin",
+      "titulo": "El impacto del IPO de SpaceX en el mercado cripto y la economía argentina",
+      "historias": [
+        "SpaceX IPO: Live updates on everything you need to know (TechCrunch AI)",
+        "Bitcoin hit bottom at $59,000 marking end to the crypto winter, says Standard Chartered analyst (CoinDesk)",
+        "Bitcoin surfs SpaceX IPO at $64K as trader warns key BTC price support may crumble (CoinTelegraph)",
+        "S&P, tras la suba de la nota a la Argentina: \"Va a haber presiones sobre el dólar en 2027, pero el gobierno puede navegar ese estrés\" (Clarin Economia)"
+      ],
+      "conclusion": "El exitoso IPO de SpaceX parece haber actuado como un catalizador positivo para el mercado cripto, coincidiendo con un análisis de S&P que, si bien advierte sobre presiones cambiarias en Argentina para 2027, mantiene una visión de gestión favorable por parte del gobierno. Esto sugiere un entorno de mercado complejo pero con señales de recuperación y estabilidad en ciertos frentes."
+    },
+    {
+      "id": "adorni-declaraciones-justicia-politica",
+      "titulo": "La polémica por las declaraciones de Adorni y su impacto político",
+      "historias": [
+        "Manuel Adorni declaró en 2025 ingresos exentos de Ganancias seis veces superiores a su salario como funcionario (Ambito)",
+        "Agujeros y discrepancias entre la nueva declaración de Adorni y los gastos en dólares que analiza la Justicia (Clarin Politica)",
+        "Nuevo mensaje del PRO a Milei: “Queremos que usted defienda el cambio y no a Adorni” (Infobae Politica)",
+        "Mauricio Macri presiona para que Milei eche a Adorni, pero no aportará los votos de Pro para la moción de censura (La Nacion Politica)"
+      ],
+      "conclusion": "Las declaraciones patrimoniales de Manuel Adorni están bajo la lupa de la Justicia y generan tensiones políticas significativas, con el PRO cuestionando su rol y presionando a Milei. Esto evidencia un foco de atención en la transparencia y la gestión de funcionarios clave, con posibles repercusiones en la estabilidad política del gobierno."
+    }
+  ],
   "noticias": [
     {
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Apple",
       "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/12/ios-27-macos-27-drawing-tools/",
-      "tituloOriginal": "iOS 27 and macOS 27 Golden Gate Expand Drawing Tools to Three Apps",
-      "tituloLimpio": "iOS 27 y macOS Golden Gate mejoran herramientas de dibujo con IA",
-      "resumen": "Las próximas actualizaciones de iOS y macOS integran herramientas de dibujo más avanzadas en varias aplicaciones nativas, incluyendo Mensajes.",
-      "porQueImporta": "Demuestra la continua integración de IA en la experiencia de usuario de Apple, mejorando la funcionalidad básica de sus sistemas operativos.",
-      "publicadoEn": "2026-06-12T16:41:03.000Z",
+      "url": "https://www.macrumors.com/2026/06/12/last-chance-apple-card-airpods-pro-3-promo/",
+      "tituloOriginal": "Last Chance: Apple Card Sign-Up Promo Can Earn You Free AirPods Pro 3",
+      "tituloLimpio": "Última oportunidad para obtener AirPods Pro 3 gratis con la Apple Card",
+      "resumen": "Quedan solo tres días para aprovechar la promoción de la Apple Card que permite obtener AirPods Pro 3 de forma efectiva al registrarse y usarlas para comprar los auriculares.",
+      "porQueImporta": "Oportunidad de ahorro directo para usuarios de Apple interesados en los AirPods Pro 3.",
+      "publicadoEn": "2026-06-12T18:26:26.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "AI",
-        "iOS",
-        "macOS",
-        "Productividad"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
-      "categoria": "Finance",
-      "fuente": "Sherwood",
-      "url": "https://sherwood.news/world/solar-generated-more-power-than-coal-in-the-us-for-the-first-time-ever/",
-      "tituloOriginal": "Solar generated more power than coal for the first time in US history",
-      "tituloLimpio": "Energía solar superó al carbón en generación eléctrica en EE.UU. por primera vez",
-      "resumen": "El mes pasado, la energía solar representó el 12.8% de la generación eléctrica en EE.UU., superando al carbón (12.2%) por primera vez en la historia.",
-      "porQueImporta": "Un hito clave en la transición energética, mostrando el avance de las renovables y su impacto en el mix energético.",
-      "publicadoEn": "2026-06-12T14:21:59.000Z",
-      "imagen": "https://sherwoodnews.imgix.net/2026-06-12-coal-solar.png?w=1600",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "Energia",
-        "Sostenibilidad",
-        "EEUU",
-        "Renovables"
+        "AirPods Pro 3",
+        "Apple Card",
+        "Promoción"
       ],
       "tambienVistoEn": []
     },
@@ -114,19 +115,20 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/carlos-melconian-en-un-proceso-reconversion-no-se-puede-dejar-al-50-la-la-buena-dios-n6288169",
-      "tituloOriginal": "Carlos Melconian: \"En un proceso de reconversión, no se puede dejar al 50% de la economía a la buena de Dios\"",
-      "tituloLimpio": "Melconian: \"En un proceso de reconversión, no se puede dejar al 50% de la economía a la buena de Dios\"",
-      "resumen": "El economista Carlos Melconian considera que la baja del riesgo país es un alivio tardío y detalla las claves económicas para las próximas elecciones.",
-      "porQueImporta": "Ofrece una perspectiva crítica sobre la situación económica argentina y las prioridades del gobierno desde un referente opositor.",
-      "publicadoEn": "2026-06-12T16:34:00.000Z",
-      "globalScore": 98,
+      "url": "https://www.ambito.com/economia/manuel-adorni-declaro-2025-ingresos-exentos-ganancias-seis-veces-superiores-su-salario-como-funcionario-n6288164",
+      "tituloOriginal": "Manuel Adorni declaró en 2025 ingresos exentos de Ganancias seis veces superiores a su salario como funcionario",
+      "tituloLimpio": "Manuel Adorni declaró ingresos exentos de Ganancias seis veces superiores a su salario",
+      "resumen": "El Jefe de Gabinete declaró ganancias por $270 millones en 2025, no sujetas a impuestos, mientras que sus rentas laborales fueron de $46 millones.",
+      "porQueImporta": "Genera interrogantes sobre la procedencia de los fondos y la transparencia en las declaraciones juradas de funcionarios.",
+      "publicadoEn": "2026-06-12T18:26:00.000Z",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Economia",
-        "Melconian",
-        "Politica"
+        "Manuel Adorni",
+        "Ganancias",
+        "Declaración Jurada",
+        "Justicia"
       ],
       "tambienVistoEn": []
     },
@@ -136,39 +138,18 @@
       "fuente": "Marketing Dive",
       "url": "https://www.marketingdive.com/news/geico-gecko-steps-into-new-role-as-ai-generated-podcast-guest/822767/",
       "tituloOriginal": "Geico Gecko steps into new role as AI-generated podcast guest",
-      "tituloLimpio": "Geico usa IA para generar un invitado de podcast con su mascota, el Gecko",
-      "resumen": "La aseguradora Geico utiliza IA para que su mascota, el Gecko, aparezca como invitado en un podcast, como parte de una estrategia para ir más allá de la publicidad tradicional.",
-      "porQueImporta": "Ejemplo de aplicación de IA en marketing para crear contenido interactivo y novedoso, buscando mayor engagement con la audiencia.",
+      "tituloLimpio": "Geico Gecko se convierte en invitado de podcast generado por IA",
+      "resumen": "La aseguradora utiliza a su mascota en un podcast de IA como parte de una estrategia para innovar en su comunicación y alejarse de la publicidad unidireccional.",
+      "porQueImporta": "Ejemplo de cómo las marcas están explorando la IA para crear contenido más interactivo y menos tradicional.",
       "publicadoEn": "2026-06-12T14:32:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Marketing",
-        "AI",
+        "IA",
+        "Contenido",
         "Geico",
-        "Contenido"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "categoria": "AI",
-      "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
-      "tituloOriginal": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
-      "tituloLimpio": "SpaceX, Anthropic y OpenAI lideran un verano de IPOs en el mercado tecnológico",
-      "resumen": "El mercado de salidas a bolsa se reactiva con empresas tecnológicas como SpaceX, Anthropic y OpenAI preparándose para cotizar, marcando un cambio de liderazgo respecto a las FAANG.",
-      "porQueImporta": "Indica un posible cambio de paradigma en el mercado bursátil, con nuevas tecnológicas liderando el crecimiento y la inversión.",
-      "publicadoEn": "2026-06-12T16:23:25.000Z",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "AI",
-        "Finanzas",
-        "IPO",
-        "SpaceX",
-        "OpenAI",
-        "Tecnologia"
+        "Podcast"
       ],
       "tambienVistoEn": []
     },
@@ -178,17 +159,18 @@
       "fuente": "The Verge AI",
       "url": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
       "tituloOriginal": "Siri is good now??",
-      "tituloLimpio": "Siri de Apple ahora es 'buena' según The Verge",
-      "resumen": "Una revisión sugiere que Siri ha mejorado significativamente, dejando atrás sus problemas de funcionalidad anteriores.",
-      "porQueImporta": "Noticia relevante para usuarios de Apple, indicando una mejora sustancial en uno de sus asistentes virtuales clave, probablemente impulsada por IA.",
+      "tituloLimpio": "Siri, ¿finalmente útil?",
+      "resumen": "Apple lanzó una nueva versión de Siri que, según las primeras impresiones, podría ser significativamente más útil que las anteriores.",
+      "porQueImporta": "Un avance importante para un asistente de voz que históricamente ha tenido un rendimiento limitado.",
       "publicadoEn": "2026-06-12T17:17:04.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "AI",
         "Siri",
-        "Tecnologia"
+        "IA",
+        "Asistente de Voz",
+        "Tecnología"
       ],
       "tambienVistoEn": []
     },
@@ -198,17 +180,17 @@
       "fuente": "MIT Technology Review AI",
       "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
       "tituloOriginal": "Google DeepMind is worried about what happens when millions of agents start to interact",
-      "tituloLimpio": "Google DeepMind se preocupa por la interacción de millones de agentes de IA",
-      "resumen": "La compañía está financiando investigaciones sobre los peligros potenciales de que millones de agentes de IA interactúen entre sí en línea sin supervisión humana.",
-      "porQueImporta": "Plantea interrogantes sobre la seguridad y el control de sistemas de IA cada vez más autónomos y conectados.",
+      "tituloLimpio": "Google DeepMind preocupado por la interacción de millones de agentes de IA",
+      "resumen": "La compañía está financiando investigación sobre los peligros potenciales de la interacción masiva de agentes de IA online sin supervisión humana.",
+      "porQueImporta": "Plantea interrogantes sobre la seguridad y el control a medida que la IA se vuelve más autónoma y ubicua.",
       "publicadoEn": "2026-06-11T11:00:45.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "AI",
-        "Seguridad",
-        "Google",
-        "DeepMind"
+        "IA",
+        "Google DeepMind",
+        "Seguridad IA",
+        "Riesgos Tecnológicos"
       ],
       "tambienVistoEn": []
     },
@@ -216,20 +198,20 @@
       "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Apple",
       "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/12/how-to-keep-your-mac-awake-even-when-your-macbook-lid-is-closed/",
-      "tituloOriginal": "How to keep your Mac awake, even when your MacBook lid is closed",
-      "tituloLimpio": "Cómo mantener tu Mac encendido con la tapa cerrada en macOS",
-      "resumen": "Guía para evitar que tu Mac entre en modo de suspensión cuando la tapa está cerrada, útil para descargas, backups o tareas de IA.",
-      "porQueImporta": "Un truco práctico para usuarios de Mac que necesitan que sus equipos permanezcan activos para tareas específicas, incluyendo las relacionadas con IA.",
-      "publicadoEn": "2026-06-12T17:05:25.000Z",
+      "url": "https://9to5mac.com/2026/06/12/qingping-thermometer/",
+      "tituloOriginal": "HomeKit Weekly: The Qingping thermometer brings Thread and an E-ink display to Apple Home",
+      "tituloLimpio": "Termómetro Qingping con Thread y pantalla E-ink para Apple Home",
+      "resumen": "El termómetro Qingping se actualiza con soporte Thread para Apple Home y una pantalla de tinta electrónica, mejorando su integración y eficiencia.",
+      "porQueImporta": "Novedad para el ecosistema de hogar inteligente de Apple, destacando la adopción de tecnologías como Thread y E-ink.",
+      "publicadoEn": "2026-06-12T18:14:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "macOS",
-        "Productividad",
-        "AI",
-        "Tools"
+        "HomeKit",
+        "Thread",
+        "Hogar Inteligente",
+        "Tecnología"
       ],
       "tambienVistoEn": []
     },
@@ -239,79 +221,18 @@
       "fuente": "AppleInsider",
       "url": "https://appleinsider.com/inside/macos-27/tips/how-to-use-visual-intelligence-on-macos-golden-gate-and-when-its-worth-it?utm_source=rss",
       "tituloOriginal": "How to use Visual Intelligence on macOS Golden Gate, and when it's worth it",
-      "tituloLimpio": "Cómo usar 'Visual Intelligence' en macOS Golden Gate y cuándo vale la pena",
-      "resumen": "Apple introduce Visual Intelligence en macOS Golden Gate, una función que permite obtener información detallada de elementos en pantalla, como datos nutricionales de comida.",
-      "porQueImporta": "Otra muestra de la integración de IA en macOS, mejorando la capacidad de análisis visual del sistema operativo.",
+      "tituloLimpio": "Cómo usar Visual Intelligence en macOS Golden Gate y cuándo vale la pena",
+      "resumen": "macOS Golden Gate introduce Visual Intelligence en Mac, una función que permite obtener información, como detalles nutricionales de alimentos, a partir de selecciones en pantalla.",
+      "porQueImporta": "Detalles sobre una nueva funcionalidad de IA en macOS que podría mejorar la interacción del usuario con la información visual.",
       "publicadoEn": "2026-06-12T17:26:51.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "AI",
         "macOS",
+        "IA",
+        "Visual Intelligence",
         "Productividad"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
-      "categoria": "Apple",
-      "fuente": "MacStories",
-      "url": "https://www.macstories.net/news/podcast-rewind-wwdc-reactions-computex-news-and-interviews-with-apple-design-award-winners/",
-      "tituloOriginal": "Podcast Rewind: WWDC Reactions, Computex News, and Interviews with Apple Design Award Winners",
-      "tituloLimpio": "Reacciones a WWDC, noticias de Computex y entrevistas a ganadores de Apple Design Awards",
-      "resumen": "Resumen de podcasts con las impresiones iniciales de la keynote de WWDC, novedades de Computex y entrevistas a ganadores de los Apple Design Awards.",
-      "porQueImporta": "Análisis post-WWDC y contexto de la industria tecnológica, relevante para entender las tendencias y el ecosistema Apple.",
-      "publicadoEn": "2026-06-12T14:04:13.000Z",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "Apple",
-        "WWDC",
-        "Tecnologia",
-        "Design"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
-      "categoria": "Finance",
-      "fuente": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-bubble-looks-fit-burst-171500617.html",
-      "tituloOriginal": "The AI bubble looks fit to burst, Bank of America director says. Here’s your road map for riding out a crash",
-      "tituloLimpio": "Director de Bank of America advierte sobre posible estallido de la burbuja de IA",
-      "resumen": "Se alerta sobre la posibilidad de una burbuja en el sector de IA, con recomendaciones para navegar una eventual crisis.",
-      "porQueImporta": "Alerta financiera importante sobre uno de los sectores de mayor crecimiento, con implicaciones para inversores y empresas.",
-      "publicadoEn": "2026-06-12T17:15:00.000Z",
-      "imagen": "https://media.zenfs.com/en/moneywise_ecomm_711/523811f3cc3b388c9dd8881edff14e22",
-      "globalScore": 98,
-      "personalScore": 100,
-      "tags": [
-        "Finanzas",
-        "AI",
-        "Mercado",
-        "Inversion"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
-      "categoria": "Finance",
-      "fuente": "Yahoo Finance",
-      "url": "https://www.investors.com/stock-lists/stock-spotlight/eli-lilly-stock-lly-buy-zone-earnings-soar-drugmaker-weight-loss-pharma-markets/?src=A00220&yptr=yahoo",
-      "tituloOriginal": "Eli Lilly Stock Hits Buy Zone As Earnings Soar 156%. Funds Are Loading Up.",
-      "tituloLimpio": "Acciones de Eli Lilly suben a zona de compra tras fuerte aumento de ganancias",
-      "resumen": "Los fondos están acumulando acciones de Eli Lilly (LLY) luego de que sus ganancias se dispararan un 156%.",
-      "porQueImporta": "Movimiento significativo en el sector farmacéutico, con una empresa clave mostrando un rendimiento excepcional.",
-      "publicadoEn": "2026-06-12T17:01:23.000Z",
-      "imagen": "https://media.zenfs.com/en/ibd.com/ce546a124bd7e65be2b7f47ff1a4ded7",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "Finanzas",
-        "Inversion",
-        "Eli Lilly",
-        "Farmaceutica"
       ],
       "tambienVistoEn": []
     },
@@ -319,21 +240,21 @@
       "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
       "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/12/vaneck-bets-bnb-s-real-world-usage-can-stand-out-in-a-crowded-crypto-etf-market",
-      "tituloOriginal": "VanEck bets BNB’s real-world usage can stand out in a crowded crypto ETF market",
-      "tituloLimpio": "VanEck apuesta por el uso real de BNB para destacar en el mercado de ETFs de cripto",
-      "resumen": "VanEck considera que la actividad de usuarios y la generación de ingresos de BNB la posicionan mejor que otros proyectos cripto en el mercado de ETFs.",
-      "porQueImporta": "Análisis de inversión en el sector cripto, destacando un activo específico y su potencial frente a la competencia.",
-      "publicadoEn": "2026-06-12T16:05:31.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/591ebb1d6a707d8b8d862afa4610b4958bd2ccaf-1540x864.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "globalScore": 100,
+      "url": "https://www.coindesk.com/markets/2026/06/12/bitcoin-hit-bottom-at-usd59-000-marking-end-to-the-crypto-winter-says-standard-chartered-analyst",
+      "tituloOriginal": "Bitcoin hit bottom at $59,000 marking end to the crypto winter, says Standard Chartered analyst",
+      "tituloLimpio": "Bitcoin tocó fondo en USD 59.000, marcando el fin del 'invierno cripto'",
+      "resumen": "Un analista de Standard Chartered afirma que Bitcoin alcanzó su punto más bajo, impulsado por el IPO de SpaceX y esperanzas de paz entre EE.UU. e Irán.",
+      "porQueImporta": "Señal de posible recuperación en el mercado de criptomonedas, con implicaciones para inversores.",
+      "publicadoEn": "2026-06-12T18:09:06.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/635098a63fd9f1666a72fdfb7fee8ca9adedf6a2-4032x2268.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 96,
       "personalScore": 100,
       "tags": [
         "Finanzas",
-        "Cripto",
-        "ETFs",
-        "BNB",
-        "VanEck"
+        "Bitcoin",
+        "Criptomonedas",
+        "Inversiones",
+        "Mercado Cripto"
       ],
       "tambienVistoEn": []
     },
@@ -343,18 +264,19 @@
       "fuente": "CoinTelegraph",
       "url": "https://cointelegraph.com/markets/bitcoin-surfs-spacex-ipo-iran-peace-cues-as-trader-warns-62k-may-crumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "tituloOriginal": "Bitcoin surfs SpaceX IPO at $64K as trader warns key BTC price support may crumble",
-      "tituloLimpio": "Bitcoin supera los $64K impulsado por el IPO de SpaceX y esperanzas de paz",
-      "resumen": "El precio de Bitcoin alcanzó los $64,000, influenciado por el exitoso debut de SpaceX y las crecientes esperanzas de un acuerdo de paz entre EE.UU. e Irán, aunque persisten dudas sobre su soporte.",
-      "porQueImporta": "Reacción del mercado cripto ante eventos macroeconómicos y tecnológicos globales, mostrando su volatilidad y correlación con otros activos.",
+      "tituloLimpio": "Bitcoin sube a USD 64.000 impulsado por IPO de SpaceX y acuerdo Irán-EE.UU.",
+      "resumen": "El precio de Bitcoin alcanzó los $64.000, beneficiado por el exitoso IPO de SpaceX y las expectativas de un acuerdo de paz entre Estados Unidos e Irán.",
+      "porQueImporta": "Confirma la tendencia alcista en Bitcoin y la influencia de eventos macroeconómicos y corporativos en el mercado cripto.",
       "publicadoEn": "2026-06-12T16:17:33.000Z",
       "imagen": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS13aGF0LWlzLXNwYWNleC1pcG8tYW5kLWJpbmFuY2UuanBn.jpg",
       "globalScore": 90,
       "personalScore": 100,
       "tags": [
         "Finanzas",
-        "Cripto",
         "Bitcoin",
-        "SpaceX"
+        "Criptomonedas",
+        "SpaceX",
+        "Geopolítica"
       ],
       "tambienVistoEn": []
     },
@@ -364,19 +286,19 @@
       "fuente": "Clarin Economia",
       "url": "https://www.clarin.com/economia/sp-suba-nota-argentina-va-presiones-dolar-2027-gobierno-puede-navegar-estres_0_ve5chZysk6.html",
       "tituloOriginal": "S&P, tras la suba de la nota a la Argentina: \"Va a haber presiones sobre el dólar en 2027, pero el gobierno puede navegar ese estrés\"",
-      "tituloLimpio": "S&P sobre Argentina: \"Va a haber presiones sobre el dólar en 2027, pero el gobierno puede navegar ese estrés\"",
-      "resumen": "La calificadora de deuda cree que el gobierno tiene herramientas para evitar defaults, pero advierte que el descontento social podría llevar a los ahorristas al dólar.",
-      "porQueImporta": "Evaluación externa clave sobre la estabilidad económica argentina y los riesgos futuros, con implicaciones para la inversión y la política.",
+      "tituloLimpio": "S&P: Argentina enfrentará presiones sobre el dólar en 2027, pero el gobierno puede navegar el estrés",
+      "resumen": "La calificadora de deuda anticipa tensiones cambiarias en el año electoral, pero confía en que el gobierno de Milei y Caputo tendrán herramientas para manejarlas.",
+      "porQueImporta": "Análisis clave sobre la estabilidad económica argentina a mediano plazo y la percepción de riesgo por parte de agencias internacionales.",
       "publicadoEn": "2026-06-12T15:35:04.000Z",
       "imagen": "https://www.clarin.com/img/2026/06/11/LDXZcEAx8_1200x630__1.jpg",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Economia",
-        "Finanzas",
-        "Dolar",
-        "S&P"
+        "Economía",
+        "Dólar",
+        "S&P",
+        "Deuda"
       ],
       "tambienVistoEn": []
     },
@@ -384,42 +306,21 @@
       "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Politica",
-      "url": "https://www.clarin.com/politica/javier-milei-medidas-vivo-piden-uif-investigue-adorni-esposa-lavado-dinero_0_d3toVt5Ekb.html",
-      "tituloOriginal": "Javier Milei y sus medidas, EN VIVO: piden a la UIF que investigue a Adorni y su esposa por lavado de dinero",
-      "tituloLimpio": "Denuncian a Adorni y su esposa por presunto lavado de dinero",
-      "resumen": "El Centro de Investigación y Prevención de la Criminalidad Económica solicitó a la UIF investigar la evolución patrimonial del jefe de Gabinete y su cónyuge.",
-      "porQueImporta": "Novedad política sensible en Argentina que involucra a un alto funcionario del gobierno.",
-      "publicadoEn": "2026-06-12T11:50:17.000Z",
-      "imagen": "https://www.clarin.com/img/2026/03/11/-_1D8Y-PN_1200x630__1.jpg",
+      "url": "https://www.clarin.com/politica/agujeros-discrepancias-nueva-declaracion-adorni-gastos-dolares-analiza-justicia_0_eOR4Tql4tl.html",
+      "tituloOriginal": "Agujeros y discrepancias entre la nueva declaración de Adorni y los gastos en dólares que analiza la Justicia",
+      "tituloLimpio": "Justicia analiza discrepancias en la declaración de Adorni y sus gastos en dólares",
+      "resumen": "Se investigan inconsistencias entre la declaración jurada del Jefe de Gabinete y la evolución de sus gastos en efectivo desde que asumió.",
+      "porQueImporta": "Aumenta el escrutinio sobre la gestión y las finanzas de funcionarios clave del gobierno argentino.",
+      "publicadoEn": "2026-06-12T18:17:56.000Z",
+      "imagen": "https://www.clarin.com/img/2026/06/12/975wo7_pv_1200x630__1.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Politica",
-        "Adorni",
-        "Investigacion"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
-      "categoria": "Argentina",
-      "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/06/12/spacex-comienza-a-cotizar-en-wall-street-el-minuto-a-minuto-de-la-historica-operacion-de-la-compania-de-elon-musk/",
-      "tituloOriginal": "SpaceX comenzó a cotizar en Wall Street: la compañía de Elon Musk marcó un primer precio de USD 150 por acción",
-      "tituloLimpio": "SpaceX debuta en Wall Street a $150 por acción",
-      "resumen": "La compañía de Elon Musk comenzó a cotizar en el Nasdaq bajo el ticker 'SPCX', marcando un hito en su historia bursátil.",
-      "porQueImporta": "Un evento financiero y tecnológico de gran magnitud, con implicaciones para el sector espacial y las inversiones en tecnología.",
-      "publicadoEn": "2026-06-12T17:25:44.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/HXOAW4L7EZGW7CWE7YZDKZFHDE.JPG?auth=0602018acac83d2dd679bbaa85bfa563d4a74fefa776303513867e70230c23ea&smart=true&width=5422&height=3615",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "Tecnologia",
-        "Finanzas",
-        "SpaceX",
-        "Elon Musk",
-        "IPO"
+        "Manuel Adorni",
+        "Justicia",
+        "Corrupción",
+        "Transparencia"
       ],
       "tambienVistoEn": []
     },
@@ -427,20 +328,21 @@
       "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Politica",
-      "url": "https://www.infobae.com/politica/2026/06/12/la-orden-que-se-impartio-puertas-adentro-del-gobierno-para-dar-vuelta-la-pagina-con-el-caso-adorni/",
-      "tituloOriginal": "La orden que se impartió puertas adentro del Gobierno para dar vuelta la página con el caso Adorni",
-      "tituloLimpio": "Gobierno busca pasar página tras caso Adorni y aumentar anuncios",
-      "resumen": "El oficialismo argentino busca dar vuelta la página con el caso Adorni y aumentar los anuncios para contrarrestar la percepción de parálisis administrativa.",
-      "porQueImporta": "Estrategia política del gobierno argentino para gestionar la opinión pública y la narrativa mediática.",
-      "publicadoEn": "2026-06-12T17:18:14.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/DLZRU67S7REDZJITPFXJMGLYB4.jpg?auth=b7809a2b96d277db324652e41f33f36db4733c940995c91c1f1e501751d7dbc0&smart=true&width=1920&height=1280",
+      "url": "https://www.infobae.com/politica/2026/06/12/nuevo-mensaje-del-pro-a-milei-queremos-que-usted-defienda-el-cambio-y-no-a-adorni/",
+      "tituloOriginal": "Nuevo mensaje del PRO a Milei: “Queremos que usted defienda el cambio y no a Adorni”",
+      "tituloLimpio": "El PRO pide a Milei que defienda el cambio y no a Adorni",
+      "resumen": "El partido de Mauricio Macri cuestiona al Presidente por la polémica que involucra a su Jefe de Gabinete y pide que priorice la defensa del 'cambio'.",
+      "porQueImporta": "Muestra tensiones internas dentro de la coalición gobernante y la presión sobre el liderazgo de Milei.",
+      "publicadoEn": "2026-06-12T17:51:05.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/4QYOUM6DYJEFDPSIF3OXDX7CXU.jpeg?auth=fe91bdb4a248b8b474d50117c96886543a787ab2897bbb7393eb506c6e6eafad&smart=true&width=777&height=470",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Politica",
-        "Adorni",
-        "Comunicacion"
+        "Política",
+        "PRO",
+        "Javier Milei",
+        "Manuel Adorni"
       ],
       "tambienVistoEn": []
     },
@@ -448,21 +350,21 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/tecnologia/popsico-la-marca-argentina-de-zapatillas-impresas-en-3d-que-vende-en-la-misma-plataforma-que-nike-nid12062026/",
-      "tituloOriginal": "Popsico, la marca argentina de zapatillas impresas en 3D que vende en la misma plataforma que Nike",
-      "tituloLimpio": "Popsico: marca argentina de zapatillas impresas en 3D que vende junto a Nike",
-      "resumen": "Juan Pablo Tesei, diseñador industrial argentino, creó Popsico, una línea de zapatillas personalizadas impresas en 3D que se venden online en la misma plataforma que Nike.",
-      "porQueImporta": "Ejemplo de innovación y emprendimiento argentino en el sector de la moda y la tecnología de impresión 3D, con alcance internacional.",
-      "publicadoEn": "2026-06-12T16:25:32.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/E3Y5C3RXOJFOVGVLVNTTQ6IUQI.jpeg?auth=811c5dc8a393855764f5866482adb4951855c7b5558f89fdc630e881c5eddce3&smart=true&width=3768&height=2773",
+      "url": "https://www.lanacion.com.ar/economia/compliance-el-desafio-de-combatir-a-la-corrupcion-publica-privada-nid12062026/",
+      "tituloOriginal": "Compliance: el desafío de combatir a la corrupción pública privada",
+      "tituloLimpio": "Compliance: el desafío de combatir la corrupción pública y privada",
+      "resumen": "Jornada sobre cumplimiento normativo destaca la importancia de la prevención para luchar contra la corrupción en los sectores público y privado.",
+      "porQueImporta": "Relevancia del compliance como herramienta para la transparencia y la ética empresarial y gubernamental.",
+      "publicadoEn": "2026-06-12T19:00:39.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/G2HH3EDTONHHDDJL3ZR6USZOZ4.png?auth=8e5fcd7d92ba7077ab082e7d05863f84fdd9732ed91ad0871f07efa5a504c6a7&smart=true&width=2000&height=1333",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Negocios",
-        "Innovacion",
-        "Moda",
-        "3D Printing"
+        "Compliance",
+        "Corrupción",
+        "Ética",
+        "Negocios"
       ],
       "tambienVistoEn": []
     },
@@ -470,21 +372,21 @@
       "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Politica",
-      "url": "https://www.lanacion.com.ar/politica/manuel-adorni-desplazo-a-javier-milei-del-centro-de-la-conversacion-digital-tras-dias-de-menciones-nid12062026/",
-      "tituloOriginal": "Manuel Adorni desplazó a Javier Milei del centro de la conversación digital tras días de menciones negativas en redes",
-      "tituloLimpio": "Adorni desplaza a Milei en la conversación digital tras menciones negativas",
-      "resumen": "Manuel Adorni se convirtió en el centro de la conversación digital en Argentina tras días de menciones negativas en redes sociales, principalmente por la adhesión al Régimen Simplificado de Ganancias.",
-      "porQueImporta": "Análisis de la percepción pública y la influencia de las redes sociales en la política argentina, con foco en la figura de Adorni.",
-      "publicadoEn": "2026-06-12T17:00:18.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/44O6P2P6ANGN3DAXOBXZQ2JISE.jpg?auth=5d356f1d9eb2cf3676fc532332f5f2d58da2051133ddc562c1681b52d409265c&smart=true&width=2000&height=1333",
+      "url": "https://www.lanacion.com.ar/politica/mauricio-macri-presiona-para-milei-eche-a-adorni-pero-no-aportara-los-votos-de-pro-para-la-mocion-de-nid12062026/",
+      "tituloOriginal": "Mauricio Macri presiona para que Milei eche a Adorni, pero no aportará los votos de Pro para la moción de censura",
+      "tituloLimpio": "Macri presiona para que Milei eche a Adorni, pero no apoyará moción de censura",
+      "resumen": "El expresidente Mauricio Macri pide la salida de Adorni, pero no aportará votos para una moción de censura en el Congreso.",
+      "porQueImporta": "Revela la estrategia de Macri de presionar al gobierno sin involucrarse directamente en acciones parlamentarias de confrontación.",
+      "publicadoEn": "2026-06-12T18:51:21.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/Z7UY5KJ4QVDFHHN5RIYKI5PNXE.jpg?auth=be29ab1989c02241711811e7c8455519f4702d16fe12c0afad96d20822be7743&smart=true&width=4930&height=3286",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Politica",
-        "Adorni",
-        "Redes Sociales",
-        "Comunicacion"
+        "Política",
+        "Mauricio Macri",
+        "Javier Milei",
+        "Manuel Adorni"
       ],
       "tambienVistoEn": []
     },
@@ -494,9 +396,9 @@
       "fuente": "Adweek",
       "url": "https://www.adweek.com/brand-marketing/5-marketers-moves-to-know-this-week-knix-bayer-and-more/",
       "tituloOriginal": "5 Marketer Moves to Know This Week: Knix, Bayer, and More",
-      "tituloLimpio": "Movimientos de 5 Marketers clave esta semana: Knix, Bayer y más",
-      "resumen": "Recopilación semanal de los nombramientos de liderazgo en marketing más importantes en EE.UU. y a nivel global.",
-      "porQueImporta": "Información relevante sobre cambios y tendencias en el liderazgo del sector marketing a nivel internacional.",
+      "tituloLimpio": "5 movimientos de marketing importantes de la semana",
+      "resumen": "Un resumen semanal de los nombramientos de liderazgo en marketing más relevantes en Estados Unidos y a nivel global.",
+      "porQueImporta": "Información sobre cambios clave en el liderazgo de marketing que pueden indicar tendencias o estrategias futuras.",
       "publicadoEn": "2026-06-12T12:57:29.000Z",
       "globalScore": 94,
       "personalScore": 100,
@@ -504,14 +406,34 @@
         "Marketing",
         "Liderazgo",
         "Negocios",
-        "Knix",
-        "Bayer"
+        "Tendencias"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cud3Nq",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-11-2026/card/gold-prices-come-back-to-earth-0OsLh5h7u1rQOZZ9YLil?siteid=yhoof2&yptr=yahoo",
+      "tituloOriginal": "Gold Prices Come Back to Earth",
+      "tituloLimpio": "Precios del oro vuelven a la Tierra",
+      "resumen": "Los precios del oro han experimentado una corrección tras recientes subidas.",
+      "porQueImporta": "Indicador de movimientos en mercados de materias primas que pueden afectar carteras de inversión.",
+      "publicadoEn": "2026-06-11T09:06:01.000Z",
+      "imagen": "https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
+      "globalScore": 82,
+      "personalScore": 92,
+      "tags": [
+        "Finanzas",
+        "Oro",
+        "Materias Primas",
+        "Mercado"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-06-12T17:33:46.822Z"
+    "generadoEn": "2026-06-12T19:04:57.032Z"
   }
 }
