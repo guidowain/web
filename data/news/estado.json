@@ -78,6 +78,12 @@
   "guardadas": [],
   "credencialesWebAuthn": [
     {
+      "id": "DAoXeoorpcytEP90CCyR1SRj-Cw",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEJb7tSHV1UfxzWFZIDIurs0v1TeRd88LQxGePHkt4uIs8phOBzuFiYqd9yr7V7ryrtbWt2FKJqGOL/z51JjJYtA==",
+      "algorithm": -7,
+      "creadaEn": "2026-06-13T00:06:49.650Z"
+    },
+    {
       "id": "22nT4ePNf4Knnk9LXSqTQB0mEws",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEpICz6/QRc99wsPoBUVcxZbzYh2e7vR0UVsRQWzGQNuPv4W8Zmbf5kLdNbbtzAuUfCZIUjWYsOkDWCI49Y3WoGw==",
       "algorithm": -7,
