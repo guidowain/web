@@ -1,0 +1,434 @@
+{
+  "fecha": "2026-06-13",
+  "generadoEn": "2026-06-13T12:19:15.438Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "Las novedades de hoy giran en torno a la inteligencia artificial aplicada a productos de consumo y la infraestructura, con foco en Apple y Google. En Argentina, la economía sigue en el centro de la discusión, con análisis sobre la inflación y la situación política del gobierno. También hay movimientos importantes en el mundo cripto y movimientos corporativos en Microsoft.",
+  "radarPersonal": [],
+  "loImportante": [
+    "Apple integra más funciones de IA en iOS 27, especialmente en Safari.",
+    "Google DeepMind investiga los riesgos de la interacción masiva de agentes de IA.",
+    "La economía argentina muestra altibajos y se revisan las proyecciones de crecimiento.",
+    "Manuel Adorni bajo la lupa por su declaración jurada y estrategia política."
+  ],
+  "oportunidades": [
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "titulo": "Andrew Yang ve una oportunidad de startups en bajar el costo de vida.",
+      "detalle": "Yang identifica áreas como vivienda, comida y servicios inalámbricos donde los consumidores pagan de más, sugiriendo un nicho para nuevas empresas.",
+      "acciones": [
+        "Investigar startups enfocadas en reducir costos de vida.",
+        "Analizar modelos de negocio que ofrezcan alternativas más económicas."
+      ]
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Investing",
+      "titulo": "Ripple impulsa pagos con XRP y RLUSD para agentes de IA.",
+      "detalle": "Ripple busca que sus criptomonedas sean el medio de pago para agentes de IA, compitiendo con USDC en mercados como Base y Solana.",
+      "acciones": [
+        "Evaluar el potencial de XRP y RLUSD en el ecosistema de IA.",
+        "Monitorear la adopción de estas criptomonedas para pagos automatizados."
+      ]
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Investing",
+      "titulo": "Comparativa de precios: MacBook Neo vs. Dell XPS 13.",
+      "detalle": "Apple lanza el MacBook Neo a $599, y Dell responde con el XPS 13, buscando competir en el segmento de presupuesto.",
+      "acciones": [
+        "Analizar la estrategia de precios de Apple y Dell.",
+        "Evaluar el rendimiento y valor de estos equipos para el mercado."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "titulo": "Google DeepMind alerta sobre peligros de interacción masiva de IA.",
+      "detalle": "La compañía financia investigación sobre los riesgos potenciales cuando millones de agentes de IA interactúan online sin supervisión humana.",
+      "acciones": "Mantenerse informado sobre los avances en seguridad y alineación de IA."
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Regulatory",
+      "titulo": "Argentina: Dificultades para sostener la desaceleración inflacionaria.",
+      "detalle": "Especialistas advierten que se necesita profundizar el ancla cambiaria y salarial para mantener la baja de la inflación, con dudas sobre el margen para lograrlo sostenidamente.",
+      "acciones": "Seguir de cerca las políticas económicas y su impacto en la inflación."
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Regulatory",
+      "titulo": "Anthropic retira modelos de IA por directiva del gobierno de EE.UU.",
+      "detalle": "Anthropic deshabilitó el acceso a Claude Fable 5 y Claude Mythos 5 tras una directiva de control de exportaciones estadounidense.",
+      "acciones": "Monitorear el impacto de regulaciones gubernamentales en el desarrollo y acceso a IA."
+    }
+  ],
+  "conexiones": [],
+  "noticias": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/guide/ios-27-safari/",
+      "tituloOriginal": "iOS 27: All the New Safari Features",
+      "tituloLimpio": "iOS 27: Nuevas funciones de IA para Safari.",
+      "resumen": "Safari en iOS 27 incorporará múltiples funciones de Apple Intelligence, como la organización automática de pestañas por temas y extensiones personalizadas.",
+      "porQueImporta": "Demuestra la integración profunda de IA en las aplicaciones clave de Apple, mejorando la experiencia del usuario y la productividad.",
+      "publicadoEn": "2026-06-12T22:30:39.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "iOS 27",
+        "Safari",
+        "AI",
+        "Productivity"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "categoria": "Finance",
+      "fuente": "Sherwood",
+      "url": "https://sherwood.news/tech/report-microsoft-weighs-xbox-spinoff-amid-major-overhaul/",
+      "tituloOriginal": "Report: Microsoft weighs Xbox spin-off amid major overhaul",
+      "tituloLimpio": "Microsoft evalúa escindir la unidad Xbox.",
+      "resumen": "Según informes, Microsoft estaría considerando separar la división Xbox como parte de una reestructuración estratégica.",
+      "porQueImporta": "Un movimiento corporativo importante que podría redefinir el futuro de Xbox y el panorama de los videojuegos.",
+      "publicadoEn": "2026-06-12T19:03:04.000Z",
+      "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/1619029726_visitors-stand-at-the-xbox-booth-at-the-gamescom-video-game-fair-in-cologne-western-germany.jpg",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "Business",
+        "Microsoft",
+        "Xbox",
+        "Strategy"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/inflacion-advierten-que-sostener-la-desaceleracion-hay-que-profundizar-el-ancla-cambiaria-y-salarial-hay-margen-n6288285",
+      "tituloOriginal": "Inflación: advierten que para sostener la desaceleración hay que profundizar el ancla cambiaria y salarial, ¿hay margen?",
+      "tituloLimpio": "Argentina: Advierten que sostener la baja de inflación requiere profundizar anclas cambiaria y salarial.",
+      "resumen": "Especialistas señalan que para mantener la desaceleración inflacionaria, es necesario reforzar las políticas de anclaje cambiario y salarial, aunque hay dudas sobre el margen para hacerlo de forma sostenida.",
+      "porQueImporta": "Análisis clave sobre los desafíos macroeconómicos de Argentina y las políticas necesarias para controlar la inflación.",
+      "publicadoEn": "2026-06-13T00:14:00.000Z",
+      "imagen": "https://media.ambito.com/p/d5abf53db5179b9511ec588c4c3a4833/adjuntos/239/imagenes/043/199/0043199235/1200x675/smart/inflacion-excell.png",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Economy",
+        "Inflation",
+        "Policy"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/geico-gecko-steps-into-new-role-as-ai-generated-podcast-guest/822767/",
+      "tituloOriginal": "Geico Gecko steps into new role as AI-generated podcast guest",
+      "tituloLimpio": "Geico Gecko debuta como invitado de podcast generado por IA.",
+      "resumen": "La aseguradora Geico utiliza al Geico Gecko en un podcast generado por IA como parte de su estrategia para ir más allá de la publicidad tradicional.",
+      "porQueImporta": "Un ejemplo interesante de cómo las marcas están experimentando con IA para crear contenido y conectar con audiencias de formas innovadoras.",
+      "publicadoEn": "2026-06-12T14:32:00.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "AI",
+        "Content Marketing",
+        "Branding"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
+      "tituloOriginal": "Apple’s new AI photo editing tools mostly work, for better and worse",
+      "tituloLimpio": "Las herramientas de edición de fotos con IA de Apple en iOS 27 son prometedoras.",
+      "resumen": "Las nuevas funciones de edición de fotos con IA en iOS 27, aunque más conservadoras que las de otros competidores, ofrecen capacidades útiles para mejorar imágenes.",
+      "porQueImporta": "Marca un avance significativo en las capacidades de edición de fotos nativas de Apple, aprovechando la IA para simplificar tareas complejas.",
+      "publicadoEn": "2026-06-13T12:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "AI",
+        "iOS 27",
+        "Photography",
+        "Tools"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "tituloOriginal": "Google DeepMind is worried about what happens when millions of agents start to interact",
+      "tituloLimpio": "Google DeepMind se preocupa por la interacción de millones de agentes de IA.",
+      "resumen": "La compañía está financiando investigación sobre los peligros potenciales de la interacción masiva de agentes de IA sin supervisión humana.",
+      "porQueImporta": "Plantea interrogantes sobre la seguridad y el control a medida que la IA se vuelve más autónoma y omnipresente.",
+      "publicadoEn": "2026-06-11T11:00:45.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Google",
+        "DeepMind",
+        "Safety",
+        "Risk"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/12/anthropic-pulls-claude-mythos-5-and-claude-fable-5-following-us-government-directive/",
+      "tituloOriginal": "Anthropic pulls Claude Mythos 5 and Claude Fable 5 following US government directive",
+      "tituloLimpio": "Anthropic retira modelos de IA por directiva del gobierno de EE.UU.",
+      "resumen": "Anthropic deshabilitó el acceso a Claude Fable 5 y Claude Mythos 5 tras una directiva de control de exportaciones del gobierno estadounidense.",
+      "porQueImporta": "Destaca el impacto de las regulaciones gubernamentales en el desarrollo y acceso a tecnologías de IA avanzadas.",
+      "publicadoEn": "2026-06-13T01:30:14.000Z",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Regulation",
+        "Anthropic",
+        "Technology"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/inside/macbook-neo/vs/macbook-neo-vs-dell-xps-13-599-budget-battle-compared?utm_source=rss",
+      "tituloOriginal": "MacBook Neo vs Dell XPS 13: $599 budget battle, compared",
+      "tituloLimpio": "Comparativa: MacBook Neo vs. Dell XPS 13 en el segmento de $599.",
+      "resumen": "Se compara el nuevo MacBook Neo de Apple con el Dell XPS 13, ambos apuntando al mercado de presupuesto con especificaciones y valor similares.",
+      "porQueImporta": "Análisis útil para quienes buscan opciones de portátiles asequibles, destacando la competencia directa entre Apple y Dell en este segmento.",
+      "publicadoEn": "2026-06-13T12:17:51.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "Dell",
+        "Laptops",
+        "Technology",
+        "Value"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/news/podcast-rewind-wwdc-reactions-computex-news-and-interviews-with-apple-design-award-winners/",
+      "tituloOriginal": "Podcast Rewind: WWDC Reactions, Computex News, and Interviews with Apple Design Award Winners",
+      "tituloLimpio": "Reacciones a WWDC, noticias de Computex y entrevistas a ganadores de Apple Design Awards.",
+      "resumen": "Resumen de podcasts con impresiones sobre la WWDC, novedades de Computex y entrevistas a los ganadores de los Apple Design Awards.",
+      "porQueImporta": "Ofrece una perspectiva detallada y análisis post-evento de las novedades de Apple y la industria tecnológica.",
+      "publicadoEn": "2026-06-12T14:04:13.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "WWDC",
+        "Computex",
+        "Design",
+        "Podcasts"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-institutional-buying-sends-micron-103201797.html",
+      "tituloOriginal": "AI, Institutional Buying Sends Micron Shares Up by 758%",
+      "tituloLimpio": "Compra institucional y IA impulsan las acciones de Micron un 758%.",
+      "resumen": "Las acciones de Micron han experimentado un aumento significativo, impulsadas por la demanda relacionada con la inteligencia artificial y la inversión institucional.",
+      "porQueImporta": "Indica un fuerte interés y crecimiento en el sector de semiconductores, clave para el desarrollo de la IA, con potencial de inversión.",
+      "publicadoEn": "2026-06-12T10:32:01.000Z",
+      "imagen": "https://media.zenfs.com/en/fx_empire_176/4da3df0d9e18ae9d4c39bcdf8c2ac1cd",
+      "globalScore": 86,
+      "personalScore": 100,
+      "tags": [
+        "Finance",
+        "AI",
+        "Investing",
+        "Micron",
+        "Stocks"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/06/11/ripple-wants-ai-agents-to-pay-in-xrp-and-rlusd-the-market-is-still-mostly-usdc",
+      "tituloOriginal": "Ripple wants AI agents to pay in XRP and RLUSD. The market is still mostly USDC",
+      "tituloLimpio": "Ripple quiere que agentes de IA paguen en XRP y RLUSD.",
+      "resumen": "Ripple lanza herramientas para que agentes de IA realicen pagos en XRP y RLUSD, buscando competir con USDC en el mercado.",
+      "porQueImporta": "Explora la intersección entre IA y criptomonedas, con Ripple apostando por sus activos digitales para transacciones automatizadas.",
+      "publicadoEn": "2026-06-13T11:30:00.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/3fdb04bd3eb1c1413ad0d70e8d1e464ee4866ad9-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "Finance",
+        "AI",
+        "Crypto",
+        "Ripple",
+        "XRP"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/morphos-175m-raise-shows-where-the-last-of-the-crypto-vc-money-is-going?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Morpho's $175M raise shows where crypto VC money is flowing",
+      "tituloLimpio": "Morpho recauda $175M para infraestructura de crédito on-chain.",
+      "resumen": "La reciente recaudación de Morpho de $175 millones refleja la creciente inversión en infraestructura de crédito dentro de la cadena de bloques, impulsada por la adopción de stablecoins.",
+      "porQueImporta": "Muestra una tendencia clara en el capital de riesgo cripto hacia soluciones de finanzas descentralizadas (DeFi) y crédito.",
+      "publicadoEn": "2026-06-13T11:52:41.000Z",
+      "imagen": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9jcnlwdG8tZmlhdC1tb25leS1kb2xsYXIyLmpwZw==.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Finance",
+        "Crypto",
+        "Investing",
+        "DeFi",
+        "Morpho"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/ethereum-hoy-cotizacion-y-precio-del-eth-este-sabado-13-de-junio-de-2026_0_ZRBNQQswjY.html",
+      "tituloOriginal": "Ethereum hoy: cotización y precio del ETH este sábado 13 de junio de 2026",
+      "tituloLimpio": "Ethereum hoy: cotización y precio del ETH este sábado 13 de junio de 2026.",
+      "resumen": "Información actualizada sobre el valor de Ethereum (ETH) y un breve repaso a su origen e historia.",
+      "porQueImporta": "Datos relevantes para quienes siguen el mercado de criptomonedas, específicamente Ethereum.",
+      "publicadoEn": "2026-06-13T10:30:02.000Z",
+      "imagen": "https://www.clarin.com/img/2025/11/28/r3Jl2sk8t_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Finance",
+        "Crypto",
+        "Ethereum",
+        "Market"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/fantasma-merodea-adorni-maria-julia-milei_0_ktEANPWNrA.html",
+      "tituloOriginal": "Un fantasma merodea a Adorni: ser la María Julia de Milei",
+      "tituloLimpio": "Macri presiona para que Milei eche a Adorni, pero no aportará votos del PRO.",
+      "resumen": "Mauricio Macri insta al Presidente a remover a Adorni, pero se abstiene de apoyar mociones de censura en el Congreso, pidiendo en cambio 'defender el cambio'.",
+      "porQueImporta": "Revela tensiones internas dentro de la coalición gobernante en Argentina y las estrategias políticas en juego.",
+      "publicadoEn": "2026-06-13T09:01:28.000Z",
+      "imagen": "https://www.clarin.com/img/2015/12/01/ry7U0aiK4e_1200x630.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Politics",
+        "Macri",
+        "Milei"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/06/13/la-economia-en-serrucho-por-que-la-actividad-alterna-subas-y-bajas-y-que-se-preve-para-el-segundo-semestre/",
+      "tituloOriginal": "La economía en “serrucho”: por qué la actividad alterna subas y bajas y qué se prevé para el segundo semestre",
+      "tituloLimpio": "Economía argentina en 'serrucho': subas y bajas y previsiones para el segundo semestre.",
+      "resumen": "La actividad económica argentina muestra fluctuaciones mensuales. Las proyecciones de crecimiento para 2026 se reducen ante un consumo estancado y crédito restringido.",
+      "porQueImporta": "Ofrece una visión detallada de la dinámica económica actual en Argentina y las perspectivas a corto plazo.",
+      "publicadoEn": "2026-06-13T03:43:04.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/ZFRYYPLU6FCXDAINWYGBVAUNRQ.png?auth=f79b50264ef925f41345c9649a7708f1b8b7f1a9e68d4bd01cf01bb8e33b1077&smart=true&width=1408&height=768",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Economy",
+        "Outlook",
+        "Business"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/06/13/la-estrategia-de-manuel-adorni-bajo-la-lupa-como-se-gesto-y-por-que-desato-enojo-puertas-adentro/",
+      "tituloOriginal": "La estrategia de Manuel Adorni, bajo la lupa: cómo se gestó y por qué desató enojo puertas adentro",
+      "tituloLimpio": "La estrategia de Manuel Adorni bajo la lupa: cómo se gestó y por qué generó enojo.",
+      "resumen": "El jefe de Gabinete presentó su declaración jurada con inversiones en criptomonedas, pero sus explicaciones no convencieron y generaron malestar interno.",
+      "porQueImporta": "Detalla las controversias políticas y de transparencia que rodean a figuras clave del gobierno argentino.",
+      "publicadoEn": "2026-06-13T06:23:38.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/CZHTBZKX3VBXRELBQHP3OVXWP4.png?auth=ba1201580aa1273d92153d72867ee931a6259d29fb7e13f920eb43018f0f7294&smart=true&width=2752&height=1536",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Politics",
+        "Adorni",
+        "Government"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/campo/las-destrezas-menos-conocidas-del-celebre-autor-de-don-segundo-sombra-nid13062026/",
+      "tituloOriginal": "Las destrezas menos conocidas del célebre autor de Don Segundo Sombra",
+      "tituloLimpio": "Las destrezas menos conocidas del autor de Don Segundo Sombra.",
+      "resumen": "Se exploran facetas poco conocidas de Ricardo Güiraldes, autor de 'Don Segundo Sombra', destacando sus habilidades como bailarín, guitarrista y cantante.",
+      "porQueImporta": "Un perfil cultural interesante que va más allá de lo literario, mostrando la versatilidad de figuras históricas.",
+      "publicadoEn": "2026-06-13T10:00:00.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/62GD2F7O3FCLDAYG5IGKUHOVZE.jpg?auth=b2e4aa3a5c1f4eec5270cf5586672528df06f90b50750ef39b22ebd2e03614ed&smart=true&width=1333&height=2000",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Culture",
+        "Literature",
+        "Biography"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-06-13T12:19:15.438Z"
+  }
+}
