@@ -1,69 +1,69 @@
 {
   "fecha": "2026-06-13",
-  "generadoEn": "2026-06-13T17:33:43.462Z",
+  "generadoEn": "2026-06-13T18:08:26.881Z",
   "actualizacion": "14:00",
-  "resumenEjecutivo": "Guido, te preparé un resumen con lo más relevante del día. Hay novedades importantes sobre el fin de soporte de Apple para varios dispositivos, lo que podría impactar en el valor de reventa o la necesidad de actualización. En Argentina, la AFIP está endureciendo los controles sobre deducciones del Impuesto a las Ganancias, y hay un debate político fuerte en torno a la figura de Manuel Adorni. En el mundo de la IA, Google DeepMind está preocupado por la interacción masiva de agentes, y OpenAI enfrenta una investigación. También hay noticias financieras sobre Visa/Mastercard y el Bitcoin de SpaceX.",
+  "resumenEjecutivo": "Guido, te preparé un resumen con lo más relevante del día. Hay novedades importantes sobre el fin de soporte de Apple para varios dispositivos, lo que podría impactar en el valor de reventa o la necesidad de actualización. En Argentina, la AFIP está intensificando controles sobre deducciones del Impuesto a las Ganancias y hay un debate político fuerte sobre la figura de Manuel Adorni. En el mundo de la IA, Google DeepMind está preocupado por la interacción masiva de agentes autónomos y OpenAI enfrenta una investigación de fiscales generales. También hay un dato interesante sobre un nuevo crédito fiscal para becas y una polémica con los planes de ahorro de autos en Argentina.",
   "radarPersonal": [],
   "loImportante": [
-    "Apple dejará de dar soporte a 16 dispositivos este otoño, incluyendo varios modelos de Apple Watch.",
-    "La AFIP intensifica los controles sobre las deducciones del Impuesto a las Ganancias para empleados.",
-    "El PRO presiona al gobierno para la renuncia de Manuel Adorni, condicionando su apoyo político.",
+    "Apple dejará de dar soporte a 16 dispositivos este otoño, incluyendo una gran cantidad de Apple Watch.",
+    "La AFIP intensifica controles sobre deducciones en el Impuesto a las Ganancias para empleados.",
     "Google DeepMind investiga los riesgos de la interacción masiva de millones de agentes de IA.",
-    "OpenAI está bajo investigación por parte de fiscales generales de varios estados."
+    "OpenAI está bajo investigación por fiscales generales de varios estados de EE.UU.",
+    "El PRO presiona al gobierno argentino y condiciona su apoyo a la renuncia de Manuel Adorni."
   ],
   "oportunidades": [
     {
-      "id": "apple-devices-support-end",
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
       "categoria": "Investing",
-      "titulo": "Oportunidad de Inversión en Dispositivos Apple",
-      "detalle": "La finalización del soporte de software para 16 dispositivos Apple este otoño podría generar una mayor demanda de modelos más nuevos o de segunda mano en buen estado, afectando los precios y la disponibilidad.",
+      "titulo": "Nuevo Crédito Fiscal para Becas",
+      "detalle": "Un crédito fiscal de $1.700 permite redirigir fondos del IRS a becas, aunque 23 estados no participan.",
       "acciones": [
-        "Monitorear el mercado de reventa de Apple Watch y otros dispositivos afectados.",
-        "Evaluar la estrategia de actualización de dispositivos para optimizar costos."
+        "Investigar la elegibilidad y aplicación del crédito fiscal.",
+        "Evaluar oportunidades de inversión o donación en programas educativos afectados."
       ]
     },
     {
-      "id": "ai-agent-interaction-risk",
-      "categoria": "Automation",
-      "titulo": "Gestión de Riesgos en Sistemas Multi-Agente de IA",
-      "detalle": "La preocupación de Google DeepMind sobre la interacción de millones de agentes de IA subraya la necesidad de desarrollar marcos de seguridad y control robustos para evitar comportamientos imprevistos o perjudiciales.",
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Investing",
+      "titulo": "Polémica con Planes de Ahorro de Autos en Argentina",
+      "detalle": "Los planes de ahorro para autos en Argentina presentan una polémica por precios que superan el valor real de mercado de los 0 km.",
       "acciones": [
-        "Investigar las últimas investigaciones sobre seguridad y alineación de IA.",
-        "Considerar la implementación de protocolos de supervisión y auditoría para sistemas de IA complejos."
+        "Analizar el impacto en el mercado automotor argentino.",
+        "Evaluar si existen oportunidades de inversión o arbitraje relacionadas con esta distorsión."
       ]
     },
     {
-      "id": "argentina-tax-controls",
-      "categoria": "Investing",
-      "titulo": "Ajuste Fiscal en Argentina",
-      "detalle": "El aumento de controles de la AFIP sobre deducciones del Impuesto a las Ganancias podría afectar la planificación financiera de asalariados y empresas, requiriendo una revisión de las estrategias de optimización fiscal.",
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "Geico Gecko como Invitado de Podcast Generado por IA",
+      "detalle": "Geico utiliza su mascota, el Gecko, como invitado en un podcast generado por IA, como parte de una estrategia para ir más allá de la publicidad tradicional.",
       "acciones": [
-        "Revisar las políticas de deducción fiscal vigentes.",
-        "Consultar con asesores fiscales para asegurar el cumplimiento normativo."
+        "Estudiar la efectividad de esta estrategia de marketing innovadora.",
+        "Considerar la aplicación de IA para la creación de contenido interactivo en marketing."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "apple-device-obsolescence",
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Technology",
-      "titulo": "Obsolescencia de Dispositivos Apple",
-      "detalle": "La finalización del soporte de software para 16 dispositivos Apple este otoño significa que dejarán de recibir actualizaciones de seguridad y nuevas funcionalidades, volviéndolos más vulnerables y menos funcionales.",
-      "mitigacion": "Planificar la actualización de dispositivos afectados o considerar alternativas de software si es posible."
+      "titulo": "Fin de Soporte de Software para Dispositivos Apple",
+      "detalle": "Apple dejará de dar soporte de software a 16 dispositivos este otoño, afectando principalmente a la línea Apple Watch.",
+      "mitigacion": "Evaluar el ciclo de vida de los dispositivos Apple actuales y planificar posibles actualizaciones. Considerar el impacto en el valor de reventa de los dispositivos que pierden soporte."
     },
     {
-      "id": "openai-investigation",
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "Regulatory",
-      "titulo": "Investigación Regulatoria sobre OpenAI",
-      "detalle": "La investigación de OpenAI por parte de fiscales generales estatales podría derivar en nuevas regulaciones o restricciones sobre el desarrollo y uso de IA, afectando su modelo de negocio y la disponibilidad de sus productos.",
-      "mitigacion": "Monitorear de cerca el desarrollo de la investigación y sus posibles implicaciones legales y regulatorias."
+      "titulo": "Investigación de OpenAI por Fiscales Generales",
+      "detalle": "OpenAI enfrenta una investigación por parte de fiscales generales de varios estados de EE.UU. sobre sus políticas de publicidad y manejo de datos de salud.",
+      "mitigacion": "Monitorear el desarrollo de la investigación y sus posibles implicaciones regulatorias para OpenAI y el sector de la IA."
     },
     {
-      "id": "argentina-political-instability",
-      "categoria": "Argentina",
-      "titulo": "Inestabilidad Política en Argentina",
-      "detalle": "La presión del PRO y las tensiones políticas en torno a la figura de Manuel Adorni generan incertidumbre sobre la estabilidad del gobierno y la continuidad de las políticas económicas.",
-      "mitigacion": "Mantenerse informado sobre la evolución del panorama político argentino y sus posibles repercusiones económicas."
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "titulo": "Preocupación por la Interacción Masiva de Agentes de IA",
+      "detalle": "Google DeepMind está financiando investigación sobre los peligros potenciales de la interacción de millones de agentes de IA autónomos en línea.",
+      "mitigacion": "Mantenerse informado sobre los avances en la investigación de seguridad y alineación de IA, especialmente en lo referente a la interacción de múltiples agentes."
     }
   ],
   "conexiones": [],
@@ -75,15 +75,17 @@
       "url": "https://www.macrumors.com/2026/06/13/these-16-apple-devices-lose-software-support-this-fall/",
       "tituloOriginal": "Have One of These 16 Apple Devices? Software Support Ends This Fall",
       "tituloLimpio": "Apple dejará de dar soporte a 16 dispositivos este otoño",
-      "resumen": "Apple finalizará el soporte de software para 16 dispositivos este otoño, afectando a cuatro líneas de productos, siendo el Apple Watch el más impactado.",
-      "porQueImporta": "Es crucial para los usuarios saber qué dispositivos dejarán de recibir actualizaciones, lo que puede afectar la seguridad y funcionalidad, y podría influir en decisiones de compra o actualización.",
+      "resumen": "Apple finalizará el soporte de software para 16 dispositivos este otoño, incluyendo una cantidad récord de modelos de Apple Watch. Esto se debe a los anuncios de las nuevas versiones de macOS, iPadOS, tvOS y watchOS.",
+      "porQueImporta": "Implica que estos dispositivos dejarán de recibir actualizaciones de seguridad y nuevas funcionalidades, lo que podría afectar su usabilidad y valor a largo plazo.",
       "publicadoEn": "2026-06-13T15:00:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "Soporte de Software",
-        "Dispositivos"
+        "soporte",
+        "software",
+        "dispositivos",
+        "actualizaciones"
       ],
       "tambienVistoEn": []
     },
@@ -93,17 +95,18 @@
       "fuente": "Ambito",
       "url": "https://www.ambito.com/economia/impuesto-las-ganancias-arca-detecta-inconsistencias-deducciones-y-aumenta-controles-empleados-n6288263",
       "tituloOriginal": "Impuesto a las Ganancias: ARCA detecta inconsistencias en deducciones y aumenta controles sobre empleados",
-      "tituloLimpio": "AFIP aumenta controles sobre deducciones del Impuesto a las Ganancias",
-      "resumen": "El organismo recaudador detectó inconsistencias en las deducciones presentadas por empleados de altos cargos, quienes habrían incluido gastos de vestimenta para pagar menos impuestos.",
-      "porQueImporta": "Implica un endurecimiento de los controles fiscales que podría afectar a empleados y requerir mayor rigurosidad en la documentación de gastos deducibles.",
+      "tituloLimpio": "AFIP intensifica controles sobre deducciones en Impuesto a las Ganancias",
+      "resumen": "El organismo recaudador argentino ha detectado inconsistencias en las deducciones presentadas por empleados de altos cargos, quienes habrían incluido gastos de vestimenta para pagar menos impuestos. Se aumentarán los controles.",
+      "porQueImporta": "Afecta directamente a empleados en relación de dependencia que buscan optimizar su carga fiscal, indicando un endurecimiento en la fiscalización.",
       "publicadoEn": "2026-06-13T10:00:00.000Z",
-      "globalScore": 94,
+      "globalScore": 88,
       "personalScore": 100,
       "tags": [
         "Argentina",
         "AFIP",
         "Impuesto a las Ganancias",
-        "Controles Fiscales"
+        "controles",
+        "deducciones"
       ],
       "tambienVistoEn": []
     },
@@ -113,17 +116,18 @@
       "fuente": "Marketing Dive",
       "url": "https://www.marketingdive.com/news/geico-gecko-steps-into-new-role-as-ai-generated-podcast-guest/822767/",
       "tituloOriginal": "Geico Gecko steps into new role as AI-generated podcast guest",
-      "tituloLimpio": "Geico Gecko como invitado de podcast generado por IA",
-      "resumen": "La mascota de Geico, el Gecko, aparece en un podcast generado por IA como parte de una estrategia de marketing para ir más allá de la publicidad tradicional.",
-      "porQueImporta": "Un ejemplo innovador del uso de IA en marketing y publicidad, mostrando cómo las marcas están experimentando con nuevas plataformas.",
+      "tituloLimpio": "Geico Gecko, invitado de podcast generado por IA",
+      "resumen": "La aseguradora Geico utiliza a su mascota, el Gecko, como un invitado en un podcast generado por inteligencia artificial. Esta iniciativa busca ir más allá de la publicidad tradicional.",
+      "porQueImporta": "Demuestra una aplicación innovadora de la IA en marketing de contenidos y branding, explorando nuevas formas de engagement con la audiencia.",
       "publicadoEn": "2026-06-12T14:32:00.000Z",
       "globalScore": 88,
       "personalScore": 100,
       "tags": [
         "Marketing",
-        "AI",
-        "Publicidad",
-        "Geico"
+        "IA",
+        "Geico",
+        "podcast",
+        "contenido"
       ],
       "tambienVistoEn": []
     },
@@ -133,17 +137,39 @@
       "fuente": "TechCrunch AI",
       "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
       "tituloOriginal": "OpenAI faces investigation from state attorneys general",
-      "tituloLimpio": "OpenAI enfrenta investigación de fiscales generales estatales",
-      "resumen": "Fiscales generales de varios estados están investigando a OpenAI, consultando sobre políticas de publicidad y manejo de datos de salud.",
-      "porQueImporta": "Una investigación de esta magnitud podría tener implicaciones significativas para OpenAI en términos de regulación y operaciones futuras.",
+      "tituloLimpio": "OpenAI investigada por fiscales generales de EE.UU.",
+      "resumen": "OpenAI está siendo investigada por fiscales generales de varios estados de Estados Unidos. La investigación abarca desde sus políticas de publicidad hasta el manejo de datos de salud.",
+      "porQueImporta": "Representa un escrutinio regulatorio significativo para una de las empresas líderes en IA, con posibles implicaciones para el desarrollo y la implementación de sus tecnologías.",
       "publicadoEn": "2026-06-13T16:47:18.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "AI",
+        "IA",
         "OpenAI",
-        "Regulación",
-        "Investigación"
+        "regulación",
+        "investigación",
+        "EEUU"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+      "tituloOriginal": "My yard is dying, so I made an app for that",
+      "tituloLimpio": "Desarrollan app de jardinería con IA tras problemas personales",
+      "resumen": "Un usuario desarrolló una aplicación de jardinería utilizando Gemini de Google después de enfrentar problemas con su propio jardín. La herramienta generó una app funcional, aunque con algunos errores iniciales.",
+      "porQueImporta": "Muestra el potencial de las herramientas de IA generativa para la creación rápida de aplicaciones y soluciones personalizadas, incluso para tareas cotidianas.",
+      "publicadoEn": "2026-06-13T13:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "desarrollo",
+        "aplicaciones",
+        "Google Gemini",
+        "productividad"
       ],
       "tambienVistoEn": []
     },
@@ -153,17 +179,18 @@
       "fuente": "MIT Technology Review AI",
       "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
       "tituloOriginal": "Google DeepMind is worried about what happens when millions of agents start to interact",
-      "tituloLimpio": "Google DeepMind preocupado por la interacción masiva de agentes de IA",
-      "resumen": "Google DeepMind está financiando investigación sobre los peligros potenciales de la interacción entre millones de agentes de IA en línea sin supervisión humana directa.",
-      "porQueImporta": "Plantea interrogantes sobre la seguridad y el control de sistemas de IA cada vez más autónomos y conectados.",
+      "tituloLimpio": "Google DeepMind preocupado por interacción masiva de agentes de IA",
+      "resumen": "Google DeepMind está financiando investigación sobre los peligros potenciales de la interacción entre millones de agentes de IA autónomos en línea. Buscan entender y mitigar los riesgos asociados.",
+      "porQueImporta": "Aborda una preocupación emergente sobre la escalabilidad y el comportamiento colectivo de sistemas de IA, crucial para la seguridad y el control futuro.",
       "publicadoEn": "2026-06-11T11:00:45.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "AI",
+        "IA",
         "Google DeepMind",
-        "Seguridad IA",
-        "Agentes Autónomos"
+        "seguridad",
+        "agentes autónomos",
+        "riesgos"
       ],
       "tambienVistoEn": []
     },
@@ -173,17 +200,18 @@
       "fuente": "9to5Mac",
       "url": "https://9to5mac.com/2026/06/13/heypolo-smarter-find-my-app-for-family-friends-co-workers/",
       "tituloOriginal": "HeyPolo is a smarter Find My app for family, friends, and co-workers",
-      "tituloLimpio": "HeyPolo: una app para localizar personas con más privacidad",
-      "resumen": "HeyPolo se presenta como una alternativa a 'Find My' de Apple, ofreciendo funciones más inteligentes y mayor control de privacidad para compartir ubicación.",
-      "porQueImporta": "Para quienes buscan alternativas o complementos a las herramientas de localización de Apple, especialmente con un enfoque en la privacidad.",
+      "tituloLimpio": "HeyPolo: una app alternativa a Find My de Apple",
+      "resumen": "HeyPolo se presenta como una alternativa a la app 'Buscar' (Find My) de Apple, ofreciendo funciones más inteligentes y mayor control de privacidad para compartir la ubicación con familiares y amigos.",
+      "porQueImporta": "Ofrece una opción para usuarios que buscan funcionalidades avanzadas o mayor privacidad en la localización de personas, compitiendo con las soluciones nativas de Apple.",
       "publicadoEn": "2026-06-13T16:00:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "Apps",
-        "Privacidad",
-        "Localización"
+        "apps",
+        "privacidad",
+        "localización",
+        "Find My"
       ],
       "tambienVistoEn": []
     },
@@ -193,17 +221,18 @@
       "fuente": "AppleInsider",
       "url": "https://appleinsider.com/inside/macbook-neo/vs/macbook-neo-vs-dell-xps-13-599-budget-battle-compared?utm_source=rss",
       "tituloOriginal": "MacBook Neo vs Dell XPS 13: $599 budget battle, compared",
-      "tituloLimpio": "Comparativa: MacBook Neo vs. Dell XPS 13 en el segmento económico",
-      "resumen": "Dell rediseñó el XPS 13 para competir directamente con el MacBook Neo de Apple en precio, comparando especificaciones y valor de los modelos de entrada.",
-      "porQueImporta": "Ofrece una visión comparativa para quienes buscan portátiles de gama de entrada, evaluando la competencia directa entre Apple y Dell.",
+      "tituloLimpio": "Comparativa: MacBook Neo vs. Dell XPS 13 de bajo costo",
+      "resumen": "Se compara el MacBook Neo de Apple con el nuevo Dell XPS 13 de entrada, ambos apuntando a un segmento de precio de $599. Se analizan especificaciones y valor.",
+      "porQueImporta": "Relevante para quienes buscan portátiles asequibles, comparando directamente la oferta de Apple con un competidor directo en precio y características.",
       "publicadoEn": "2026-06-13T12:17:51.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "Laptops",
-        "Comparativa",
-        "Tecnología"
+        "MacBook",
+        "Dell",
+        "comparativa",
+        "portátiles"
       ],
       "tambienVistoEn": []
     },
@@ -211,20 +240,21 @@
       "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
       "categoria": "Finance",
       "fuente": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/visa-mastercard-ma-granted-preliminary-171457721.html",
-      "tituloOriginal": "Visa and Mastercard (MA) Granted Preliminary Approval for Swipe Fee Settlement",
-      "tituloLimpio": "Visa y Mastercard obtienen aprobación preliminar para acuerdo de tarifas de swipe",
-      "resumen": "Visa y Mastercard han recibido aprobación preliminar para un acuerdo sobre las tarifas de swipe, un tema clave en el sector de pagos.",
-      "porQueImporta": "Representa un avance significativo en una disputa legal prolongada que afecta a comercios y procesadores de pago.",
-      "publicadoEn": "2026-06-13T17:14:57.000Z",
-      "imagen": "https://media.zenfs.com/en/insidermonkey.com/e3f229790d8c1350ca6d400f362c381c",
+      "url": "https://finance.yahoo.com/economy/policy/articles/1-700-tax-credit-lets-174500593.html",
+      "tituloOriginal": "A new $1,700 tax credit lets you reroute money from the IRS to scholarships — but 23 states are sitting it out",
+      "tituloLimpio": "Nuevo crédito fiscal permite redirigir fondos del IRS a becas",
+      "resumen": "Un nuevo crédito fiscal de $1.700 permite a los contribuyentes redirigir dinero que iría al IRS hacia becas educativas. Sin embargo, 23 estados no participan de esta iniciativa.",
+      "porQueImporta": "Presenta una oportunidad para financiar la educación a través de mecanismos fiscales, aunque su alcance geográfico es limitado.",
+      "publicadoEn": "2026-06-13T17:45:00.000Z",
+      "imagen": "https://media.zenfs.com/en/moneywise_327/23fc6d8a4ea1c27dcc1153ad9d28221a",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Finanzas",
-        "Visa",
-        "Mastercard",
-        "Pagos"
+        "crédito fiscal",
+        "becas",
+        "educación",
+        "IRS"
       ],
       "tambienVistoEn": []
     },
@@ -232,20 +262,21 @@
       "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
       "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/06/13/here-s-what-spacex-s-ipo-means-for-its-usd1-3-billion-bitcoin-reserve",
-      "tituloOriginal": "Here's what SpaceX's IPO means for its $1.3 billion bitcoin reserve",
-      "tituloLimpio": "IPO de SpaceX y su reserva de Bitcoin de USD 1.3 mil millones",
-      "resumen": "La salida a bolsa de SpaceX y su considerable reserva de Bitcoin plantean preguntas sobre la estrategia corporativa de tenencia de criptomonedas.",
-      "porQueImporta": "Un hito importante para la adopción corporativa de Bitcoin y su impacto en el mercado de criptomonedas y las finanzas tradicionales.",
-      "publicadoEn": "2026-06-13T17:00:16.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/163774b1444abc52081546c972d6d021d51f57bd-4076x2913.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "globalScore": 92,
+      "url": "https://www.coindesk.com/tech/2026/06/13/crypto-s-next-billion-dollar-hacker-may-move-at-superhuman-speed",
+      "tituloOriginal": "Crypto’s next billion-dollar hacker may move at superhuman speed",
+      "tituloLimpio": "La IA podría potenciar a los hackers de criptomonedas",
+      "resumen": "La nueva versión de Claude Fable 5 de Anthropic, con potentes herramientas cibernéticas, podría ser utilizada por hackers para operar a 'velocidad sobrehumana'. El sector DeFi es el más expuesto.",
+      "porQueImporta": "Advierte sobre el uso malintencionado de la IA en ciberseguridad, especialmente en un sector tan vulnerable como el de las criptomonedas, aumentando el riesgo de fraudes y hackeos.",
+      "publicadoEn": "2026-06-13T18:00:00.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/3be19738ab3221104278b2e6521aeccdbdcf8ea4-1280x853.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Finanzas",
-        "Bitcoin",
-        "SpaceX",
-        "Criptomonedas"
+        "IA",
+        "criptomonedas",
+        "ciberseguridad",
+        "hackers"
       ],
       "tambienVistoEn": []
     },
@@ -256,17 +287,18 @@
       "url": "https://cointelegraph.com/news/anthropic-mythos-audit-no-serious-bugs-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "tituloOriginal": "Anthropic's Mythos AI finds no more 'serious' bugs in Zcash: Wilcox",
       "tituloLimpio": "IA de Anthropic no encuentra 'bugs serios' en Zcash",
-      "resumen": "El modelo Mythos de Anthropic no detectó más errores graves en el protocolo de privacidad Zcash, según su fundador.",
-      "porQueImporta": "Indica un avance en la auditoría de seguridad de protocolos de criptomonedas mediante IA, reforzando la confianza en Zcash.",
+      "resumen": "El modelo Mythos AI de Anthropic no detectó 'bugs serios' adicionales en el protocolo Zcash, tras la corrección de un error previo. Así lo confirmó el fundador de Zcash, Zooko Wilcox.",
+      "porQueImporta": "Indica la efectividad de las herramientas de IA en la auditoría de código y seguridad de protocolos criptográficos, reforzando la confianza en la plataforma Zcash.",
       "publicadoEn": "2026-06-13T14:45:43.000Z",
       "imagen": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1ob3ctY29vcmRpbmF0ZWQtcHVtcC1hbmQtZHVtcC1zY2hlbWVzLXN0aWxsLXRocml2ZS16Y2FzaC5qcGc=.jpg",
       "globalScore": 90,
       "personalScore": 100,
       "tags": [
-        "AI",
-        "Criptomonedas",
+        "Finanzas",
+        "IA",
         "Zcash",
-        "Seguridad"
+        "seguridad",
+        "criptomonedas"
       ],
       "tambienVistoEn": []
     },
@@ -276,18 +308,19 @@
       "fuente": "Clarin Economia",
       "url": "https://www.clarin.com/economia/asalariados-privados-castigados-perdida-empleos-registrados_0_9VCYZigKCi.html",
       "tituloOriginal": "Asalariados privados: los más castigados por la pérdida de empleos registrados",
-      "tituloLimpio": "Empleo registrado en Argentina: caída de casi 200.000 puestos bajo el gobierno de Milei",
-      "resumen": "Desde el inicio de la gestión de Milei, se perdieron cerca de 200.000 empleos privados registrados, con una pausa en la creación de empleo en los últimos 10 meses.",
-      "porQueImporta": "Refleja el impacto de las políticas económicas actuales en el mercado laboral argentino, con una tendencia negativa persistente.",
+      "tituloLimpio": "Empleos registrados en Argentina: caída para asalariados privados",
+      "resumen": "En lo que va del gobierno de Milei, se perdieron casi 200.000 empleos privados registrados en Argentina. Tras una leve recuperación el año pasado, la creación de empleo se estancó hace 10 meses.",
+      "porQueImporta": "Refleja un impacto negativo en el mercado laboral argentino, particularmente para los trabajadores asalariados del sector privado, bajo la actual administración.",
       "publicadoEn": "2026-06-13T14:46:30.000Z",
       "imagen": "https://www.clarin.com/img/2013/06/24/Byiq5z1Ve_1200x630.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Economía",
-        "Empleo",
-        "Gobierno Milei"
+        "empleo",
+        "economía",
+        "mercado laboral",
+        "Milei"
       ],
       "tambienVistoEn": []
     },
@@ -297,18 +330,19 @@
       "fuente": "Clarin Politica",
       "url": "https://www.clarin.com/politica/zago-adorni-interpelacion-daremos-quorum-sentimos-tomados-boludos-seguro-cae-sesion_0_gElkCO8Whq.html",
       "tituloOriginal": "Zago sobre Adorni y su interpelación: \"Daremos quórum porque nos sentimos muy tomados de boludos, pero seguro cae antes de la sesión\"",
-      "tituloLimpio": "Zago sobre Adorni: \"Daremos quórum pero seguro cae antes de la sesión\"",
-      "resumen": "El exjefe de bloque libertario critica al Jefe de Gabinete, Manuel Adorni, y anticipa que la interpelación no prosperará.",
-      "porQueImporta": "Muestra tensiones internas y críticas dentro del espacio político gobernante hacia figuras clave del gobierno.",
+      "tituloLimpio": "El PRO presiona al gobierno por la renuncia de Adorni",
+      "resumen": "El PRO está presionando al gobierno argentino y condiciona su apoyo político a la renuncia del Jefe de Gabinete, Manuel Adorni. Legisladores del partido podrían apoyar un pedido de interpelación.",
+      "porQueImporta": "Indica una tensión política interna y un posible debilitamiento del apoyo al gobierno actual, centrado en la figura del Jefe de Gabinete.",
       "publicadoEn": "2026-06-13T15:35:08.000Z",
       "imagen": "https://www.clarin.com/img/2026/04/30/xRxFYNaOP_1200x630__1.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Política",
-        "Manuel Adorni",
-        "Congreso"
+        "política",
+        "PRO",
+        "Adorni",
+        "gobierno"
       ],
       "tambienVistoEn": []
     },
@@ -319,17 +353,18 @@
       "url": "https://www.infobae.com/economia/2026/06/13/en-medio-de-la-guerra-de-precios-para-vender-mas-autos-surgio-una-polemica-con-los-planes-de-ahorro/",
       "tituloOriginal": "En medio de la guerra de precios para vender más autos, surgió una polémica con los planes de ahorro",
       "tituloLimpio": "Polémica por planes de ahorro de autos en Argentina",
-      "resumen": "En medio de una guerra de precios, surge una controversia sobre los planes de ahorro para autos, que resultan ser casi un 25% más caros que el valor real de un 0 km.",
-      "porQueImporta": "Afecta a los consumidores que utilizan estos planes para adquirir vehículos, generando dudas sobre su conveniencia y transparencia.",
+      "resumen": "En Argentina, surgió una polémica en torno a los planes de ahorro para la compra de autos, ya que el precio actual de las cuotas es casi un 25% más alto que el valor real de un 0 km.",
+      "porQueImporta": "Afecta a un sistema de compra de autos muy popular en Argentina, generando dudas sobre su transparencia y conveniencia para los ahorristas.",
       "publicadoEn": "2026-06-13T15:55:32.000Z",
       "imagen": "https://www.infobae.com/resizer/v2/EVF7ETZDO5HETIA4RDI6VCHXB4.jpg?auth=34bf2f23148456e48d8cc255febf8f163ebf1b22e8b9eba28538df5eca33cb14&smart=true&width=5243&height=2949",
       "globalScore": 90,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Economía",
-        "Autos",
-        "Planes de Ahorro"
+        "autos",
+        "planes de ahorro",
+        "economía",
+        "polémica"
       ],
       "tambienVistoEn": []
     },
@@ -339,18 +374,19 @@
       "fuente": "Infobae Politica",
       "url": "https://www.infobae.com/politica/2026/06/13/el-pro-presiona-al-gobierno-y-condiciona-su-apoyo-politico-a-la-renuncia-de-manuel-adorni/",
       "tituloOriginal": "El PRO presiona al Gobierno y condiciona su apoyo político a la renuncia de Manuel Adorni",
-      "tituloLimpio": "El PRO condiciona su apoyo político a la renuncia de Manuel Adorni",
-      "resumen": "El PRO presiona al gobierno exigiendo la renuncia de Manuel Adorni, señalando que su permanencia es un \"papelón\".",
-      "porQueImporta": "Indica una posible fractura en la coalición gobernante y un desafío a la autoridad del Jefe de Gabinete.",
+      "tituloLimpio": "El PRO condiciona apoyo político a renuncia de Adorni",
+      "resumen": "El PRO exige la renuncia de Manuel Adorni como Jefe de Gabinete para mantener su apoyo político al gobierno argentino. Desde el entorno de Macri consideran la situación un 'papelón'.",
+      "porQueImporta": "Muestra una fractura en la coalición gobernante y la posibilidad de que el gobierno pierda apoyo legislativo clave si Adorni no renuncia.",
       "publicadoEn": "2026-06-13T17:16:20.000Z",
       "imagen": "https://www.infobae.com/resizer/v2/NPLV5JKGMJAJ5EXB6IPC5CPY5Y.png?auth=4976e89829720cb69d4cb8517d74b81de3d868289e4335aed4db5e3472512b4c&smart=true&width=2752&height=1536",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Política",
+        "política",
         "PRO",
-        "Manuel Adorni"
+        "Adorni",
+        "gobierno"
       ],
       "tambienVistoEn": []
     },
@@ -358,20 +394,21 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/dolar-como-se-ajusta-la-banda-cambiaria-en-julio-tras-la-desaceleracion-de-la-inflacion-nid13062026/",
-      "tituloOriginal": "Dólar: cómo se mueve la banda cambiaria en julio tras la desaceleración de la inflación",
-      "tituloLimpio": "Ajuste de la banda cambiaria del dólar en Argentina para julio",
-      "resumen": "Tras la desaceleración de la inflación, la banda cambiaria del dólar en Argentina se ajustará un 2,1% mensual en julio.",
-      "porQueImporta": "Información clave para entender la política cambiaria del gobierno y su impacto en la economía.",
-      "publicadoEn": "2026-06-13T16:45:58.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/6NOUQ63QVVDTPA2IEBKGELZGK4.png?auth=6df236669724626cea21b68da81153c554d0f0350350863ef909aefb0b466f95&smart=true&width=789&height=467",
+      "url": "https://www.lanacion.com.ar/economia/campo/mi-intendente-donde-esta-el-hambre-detuvieron-a-tres-sospechosos-tras-un-resonante-caso-que-viralizo-nid12062026/",
+      "tituloOriginal": "“Mi intendente, ¿dónde está el hambre?”: detuvieron a tres sospechosos tras un resonante caso de un delito que viralizó un productor",
+      "tituloLimpio": "Detienen sospechosos por faena ilegal de vaca en La Pampa",
+      "resumen": "Tres personas fueron detenidas en General Acha, La Pampa, tras la denuncia de un productor agropecuario sobre la faena ilegal de una vaca preñada en su campo, caso que se viralizó.",
+      "porQueImporta": "Aborda un incidente de inseguridad rural que generó repercusión social y mediática en Argentina, resultando en detenciones.",
+      "publicadoEn": "2026-06-13T17:52:37.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/CHOSNO72E5EP3FT57GLO3O2W44.png?auth=0f88159253df303231ea7830b5f269bb20ada6c99904d550b9d40e40a3e164f2&smart=true&width=1522&height=878",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Economía",
-        "Dólar",
-        "Inflación"
+        "campo",
+        "seguridad rural",
+        "delito",
+        "La Pampa"
       ],
       "tambienVistoEn": []
     },
@@ -381,43 +418,25 @@
       "fuente": "La Nacion Politica",
       "url": "https://www.lanacion.com.ar/politica/sube-la-presion-interna-contra-adorni-y-el-gobierno-se-encomienda-a-que-la-oposicion-no-consiga-los-nid12062026/",
       "tituloOriginal": "Sube la presión interna contra Adorni y el Gobierno se encomienda a que la oposición no consiga los votos para removerlo",
-      "tituloLimpio": "Presión interna contra Adorni y el gobierno busca apoyo opositor",
-      "resumen": "Aumenta la presión interna contra Manuel Adorni, mientras el gobierno confía en que la oposición no logre los votos para removerlo.",
-      "porQueImporta": "Detalla las complejas negociaciones políticas y la fragilidad de la posición del Jefe de Gabinete.",
+      "tituloLimpio": "Presión interna contra Adorni y el gobierno busca votos para retenerlo",
+      "resumen": "Aumenta la presión interna contra Manuel Adorni. El gobierno argentino confía en que la oposición no consiga los votos necesarios en el Congreso para removerlo de su cargo.",
+      "porQueImporta": "Detalla la estrategia del gobierno argentino para resistir la presión política sobre Adorni y la incertidumbre sobre el resultado de posibles votaciones en el Congreso.",
       "publicadoEn": "2026-06-13T17:25:22.000Z",
       "imagen": "https://resizer.glanacion.com/resizer/v2/KGEQKX5DSNDNPIK5IWWSTBF4HI.JPG?auth=2e45c7c2532dcf279eb950a49cb87d44dabfda54a21b97eb36f77ffa320ae562&smart=true&width=1478&height=1109",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Política",
-        "Manuel Adorni",
-        "Gobierno"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
-      "categoria": "Marketing",
-      "fuente": "Adweek",
-      "url": "https://www.adweek.com/brand-marketing/5-marketers-moves-to-know-this-week-knix-bayer-and-more/",
-      "tituloOriginal": "5 Marketer Moves to Know This Week: Knix, Bayer, and More",
-      "tituloLimpio": "Movimientos clave de 5 marketers esta semana",
-      "resumen": "Un resumen semanal de los nombramientos de liderazgo en marketing más importantes en EE. UU. y a nivel global, incluyendo Knix y Bayer.",
-      "porQueImporta": "Para estar al tanto de los cambios en el liderazgo de empresas relevantes en el ámbito del marketing.",
-      "publicadoEn": "2026-06-12T12:57:29.000Z",
-      "globalScore": 82,
-      "personalScore": 100,
-      "tags": [
-        "Marketing",
-        "Liderazgo",
-        "Nombramientos"
+        "política",
+        "Adorni",
+        "Congreso",
+        "gobierno"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-06-13T17:33:43.462Z"
+    "generadoEn": "2026-06-13T18:08:26.881Z"
   }
 }
