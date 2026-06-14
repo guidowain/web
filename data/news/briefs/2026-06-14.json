@@ -1,68 +1,69 @@
 {
   "fecha": "2026-06-14",
-  "generadoEn": "2026-06-14T14:10:16.182Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "Las noticias de hoy giran en torno a avances y debates en Inteligencia Artificial, con Google DeepMind preocupado por la interacción de millones de agentes y el rol de Amazon en la prohibición de modelos de Anthropic. En el ámbito de Apple, se destaca la llegada de una nueva app de Siri con iOS 27 y un insólito caso de un jugador de la NFL con auriculares Beats no lanzados. En Argentina, el foco está en la inflación, la dificultad económica generalizada y medidas tributarias para la ganadería, además de movimientos políticos internos. En finanzas, se analiza la tokenización y el rendimiento de los plazos fijos, mientras que en marketing, Geico usa IA para su mascota.",
+  "generadoEn": "2026-06-14T17:33:43.675Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Las noticias de hoy se centran en avances y preocupaciones en IA, novedades de Apple con posibles lanzamientos de hardware y software, y el impacto de la economía argentina con aumentos en el transporte público y análisis inflacionarios. También hay movimientos en el mundo del marketing y finanzas.",
   "radarPersonal": [],
   "loImportante": [
-    "La nueva app de Siri y las funciones de Apple Intelligence en iOS 27 marcan un paso importante para la integración de IA en los dispositivos Apple.",
-    "La preocupación de Google DeepMind sobre la interacción masiva de agentes de IA subraya los desafíos de seguridad y alineación a futuro.",
-    "La situación económica argentina sigue siendo crítica, con la mayoría de los ciudadanos enfrentando dificultades y postergando gastos.",
-    "El debate sobre la tokenización en finanzas y su regulación por parte de la SEC es clave para el futuro de los activos digitales."
+    "Aumento de tarifas de colectivos y trenes en el AMBA.",
+    "Análisis sobre la inflación en Argentina y el plan económico.",
+    "Posibles nuevos dispositivos de Apple: iPhone Fold y MacBook con pantalla táctil.",
+    "Preocupación de Google DeepMind por la interacción de millones de agentes de IA.",
+    "Microsoft evalúa escindir la unidad Xbox."
   ],
   "oportunidades": [
     {
-      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
-      "categoria": "Marketing",
-      "titulo": "Geico Gecko se convierte en un invitado de podcast generado por IA",
-      "detalle": "Geico está utilizando la IA para que su mascota, el Gecko, aparezca en un podcast, buscando ir más allá de la publicidad tradicional y explorar nuevas formas de engagement.",
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "titulo": "Carrera de empresas de IA hacia la salida a bolsa",
+      "detalle": "Varias startups de IA buscan aprovechar el momento para salir a bolsa, siguiendo el ejemplo de SpaceX.",
       "acciones": [
-        "Analizar cómo otras marcas están usando IA para la creación de contenido y la interacción con el público.",
-        "Considerar la aplicación de tácticas similares para humanizar o dar voz a marcas o productos."
+        "Monitorear las empresas de IA que planean IPOs.",
+        "Evaluar oportunidades de inversión en el sector."
       ]
     },
     {
-      "id": "cointelegraph-aHR0cHM6Ly93d3cuY29p",
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
       "categoria": "Investing",
-      "titulo": "La SEC busca agilizar la tokenización, pero la regulación podría ser débil",
-      "detalle": "Expertos legales sugieren que la estrategia de la SEC para facilitar la tokenización mediante exenciones no es tan robusta como una regla formal, lo que podría limitar su resiliencia a largo plazo.",
+      "titulo": "Crecimiento de dividendos mensuales",
+      "detalle": "Un activo de dividendos mensuales superó a SCHD en un 38% en la última década.",
       "acciones": [
-        "Monitorear de cerca la evolución regulatoria de la tokenización.",
-        "Evaluar el impacto potencial en las inversiones en activos digitales y la infraestructura blockchain."
+        "Investigar el activo mencionado.",
+        "Comparar su rendimiento con ETFs de dividendos."
       ]
     },
     {
-      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
-      "categoria": "Argentina",
-      "titulo": "Medida tributaria esperada para la producción ganadera",
-      "detalle": "La modificación en la valuación de la hacienda de invernada alivia la carga fiscal para el sector ganadero a partir del ejercicio 2026.",
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Automation",
+      "titulo": "Aerodrome convierte liquidez en mercado de predicción",
+      "detalle": "La nueva función 'Predictive Allocation' incentiva a los participantes a anticipar dónde se necesitará liquidez.",
       "acciones": [
-        "Investigar los detalles de la nueva medida tributaria y su impacto específico en los costos y rentabilidad.",
-        "Considerar cómo esto podría afectar las inversiones o la estrategia en el sector agropecuario argentino."
+        "Explorar la plataforma Aerodrome.",
+        "Evaluar el potencial de los mercados de predicción."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "categoria": "AI",
-      "titulo": "Google DeepMind preocupado por la interacción de millones de agentes de IA",
-      "detalle": "La compañía está financiando investigación sobre los peligros potenciales de que millones de agentes de IA interactúen entre sí online sin supervisión humana directa.",
-      "mitigacion": "Mantenerse informado sobre los avances en seguridad y alineación de IA. Evaluar el riesgo de comportamientos emergentes y no deseados en sistemas autónomos."
-    },
-    {
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
-      "titulo": "Investigación de Amazon habría influido en la prohibición de modelos de Anthropic",
-      "detalle": "Según reportes, la investigación de ciberseguridad de Amazon y conversaciones entre Andy Jassy y la Casa Blanca habrían sido un factor clave para que Anthropic restrinja el acceso a sus modelos.",
-      "mitigacion": "Estar atento a las implicaciones geopolíticas y de seguridad nacional en el desarrollo y acceso a tecnologías de IA avanzadas. Evaluar la dependencia de proveedores específicos."
+      "titulo": "Restricciones a la IA por investigación de seguridad",
+      "detalle": "Investigación de seguridad de Amazon habría llevado a la prohibición de acceso a modelos de IA de Anthropic por parte de la Casa Blanca.",
+      "mitigacion": "Seguir de cerca las regulaciones y políticas de exportación de tecnología de IA."
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "titulo": "Preocupación por la interacción de millones de agentes de IA",
+      "detalle": "Google DeepMind está financiando investigación sobre los peligros potenciales de la interacción masiva de agentes de IA en línea.",
+      "mitigacion": "Mantenerse informado sobre los avances en seguridad y alineación de IA."
     },
     {
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Market",
-      "titulo": "Plazo fijo: bajas tasas obligan a invertir sumas altas para rendimientos relevantes",
-      "detalle": "Las tasas de interés bajas en Argentina hacen que sea necesario inmovilizar capitales significativos para obtener ganancias notables con los plazos fijos.",
-      "mitigacion": "Explorar alternativas de inversión con mayor potencial de rendimiento, considerando el riesgo y la inflación. Diversificar el portafolio más allá de los instrumentos de renta fija tradicionales."
+      "titulo": "Aumento de tarifas de transporte público en AMBA",
+      "detalle": "Nuevas subas en colectivos y trenes del Área Metropolitana de Buenos Aires.",
+      "mitigacion": "Considerar el impacto de estos aumentos en el costo de vida y la logística."
     }
   ],
   "conexiones": [],
@@ -73,9 +74,9 @@
       "fuente": "MacRumors",
       "url": "https://www.macrumors.com/2026/06/13/antonee-robinson-beats-headphones/",
       "tituloOriginal": "Antonee Robinson Shows Off Unreleased Two-Tone Beats Over-Ear Headphones at the World Cup",
-      "tituloLimpio": "Jugador de la NFL es visto usando auriculares Beats no lanzados",
-      "resumen": "El futbolista Antonee Robinson fue fotografiado usando una versión bicolor de auriculares Beats over-ear que aún no han sido lanzados oficialmente.",
-      "porQueImporta": "Indica un posible próximo lanzamiento de Apple en su línea de audio Beats, con un diseño novedoso que podría atraer a un público más amplio.",
+      "tituloLimpio": "Jugador de fútbol muestra audífonos Beats no lanzados",
+      "resumen": "El futbolista Antonee Robinson fue visto usando unos audífonos Beats de dos tonos aún no anunciados durante el Mundial.",
+      "porQueImporta": "Revela un posible nuevo producto de Beats, la marca de audio de Apple, antes de su lanzamiento oficial.",
       "publicadoEn": "2026-06-13T22:13:22.000Z",
       "globalScore": 90,
       "personalScore": 100,
@@ -83,8 +84,29 @@
         "Apple",
         "Beats",
         "Audio",
-        "Lanzamiento",
-        "NFL"
+        "Mundial",
+        "Hardware"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "categoria": "Finance",
+      "fuente": "Sherwood",
+      "url": "https://sherwood.news/tech/report-microsoft-weighs-xbox-spinoff-amid-major-overhaul/",
+      "tituloOriginal": "Report: Microsoft weighs Xbox spin-off amid major overhaul",
+      "tituloLimpio": "Microsoft evalúa escindir la unidad Xbox",
+      "resumen": "Según informes, Microsoft estaría considerando separar la división Xbox como parte de una reestructuración mayor.",
+      "porQueImporta": "Podría significar un cambio estratégico importante para Microsoft en el mercado de videojuegos y consolas.",
+      "publicadoEn": "2026-06-12T19:03:04.000Z",
+      "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/1619029726_visitors-stand-at-the-xbox-booth-at-the-gamescom-video-game-fair-in-cologne-western-germany.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Microsoft",
+        "Xbox",
+        "Negocios",
+        "Videojuegos"
       ],
       "tambienVistoEn": []
     },
@@ -92,21 +114,20 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/vale-la-pena-el-plazo-fijo-cuanto-genera-esta-herramienta-si-invertimos-2000000-n6288328",
-      "tituloOriginal": "¿Vale la pena el plazo fijo? Cuánto genera esta herramienta si invertimos $2.000.000",
-      "tituloLimpio": "¿Vale la pena el plazo fijo? Rendimientos con $2.000.000",
-      "resumen": "Las bajas tasas de interés en Argentina obligan a inmovilizar sumas cada vez más altas para generar rendimientos relevantes con los plazos fijos.",
-      "porQueImporta": "Ofrece una perspectiva práctica sobre la rentabilidad de uno de los instrumentos de ahorro más comunes en Argentina, destacando su limitada efectividad actual.",
-      "publicadoEn": "2026-06-14T10:30:00.000Z",
-      "imagen": "https://media.ambito.com/p/3c6f47cb7267282663d0f4c8dd9e02ff/adjuntos/239/imagenes/043/378/0043378761/plazo-fijo.jpg",
-      "globalScore": 90,
+      "url": "https://www.ambito.com/economia/aumentan-los-colectivos-y-trenes-el-amba-este-lunes-cuanto-costara-viajar-partir-manana-n6288659",
+      "tituloOriginal": "Aumentan los colectivos y trenes en el AMBA desde este lunes: cuánto costará viajar a partir de mañana",
+      "tituloLimpio": "Aumentan colectivos y trenes en el AMBA",
+      "resumen": "Las tarifas del transporte público en el Área Metropolitana de Buenos Aires tendrán una nueva suba a partir de este lunes.",
+      "porQueImporta": "Impacto directo en el costo de vida y la movilidad para los habitantes del AMBA.",
+      "publicadoEn": "2026-06-14T17:15:00.000Z",
+      "imagen": "https://media.ambito.com/p/ccf8d1e207a68a9f91b007994bc6f0bc/adjuntos/239/imagenes/041/256/0041256103/trenes-y-colectivospng.png",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Finanzas",
-        "Plazo Fijo",
-        "Inversión",
-        "Inflación"
+        "Transporte",
+        "Economía",
+        "AMBA"
       ],
       "tambienVistoEn": []
     },
@@ -117,17 +138,16 @@
       "url": "https://www.marketingdive.com/news/geico-gecko-steps-into-new-role-as-ai-generated-podcast-guest/822767/",
       "tituloOriginal": "Geico Gecko steps into new role as AI-generated podcast guest",
       "tituloLimpio": "Geico Gecko se convierte en invitado de podcast generado por IA",
-      "resumen": "La mascota de Geico, el Gecko, aparece en un podcast generado por IA como parte de una estrategia para ir más allá de la publicidad unidireccional.",
-      "porQueImporta": "Demuestra cómo las marcas están innovando en marketing utilizando IA para crear experiencias más interactivas y menos tradicionales.",
+      "resumen": "La aseguradora utiliza su mascota en un podcast generado por IA como parte de una estrategia para ir más allá de la publicidad tradicional.",
+      "porQueImporta": "Muestra una aplicación innovadora de la IA en marketing y publicidad, buscando mayor interacción y engagement.",
       "publicadoEn": "2026-06-12T14:32:00.000Z",
       "globalScore": 88,
       "personalScore": 100,
       "tags": [
         "Marketing",
         "AI",
-        "Geico",
-        "Contenido",
-        "Publicidad"
+        "Publicidad",
+        "Geico"
       ],
       "tambienVistoEn": []
     },
@@ -135,20 +155,19 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-      "tituloOriginal": "As Anthropic suspends access to new models, India debates its AI future",
-      "tituloLimpio": "India debate su futuro en IA tras la suspensión de acceso a modelos de Anthropic",
-      "resumen": "Líderes tecnológicos en India están debatiendo si el incidente con Anthropic sirve como una llamada de atención para las ambiciones del país en el campo de la IA.",
-      "porQueImporta": "Muestra cómo eventos globales en IA impactan las estrategias nacionales y el desarrollo tecnológico en economías emergentes.",
-      "publicadoEn": "2026-06-14T03:00:00.000Z",
-      "globalScore": 98,
+      "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+      "tituloOriginal": "As AI companies race to go public, who else is along for the ride?",
+      "tituloLimpio": "Empresas de IA se preparan para salir a bolsa",
+      "resumen": "Varias startups de IA buscan aprovechar el momento del mercado para realizar sus Ofertas Públicas Iniciales (IPOs).",
+      "porQueImporta": "Indica un posible auge en el sector de IA, con oportunidades de inversión y consolidación en el mercado.",
+      "publicadoEn": "2026-06-14T16:38:09.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "AI",
-        "India",
-        "Anthropic",
-        "Política Tecnológica",
-        "Debate"
+        "Finanzas",
+        "IPO",
+        "Startups"
       ],
       "tambienVistoEn": []
     },
@@ -158,9 +177,9 @@
       "fuente": "The Verge AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
       "tituloOriginal": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
-      "tituloLimpio": "Investigación de Amazon habría impulsado la prohibición de modelos de IA de Anthropic",
-      "resumen": "Según el Wall Street Journal, la investigación de ciberseguridad de Amazon y conversaciones entre Andy Jassy y la Casa Blanca habrían sido un factor clave para que Anthropic restrinja el acceso a sus modelos.",
-      "porQueImporta": "Revela la influencia de grandes tecnológicas y el gobierno en el acceso a modelos de IA avanzados, con implicaciones para la competencia y la seguridad global.",
+      "tituloLimpio": "Investigación de Amazon habría llevado a prohibición de IA de Anthropic",
+      "resumen": "Según reportes, investigaciones de ciberseguridad de Amazon y conversaciones con la Casa Blanca habrían influido en la restricción de acceso a modelos de IA de Anthropic.",
+      "porQueImporta": "Destaca la intersección entre la seguridad nacional, la investigación corporativa y las políticas gubernamentales en el desarrollo de la IA.",
       "publicadoEn": "2026-06-13T21:39:26.000Z",
       "globalScore": 90,
       "personalScore": 100,
@@ -168,8 +187,8 @@
         "AI",
         "Amazon",
         "Anthropic",
-        "Regulación",
-        "Seguridad"
+        "Regulación IA",
+        "Ciberseguridad"
       ],
       "tambienVistoEn": []
     },
@@ -179,9 +198,9 @@
       "fuente": "MIT Technology Review AI",
       "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
       "tituloOriginal": "Google DeepMind is worried about what happens when millions of agents start to interact",
-      "tituloLimpio": "Google DeepMind investiga riesgos de interacción masiva de agentes de IA",
-      "resumen": "La compañía está financiando investigación sobre los peligros potenciales de que millones de agentes de IA interactúen entre sí online sin supervisión humana directa.",
-      "porQueImporta": "Plantea una preocupación fundamental sobre la escalabilidad y el control de sistemas de IA autónomos, un tema crítico para el futuro de la tecnología.",
+      "tituloLimpio": "Google DeepMind preocupado por la interacción de millones de agentes de IA",
+      "resumen": "La compañía está financiando investigación sobre los peligros potenciales de la interacción masiva de agentes de IA en línea.",
+      "porQueImporta": "Plantea una preocupación fundamental sobre la escalabilidad y seguridad de la IA avanzada, un tema clave para el futuro de la tecnología.",
       "publicadoEn": "2026-06-11T11:00:45.000Z",
       "globalScore": 90,
       "personalScore": 100,
@@ -189,8 +208,7 @@
         "AI",
         "Google DeepMind",
         "Seguridad IA",
-        "Agentes Autónomos",
-        "Investigación"
+        "Agentes IA"
       ],
       "tambienVistoEn": []
     },
@@ -198,19 +216,18 @@
       "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Apple",
       "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/13/ios-27-adds-an-all-new-app-to-your-iphones-home-screen/",
-      "tituloOriginal": "iOS 27 adds an all-new app to your iPhone’s Home Screen",
-      "tituloLimpio": "iOS 27 introduce una nueva app de Siri en el iPhone",
-      "resumen": "Apple anunció iOS 27 en la WWDC, que incluye una nueva app independiente de Siri, marcando la primera vez que Siri se instala como una aplicación separada en el iPhone.",
-      "porQueImporta": "Representa una evolución significativa en la integración de Siri y Apple Intelligence, sugiriendo un mayor protagonismo de la IA en la experiencia del usuario.",
-      "publicadoEn": "2026-06-13T22:53:12.000Z",
+      "url": "https://9to5mac.com/2026/06/14/three-major-unannounced-ios-27-features-coming-soon/",
+      "tituloOriginal": "Apple still has three unannounced iOS 27 features in the pipeline: report",
+      "tituloLimpio": "Apple aún tiene tres funciones no anunciadas de iOS 27 en desarrollo",
+      "resumen": "A pesar de la presentación de WWDC 2026, se informa que Apple tiene tres nuevas funciones para iOS 27 aún en desarrollo que se esperan para septiembre.",
+      "porQueImporta": "Indica que Apple sigue innovando y que habrá sorpresas más allá de lo anunciado oficialmente para la próxima versión de su sistema operativo móvil.",
+      "publicadoEn": "2026-06-14T14:41:31.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
         "iOS 27",
-        "Siri",
-        "AI",
+        "Software",
         "WWDC"
       ],
       "tambienVistoEn": []
@@ -219,41 +236,21 @@
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
       "categoria": "Apple",
       "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/06/14/crime-blotter-arrested-nfl-star-accused-of-biting-iphone?utm_source=rss",
-      "tituloOriginal": "Crime blotter: Arrested NFL star accused of biting iPhone",
-      "tituloLimpio": "Robos y delitos relacionados con productos Apple en el último informe",
-      "resumen": "El informe semanal de delitos de AppleInsider detalla casos como un empleado que robó un MacBook y un hombre acusado de rastrear a una mujer con un AirTag.",
-      "porQueImporta": "Aunque son incidentes aislados, resaltan la importancia de la seguridad de los dispositivos y la privacidad de los datos en el ecosistema Apple.",
-      "publicadoEn": "2026-06-14T11:18:59.000Z",
+      "url": "https://appleinsider.com/articles/26/06/14/iphone-fold-touchscreen-macbook-evidence-mounts-in-ios-27-macos-27?utm_source=rss",
+      "tituloOriginal": "iPhone Fold, touchscreen MacBook evidence mounts in iOS 27, macOS 27",
+      "tituloLimpio": "Evidencia de iPhone Fold y MacBook con pantalla táctil en iOS 27 y macOS 27",
+      "resumen": "Las betas de iOS 27 y macOS 27 contienen indicios que apuntan al desarrollo de un iPhone plegable y un MacBook Pro con pantalla táctil.",
+      "porQueImporta": "Sugiere movimientos importantes de Apple en hardware, explorando nuevos formatos de dispositivos que podrían cambiar el mercado.",
+      "publicadoEn": "2026-06-14T15:40:41.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "Seguridad",
-        "Privacidad",
-        "AirTag",
-        "MacBook"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
-      "categoria": "Apple",
-      "fuente": "MacStories",
-      "url": "https://www.macstories.net/news/podcast-rewind-wwdc-reactions-computex-news-and-interviews-with-apple-design-award-winners/",
-      "tituloOriginal": "Podcast Rewind: WWDC Reactions, Computex News, and Interviews with Apple Design Award Winners",
-      "tituloLimpio": "Reacciones a la WWDC y noticias de Computex en Podcast Rewind",
-      "resumen": "Federico y John de MacStories discuten sus primeras impresiones de la WWDC, junto con noticias de Computex y entrevistas a ganadores de los Apple Design Awards.",
-      "porQueImporta": "Ofrece una perspectiva detallada y análisis post-WWDC, cubriendo tanto las novedades de Apple como tendencias tecnológicas más amplias.",
-      "publicadoEn": "2026-06-12T14:04:13.000Z",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "Apple",
-        "WWDC",
-        "Computex",
-        "Podcast",
-        "Tecnología"
+        "iPhone Fold",
+        "MacBook",
+        "Hardware",
+        "iOS 27",
+        "macOS 27"
       ],
       "tambienVistoEn": []
     },
@@ -261,43 +258,63 @@
       "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
       "categoria": "Finance",
       "fuente": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/reddit-roku-soundhound-ai-cult-123049949.html",
-      "tituloOriginal": "Reddit, Roku, and SoundHound AI: Which Cult Stock Is Takeover-Ready?",
-      "tituloLimpio": "Reddit, Roku y SoundHound AI: ¿Qué acción de culto está lista para una adquisición?",
-      "resumen": "Se analiza cuáles de estas empresas, consideradas 'acciones de culto', podrían ser objetivos de adquisición en el mercado.",
-      "porQueImporta": "Ofrece una perspectiva sobre posibles movimientos corporativos y oportunidades de inversión en empresas tecnológicas con bases de usuarios leales.",
-      "publicadoEn": "2026-06-13T12:30:49.000Z",
-      "imagen": "https://media.zenfs.com/en/24_7_wall_st__718/c663c09a405c1af041dfcdbf49473e46",
-      "globalScore": 86,
+      "url": "https://finance.yahoo.com/markets/stocks/articles/forget-schd-monthly-dividend-grower-170817423.html",
+      "tituloOriginal": "Forget SCHD: This Monthly Dividend Grower Out-Returned It by 38% Over the Last Decade",
+      "tituloLimpio": "Inversión de dividendos mensuales supera a SCHD",
+      "resumen": "Un activo de dividendos mensuales ha superado el rendimiento de SCHD en un 38% durante la última década.",
+      "porQueImporta": "Presenta una oportunidad de inversión potencial para quienes buscan ingresos pasivos y crecimiento de capital.",
+      "publicadoEn": "2026-06-14T17:08:17.000Z",
+      "imagen": "https://media.zenfs.com/en/24_7_wall_st__718/8cb12c88055409ec31a31b950ea91033",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Finanzas",
         "Inversión",
-        "Acciones",
-        "Tecnología",
-        "Adquisiciones"
+        "Dividendos",
+        "ETFs"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
       "categoria": "Finance",
-      "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/news-analysis/2026/06/12/sec-s-big-swing-to-clear-tokenization-path-isn-t-likely-to-get-resilience-of-full-rule",
-      "tituloOriginal": "SEC's big swing to clear tokenization path isn't likely to get resilience of full rule",
-      "tituloLimpio": "La SEC busca agilizar la tokenización, pero la regulación podría ser débil",
-      "resumen": "Ex abogados de la SEC señalan que el uso de exenciones para la tokenización no es tan sólido como una regla formal, lo que podría limitar su resiliencia.",
-      "porQueImporta": "Esencial para entender el panorama regulatorio de la tokenización de activos, con implicaciones directas para la innovación y la inversión en el sector.",
-      "publicadoEn": "2026-06-14T14:00:00.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/fef85cd19f3a741084cddd91d0ba11ac78f122fd-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "globalScore": 92,
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-spacex/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Dow Jones Futures Due With Market At Key Levels; Iran Deal In Focus, SpaceX's Next Test",
+      "tituloLimpio": "Mercado en niveles clave, acuerdo Irán y próximo test de SpaceX en foco",
+      "resumen": "Los futuros del Dow Jones operan cerca de niveles importantes, con el acuerdo con Irán y el próximo lanzamiento de SpaceX como puntos de atención.",
+      "porQueImporta": "Ofrece un panorama de los factores macroeconómicos y geopolíticos que mueven los mercados financieros globales.",
+      "publicadoEn": "2026-06-14T16:46:56.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/553a55a5438576064cccd15ab67dbdc4",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Finanzas",
-        "Regulación",
-        "Tokenización",
-        "SEC",
-        "Blockchain"
+        "Mercado",
+        "SpaceX",
+        "Geopolítica"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/ethereum-quantum-proof-accounts-7-cents-researcher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Ethereum can quantum-proof accounts for just 7 cents, says Ethereum's Kohaku lead",
+      "tituloLimpio": "Ethereum puede ser a prueba de cuántica por 7 centavos",
+      "resumen": "Un investigador propone una solución para hacer las cuentas de Ethereum resistentes a la computación cuántica por un costo mínimo.",
+      "porQueImporta": "Aborda un riesgo tecnológico futuro para las criptomonedas y blockchain, buscando soluciones preventivas.",
+      "publicadoEn": "2026-06-14T13:49:48.000Z",
+      "imagen": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1jcnlwdG9jdXJyZW5jeS12cy1xdWFudHVtLWNvbXB1dGluZy5qcGc=.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "Criptomonedas",
+        "Ethereum",
+        "Tecnología",
+        "IA Cuántica"
       ],
       "tambienVistoEn": []
     },
@@ -307,9 +324,9 @@
       "fuente": "Clarin Economia",
       "url": "https://www.clarin.com/economia/cara-cara-andres-borenstein-economista-plan-bajar-inflacion-innovador-politica-ingresos-frenar-inercia_0_g9UEb1BH5i.html",
       "tituloOriginal": "Cara a cara con Andrés Borenstein, economista: \"El plan para bajar la inflación tuvo algo de innovador, pero sin una política de ingresos para frenar la inercia\"",
-      "tituloLimpio": "Economista Borenstein: \"El plan antiinflacionario tuvo algo de innovador, pero sin política de ingresos\"",
-      "resumen": "Andrés Borenstein opina que el plan de estabilización de Milei combinó elementos clásicos con otros sui generis, pero careció de una política de ingresos para frenar la inercia inflacionaria.",
-      "porQueImporta": "Proporciona un análisis económico crítico sobre las políticas actuales en Argentina, proyectando una inflación anualizada del 20%.",
+      "tituloLimpio": "Análisis sobre el plan para bajar la inflación en Argentina",
+      "resumen": "Un economista evalúa el plan de estabilización, señalando que tuvo elementos innovadores pero careció de una política de ingresos para frenar la inercia inflacionaria.",
+      "porQueImporta": "Ofrece una perspectiva crítica sobre la estrategia económica actual del gobierno argentino y sus posibles resultados.",
       "publicadoEn": "2026-06-14T10:35:25.000Z",
       "imagen": "https://www.clarin.com/img/2026/06/14/LjibsZZZr_1200x630__1.jpg",
       "globalScore": 94,
@@ -318,30 +335,7 @@
         "Argentina",
         "Economía",
         "Inflación",
-        "Política Económica",
-        "Andrés Borenstein"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
-      "categoria": "Argentina",
-      "fuente": "Clarin Politica",
-      "url": "https://www.clarin.com/politica/semana-toca-vos-ironico-posteo-victoria-villarruel-criptomonedas-manuel-adorni_0_4SDQQfoNvx.html",
-      "tituloOriginal": "\"¿Y si esta semana te toca a vos?\", el irónico posteo de Victoria Villarruel sobre las criptomonedas de Manuel Adorni",
-      "tituloLimpio": "Villarruel ironiza sobre las criptomonedas de Adorni",
-      "resumen": "La vicepresidenta Victoria Villarruel publicó un meme irónico sobre las criptomonedas de Manuel Adorni, apuntando nuevamente a datos de su declaración jurada.",
-      "porQueImporta": "Refleja las internas políticas y las tensiones dentro del gobierno argentino, con un foco en la transparencia y las finanzas personales de funcionarios.",
-      "publicadoEn": "2026-06-14T13:31:19.000Z",
-      "imagen": "https://www.clarin.com/img/2026/06/14/_STf2hlcl_1200x630__1.jpg",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "Argentina",
-        "Política",
-        "Criptomonedas",
-        "Gobierno",
-        "Interna"
+        "Política Económica"
       ],
       "tambienVistoEn": []
     },
@@ -349,21 +343,20 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/06/14/nueve-de-cada-diez-argentinos-tiene-algun-tipo-de-dificultad-economica-que-gastos-priorizan-y-cuales-postergan/",
-      "tituloOriginal": "Nueve de cada diez argentinos tiene algún tipo de dificultad económica: qué gastos priorizan y cuáles postergan",
-      "tituloLimpio": "Nueve de cada diez argentinos tienen dificultades económicas",
-      "resumen": "Un relevamiento nacional indica que la mayoría de los argentinos enfrenta problemas económicos, obligándolos a priorizar gastos y postergar otros.",
-      "porQueImporta": "Refleja la dura realidad económica del país, afectando el consumo y las decisiones financieras de la población.",
-      "publicadoEn": "2026-06-14T13:31:56.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/DVF43ERIRZHAXO7R2AQ5M3HV2A.png?auth=085af8e5aacdfda89c50b149abc3fcedcd9acba3782ef882bca1762129042fb9&smart=true&width=1408&height=768",
+      "url": "https://www.infobae.com/economia/2026/06/14/nuevo-aumento-de-colectivos-y-trenes-en-el-area-metropolitana-las-tarifas-desde-este-lunes/",
+      "tituloOriginal": "Nuevo aumento de colectivos en el Área Metropolitana: las tarifas desde este lunes",
+      "tituloLimpio": "Nuevo aumento de colectivos en el Área Metropolitana",
+      "resumen": "Se trata del segundo tramo de aumentos, con ajustes que continuarán hasta julio y negociaciones salariales pendientes.",
+      "porQueImporta": "Detalla la continuidad de los incrementos tarifarios en el transporte público y las negociaciones laborales asociadas.",
+      "publicadoEn": "2026-06-14T17:06:13.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/NNX7XBBETVHOFLCN5O5HD2V6UY.jpg?auth=8d17a359e8b2e7e3824d4a0dc325b5fe920a1fb50bbc1354bc84ebd0a74a05ef&smart=true&width=6000&height=4000",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
+        "Transporte",
         "Economía",
-        "Dificultades Económicas",
-        "Consumo",
-        "Finanzas Personales"
+        "Tarifas"
       ],
       "tambienVistoEn": []
     },
@@ -373,18 +366,17 @@
       "fuente": "Infobae Politica",
       "url": "https://www.infobae.com/politica/2026/06/14/emiliano-yacobitti-valoro-el-dialogo-con-el-gobierno-pero-advirtio-que-la-pelea-por-el-financiamiento-universitario-no-termino/",
       "tituloOriginal": "Emiliano Yacobitti valoró el diálogo con el Gobierno, pero advirtió que “la pelea por el financiamiento universitario no terminó”",
-      "tituloLimpio": "Yacobitti valora el diálogo con el Gobierno, pero advierte que la pelea por financiamiento universitario no terminó",
-      "resumen": "El vicerrector de la UBA, Emiliano Yacobitti, destacó el diálogo con el Ejecutivo pero reclamó una definición rápida sobre el financiamiento universitario.",
-      "porQueImporta": "Muestra la continuidad de tensiones y negociaciones en temas cruciales como la educación superior en Argentina.",
-      "publicadoEn": "2026-06-14T12:55:34.000Z",
+      "tituloLimpio": "Diálogo gobierno-universidades: financiamiento universitario sigue en debate",
+      "resumen": "El vicerrector de la UBA valoró el diálogo con el gobierno pero advirtió que la disputa por el financiamiento universitario no ha terminado.",
+      "porQueImporta": "Subraya la tensión continua entre el gobierno y las universidades públicas por los fondos, un tema crucial para la educación superior.",
+      "publicadoEn": "2026-06-14T15:22:32.000Z",
       "imagen": "https://www.infobae.com/resizer/v2/JAZ5W2B6KFBTXLALRJGCL3V7CQ.jpg?auth=bff3e429e09bfad93621e82f7884ae256a072e7ffa9a06b6d882697fd58eb8c2&smart=true&width=1920&height=1080",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
         "Educación",
-        "UBA",
-        "Gobierno",
+        "Universidades",
         "Financiamiento"
       ],
       "tambienVistoEn": []
@@ -396,8 +388,8 @@
       "url": "https://www.lanacion.com.ar/economia/campo/ganaderia/opinion-una-medida-tributaria-largamente-esperada-para-la-produccion-ganadera-nid15062026/",
       "tituloOriginal": "Opinión. Una medida tributaria largamente esperada para la producción ganadera",
       "tituloLimpio": "Medida tributaria esperada para la producción ganadera",
-      "resumen": "La modificación de la valuación para la hacienda de invernada a partir del ejercicio de 2026 alivia la carga fiscal para el sector ganadero.",
-      "porQueImporta": "Representa un alivio fiscal esperado para un sector clave de la economía argentina, lo que podría tener un impacto positivo en la producción.",
+      "resumen": "La modificación en la valuación de la hacienda de invernada alivia la carga fiscal para el sector ganadero a partir del ejercicio 2026.",
+      "porQueImporta": "Representa un alivio fiscal para un sector clave de la economía argentina, con potencial impacto en la producción y exportación.",
       "publicadoEn": "2026-06-14T14:07:32.000Z",
       "imagen": "https://resizer.glanacion.com/resizer/v2/NTYE6UZWT5GKPECKRTU4QFV4IQ.jpg?auth=15c58825b00021f702cd157439068b5d5d0360c2c2a17b0ada7edb7c65e19cb9&smart=true&width=2000&height=1125",
       "globalScore": 98,
@@ -406,30 +398,7 @@
         "Argentina",
         "Economía",
         "Ganadería",
-        "Impuestos",
-        "Campo"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
-      "categoria": "Argentina",
-      "fuente": "La Nacion Politica",
-      "url": "https://www.lanacion.com.ar/politica/karina-milei-quiere-ampliar-la-tropa-digital-en-medio-de-la-interna-con-santiago-caputo-nid14062026/",
-      "tituloOriginal": "Karina Milei quiere ampliar la tropa digital en medio de la interna con Santiago Caputo",
-      "tituloLimpio": "Karina Milei busca ampliar la 'tropa digital' en medio de interna con Caputo",
-      "resumen": "Karina Milei planea sumar más referentes para fortalecer la estrategia digital del gobierno en redes sociales, en un contexto de tensiones internas con Santiago Caputo.",
-      "porQueImporta": "Indica una reconfiguración de la estrategia de comunicación y poder dentro del gobierno argentino, con énfasis en la presencia online.",
-      "publicadoEn": "2026-06-14T10:28:58.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/XR7VWRY4MZBDLJVYZ4R7YYZNQE.jpg?auth=3fd74767930b24f65093d3766a962b6f33c361b1f7cdc884a65f124fb69b3b1e&smart=true&width=2000&height=1359",
-      "globalScore": 98,
-      "personalScore": 100,
-      "tags": [
-        "Argentina",
-        "Política",
-        "Redes Sociales",
-        "Gobierno",
-        "Comunicación"
+        "Impuestos"
       ],
       "tambienVistoEn": []
     },
@@ -439,46 +408,22 @@
       "fuente": "Adweek",
       "url": "https://www.adweek.com/brand-marketing/5-marketers-moves-to-know-this-week-knix-bayer-and-more/",
       "tituloOriginal": "5 Marketer Moves to Know This Week: Knix, Bayer, and More",
-      "tituloLimpio": "5 movimientos de marketing a tener en cuenta esta semana",
-      "resumen": "Un resumen semanal de los nombramientos de liderazgo en marketing más importantes en Estados Unidos y a nivel global.",
-      "porQueImporta": "Permite estar al tanto de los cambios en la cúpula de empresas clave del sector, lo que puede indicar nuevas estrategias o enfoques.",
+      "tituloLimpio": "Movimientos de 5 Marketers esta semana",
+      "resumen": "Un resumen semanal de los nombramientos de liderazgo en marketing más importantes en EE.UU. y a nivel global.",
+      "porQueImporta": "Permite estar al tanto de los cambios y tendencias en el liderazgo del sector de marketing.",
       "publicadoEn": "2026-06-12T12:57:29.000Z",
       "globalScore": 82,
       "personalScore": 100,
       "tags": [
         "Marketing",
         "Liderazgo",
-        "Nombramientos",
-        "Empresas",
-        "Estrategia"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
-      "categoria": "Finance",
-      "fuente": "Yahoo Finance",
-      "url": "https://www.investors.com/news/viking-cruises-bloom-energy-stocks/?src=A00220&yptr=yahoo",
-      "tituloOriginal": "Viking, Bloom Energy Lead Five Stocks Making Bullish Moves As Market Rebounds",
-      "tituloLimpio": "Viking, Bloom Energy lideran cinco acciones con movimientos alcistas",
-      "resumen": "Viking Cruises y Bloom Energy encabezan una lista de cinco acciones que muestran tendencias alcistas en un mercado en recuperación.",
-      "porQueImporta": "Identifica oportunidades de inversión en empresas con desempeño positivo, útil para quienes buscan seguir la tendencia del mercado.",
-      "publicadoEn": "2026-06-13T12:00:50.000Z",
-      "imagen": "https://media.zenfs.com/en/ibd.com/50a3d3e67b374c8d5ead6701ec0c6469",
-      "globalScore": 82,
-      "personalScore": 92,
-      "tags": [
-        "Finanzas",
-        "Inversión",
-        "Acciones",
-        "Mercado",
-        "Recuperación"
+        "Negocios"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-06-14T14:10:16.182Z"
+    "generadoEn": "2026-06-14T17:33:43.675Z"
   }
 }
