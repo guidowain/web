@@ -1,0 +1,476 @@
+{
+  "fecha": "2026-06-14",
+  "generadoEn": "2026-06-14T12:19:18.945Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "Guido, te preparé un resumen con lo más relevante de hoy. Hay novedades importantes de Apple con iOS 27 y un vistazo a los nuevos Beats. En Argentina, seguimos de cerca los controles del Impuesto a las Ganancias y el análisis sobre la insostenibilidad del esquema previsional. En el mundo de la IA, Google DeepMind está preocupado por la interacción masiva de agentes, y hay novedades sobre cómo Amazon podría haber influido en la prohibición de modelos de Anthropic. También, un vistazo a las finanzas con advertencias sobre posicionamiento alcista y el riesgo de hackers en cripto.",
+  "radarPersonal": [],
+  "loImportante": [
+    "iOS 27 trae una nueva app de Siri, marcando un hito en la integración del asistente.",
+    "Controles más estrictos en el Impuesto a las Ganancias en Argentina por inconsistencias en deducciones.",
+    "Preocupación en Google DeepMind por las implicancias de la interacción masiva de agentes de IA.",
+    "El esquema previsional argentino es considerado insostenible por expertos.",
+    "El mercado de cripto enfrenta riesgos de hackers que operan a 'superhuman speed'."
+  ],
+  "oportunidades": [
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Productivity",
+      "titulo": "iOS 27 y la nueva app de Siri",
+      "detalle": "La llegada de una app de Siri independiente en iOS 27 podría significar una mayor integración y funcionalidades para el asistente, impactando la forma en que los usuarios interactúan con sus dispositivos Apple.",
+      "acciones": [
+        "Explorar las nuevas capacidades de Siri en iOS 27.",
+        "Evaluar el impacto en la productividad personal y profesional."
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Investing",
+      "titulo": "Controles de Ganancias en Argentina",
+      "detalle": "El aumento de controles sobre deducciones en el Impuesto a las Ganancias podría afectar a empleados con altos cargos y generar un panorama fiscal más riguroso en Argentina.",
+      "acciones": [
+        "Revisar las deducciones personales y laborales.",
+        "Mantenerse informado sobre posibles cambios en la normativa fiscal argentina."
+      ]
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Investing",
+      "titulo": "Riesgos de hackers en Cripto",
+      "detalle": "La sofisticación de los hackers en el espacio cripto, potenciada por IA, representa un riesgo significativo para las inversiones en DeFi, que ya ha sufrido pérdidas millonarias este año.",
+      "acciones": [
+        "Fortalecer las medidas de seguridad en billeteras y exchanges.",
+        "Diversificar las inversiones y estar al tanto de las vulnerabilidades."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "titulo": "Interacción masiva de agentes de IA",
+      "detalle": "Google DeepMind expresa preocupación por los peligros potenciales cuando millones de agentes de IA interactúan entre sí online sin supervisión humana directa.",
+      "mitigacion": "Monitorear los avances en investigación sobre seguridad y alineación de IA. Evaluar el impacto de sistemas multi-agente en la estabilidad online."
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Regulatory",
+      "titulo": "Insostenibilidad del esquema previsional argentino",
+      "detalle": "Expertos advierten que el actual sistema de jubilaciones en Argentina es insostenible, lo que podría derivar en reformas significativas con impacto en el futuro de los ahorros y la seguridad social.",
+      "mitigacion": "Seguir de cerca las discusiones y posibles reformas previsionales en Argentina. Considerar estrategias de ahorro a largo plazo que mitiguen riesgos fiscales."
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "Technology",
+      "titulo": "Posible influencia de Amazon en prohibición de modelos de IA",
+      "detalle": "Investigaciones de Amazon podrían haber influido en la decisión de la Casa Blanca de restringir el acceso a modelos de IA de Anthropic, generando incertidumbre sobre la regulación y el desarrollo futuro de la IA.",
+      "mitigacion": "Observar las dinámicas entre grandes tecnológicas y reguladores. Estar atento a las implicaciones geopolíticas y de seguridad en el desarrollo de IA."
+    }
+  ],
+  "conexiones": [],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
+      "tituloOriginal": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+      "tituloLimpio": "Google invierte en Virginia para apoyar empleos y asequibilidad energética",
+      "resumen": "Google anuncia nuevas inversiones comunitarias en Virginia destinadas a fortalecer la fuerza laboral local y mejorar la asequibilidad de la energía.",
+      "porQueImporta": "Muestra el compromiso de Google con el desarrollo local y la sostenibilidad, un modelo de inversión corporativa con impacto social.",
+      "publicadoEn": "2026-06-11T20:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/VirginiaSocial.max-600x600.format-webp.webp",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Inversiones",
+        "Comunidad",
+        "Virginia",
+        "Sostenibilidad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/13/antonee-robinson-beats-headphones/",
+      "tituloOriginal": "Antonee Robinson Shows Off Unreleased Two-Tone Beats Over-Ear Headphones at the World Cup",
+      "tituloLimpio": "Jugador de la selección de EE.UU. muestra audífonos Beats no lanzados",
+      "resumen": "El futbolista Antonee Robinson fue visto usando unos audífonos Beats over-ear de dos tonos que aún no han sido lanzados oficialmente, durante el Mundial.",
+      "porQueImporta": "Revela un vistazo a futuros productos de Apple (Beats), indicando la estrategia de marketing y desarrollo de la compañía a través de figuras públicas.",
+      "publicadoEn": "2026-06-13T22:13:22.000Z",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "Beats",
+        "Mundial",
+        "Product Launch",
+        "Marketing"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "categoria": "Finance",
+      "fuente": "Sherwood",
+      "url": "https://sherwood.news/tech/report-microsoft-weighs-xbox-spinoff-amid-major-overhaul/",
+      "tituloOriginal": "Report: Microsoft weighs Xbox spin-off amid major overhaul",
+      "tituloLimpio": "Microsoft evalúa escindir Xbox en medio de una reestructuración",
+      "resumen": "Según The Information, Microsoft estaría considerando separar la unidad de Xbox como parte de una estrategia de reestructuración más amplia.",
+      "porQueImporta": "Movimiento estratégico importante en la industria de los videojuegos, con posibles repercusiones en el mercado y la competencia.",
+      "publicadoEn": "2026-06-12T19:03:04.000Z",
+      "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/1619029726_visitors-stand-at-the-xbox-booth-at-the-gamescom-video-game-fair-in-cologne-western-germany.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Business",
+        "Microsoft",
+        "Xbox",
+        "Videojuegos",
+        "Reestructuración"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/impuesto-las-ganancias-arca-detecta-inconsistencias-deducciones-y-aumenta-controles-empleados-n6288263",
+      "tituloOriginal": "Impuesto a las Ganancias: ARCA detecta inconsistencias en deducciones y aumenta controles sobre empleados",
+      "tituloLimpio": "ARCA aumenta controles por inconsistencias en deducciones del Impuesto a las Ganancias",
+      "resumen": "El organismo recaudador argentino ha detectado irregularidades en gastos de vestimenta presentados como deducibles por empleados de altos cargos, lo que lleva a un aumento de los controles.",
+      "porQueImporta": "Impacto directo en la carga fiscal de empleados en Argentina, señalando un endurecimiento en la fiscalización.",
+      "publicadoEn": "2026-06-13T10:00:00.000Z",
+      "globalScore": 82,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Impuesto a las Ganancias",
+        "Fiscalidad",
+        "Economía"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/geico-gecko-steps-into-new-role-as-ai-generated-podcast-guest/822767/",
+      "tituloOriginal": "Geico Gecko steps into new role as AI-generated podcast guest",
+      "tituloLimpio": "Geico Gecko se convierte en invitado de podcast generado por IA",
+      "resumen": "La mascota de Geico, el Gecko, aparecerá en un podcast como un invitado generado por inteligencia artificial, como parte de una estrategia para ir más allá de la publicidad tradicional.",
+      "porQueImporta": "Ejemplo innovador del uso de IA en marketing y publicidad, mostrando cómo las marcas buscan nuevas formas de engagement con su audiencia.",
+      "publicadoEn": "2026-06-12T14:32:00.000Z",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "AI",
+        "Publicidad",
+        "Geico",
+        "Innovación"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+      "tituloOriginal": "As Anthropic suspends access to new models, India debates its AI future",
+      "tituloLimpio": "India debate su futuro en IA tras suspensión de modelos de Anthropic",
+      "resumen": "Líderes tecnológicos indios discuten si el incidente con Anthropic sirve como una llamada de atención para las ambiciones de IA del país.",
+      "porQueImporta": "Refleja las tensiones globales en torno al desarrollo y acceso a la IA, y cómo países como India están reevaluando sus estrategias.",
+      "publicadoEn": "2026-06-14T03:00:00.000Z",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "India",
+        "Regulación",
+        "Tecnología",
+        "Anthropic"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+      "tituloOriginal": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+      "tituloLimpio": "Investigación de Amazon habría impulsado prohibición de modelos de IA de Anthropic",
+      "resumen": "Según el Wall Street Journal, la investigación de ciberseguridad de Amazon y conversaciones entre Andy Jassy y la Casa Blanca habrían sido clave para la directiva de control de exportaciones que afectó a Anthropic.",
+      "porQueImporta": "Sugiere una posible influencia de grandes corporaciones en decisiones regulatorias de IA, con implicaciones para la competencia y la seguridad.",
+      "publicadoEn": "2026-06-13T21:39:26.000Z",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Amazon",
+        "Anthropic",
+        "Regulación",
+        "Ciberseguridad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "tituloOriginal": "Google DeepMind is worried about what happens when millions of agents start to interact",
+      "tituloLimpio": "Google DeepMind preocupado por interacción masiva de agentes de IA",
+      "resumen": "Google DeepMind está financiando investigaciones sobre los peligros potenciales de la interacción online entre millones de agentes de IA sin supervisión humana.",
+      "porQueImporta": "Plantea interrogantes sobre la seguridad y el control a medida que los sistemas de IA se vuelven más autónomos y numerosos.",
+      "publicadoEn": "2026-06-11T11:00:45.000Z",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Google DeepMind",
+        "Seguridad IA",
+        "Agentes Autónomos"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/13/ios-27-adds-an-all-new-app-to-your-iphones-home-screen/",
+      "tituloOriginal": "iOS 27 adds an all-new app to your iPhone’s Home Screen",
+      "tituloLimpio": "iOS 27 introduce una nueva app de Siri en el iPhone",
+      "resumen": "Apple anunció iOS 27 en WWDC, que incluye una nueva app de Siri, marcando la primera vez que el asistente se instala como una aplicación independiente en el iPhone.",
+      "porQueImporta": "Representa una evolución significativa en la integración y funcionalidad de Siri, potencialmente mejorando la interacción del usuario con el ecosistema Apple.",
+      "publicadoEn": "2026-06-13T22:53:12.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "iOS 27",
+        "Siri",
+        "WWDC",
+        "Productivity"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/06/14/crime-blotter-arrested-nfl-star-accused-of-biting-iphone?utm_source=rss",
+      "tituloOriginal": "Crime blotter: Arrested NFL star accused of biting iPhone",
+      "tituloLimpio": "Robos y usos indebidos de dispositivos Apple en el 'Crime Blotter'",
+      "resumen": "El informe semanal de 'Apple Crime Blotter' detalla casos como un empleado que robó un MacBook, y usos de AirTag para rastrear personas, incluyendo un incidente de un jugador de la NFL acusado de morder un iPhone.",
+      "porQueImporta": "Destaca la persistencia de problemas de seguridad y uso indebido relacionados con productos Apple, a pesar de las medidas de la compañía.",
+      "publicadoEn": "2026-06-14T11:18:59.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "Seguridad",
+        "AirTag",
+        "iPhone",
+        "Crimen"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/news/podcast-rewind-wwdc-reactions-computex-news-and-interviews-with-apple-design-award-winners/",
+      "tituloOriginal": "Podcast Rewind: WWDC Reactions, Computex News, and Interviews with Apple Design Award Winners",
+      "tituloLimpio": "Reacciones a WWDC y noticias de Apple en Podcast Rewind",
+      "resumen": "Federico y John de MacStories discuten sus primeras impresiones de la WWDC, junto con noticias de Computex y entrevistas a ganadores de los Apple Design Award.",
+      "porQueImporta": "Ofrece análisis y perspectivas sobre los anuncios de Apple en WWDC y tendencias de diseño, útil para entender la dirección de la compañía.",
+      "publicadoEn": "2026-06-12T14:04:13.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "WWDC",
+        "Diseño",
+        "Podcasts",
+        "Tecnología"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-hartnett-warns-bullish-positioning-110000962.html",
+      "tituloOriginal": "BofA’s Hartnett Warns Bullish Positioning Remains Entrenched Despite 5% Bond Yields",
+      "tituloLimpio": "BofA advierte sobre posicionamiento alcista persistente a pesar de rendimientos de bonos",
+      "resumen": "El estratega de Bank of America, Michael Hartnett, señala que el posicionamiento alcista en el mercado se mantiene firme, incluso con rendimientos de bonos del 5%.",
+      "porQueImporta": "Indicador clave sobre el sentimiento del mercado y posibles riesgos de sobrevaloración o correcciones futuras.",
+      "publicadoEn": "2026-06-13T11:00:00.000Z",
+      "imagen": "https://media.zenfs.com/en/investorshub_458/94dde9580d7e19a11b3a3c95bf2dd779",
+      "globalScore": 86,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "Inversiones",
+        "Mercado de Bonos",
+        "Estrategia"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/06/13/crypto-s-next-billion-dollar-hacker-may-move-at-superhuman-speed",
+      "tituloOriginal": "Crypto’s next billion-dollar hacker may move at superhuman speed",
+      "tituloLimpio": "Hackers de cripto podrían operar a 'superhuman speed' con IA",
+      "resumen": "Los nuevos modelos de IA como Claude Fable 5 de Anthropic podrían dar a los hackers herramientas avanzadas, aumentando el riesgo para el sector DeFi, que ya ha sufrido más de $840 millones en hackeos este año.",
+      "porQueImporta": "Alerta sobre la creciente amenaza de ciberataques en el espacio cripto, potenciados por IA, y el impacto potencial en las inversiones.",
+      "publicadoEn": "2026-06-13T18:00:00.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/3be19738ab3221104278b2e6521aeccdbdcf8ea4-1280x853.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "Cripto",
+        "AI",
+        "Ciberseguridad",
+        "DeFi"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/humanity-protocol-hack-linked-north-korean-actors-quantstamp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Humanity Protocol’s $36M hack tied to suspected North Korean hackers: Quantstamp",
+      "tituloLimpio": "Hackeo de $36M en Humanity Protocol vinculado a hackers norcoreanos",
+      "resumen": "Quantstamp informa que el hackeo de $36 millones al Humanity Protocol, que utilizó un falso email de Bithumb, apunta a la participación de actores norcoreanos.",
+      "porQueImporta": "Detalla un ataque significativo en el espacio cripto, con implicaciones geopolíticas y de seguridad para la industria.",
+      "publicadoEn": "2026-06-14T11:07:34.000Z",
+      "imagen": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS10aGlyZC1wYXJ0aWVzLW11c3Qtc3RvcC1sb3NpbmctY3J5cHRvLXRvLWhhY2tlcnMuanBn.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "Cripto",
+        "Hackeo",
+        "Seguridad",
+        "Corea del Norte"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/cara-cara-andres-borenstein-economista-plan-bajar-inflacion-innovador-politica-ingresos-frenar-inercia_0_g9UEb1BH5i.html",
+      "tituloOriginal": "Cara a cara con Andrés Borenstein, economista: \"El plan para bajar la inflación tuvo algo de innovador, pero sin una política de ingresos para frenar la inercia\"",
+      "tituloLimpio": "Economista Borenstein: Plan antiinflacionario argentino carece de política de ingresos",
+      "resumen": "Andrés Borenstein opina que el plan de estabilización actual en Argentina, si bien innovador en algunos aspectos, falla al no incluir una política de ingresos para frenar la inercia inflacionaria.",
+      "porQueImporta": "Análisis crítico de la política económica argentina, con proyecciones sobre la inflación y la efectividad de las medidas gubernamentales.",
+      "publicadoEn": "2026-06-14T10:35:25.000Z",
+      "imagen": "https://www.clarin.com/img/2026/06/14/LjibsZZZr_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Inflación",
+        "Economía",
+        "Política Económica"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/06/14/pablo-guidotti-ex-viceministro-de-economia-el-esquema-previsional-actual-es-insostenible/",
+      "tituloOriginal": "Pablo Guidotti, ex viceministro de Economía: “El esquema previsional actual es insostenible”",
+      "tituloLimpio": "Ex viceministro Guidotti: El esquema previsional argentino es insostenible",
+      "resumen": "Pablo Guidotti, ex viceministro de Economía, analiza la insostenibilidad del sistema previsional actual en Argentina y los desafíos para reducir el riesgo país.",
+      "porQueImporta": "Alerta sobre la viabilidad a largo plazo del sistema de jubilaciones argentino, con implicaciones para el futuro financiero de los ciudadanos.",
+      "publicadoEn": "2026-06-14T10:47:27.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/CF5H7PULMZE3NOE3W2IDFAKYLY.jpg?auth=bad6c995bfabdef35aec4c8c95a6db670c1250b78a03e371cdce705967417775&smart=true&width=7530&height=5020",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Previsión Social",
+        "Economía",
+        "Riesgo País"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/la-administracion-central-enfrenta-339000-juicios-y-se-desconoce-cuanto-debera-pagar-nid14062026/",
+      "tituloOriginal": "La administración central enfrenta 339.000 juicios y se desconoce cuánto deberá pagar",
+      "tituloLimpio": "Administración central argentina enfrenta 339.000 juicios",
+      "resumen": "La administración pública argentina enfrenta una litigiosidad masiva con 339.000 juicios, muchos sin monto definido, generando incertidumbre sobre los pasivos del Estado.",
+      "porQueImporta": "Revela la magnitud de la carga judicial y financiera que recae sobre el Estado argentino, con potenciales implicaciones presupuestarias.",
+      "publicadoEn": "2026-06-14T10:55:29.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/WDQVJTJWKREPJIHZEJLF3H75OQ.JPG?auth=bbdf0916c46fb3a01c8a902f9f9fe97d905fb4de2db6ca8559003699c6d11b55&smart=true&width=2000&height=1331",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Justicia",
+        "Finanzas Públicas",
+        "Litigios"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "fuente": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/5-marketers-moves-to-know-this-week-knix-bayer-and-more/",
+      "tituloOriginal": "5 Marketer Moves to Know This Week: Knix, Bayer, and More",
+      "tituloLimpio": "Movimientos clave de 5 marketers esta semana",
+      "resumen": "Un resumen semanal de los nombramientos de liderazgo en marketing más importantes en Estados Unidos y a nivel global, incluyendo a Knix y Bayer.",
+      "porQueImporta": "Información relevante sobre cambios en la cúpula de empresas importantes del sector marketing, útil para entender tendencias y movimientos estratégicos.",
+      "publicadoEn": "2026-06-12T12:57:29.000Z",
+      "globalScore": 82,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "Liderazgo",
+        "Nombramientos",
+        "Business"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/news/viking-cruises-bloom-energy-stocks/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Viking, Bloom Energy Lead Five Stocks Making Bullish Moves As Market Rebounds",
+      "tituloLimpio": "Viking y Bloom Energy lideran acciones con movimientos alcistas en rebote del mercado",
+      "resumen": "Viking Cruises y Bloom Energy se encuentran entre las cinco acciones que muestran un desempeño alcista mientras el mercado general se recupera.",
+      "porQueImporta": "Identifica oportunidades de inversión en empresas con tendencias positivas, especialmente en un contexto de recuperación del mercado.",
+      "publicadoEn": "2026-06-13T12:00:50.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/50a3d3e67b374c8d5ead6701ec0c6469",
+      "globalScore": 82,
+      "personalScore": 92,
+      "tags": [
+        "Finanzas",
+        "Inversiones",
+        "Acciones",
+        "Mercado"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-06-14T12:19:18.945Z"
+  }
+}
