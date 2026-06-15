@@ -1,111 +1,112 @@
 {
   "fecha": "2026-06-15",
-  "generadoEn": "2026-06-15T17:19:20.120Z",
+  "generadoEn": "2026-06-15T17:33:46.011Z",
   "actualizacion": "14:00",
-  "resumenEjecutivo": "Hoy destacamos el acuerdo de paz entre EEUU e Irán que impacta en el precio del petróleo y los mercados globales. En tecnología, Apple sigue lanzando betas de sus sistemas operativos y Adobe integra más IA en sus herramientas. En Argentina, las pymes enfrentan suba de costos y atrasos en la cadena de pagos, mientras que se investiga al ex titular de ARSAT por corrupción. También hay novedades sobre SpaceX y la moción de censura contra Manuel Adorni.",
+  "resumenEjecutivo": "Guido, te preparé un resumen con lo más relevante del día. Hay novedades importantes en Apple con las betas de sus sistemas y funciones de IA en Fotos. En Argentina, el acuerdo de paz entre EEUU e Irán impactó fuerte en los mercados, con caídas en el petróleo y subas en Wall Street, además de noticias sobre YPF y SpaceX. También hay un foco en la regulación de IA y su impacto en ciberseguridad. Te dejo las noticias clave para que estés al tanto.",
   "radarPersonal": [],
   "loImportante": [
-    "Acuerdo de paz entre EEUU e Irán impacta en el petróleo y mercados globales.",
-    "Apple lanza beta de macOS Tahoe y se prepara para actualizaciones de iOS.",
-    "Adobe integra más IA en sus herramientas creativas.",
-    "Pymes argentinas sufren suba de costos y atrasos en la cadena de pagos.",
-    "Investigan al ex titular de ARSAT por corrupción."
+    "El acuerdo de paz entre EEUU e Irán provocó una fuerte caída en el precio del petróleo y un alza en Wall Street, con impacto directo en los mercados globales y locales.",
+    "Apple lanzó las segundas betas de macOS Tahoe e iOS 26.6, y se anticipan nuevas funciones de inteligencia artificial para la app Fotos.",
+    "La regulación de modelos de IA potentes de Anthropic generó protestas de expertos en ciberseguridad, quienes advierten sobre riesgos para la defensa digital.",
+    "El mercado cripto muestra recuperación, con Bitcoin volviendo a los $66.000, aunque analistas advierten sobre posibles rebotes efímeros.",
+    "En Argentina, YPF evalúa adelantar cambios en los precios de la nafta ante la baja del petróleo, y SpaceX amplió su venta de acciones."
   ],
   "oportunidades": [
     {
       "id": "oportunidad-1",
       "categoria": "Investing",
-      "titulo": "Oportunidad en Citigroup",
-      "detalle": "Se observa una estrategia de opciones 'bullish spread' para capturar momentum en la acción de Citigroup con riesgo limitado.",
+      "titulo": "Oportunidad en Corning por el auge de centros de datos de IA",
+      "detalle": "Corning, impulsada por su rol en la provisión de componentes para centros de datos de IA, muestra un desempeño positivo en bolsa.",
       "acciones": [
-        "Analizar estrategia de opciones 'bullish spread' para Citi.",
-        "Evaluar la volatilidad y el momentum del mercado financiero."
+        "Analizar la cotización de Corning (GLW).",
+        "Investigar su participación en la cadena de suministro de infraestructura de IA."
       ]
     },
     {
       "id": "oportunidad-2",
       "categoria": "AI",
-      "titulo": "IA en herramientas creativas",
-      "detalle": "Adobe suma cada vez más funcionalidades de IA a sus productos (Lightroom, Premiere, Photoshop). Esto puede optimizar flujos de trabajo y potenciar la creatividad.",
+      "titulo": "Integración de IA en Apple Fotos",
+      "detalle": "Las próximas actualizaciones de Apple Intelligence para la app Fotos prometen herramientas de edición avanzadas, lo que podría mejorar la experiencia del usuario y la percepción de valor de los dispositivos.",
       "acciones": [
-        "Explorar las nuevas funciones de IA de Adobe.",
-        "Considerar la adopción de estas herramientas para mejorar la producción."
+        "Seguir de cerca el lanzamiento de estas funciones.",
+        "Evaluar el impacto en la adopción de nuevos dispositivos Apple."
       ]
     },
     {
       "id": "oportunidad-3",
-      "categoria": "Automation",
-      "titulo": "Drones autónomos y su uso",
-      "detalle": "El CEO de Skydio discute el potencial de los drones autónomos y la importancia de no poner límites a su uso, abriendo puertas a nuevas aplicaciones.",
+      "categoria": "Argentina",
+      "titulo": "Impacto del acuerdo de paz en el mercado energético argentino",
+      "detalle": "La baja del petróleo abre la puerta a posibles ajustes en los precios de los combustibles en Argentina, lo que podría beneficiar a consumidores y empresas.",
       "acciones": [
-        "Investigar el mercado de drones autónomos.",
-        "Evaluar posibles aplicaciones en distintos sectores."
+        "Monitorear las decisiones de YPF sobre precios.",
+        "Evaluar el impacto en la inflación y el consumo."
       ]
     }
   ],
   "riesgos": [
     {
       "id": "riesgo-1",
-      "categoria": "Market",
-      "titulo": "Volatilidad en Bitcoin",
-      "detalle": "Si bien Bitcoin se recupera, un analista advierte sobre un posible 'rebote del gato muerto', indicando cautela ante la volatilidad del mercado cripto.",
-      "mitigacion": "Monitorear de cerca las señales del mercado y diversificar las inversiones."
+      "categoria": "AI",
+      "titulo": "Restricciones a modelos de IA potentes",
+      "detalle": "La prohibición del gobierno de EE.UU. sobre modelos de Anthropic genera preocupación en la comunidad de ciberseguridad, que teme que esto debilite la defensa contra amenazas.",
+      "mitigacion": "Seguir de cerca las discusiones regulatorias y el desarrollo de contramedidas por parte de la industria de ciberseguridad."
     },
     {
       "id": "riesgo-2",
-      "categoria": "Regulatory",
-      "titulo": "Protesta por prohibición de modelos de IA",
-      "detalle": "Expertos en ciberseguridad protestan contra una posible prohibición del gobierno de EE.UU. sobre modelos potentes de Anthropic, argumentando que podría perjudicar la defensa cibernética.",
-      "mitigacion": "Seguir de cerca las regulaciones sobre IA y su impacto en la industria."
+      "categoria": "Market",
+      "titulo": "Volatilidad en criptomonedas",
+      "detalle": "A pesar de la recuperación de Bitcoin, analistas advierten sobre la posibilidad de un 'rebote de gato muerto', indicando que la tendencia bajista podría continuar.",
+      "mitigacion": "Mantener cautela en las inversiones en criptoactivos y diversificar el portafolio."
     },
     {
       "id": "riesgo-3",
-      "categoria": "Argentina",
-      "titulo": "Preocupaciones en Pymes Argentinas",
-      "detalle": "La suba de costos y los atrasos en la cadena de pagos son las principales preocupaciones para las pymes argentinas, con una caída del 9,2% en la producción.",
-      "mitigacion": "Buscar estrategias para optimizar costos y mejorar la gestión de la cadena de pagos."
+      "categoria": "Regulatory",
+      "titulo": "Debate sobre regulación de cripto en EE.UU.",
+      "detalle": "La falta de claridad regulatoria en EE.UU. para el sector cripto, a pesar de avances legislativos, podría desalentar la innovación y la inversión.",
+      "mitigacion": "Observar la evolución de la legislación y su impacto en el ecosistema cripto global."
     }
   ],
   "conexiones": [],
   "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
+      "tituloOriginal": "We’re strengthening our presence in Alabama through new investments and community support.",
+      "tituloLimpio": "Google invierte $1.500 millones en centro de datos en Alabama",
+      "resumen": "Google anunció una inversión de $1.500 millones para expandir su campus de centros de datos en Jackson County, Alabama, fortaleciendo su presencia en la región.",
+      "porQueImporta": "Inversión significativa de una gigante tecnológica en infraestructura, con potencial impacto económico y en el sector de la nube.",
+      "publicadoEn": "2026-06-15T15:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Tecnología",
+        "Inversiones",
+        "Google",
+        "Infraestructura"
+      ],
+      "tambienVistoEn": []
+    },
     {
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Apple",
       "fuente": "MacRumors",
       "url": "https://www.macrumors.com/2026/06/15/apple-seeds-macos-tahoe-26-6-beta-2/",
       "tituloOriginal": "Second macOS Tahoe 26.6 Beta Now Available for Developers",
-      "tituloLimpio": "Apple lanza la segunda beta de macOS Tahoe 26.6 para desarrolladores",
-      "resumen": "Apple ha liberado la segunda versión beta de macOS Tahoe 26.6 para desarrolladores, casi tres semanas después de la primera. La actualización se puede descargar a través de la configuración del sistema.",
-      "porQueImporta": "Actualización del sistema operativo de Apple, relevante para desarrolladores y usuarios que siguen de cerca las novedades de la compañía.",
+      "tituloLimpio": "Apple lanza segunda beta de macOS Tahoe 26.6 para desarrolladores",
+      "resumen": "Apple ha liberado la segunda versión beta de macOS Tahoe 26.6 para desarrolladores, casi tres semanas después de la primera, permitiendo pruebas de las próximas actualizaciones del sistema operativo.",
+      "porQueImporta": "Actualizaciones clave para el ecosistema Apple, anticipando mejoras y correcciones en sus sistemas.",
       "publicadoEn": "2026-06-15T17:09:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "macOS",
-        "Software",
-        "Desarrollo"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
-      "categoria": "Finance",
-      "fuente": "Sherwood",
-      "url": "https://sherwood.news/tech/gold-tesla-cybercabs-are-piling-up-but-theyre-not-picking-up-passengers-yet/",
-      "tituloOriginal": "Gold Tesla Cybercabs are piling up, but they’re not picking up passengers yet",
-      "tituloLimpio": "Tesla Cybercabs dorados en producción, pero aún no transportan pasajeros",
-      "resumen": "La producción a bajo volumen de los Tesla Cybercabs dorados comenzó en abril y ahora se los ve más seguido, aunque todavía no están operativos para transportar pasajeros.",
-      "porQueImporta": "Novedad sobre la producción de vehículos de Tesla, un actor clave en la industria automotriz y tecnológica.",
-      "publicadoEn": "2026-06-15T16:50:50.000Z",
-      "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/2266517686_austin-texas-josh-west-left-of-austin-looks-at-a-tesla-cybercab-on-display-at-a-pop-up-event.jpg",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "Tesla",
-        "Autos",
         "Tecnología",
-        "Producción"
+        "Software",
+        "macOS",
+        "Desarrolladores"
       ],
       "tambienVistoEn": []
     },
@@ -115,19 +116,20 @@
       "fuente": "Ambito",
       "url": "https://www.ambito.com/economia/acuerdo-eeuu-e-iran-el-petroleo-se-desploma-suben-los-futuros-wall-street-y-bolsas-asiaticas-vuelan-6-n6288812",
       "tituloOriginal": "Wall Street avanza hasta 2,4% y el petróleo retrocede con fuerza tras el acuerdo de paz entre EEUU e Irán",
-      "tituloLimpio": "Acuerdo de paz entre EEUU e Irán desploma el petróleo y dispara los futuros de Wall Street",
-      "resumen": "El petróleo retrocede con fuerza tras el acuerdo de paz entre Estados Unidos e Irán. La reapertura del estrecho de Ormuz impulsa los activos en Nueva York, mientras las bolsas asiáticas y el crudo reaccionan a la expectativa de normalización del comercio energético.",
-      "porQueImporta": "Impacto directo en los mercados energéticos y financieros globales, con implicaciones para la economía.",
+      "tituloLimpio": "Wall Street avanza y el petróleo retrocede por acuerdo de paz entre EEUU e Irán",
+      "resumen": "El acuerdo de paz entre Estados Unidos e Irán impulsó los activos en Nueva York, mientras que el crudo cayó con fuerza ante la expectativa de una normalización del comercio energético global. Las bolsas asiáticas también mostraron alzas significativas.",
+      "porQueImporta": "Impacto directo en mercados globales y locales, especialmente en el precio de la energía y las inversiones financieras.",
       "publicadoEn": "2026-06-15T14:55:00.000Z",
       "imagen": "https://media.ambito.com/p/781258f1a2e19cf145a2d0c568fa6657/adjuntos/239/imagenes/043/289/0043289037/1200x675/2633x1546:2653x1566/petroleo-mercados.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "Economía",
+        "Argentina",
+        "Finanzas",
         "Mercados",
         "Petróleo",
-        "Geopolítica",
-        "Argentina"
+        "Wall Street",
+        "Geopolítica"
       ],
       "tambienVistoEn": []
     },
@@ -137,9 +139,9 @@
       "fuente": "Marketing Dive",
       "url": "https://www.marketingdive.com/news/ana-and-4as-offer-guidelines-to-make-agency-pitches-more-bearable/822823/",
       "tituloOriginal": "ANA and 4As offer guidelines to make agency pitches more bearable",
-      "tituloLimpio": "ANA y 4As publican guías para hacer más llevaderas las presentaciones de agencias",
-      "resumen": "Las asociaciones de marketing ANA y 4As publicaron 10 recomendaciones para priorizar la confianza y transparencia en el proceso de selección de agencias.",
-      "porQueImporta": "Mejoras en los procesos de marketing y publicidad, clave para la relación entre marcas y agencias.",
+      "tituloLimpio": "ANA y 4As ofrecen guías para hacer más llevaderas las presentaciones de agencias",
+      "resumen": "Las asociaciones comerciales ANA y 4As publicaron 10 recomendaciones para mejorar el proceso de pitches de agencias, priorizando la confianza y la transparencia.",
+      "porQueImporta": "Mejoras prácticas en el ámbito del marketing y la publicidad, que pueden optimizar procesos y relaciones.",
       "publicadoEn": "2026-06-15T16:00:00.000Z",
       "globalScore": 92,
       "personalScore": 100,
@@ -147,7 +149,8 @@
         "Marketing",
         "Publicidad",
         "Agencias",
-        "Negocios"
+        "Negocios",
+        "Procesos"
       ],
       "tambienVistoEn": []
     },
@@ -157,9 +160,9 @@
       "fuente": "TechCrunch AI",
       "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
       "tituloOriginal": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
-      "tituloLimpio": "Expertos en ciberseguridad protestan contra posible prohibición de modelos de IA de Anthropic",
-      "resumen": "Un grupo de expertos en ciberseguridad insta a la Casa Blanca a retirar las restricciones de control de exportación sobre los modelos Fable y Mythos de Anthropic, argumentando que limitarán la capacidad de los defensores de la ciberseguridad.",
-      "porQueImporta": "Debate sobre la regulación de la IA y su impacto en la seguridad, con implicaciones para el desarrollo tecnológico.",
+      "tituloLimpio": "Expertos en ciberseguridad protestan prohibición de modelos de IA de Anthropic",
+      "resumen": "Un grupo de expertos en ciberseguridad critica la prohibición del gobierno de EE.UU. sobre los modelos más potentes de Anthropic, argumentando que limita la capacidad de defensa del software.",
+      "porQueImporta": "Revela tensiones entre el desarrollo de IA y la seguridad nacional, con implicaciones regulatorias y tecnológicas.",
       "publicadoEn": "2026-06-15T15:29:51.000Z",
       "globalScore": 96,
       "personalScore": 100,
@@ -167,7 +170,8 @@
         "AI",
         "Ciberseguridad",
         "Regulación",
-        "Tecnología"
+        "Tecnología",
+        "Anthropic"
       ],
       "tambienVistoEn": []
     },
@@ -177,9 +181,9 @@
       "fuente": "The Verge AI",
       "url": "https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military",
       "tituloOriginal": "Skydio CEO Adam Bry on why Silicon Valley shouldn’t draw red lines for drone use",
-      "tituloLimpio": "CEO de Skydio: No se deben poner límites al uso de drones autónomos",
-      "resumen": "Adam Bry, CEO de Skydio, líder en drones autónomos, discute la importancia de no establecer 'líneas rojas' para el uso de esta tecnología, abriendo debate sobre sus aplicaciones.",
-      "porQueImporta": "Visión sobre el futuro de los drones autónomos y su potencial, relevante para la innovación tecnológica.",
+      "tituloLimpio": "CEO de Skydio sobre el uso de drones autónomos y líneas rojas",
+      "resumen": "Adam Bry, CEO de Skydio, discute por qué Silicon Valley no debería imponer límites estrictos al uso de drones autónomos, compartiendo su visión sobre la tecnología.",
+      "porQueImporta": "Perspectiva sobre el futuro de los drones autónomos y su regulación, un sector en crecimiento con aplicaciones diversas.",
       "publicadoEn": "2026-06-15T14:00:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
@@ -187,7 +191,8 @@
         "AI",
         "Drones",
         "Tecnología",
-        "Innovación"
+        "Autonomía",
+        "Skydio"
       ],
       "tambienVistoEn": []
     },
@@ -198,36 +203,17 @@
       "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
       "tituloOriginal": "Google DeepMind is worried about what happens when millions of agents start to interact",
       "tituloLimpio": "Google DeepMind preocupado por la interacción de millones de agentes de IA",
-      "resumen": "Google DeepMind financia investigación sobre los peligros potenciales de la interacción masiva de agentes de IA en línea, ante la inminente llegada de sistemas que operan sin supervisión humana directa.",
-      "porQueImporta": "Alerta temprana sobre los riesgos de la IA a gran escala, fundamental para la seguridad y alineación de futuros sistemas.",
+      "resumen": "Google DeepMind está financiando investigación sobre los peligros potenciales de la interacción masiva de agentes de IA en línea, ante la posibilidad de que actúen sin supervisión humana.",
+      "porQueImporta": "Aborda preocupaciones de seguridad y alineación a largo plazo en el desarrollo de IA avanzada.",
       "publicadoEn": "2026-06-11T11:00:45.000Z",
       "globalScore": 90,
       "personalScore": 100,
       "tags": [
         "AI",
         "Google",
+        "DeepMind",
         "Seguridad IA",
-        "Investigación"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
-      "categoria": "Apple",
-      "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/15/ios-26-5-2-update-likely-coming-soon-for-iphone-users/",
-      "tituloOriginal": "iOS 26.5.2 update likely coming soon for iPhone users",
-      "tituloLimpio": "Actualización iOS 26.5.2 para iPhone estaría por llegar",
-      "resumen": "Mientras la atención se centra en iOS 27, Apple prepara iOS 26.5.2 como una actualización de corrección de errores para los usuarios de iPhone.",
-      "porQueImporta": "Próxima actualización de software para iPhone, importante para la estabilidad y seguridad de los dispositivos.",
-      "publicadoEn": "2026-06-15T17:16:04.000Z",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "Apple",
-        "iOS",
-        "iPhone",
-        "Software"
+        "Agentes IA"
       ],
       "tambienVistoEn": []
     },
@@ -235,20 +221,20 @@
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
       "categoria": "Apple",
       "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/06/15/adobe-crams-more-ai-into-lightroom-premiere-photoshop-after-effects?utm_source=rss",
-      "tituloOriginal": "Adobe crams more AI into Lightroom, Premiere, Photoshop, After Effects",
-      "tituloLimpio": "Adobe potencia Lightroom, Premiere y Photoshop con más funciones de IA",
-      "resumen": "Adobe ha incorporado nuevas funcionalidades, muchas impulsadas por inteligencia artificial, en sus programas de Creative Cloud, incluyendo Lightroom, Premiere, Photoshop y After Effects.",
-      "porQueImporta": "Avance significativo en la integración de IA en herramientas de diseño y edición, impactando la productividad creativa.",
-      "publicadoEn": "2026-06-15T16:23:16.000Z",
+      "url": "https://appleinsider.com/articles/26/06/15/second-developer-betas-for-ios-266-macos-266-have-arrived?utm_source=rss",
+      "tituloOriginal": "Second developer betas for iOS 26.6, macOS 26.6 have arrived",
+      "tituloLimpio": "Llegaron las segundas betas para iOS 26.6 y macOS 26.6",
+      "resumen": "Apple continúa su ciclo de pruebas beta con el lanzamiento de las segundas versiones para desarrolladores de iOS 26.6, iPadOS 26.6, watchOS 26.6, tvOS 26.6, visionOS 26.6 y macOS Tahoe 26.6.",
+      "porQueImporta": "Detalle importante para desarrolladores y entusiastas de Apple sobre las próximas actualizaciones de sus dispositivos.",
+      "publicadoEn": "2026-06-15T17:25:05.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "Adobe",
-        "AI",
+        "Tecnología",
         "Software",
-        "Creatividad"
+        "iOS",
+        "macOS"
       ],
       "tambienVistoEn": []
     },
@@ -259,16 +245,39 @@
       "url": "https://www.macstories.net/linked/three-features-coming-to-photos-this-fall-via-apple-intelligence/",
       "tituloOriginal": "Three Features Coming to Photos This Fall via Apple Intelligence",
       "tituloLimpio": "Tres funciones de Apple Intelligence llegarán a Fotos este otoño",
-      "resumen": "La edición de fotos recibirá funciones interesantes de Apple Intelligence, como Spatial Reframing y Extend, además de mejoras en la interfaz.",
-      "porQueImporta": "Detalles sobre cómo Apple Intelligence potenciará la aplicación Fotos, con herramientas de edición avanzadas.",
+      "resumen": "La app Fotos de Apple recibirá importantes mejoras de inteligencia artificial este otoño, incluyendo Spatial Reframing y Extend, según entrevistas con ejecutivos de Apple.",
+      "porQueImporta": "Demuestra la integración de IA en productos clave de Apple, mejorando la experiencia del usuario y el valor de sus dispositivos.",
       "publicadoEn": "2026-06-15T15:04:13.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
         "AI",
+        "Software",
         "Fotos",
-        "Software"
+        "Apple Intelligence"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/research/ibd-stock-of-the-day/corning-stock-artificial-intelligence-data-centers-photonics/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Corning, IBD Stock Of The Day, Boosted By AI Data Center Play",
+      "tituloLimpio": "Corning, impulsada por su rol en centros de datos de IA",
+      "resumen": "La acción de Corning se ve beneficiada por su participación en la provisión de componentes para centros de datos de inteligencia artificial, un sector en plena expansión.",
+      "porQueImporta": "Indicador del desempeño de empresas clave en la infraestructura tecnológica de la IA y oportunidades de inversión.",
+      "publicadoEn": "2026-06-15T17:12:11.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/53f6063e50089a2f32358e5094273526",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "Inversiones",
+        "AI",
+        "Tecnología",
+        "Corning"
       ],
       "tambienVistoEn": []
     },
@@ -278,9 +287,9 @@
       "fuente": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/crypto/article/bitcoin-recovers-to-66000-but-one-analyst-warns-of-a-dead-cat-bounce-131244858.html",
       "tituloOriginal": "Bitcoin recovers to $66,000, but one analyst warns of a 'dead-cat bounce'",
-      "tituloLimpio": "Bitcoin se recupera a $66.000, pero analista advierte sobre 'rebote del gato muerto'",
-      "resumen": "Bitcoin ha recuperado el nivel de $66.000, pero un analista advierte sobre la posibilidad de un 'dead-cat bounce', sugiriendo cautela en el mercado de criptomonedas.",
-      "porQueImporta": "Análisis del comportamiento del Bitcoin y advertencia sobre posibles movimientos engañosos en el mercado cripto.",
+      "tituloLimpio": "Bitcoin se recupera a $66.000, pero analistas advierten sobre 'rebote de gato muerto'",
+      "resumen": "Bitcoin ha recuperado el nivel de $66.000, pero un analista advierte sobre la posibilidad de un 'rebote de gato muerto', sugiriendo cautela ante la volatilidad del mercado.",
+      "porQueImporta": "Información relevante para inversores en criptomonedas sobre la posible dirección del mercado.",
       "publicadoEn": "2026-06-15T13:12:44.000Z",
       "imagen": "https://s.yimg.com/uu/api/res/1.2/iPRYXX0GQKjj8vih5vCeZw--~B/aD01NzYwO3c9ODY0MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-06/6d0eea16-0a83-4829-a027-8749812242d9",
       "globalScore": 94,
@@ -289,28 +298,8 @@
         "Finanzas",
         "Criptomonedas",
         "Bitcoin",
-        "Inversión"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
-      "categoria": "Finance",
-      "fuente": "Yahoo Finance",
-      "url": "https://www.investors.com/research/options/citigroup-citi-bank-c-stock-options-trading-financials-markets/?src=A00220&yptr=yahoo",
-      "tituloOriginal": "Bullish Spread Targets Citigroup Stock Momentum With Limited Risk",
-      "tituloLimpio": "Estrategia de opciones busca momentum en acciones de Citigroup con riesgo limitado",
-      "resumen": "Se describe una estrategia de opciones 'bullish spread' orientada a capturar el momentum de las acciones de Citigroup, limitando el riesgo.",
-      "porQueImporta": "Técnica de inversión en mercados financieros, aplicable a acciones bancarias como Citigroup.",
-      "publicadoEn": "2026-06-15T17:02:06.000Z",
-      "imagen": "https://media.zenfs.com/en/ibd.com/86ab8dc929eed45cb9e5e75883ace7e1",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "Finanzas",
-        "Inversión",
-        "Opciones",
-        "Citigroup"
+        "Inversiones",
+        "Mercado"
       ],
       "tambienVistoEn": []
     },
@@ -321,8 +310,8 @@
       "url": "https://www.coindesk.com/opinion/2026/06/15/if-america-wants-to-lead-in-crypto-it-must-protect-the-people-who-build-it",
       "tituloOriginal": "If America wants to lead in crypto, it must protect the people who build it",
       "tituloLimpio": "EE.UU. debe proteger a los constructores de cripto para liderar en el sector",
-      "resumen": "Se argumenta que para que Estados Unidos lidere en el espacio cripto, es crucial proteger a quienes desarrollan la tecnología, incluso con provisiones bajo amenaza en la Clarity Act.",
-      "porQueImporta": "Perspectiva sobre la regulación y el futuro de las criptomonedas en EE.UU., enfocándose en la protección de los innovadores.",
+      "resumen": "Se argumenta que para que Estados Unidos lidere en el espacio de las criptomonedas, es fundamental proteger a quienes desarrollan la tecnología, a pesar de los avances legislativos.",
+      "porQueImporta": "Análisis sobre el futuro de las criptomonedas y la importancia de un marco regulatorio favorable en EE.UU.",
       "publicadoEn": "2026-06-15T14:25:00.000Z",
       "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/268022b2aec52e67a3d3a5816e169a62fb0445de-5220x3480.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
       "globalScore": 92,
@@ -331,7 +320,8 @@
         "Finanzas",
         "Criptomonedas",
         "Regulación",
-        "EEUU"
+        "EEUU",
+        "Innovación"
       ],
       "tambienVistoEn": []
     },
@@ -341,9 +331,9 @@
       "fuente": "CoinTelegraph",
       "url": "https://cointelegraph.com/markets/bitcoin-analysis-warn-over-btc-price-rejection-as-67k-approaches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "tituloOriginal": "Bitcoin analysis warns over BTC price rejection as $67K approaches",
-      "tituloLimpio": "Análisis de Bitcoin advierte sobre rechazo de precio al acercarse a $67K",
-      "resumen": "Bitcoin experimentó un alza de liquidez alcista al inicio de la sesión estadounidense, pero los traders advierten sobre la posibilidad de un rechazo de precio al intentar superar los $67.000.",
-      "porQueImporta": "Análisis técnico y advertencias sobre el comportamiento del precio de Bitcoin, relevante para inversores en cripto.",
+      "tituloLimpio": "Análisis de Bitcoin advierte sobre posible rechazo de precio al acercarse a $67K",
+      "resumen": "Bitcoin experimentó un alza al inicio de la sesión de trading de EE.UU., pero los traders advierten sobre la dificultad para mantener las ganancias ante la resistencia en los $67.000.",
+      "porQueImporta": "Perspectiva técnica sobre el comportamiento del precio de Bitcoin y posibles escenarios a corto plazo.",
       "publicadoEn": "2026-06-15T15:22:18.000Z",
       "imagen": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS10b3AtdGVuLWlzc3Vlcy1lbnRpdGllcy1oYXZlLXdpdGgtYml0Y29pbi5qcGc=.jpg",
       "globalScore": 90,
@@ -352,7 +342,8 @@
         "Finanzas",
         "Criptomonedas",
         "Bitcoin",
-        "Análisis"
+        "Trading",
+        "Mercado"
       ],
       "tambienVistoEn": []
     },
@@ -360,20 +351,22 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/suba-costos-atrasos-cadena-pagos-tope-preocupaciones-pymes_0_EVEShpSkwp.html",
-      "tituloOriginal": "La suba de costos y los atrasos en la cadena de pagos, al tope de las preocupaciones de las pymes",
-      "tituloLimpio": "Suba de costos y atrasos en cadena de pagos, principal preocupación de pymes argentinas",
-      "resumen": "Las pymes argentinas enfrentan una caída del 9,2% en la producción en el primer trimestre, afectadas por el 'efecto sándwich' de la suba de costos y los atrasos en la cadena de pagos.",
-      "porQueImporta": "Situación crítica del sector pyme en Argentina, con impacto directo en la economía y el empleo.",
-      "publicadoEn": "2026-06-15T16:23:51.000Z",
-      "imagen": "https://www.clarin.com/img/2014/11/24/BkQvyP23Qx_1200x630.jpg",
-      "globalScore": 94,
+      "url": "https://www.clarin.com/economia/precios-nafta-ypf-analiza-adelantar-cambio-valores-surtidores-baja-petroleo_0_s6dwiWvGic.html",
+      "tituloOriginal": "Precios de la nafta: YPF analiza adelantar un cambio en los valores en los surtidores por la baja del petróleo",
+      "tituloLimpio": "YPF analiza adelantar cambios en precios de nafta por baja del petróleo",
+      "resumen": "Ante la cercanía del barril de petróleo a los US$ 80 por el acuerdo de paz en Medio Oriente, YPF evalúa acelerar ajustes en los precios de los surtidores, aunque la reducción no sería inmediata.",
+      "porQueImporta": "Noticia clave para el bolsillo de los argentinos y la política de precios de la energía en el país.",
+      "publicadoEn": "2026-06-15T16:44:40.000Z",
+      "imagen": "https://www.clarin.com/img/2026/03/29/9l8iLnT39-_1200x630__1.jpg",
+      "globalScore": 86,
       "personalScore": 100,
       "tags": [
         "Argentina",
         "Economía",
-        "Pymes",
-        "Costos"
+        "Precios",
+        "Energía",
+        "YPF",
+        "Petróleo"
       ],
       "tambienVistoEn": []
     },
@@ -383,9 +376,9 @@
       "fuente": "Clarin Politica",
       "url": "https://www.clarin.com/politica/sobres-mochilas-fajos-dinero-declaraciones-complicaron-ex-titular-arsat-causa-corrupcion_0_giQR8c7XaO.html",
       "tituloOriginal": "Sobres, mochilas y fajos de dinero: las declaraciones que complicaron al ex titular de ARSAT en la causa de corrupción",
-      "tituloLimpio": "Declaraciones complican al ex titular de ARSAT en causa por corrupción",
-      "resumen": "Testigos declararon en la justicia que el ex titular de ARSAT, Facundo Leal, utilizaba mochilas y se lo vio con sobres de dinero, complicando su situación en una causa de corrupción.",
-      "porQueImporta": "Novedades en causas de corrupción que involucran a exfuncionarios, con implicaciones políticas y judiciales.",
+      "tituloLimpio": "Declaraciones complican al ex titular de ARSAT en causa de corrupción",
+      "resumen": "Testigos declararon en la justicia que el ex titular de ARSAT, Facundo Leal, utilizaba mochilas y recibía sobres con dinero, complicándolo en una causa de corrupción.",
+      "porQueImporta": "Desarrollo judicial relevante en Argentina, con implicancias sobre la gestión pública y la corrupción.",
       "publicadoEn": "2026-06-15T16:04:50.000Z",
       "imagen": "https://www.clarin.com/img/2026/05/29/K8D_JiKjs_1200x630__1.jpg",
       "globalScore": 94,
@@ -394,7 +387,8 @@
         "Argentina",
         "Política",
         "Corrupción",
-        "Judicial"
+        "Judicial",
+        "ARSAT"
       ],
       "tambienVistoEn": []
     },
@@ -404,18 +398,20 @@
       "fuente": "Infobae Economia",
       "url": "https://www.infobae.com/economia/2026/06/15/spacex-amplio-su-venta-de-acciones-salto-otro-10-y-capitalizo-una-menor-aversion-al-riesgo-en-las-bolsas/",
       "tituloOriginal": "SpaceX amplió su venta de acciones: saltó otro 10% y capitalizó una menor aversión al riesgo en las bolsas",
-      "tituloLimpio": "SpaceX amplía venta de acciones y capitaliza menor aversión al riesgo",
-      "resumen": "La compañía de Elon Musk amplió su venta de acciones, elevando sus ingresos y capitalizando una menor aversión al riesgo en las bolsas tras su anuncio de salida a cotización.",
-      "porQueImporta": "Movimiento financiero importante de SpaceX, una empresa clave en el sector aeroespacial y tecnológico.",
+      "tituloLimpio": "SpaceX amplió su venta de acciones y capitalizó la menor aversión al riesgo",
+      "resumen": "La compañía de Elon Musk anunció una venta adicional de acciones, elevando sus ingresos y aprovechando la mejora en la percepción de riesgo en los mercados bursátiles.",
+      "porQueImporta": "Movimiento importante de una de las empresas tecnológicas más relevantes, con implicancias para el sector espacial y de inversión.",
       "publicadoEn": "2026-06-15T16:59:31.000Z",
       "imagen": "https://www.infobae.com/resizer/v2/DLKHLIZQ2FF7BCKWYG4OR2VQXQ.JPG?auth=718eec5d6414a7ce8619ca2895dfc00e2937c5ee7b8e1f946686480757279348&smart=true&width=5392&height=3595",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
+        "Finanzas",
         "Empresas",
         "SpaceX",
-        "Finanzas"
+        "Elon Musk",
+        "Inversiones"
       ],
       "tambienVistoEn": []
     },
@@ -426,8 +422,8 @@
       "url": "https://www.infobae.com/politica/2026/06/15/que-es-la-mocion-de-censura-y-que-necesita-la-oposicion-para-remover-al-jefe-de-gabinete-manuel-adorni/",
       "tituloOriginal": "Qué es la moción de censura y qué necesita la oposición para remover al jefe de Gabinete Manuel Adorni",
       "tituloLimpio": "Qué es la moción de censura y qué necesita la oposición para remover a Manuel Adorni",
-      "resumen": "Se explica el procedimiento de moción de censura, una herramienta constitucional que la oposición busca aplicar contra el jefe de Gabinete Manuel Adorni, y los requisitos para su aprobación.",
-      "porQueImporta": "Análisis de herramientas políticas y su posible aplicación en el contexto argentino actual.",
+      "resumen": "Se explica el procedimiento de moción de censura, incorporado en la reforma constitucional de 1994 y que la oposición busca aplicar contra el jefe de Gabinete, Manuel Adorni.",
+      "porQueImporta": "Análisis político sobre una herramienta constitucional poco utilizada en Argentina y su posible aplicación.",
       "publicadoEn": "2026-06-15T16:57:13.000Z",
       "imagen": "https://www.infobae.com/resizer/v2/HDXE3CVQERAPJOH2TYHFRTHWGE.jpeg?auth=967a982c2468ba08a366505288ddc05e0af6db55d497cf510dcc76195961d22e&smart=true&width=1280&height=854",
       "globalScore": 90,
@@ -435,8 +431,9 @@
       "tags": [
         "Argentina",
         "Política",
-        "Congreso",
-        "Gabinete"
+        "Constitución",
+        "Oposición",
+        "Gobierno"
       ],
       "tambienVistoEn": []
     },
@@ -444,21 +441,21 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/IA/moderadores-de-reddit-denuncian-que-empresas-utilizan-la-plataforma-para-manipular-las-respuestas-de-nid15062026/",
-      "tituloOriginal": "Moderadores de Reddit denuncian que empresas utilizan la plataforma para manipular las respuestas de la IA",
-      "tituloLimpio": "Moderadores de Reddit denuncian manipulación de respuestas de IA por empresas",
-      "resumen": "Moderadores de Reddit alertan que empresas estarían utilizando la plataforma para manipular las respuestas de la IA a través de posteos promocionales encubiertos.",
-      "porQueImporta": "Denuncia sobre el uso indebido de plataformas y la manipulación de la información generada por IA, con implicaciones para la veracidad y el marketing.",
-      "publicadoEn": "2026-06-15T17:02:09.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/X3XBMAWEVVDIFGVHOOVGLK55TM.jpg?auth=fb69f12d747c3e5e7c3f55ac2c5254df6c88daa5c47640c7c83143829ce20926&smart=true&width=6000&height=4000",
+      "url": "https://www.lanacion.com.ar/tecnologia/ya-no-es-fomo-sino-fobo-el-nuevo-concepto-que-trajo-la-era-de-la-inteligencia-artificial-nid15062026/",
+      "tituloOriginal": "Ya no es FOMO, sino FOBO, el nuevo concepto que trajo la era de la inteligencia artificial",
+      "tituloLimpio": "FOBO, el nuevo concepto de la era de la inteligencia artificial",
+      "resumen": "Un especialista en liderazgo introduce el concepto de FOBO (Fear Of Better Options) como una respuesta a la era de la inteligencia artificial, contrastándolo con el FOMO.",
+      "porQueImporta": "Reflexión sobre el impacto psicológico y social de la IA en la toma de decisiones y la percepción humana.",
+      "publicadoEn": "2026-06-15T17:18:20.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/GTRHDUKD5BBCPOLMEZMMX4LNZY.jpg?auth=973c1e5908e1fb1c46de8af72391ce1ef55ec1469861145b8c495199b333932e&smart=true&width=4936&height=3293",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
         "AI",
-        "Marketing",
-        "Plataformas",
-        "Reddit"
+        "Tecnología",
+        "Comportamiento",
+        "Liderazgo"
       ],
       "tambienVistoEn": []
     },
@@ -468,16 +465,17 @@
       "fuente": "La Nacion Politica",
       "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-interna-del-gobierno-y-tensiones-con-la-oposicion-dialoguista-nid14062026/",
       "tituloOriginal": "Javier Milei y sus medidas, EN VIVO: la interna del Gobierno y tensiones con la oposición dialoguista por Adorni",
-      "tituloLimpio": "Javier Milei: interna del Gobierno y tensiones con la oposición por Adorni",
-      "resumen": "Seguimiento en vivo de las medidas de Javier Milei, la interna del Gobierno y las tensiones con la oposición dialoguista respecto a Manuel Adorni.",
-      "porQueImporta": "Actualización política clave sobre la gestión del gobierno argentino y las dinámicas de poder.",
-      "publicadoEn": "2026-06-15T16:56:00.000Z",
+      "tituloLimpio": "Javier Milei: interna del Gobierno y tensiones con la oposición dialoguista",
+      "resumen": "Seguimiento en vivo de las medidas del Presidente Javier Milei, la dinámica interna del gobierno y las tensiones con la oposición dialoguista, especialmente en relación a Manuel Adorni.",
+      "porQueImporta": "Actualización clave sobre la gestión presidencial y las relaciones políticas en Argentina.",
+      "publicadoEn": "2026-06-15T17:19:00.000Z",
       "imagen": "https://resizer.glanacion.com/resizer/v2/YGXV4JOZK5FL3O55PIPZXOCFTA.png?auth=b9bbb9fa4949f6a41275dea56dab2ca38cfdccbd2550a97b03934031b7dd1d89&smart=true&width=1299&height=922",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
         "Política",
+        "Gobierno",
         "Javier Milei",
         "Oposición"
       ],
@@ -486,6 +484,6 @@
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-06-15T17:19:20.120Z"
+    "generadoEn": "2026-06-15T17:33:46.011Z"
   }
 }
