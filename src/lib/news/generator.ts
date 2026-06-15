@@ -32,11 +32,12 @@ function mergeNoticias(
 
   return base.filter((item) => allowedIds.has(item.id)).map((item) => {
     const match = byId.get(item.id)
+    // El título y el resumen visibles vienen siempre del medio (RSS), nunca reescritos por
+    // el modelo: Gemini puede alucinar (ej. inventar qué significa "FOBO"). El LLM solo cura
+    // y ordena qué noticias entran; porQueImporta/tags quedan como metadata interna.
     return match
       ? {
           ...item,
-          tituloLimpio: match.tituloLimpio || item.tituloLimpio,
-          resumen: match.resumen || item.resumen,
           porQueImporta: match.porQueImporta || item.porQueImporta,
           tags: match.tags?.length ? match.tags : item.tags,
         }

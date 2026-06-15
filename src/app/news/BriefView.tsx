@@ -32,9 +32,6 @@ function NewsItem({ noticia }: { noticia: NoticiaNormalizada }) {
         <span className={styles.sourceMeta}>{noticia.fuente}</span>
         <span className={styles.metaSep}>·</span>
         <span className={styles.sourceMeta}>{formatTime(noticia.publicadoEn)}</span>
-        <span className={`${styles.score} ${styles.metaSep}`} style={{ marginLeft: 'auto' }}>
-          {noticia.personalScore}
-        </span>
       </div>
 
       {noticia.imagen && (
@@ -64,12 +61,6 @@ export function BriefView({ brief }: { brief: BriefDiario }) {
         {ts}
         {brief.estado.estado === 'error' && ` · ${brief.estado.mensaje}`}
       </div>
-
-      {brief.resumenEjecutivo && (
-        <section className={styles.executive}>
-    <p className={styles.executiveText}>{brief.resumenEjecutivo}</p>
-        </section>
-      )}
 
       <div className={styles.articles}>
         {brief.noticias.map((n) => <NewsItem key={n.id} noticia={n} />)}
