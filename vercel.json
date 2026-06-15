@@ -1,7 +1,3 @@
 {
-  "crons": [
-    { "path": "/api/news/generar", "schedule": "0 12 * * *" },
-    { "path": "/api/news/generar", "schedule": "0 17 * * *" }
-  ],
   "ignoreCommand": "git diff --quiet HEAD^ HEAD -- . ':(exclude)data'"
 }

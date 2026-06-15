@@ -31,6 +31,11 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-2.5-flash-lite' }}
 
+      # Traemos lo último de main por si hubo otro push mientras generábamos,
+      # así el commit siguiente es fast-forward y el push no es rechazado.
+      - name: Sincronizar con remoto
+        run: git pull --rebase --autostash origin main
+
       - name: Commit de datos
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
