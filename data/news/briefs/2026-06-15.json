@@ -1,0 +1,389 @@
+{
+  "fecha": "2026-06-15",
+  "generadoEn": "2026-06-15T12:19:12.777Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "Las noticias de hoy giran en torno a un acuerdo de paz entre EE.UU. e Irán que impacta los mercados financieros globales, con subas en bolsas y caídas en el petróleo. En Argentina, se observan oportunidades de ahorro y se discute la situación política interna. En el ámbito tecnológico, Apple prepara novedades para iOS 27 y Beats lanza un teaser de nuevos auriculares. La IA sigue siendo tema central, con preocupaciones sobre la interacción de millones de agentes y posibles despidos en el sector.",
+  "radarPersonal": [],
+  "loImportante": [
+    "El acuerdo de paz entre EE.UU. e Irán está generando euforia en los mercados, con desplome del petróleo y suba de bolsas globales.",
+    "Apple tiene planes para funcionalidades no anunciadas de iOS 27 y Beats está anticipando nuevos auriculares.",
+    "La IA presenta desafíos con la interacción masiva de agentes y se perfila una ola de despidos en el sector.",
+    "En Argentina, hay oportunidades de ahorro en supermercados y se sigue de cerca la política del gobierno de Milei."
+  ],
+  "oportunidades": [
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Investing",
+      "titulo": "Oportunidades de ahorro en compras",
+      "detalle": "Hay descuentos, beneficios bancarios y ofertas en categorías específicas en supermercados.",
+      "acciones": [
+        "Revisar ofertas bancarias.",
+        "Comparar precios antes de comprar."
+      ]
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Investing",
+      "titulo": "Potencial rebote de Bitcoin",
+      "detalle": "El precio de Bitcoin podría buscar los $69K ante la caída del precio del petróleo y el acuerdo de paz entre EE.UU. e Irán.",
+      "acciones": [
+        "Monitorear el precio de Bitcoin.",
+        "Evaluar la correlación con el precio del petróleo."
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "Plataforma publicitaria de EA",
+      "detalle": "EA lanza una plataforma publicitaria con nuevas funcionalidades para marcas, permitiendo crear, lanzar y medir campañas en su ecosistema de videojuegos.",
+      "acciones": [
+        "Investigar las capacidades de la plataforma.",
+        "Considerar colaboraciones con EA para campañas publicitarias."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "titulo": "Ola de despidos en IA",
+      "detalle": "La industria de la IA podría estar experimentando una ola de despidos, mientras un grupo selecto de insiders se enriquece.",
+      "mitigacion": "Mantenerse actualizado sobre las tendencias del mercado laboral en IA y diversificar habilidades."
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "titulo": "Riesgo de acceso a IA avanzada por parte de China",
+      "detalle": "Existe preocupación de que China haya accedido a modelos de IA avanzados como Mythos, lo que representa un riesgo de seguridad nacional.",
+      "mitigacion": "Seguir de cerca las regulaciones y políticas de exportación de tecnología de IA."
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "titulo": "Interacción masiva de agentes de IA",
+      "detalle": "Google DeepMind está investigando los peligros potenciales de la interacción de millones de agentes de IA en línea sin supervisión humana.",
+      "mitigacion": "Estar atento a las investigaciones sobre seguridad y alineación de IA."
+    }
+  ],
+  "conexiones": [],
+  "noticias": [
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "categoria": "Finance",
+      "fuente": "Sherwood",
+      "url": "https://sherwood.news/markets/stocks-soar-as-us-and-iran-reach-deal-to-open-strait-of-hormuz-end-the-war/",
+      "tituloOriginal": "Stocks soar as US and Iran reach deal to open Strait of Hormuz, end the war",
+      "tituloLimpio": "Mercados suben tras acuerdo de paz entre EE.UU. e Irán",
+      "resumen": "Las acciones suben ante el acuerdo entre EE.UU. e Irán para abrir el Estrecho de Ormuz y poner fin a la guerra. Los detalles del acuerdo de paz aún no están disponibles.",
+      "porQueImporta": "Un acuerdo de paz en una zona geopolíticamente sensible tiene un impacto directo y positivo en los mercados financieros globales, reduciendo la incertidumbre y fomentando la inversión.",
+      "publicadoEn": "2026-06-15T09:19:45.000Z",
+      "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/2281065549_guest-us-president-donald-trump-boards-air-force-one-before-departing-joint-base-andrews-in.jpg",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "Geopolítica",
+        "Mercados",
+        "Paz"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/oportunidades-ahorro-las-compras-este-lunes-15-junio-conoce-cuales-son-n6287878",
+      "tituloOriginal": "Oportunidades de ahorro en las compras en un supermercado de este lunes 15 de junio: conocé cuáles son",
+      "tituloLimpio": "Oportunidades de ahorro en supermercados",
+      "resumen": "La jornada de hoy está protagonizada por descuentos, beneficios bancarios y ofertas en categorías específicas en supermercados.",
+      "porQueImporta": "Información práctica para el consumidor argentino sobre cómo optimizar gastos en compras cotidianas.",
+      "publicadoEn": "2026-06-15T09:00:00.000Z",
+      "imagen": "https://media.ambito.com/p/d7c6160bce9ff64b6bb376d42bd5cdd2/adjuntos/239/imagenes/043/436/0043436874/1200x675/smart/supermercado-1500x1000.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Economía",
+        "Consumo",
+        "Ahorro"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/ea-rolls-out-advertising-platform-with-enhanced-offerings-for-brands/822833/",
+      "tituloOriginal": "EA rolls out advertising platform with enhanced offerings for brands",
+      "tituloLimpio": "EA lanza plataforma publicitaria para marcas",
+      "resumen": "La compañía de videojuegos está permitiendo a las marcas, incluidos los socios iniciales Coach y Visa, crear, lanzar y medir campañas en su biblioteca.",
+      "porQueImporta": "Expansión de las oportunidades de marketing dentro del ecosistema de videojuegos, un sector en crecimiento con audiencias cautivas.",
+      "publicadoEn": "2026-06-15T12:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "Negocios",
+        "Videojuegos",
+        "Publicidad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+      "tituloOriginal": "The AI layoff wave is becoming a powder keg",
+      "tituloLimpio": "La ola de despidos en IA se vuelve explosiva",
+      "resumen": "En el momento en que decenas de miles de trabajadores son despedidos, un pequeño grupo de expertos en IA se está enriqueciendo a una escala difícil de comprender.",
+      "porQueImporta": "Refleja una tensión creciente en el sector de la IA entre la creación de riqueza para unos pocos y la inseguridad laboral para muchos.",
+      "publicadoEn": "2026-06-15T07:25:41.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Negocios",
+        "Mercado Laboral",
+        "Tecnología"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+      "tituloOriginal": "China may have accessed Mythos",
+      "tituloLimpio": "China podría haber accedido a modelo de IA Mythos",
+      "resumen": "La Casa Blanca impuso restricciones a la exportación de Mythos de Anthropic por temor a que hubiera sido accedido por un grupo vinculado a China, lo que representaría un riesgo de seguridad nacional.",
+      "porQueImporta": "Implicaciones geopolíticas y de seguridad nacional relacionadas con el acceso a tecnologías de IA avanzadas.",
+      "publicadoEn": "2026-06-14T18:27:55.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Geopolítica",
+        "Seguridad Nacional",
+        "Tecnología",
+        "Regulatorio"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "tituloOriginal": "Google DeepMind is worried about what happens when millions of agents start to interact",
+      "tituloLimpio": "Google DeepMind preocupado por interacción de millones de agentes de IA",
+      "resumen": "Google DeepMind financia investigación sobre los peligros potenciales de situaciones donde millones de agentes de IA interactúan entre sí en línea.",
+      "porQueImporta": "Aborda las preocupaciones sobre la escalabilidad y los efectos imprevistos de la IA autónoma cuando opera a gran escala.",
+      "publicadoEn": "2026-06-11T11:00:45.000Z",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Tecnología",
+        "Investigación",
+        "Seguridad IA"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/15/uk-becomes-the-latest-country-to-ban-social-media-apps-for-kids/",
+      "tituloOriginal": "UK becomes the latest country to ban social media apps for kids",
+      "tituloLimpio": "Reino Unido prohíbe apps de redes sociales para niños",
+      "resumen": "Un número creciente de países prohíbe o restringe el uso de aplicaciones de redes sociales por parte de niños. El Reino Unido se une a la lista con una prohibición integral que se introducirá a principios del próximo año.",
+      "porQueImporta": "Tendencia regulatoria global que afecta a las plataformas de redes sociales y su acceso por parte de menores, con implicaciones para las empresas y la sociedad.",
+      "publicadoEn": "2026-06-15T12:01:31.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "Regulatorio",
+        "Tecnología",
+        "Redes Sociales",
+        "Niños"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/06/15/beats-continues-world-cup-tease-of-its-mystery-headphones?utm_source=rss",
+      "tituloOriginal": "Beats continues World Cup tease of its mystery headphones",
+      "tituloLimpio": "Beats anticipa nuevos auriculares personalizables en el Mundial",
+      "resumen": "Beats by Dre está mostrando sus auriculares no anunciados en el Mundial, con más fotos en redes sociales de jugadores sugiriendo que el nuevo modelo podría ser personalizable.",
+      "porQueImporta": "Anticipo de nuevos productos de Apple (Beats) que podrían tener un componente de personalización, relevante para el mercado de consumo y la estrategia de producto.",
+      "publicadoEn": "2026-06-15T12:03:57.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "Marketing",
+        "Tecnología",
+        "Audio",
+        "Mundial"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/news/magnificent-seven-stocks-market-drags-apple-nvidia-tesla/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "MAGS To Rags? Magnificent Seven Stocks Are Market Drags",
+      "tituloLimpio": "Magnificent Seven: Acciones que arrastran el mercado",
+      "resumen": "Las acciones de las 'Magnificent Seven' están actuando como lastre para el mercado.",
+      "porQueImporta": "Información clave sobre el rendimiento de los principales valores tecnológicos que influyen significativamente en el mercado bursátil.",
+      "publicadoEn": "2026-06-15T11:41:09.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/9ee15d64c37b52f1dd5515979d3caaef",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "Mercados",
+        "Acciones",
+        "Tecnología"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/can-btc-rebound-to-69k-as-oil-price-plunges-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Can BTC rebound to $69K as oil price plunges? Five things to know in Bitcoin this week",
+      "tituloLimpio": "Bitcoin podría buscar $69K ante caída del petróleo y acuerdo EE.UU.-Irán",
+      "resumen": "Bitcoin ganó objetivos de precio alcistas a corto plazo con $69,000 en el radar gracias al acuerdo de paz entre EE.UU. e Irán, que se firmará en los próximos días.",
+      "porQueImporta": "Vincula directamente el evento geopolítico con el potencial de revalorización de Bitcoin, ofreciendo un objetivo de precio concreto.",
+      "publicadoEn": "2026-06-15T10:14:39.000Z",
+      "imagen": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9vaWwtYml0Y29pbi1wZXRyb2wtaXJhbi0xLmpwZw==.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "Criptomonedas",
+        "Bitcoin",
+        "Geopolítica",
+        "Inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/ethereum-hoy-cotizacion-y-precio-del-eth-este-lunes-15-de-junio-de-2026_0_tlZQe0nlah.html",
+      "tituloOriginal": "Ethereum hoy: cotización y precio del ETH este lunes 15 de junio de 2026",
+      "tituloLimpio": "Cotización de Ethereum hoy",
+      "resumen": "El valor actualizado de la segunda criptomoneda más importante por capitalización. Origen e historia de Ethereum.",
+      "porQueImporta": "Información relevante para quienes siguen el mercado de criptomonedas, con datos actualizados sobre Ethereum.",
+      "publicadoEn": "2026-06-15T10:30:02.000Z",
+      "imagen": "https://www.clarin.com/img/2025/11/28/r3Jl2sk8t_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Finanzas",
+        "Criptomonedas",
+        "Ethereum"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/javier-milei-medidas-vivo-1-posibilidad-pelea-100-mensaje-presidente-medio-presiones-manuel-adorni-vaya_0_wR3JZOf4WN.html",
+      "tituloOriginal": "Javier Milei y sus medidas, EN VIVO: \"Si hay un 1% de posibilidad, pelea al 100%\", el mensaje del Presidente en medio de las presiones para que Manuel Adorni se vaya",
+      "tituloLimpio": "Milei respalda a Adorni: \"Si hay 1% de posibilidad, pelea al 100%\"",
+      "resumen": "El Presidente volvió a respaldar al Jefe de Gabinete con un posteo en redes sociales. Todas las novedades del Gobierno, minuto a minuto.",
+      "porQueImporta": "Actualización sobre la política interna del gobierno argentino y el respaldo presidencial a figuras clave en medio de presiones.",
+      "publicadoEn": "2026-06-15T11:19:19.000Z",
+      "imagen": "https://www.clarin.com/img/2025/12/03/X3GsbRmFY_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Política",
+        "Gobierno",
+        "Javier Milei"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/america/mundo/2026/06/15/euforia-en-los-mercados-tras-el-acuerdo-entre-eeuu-e-iran-el-petroleo-se-desploma-y-las-bolsas-se-disparan/",
+      "tituloOriginal": "Euforia en los mercados tras el acuerdo entre EEUU e Irán: cae el petróleo y las bolsas se disparan",
+      "tituloLimpio": "Euforia en mercados por acuerdo EE.UU.-Irán: cae petróleo, suben bolsas",
+      "resumen": "El Brent perdió un 5% hasta los 83 dólares por barril; el DAX alemán subió un 1,3%, el CAC 40 francés un 1,1% y los futuros del S&P 500 apuntaban a una apertura alcista en Wall Street.",
+      "porQueImporta": "Confirma el impacto alcista en los mercados globales del acuerdo de paz, con datos concretos de movimientos de precios en diferentes índices y commodities.",
+      "publicadoEn": "2026-06-15T12:12:29.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/LTD2BGZRD5CMFG6POVNJ3KRYJU.JPG?auth=87ae48f142f17ea86edbc3c63f0f65312580a0da7f1a13548beeb384bf3d8b70&smart=true&width=4976&height=3389",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "Mercados",
+        "Petróleo",
+        "Acciones",
+        "Geopolítica"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/06/15/milei-no-le-suelta-la-mano-a-adorni-el-encuentro-reservado-de-karina-y-bullrich-y-el-gesto-que-esperaban-los-aliados/",
+      "tituloOriginal": "Milei no le suelta la mano a Adorni, el encuentro reservado de Karina y Bullrich y el gesto que esperaban los aliados",
+      "tituloLimpio": "Milei mantiene el apoyo a Adorni; tensiones internas en el gobierno",
+      "resumen": "El jefe de Gabinete reclamó que la exposición pública de consideraciones sobre su situación podía perjudicar al Gobierno, pero la ex ministra marcó diferencias.",
+      "porQueImporta": "Detalles sobre las dinámicas de poder y las diferencias internas dentro del gobierno argentino.",
+      "publicadoEn": "2026-06-15T07:00:49.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/MFIQW6K44BELBFGJCDGZIAKCLQ.jpeg?auth=48cb5e00861cd05ebf71df684e843faf16d730c37776430f1af6c2c0e1d1b485&smart=true&width=1920&height=1080",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Política",
+        "Gobierno",
+        "Javier Milei"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/juan-carlos-de-pablo-explico-por-que-la-economia-argentina-podria-enfrentar-una-enfermedad-holandesa-nid14062026/",
+      "tituloOriginal": "Juan Carlos de Pablo explicó por qué la economía argentina podría enfrentar una “enfermedad holandesa”",
+      "tituloLimpio": "Economista advierte sobre \"enfermedad holandesa\" en Argentina",
+      "resumen": "Juan Carlos de Pablo analizó el impacto del ingreso de divisas por el agro y la energía y advirtió sobre sus posibles efectos en la actividad económica.",
+      "porQueImporta": "Análisis económico de un experto sobre un riesgo potencial para la economía argentina derivado de la entrada de divisas.",
+      "publicadoEn": "2026-06-15T09:43:02.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/IWRPDZTESVGRHHIWZEI7KX4DMQ.jpg?auth=6cc743f1f6b7f772bb7cb5f8f0509878b2e25a69a848b8077ee4de51ce696566&smart=true&width=1040&height=691",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Economía",
+        "Finanzas",
+        "Análisis Económico"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-06-15T12:19:12.777Z"
+  }
+}
