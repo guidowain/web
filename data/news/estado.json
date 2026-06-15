@@ -46,6 +46,21 @@
   },
   "feedback": [
     {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj-1781555121982",
+      "noticiaId": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "keywords": [
+        "Apple",
+        "Chase",
+        "Beneficio",
+        "Apple TV",
+        "Finanzas"
+      ],
+      "feedback": "no_interesante",
+      "timestamp": "2026-06-15T20:25:21.982Z"
+    },
+    {
       "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs-1781027018497",
       "noticiaId": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
       "categoria": "Finance",
