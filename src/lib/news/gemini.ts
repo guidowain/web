@@ -19,7 +19,7 @@ export async function pedirBriefAGemini(input: {
   const apiKey = process.env.GEMINI_API_KEY
   if (!apiKey) throw new Error('Falta GEMINI_API_KEY.')
 
-  const model = process.env.GEMINI_MODEL || 'gemini-2.5-flash-lite'
+  const model = process.env.GEMINI_MODEL || 'gemini-2.5-flash'
   const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`
   const noticias = input.noticias.slice(0, 60).map((item) => ({
     id: item.id,
@@ -59,7 +59,8 @@ Reglas editoriales clave:
 - La salida visible principal es "noticias". Elegí entre 8 y 18 noticias, salvo que haya menos material bueno.
 - Diversidad obligatoria: no más de 3 noticias de la misma fuente.
 - No llenes con OpenAI si hay Apple, Argentina, finanzas, marketing, herramientas o negocios con buena señal.
-- Si una noticia es autopromocional, corporativa, menor, repetida o sin impacto práctico, excluila.
+- Si una noticia es autopromocional, corporativa, menor, repetida o sin impacto práctico, excluila. Un comunicado de prensa en primera persona ("fortalecemos nuestra presencia...") es PR corporativo: excluilo o, si entra, reescribí el título en tercera persona como hecho.
+- Relevancia geográfica: excluí productos o servicios que un residente de Argentina no puede usar (tarjetas de crédito o bancos de EE.UU. como Chase, Amex US o similares, promos, beneficios o planes de otros países), salvo que tengan impacto global real.
 - Priorizá impacto directo para Guido: AI aplicada, Apple, inversión/ETFs, Argentina y marketing.
 - Radar Personal máximo 5, solo si hay algo realmente personal.
 - Lo Importante máximo 5 bullets.
