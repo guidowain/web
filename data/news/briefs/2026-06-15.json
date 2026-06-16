@@ -1,118 +1,89 @@
 {
   "fecha": "2026-06-15",
-  "generadoEn": "2026-06-15T20:32:19.346Z",
+  "generadoEn": "2026-06-16T00:28:26.060Z",
   "actualizacion": "manual",
-  "resumenEjecutivo": "El mercado reacciona positivamente a un acuerdo de paz entre EE.UU. e Irán, lo que impulsa las bolsas y baja el precio del petróleo. En Argentina, se analizan cambios en los precios de la nafta y hay novedades sobre la venta de acciones de SpaceX. En el ámbito de la IA, Meta lanza un nuevo modo en Facebook y Anthropic enfrenta restricciones. Apple anuncia nuevas funciones de IA para la app Fotos y hay noticias sobre una promoción bancaria para clientes de Apple (no aplicable en Argentina).",
+  "resumenEjecutivo": "Apple revoluciona Siri con IA en iOS 27, Qualcomm negocia comprar Tenstorrent, y el mercado argentino reacciona a la baja del petróleo y el acuerdo en Medio Oriente. En Argentina, el feriado dejó ingresos millonarios pero menos turistas, y las pymes industriales buscan oportunidades en Vaca Muerta.",
   "radarPersonal": [],
   "loImportante": [
-    "El mercado bursátil global reacciona con euforia a un acuerdo de paz entre EE.UU. e Irán, lo que provoca un salto en Wall Street y las bolsas asiáticas, mientras que el precio del petróleo cae.",
-    "En Argentina, YPF evalúa adelantar cambios en los precios de la nafta ante la baja del petróleo, buscando salir del acuerdo de estabilización.",
-    "SpaceX amplió su venta de acciones, capitalizando la menor aversión al riesgo en los mercados, y elevó sus ingresos.",
-    "Meta introduce un nuevo 'AI Mode' en Facebook que utiliza información pública de sus plataformas.",
-    "Apple Intelligence traerá nuevas funciones de IA a la app Fotos este otoño, incluyendo Spatial Reframing y Extend."
+    "Siri en iOS 27 se renueva completamente con IA, compitiendo con chatbots.",
+    "Qualcomm evalúa comprar Tenstorrent, una empresa de diseño de chips de IA.",
+    "El feriado en Argentina generó ingresos millonarios pero tuvo menos turistas que otros fines de semana largos.",
+    "La baja del petróleo y el acuerdo en Medio Oriente impulsan los activos argentinos, aunque las petroleras locales caen."
   ],
   "oportunidades": [
     {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "categoria": "Investing",
-      "titulo": "Euforia en los mercados por acuerdo EE.UU.-Irán",
-      "detalle": "El mercado reacciona con subas importantes en Wall Street y bolsas asiáticas, mientras el petróleo cae, ante la expectativa de normalización del comercio energético global.",
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "Dentsu relanza 360i como solución social enfocada en IA",
+      "detalle": "Dentsu revive la marca 360i como un equipo ágil enfocado en redes sociales, buscando atraer a marketers que invierten en creadores y plataformas sociales, con la IA como eje.",
       "acciones": [
-        "Monitorear el impacto en ETFs y mercados de inversión.",
-        "Evaluar oportunidades de inversión en sectores beneficiados por la baja del petróleo."
+        "Evaluar cómo 360i puede integrarse en estrategias de marketing digital.",
+        "Investigar el rol de la IA en las soluciones sociales que ofrece 360i."
       ]
     },
     {
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
-      "categoria": "Investing",
-      "titulo": "Boom en exportaciones de girasol y millonarias inversiones",
-      "detalle": "Las ventas al exterior de girasol se dispararon un 159,5%, alcanzando récords de molienda y atrayendo nuevas inversiones industriales.",
+      "categoria": "Automation",
+      "titulo": "Pymes industriales argentinas buscan refugio en Vaca Muerta",
+      "detalle": "Ante la caída de ventas y problemas de cobro, las pymes industriales argentinas exploran oportunidades en Vaca Muerta, atraídas por el crecimiento en petróleo, gas y minería.",
       "acciones": [
-        "Investigar el sector de commodities agrícolas argentinos.",
-        "Analizar el potencial de inversión en la cadena de valor del girasol."
+        "Analizar el potencial de Vaca Muerta para diversificar negocios industriales.",
+        "Investigar posibles alianzas o servicios para el sector energético y minero."
       ]
     },
     {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "categoria": "AI",
-      "titulo": "Meta integra IA en Facebook",
-      "detalle": "Meta lanza un nuevo 'AI Mode' en Facebook que utiliza información pública de sus plataformas para mejorar la experiencia del usuario.",
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Investing",
+      "titulo": "4 maneras sencillas de llegar al primer millón",
+      "detalle": "Se desmitifica la idea de que se necesita un ingreso de seis cifras para ser millonario, presentando cuatro métodos accesibles para alcanzar el primer millón.",
       "acciones": [
-        "Explorar las nuevas funcionalidades de IA en Facebook.",
-        "Evaluar cómo estas herramientas pueden impactar el marketing y la automatización."
+        "Revisar las estrategias de inversión y ahorro propuestas.",
+        "Evaluar la aplicabilidad de estos métodos en el contexto argentino."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
-      "titulo": "Restricciones a modelos de IA de Anthropic",
-      "detalle": "Anthropic enfrenta una orden para bloquear el acceso extranjero a sus modelos de IA Fable 5 y Mythos 5, además de disputas previas con el gobierno.",
-      "acciones": [
-        "Seguir de cerca las implicaciones regulatorias para empresas de IA.",
-        "Evaluar el impacto en el desarrollo y acceso a tecnologías de IA."
-      ]
+      "titulo": "Protestas contra Google por uso de IA en contratos de defensa",
+      "detalle": "Sundar Pichai enfrentó abucheos y una retirada en la ceremonia de graduación de Stanford debido a los lazos de Google con Israel y el uso de IA en contratos de defensa.",
+      "mitigacion": "Monitorear la percepción pública y las regulaciones sobre el uso ético de la IA en contratos gubernamentales y de defensa."
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "Regulatory",
+      "titulo": "Anthropic enfrenta disputa con la Casa Blanca por modelos de IA",
+      "detalle": "Anthropic está en una disputa con el gobierno de EE.UU. y se le ordenó bloquear el acceso extranjero a sus modelos de IA más recientes, Fable 5 y Mythos 5.",
+      "mitigacion": "Estar atento a las regulaciones internacionales sobre el acceso y uso de modelos de IA avanzados."
     },
     {
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
-      "categoria": "Argentina",
-      "titulo": "Posible cambio en precios de nafta YPF",
-      "detalle": "YPF analiza adelantar un cambio en los valores de la nafta en surtidores ante la baja del petróleo, aunque la reducción no sería inmediata.",
-      "acciones": [
-        "Monitorear anuncios oficiales de YPF sobre precios de combustibles.",
-        "Considerar el impacto en costos operativos y de transporte."
-      ]
-    },
-    {
-      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
-      "categoria": "Argentina",
-      "titulo": "Tensión política por Adorni en Diputados",
-      "detalle": "El PRO podría avalar la interpelación del jefe de Gabinete si el Gobierno no toma medidas antes de la sesión del 23 en Diputados.",
-      "acciones": [
-        "Seguir la evolución de la interna política y su posible impacto económico.",
-        "Evaluar la estabilidad institucional y su efecto en la confianza inversora."
-      ]
+      "categoria": "Market",
+      "titulo": "La baja del petróleo no impactará de inmediato en los precios de la nafta en YPF",
+      "detalle": "Aunque el precio del barril de petróleo baja, YPF no anticipa una reducción inmediata en los precios de la nafta en Argentina, a pesar de la posibilidad de salir antes del acuerdo de estabilización.",
+      "mitigacion": "Considerar el impacto de la volatilidad de los precios internacionales del petróleo en los costos locales y la inflación."
     }
   ],
   "conexiones": [],
   "noticias": [
     {
-      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "categoria": "AI",
-      "fuente": "Google AI Blog",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
-      "tituloOriginal": "We’re strengthening our presence in Alabama through new investments and community support.",
-      "tituloLimpio": "Fortalecemos nuestra presencia en Alabama a través de nuevas inversiones y apoyo comunitario.",
-      "resumen": "Google anunció una inversión de $1.5 mil millones para 2026 y 2027 para expandir su campus de centros de datos en Jackson County, Alabama. Operando desde 2019 en un sitio reutilizado.",
-      "porQueImporta": "Inversión significativa de Google en infraestructura de centros de datos, relevante para el sector tecnológico y la IA a nivel global.",
-      "publicadoEn": "2026-06-15T15:00:00.000Z",
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/guide/ios-27-siri/",
+      "tituloOriginal": "Siri AI in iOS 27: Features, Requirements, and How It Works",
+      "tituloLimpio": "Siri con IA en iOS 27: características, requisitos y funcionamiento",
+      "resumen": "La principal novedad de iOS 27 es la renovación total de Siri, que se convierte en Siri AI, incorporando capacidades que la posicionan como competidora de chatbots como Claude y ChatGPT.",
+      "porQueImporta": "Representa una mejora significativa en la asistente de voz de Apple, integrando IA avanzada que podría cambiar la forma en que los usuarios interactúan con sus dispositivos.",
+      "publicadoEn": "2026-06-15T23:17:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "AI",
-        "Tecnología",
-        "Infraestructura",
-        "Google"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "categoria": "Apple",
-      "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/15/chase-sapphire-preferred-card-new-apple-perk/",
-      "tituloOriginal": "Chase Sapphire Preferred Card Introduces New Perk for Apple Customers",
-      "tituloLimpio": "Chase Sapphire Preferred Card introduce nueva ventaja para clientes de Apple",
-      "resumen": "Chase anunció nuevas ventajas para su tarjeta Sapphire Preferred, incluyendo una suscripción gratuita de un año a Apple TV. Se debe activar la tarjeta antes del 31 de diciembre de 2026.",
-      "porQueImporta": "Promoción bancaria para clientes de Apple, aunque no aplicable en Argentina por ser un servicio exclusivo de EE.UU.",
-      "publicadoEn": "2026-06-15T19:07:29.000Z",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
         "Apple",
-        "Finanzas",
-        "Promociones"
+        "iOS 27",
+        "Siri"
       ],
       "tambienVistoEn": []
     },
@@ -120,20 +91,20 @@
       "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
       "categoria": "Finance",
       "fuente": "Sherwood",
-      "url": "https://sherwood.news/markets/stocks-climb-on-us-iran-peace-deal/",
-      "tituloOriginal": "Stocks climb on US-Iran peace deal",
-      "tituloLimpio": "Acciones suben por acuerdo de paz entre EE.UU. e Irán",
-      "resumen": "Nombres tecnológicos, acciones de viajes y cripto se dispararon, mientras que las acciones de energía cayeron y los precios del petróleo bajaron.",
-      "porQueImporta": "Confirma la tendencia alcista en mercados tecnológicos y cripto, y la baja en energía, ligada a la geopolítica.",
-      "publicadoEn": "2026-06-15T20:04:19.000Z",
-      "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/172184670_longhorn-steer-in-grassy-field-under-blue-sky.jpg",
+      "url": "https://sherwood.news/markets/qualcomm-reportedly-in-talks-to-acquire-ai-chip-design-company-tenstorrent/",
+      "tituloOriginal": "Qualcomm reportedly in talks to acquire AI chip-design company Tenstorrent",
+      "tituloLimpio": "Qualcomm negocia la compra de Tenstorrent, empresa de diseño de chips de IA",
+      "resumen": "Qualcomm estaría en conversaciones para adquirir Tenstorrent, una compañía especializada en el diseño de chips de inteligencia artificial. Las acciones de Qualcomm han subido más del 60% en las últimas ocho semanas.",
+      "porQueImporta": "Indica una jugada estratégica de Qualcomm para fortalecer su posición en el mercado de chips de IA, un sector en crecimiento.",
+      "publicadoEn": "2026-06-15T21:21:33.000Z",
+      "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/2240046647_a-crowd-of-visitors-at-the-qualcomm-exhibition-area-during-the-india-mobile-congress-2025-at.jpg",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "Mercados",
-        "Inversiones",
-        "Tecnología",
-        "Cripto"
+        "AI",
+        "Hardware",
+        "Inversion",
+        "Qualcomm"
       ],
       "tambienVistoEn": []
     },
@@ -141,20 +112,18 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/acuerdo-eeuu-e-iran-el-petroleo-se-desploma-suben-los-futuros-wall-street-y-bolsas-asiaticas-vuelan-6-n6288812",
-      "tituloOriginal": "Euforia en los mercados: Wall Street salta hasta 3% y el petróleo vuelve a la zona de los u$s80",
-      "tituloLimpio": "Euforia en los mercados: Wall Street salta hasta 3% y el petróleo vuelve a la zona de los u$s80",
-      "resumen": "La reapertura del estrecho de Ormuz impulsa a los activos en Nueva York. En tanto, volaron las bolsas asiáticas y el crudo cede ante la expectativa de una normalización del comercio energético global.",
-      "porQueImporta": "Impacto directo en inversiones y mercados por el acuerdo de paz EE.UU.-Irán y la consecuente baja del petróleo.",
-      "publicadoEn": "2026-06-15T18:50:00.000Z",
-      "imagen": "https://media.ambito.com/p/04bee65b87fb0feb0bb6bbdebe9e3c8f/adjuntos/239/imagenes/043/366/0043366777/1200x675/2935x2156:2955x2176/petroleo.jpg",
-      "globalScore": 94,
+      "url": "https://www.ambito.com/economia/advierten-que-el-feriado-dejo-217000-millones-pero-fue-el-fin-semana-largo-menos-turistas-del-ano-n6289020",
+      "tituloOriginal": "Advierten que el feriado dejó $217.000 millones, pero fue el fin de semana largo con menos turistas del año",
+      "tituloLimpio": "Feriado en Argentina: generó $217.000 millones pero fue el fin de semana largo con menos turistas del año",
+      "resumen": "Casi un millón de personas viajaron por Argentina durante el fin de semana largo, generando un gasto de $217.000 millones. Sin embargo, fue el feriado con menor afluencia turística del año, afectado por el clima y el inicio del Mundial.",
+      "porQueImporta": "Ofrece una visión del impacto económico de los feriados en el turismo interno argentino y las tendencias de consumo.",
+      "publicadoEn": "2026-06-15T23:38:00.000Z",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "Mercados",
-        "Inversiones",
-        "Petróleo",
-        "Geopolítica"
+        "Argentina",
+        "Economia",
+        "Turismo"
       ],
       "tambienVistoEn": []
     },
@@ -162,17 +131,17 @@
       "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
       "categoria": "Marketing",
       "fuente": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/ana-and-4as-offer-guidelines-to-make-agency-pitches-more-bearable/822823/",
-      "tituloOriginal": "ANA and 4As offer guidelines to make agency pitches more bearable",
-      "tituloLimpio": "ANA y 4As ofrecen guías para hacer más llevaderas las presentaciones de agencias",
-      "resumen": "Los dos grupos comerciales compartieron 10 recomendaciones que priorizan la confianza y la transparencia para un proceso a menudo frustrante.",
-      "porQueImporta": "Directrices para mejorar el proceso de selección de agencias, relevante para quienes trabajan en marketing o contratan servicios.",
-      "publicadoEn": "2026-06-15T16:00:00.000Z",
-      "globalScore": 92,
+      "url": "https://www.marketingdive.com/news/dentsu-brings-back-360i-brand-as-social-first-solution-primed-for-ai/822905/",
+      "tituloOriginal": "Dentsu brings back 360i brand as social-first solution primed for AI",
+      "tituloLimpio": "Dentsu relanza la marca 360i como solución social enfocada en IA",
+      "resumen": "Dentsu trae de vuelta la marca 360i como un equipo ágil enfocado en redes sociales, buscando atraer a marketers que invierten más en creadores y plataformas sociales, con la IA como un componente clave.",
+      "porQueImporta": "Muestra una tendencia en agencias de marketing de reestructurarse y enfocarse en soluciones impulsadas por IA y redes sociales.",
+      "publicadoEn": "2026-06-15T15:56:00.000Z",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Marketing",
-        "Negocios",
+        "AI",
         "Agencias"
       ],
       "tambienVistoEn": []
@@ -181,19 +150,19 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
-      "tituloOriginal": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
-      "tituloLimpio": "El nuevo 'AI Mode' de Meta en Facebook extrae información pública de sus plataformas",
-      "resumen": "Meta anunció que está implementando una serie de nuevas funciones de IA en Facebook, la última señal del esfuerzo de la compañía por ponerse al día en la carrera de la IA y mantener a los usuarios más comprometidos en la plataforma.",
-      "porQueImporta": "Novedades sobre la integración de IA en plataformas de redes sociales, con implicaciones para marketing y uso de datos.",
-      "publicadoEn": "2026-06-15T18:30:58.000Z",
+      "url": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+      "tituloOriginal": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
+      "tituloLimpio": "Sundar Pichai enfrenta abucheos en graduación de Stanford por vínculos de Google con Israel y ICE",
+      "resumen": "Sundar Pichai fue abucheado y algunos asistentes se retiraron de la ceremonia de graduación de Stanford debido a los lazos de Google con Israel y el uso de IA en contratos de defensa.",
+      "porQueImporta": "Refleja la creciente controversia y el escrutinio público sobre el uso de la IA por parte de grandes tecnológicas, especialmente en contextos sensibles.",
+      "publicadoEn": "2026-06-15T23:51:44.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "AI",
-        "Marketing",
-        "Plataformas",
-        "Meta"
+        "Google",
+        "Ética",
+        "Protestas"
       ],
       "tambienVistoEn": []
     },
@@ -203,17 +172,16 @@
       "fuente": "The Verge AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
       "tituloOriginal": "All the news about Anthropic’s new AI fight with the White House",
-      "tituloLimpio": "Todas las noticias sobre la nueva pelea de IA de Anthropic con la Casa Blanca",
-      "resumen": "Anthropic ya estaba lidiando con una disputa con el gobierno y luego recibió una orden para bloquear el acceso extranjero a sus modelos de IA más recientes, Fable 5 y Mythos 5.",
-      "porQueImporta": "Información sobre restricciones y disputas regulatorias que afectan a importantes desarrolladores de IA.",
+      "tituloLimpio": "Anthropic en disputa con la Casa Blanca por modelos de IA",
+      "resumen": "Anthropic está lidiando con una disputa gubernamental y recibió una orden para bloquear el acceso extranjero a sus modelos de IA más recientes, Fable 5 y Mythos 5.",
+      "porQueImporta": "Destaca las tensiones regulatorias y geopolíticas en torno al desarrollo y acceso a tecnologías de IA avanzadas.",
       "publicadoEn": "2026-06-15T19:04:53.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "AI",
         "Regulación",
-        "Tecnología",
-        "EE.UU."
+        "Tecnología"
       ],
       "tambienVistoEn": []
     },
@@ -224,16 +192,15 @@
       "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
       "tituloOriginal": "Why do South Koreans love AI so much?",
       "tituloLimpio": "¿Por qué los surcoreanos aman tanto la IA?",
-      "resumen": "El artículo explora la alta adopción y el entusiasmo por la IA en Corea del Sur, mencionando experiencias como controles de inmigración sin personal y uso en el transporte público.",
-      "porQueImporta": "Perspectiva sobre la adopción cultural y práctica de la IA en una sociedad avanzada, útil para entender tendencias globales.",
+      "resumen": "Un análisis sobre la profunda adopción y el aprecio por la inteligencia artificial en Corea del Sur, ejemplificado desde el control de inmigración hasta el transporte público.",
+      "porQueImporta": "Ofrece una perspectiva cultural sobre la integración de la IA en la vida cotidiana y la sociedad.",
       "publicadoEn": "2026-06-15T18:46:08.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "AI",
-        "Tendencias",
-        "Sociedad",
-        "Tecnología"
+        "Cultura",
+        "Adopción Tecnológica"
       ],
       "tambienVistoEn": []
     },
@@ -241,19 +208,19 @@
       "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Apple",
       "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/15/this-hidden-ios-feature-is-my-daily-go-to-when-using-airpods-pro-3/",
-      "tituloOriginal": "This hidden iOS feature is my daily go-to when using AirPods Pro 3",
-      "tituloLimpio": "Esta función oculta de iOS es mi opción diaria al usar AirPods Pro 3",
-      "resumen": "El autor usa los AirPods Pro 3 todo el día y destaca una función poco conocida llamada 'Sonidos de Fondo' que se integra perfectamente con el producto.",
-      "porQueImporta": "Consejo práctico sobre una función de iOS y AirPods Pro que puede mejorar la experiencia de usuario y la productividad.",
-      "publicadoEn": "2026-06-15T20:30:32.000Z",
+      "url": "https://9to5mac.com/2026/06/15/still-seeing-indexing-in-progress-on-ios-27-heres-how-to-check-the-actual-status/",
+      "tituloOriginal": "Still seeing ‘Indexing in Progress’ on iOS 27? Here’s how to check the actual status",
+      "tituloLimpio": "Cómo verificar el estado real de 'Indexación en Progreso' en iOS 27",
+      "resumen": "Se explica cómo los usuarios de la beta de iOS 27 pueden verificar el porcentaje real del proceso de indexación, que en algunos casos está tardando más de lo esperado.",
+      "porQueImporta": "Una guía práctica para usuarios de Apple que experimentan problemas comunes con las nuevas versiones de iOS.",
+      "publicadoEn": "2026-06-15T23:57:30.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
+        "iOS 27",
         "Herramientas",
-        "Productividad",
-        "Audio"
+        "Productividad"
       ],
       "tambienVistoEn": []
     },
@@ -261,19 +228,19 @@
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
       "categoria": "Apple",
       "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/06/15/game-development-diary-running-on-steam?utm_source=rss",
-      "tituloOriginal": "Game development diary: Running on Steam",
-      "tituloLimpio": "Diario de desarrollo de juegos: Corriendo en Steam",
-      "resumen": "El desarrollador logró enviar una demo de 'Character Limit' a Steam a tiempo para Steam Next Fest, marcando un paso importante en el desarrollo del juego.",
-      "porQueImporta": "Perspectiva sobre el desarrollo de videojuegos y su distribución en plataformas como Steam, de interés para creadores y entusiastas.",
-      "publicadoEn": "2026-06-15T18:35:11.000Z",
-      "globalScore": 96,
+      "url": "https://appleinsider.com/articles/26/02/28/alogic-clarity-touch-6k-monitor-review-when-a-2500-display-is-considered-cheap?utm_source=rss",
+      "tituloOriginal": "Alogic Clarity Touch 6K monitor review: When a $2,500 display is considered cheap",
+      "tituloLimpio": "Review del monitor Alogic Clarity Touch 6K: una pantalla de $2.500 considerada económica",
+      "resumen": "Se analiza el monitor Alogic Clarity Touch 6K, destacando que una pantalla de alta resolución no necesariamente implica un gasto exorbitante como el Apple Pro Display XDR.",
+      "porQueImporta": "Ofrece una alternativa de hardware para usuarios de Mac que buscan pantallas de alta calidad sin el precio premium de Apple.",
+      "publicadoEn": "2026-02-28T14:25:52.000Z",
+      "globalScore": 74,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "Desarrollo",
-        "Gaming",
-        "Herramientas"
+        "Hardware",
+        "Monitores",
+        "Productividad"
       ],
       "tambienVistoEn": []
     },
@@ -283,16 +250,16 @@
       "fuente": "MacStories",
       "url": "https://www.macstories.net/linked/three-features-coming-to-photos-this-fall-via-apple-intelligence/",
       "tituloOriginal": "Three Features Coming to Photos This Fall via Apple Intelligence",
-      "tituloLimpio": "Tres funciones que llegarán a Fotos este otoño vía Apple Intelligence",
-      "resumen": "La edición de fotos recibirá algunas de las funciones más interesantes de Apple Intelligence este otoño. En WWDC, se entrevistó a Jon McCormack y Della Huff sobre Spatial Reframing, Extend y una mejora en la edición.",
-      "porQueImporta": "Detalles sobre cómo la IA de Apple mejorará la aplicación Fotos, relevante para usuarios de ecosistema Apple y creadores.",
+      "tituloLimpio": "Tres funciones de IA de Apple para la app Fotos este otoño",
+      "resumen": "La edición de fotos recibirá funciones de Apple Intelligence como Spatial Reframing y Extend, mejorando las capacidades de la app Fotos.",
+      "porQueImporta": "Detalla cómo la IA de Apple se integrará en aplicaciones nativas, mejorando la experiencia del usuario en la gestión de imágenes.",
       "publicadoEn": "2026-06-15T15:04:13.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "Apple",
         "AI",
-        "Herramientas",
+        "Apple",
+        "Fotos",
         "Productividad"
       ],
       "tambienVistoEn": []
@@ -301,20 +268,20 @@
       "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
       "categoria": "Finance",
       "fuente": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-adbe-one-best-bargain-111514092.html",
-      "tituloOriginal": "Is Adobe (ADBE) One of the Best Bargain Stocks to Buy in June?",
-      "tituloLimpio": "¿Es Adobe (ADBE) una de las mejores acciones de ganga para comprar en junio?",
-      "resumen": "",
-      "porQueImporta": "Análisis sobre el potencial de inversión en Adobe, relevante para quienes siguen el sector de software y mercados de valores.",
-      "publicadoEn": "2026-06-14T11:15:14.000Z",
-      "imagen": "https://media.zenfs.com/en/insidermonkey.com/9f2da5874fc84ee30e3c18d90dc1a3d7",
+      "url": "https://finance.yahoo.com/markets/articles/think-six-figure-income-millionaire-124500364.html",
+      "tituloOriginal": "Think you need a six-figure income to be a millionaire? You don't. Here are 4 easy ways to get to your first million",
+      "tituloLimpio": "4 maneras sencillas de llegar a tu primer millón",
+      "resumen": "Se presentan cuatro métodos accesibles para acumular riqueza y alcanzar el primer millón, desafiando la noción de que se requiere un ingreso muy alto.",
+      "porQueImporta": "Consejos de inversión y finanzas personales aplicables a un público amplio, con foco en la acumulación de capital.",
+      "publicadoEn": "2026-06-14T12:45:00.000Z",
+      "imagen": "https://media.zenfs.com/en/moneywise_ecomm_711/bdb9c7b918587fd913c177ff6284766f",
       "globalScore": 86,
       "personalScore": 100,
       "tags": [
         "Finanzas",
-        "Inversiones",
-        "Acciones",
-        "Software"
+        "Inversion",
+        "Ahorro",
+        "Millonario"
       ],
       "tambienVistoEn": []
     },
@@ -324,9 +291,9 @@
       "fuente": "CoinDesk",
       "url": "https://www.coindesk.com/business/2026/06/15/hyperliquid-loses-anthropic-openai-markets-as-creator-shuts-down-project",
       "tituloOriginal": "Hyperliquid loses Anthropic, OpenAI markets as creator shuts down project",
-      "tituloLimpio": "Hyperliquid pierde mercados de Anthropic y OpenAI al cerrar el creador su proyecto",
-      "resumen": "Ventuals, uno de los equipos detrás de los perpetuos de activos del mundo real en Hyperliquid, dijo que cerrará sus mercados y se unirá a otro proyecto en el ecosistema.",
-      "porQueImporta": "Cambios en el ecosistema de finanzas descentralizadas (DeFi) y la interacción con proyectos de IA.",
+      "tituloLimpio": "Hyperliquid pierde mercados de Anthropic y OpenAI ante cierre de proyecto",
+      "resumen": "Ventuals, uno de los equipos detrás de los mercados de activos reales en Hyperliquid, cerrará sus operaciones y se unirá a otro proyecto en el ecosistema.",
+      "porQueImporta": "Muestra la dinámica y los cambios dentro del ecosistema de finanzas descentralizadas (DeFi), afectando la disponibilidad de ciertos mercados.",
       "publicadoEn": "2026-06-15T18:14:07.000Z",
       "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/28b1a94149915bfe2334d8a4a2fc958c585a71c8-4032x3024.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
       "globalScore": 96,
@@ -334,8 +301,8 @@
       "tags": [
         "Finanzas",
         "Cripto",
-        "AI",
-        "DeFi"
+        "DeFi",
+        "Mercados"
       ],
       "tambienVistoEn": []
     },
@@ -343,20 +310,19 @@
       "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
       "categoria": "Finance",
       "fuente": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/sec-crypto-adviser-cftc-blockchain-forensics?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "tituloOriginal": "CFTC hires SEC crypto task force adviser with blockchain forensics chops",
-      "tituloLimpio": "CFTC contrata asesor del grupo de trabajo de cripto de la SEC con experiencia en forenses de blockchain",
-      "resumen": "El nombramiento del personal de la CFTC se produjo en medio de la búsqueda del Congreso de EE.UU. de reformar los roles de los reguladores financieros federales sobre activos digitales con la Ley CLARITY.",
-      "porQueImporta": "Cambios regulatorios en el sector cripto en EE.UU., con implicaciones para el mercado global de activos digitales.",
-      "publicadoEn": "2026-06-15T19:41:24.000Z",
-      "imagen": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1jbG9zZS1sb29rLWF0LWNyeXB0by1jZnRjLmpwZw==.jpg",
-      "globalScore": 94,
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Here’s what happened in crypto today",
+      "tituloLimpio": "Lo que pasó hoy en el mundo cripto",
+      "resumen": "Resumen de las últimas noticias sobre tendencias diarias y eventos que impactan el precio de Bitcoin, blockchain, DeFi, Web3 y la regulación de criptomonedas.",
+      "porQueImporta": "Una actualización rápida sobre el estado del mercado de criptomonedas y los factores que lo influyen.",
+      "publicadoEn": "2026-06-15T22:39:18.000Z",
+      "imagen": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0xMTA1ODktd2hhdC1oYXBwZW5lZC1pbi1jcnlwdG8tdG9kYXkuanBn.jpg",
+      "globalScore": 90,
       "personalScore": 100,
       "tags": [
         "Finanzas",
         "Cripto",
-        "Regulación",
-        "EE.UU."
+        "Mercado"
       ],
       "tambienVistoEn": []
     },
@@ -365,19 +331,39 @@
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
       "url": "https://www.clarin.com/economia/precios-nafta-ypf-analiza-adelantar-cambio-valores-surtidores-baja-petroleo_0_s6dwiWvGic.html",
-      "tituloOriginal": "Precios de la nafta: YPF analiza adelantar un cambio en los valores en los surtidores por la baja del petróleo",
-      "tituloLimpio": "Precios de la nafta: YPF analiza adelantar un cambio en los valores en los surtidores por la baja del petróleo",
-      "resumen": "El barril se acerca a los US$ 80 por el acuerdo de paz en Medio Oriente. En YPF creen podrían salir más rápido del acuerdo de estabilización anunciado en abril. Pero la reducción en los precios no sería inmediata.",
-      "porQueImporta": "Novedades sobre posibles ajustes en precios de combustibles en Argentina, con impacto directo en costos.",
+      "tituloOriginal": "Precios de la nafta: la baja del petróleo no impactará de inmediato en los surtidores de YPF",
+      "tituloLimpio": "La baja del petróleo no impactará de inmediato en los surtidores de YPF",
+      "resumen": "A pesar de la cercanía del barril de petróleo a los US$ 80, YPF no prevé una reducción inmediata en los precios de la nafta, aunque podrían salir antes del acuerdo de estabilización.",
+      "porQueImporta": "Información relevante sobre la política de precios de combustibles en Argentina y su posible desvinculación de los mercados internacionales.",
       "publicadoEn": "2026-06-15T16:44:40.000Z",
-      "imagen": "https://www.clarin.com/img/2026/03/29/9l8iLnT39-_1200x630__1.jpg",
+      "imagen": "https://www.clarin.com/img/2026/06/15/zSQWQEduG_1200x630__1.jpg",
       "globalScore": 86,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Economía",
+        "Economia",
         "Precios",
-        "Energía"
+        "Energia"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/diferencias-gobierno-vacantes-corte-mahiques-sugiere-apurar-eleccion-milei-prefiere-esperar_0_u4RCCYzzHx.html",
+      "tituloOriginal": "Diferencias en el Gobierno por las vacantes en la Corte: Mahiques sugiere apurar la elección, pero Milei prefiere esperar",
+      "tituloLimpio": "Diferencias en el Gobierno por vacantes en la Corte: Mahiques sugiere apurar, Milei prefiere esperar",
+      "resumen": "Hay diferencias internas en el gobierno argentino sobre cuándo cubrir las vacantes en la Corte Suprema. Mientras Mahiques sugiere agilizar el proceso, el Presidente Milei preferiría esperar hasta después de las elecciones.",
+      "porQueImporta": "Detalla las tensiones políticas internas en Argentina respecto a nombramientos clave en el poder judicial.",
+      "publicadoEn": "2026-06-15T21:40:18.000Z",
+      "imagen": "https://www.clarin.com/img/2026/06/15/XJSFL5ACE_1200x630__1.jpg",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Politica",
+        "Gobierno"
       ],
       "tambienVistoEn": []
     },
@@ -385,20 +371,40 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/06/15/spacex-amplio-su-venta-de-acciones-salto-otro-10-y-capitalizo-una-menor-aversion-al-riesgo-en-las-bolsas/",
-      "tituloOriginal": "SpaceX amplió su venta de acciones: saltó otro 20% y capitalizó una menor aversión al riesgo en las bolsas",
-      "tituloLimpio": "SpaceX amplió su venta de acciones: saltó otro 20% y capitalizó una menor aversión al riesgo en las bolsas",
-      "resumen": "La compañía aeroespacial de Elon Musk, que anunció una histórica salida a cotización el viernes, anunció la venta de acciones adicionales y elevó sus ingresos a USD 85.700 millones con esta operatoria",
-      "porQueImporta": "Información relevante sobre el desempeño financiero de SpaceX y su impacto en el mercado de inversiones.",
-      "publicadoEn": "2026-06-15T20:25:32.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/DLKHLIZQ2FF7BCKWYG4OR2VQXQ.JPG?auth=718eec5d6414a7ce8619ca2895dfc00e2937c5ee7b8e1f946686480757279348&smart=true&width=5392&height=3595",
+      "url": "https://www.infobae.com/economia/2026/06/15/jornada-financiera-la-euforia-de-wall-street-por-el-acuerdo-en-medio-oriente-impulso-a-los-activos-argentinos/",
+      "tituloOriginal": "Jornada financiera: la euforia de Wall Street por el acuerdo en Medio Oriente impulsó a los activos argentinos",
+      "tituloLimpio": "Euforia de Wall Street por acuerdo en Medio Oriente impulsa activos argentinos",
+      "resumen": "Los índices de Nueva York subieron hasta 3% tras avances en el acuerdo entre EE.UU. e Irán. Las acciones argentinas ganaron hasta 6%, aunque las petroleras locales cayeron. Los bonos subieron y el riesgo país bajó.",
+      "porQueImporta": "Muestra la correlación entre eventos geopolíticos globales y el desempeño de los activos financieros argentinos.",
+      "publicadoEn": "2026-06-15T21:31:17.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/GHZCNJ6B3NFVRL4TWTU2BVCQ34.JPG?auth=3780cc65a3a5f514d316dc69d92ce1834cbb131e9d0dc2f370c2682bd459a6da&smart=true&width=4840&height=3227",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Finanzas",
+        "Mercado",
+        "Inversion"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/06/15/el-gobernador-de-chaco-anuncio-un-aumento-salarial-para-la-policia/",
+      "tituloOriginal": "El gobernador de Chaco anunció un aumento salarial para la Policía",
+      "tituloLimpio": "Gobernador de Chaco anuncia aumento salarial para la Policía",
+      "resumen": "El gobernador del Chaco anunció un aumento del 30% en los servicios adicionales para la policía a partir de julio, como parte de un paquete de medidas salariales para 2026.",
+      "porQueImporta": "Noticia de interés local en Argentina sobre políticas salariales en el sector público provincial.",
+      "publicadoEn": "2026-06-15T21:24:21.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/NKNGQ55K2NADBCW4BJOCC4FNT4.JPG?auth=2240763e2f432f7470c65ab9ebb57467e9f0345f815a8ab60fbd013172bdad78&smart=true&width=688&height=493",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "Inversiones",
-        "Empresas",
-        "Mercados",
-        "SpaceX"
+        "Argentina",
+        "Politica",
+        "Provincial"
       ],
       "tambienVistoEn": []
     },
@@ -406,26 +412,47 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/campo/lo-pide-el-mundo-las-ventas-al-exterior-de-un-cultivo-se-dispararon-un-1595-y-llegan-inversiones-nid15062026/",
-      "tituloOriginal": "Lo pide el mundo: las ventas al exterior de un cultivo se dispararon un 159,5% y llegan inversiones millonarias",
-      "tituloLimpio": "Lo pide el mundo: las ventas al exterior de un cultivo se dispararon un 159,5% y llegan inversiones millonarias",
-      "resumen": "Con exportaciones por US$1327,6 millones en el primer cuatrimestre del año, récord de molienda y nuevos proyectos industriales por más de US$400 millones, la cadena girasolera atraviesa un fuerte crecimiento",
-      "porQueImporta": "Destaca un sector productivo argentino con fuerte crecimiento en exportaciones e inversiones, relevante para la economía local.",
-      "publicadoEn": "2026-06-15T19:59:19.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/U3XOWULPV5D4VBYLVAP5SGF33A.jpg?auth=590f24b3b89b3d550f005dace5b0456aeb18b0df2e6db2719c9aec3b15411a6b&smart=true&width=2000&height=1333",
+      "url": "https://www.lanacion.com.ar/economia/en-medio-de-la-caida-record-de-ventas-y-mas-problemas-para-cobrar-las-pymes-industriales-buscan-nid15062026/",
+      "tituloOriginal": "En medio de la caída récord de ventas y con más problemas para cobrar, las pymes industriales buscan refugio en Vaca Muerta",
+      "tituloLimpio": "Pymes industriales argentinas buscan refugio en Vaca Muerta ante caída de ventas",
+      "resumen": "Una encuesta indica que las pymes industriales argentinas enfrentan caída récord de ventas y problemas de cobro, buscando oportunidades en sectores como petróleo, gas y minería en Vaca Muerta.",
+      "porQueImporta": "Revela los desafíos que enfrentan las pequeñas y medianas empresas industriales en Argentina y las áreas de posible crecimiento.",
+      "publicadoEn": "2026-06-15T21:39:52.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/6ASCZE6JGRGTJKYTVG2Q3W6COY.JPG?auth=de70093aefb7a189e2a2dcdfe434fa6583f71da8529d542ae7ee5ee231abe70e&smart=true&width=2000&height=1242",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Economia",
+        "Pymes",
+        "Industria",
+        "Vaca Muerta"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Politica",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-interna-del-gobierno-y-tensiones-con-la-oposicion-dialoguista-nid14062026/",
+      "tituloOriginal": "Javier Milei y sus medidas, EN VIVO: la interna del Gobierno y tensiones con la oposición dialoguista por Adorni",
+      "tituloLimpio": "Javier Milei y sus medidas: interna del Gobierno y tensiones con la oposición",
+      "resumen": "Seguimiento en vivo de las decisiones del Presidente argentino Javier Milei, la dinámica interna del gobierno y las tensiones con la oposición dialoguista.",
+      "porQueImporta": "Proporciona información actualizada sobre la gestión política y las negociaciones del gobierno argentino.",
+      "publicadoEn": "2026-06-15T23:33:28.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/YGXV4JOZK5FL3O55PIPZXOCFTA.png?auth=b9bbb9fa4949f6a41275dea56dab2ca38cfdccbd2550a97b03934031b7dd1d89&smart=true&width=1299&height=922",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Economía",
-        "Inversiones",
-        "Exportaciones"
+        "Politica",
+        "Gobierno"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-06-15T20:32:19.346Z"
+    "generadoEn": "2026-06-16T00:28:26.060Z"
   }
 }
