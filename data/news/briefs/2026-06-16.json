@@ -1,69 +1,68 @@
 {
   "fecha": "2026-06-16",
-  "generadoEn": "2026-06-16T17:00:31.811Z",
-  "actualizacion": "14:00",
-  "resumenEjecutivo": "Las noticias de hoy giran en torno a inversiones significativas en infraestructura de datos, avances en tecnología de IA y sus implicaciones en el marketing, y el panorama económico y político en Argentina. En el ámbito tecnológico, se destacan las inversiones de Google en centros de datos y la posible compra de Cursor por parte de SpaceX. En Apple, se rumorea sobre los próximos iPhones de aniversario y nuevas funciones de IA para la app Fotos. En finanzas, hay movimientos en criptomonedas y estrategias de inversión. Para Argentina, se analiza la economía regional, el comportamiento del dólar y la situación de las pymes.",
+  "generadoEn": "2026-06-16T20:12:45.911Z",
+  "actualizacion": "manual",
+  "resumenEjecutivo": "Google invierte en Alabama, Apple lanza nuevos accesorios, y el mercado de semiconductores cae. En Argentina, el Banco Mundial aprobó una garantía de U$S2.000 millones y hay novedades en la industria aceitera y política. En IA, se lanzan Android 17 con funciones de Gemini y se rumorea sobre AirPods con cámaras para 2027. Coinbase expande sus servicios financieros con un asesor de IA.",
   "radarPersonal": [],
   "loImportante": [
-    "Google anuncia una inversión de $1.5 mil millones para expandir su campus de centros de datos en Alabama.",
-    "Se rumorea que Apple lanzará iPhones de 20 aniversario el próximo año en dos tamaños, junto con un iPhone plegable de segunda generación.",
-    "SpaceX estaría comprando Cursor por $60 mil millones para potenciar su oferta empresarial y competir en IA.",
-    "El 60% de los consumidores de EE.UU. considera que la mención de 'IA' en la comunicación de marca es un factor disuasorio, según una encuesta.",
-    "En Argentina, el semáforo de economías regionales muestra solo cuatro actividades en verde, con la mayoría sin lograr repuntar."
+    "Google anunció una inversión de U$S1.500 millones para expandir su centro de datos en Alabama.",
+    "Apple lanzó nuevos accesorios con opciones de colores vibrantes.",
+    "El Banco Mundial aprobó una garantía de U$S2.000 millones para Argentina.",
+    "Android 17 se lanza con nuevas herramientas de multitarea y expansión de funciones de Gemini.",
+    "Coinbase amplía su oferta financiera con un asesor de IA y mercados pre-IPO."
   ],
   "oportunidades": [
     {
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
-      "titulo": "El 60% de los consumidores de EE.UU. considera que la IA en la comunicación de marca es un factor disuasorio.",
-      "detalle": "Una encuesta revela que los consumidores desconfían de las respuestas generadas por IA, a pesar de que las empresas ven la búsqueda con IA como un canal importante.",
+      "titulo": "Android 17 y Gemini expanden sus funciones",
+      "detalle": "Google lanzó Android 17 y Wear OS 7, incorporando nuevas herramientas de multitarea, controles parentales, seguridad y mejoras para relojes inteligentes. El lanzamiento coincide con una actualización de Pixel que trae los últimos modelos de IA de Google a sus dispositivos.",
       "acciones": [
-        "Evaluar cómo se comunica la IA en las campañas de marketing.",
-        "Priorizar la transparencia y la autenticidad en la comunicación con el cliente."
+        "Explorar las nuevas funciones de multitarea en Android 17.",
+        "Evaluar la integración de Gemini en el ecosistema Android."
       ]
     },
     {
-      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
-      "categoria": "Apple",
-      "titulo": "Amazon baja el precio del MacBook Air M5 con 24GB de RAM y 1TB SSD a $1.329.",
-      "detalle": "Ofertas anticipadas de Prime Day permiten un ahorro de $170 en configuraciones de alta gama del MacBook Air M5.",
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "AI",
+      "titulo": "Apple Intelligence mejora la app Fotos",
+      "detalle": "Tres funciones de Apple Intelligence llegarán a la app Fotos este otoño, incluyendo Spatial Reframing, Extend y una versión mejorada de la edición.",
       "acciones": [
-        "Monitorear ofertas de hardware de Apple en plataformas de e-commerce.",
-        "Considerar la compra de equipos con configuraciones superiores si el precio es conveniente."
+        "Probar las nuevas funciones de edición de fotos con Apple Intelligence.",
+        "Analizar el impacto de estas herramientas en el flujo de trabajo de retoque."
       ]
     },
     {
-      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "id": "coinbase-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Investing",
-      "titulo": "Ripple invierte en Flutterwave para impulsar su stablecoin y XRP Ledger en África.",
-      "detalle": "El acuerdo valora a Flutterwave en $3.2 mil millones e integrará RLUSD y XRP Ledger para agilizar pagos transfronterizos en África.",
+      "titulo": "Coinbase expande sus servicios financieros",
+      "detalle": "La plataforma de criptomonedas introduce un asesor de IA, opciones de acciones y mercados pre-IPO, buscando consolidarse como una plataforma financiera integral.",
       "acciones": [
-        "Investigar el potencial de expansión de Ripple y su ecosistema en mercados emergentes.",
-        "Analizar el impacto de estas integraciones en el mercado de pagos digitales."
+        "Investigar el nuevo asesor de IA de Coinbase.",
+        "Evaluar las oportunidades en mercados pre-IPO y opciones de acciones."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
       "categoria": "Market",
-      "titulo": "La producción de las pymes argentinas cayó 9,2% y la caída de ventas afecta a más del 80% de las empresas.",
-      "detalle": "El sector pyme atraviesa una profunda crisis que tensiona la cadena de pagos y afecta el empleo.",
-      "mitigacion": "Monitorear de cerca la evolución de la economía argentina y sus efectos en el mercado local."
+      "titulo": "Caída de acciones de semiconductores y nombres ligados a IA",
+      "detalle": "El S&P 500 y el Nasdaq 100 cayeron debido a la pérdida de impulso de las acciones de chips y las vinculadas a IA. Los precios del petróleo también bajaron.",
+      "mitigacion": [
+        "Monitorear la volatilidad en el sector tecnológico y de semiconductores.",
+        "Diversificar las inversiones para mitigar riesgos sectoriales."
+      ]
     },
     {
-      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
-      "categoria": "Regulatory",
-      "titulo": "Binance considera que su licencia de la UE cumple con la normativa, a pesar de reportes de rechazo.",
-      "detalle": "El exchange advierte que un rechazo podría debilitar la liquidez y presentar otros riesgos en la región.",
-      "mitigacion": "Estar atento a las decisiones regulatorias en mercados clave para las criptomonedas y su impacto potencial."
-    },
-    {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "categoria": "Technology",
-      "titulo": "La necesidad de flexibilidad para poner centros de datos online rápidamente.",
-      "detalle": "Se destaca la importancia de la flexibilidad en la infraestructura para la rápida puesta en marcha de centros de datos.",
-      "mitigacion": "Considerar la escalabilidad y flexibilidad en las decisiones de infraestructura tecnológica."
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Market",
+      "titulo": "Magnificent Seven se convierten en lastre para el mercado",
+      "detalle": "Las acciones de las 'Magnificent Seven' están arrastrando el mercado, indicando un posible cambio en la dinámica del mercado.",
+      "mitigacion": [
+        "Reevaluar la exposición a las acciones de las 'Magnificent Seven'.",
+        "Buscar oportunidades en sectores menos correlacionados o con mayor potencial de crecimiento."
+      ]
     }
   ],
   "conexiones": [],
@@ -74,18 +73,17 @@
       "fuente": "Google AI Blog",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
       "tituloOriginal": "We’re strengthening our presence in Alabama through new investments and community support.",
-      "tituloLimpio": "Google fortalece su presencia en Alabama con nuevas inversiones.",
-      "resumen": "Google anunció una inversión de $1.5 mil millones para 2026 y 2027 para expandir su campus de centros de datos en Jackson County, Alabama.",
-      "porQueImporta": "Demuestra la inversión continua en infraestructura de IA y centros de datos, relevante para el sector tecnológico y la disponibilidad de servicios.",
+      "tituloLimpio": "Google invierte en Alabama",
+      "resumen": "Google anunció una inversión de U$S1.500 millones para 2026 y 2027 para expandir su campus de centros de datos en el condado de Jackson, Alabama.",
+      "porQueImporta": "Muestra la expansión de infraestructura de IA y centros de datos en EE.UU., relevante para entender la inversión en tecnología.",
       "publicadoEn": "2026-06-15T15:00:00.000Z",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "Google",
         "IA",
         "Inversión",
-        "Centros de Datos",
-        "Infraestructura"
+        "Infraestructura",
+        "Google"
       ],
       "tambienVistoEn": []
     },
@@ -93,19 +91,18 @@
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Apple",
       "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/16/20th-anniversary-iphone-size-options/",
-      "tituloOriginal": "Apple's 20th Anniversary iPhones to Come in Two Sizes, Will Launch Alongside Gen 2 Foldable iPhone",
-      "tituloLimpio": "Los iPhones de 20 aniversario de Apple vendrán en dos tamaños y se lanzarán junto a un iPhone plegable.",
-      "resumen": "Apple está intensificando el trabajo en el iPhone de 20 aniversario, que se lanzará el próximo año y tendrá dos modelos similares en tamaño al iPhone 18 Pro.",
-      "porQueImporta": "Información clave sobre los próximos lanzamientos de Apple, incluyendo un posible iPhone plegable y modelos de aniversario, de interés para usuarios y entusiastas de la marca.",
-      "publicadoEn": "2026-06-16T16:50:00.000Z",
-      "globalScore": 96,
+      "url": "https://www.macrumors.com/2026/06/16/apple-just-added-new-accessories/",
+      "tituloOriginal": "Apple Just Added New Accessories, Including Thinnest-Ever PopSockets",
+      "tituloLimpio": "Apple lanza nuevos accesorios",
+      "resumen": "Apple se asoció con fabricantes para ofrecer cargadores, soportes, baterías externas y cables en colores como azul, rosa y turquesa, disponibles en EE.UU. y otros países.",
+      "porQueImporta": "Novedades en accesorios de Apple, con un enfoque en la estética y disponibilidad global.",
+      "publicadoEn": "2026-06-16T19:42:26.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "iPhone",
-        "Tecnología",
-        "Lanzamiento"
+        "Accesorios",
+        "Diseño"
       ],
       "tambienVistoEn": []
     },
@@ -113,20 +110,20 @@
       "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
       "categoria": "Finance",
       "fuente": "Sherwood",
-      "url": "https://sherwood.news/crypto/hyperliquid-reclaims-all-time-high/",
-      "tituloOriginal": "Hyperliquid reclaims all-time high",
-      "tituloLimpio": "Hyperliquid recupera su máximo histórico.",
-      "resumen": "HYPE, la criptomoneda nativa del exchange de perpetuos Hyperliquid, recuperó su máximo histórico establecido a principios de mes.",
-      "porQueImporta": "Movimiento relevante en el mercado de criptomonedas, indicando un posible repunte o interés renovado en ciertos activos digitales.",
-      "publicadoEn": "2026-06-16T16:15:26.000Z",
-      "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/538710009_rocket-in-space.jpg?w=1600",
+      "url": "https://sherwood.news/markets/market-wrap-2026-06-16-sp500-qqq/",
+      "tituloOriginal": "Semiconductors slump, dragging down stocks",
+      "tituloLimpio": "Caen acciones de semiconductores y IA",
+      "resumen": "El S&P 500 y el Nasdaq 100 bajaron a medida que las acciones de chips y las vinculadas a IA perdieron impulso.",
+      "porQueImporta": "Impacto directo en el mercado de valores, especialmente en sectores clave para la IA y la tecnología.",
+      "publicadoEn": "2026-06-16T20:05:03.000Z",
+      "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/1061398488_grizzly-bear-growling-usa.jpg",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "Criptomonedas",
         "Finanzas",
-        "Inversión",
-        "Hyperliquid"
+        "Mercado",
+        "IA",
+        "Tecnología"
       ],
       "tambienVistoEn": []
     },
@@ -134,20 +131,19 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/semaforo-s-regionales-solo-hay-cuatro-actividades-verde-y-la-mayoria-no-logra-repuntar-n6289235",
-      "tituloOriginal": "Semáforo de economías regionales: solo hay cuatro actividades en verde y la mayoría no logra repuntar",
-      "tituloLimpio": "Semáforo de economías regionales en Argentina: solo cuatro actividades en verde.",
-      "resumen": "El análisis considera el negocio, aspecto productivo y mercado de cada actividad. La mayoría de las economías regionales no logra repuntar.",
-      "porQueImporta": "Panorama económico crucial para Argentina, mostrando la situación de diversos sectores productivos y su capacidad de recuperación.",
-      "publicadoEn": "2026-06-16T16:45:00.000Z",
-      "imagen": "https://media.ambito.com/p/d1089e5fc2e3ff1ef7b2fb9393ab09f4/adjuntos/239/imagenes/036/113/0036113023/1200x675/smart/economias-regionales-un-ejemplo-clasico-vinedos-374987jpg.jpg",
-      "globalScore": 94,
+      "url": "https://www.ambito.com/economia/el-banco-mundial-define-los-detalles-la-garantia-us2000-millones-la-argentina-n6289361",
+      "tituloOriginal": "El Banco Mundial aprobó la garantía de u$s2.000 millones para la Argentina",
+      "tituloLimpio": "Banco Mundial aprueba garantía para Argentina",
+      "resumen": "El Banco Mundial aprobó una garantía de U$S2.000 millones para Argentina. El Banco Interamericano de Desarrollo (BID) trataría otra garantía de U$S550 millones.",
+      "porQueImporta": "Noticia económica clave para Argentina, con implicaciones financieras y de acceso a crédito internacional.",
+      "publicadoEn": "2026-06-16T20:06:00.000Z",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Economía",
-        "Sectores Productivos",
-        "Análisis"
+        "Finanzas",
+        "Banco Mundial",
+        "Crédito"
       ],
       "tambienVistoEn": []
     },
@@ -157,18 +153,17 @@
       "fuente": "Marketing Dive",
       "url": "https://www.marketingdive.com/news/coach-unites-celebrities-gen-z-storytelling-under-new-brand-platform/822999/",
       "tituloOriginal": "Coach unites celebrities, Gen Z storytelling under new brand platform",
-      "tituloLimpio": "Coach une celebridades y storytelling de Gen Z bajo una nueva plataforma de marca.",
-      "resumen": "Coach busca romper con narrativas fijas de campañas de lujo para enfocarse en la coautoría, con aportes de la Generación Z.",
-      "porQueImporta": "Estrategia de marketing innovadora que busca conectar con audiencias más jóvenes a través de la colaboración y el storytelling.",
+      "tituloLimpio": "Coach lanza nueva plataforma de marca",
+      "resumen": "Coach une celebridades y narrativas de la Generación Z bajo una nueva plataforma de marca, buscando enfocarse en la coautoría.",
+      "porQueImporta": "Tendencia en marketing de marcas de lujo, integrando nuevas generaciones y formatos de contenido.",
       "publicadoEn": "2026-06-16T14:45:00.000Z",
       "globalScore": 96,
       "personalScore": 100,
       "tags": [
         "Marketing",
-        "Coach",
-        "Gen Z",
         "Branding",
-        "Estrategia"
+        "Gen Z",
+        "Coach"
       ],
       "tambienVistoEn": []
     },
@@ -176,20 +171,20 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
-      "tituloOriginal": "Sixty percent of U.S. consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
-      "tituloLimpio": "El 60% de los consumidores de EE.UU. considera que la IA en la comunicación de marca es un factor disuasorio.",
-      "resumen": "Una encuesta de WordPress VIP sugiere que los consumidores desconfían de las respuestas generadas por IA, aunque las empresas ven la búsqueda con IA como un canal importante.",
-      "porQueImporta": "Revela una tensión entre la adopción de IA por parte de las marcas y la percepción del consumidor, importante para estrategias de marketing y comunicación.",
-      "publicadoEn": "2026-06-16T16:49:44.000Z",
+      "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+      "tituloOriginal": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+      "tituloLimpio": "Android 17 se lanza con funciones de IA de Gemini",
+      "resumen": "Google lanzó Android 17 y Wear OS 7, introduciendo nuevas funciones de multitarea, controles parentales, seguridad y mejoras para relojes inteligentes, junto con la expansión de las funciones de Gemini.",
+      "porQueImporta": "Actualización importante del sistema operativo móvil de Google con foco en IA y multitarea.",
+      "publicadoEn": "2026-06-16T18:00:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "IA",
-        "Marketing",
-        "Consumidores",
-        "Comunicación",
-        "Encuesta"
+        "Android",
+        "Google",
+        "Software",
+        "Multitarea"
       ],
       "tambienVistoEn": []
     },
@@ -197,20 +192,19 @@
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
       "fuente": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion",
-      "tituloOriginal": "SpaceX is officially buying Cursor for $60 billion",
-      "tituloLimpio": "SpaceX compra Cursor por $60 mil millones.",
-      "resumen": "SpaceX gastará $60 mil millones para comprar Cursor, buscando ganar clientes empresariales y cerrar la brecha con rivales de IA como Anthropic y OpenAI.",
-      "porQueImporta": "Movimiento estratégico de SpaceX en el ámbito de la IA, con una adquisición de gran magnitud que podría reconfigurar el mercado.",
-      "publicadoEn": "2026-06-16T11:41:31.000Z",
+      "url": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
+      "tituloOriginal": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
+      "tituloLimpio": "Rumores de Apple: AirPods con cámaras y segundo iPhone plegable para 2027",
+      "resumen": "Se rumorea que Apple lanzará AirPods con cámaras para IA a fines de 2027 y su segundo iPhone plegable.",
+      "porQueImporta": "Anticipa futuras innovaciones de hardware de Apple, especialmente en el ámbito de la IA y dispositivos portátiles.",
+      "publicadoEn": "2026-06-16T17:04:05.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
+        "Apple",
         "IA",
-        "SpaceX",
-        "Adquisición",
-        "Tecnología",
-        "Negocios"
+        "Hardware",
+        "Rumores"
       ],
       "tambienVistoEn": []
     },
@@ -220,16 +214,16 @@
       "fuente": "MIT Technology Review AI",
       "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
       "tituloOriginal": "Want to get a data center online quickly? Give it some flex.",
-      "tituloLimpio": "La importancia de la flexibilidad para poner centros de datos online rápidamente.",
-      "resumen": "Se destaca la necesidad de flexibilidad en la infraestructura para la rápida puesta en marcha de centros de datos.",
-      "porQueImporta": "Relevante para la infraestructura tecnológica y la eficiencia en la implementación de soluciones de IA y computación.",
+      "tituloLimpio": "Flexibilidad para centros de datos",
+      "resumen": "Se discute la importancia de la flexibilidad para poner centros de datos en línea rápidamente, mencionando el impacto en la red eléctrica.",
+      "porQueImporta": "Aspectos técnicos y de infraestructura para la expansión de centros de datos, relevantes para la IA.",
       "publicadoEn": "2026-06-16T09:00:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "IA",
-        "Centros de Datos",
         "Infraestructura",
+        "Centros de Datos",
         "Tecnología"
       ],
       "tambienVistoEn": []
@@ -238,20 +232,17 @@
       "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Apple",
       "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/16/apple-releasing-20th-anniversary-iphone-airpods-with-cameras-next-year-report/",
-      "tituloOriginal": "Apple releasing 20th anniversary iPhone, AirPods with cameras next year: report",
-      "tituloLimpio": "Apple lanzará iPhone de 20 aniversario y AirPods con cámaras el próximo año, según informe.",
-      "resumen": "Un nuevo informe de Bloomberg detalla tres grandes lanzamientos de Apple para finales de 2027: el iPhone de 20 aniversario, un iPhone plegable de segunda generación y AirPods con cámaras incorporadas.",
-      "porQueImporta": "Anticipa futuras innovaciones de Apple, incluyendo un iPhone de aniversario y la integración de cámaras en los AirPods, de gran interés para los usuarios de la marca.",
-      "publicadoEn": "2026-06-16T16:31:11.000Z",
+      "url": "https://9to5mac.com/2026/06/16/eugene-levys-apple-tv-travel-series-is-coming-back-for-season-4/",
+      "tituloOriginal": "Eugene Levy’s Apple TV travel series is coming back for season 4",
+      "tituloLimpio": "Eugene Levy regresa con serie de Apple TV",
+      "resumen": "La serie de viajes de Eugene Levy en Apple TV+ ha sido renovada para una cuarta temporada.",
+      "porQueImporta": "Novedad sobre contenido original de Apple TV+, aunque no directamente relacionada con tecnología o inversión.",
+      "publicadoEn": "2026-06-16T19:59:07.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "iPhone",
-        "AirPods",
-        "Tecnología",
-        "Lanzamiento"
+        "Apple TV+"
       ],
       "tambienVistoEn": []
     },
@@ -259,20 +250,19 @@
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
       "categoria": "Apple",
       "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/06/16/amazon-slashes-m5-macbook-air-with-24gb-ram-1tb-ssd-to-1329?utm_source=rss",
-      "tituloOriginal": "Amazon slashes M5 MacBook Air with 24GB RAM, 1TB SSD to $1,329",
-      "tituloLimpio": "Amazon baja el precio del MacBook Air M5 con 24GB de RAM y 1TB SSD a $1.329.",
-      "resumen": "Amazon ha aplicado descuentos anticipados de Prime Day en configuraciones de alta gama del MacBook Air M5, con ahorros de $170.",
-      "porQueImporta": "Oportunidad de adquirir hardware de Apple a un precio reducido, especialmente para configuraciones potentes.",
-      "publicadoEn": "2026-06-16T15:48:45.000Z",
-      "globalScore": 100,
+      "url": "https://appleinsider.com/articles/26/06/16/snap-built-standalone-ar-glasses-without-a-convincing-reason-to-wear-them?utm_source=rss",
+      "tituloOriginal": "Snap built standalone AR glasses without a convincing reason to wear them",
+      "tituloLimpio": "Snap lanza gafas AR sin un uso claro",
+      "resumen": "Snap Inc. lanzó sus gafas de realidad aumentada 'Specs' a U$S2.195, pero se cuestiona si tienen una razón convincente para ser usadas a diario.",
+      "porQueImporta": "Análisis crítico de nuevas tecnologías de AR, relevante para entender el mercado y la adopción de dispositivos.",
+      "publicadoEn": "2026-06-16T19:25:02.000Z",
+      "globalScore": 96,
       "personalScore": 100,
       "tags": [
-        "Apple",
-        "MacBook Air",
-        "Oferta",
+        "AR",
         "Tecnología",
-        "Descuento"
+        "Snapchat",
+        "Dispositivos"
       ],
       "tambienVistoEn": []
     },
@@ -282,9 +272,9 @@
       "fuente": "MacStories",
       "url": "https://www.macstories.net/linked/three-features-coming-to-photos-this-fall-via-apple-intelligence/",
       "tituloOriginal": "Three Features Coming to Photos This Fall via Apple Intelligence",
-      "tituloLimpio": "Tres funciones de Apple Intelligence llegarán a Fotos este otoño.",
-      "resumen": "La edición de fotos recibirá funciones interesantes de Apple Intelligence, incluyendo Spatial Reframing y Extend.",
-      "porQueImporta": "Detalles sobre cómo la IA de Apple mejorará la aplicación Fotos, de interés para usuarios que buscan optimizar su flujo de trabajo fotográfico.",
+      "tituloLimpio": "Tres funciones de IA para Fotos este otoño",
+      "resumen": "Tres funciones de Apple Intelligence llegarán a la app Fotos este otoño: Spatial Reframing, Extend y una edición mejorada.",
+      "porQueImporta": "Detalles sobre cómo la IA de Apple impactará en herramientas creativas y de edición de fotos.",
       "publicadoEn": "2026-06-15T15:04:13.000Z",
       "globalScore": 100,
       "personalScore": 100,
@@ -292,8 +282,7 @@
         "Apple",
         "IA",
         "Fotos",
-        "Software",
-        "Actualización"
+        "Edición"
       ],
       "tambienVistoEn": []
     },
@@ -301,63 +290,20 @@
       "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
       "categoria": "Finance",
       "fuente": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/articles/regret-taking-social-security-70-163000837.html",
-      "tituloOriginal": "Regret taking Social Security at 70? Here’s what to do if it haunts you (and why younger Boomers must take notice)",
-      "tituloLimpio": "Arrepentido de tomar la Seguridad Social a los 70: qué hacer y por qué los Boomers más jóvenes deben prestar atención.",
-      "resumen": "Consejos sobre qué hacer si se lamenta haber comenzado a recibir la Seguridad Social a los 70 años y advertencias para los Boomers más jóvenes.",
-      "porQueImporta": "Información financiera relevante sobre planificación de la jubilación y decisiones importantes relacionadas con la Seguridad Social.",
-      "publicadoEn": "2026-06-16T16:30:00.000Z",
-      "imagen": "https://media.zenfs.com/en/moneywise_ecomm_711/6b07d08f205ddd6e9305cf99a76c652e",
-      "globalScore": 98,
-      "personalScore": 100,
-      "tags": [
-        "Finanzas",
-        "Jubilación",
-        "Seguridad Social",
-        "Planificación"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
-      "categoria": "Finance",
-      "fuente": "Yahoo Finance",
-      "url": "https://www.investors.com/research/options/fortinet-stock-ftnt-cybersecurity-options-trade-investing-markets/?src=A00220&yptr=yahoo",
-      "tituloOriginal": "Fortinet Stock: Aim For A 28% Return With This Strategy On The Cybersecurity Firm",
-      "tituloLimpio": "Fortinet Stock: Apunte a un retorno del 28% con esta estrategia en la firma de ciberseguridad.",
-      "resumen": "Se propone una estrategia de inversión en opciones para la acción de Fortinet (FTNT) con un objetivo de retorno del 28%.",
-      "porQueImporta": "Análisis de inversión específico para una acción del sector de ciberseguridad, ofreciendo una estrategia concreta para inversores.",
-      "publicadoEn": "2026-06-16T16:29:37.000Z",
-      "imagen": "https://media.zenfs.com/en/ibd.com/573148a77ae9ace10b983547b3fb319d",
-      "globalScore": 98,
-      "personalScore": 100,
-      "tags": [
-        "Finanzas",
-        "Inversión",
-        "Acciones",
-        "Ciberseguridad",
-        "Fortinet"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "yahoo-finance-aHR0cHM6Ly93d3cud3Nq",
-      "categoria": "Finance",
-      "fuente": "Yahoo Finance",
-      "url": "https://www.wsj.com/health/pharma/health-care-roundup-market-talk-eebbc3ff?siteid=yhoof2&yptr=yahoo",
-      "tituloOriginal": "Health Care Roundup: Market Talk",
-      "tituloLimpio": "Resumen de atención médica: Market Talk.",
-      "resumen": "Un resumen de noticias y análisis sobre el sector de la atención médica.",
-      "porQueImporta": "Visión general de las tendencias y novedades en el sector de la salud, relevante para entender el mercado y posibles inversiones.",
-      "publicadoEn": "2026-06-16T16:41:00.000Z",
-      "imagen": "https://media.zenfs.com/en/wsj.com/cace99803c9c0a2a15c87333722d186c",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_47346_MarketUpdate_1781629272000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "tituloOriginal": "Market Update: TEVA, APD, DG",
+      "tituloLimpio": "Magnificent Seven arrastran el mercado",
+      "resumen": "Las acciones de las 'Magnificent Seven' se están convirtiendo en un lastre para el mercado, indicando un posible cambio en la tendencia.",
+      "porQueImporta": "Análisis de la dinámica del mercado bursátil y el comportamiento de las grandes tecnológicas.",
+      "publicadoEn": "2026-06-16T17:01:12.000Z",
+      "imagen": "https://s.yimg.com/uc/fin/img/non-sub-report-thumb.png",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Finanzas",
-        "Salud",
         "Mercado",
-        "Análisis"
+        "Tecnología",
+        "Inversión"
       ],
       "tambienVistoEn": []
     },
@@ -365,21 +311,21 @@
       "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
       "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/06/16/ripple-invests-in-flutterwave-pushing-its-stablecoin-and-xrp-ledger-into-payments-across-africa",
-      "tituloOriginal": "Ripple invests in Flutterwave, pushing its stablecoin and XRP Ledger into payments across Africa",
-      "tituloLimpio": "Ripple invierte en Flutterwave, impulsando su stablecoin y XRP Ledger en pagos en África.",
-      "resumen": "El acuerdo valora a Flutterwave en $3.2 mil millones e integrará RLUSD y el ledger XRP para agilizar pagos transfronterizos en África.",
-      "porQueImporta": "Expansión significativa de Ripple en el mercado africano, con implicaciones para los pagos digitales y el uso de su tecnología.",
-      "publicadoEn": "2026-06-16T15:35:40.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/e967c0a6b3495d0572d5a7ca83e35490a1e10f74-2048x1365.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "globalScore": 92,
+      "url": "https://www.coindesk.com/business/2026/06/16/coinbase-intoduces-ai-advisor-stock-options-and-pre-ipo-markets-in-finance-push",
+      "tituloOriginal": "Coinbase intoduces AI advisor, stock options, and pre-IPO markets in finance push",
+      "tituloLimpio": "Coinbase expande servicios financieros con IA",
+      "resumen": "Coinbase introduce un asesor de IA, opciones de acciones y mercados pre-IPO como parte de su estrategia para convertirse en una plataforma financiera integral.",
+      "porQueImporta": "Expansión de Coinbase hacia servicios financieros más amplios, integrando IA y abriendo nuevas oportunidades de inversión.",
+      "publicadoEn": "2026-06-16T19:00:00.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/6e8ed1cd0f17a1509349ad7cb7c31b8324847527-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Finanzas",
-        "Criptomonedas",
-        "Pagos",
-        "Ripple",
-        "África"
+        "IA",
+        "Inversión",
+        "Coinbase",
+        "Cripto"
       ],
       "tambienVistoEn": []
     },
@@ -387,21 +333,20 @@
       "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
       "categoria": "Finance",
       "fuente": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/binance-response-mica-european-union-license?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "tituloOriginal": "Binance says it considers EU license compliant amid reports of potential rejection",
-      "tituloLimpio": "Binance considera que su licencia de la UE cumple con la normativa, a pesar de reportes de rechazo.",
-      "resumen": "El exchange de criptomonedas advierte que cualquier rechazo que obligue a retrasar actividades en la región podría 'debilitar la liquidez' y presentar otros riesgos.",
-      "porQueImporta": "Información crucial sobre el estado regulatorio de Binance en Europa y las posibles consecuencias de un rechazo de licencia.",
-      "publicadoEn": "2026-06-16T16:24:39.000Z",
-      "imagen": "https://s3-images.ctmedia.io/media/article-covers/europe-binance.jpg",
+      "url": "https://cointelegraph.com/news/crypto-pac-fairshake-senate-primary-alabama-voters?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "tituloOriginal": "Crypto PAC has $12M stake in Senate primary runoff as Alabama voters head to polls",
+      "tituloLimpio": "Inversión de Crypto PAC en primaria de Alabama",
+      "resumen": "Un Crypto PAC tiene una participación de U$S12 millones en una segunda vuelta de primaria del Senado en Alabama.",
+      "porQueImporta": "Muestra la influencia del sector cripto en la política estadounidense, incluso a nivel local.",
+      "publicadoEn": "2026-06-16T19:45:47.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-top-5-crypto-states-in-us-alabama-minnesota.png",
       "globalScore": 90,
       "personalScore": 100,
       "tags": [
         "Finanzas",
-        "Criptomonedas",
-        "Regulación",
-        "Binance",
-        "Unión Europea"
+        "Cripto",
+        "Política",
+        "Alabama"
       ],
       "tambienVistoEn": []
     },
@@ -409,21 +354,20 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/pasara-dolar-mundial-estrategia-gobierno-evitar-suba-compra-reservas_0_X4eSIATXNi.html",
-      "tituloOriginal": "Qué pasará con el dólar durante el Mundial: la estrategia del Gobierno para evitar una suba mientras compra reservas",
-      "tituloLimpio": "Estrategia del Gobierno argentino para evitar suba del dólar durante el Mundial mientras compra reservas.",
-      "resumen": "Hubo ventas de títulos atados al tipo de cambio para que los inversores se queden en pesos. El Banco Central sigue sumando divisas y marcó un techo en $1.450.",
-      "porQueImporta": "Detalles sobre la política cambiaria y las estrategias del gobierno argentino para estabilizar el dólar y acumular reservas, especialmente relevante en un contexto de eventos deportivos.",
-      "publicadoEn": "2026-06-16T16:05:48.000Z",
-      "imagen": "https://www.clarin.com/img/2025/10/19/3euyG_tRG_1200x630__1.jpg",
-      "globalScore": 98,
+      "url": "https://www.clarin.com/rural/resultados-positivos-fracaso-nueva-audiencia-exportadores-sindicatos-aceiteros-dias-venza-conciliacion-obligatoria_0_TJa7GPyO5l.html",
+      "tituloOriginal": "“No tuvo resultados positivos”: fracasó una nueva audiencia entre exportadores y sindicatos aceiteros a dos días de que venza la conciliación obligatoria",
+      "tituloLimpio": "Fracasa audiencia entre exportadores y sindicatos aceiteros",
+      "resumen": "Una nueva audiencia entre exportadores y sindicatos aceiteros fracasó a dos días de que venza la conciliación obligatoria. La propuesta empresaria fue de aumentos que igualen la inflación.",
+      "porQueImporta": "Conflicto gremial en un sector clave de la economía argentina, con posibles repercusiones en exportaciones y precios.",
+      "publicadoEn": "2026-06-16T18:55:17.000Z",
+      "imagen": "https://www.clarin.com/img/2020/07/03/V0UW7qWdE_1200x630__1.jpg",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Dólar",
         "Economía",
-        "Política Cambiaria",
-        "Reservas"
+        "Sindical",
+        "Exportación"
       ],
       "tambienVistoEn": []
     },
@@ -431,20 +375,19 @@
       "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Politica",
-      "url": "https://www.clarin.com/politica/trolls-libertarios-salieron-cruzar-maria-eugenia-vidal-pedir-renuncia-adorni-foto-vip-aeropuerto-respuesta-lapidaria_0_pPGnoBZ1aT.html",
-      "tituloOriginal": "Los trolls libertarios salieron a cruzar a María Eugenia Vidal por pedir la renuncia de Adorni: foto en el VIP de un aeropuerto y una respuesta lapidaria",
-      "tituloLimpio": "Trolls libertarios critican a María Eugenia Vidal por foto en VIP de aeropuerto.",
-      "resumen": "Cuentas asociadas al ecosistema libertario cuestionaron a la exgobernadora por estar en un salón exclusivo del aeropuerto de Punta del Este, a lo que ella respondió.",
-      "porQueImporta": "Refleja tensiones políticas y debates en redes sociales en Argentina, con un cruce entre figuras políticas y usuarios.",
-      "publicadoEn": "2026-06-16T14:57:07.000Z",
-      "imagen": "https://www.clarin.com/img/2026/06/16/sGzoWi1DT_1200x630__1.jpg",
+      "url": "https://www.clarin.com/politica/justicia-intimo-cristina-kirchner-respete-pautas-arresto-domiciliario-sacarselo_0_f9yo3eZO7E.html",
+      "tituloOriginal": "La justicia intimó a Cristina Kirchner a que respete las pautas de su arresto domiciliario para no sacárselo",
+      "tituloLimpio": "Justicia intima a Cristina Kirchner sobre arresto domiciliario",
+      "resumen": "La justicia intimó a Cristina Kirchner a respetar las pautas de su arresto domiciliario para evitar que se lo revoquen.",
+      "porQueImporta": "Novedad política y judicial en Argentina, con implicaciones sobre figuras políticas relevantes.",
+      "publicadoEn": "2026-06-16T18:24:46.000Z",
+      "imagen": "https://www.clarin.com/img/2026/06/16/OJ_t33zCC_1200x630__1.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
         "Política",
-        "Redes Sociales",
-        "Debate"
+        "Justicia"
       ],
       "tambienVistoEn": []
     },
@@ -452,21 +395,19 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/06/16/la-produccion-de-las-pymes-cayo-92-y-la-caida-de-las-ventas-ya-afecta-a-mas-del-80-de-las-empresas/",
-      "tituloOriginal": "La producción de las pymes cayó 9,2% y la caída de las ventas ya afecta a más del 80% de las empresas",
-      "tituloLimpio": "Producción de pymes argentinas cayó 9,2% y ventas afectadas en más del 80%.",
-      "resumen": "El sector pyme atraviesa una profunda crisis que tensiona la cadena de pagos y afecta el empleo.",
-      "porQueImporta": "Indicador clave de la salud económica de Argentina, mostrando el impacto de la crisis en las pequeñas y medianas empresas.",
-      "publicadoEn": "2026-06-16T16:29:55.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/CAX2NQGWC5EXTEWD6LJX33LHF4.jpg?auth=5505cfcabc9470921795690d9e436039a6ab55e7584aafe68ec9f83525593d29&smart=true&width=1920&height=1080",
-      "globalScore": 94,
+      "url": "https://www.infobae.com/economia/2026/06/16/argentina-vs-argelia-en-el-mundial-2026-quien-gana-el-millonario-duelo-de-planteles-y-cual-es-el-jugador-mas-valioso/",
+      "tituloOriginal": "Argentina vs. Argelia en el Mundial 2026: quién gana el millonario duelo de planteles y cuál es el jugador más valioso",
+      "tituloLimpio": "Duelo de planteles: Argentina vs. Argelia en el Mundial 2026",
+      "resumen": "Se analiza el duelo de planteles entre Argentina y Argelia en el Mundial 2026, comparando la valuación de sus equipos y jugadores.",
+      "porQueImporta": "Contexto deportivo con un enfoque en el valor económico de los planteles, relevante para entender el mercado del fútbol.",
+      "publicadoEn": "2026-06-16T20:10:34.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/BETOQQTJ4ZDHNCISRJSDEIWUGU.png?auth=ef3b8150877dcd3769b9fcc75db81198b5e042e4f9ece04603b4e4920ede6e2e&smart=true&width=1920&height=1080",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Economía",
-        "Pymes",
-        "Producción",
-        "Ventas"
+        "Deportes",
+        "Mundial 2026"
       ],
       "tambienVistoEn": []
     },
@@ -474,21 +415,19 @@
       "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Politica",
-      "url": "https://www.infobae.com/politica/2026/06/16/sur-finanzas-las-nuevas-indagatorias-apuntan-a-la-ex-cupula-directiva-del-club-atletico-banfield/",
-      "tituloOriginal": "Sur Finanzas: las nuevas indagatorias apuntan a la ex cúpula directiva del Club Atlético Banfield",
-      "tituloLimpio": "Sur Finanzas: nuevas indagatorias apuntan a la ex cúpula directiva del Club Atlético Banfield.",
-      "resumen": "El juez federal Luis Armella fijó audiencias para directivos del club, semanas después de que imputados del entorno de un financista se negaran a responder preguntas.",
-      "porQueImporta": "Desarrollos judiciales en Argentina relacionados con el ámbito financiero y deportivo, con implicaciones para figuras públicas.",
-      "publicadoEn": "2026-06-16T16:49:39.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/IW3YD2CGPNB4RB46WKLF26244I.jpg?auth=be6f8df7ab760119c002a8b080ac1def25e67ec43af4d585972edd6e4d73e7be&smart=true&width=588&height=331",
-      "globalScore": 94,
+      "url": "https://www.infobae.com/politica/2026/06/16/a-la-espera-de-senales-del-senado-la-oposicion-sigue-negociando-en-diputados-para-interpelar-a-adorni/",
+      "tituloOriginal": "A la espera de señales del Senado, la oposición sigue negociando en Diputados para interpelar a Adorni",
+      "tituloLimpio": "Oposición negocia interpelar a Adorni en Diputados",
+      "resumen": "La oposición sigue negociando en Diputados para interpelar al jefe de Gabinete, Adorni, a la espera de señales del Senado.",
+      "porQueImporta": "Movimientos políticos en Argentina, con foco en la dinámica parlamentaria y la oposición al gobierno.",
+      "publicadoEn": "2026-06-16T19:57:39.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/ZSXSY4DZIFBMXCMUVQG3MXDQ6I.JPG?auth=5659190bf02cee7e01035fe5e9bfb83969ae5d4df4b5007ab2334ce92dcb8c2d&smart=true&width=3744&height=2496",
+      "globalScore": 86,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Judicial",
-        "Finanzas",
-        "Deportes",
-        "Investigación"
+        "Política",
+        "Congreso"
       ],
       "tambienVistoEn": []
     },
@@ -496,21 +435,20 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid16062026/",
-      "tituloOriginal": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 16 de junio, minuto a minuto",
-      "tituloLimpio": "Dólar hoy y dólar blue en vivo: cotización oficial y paralela este martes 16 de junio.",
-      "resumen": "La divisa oficial opera a $1455 para la venta; el dólar blue se ubica en $1460 para esa operación.",
-      "porQueImporta": "Información actualizada sobre el valor del dólar en Argentina, tanto en su cotización oficial como en el mercado paralelo, fundamental para la economía local.",
-      "publicadoEn": "2026-06-16T16:47:58.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/Y6OM5XZEONEFRC7AKCEI53D4QA.JPG?auth=99c193ae9b854c001805e21c98e9a5d7b301a5c05515c97735ec536a03e46e79&smart=true&width=2000&height=1333",
+      "url": "https://www.lanacion.com.ar/economia/leve-mejora-del-uso-de-la-capacidad-instalada-de-la-industria-en-abril-nid16062026/",
+      "tituloOriginal": "Leve mejora del uso de la capacidad instalada de la industria en abril",
+      "tituloLimpio": "Mejora del uso de la capacidad industrial en abril",
+      "resumen": "El uso de la capacidad instalada de la industria argentina mejoró levemente en abril, alcanzando el 59,9%. Hay heterogeneidad entre sectores.",
+      "porQueImporta": "Indicador clave de la actividad económica en Argentina, mostrando una recuperación incipiente en algunos sectores.",
+      "publicadoEn": "2026-06-16T20:06:14.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/KUJBXAVIA5F43LXZEEWKXDG7OA.jpg?auth=e1328d728a72d15bb9ab816e31de727d858dbed3d9d0fa10075aec971ea5a98e&smart=true&width=2000&height=1333",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Dólar",
         "Economía",
-        "Finanzas",
-        "Cotización"
+        "Industria",
+        "Capacidad Instalada"
       ],
       "tambienVistoEn": []
     },
@@ -518,27 +456,26 @@
       "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Politica",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-caso-adorni-y-movimientos-en-la-oposicion-nid16062026/",
-      "tituloOriginal": "Javier Milei y sus medidas, en vivo: caso Adorni y movimientos en la oposición",
-      "tituloLimpio": "Javier Milei y sus medidas, en vivo: caso Adorni y movimientos en la oposición.",
-      "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios.",
-      "porQueImporta": "Seguimiento de la agenda política y las acciones del gobierno argentino, incluyendo la gestión de voceros y las dinámicas de la oposición.",
-      "publicadoEn": "2026-06-16T16:47:51.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/M4NVIJSYLZCKTO52OI6L43MGVI.jpg?auth=6cd49eb9551484bf2d5b5950d73fded2061c59594f1ab7040c229f1c25e8ba59&smart=true&width=5000&height=3333",
-      "globalScore": 94,
+      "url": "https://www.lanacion.com.ar/politica/la-iglesia-insistio-en-sus-reclamos-por-el-proyecto-de-ley-de-inviolabilidad-de-la-propiedad-privada-nid16062026/",
+      "tituloOriginal": "La Iglesia insistió en sus reclamos por el proyecto de ley de inviolabilidad de la propiedad privada",
+      "tituloLimpio": "Iglesia reclama por ley de propiedad privada",
+      "resumen": "La Iglesia insistió en sus reclamos por el proyecto de ley de inviolabilidad de la propiedad privada, cuestionando limitaciones a la compra de tierras por extranjeros y pidiendo un marco para alquileres.",
+      "porQueImporta": "Debate sobre legislación de propiedad y uso de tierras en Argentina, con postura de la Iglesia.",
+      "publicadoEn": "2026-06-16T20:06:24.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/3P4NGCBUAJDGFANAEJ55NJVAEY.jpg?auth=fa3c5c05d9f9e97e84cd4fd4405f252c4e3bd6c74e11fa8532568fcea9dfab34&smart=true&width=2000&height=1333",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
         "Política",
-        "Javier Milei",
-        "Gobierno",
-        "Oposición"
+        "Legislación",
+        "Propiedad Privada"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-06-16T17:00:31.811Z"
+    "generadoEn": "2026-06-16T20:12:45.911Z"
   }
 }
