@@ -1,13 +1,13 @@
 {
   "fecha": "2026-06-17",
-  "generadoEn": "2026-06-17T16:49:59.600Z",
+  "generadoEn": "2026-06-17T19:26:09.716Z",
   "actualizacion": "14:00",
-  "resumenEjecutivo": "Hoy, la IA médica de Google muestra resultados prometedores en el manejo de enfermedades, mientras que Apple enfrenta críticas por el rendimiento de WebKit en iOS. En Argentina, el Gobierno anunció un superávit fiscal en mayo, aunque la situación política con Adorni genera tensión. También se destacan novedades en el ecosistema Apple con iOS 27 y mejoras en la migración de datos a Android, y el sector de marketing sigue innovando con campañas creativas y plataformas publicitarias basadas en IA.",
+  "resumenEjecutivo": "Hoy, la Reserva Federal mantuvo las tasas, aunque con opiniones divididas sobre futuras subas. En Argentina, la inflación mayorista se desaceleró y el crédito en dólares para empresas superó a los préstamos en pesos por primera vez en 20 años. En tecnología, Google presentó una IA médica y Apple actualizó Matter, mientras que OpenAI lanzó tareas programadas en ChatGPT. Un incidente con Anthropic puso en evidencia la preocupación global por el control de la IA estadounidense.",
   "radarPersonal": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
       "titulo": "Investigación de Google muestra cómo su IA médica AMIE podría ayudar a manejar condiciones de salud",
-      "resumen": "Una investigación publicada en “Nature” indica que el sistema conversacional de IA de Google iguala a los médicos de atención primaria en el manejo de enfermedades complejas.",
+      "resumen": "Una investigación en “Nature” indica que el sistema conversacional de IA de Google iguala a médicos de atención primaria en el manejo de enfermedades complejas.",
       "categoria": "AI",
       "fuentes": [
         "Google AI Blog"
@@ -24,162 +24,158 @@
     },
     {
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "Las reglas de WebKit de Apple costarían a los usuarios de iOS casi un 30% de rendimiento del navegador",
-      "resumen": "Ingenieros de Microsoft publicaron resultados de benchmarks que muestran que un navegador basado en Chromium con su propio motor de renderizado obtiene un 28.6% más de rendimiento que Safari en la prueba Speedometer 3.1 de Apple en iOS.",
+      "titulo": "Matter 1.6 anunciado con configuración NFC, compartición de dispositivos entre ecosistemas y termostatos más inteligentes",
+      "resumen": "La Connectivity Standards Alliance, que incluye a Apple, anunció la última versión de Matter, Matter 1.6. La actualización se enfoca en una mejor configuración de dispositivos, una gestión de dispositivos más coordinada y una mejor respuesta a las entradas de control. Matter 1.6 incluye la puesta en marcha basada en NFC para configurar bombillas en accesorios de techo, interruptores de pared y otros productos.",
       "categoria": "Apple",
       "fuentes": [
         "MacRumors"
       ],
       "urls": [
-        "https://www.macrumors.com/2026/06/17/webkit-rule-costs-ios-users-browser-performance/"
+        "https://www.macrumors.com/2026/06/17/matter-1-6-specification/"
       ],
       "score": 100,
       "tags": [
         "Apple",
-        "iOS",
-        "navegador",
-        "rendimiento"
+        "hogar inteligente",
+        "automatización"
       ]
     },
     {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "Ajuste fiscal: el Gobierno anunció un superávit financiero de $478.613 millones en mayo",
-      "resumen": "La cartera que conduce Luis Caputo informó un saldo primario favorable de $1,92 billones.",
-      "categoria": "Argentina",
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "titulo": "OpenAI lanza tareas programadas en ChatGPT",
+      "resumen": "OpenAI está actualizando ChatGPT con una nueva función de tareas programadas. Esta nueva capacidad se está implementando a partir de hoy.",
+      "categoria": "AI",
       "fuentes": [
-        "Ambito"
+        "9to5Mac"
       ],
       "urls": [
-        "https://www.ambito.com/ajuste-fiscal-el-gobierno-anuncio-un-superavit-financiero-478613-millones-mayo-n6289770"
+        "https://9to5mac.com/2026/06/17/openai-launches-scheduled-tasks-in-chatgpt-details-here/"
+      ],
+      "score": 100,
+      "tags": [
+        "IA",
+        "ChatGPT",
+        "automatización",
+        "herramientas"
+      ]
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "titulo": "Por primera vez en más de 20 años, el crédito en dólares para empresas superó a los préstamos en pesos en Argentina",
+      "resumen": "El financiamiento en moneda extranjera creció impulsado por sectores como el agro, minería y energía. Las líneas en pesos todavía tienen tasas altas.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Clarin Economia"
+      ],
+      "urls": [
+        "https://www.clarin.com/economia/primera-vez-20-anos-credito-dolares-empresas-supero-prestamos-pesos_0_goq6irfMQO.html"
       ],
       "score": 100,
       "tags": [
         "Argentina",
         "finanzas",
-        "gobierno",
-        "superávit"
+        "economía"
       ]
     },
     {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "titulo": "Google apuesta por Gemini para reinventar el altavoz inteligente del hogar",
-      "resumen": "Google apuesta a que la IA generativa puede revitalizar el altavoz inteligente. El nuevo Google Home Speaker de $99.99 reemplaza los comandos rígidos de la era del Asistente de Google con interacciones más conversacionales de Gemini.",
-      "categoria": "AI",
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "titulo": "La CNV derogó una restricción cambiaria que afectaba a las sociedades de bolsa",
+      "resumen": "La medida eliminó una limitación impuesta durante la volatilidad electoral; permite recomponer posiciones en dólares dentro de ciertos límites patrimoniales.",
+      "categoria": "Argentina",
       "fuentes": [
-        "TechCrunch AI"
+        "La Nacion Economia"
       ],
       "urls": [
-        "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/"
+        "https://www.lanacion.com.ar/economia/la-cnv-derogo-una-restriccion-cambiaria-que-pesaba-sobre-las-sociedades-de-bolsa-nid17062026/"
       ],
       "score": 100,
       "tags": [
-        "Google",
-        "Gemini",
-        "IA",
-        "hogar inteligente"
-      ]
-    },
-    {
-      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
-      "titulo": "Apple Weather recibe dos nuevas funciones en iOS 27",
-      "resumen": "iOS 27 incluye nuevas funciones para Apple Calendar, Wallet, Messages, Maps y también la aplicación Weather.",
-      "categoria": "Apple",
-      "fuentes": [
-        "9to5Mac"
-      ],
-      "urls": [
-        "https://9to5mac.com/2026/06/17/apple-weather-gets-two-brand-new-features-in-ios-27/"
-      ],
-      "score": 100,
-      "tags": [
-        "Apple",
-        "iOS",
-        "Weather",
-        "actualización"
+        "Argentina",
+        "finanzas",
+        "mercado"
       ]
     }
   ],
   "loImportante": [
-    "La IA médica de Google, AMIE, demuestra ser tan eficaz como los médicos de atención primaria en el manejo de enfermedades complejas, lo que podría transformar la salud digital.",
-    "Apple enfrenta críticas por el rendimiento de WebKit en iOS, con pruebas que sugieren una desventaja del 30% frente a navegadores basados en Chromium.",
-    "El Gobierno argentino logró un superávit financiero en mayo, alcanzando la mitad de la meta fiscal con el FMI, lo que indica un avance en el ajuste económico.",
-    "Google busca revitalizar el mercado de altavoces inteligentes con Gemini, ofreciendo interacciones más conversacionales y menos rígidas.",
-    "Las nuevas funciones en Apple Weather para iOS 27 y la capacidad de Android 17 para copiar más datos de iPhones, incluyendo el historial de iMessage, muestran una evolución constante en las plataformas móviles."
+    "La Reserva Federal mantuvo las tasas, pero la posibilidad de una suba este año es más probable que un recorte, impactando los mercados.",
+    "En Argentina, el crédito en dólares para empresas superó al de pesos por primera vez en 20 años, impulsado por sectores clave como agro y minería.",
+    "Google presentó AMIE, una IA médica conversacional que iguala a médicos primarios en el manejo de enfermedades complejas, con potencial para la salud.",
+    "OpenAI lanzó tareas programadas en ChatGPT, mejorando las capacidades de automatización y productividad de la herramienta.",
+    "La actualización de Matter 1.6 de Apple mejora la configuración y gestión de dispositivos inteligentes, incluyendo NFC, lo que es relevante para el ecosistema Apple."
   ],
   "oportunidades": [
     {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Automation",
+      "titulo": "Automatización de tareas con ChatGPT",
+      "detalle": "La nueva función de tareas programadas en ChatGPT permite automatizar procesos, lo que puede ser útil para la gestión de proyectos o la creación de contenido recurrente.",
+      "acciones": [
+        "Explorar las nuevas capacidades de programación de tareas en ChatGPT para optimizar flujos de trabajo.",
+        "Identificar tareas repetitivas en retoque fotográfico o arte con IA que puedan ser automatizadas con esta función."
+      ]
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Investing",
+      "titulo": "Crecimiento del crédito en dólares en Argentina",
+      "detalle": "El aumento del crédito en dólares para empresas en Argentina, especialmente en sectores como agro, minería y energía, podría indicar oportunidades de inversión en estos rubros o en empresas que se beneficien de este financiamiento.",
+      "acciones": [
+        "Investigar ETFs o empresas argentinas ligadas a los sectores de agro, minería y energía.",
+        "Analizar el impacto de este cambio en el mercado de capitales local y posibles oportunidades de inversión."
+      ]
+    },
+    {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
       "categoria": "AI",
-      "titulo": "IA médica para gestión de salud",
-      "detalle": "La IA conversacional de Google, AMIE, iguala a los médicos en el manejo de enfermedades complejas. Esto abre puertas a herramientas de asistencia médica y diagnóstico.",
+      "titulo": "Avances en IA médica conversacional",
+      "detalle": "La IA médica AMIE de Google demuestra un rendimiento comparable a médicos primarios en el manejo de enfermedades. Esto abre puertas a futuras aplicaciones de IA en el sector salud y podría inspirar nuevas herramientas de IA para otros campos.",
       "acciones": [
-        "Explorar herramientas de IA para asistencia en salud o diagnóstico.",
-        "Analizar el impacto de estas tecnologías en la interacción médico-paciente y la automatización de procesos."
-      ]
-    },
-    {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "categoria": "AI",
-      "titulo": "Reinvención del altavoz inteligente con IA generativa",
-      "detalle": "Google apuesta por Gemini para ofrecer interacciones más conversacionales en sus altavoces inteligentes, lo que podría mejorar la experiencia del usuario y la utilidad de estos dispositivos.",
-      "acciones": [
-        "Evaluar la nueva generación de altavoces inteligentes con IA para automatización del hogar o asistencia personal.",
-        "Considerar cómo la IA conversacional puede aplicarse a otros dispositivos o servicios."
-      ]
-    },
-    {
-      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
-      "categoria": "Marketing",
-      "titulo": "Marketing con contenido social y estrellas de DIY",
-      "detalle": "Aleve utiliza contenido social y figuras de 'hágalo usted mismo' para su campaña, mostrando una estrategia efectiva para conectar con audiencias específicas a través de influencers.",
-      "acciones": [
-        "Investigar el uso de influencers y contenido social para campañas de marketing.",
-        "Analizar cómo marcas similares a las que Guido trabaja pueden aplicar estas estrategias."
+        "Monitorear el desarrollo de AMIE y otras IAs médicas para entender las tendencias en IA conversacional y su aplicación práctica.",
+        "Considerar cómo los principios de esta IA podrían aplicarse a la creación de herramientas de IA para el arte o el retoque fotográfico."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "categoria": "Platform",
-      "titulo": "Rendimiento limitado de navegadores en iOS por reglas de WebKit",
-      "detalle": "Las reglas de Apple sobre WebKit en iOS podrían estar costando a los usuarios casi un 30% de rendimiento del navegador, lo que afecta la experiencia web en dispositivos Apple.",
-      "mitigacion": "Estar al tanto de las limitaciones de rendimiento en iOS para el desarrollo web y la experiencia del usuario. Considerar optimizaciones específicas para WebKit si se desarrollan aplicaciones web para iOS."
-    },
-    {
-      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
-      "categoria": "Platform",
-      "titulo": "Consolidación de dominios de 'Sign in with Apple' podría afectar servicios",
-      "detalle": "Apple está cambiando los dominios de correo electrónico detrás de 'Sign in with Apple' y 'Hide My Email', lo que exige a desarrolladores y proveedores de correo actualizar sus sistemas.",
-      "mitigacion": "Si se utilizan servicios que dependen de 'Sign in with Apple', verificar que los desarrolladores estén al tanto y hayan actualizado sus sistemas para evitar interrupciones."
-    },
-    {
-      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
       "categoria": "Market",
-      "titulo": "Tensión política en Argentina por la continuidad de Adorni",
-      "detalle": "El PRO presiona para la renuncia de Adorni y confirma que votará su remoción en el Congreso, generando incertidumbre política en el país.",
-      "mitigacion": "Monitorear la situación política en Argentina, ya que la inestabilidad puede impactar en la economía y los mercados locales."
+      "titulo": "Posible suba de tasas de la Reserva Federal",
+      "detalle": "La Reserva Federal eliminó el sesgo de flexibilización y sus responsables políticos ven una suba de tasas como más probable que un recorte este año. Esto podría generar volatilidad en los mercados y afectar las inversiones en ETFs.",
+      "mitigacion": "Revisar la composición de la cartera de ETFs para evaluar la exposición a activos sensibles a las tasas de interés. Considerar estrategias de cobertura o diversificación."
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "Regulatory",
+      "titulo": "Riesgo de interrupción de acceso a IA por controles de exportación",
+      "detalle": "Líderes mundiales expresaron preocupación por la posibilidad de que EE.UU. corte el acceso a su IA, un temor que se materializó con el bloqueo de Anthropic. Esto representa un riesgo para la continuidad de servicios de IA críticos si se depende de proveedores estadounidenses.",
+      "mitigacion": "Evaluar la dependencia de herramientas de IA de origen estadounidense. Explorar alternativas de IA de código abierto o de proveedores con menor riesgo regulatorio. Mantenerse informado sobre las políticas de exportación de tecnología."
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "titulo": "Impacto de reglas de exportación en modelos de IA",
+      "detalle": "Anthropic tuvo problemas para mantener sus modelos de IA en línea debido a órdenes de la administración Trump de cortar el acceso a extranjeros. Esto subraya la incertidumbre regulatoria y el impacto potencial en la disponibilidad de modelos avanzados de IA.",
+      "mitigacion": "Diversificar el uso de modelos de IA y proveedores. Monitorear de cerca los cambios en las regulaciones de exportación de tecnología que puedan afectar el acceso a herramientas de IA."
     }
   ],
   "conexiones": [
     {
-      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "titulo": "IA en salud y hogar: Google avanza en múltiples frentes",
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "Preocupación global por el control de la IA estadounidense",
       "historias": [
-        "Nueva investigación muestra cómo AMIE, la IA médica de Google, podría ayudar a manejar condiciones de salud.",
-        "Google apuesta por Gemini para reinventar el altavoz inteligente del hogar."
+        "World leaders want American AI. They just don’t want America to be able to turn it off.",
+        "Anthropic got hit by export rules nobody understands"
       ],
-      "conclusion": "Google está invirtiendo fuertemente en IA para mejorar tanto la salud como la vida cotidiana en el hogar, mostrando un enfoque integral en la aplicación de esta tecnología."
+      "conclusion": "La preocupación de líderes mundiales sobre la capacidad de EE.UU. para cortar el acceso a su IA se vio reforzada por el incidente de Anthropic, que tuvo que bloquear sus modelos por reglas de exportación. Esto resalta la creciente tensión geopolítica en torno a la tecnología de IA y la necesidad de entender las implicaciones de depender de proveedores de IA de un solo país."
     },
     {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "Superávit fiscal en Argentina: un logro en medio de la tensión política",
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "titulo": "Decisión de la Fed y su impacto en Argentina",
       "historias": [
-        "Ajuste fiscal: el Gobierno anunció un superávit financiero de $478.613 millones en mayo.",
-        "El Gobierno volvió a tener superávit en mayo y ya alcanzó la mitad de la meta fiscal con el FMI.",
-        "Crece la tensión en el Gobierno ante versiones sobre la continuidad de Adorni y se activa un operativo de contención en el Senado."
+        "Federal Reserve removes easing bias, policymakers see a hike as more likely than a cut this year",
+        "La Fed mantuvo las tasas y hay opiniones divididas sobre si volver a subirlas en 2026"
       ],
-      "conclusion": "Mientras el Gobierno argentino celebra un superávit fiscal significativo en mayo, la estabilidad política se ve amenazada por la presión sobre la continuidad de Adorni, lo que podría generar incertidumbre a pesar de los logros económicos."
+      "conclusion": "La decisión de la Reserva Federal de mantener las tasas, pero con una inclinación hacia posibles subas futuras, generó una reacción negativa inicial en los mercados. Esta postura, aunque con opiniones divididas, es relevante para Argentina, ya que las decisiones de la Fed suelen influir en el valor del dólar y en las condiciones financieras globales, afectando indirectamente la economía local y las inversiones."
     }
   ],
   "noticias": [
@@ -190,8 +186,8 @@
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
       "tituloOriginal": "New research shows how AMIE, our medical AI, could help manage health conditions.",
       "tituloLimpio": "Investigación de Google muestra cómo su IA médica AMIE podría ayudar a manejar condiciones de salud",
-      "resumen": "Una investigación publicada en “Nature” indica que el sistema conversacional de IA de Google iguala a los médicos de atención primaria en el manejo de enfermedades complejas.",
-      "porQueImporta": "Guido, esto es relevante para tu interés en IA aplicada. La capacidad de una IA para igualar a médicos en el manejo de enfermedades complejas es un avance significativo con implicaciones para la salud digital y la automatización en el sector médico.",
+      "resumen": "Una investigación en “Nature” indica que el sistema conversacional de IA de Google iguala a médicos de atención primaria en el manejo de enfermedades complejas.",
+      "porQueImporta": "Este avance en IA médica es relevante para el campo de la inteligencia artificial aplicada y muestra el potencial de la IA para tareas complejas, lo que podría inspirar nuevas herramientas o enfoques en otros dominios como el arte con IA.",
       "publicadoEn": "2026-06-17T15:00:00.000Z",
       "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp",
       "globalScore": 100,
@@ -207,19 +203,38 @@
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Apple",
       "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/17/webkit-rule-costs-ios-users-browser-performance/",
-      "tituloOriginal": "Apple's WebKit Rules Reportedly Cost iOS Users Almost 30% Browser Performance",
-      "tituloLimpio": "Las reglas de WebKit de Apple costarían a los usuarios de iOS casi un 30% de rendimiento del navegador",
-      "resumen": "Ingenieros de Microsoft publicaron resultados de benchmarks que muestran que un navegador basado en Chromium con su propio motor de renderizado obtiene un 28.6% más de rendimiento que Safari en la prueba Speedometer 3.1 de Apple en iOS.",
-      "porQueImporta": "Como usuario de Apple, es importante saber que las políticas de WebKit podrían estar limitando el rendimiento de los navegadores en iOS. Esto puede afectar tu experiencia de navegación y el desarrollo web para la plataforma.",
-      "publicadoEn": "2026-06-17T16:14:41.000Z",
-      "globalScore": 92,
+      "url": "https://www.macrumors.com/2026/06/17/matter-1-6-specification/",
+      "tituloOriginal": "Matter 1.6 Announced With NFC Setup, Cross-Ecosystem Device Sharing, and Smarter Thermostats",
+      "tituloLimpio": "Matter 1.6 anunciado con configuración NFC, compartición de dispositivos entre ecosistemas y termostatos más inteligentes",
+      "resumen": "La Connectivity Standards Alliance, que incluye a Apple, anunció la última versión de Matter, Matter 1.6. La actualización se enfoca en una mejor configuración de dispositivos, una gestión de dispositivos más coordinada y una mejor respuesta a las entradas de control.",
+      "porQueImporta": "Para un usuario de Apple, esta actualización de Matter mejora la interoperabilidad y la facilidad de uso de los dispositivos de hogar inteligente, lo que es clave para la automatización del hogar y la integración con el ecosistema Apple.",
+      "publicadoEn": "2026-06-17T18:29:40.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "iOS",
-        "navegador",
-        "rendimiento"
+        "hogar inteligente",
+        "automatización"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "categoria": "Finance",
+      "fuente": "Sherwood",
+      "url": "https://sherwood.news/markets/federal-reserve-fomc-june-2026-rate-decision-kevin-warsh/",
+      "tituloOriginal": "Federal Reserve removes easing bias, policymakers see a hike as more likely than a cut this year",
+      "tituloLimpio": "La Reserva Federal eliminó el sesgo de flexibilización; los responsables políticos ven una suba de tasas como más probable que un recorte este año",
+      "resumen": "El movimiento inicial de las acciones fue a la baja.",
+      "porQueImporta": "La postura de la Fed es crucial para los mercados financieros globales y, por ende, para las inversiones en ETFs. Una posible suba de tasas puede impactar el valor de los activos y la economía en general.",
+      "publicadoEn": "2026-06-17T18:28:50.000Z",
+      "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/GettyImages-101615186-copy.jpeg",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "mercados",
+        "inversión"
       ],
       "tambienVistoEn": []
     },
@@ -227,19 +242,19 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/ajuste-fiscal-el-gobierno-anuncio-un-superavit-financiero-478613-millones-mayo-n6289770",
-      "tituloOriginal": "Ajuste fiscal: el Gobierno anunció un superávit financiero de $478.613 millones en mayo",
-      "tituloLimpio": "Ajuste fiscal: el Gobierno anunció un superávit financiero de $478.613 millones en mayo",
-      "resumen": "La cartera que conduce Luis Caputo informó un saldo primario favorable de $1,92 billones.",
-      "porQueImporta": "Como residente en Argentina, esta noticia es clave para entender la situación económica del país. Un superávit fiscal es un indicador importante de la gestión económica y puede influir en la estabilidad financiera general.",
-      "publicadoEn": "2026-06-17T16:21:00.000Z",
-      "globalScore": 90,
+      "url": "https://www.ambito.com/economia/la-fed-mantuvo-las-tasas-y-hay-opiniones-divididas-si-volver-subirlas-2026-n6289838",
+      "tituloOriginal": "La Fed mantuvo las tasas y hay opiniones divididas sobre si volver a subirlas en 2026",
+      "tituloLimpio": "La Fed mantuvo las tasas y hay opiniones divididas sobre si volver a subirlas en 2026",
+      "resumen": "El banco central norteamericano también publicó sus estimaciones de inflación, actividad y empleo.",
+      "porQueImporta": "Esta noticia complementa la anterior, ofreciendo la perspectiva local sobre la decisión de la Fed. Es relevante para entender el contexto económico global y su posible impacto en Argentina y las inversiones.",
+      "publicadoEn": "2026-06-17T19:00:00.000Z",
+      "imagen": "https://media.ambito.com/p/c628c84e643cc82d79369de628b1a841/adjuntos/239/imagenes/041/953/0041953157/1200x675/smart/reserva-federal-eeuu.jpg",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
         "finanzas",
-        "gobierno",
-        "superávit"
+        "economía"
       ],
       "tambienVistoEn": []
     },
@@ -249,17 +264,16 @@
       "fuente": "Marketing Dive",
       "url": "https://www.marketingdive.com/news/aleve-tackles-home-improvement-pain-with-social-content-and-diy-stars/823074/",
       "tituloOriginal": "Aleve tackles home improvement pain with social content and DIY stars",
-      "tituloLimpio": "Aleve aborda el dolor de las mejoras del hogar con contenido social y estrellas de DIY",
-      "resumen": "Los presentadores de “Fixer to Fabulous”, Jenny y Dave Marrs, protagonizan una campaña en redes sociales de la marca de analgésicos Bayer.",
-      "porQueImporta": "Para tu interés en marketing, esta es una buena muestra de cómo las marcas utilizan influencers y contenido temático para conectar con su audiencia. Es un ejemplo de estrategia de marketing digital efectiva.",
+      "tituloLimpio": "Aleve aborda el 'dolor' de las mejoras del hogar con contenido social y estrellas del DIY",
+      "resumen": "Los presentadores de “Fixer to Fabulous”, Jenny y Dave Marrs, protagonizan una campaña de redes sociales de la marca de analgésicos Bayer.",
+      "porQueImporta": "Ejemplo de campaña de marketing que utiliza influencers y contenido social para conectar con una audiencia específica, relevante para entender estrategias de marketing digital y branding.",
       "publicadoEn": "2026-06-17T15:28:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "marketing",
         "redes sociales",
-        "influencers",
-        "campaña"
+        "campañas"
       ],
       "tambienVistoEn": []
     },
@@ -267,38 +281,37 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
-      "tituloOriginal": "Google bets on Gemini to reinvent the smart home speaker",
-      "tituloLimpio": "Google apuesta por Gemini para reinventar el altavoz inteligente del hogar",
-      "resumen": "Google apuesta a que la IA generativa puede revitalizar el altavoz inteligente. El nuevo Google Home Speaker de $99.99 reemplaza los comandos rígidos de la era del Asistente de Google con interacciones más conversacionales de Gemini.",
-      "porQueImporta": "Esto es relevante para tu interés en IA aplicada y automatización. La evolución de los altavoces inteligentes con IA generativa puede cambiar la forma en que interactuamos con la tecnología en el hogar y ofrecer nuevas posibilidades de automatización.",
-      "publicadoEn": "2026-06-17T16:30:09.000Z",
+      "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+      "tituloOriginal": "World leaders want American AI. They just don’t want America to be able to turn it off.",
+      "tituloLimpio": "Líderes mundiales quieren IA estadounidense, pero no quieren que EE.UU. pueda desactivarla",
+      "resumen": "El presidente francés Macron y el primer ministro indio Modi expresaron alarma en la cumbre del G7 de que EE.UU. podría cortar el acceso a la IA estadounidense de la noche a la mañana, un temor que el apagón de Anthropic acaba de hacer real.",
+      "porQueImporta": "Esta noticia subraya la preocupación geopolítica sobre el control de la IA y la dependencia tecnológica. Es crucial para entender los riesgos asociados al uso de herramientas de IA de un solo origen y la necesidad de diversificación.",
+      "publicadoEn": "2026-06-17T19:01:19.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "Google",
-        "Gemini",
         "IA",
-        "hogar inteligente"
+        "geopolítica",
+        "riesgos"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
-      "fuente": "MIT Technology Review AI",
-      "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
-      "tituloOriginal": "Want to get a data center online quickly? Give it some flex.",
-      "tituloLimpio": "¿Querés poner un centro de datos en línea rápidamente? Dale algo de flexibilidad.",
-      "resumen": "Al final de un tenso primer tiempo sin goles de un partido de fútbol entre el equipo masculino inglés y su rival Alemania, millones de británicos suspiraron colectivamente e hicieron lo que suelen hacer en momentos de estrés: se hicieron té. Esa ola de pavas eléctricas encendiéndose, sin embargo, causó una diferente…",
-      "porQueImporta": "Aunque el resumen es un poco críptico, el título sugiere una noticia sobre la eficiencia y flexibilidad en la infraestructura de centros de datos, un tema relevante para la IA y la tecnología en general, que requiere mucha capacidad de procesamiento.",
-      "publicadoEn": "2026-06-16T09:00:00.000Z",
-      "globalScore": 96,
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
+      "tituloOriginal": "Anthropic got hit by export rules nobody understands",
+      "tituloLimpio": "Anthropic fue afectado por reglas de exportación que nadie entiende",
+      "resumen": "Anthropic pasó gran parte de esta semana luchando por volver a poner en línea sus modelos de IA más recientes después de que la administración Trump ordenara abruptamente a la compañía cortar el acceso a todos los ciudadanos extranjeros, incluidos los usuarios dentro de EE.UU. y sus propios empleados.",
+      "porQueImporta": "Este incidente es un caso práctico de cómo las regulaciones y políticas pueden impactar directamente la disponibilidad y el uso de herramientas de IA, afectando a usuarios y empresas a nivel global. Es un recordatorio de la volatilidad regulatoria en el sector tecnológico.",
+      "publicadoEn": "2026-06-17T18:28:50.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "IA",
-        "infraestructura",
-        "centros de datos"
+        "regulación",
+        "tecnología"
       ],
       "tambienVistoEn": []
     },
@@ -306,39 +319,19 @@
       "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Apple",
       "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/17/apple-weather-gets-two-brand-new-features-in-ios-27/",
-      "tituloOriginal": "Apple Weather gets two brand new features in iOS 27",
-      "tituloLimpio": "Apple Weather recibe dos nuevas funciones en iOS 27",
-      "resumen": "iOS 27 incluye nuevas funciones para Apple Calendar, Wallet, Messages, Maps y también la aplicación Weather.",
-      "porQueImporta": "Como usuario de Apple, te interesará saber sobre las novedades en iOS 27, especialmente las mejoras en aplicaciones nativas como Weather, que pueden mejorar tu experiencia diaria con el iPhone.",
-      "publicadoEn": "2026-06-17T15:58:28.000Z",
+      "url": "https://9to5mac.com/2026/06/17/openai-launches-scheduled-tasks-in-chatgpt-details-here/",
+      "tituloOriginal": "OpenAI launches scheduled tasks in ChatGPT, details here",
+      "tituloLimpio": "OpenAI lanza tareas programadas en ChatGPT",
+      "resumen": "OpenAI está actualizando ChatGPT con una nueva función de tareas programadas. Esta nueva capacidad se está implementando a partir de hoy.",
+      "porQueImporta": "La capacidad de programar tareas en ChatGPT es una mejora significativa para la automatización y la productividad, permitiendo a los usuarios optimizar flujos de trabajo y gestionar mejor sus proyectos, incluyendo aquellos relacionados con el arte con IA.",
+      "publicadoEn": "2026-06-17T19:15:21.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "Apple",
-        "iOS",
-        "Weather",
-        "actualización"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "9to5mac-aHR0cHM6Ly85dG81Z29v",
-      "categoria": "Apple",
-      "fuente": "9to5Mac",
-      "url": "https://9to5google.com/2026/06/17/android-17-iphone-switching-upgrades/",
-      "tituloOriginal": "Android 17 can copy more data from iPhone including your iMessage history and homescreen",
-      "tituloLimpio": "Android 17 puede copiar más datos del iPhone, incluyendo tu historial de iMessage y pantalla de inicio",
-      "resumen": "Google está introduciendo una mejora masiva en su herramienta “Android Switch” en Android 17, con la capacidad de copiar más datos que nunca al cambiar de iPhone a Android, y podría copiar más datos de los que se obtienen al moverse entre teléfonos Android.",
-      "porQueImporta": "Aunque sos usuario de Apple, es interesante ver cómo la competencia mejora la migración de datos. Esto muestra una tendencia hacia una mayor interoperabilidad y puede ser útil si alguna vez consideras otras opciones o si trabajás con usuarios de Android.",
-      "publicadoEn": "2026-06-17T13:40:39.000Z",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "Android",
-        "iPhone",
-        "migración de datos",
-        "tecnología"
+        "IA",
+        "ChatGPT",
+        "automatización",
+        "herramientas"
       ],
       "tambienVistoEn": []
     },
@@ -346,19 +339,18 @@
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
       "categoria": "Apple",
       "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/06/17/sign-in-with-apple-domain-consolidation-could-trip-up-unprepared-services?utm_source=rss",
-      "tituloOriginal": "Sign in with Apple domain consolidation could trip up unprepared services",
-      "tituloLimpio": "La consolidación de dominios de 'Sign in with Apple' podría complicar a servicios no preparados",
-      "resumen": "Apple está cambiando los dominios de correo electrónico detrás de 'Sign in with Apple' y 'Hide My Email', obligando a desarrolladores y proveedores de correo a actualizar sus sistemas antes de que comience la transición.",
-      "porQueImporta": "Si usás 'Sign in with Apple' o 'Hide My Email', esta noticia es importante. Podría afectar a los servicios que utilizás si no se actualizan a tiempo, generando posibles interrupciones.",
-      "publicadoEn": "2026-06-17T16:00:07.000Z",
+      "url": "https://appleinsider.com/articles/26/06/17/blink-has-a-big-speed-advantage-against-webkit-in-browser-tests?utm_source=rss",
+      "tituloOriginal": "Blink has a big speed advantage against WebKit in browser tests",
+      "tituloLimpio": "Blink tiene una gran ventaja de velocidad frente a WebKit en pruebas de navegador",
+      "resumen": "WebKit encontró su rival, ya que el prototipo Blink supera al motor de navegador de Apple y sugiere el futuro de la navegación web en iOS.",
+      "porQueImporta": "Para un usuario de Apple, esta noticia es relevante porque indica posibles cambios en el rendimiento de los navegadores en iOS, lo que podría afectar la experiencia de usuario y el desarrollo web en la plataforma.",
+      "publicadoEn": "2026-06-17T17:49:47.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "seguridad",
-        "desarrolladores",
-        "servicios"
+        "navegadores",
+        "tecnología"
       ],
       "tambienVistoEn": []
     },
@@ -369,8 +361,8 @@
       "url": "https://www.macstories.net/notes/ipados-27-finally-lets-you-automate-window-placement-with-shortcuts/",
       "tituloOriginal": "iPadOS Lets You Automate Window Placement with Shortcuts",
       "tituloLimpio": "iPadOS permite automatizar la ubicación de ventanas con Atajos",
-      "resumen": "En la aplicación Atajos de iPadOS, la acción existente 'Abrir App' se actualizó recientemente con la capacidad de lanzar una aplicación.",
-      "porQueImporta": "Para tu interés en automatización y herramientas, esta es una excelente noticia. La capacidad de automatizar la ubicación de ventanas en iPadOS con Atajos puede mejorar significativamente tu flujo de trabajo y productividad en el iPad.",
+      "resumen": "En la app Atajos de iPadOS, la acción existente 'Abrir App' se actualizó recientemente con la capacidad de lanzar una app.",
+      "porQueImporta": "Esta mejora en iPadOS es útil para la productividad y la automatización, permitiendo a los usuarios de Apple personalizar y optimizar sus flujos de trabajo en el iPad, lo cual es valioso para tareas de retoque o diseño.",
       "publicadoEn": "2026-06-17T14:20:12.000Z",
       "globalScore": 98,
       "personalScore": 100,
@@ -383,44 +375,42 @@
       "tambienVistoEn": []
     },
     {
-      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
       "categoria": "Finance",
       "fuente": "Yahoo Finance",
-      "url": "https://www.investors.com/news/ge-vernova-arcosa-data-center-construction-ai-artificial-intelligence/?src=A00220&yptr=yahoo",
-      "tituloOriginal": "GE Vernova Supplier Near Breakout As Data Centers Lift Construction Sector",
-      "tituloLimpio": "Proveedor de GE Vernova cerca de un despegue mientras los centros de datos impulsan el sector de la construcción",
+      "url": "https://finance.yahoo.com/technology/ai/articles/spacex-buy-cursor-ai-coding-103445855.html",
+      "tituloOriginal": "SpaceX locks in $60 billion Cursor deal to close gap with rivals in AI coding race",
+      "tituloLimpio": "SpaceX asegura un acuerdo de 60 mil millones de dólares con Cursor para reducir la brecha con sus rivales en la carrera de codificación de IA",
       "resumen": "",
-      "porQueImporta": "Esta noticia es relevante para tus intereses en inversión y tecnología. El auge de los centros de datos, impulsado por la IA, está generando un impacto significativo en el sector de la construcción, lo que podría indicar oportunidades de inversión en empresas relacionadas.",
-      "publicadoEn": "2026-06-17T16:08:01.000Z",
-      "imagen": "https://media.zenfs.com/en/ibd.com/371e02d229016289ce50c92fd1a34048",
-      "globalScore": 94,
+      "porQueImporta": "Este acuerdo millonario destaca la inversión masiva en IA y codificación, mostrando la importancia estratégica de estas áreas para grandes empresas como SpaceX. Es un indicador de las tendencias de inversión en tecnología y IA.",
+      "publicadoEn": "2026-06-16T10:34:45.000Z",
+      "imagen": "https://media.zenfs.com/en/reuters-finance.com/f664a49602481bececea49ce267cdfc3",
+      "globalScore": 86,
       "personalScore": 100,
       "tags": [
         "finanzas",
-        "inversión",
         "IA",
-        "centros de datos"
+        "inversión"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
-      "fuente": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/trace-finance-cross-border-stablecoin-settlement-expansion?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "tituloOriginal": "Trace Finance raises $32M for cross-border stablecoin settlement expansion",
-      "tituloLimpio": "Trace Finance recauda $32 millones para la expansión de liquidación transfronteriza de stablecoins",
-      "resumen": "La recaudación se produce a medida que la regulación de las stablecoins avanza globalmente y las firmas financieras invierten en infraestructura que conecta los pagos blockchain con los sistemas bancarios tradicionales.",
-      "porQueImporta": "Si bien no tenés acceso a todos los servicios financieros globales, esta noticia es importante para entender la evolución del mercado de criptomonedas y su integración con las finanzas tradicionales, un área de interés para tus inversiones.",
-      "publicadoEn": "2026-06-17T15:00:00.000Z",
-      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-latin-america-is-ready-for-stablecoin-just-integrate-it-with-their-payment-systems.jpg",
-      "globalScore": 94,
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/06/17/here-is-how-coinbase-plan-to-survive-the-crypto-downturn-by-ditching-its-reliance-on-trading-fees",
+      "tituloOriginal": "Here is how Coinbase plan to survive the crypto downturn by ditching its reliance on trading fees",
+      "tituloLimpio": "Coinbase planea sobrevivir a la recesión cripto abandonando su dependencia de las tarifas de trading",
+      "resumen": "Analistas dicen que el impulso de la bolsa hacia derivados, pagos e infraestructura amplía su historia de crecimiento más allá del trading de criptomonedas.",
+      "porQueImporta": "Esta noticia es relevante para el sector financiero y de inversión, mostrando cómo las empresas de criptomonedas buscan diversificar sus ingresos y adaptarse a las condiciones del mercado, lo que puede influir en la estabilidad y las oportunidades de inversión en el espacio cripto.",
+      "publicadoEn": "2026-06-17T19:23:40.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/1100f0cd98c79008072b6e1713c6723d7b80bf56-1420x916.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 96,
       "personalScore": 100,
       "tags": [
         "finanzas",
         "criptomonedas",
-        "inversión",
-        "blockchain"
+        "inversión"
       ],
       "tambienVistoEn": []
     },
@@ -428,20 +418,19 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/gobierno-volvio-tener-superavit-mayo-alcanzo-mitad-meta-fiscal-fmi_0_My8adB3QRM.html",
-      "tituloOriginal": "El Gobierno volvió a tener superávit en mayo y ya alcanzó la mitad de la meta fiscal con el FMI",
-      "tituloLimpio": "El Gobierno volvió a tener superávit en mayo y ya alcanzó la mitad de la meta fiscal con el FMI",
-      "resumen": "Luis Caputo informó que en mayo hubo un excedente primario de casi $2 billones y financiero de $478.000 millones. Es un 0,7% del PBI acumulado en lo que va del año. Necesita llegar a 1,4% del Producto en 2026.",
-      "porQueImporta": "Esta noticia refuerza la información sobre el superávit fiscal en Argentina, brindando más detalles sobre los montos y el cumplimiento de las metas con el FMI. Es crucial para tu comprensión de la economía local.",
-      "publicadoEn": "2026-06-17T16:03:55.000Z",
-      "imagen": "https://www.clarin.com/img/2026/04/28/ApjOyaI_1_1200x630__1.jpg",
-      "globalScore": 90,
+      "url": "https://www.clarin.com/economia/primera-vez-20-anos-credito-dolares-empresas-supero-prestamos-pesos_0_goq6irfMQO.html",
+      "tituloOriginal": "Por primera vez en más de 20 años el crédito en dólares para las empresas superó a los préstamos en pesos",
+      "tituloLimpio": "Por primera vez en más de 20 años el crédito en dólares para las empresas superó a los préstamos en pesos",
+      "resumen": "El financiamiento en moneda extranjera creció empujado por sectores como el agro, minería y energía. Las líneas en pesos todavía tienen tasas altas.",
+      "porQueImporta": "Esta es una noticia económica clave para Argentina, ya que refleja un cambio significativo en el panorama financiero y de inversión, con implicaciones para las empresas y el mercado de capitales local.",
+      "publicadoEn": "2026-06-17T17:53:50.000Z",
+      "imagen": "https://www.clarin.com/img/2026/06/17/6QVtfzBmm_1200x630__1.jpg",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
         "finanzas",
-        "gobierno",
-        "FMI"
+        "economía"
       ],
       "tambienVistoEn": []
     },
@@ -449,19 +438,19 @@
       "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Politica",
-      "url": "https://www.clarin.com/politica/deberia-pasar-dia-cargo-pro-presiona-adorni-renuncie-confirma-votara-remocion-congreso_0_aF4pkZAvRB.html",
-      "tituloOriginal": "\"No debería pasar un día más en el cargo\": el PRO presiona para que Adorni renuncie y confirma que votará su remoción en el Congreso",
-      "tituloLimpio": "El PRO presiona para que Adorni renuncie y confirma que votará su remoción en el Congreso",
-      "resumen": "Hablaron De Andreis y Goerling Lara, hombres fuertes en Diputados y el Senado, en la previa de la reunión de labor parlamentaria en la Cámara alta, que tiene que definir si hay sesión este jueves.",
-      "porQueImporta": "La situación política en Argentina es un factor importante para el clima de negocios y la estabilidad general. La presión sobre un funcionario clave como Adorni puede generar incertidumbre.",
-      "publicadoEn": "2026-06-17T14:16:20.000Z",
-      "imagen": "https://www.clarin.com/img/2026/06/17/LTMlMYLwJ_1200x630__1.jpg",
+      "url": "https://www.clarin.com/politica/caso-libra-novelli-pidio-sacar-causa-inversores-compraron-criptomoneda-sostiene-estafa_0_gViJnggrmc.html",
+      "tituloOriginal": "Caso $LIBRA: Novelli pidió sacar de la causa a los inversores que compraron la criptomoneda y sostiene que \"no hubo estafa\"",
+      "tituloLimpio": "Caso $LIBRA: Novelli pidió sacar de la causa a los inversores que compraron la criptomoneda y sostiene que 'no hubo estafa'",
+      "resumen": "Fue a través de un escrito presentado este martes ante la Justicia. El lobbista de Javier Milei argumenta que no hubo un engaño y defiende el proyecto.",
+      "porQueImporta": "Noticia relevante para el contexto argentino y el sector de criptomonedas, ya que aborda un caso legal de alto perfil que podría sentar precedentes sobre la regulación y la percepción de las cripto inversiones en el país.",
+      "publicadoEn": "2026-06-17T18:18:00.000Z",
+      "imagen": "https://www.clarin.com/img/2026/03/18/kGiUr3jO6_1200x630__1.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "política",
-        "gobierno"
+        "criptomonedas",
+        "finanzas"
       ],
       "tambienVistoEn": []
     },
@@ -469,66 +458,65 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/06/17/el-gobierno-volvio-a-tener-superavit-financiero-en-mayo-y-acumula-un-02-del-pbi/",
-      "tituloOriginal": "El Gobierno volvió a tener superávit financiero en mayo y acumula un 0,2% del PBI",
-      "tituloLimpio": "El Gobierno volvió a tener superávit financiero en mayo y acumula un 0,2% del PBI",
-      "resumen": "En el quinto mes del año, el Sector Público Nacional (SPN) registró un superávit primario de $1.924.367 millones y un superávit financiero de $478.613 millones. Cuáles son las metas con el FMI y la medidas que se tomaron para garantizarlo",
-      "porQueImporta": "Esta es otra confirmación del superávit fiscal, con detalles adicionales sobre los montos y el porcentaje del PBI. Es fundamental para tener una visión completa de la situación económica argentina.",
-      "publicadoEn": "2026-06-17T16:28:38.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/M35OYRP5CJG6PDQWMMZGFZT274.JPG?auth=7d0f46fd1452ca19e011837aa85f92600f2a733cf60d94ab6afc4c6eead44bfd&smart=true&width=3648&height=2432",
+      "url": "https://www.infobae.com/economia/2026/06/17/la-inflacion-mayorista-se-desacelero-a-25-en-mayo-y-acumulo-345-en-los-ultimos-doce-meses/",
+      "tituloOriginal": "La inflación mayorista se desaceleró a 2,5% en mayo y acumuló 34,5% en los últimos doce meses",
+      "tituloLimpio": "La inflación mayorista se desaceleró a 2,5% en mayo y acumuló 34,5% en los últimos doce meses",
+      "resumen": "El indicador experimentó una desaceleración respecto al 5,2% de abril, aunque quedó por encima del Índice de Precios al Consumidor (IPC) del quinto mes.",
+      "porQueImporta": "Dato económico fundamental para Argentina, que muestra la evolución de la inflación mayorista. Es importante para entender el contexto económico general y su impacto en el poder adquisitivo y las decisiones de inversión.",
+      "publicadoEn": "2026-06-17T19:10:32.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/WADG7F3CCJ4EU72TA5VXXERHIU.jpg?auth=1534d452a875f20134da1b2d4253238fe23d790129369238e117236378c16f32&smart=true&width=800&height=534",
       "globalScore": 90,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "finanzas",
-        "gobierno",
-        "PBI"
+        "economía",
+        "inflación"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
-      "fuente": "La Nacion Politica",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-convoco-a-todo-el-gabinete-a-compartir-una-foto-en-el-dia-de-la-bandera-en-rosario-nid17062026/",
-      "tituloOriginal": "Javier Milei convocó a todo el gabinete a compartir una foto en el Día de la Bandera, en Rosario",
-      "tituloLimpio": "Javier Milei convocó a todo el gabinete a compartir una foto en el Día de la Bandera, en Rosario",
-      "resumen": "Manuel Adorni fue invitado, aunque su suerte quedó atada a lo que defina el Congreso; en la Casa Rosada buscan dar otra señal de unidad en medio de la crisis.",
-      "porQueImporta": "Esta noticia, aunque política, es relevante para entender la dinámica del gobierno argentino y los intentos de mostrar unidad en momentos de tensión. Puede influir en la percepción de estabilidad.",
-      "publicadoEn": "2026-06-17T16:29:26.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/JY6D3JWWCBHU7ITMPK5Z3FJB3Y.jpg?auth=b93ada52dba03197b98001f94c000e3d3f5081bfd31b528387642806156f4be4&smart=true&width=2000&height=1333",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/06/17/la-futura-conduccion-del-gafi-recibio-en-paris-a-la-delegacion-argentina-y-destaco-la-participacion-del-poder-judicial/",
+      "tituloOriginal": "La futura conducción del GAFI recibió en París a la delegación argentina y destacó la participación del Poder Judicial",
+      "tituloLimpio": "La futura conducción del GAFI recibió en París a la delegación argentina y destacó la participación del Poder Judicial",
+      "resumen": "La representación nacional incluyó magistrados y funcionarios, un esquema que el organismo consideró útil para aplicar mejor los estándares internacionales y sostener canales de trabajo entre actores clave.",
+      "porQueImporta": "Esta noticia es relevante para Argentina en el ámbito de las finanzas internacionales y la lucha contra el lavado de dinero. La buena relación con el GAFI es clave para la reputación financiera del país y el acceso a mercados.",
+      "publicadoEn": "2026-06-17T19:17:59.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/SARR6Z3NYVDURKFW66ZMT4XFH4.jpg?auth=3ba65866043dc709a1d14b2ebed5f95daad0f4a1b654c34df21cc40038db7d50&smart=true&width=1600&height=1200",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "política",
-        "gobierno"
+        "finanzas",
+        "regulación"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
-      "categoria": "Marketing",
-      "fuente": "Adweek",
-      "url": "https://www.adweek.com/convergent-tv/fox-announces-end-to-end-agentic-ad-platform/",
-      "tituloOriginal": "Fox Announces TV Industry’s ‘First End-to-End Agentic Ad Platform’",
-      "tituloLimpio": "Fox anuncia la 'primera plataforma de publicidad agentiva de extremo a extremo' de la industria televisiva",
-      "resumen": "Fox implementa nuevas capacidades agentivas en lineal y digital.",
-      "porQueImporta": "Para tu interés en marketing, esta es una noticia importante sobre la innovación en publicidad. Las plataformas 'agentivas' con IA podrían cambiar la forma en que se planifican y ejecutan las campañas publicitarias, ofreciendo mayor automatización y eficiencia.",
-      "publicadoEn": "2026-06-17T10:00:00.000Z",
-      "globalScore": 90,
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/la-cnv-derogo-una-restriccion-cambiaria-que-pesaba-sobre-las-sociedades-de-bolsa-nid17062026/",
+      "tituloOriginal": "La CNV derogó una restricción cambiaria que pesaba sobre las sociedades de bolsa",
+      "tituloLimpio": "La CNV derogó una restricción cambiaria que pesaba sobre las sociedades de bolsa",
+      "resumen": "La medida dejó atrás una limitación impuesta durante la volatilidad electoral; permite recomponer posiciones en dólares dentro de ciertos límites patrimoniales.",
+      "porQueImporta": "Esta derogación es una noticia importante para el mercado de capitales argentino, ya que flexibiliza las operaciones en dólares para las sociedades de bolsa, lo que puede generar mayor dinamismo y oportunidades de inversión.",
+      "publicadoEn": "2026-06-17T19:21:12.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/LGWBX4Z4GVG7PNTEPSXN7FQYRE.jpg?auth=a98c514ca109f85f7a425f218380ce4ae97c7e1639ad35813d4c5c8a263fb9a8&smart=true&width=3725&height=2484",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "marketing",
-        "publicidad",
-        "IA",
-        "automatización"
+        "Argentina",
+        "finanzas",
+        "mercado"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-06-17T16:49:59.600Z"
+    "generadoEn": "2026-06-17T19:26:09.716Z"
   }
 }
