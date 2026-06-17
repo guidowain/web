@@ -77,20 +77,44 @@ Noticias normalizadas:
 ${JSON.stringify(noticias)}
 `
 
-  const response = await fetch(endpoint, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json', 'x-goog-api-key': apiKey },
-    body: JSON.stringify({
-      contents: [{ role: 'user', parts: [{ text: prompt }] }],
-      generationConfig: {
-        temperature: 0.25,
-        responseMimeType: 'application/json',
-      },
-    }),
+  const cuerpo = JSON.stringify({
+    contents: [{ role: 'user', parts: [{ text: prompt }] }],
+    generationConfig: {
+      temperature: 0.25,
+      responseMimeType: 'application/json',
+    },
   })
 
-  if (!response.ok) {
-    throw new Error(`Gemini fallo con HTTP ${response.status}: ${await response.text()}`)
+  // Reintentos con backoff: Gemini suele devolver 503/429 transitorios por sobrecarga.
+  const reintentables = new Set([429, 500, 502, 503, 504])
+  const maxIntentos = 4
+  let response: Response | undefined
+  let ultimoError = ''
+
+  for (let intento = 1; intento <= maxIntentos; intento += 1) {
+    response = await fetch(endpoint, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', 'x-goog-api-key': apiKey },
+      body: cuerpo,
+      signal: AbortSignal.timeout(30_000),
+    }).catch((error) => {
+      ultimoError = error instanceof Error ? error.message : 'fetch error'
+      return undefined as unknown as Response
+    })
+
+    if (response?.ok) break
+
+    const status = response?.status
+    ultimoError = response ? `HTTP ${status}: ${await response.text()}` : ultimoError
+    if (intento === maxIntentos || (status !== undefined && !reintentables.has(status))) {
+      throw new Error(`Gemini fallo (${ultimoError})`)
+    }
+    // 2s, 4s, 8s
+    await new Promise((resolve) => setTimeout(resolve, 2_000 * 2 ** (intento - 1)))
+  }
+
+  if (!response?.ok) {
+    throw new Error(`Gemini fallo (${ultimoError})`)
   }
 
   const data = (await response.json()) as GeminiResponse
