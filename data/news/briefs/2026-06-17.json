@@ -1,0 +1,534 @@
+{
+  "fecha": "2026-06-17",
+  "generadoEn": "2026-06-17T16:49:59.600Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Hoy, la IA médica de Google muestra resultados prometedores en el manejo de enfermedades, mientras que Apple enfrenta críticas por el rendimiento de WebKit en iOS. En Argentina, el Gobierno anunció un superávit fiscal en mayo, aunque la situación política con Adorni genera tensión. También se destacan novedades en el ecosistema Apple con iOS 27 y mejoras en la migración de datos a Android, y el sector de marketing sigue innovando con campañas creativas y plataformas publicitarias basadas en IA.",
+  "radarPersonal": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Investigación de Google muestra cómo su IA médica AMIE podría ayudar a manejar condiciones de salud",
+      "resumen": "Una investigación publicada en “Nature” indica que el sistema conversacional de IA de Google iguala a los médicos de atención primaria en el manejo de enfermedades complejas.",
+      "categoria": "AI",
+      "fuentes": [
+        "Google AI Blog"
+      ],
+      "urls": [
+        "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/"
+      ],
+      "score": 100,
+      "tags": [
+        "IA",
+        "salud",
+        "investigación"
+      ]
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Las reglas de WebKit de Apple costarían a los usuarios de iOS casi un 30% de rendimiento del navegador",
+      "resumen": "Ingenieros de Microsoft publicaron resultados de benchmarks que muestran que un navegador basado en Chromium con su propio motor de renderizado obtiene un 28.6% más de rendimiento que Safari en la prueba Speedometer 3.1 de Apple en iOS.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/06/17/webkit-rule-costs-ios-users-browser-performance/"
+      ],
+      "score": 100,
+      "tags": [
+        "Apple",
+        "iOS",
+        "navegador",
+        "rendimiento"
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Ajuste fiscal: el Gobierno anunció un superávit financiero de $478.613 millones en mayo",
+      "resumen": "La cartera que conduce Luis Caputo informó un saldo primario favorable de $1,92 billones.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/ajuste-fiscal-el-gobierno-anuncio-un-superavit-financiero-478613-millones-mayo-n6289770"
+      ],
+      "score": 100,
+      "tags": [
+        "Argentina",
+        "finanzas",
+        "gobierno",
+        "superávit"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "Google apuesta por Gemini para reinventar el altavoz inteligente del hogar",
+      "resumen": "Google apuesta a que la IA generativa puede revitalizar el altavoz inteligente. El nuevo Google Home Speaker de $99.99 reemplaza los comandos rígidos de la era del Asistente de Google con interacciones más conversacionales de Gemini.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/"
+      ],
+      "score": 100,
+      "tags": [
+        "Google",
+        "Gemini",
+        "IA",
+        "hogar inteligente"
+      ]
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "titulo": "Apple Weather recibe dos nuevas funciones en iOS 27",
+      "resumen": "iOS 27 incluye nuevas funciones para Apple Calendar, Wallet, Messages, Maps y también la aplicación Weather.",
+      "categoria": "Apple",
+      "fuentes": [
+        "9to5Mac"
+      ],
+      "urls": [
+        "https://9to5mac.com/2026/06/17/apple-weather-gets-two-brand-new-features-in-ios-27/"
+      ],
+      "score": 100,
+      "tags": [
+        "Apple",
+        "iOS",
+        "Weather",
+        "actualización"
+      ]
+    }
+  ],
+  "loImportante": [
+    "La IA médica de Google, AMIE, demuestra ser tan eficaz como los médicos de atención primaria en el manejo de enfermedades complejas, lo que podría transformar la salud digital.",
+    "Apple enfrenta críticas por el rendimiento de WebKit en iOS, con pruebas que sugieren una desventaja del 30% frente a navegadores basados en Chromium.",
+    "El Gobierno argentino logró un superávit financiero en mayo, alcanzando la mitad de la meta fiscal con el FMI, lo que indica un avance en el ajuste económico.",
+    "Google busca revitalizar el mercado de altavoces inteligentes con Gemini, ofreciendo interacciones más conversacionales y menos rígidas.",
+    "Las nuevas funciones en Apple Weather para iOS 27 y la capacidad de Android 17 para copiar más datos de iPhones, incluyendo el historial de iMessage, muestran una evolución constante en las plataformas móviles."
+  ],
+  "oportunidades": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "titulo": "IA médica para gestión de salud",
+      "detalle": "La IA conversacional de Google, AMIE, iguala a los médicos en el manejo de enfermedades complejas. Esto abre puertas a herramientas de asistencia médica y diagnóstico.",
+      "acciones": [
+        "Explorar herramientas de IA para asistencia en salud o diagnóstico.",
+        "Analizar el impacto de estas tecnologías en la interacción médico-paciente y la automatización de procesos."
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "titulo": "Reinvención del altavoz inteligente con IA generativa",
+      "detalle": "Google apuesta por Gemini para ofrecer interacciones más conversacionales en sus altavoces inteligentes, lo que podría mejorar la experiencia del usuario y la utilidad de estos dispositivos.",
+      "acciones": [
+        "Evaluar la nueva generación de altavoces inteligentes con IA para automatización del hogar o asistencia personal.",
+        "Considerar cómo la IA conversacional puede aplicarse a otros dispositivos o servicios."
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "Marketing con contenido social y estrellas de DIY",
+      "detalle": "Aleve utiliza contenido social y figuras de 'hágalo usted mismo' para su campaña, mostrando una estrategia efectiva para conectar con audiencias específicas a través de influencers.",
+      "acciones": [
+        "Investigar el uso de influencers y contenido social para campañas de marketing.",
+        "Analizar cómo marcas similares a las que Guido trabaja pueden aplicar estas estrategias."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Platform",
+      "titulo": "Rendimiento limitado de navegadores en iOS por reglas de WebKit",
+      "detalle": "Las reglas de Apple sobre WebKit en iOS podrían estar costando a los usuarios casi un 30% de rendimiento del navegador, lo que afecta la experiencia web en dispositivos Apple.",
+      "mitigacion": "Estar al tanto de las limitaciones de rendimiento en iOS para el desarrollo web y la experiencia del usuario. Considerar optimizaciones específicas para WebKit si se desarrollan aplicaciones web para iOS."
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Platform",
+      "titulo": "Consolidación de dominios de 'Sign in with Apple' podría afectar servicios",
+      "detalle": "Apple está cambiando los dominios de correo electrónico detrás de 'Sign in with Apple' y 'Hide My Email', lo que exige a desarrolladores y proveedores de correo actualizar sus sistemas.",
+      "mitigacion": "Si se utilizan servicios que dependen de 'Sign in with Apple', verificar que los desarrolladores estén al tanto y hayan actualizado sus sistemas para evitar interrupciones."
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Market",
+      "titulo": "Tensión política en Argentina por la continuidad de Adorni",
+      "detalle": "El PRO presiona para la renuncia de Adorni y confirma que votará su remoción en el Congreso, generando incertidumbre política en el país.",
+      "mitigacion": "Monitorear la situación política en Argentina, ya que la inestabilidad puede impactar en la economía y los mercados locales."
+    }
+  ],
+  "conexiones": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "IA en salud y hogar: Google avanza en múltiples frentes",
+      "historias": [
+        "Nueva investigación muestra cómo AMIE, la IA médica de Google, podría ayudar a manejar condiciones de salud.",
+        "Google apuesta por Gemini para reinventar el altavoz inteligente del hogar."
+      ],
+      "conclusion": "Google está invirtiendo fuertemente en IA para mejorar tanto la salud como la vida cotidiana en el hogar, mostrando un enfoque integral en la aplicación de esta tecnología."
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Superávit fiscal en Argentina: un logro en medio de la tensión política",
+      "historias": [
+        "Ajuste fiscal: el Gobierno anunció un superávit financiero de $478.613 millones en mayo.",
+        "El Gobierno volvió a tener superávit en mayo y ya alcanzó la mitad de la meta fiscal con el FMI.",
+        "Crece la tensión en el Gobierno ante versiones sobre la continuidad de Adorni y se activa un operativo de contención en el Senado."
+      ],
+      "conclusion": "Mientras el Gobierno argentino celebra un superávit fiscal significativo en mayo, la estabilidad política se ve amenazada por la presión sobre la continuidad de Adorni, lo que podría generar incertidumbre a pesar de los logros económicos."
+    }
+  ],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+      "tituloOriginal": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "tituloLimpio": "Investigación de Google muestra cómo su IA médica AMIE podría ayudar a manejar condiciones de salud",
+      "resumen": "Una investigación publicada en “Nature” indica que el sistema conversacional de IA de Google iguala a los médicos de atención primaria en el manejo de enfermedades complejas.",
+      "porQueImporta": "Guido, esto es relevante para tu interés en IA aplicada. La capacidad de una IA para igualar a médicos en el manejo de enfermedades complejas es un avance significativo con implicaciones para la salud digital y la automatización en el sector médico.",
+      "publicadoEn": "2026-06-17T15:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "salud",
+        "investigación"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/17/webkit-rule-costs-ios-users-browser-performance/",
+      "tituloOriginal": "Apple's WebKit Rules Reportedly Cost iOS Users Almost 30% Browser Performance",
+      "tituloLimpio": "Las reglas de WebKit de Apple costarían a los usuarios de iOS casi un 30% de rendimiento del navegador",
+      "resumen": "Ingenieros de Microsoft publicaron resultados de benchmarks que muestran que un navegador basado en Chromium con su propio motor de renderizado obtiene un 28.6% más de rendimiento que Safari en la prueba Speedometer 3.1 de Apple en iOS.",
+      "porQueImporta": "Como usuario de Apple, es importante saber que las políticas de WebKit podrían estar limitando el rendimiento de los navegadores en iOS. Esto puede afectar tu experiencia de navegación y el desarrollo web para la plataforma.",
+      "publicadoEn": "2026-06-17T16:14:41.000Z",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "iOS",
+        "navegador",
+        "rendimiento"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/ajuste-fiscal-el-gobierno-anuncio-un-superavit-financiero-478613-millones-mayo-n6289770",
+      "tituloOriginal": "Ajuste fiscal: el Gobierno anunció un superávit financiero de $478.613 millones en mayo",
+      "tituloLimpio": "Ajuste fiscal: el Gobierno anunció un superávit financiero de $478.613 millones en mayo",
+      "resumen": "La cartera que conduce Luis Caputo informó un saldo primario favorable de $1,92 billones.",
+      "porQueImporta": "Como residente en Argentina, esta noticia es clave para entender la situación económica del país. Un superávit fiscal es un indicador importante de la gestión económica y puede influir en la estabilidad financiera general.",
+      "publicadoEn": "2026-06-17T16:21:00.000Z",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "finanzas",
+        "gobierno",
+        "superávit"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/aleve-tackles-home-improvement-pain-with-social-content-and-diy-stars/823074/",
+      "tituloOriginal": "Aleve tackles home improvement pain with social content and DIY stars",
+      "tituloLimpio": "Aleve aborda el dolor de las mejoras del hogar con contenido social y estrellas de DIY",
+      "resumen": "Los presentadores de “Fixer to Fabulous”, Jenny y Dave Marrs, protagonizan una campaña en redes sociales de la marca de analgésicos Bayer.",
+      "porQueImporta": "Para tu interés en marketing, esta es una buena muestra de cómo las marcas utilizan influencers y contenido temático para conectar con su audiencia. Es un ejemplo de estrategia de marketing digital efectiva.",
+      "publicadoEn": "2026-06-17T15:28:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "redes sociales",
+        "influencers",
+        "campaña"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
+      "tituloOriginal": "Google bets on Gemini to reinvent the smart home speaker",
+      "tituloLimpio": "Google apuesta por Gemini para reinventar el altavoz inteligente del hogar",
+      "resumen": "Google apuesta a que la IA generativa puede revitalizar el altavoz inteligente. El nuevo Google Home Speaker de $99.99 reemplaza los comandos rígidos de la era del Asistente de Google con interacciones más conversacionales de Gemini.",
+      "porQueImporta": "Esto es relevante para tu interés en IA aplicada y automatización. La evolución de los altavoces inteligentes con IA generativa puede cambiar la forma en que interactuamos con la tecnología en el hogar y ofrecer nuevas posibilidades de automatización.",
+      "publicadoEn": "2026-06-17T16:30:09.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Google",
+        "Gemini",
+        "IA",
+        "hogar inteligente"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+      "tituloOriginal": "Want to get a data center online quickly? Give it some flex.",
+      "tituloLimpio": "¿Querés poner un centro de datos en línea rápidamente? Dale algo de flexibilidad.",
+      "resumen": "Al final de un tenso primer tiempo sin goles de un partido de fútbol entre el equipo masculino inglés y su rival Alemania, millones de británicos suspiraron colectivamente e hicieron lo que suelen hacer en momentos de estrés: se hicieron té. Esa ola de pavas eléctricas encendiéndose, sin embargo, causó una diferente…",
+      "porQueImporta": "Aunque el resumen es un poco críptico, el título sugiere una noticia sobre la eficiencia y flexibilidad en la infraestructura de centros de datos, un tema relevante para la IA y la tecnología en general, que requiere mucha capacidad de procesamiento.",
+      "publicadoEn": "2026-06-16T09:00:00.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "infraestructura",
+        "centros de datos"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/17/apple-weather-gets-two-brand-new-features-in-ios-27/",
+      "tituloOriginal": "Apple Weather gets two brand new features in iOS 27",
+      "tituloLimpio": "Apple Weather recibe dos nuevas funciones en iOS 27",
+      "resumen": "iOS 27 incluye nuevas funciones para Apple Calendar, Wallet, Messages, Maps y también la aplicación Weather.",
+      "porQueImporta": "Como usuario de Apple, te interesará saber sobre las novedades en iOS 27, especialmente las mejoras en aplicaciones nativas como Weather, que pueden mejorar tu experiencia diaria con el iPhone.",
+      "publicadoEn": "2026-06-17T15:58:28.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "iOS",
+        "Weather",
+        "actualización"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81Z29v",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5google.com/2026/06/17/android-17-iphone-switching-upgrades/",
+      "tituloOriginal": "Android 17 can copy more data from iPhone including your iMessage history and homescreen",
+      "tituloLimpio": "Android 17 puede copiar más datos del iPhone, incluyendo tu historial de iMessage y pantalla de inicio",
+      "resumen": "Google está introduciendo una mejora masiva en su herramienta “Android Switch” en Android 17, con la capacidad de copiar más datos que nunca al cambiar de iPhone a Android, y podría copiar más datos de los que se obtienen al moverse entre teléfonos Android.",
+      "porQueImporta": "Aunque sos usuario de Apple, es interesante ver cómo la competencia mejora la migración de datos. Esto muestra una tendencia hacia una mayor interoperabilidad y puede ser útil si alguna vez consideras otras opciones o si trabajás con usuarios de Android.",
+      "publicadoEn": "2026-06-17T13:40:39.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Android",
+        "iPhone",
+        "migración de datos",
+        "tecnología"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/06/17/sign-in-with-apple-domain-consolidation-could-trip-up-unprepared-services?utm_source=rss",
+      "tituloOriginal": "Sign in with Apple domain consolidation could trip up unprepared services",
+      "tituloLimpio": "La consolidación de dominios de 'Sign in with Apple' podría complicar a servicios no preparados",
+      "resumen": "Apple está cambiando los dominios de correo electrónico detrás de 'Sign in with Apple' y 'Hide My Email', obligando a desarrolladores y proveedores de correo a actualizar sus sistemas antes de que comience la transición.",
+      "porQueImporta": "Si usás 'Sign in with Apple' o 'Hide My Email', esta noticia es importante. Podría afectar a los servicios que utilizás si no se actualizan a tiempo, generando posibles interrupciones.",
+      "publicadoEn": "2026-06-17T16:00:07.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "seguridad",
+        "desarrolladores",
+        "servicios"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/notes/ipados-27-finally-lets-you-automate-window-placement-with-shortcuts/",
+      "tituloOriginal": "iPadOS Lets You Automate Window Placement with Shortcuts",
+      "tituloLimpio": "iPadOS permite automatizar la ubicación de ventanas con Atajos",
+      "resumen": "En la aplicación Atajos de iPadOS, la acción existente 'Abrir App' se actualizó recientemente con la capacidad de lanzar una aplicación.",
+      "porQueImporta": "Para tu interés en automatización y herramientas, esta es una excelente noticia. La capacidad de automatizar la ubicación de ventanas en iPadOS con Atajos puede mejorar significativamente tu flujo de trabajo y productividad en el iPad.",
+      "publicadoEn": "2026-06-17T14:20:12.000Z",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "iPadOS",
+        "automatización",
+        "productividad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/news/ge-vernova-arcosa-data-center-construction-ai-artificial-intelligence/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "GE Vernova Supplier Near Breakout As Data Centers Lift Construction Sector",
+      "tituloLimpio": "Proveedor de GE Vernova cerca de un despegue mientras los centros de datos impulsan el sector de la construcción",
+      "resumen": "",
+      "porQueImporta": "Esta noticia es relevante para tus intereses en inversión y tecnología. El auge de los centros de datos, impulsado por la IA, está generando un impacto significativo en el sector de la construcción, lo que podría indicar oportunidades de inversión en empresas relacionadas.",
+      "publicadoEn": "2026-06-17T16:08:01.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/371e02d229016289ce50c92fd1a34048",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "inversión",
+        "IA",
+        "centros de datos"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/trace-finance-cross-border-stablecoin-settlement-expansion?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "tituloOriginal": "Trace Finance raises $32M for cross-border stablecoin settlement expansion",
+      "tituloLimpio": "Trace Finance recauda $32 millones para la expansión de liquidación transfronteriza de stablecoins",
+      "resumen": "La recaudación se produce a medida que la regulación de las stablecoins avanza globalmente y las firmas financieras invierten en infraestructura que conecta los pagos blockchain con los sistemas bancarios tradicionales.",
+      "porQueImporta": "Si bien no tenés acceso a todos los servicios financieros globales, esta noticia es importante para entender la evolución del mercado de criptomonedas y su integración con las finanzas tradicionales, un área de interés para tus inversiones.",
+      "publicadoEn": "2026-06-17T15:00:00.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-latin-america-is-ready-for-stablecoin-just-integrate-it-with-their-payment-systems.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "criptomonedas",
+        "inversión",
+        "blockchain"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/gobierno-volvio-tener-superavit-mayo-alcanzo-mitad-meta-fiscal-fmi_0_My8adB3QRM.html",
+      "tituloOriginal": "El Gobierno volvió a tener superávit en mayo y ya alcanzó la mitad de la meta fiscal con el FMI",
+      "tituloLimpio": "El Gobierno volvió a tener superávit en mayo y ya alcanzó la mitad de la meta fiscal con el FMI",
+      "resumen": "Luis Caputo informó que en mayo hubo un excedente primario de casi $2 billones y financiero de $478.000 millones. Es un 0,7% del PBI acumulado en lo que va del año. Necesita llegar a 1,4% del Producto en 2026.",
+      "porQueImporta": "Esta noticia refuerza la información sobre el superávit fiscal en Argentina, brindando más detalles sobre los montos y el cumplimiento de las metas con el FMI. Es crucial para tu comprensión de la economía local.",
+      "publicadoEn": "2026-06-17T16:03:55.000Z",
+      "imagen": "https://www.clarin.com/img/2026/04/28/ApjOyaI_1_1200x630__1.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "finanzas",
+        "gobierno",
+        "FMI"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/deberia-pasar-dia-cargo-pro-presiona-adorni-renuncie-confirma-votara-remocion-congreso_0_aF4pkZAvRB.html",
+      "tituloOriginal": "\"No debería pasar un día más en el cargo\": el PRO presiona para que Adorni renuncie y confirma que votará su remoción en el Congreso",
+      "tituloLimpio": "El PRO presiona para que Adorni renuncie y confirma que votará su remoción en el Congreso",
+      "resumen": "Hablaron De Andreis y Goerling Lara, hombres fuertes en Diputados y el Senado, en la previa de la reunión de labor parlamentaria en la Cámara alta, que tiene que definir si hay sesión este jueves.",
+      "porQueImporta": "La situación política en Argentina es un factor importante para el clima de negocios y la estabilidad general. La presión sobre un funcionario clave como Adorni puede generar incertidumbre.",
+      "publicadoEn": "2026-06-17T14:16:20.000Z",
+      "imagen": "https://www.clarin.com/img/2026/06/17/LTMlMYLwJ_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "política",
+        "gobierno"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/06/17/el-gobierno-volvio-a-tener-superavit-financiero-en-mayo-y-acumula-un-02-del-pbi/",
+      "tituloOriginal": "El Gobierno volvió a tener superávit financiero en mayo y acumula un 0,2% del PBI",
+      "tituloLimpio": "El Gobierno volvió a tener superávit financiero en mayo y acumula un 0,2% del PBI",
+      "resumen": "En el quinto mes del año, el Sector Público Nacional (SPN) registró un superávit primario de $1.924.367 millones y un superávit financiero de $478.613 millones. Cuáles son las metas con el FMI y la medidas que se tomaron para garantizarlo",
+      "porQueImporta": "Esta es otra confirmación del superávit fiscal, con detalles adicionales sobre los montos y el porcentaje del PBI. Es fundamental para tener una visión completa de la situación económica argentina.",
+      "publicadoEn": "2026-06-17T16:28:38.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/M35OYRP5CJG6PDQWMMZGFZT274.JPG?auth=7d0f46fd1452ca19e011837aa85f92600f2a733cf60d94ab6afc4c6eead44bfd&smart=true&width=3648&height=2432",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "finanzas",
+        "gobierno",
+        "PBI"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Politica",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-convoco-a-todo-el-gabinete-a-compartir-una-foto-en-el-dia-de-la-bandera-en-rosario-nid17062026/",
+      "tituloOriginal": "Javier Milei convocó a todo el gabinete a compartir una foto en el Día de la Bandera, en Rosario",
+      "tituloLimpio": "Javier Milei convocó a todo el gabinete a compartir una foto en el Día de la Bandera, en Rosario",
+      "resumen": "Manuel Adorni fue invitado, aunque su suerte quedó atada a lo que defina el Congreso; en la Casa Rosada buscan dar otra señal de unidad en medio de la crisis.",
+      "porQueImporta": "Esta noticia, aunque política, es relevante para entender la dinámica del gobierno argentino y los intentos de mostrar unidad en momentos de tensión. Puede influir en la percepción de estabilidad.",
+      "publicadoEn": "2026-06-17T16:29:26.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/JY6D3JWWCBHU7ITMPK5Z3FJB3Y.jpg?auth=b93ada52dba03197b98001f94c000e3d3f5081bfd31b528387642806156f4be4&smart=true&width=2000&height=1333",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "política",
+        "gobierno"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "fuente": "Adweek",
+      "url": "https://www.adweek.com/convergent-tv/fox-announces-end-to-end-agentic-ad-platform/",
+      "tituloOriginal": "Fox Announces TV Industry’s ‘First End-to-End Agentic Ad Platform’",
+      "tituloLimpio": "Fox anuncia la 'primera plataforma de publicidad agentiva de extremo a extremo' de la industria televisiva",
+      "resumen": "Fox implementa nuevas capacidades agentivas en lineal y digital.",
+      "porQueImporta": "Para tu interés en marketing, esta es una noticia importante sobre la innovación en publicidad. Las plataformas 'agentivas' con IA podrían cambiar la forma en que se planifican y ejecutan las campañas publicitarias, ofreciendo mayor automatización y eficiencia.",
+      "publicadoEn": "2026-06-17T10:00:00.000Z",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "publicidad",
+        "IA",
+        "automatización"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-06-17T16:49:59.600Z"
+  }
+}
