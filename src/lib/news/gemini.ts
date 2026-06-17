@@ -82,6 +82,9 @@ ${JSON.stringify(noticias)}
     generationConfig: {
       temperature: 0.25,
       responseMimeType: 'application/json',
+      // gemini-2.5-flash trae "thinking" activado y eso lo hace lento (timeouts).
+      // Para curar/traducir noticias no hace falta; lo apagamos para que responda rápido.
+      thinkingConfig: { thinkingBudget: 0 },
     },
   })
 
@@ -96,7 +99,7 @@ ${JSON.stringify(noticias)}
       method: 'POST',
       headers: { 'Content-Type': 'application/json', 'x-goog-api-key': apiKey },
       body: cuerpo,
-      signal: AbortSignal.timeout(30_000),
+      signal: AbortSignal.timeout(60_000),
     }).catch((error) => {
       ultimoError = error instanceof Error ? error.message : 'fetch error'
       return undefined as unknown as Response
