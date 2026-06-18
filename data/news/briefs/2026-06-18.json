@@ -1,0 +1,486 @@
+{
+  "fecha": "2026-06-18",
+  "generadoEn": "2026-06-18T15:32:49.731Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Hoy destacamos avances en IA médica de Google, nuevas funciones en la app Buscar de iOS 27 y el impacto del aguinaldo en el Impuesto a las Ganancias en Argentina. También es relevante la posible reclasificación de Argentina como 'mercado emergente' y el aumento de la confianza del consumidor.",
+  "radarPersonal": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Investigación de Google muestra cómo su IA médica AMIE podría ayudar a manejar condiciones de salud",
+      "resumen": "Una investigación publicada en “Nature” indica que el sistema de IA conversacional de Google iguala a médicos de atención primaria en el manejo de enfermedades complejas.",
+      "categoria": "AI",
+      "fuentes": [
+        "Google AI Blog"
+      ],
+      "urls": [
+        "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/"
+      ],
+      "score": 100,
+      "tags": [
+        "IA",
+        "salud",
+        "investigación"
+      ]
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "iOS 27 agrega nuevas funciones a la app Buscar, incluyendo 'Ocultar Ubicación'",
+      "resumen": "La próxima actualización de iOS 27 que Apple presentó incluye nuevas funciones y mejoras para la app Buscar en el iPhone.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/06/18/ios-27-find-my-features-hide-location/"
+      ],
+      "score": 100,
+      "tags": [
+        "Apple",
+        "iOS",
+        "Buscar"
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Aguinaldo e Impuesto a las Ganancias: la forma de liquidación que menos afecta a los empleados",
+      "resumen": "La manera en que cada empresa liquida el Impuesto a las Ganancias del Sueldo Anual Complementario impacta en el bolsillo de los trabajadores.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/aguinaldo-e-impuesto-las-ganancias-cual-es-la-forma-liquidacion-que-menos-afecta-los-empleados-n6290031"
+      ],
+      "score": 100,
+      "tags": [
+        "Argentina",
+        "finanzas personales",
+        "impuestos"
+      ]
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "titulo": "Acciones que subirían si Argentina consigue un guiño para ser 'mercado emergente'",
+      "resumen": "Las empresas argentinas podrían recibir un flujo de inversión de más de US$ 4.500 millones. Este jueves se conocerá la decisión de MSCI sobre una posible reclasificación a una categoría superior.",
+      "categoria": "Finance",
+      "fuentes": [
+        "Clarin Economia"
+      ],
+      "urls": [
+        "https://www.clarin.com/economia/acciones-subirian-argentina-consigue-hoy-guino-mercado-emergente_0_l5MYoNo143.html"
+      ],
+      "score": 100,
+      "tags": [
+        "Argentina",
+        "inversión",
+        "mercado emergente"
+      ]
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "titulo": "La confianza del consumidor aumentó 6,4% en junio en Argentina",
+      "resumen": "El indicador nacional registró subas en todas las regiones y en ambos niveles de ingreso, con un salto destacado en el Gran Buenos Aires y en los bienes durables e inmuebles.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Infobae Economia"
+      ],
+      "urls": [
+        "https://www.infobae.com/economia/2026/06/18/la-confianza-del-consumidor-aumento-64-en-junio-como-vario-en-buenos-aires-y-el-resto-del-pais/"
+      ],
+      "score": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "consumo"
+      ]
+    }
+  ],
+  "loImportante": [
+    "Google avanza en IA médica con AMIE, igualando a médicos en manejo de enfermedades complejas.",
+    "iOS 27 de Apple introduce nuevas funciones para la app Buscar, incluyendo 'Ocultar Ubicación'.",
+    "La liquidación del aguinaldo y el Impuesto a las Ganancias tiene un impacto directo en los trabajadores argentinos.",
+    "Argentina podría ser reclasificada como 'mercado emergente', atrayendo inversiones significativas.",
+    "La confianza del consumidor en Argentina mostró un aumento del 6,4% en junio."
+  ],
+  "oportunidades": [
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Investing",
+      "titulo": "Posible reclasificación de Argentina a 'mercado emergente'",
+      "detalle": "Si MSCI reclasifica a Argentina, podría haber un flujo de más de US$ 4.500 millones en inversión para empresas argentinas.",
+      "acciones": [
+        "Monitorear la decisión de MSCI sobre la reclasificación de Argentina.",
+        "Evaluar posibles inversiones en ETFs o acciones de empresas argentinas si la reclasificación se concreta."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "categoria": "Market",
+      "titulo": "Accenture cae tras resultados y proyecciones de ingresos",
+      "detalle": "Accenture está a punto de registrar su mayor caída en un día después de que sus nuevas reservas del tercer trimestre y la guía de ingresos del cuarto trimestre decepcionaran.",
+      "mitigacion": "Analizar el impacto en el sector tecnológico y de consultoría. Diversificar inversiones para mitigar el riesgo de caídas en empresas específicas."
+    }
+  ],
+  "conexiones": [],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+      "tituloOriginal": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "tituloLimpio": "Investigación de Google muestra cómo su IA médica AMIE podría ayudar a manejar condiciones de salud",
+      "resumen": "Una investigación publicada en “Nature” indica que el sistema de IA conversacional de Google iguala a médicos de atención primaria en el manejo de enfermedades complejas.",
+      "porQueImporta": "Muestra el avance de la IA en aplicaciones médicas, lo que podría transformar la atención sanitaria y ofrecer nuevas herramientas para el diagnóstico y tratamiento.",
+      "publicadoEn": "2026-06-17T15:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "salud",
+        "investigación"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/18/ios-27-find-my-features-hide-location/",
+      "tituloOriginal": "iOS 27 Adds These New Features to Find My, Including 'Hide Location'",
+      "tituloLimpio": "iOS 27 agrega nuevas funciones a la app Buscar, incluyendo 'Ocultar Ubicación'",
+      "resumen": "La próxima actualización de iOS 27 que Apple presentó incluye nuevas funciones y mejoras para la app Buscar en el iPhone.",
+      "porQueImporta": "Nuevas funcionalidades en la app Buscar de iOS 27 mejoran la privacidad y seguridad para usuarios de Apple.",
+      "publicadoEn": "2026-06-18T15:06:48.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "iOS",
+        "Buscar"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "categoria": "Finance",
+      "fuente": "Sherwood",
+      "url": "https://sherwood.news/markets/accenture-tumbles-after-q3-new-bookings-and-q4-revenue-guidance-disappoint/",
+      "tituloOriginal": "Accenture poised for record one-day decline after Q3 new bookings and Q4 revenue guidance disappoint",
+      "tituloLimpio": "Accenture cae tras resultados y proyecciones de ingresos",
+      "resumen": "Accenture no está capitalizando demasiado la revolución de la IA.",
+      "porQueImporta": "La caída de Accenture, una empresa importante en consultoría y tecnología, puede indicar tendencias más amplias en el mercado o en la adopción de la IA por parte de grandes corporaciones.",
+      "publicadoEn": "2026-06-18T13:29:11.000Z",
+      "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/2192450381_las-vegas-usa-julie-sweet-chair-and-ceo-of-accenture-speaks-with-julia-boorstin-cnbcs-senior.jpg",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "mercado",
+        "IA"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/aguinaldo-e-impuesto-las-ganancias-cual-es-la-forma-liquidacion-que-menos-afecta-los-empleados-n6290031",
+      "tituloOriginal": "Aguinaldo e Impuesto a las Ganancias: cuál es la forma de liquidación que menos afecta a los empleados",
+      "tituloLimpio": "Aguinaldo e Impuesto a las Ganancias: la forma de liquidación que menos afecta a los empleados",
+      "resumen": "La manera en que cada empresa liquida el Impuesto a las Ganancias del Sueldo Anual Complementario impacta en el bolsillo de los trabajadores.",
+      "porQueImporta": "Información crucial para entender cómo el aguinaldo y su liquidación fiscal afectan las finanzas personales en Argentina.",
+      "publicadoEn": "2026-06-18T15:10:00.000Z",
+      "imagen": "https://media.ambito.com/p/a32471e47b1edd8af28a865ffc7d4098/adjuntos/239/imagenes/042/532/0042532517/ganancias-calculadora-impuestosjpg.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "finanzas personales",
+        "impuestos"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/uber-advertising-expands-beyond-owned-apps-in-play-for-more-ad-dollars/823164/",
+      "tituloOriginal": "Uber Advertising expands beyond owned apps in play for more ad dollars",
+      "tituloLimpio": "Uber Advertising se expande más allá de sus propias apps en busca de más ingresos publicitarios",
+      "resumen": "Miller Lite tuvo una tasa de clics un 45% más alta con Ride Offers en Journey en comparación con creatividades similares sin oferta.",
+      "porQueImporta": "Muestra una tendencia en el marketing digital donde plataformas no tradicionales buscan expandir sus ofertas publicitarias, abriendo nuevas vías para anunciantes.",
+      "publicadoEn": "2026-06-18T15:10:00.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "publicidad",
+        "Uber"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
+      "tituloOriginal": "General Intuition in talks to raise $300M at around $2B valuation",
+      "tituloLimpio": "General Intuition en conversaciones para recaudar 300 millones de dólares con una valoración de 2 mil millones",
+      "resumen": "General Intuition está en conversaciones para recaudar alrededor de 300 millones de dólares con una valoración de aproximadamente 2 mil millones de dólares de inversores, incluyendo a Jeff Bezos. La startup entrena agentes de IA en razonamiento espacio-temporal.",
+      "porQueImporta": "Indica el continuo interés y la inversión en startups de IA, especialmente aquellas enfocadas en razonamiento avanzado, lo que podría generar nuevas herramientas y tecnologías.",
+      "publicadoEn": "2026-06-18T15:20:37.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "inversión",
+        "startups"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
+      "tituloOriginal": "Who decides when AI is too dangerous?",
+      "tituloLimpio": "¿Quién decide cuándo la IA es demasiado peligrosa?",
+      "resumen": "El episodio de hoy de Decoder presenta a Hayden Field, reportera senior de IA para The Verge. A menudo, cuando Hayden aparece en el programa, es porque algo salió mal en el mundo de la IA. El fin de semana pasado, eso fue una mezcla intensa de Anthropic, la administración Trump y el nuevo modelo de IA de Anthropic, Fable 5.",
+      "porQueImporta": "Plantea una pregunta fundamental sobre la gobernanza y la ética de la IA, un tema clave a medida que la tecnología se vuelve más potente y omnipresente.",
+      "publicadoEn": "2026-06-18T14:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "ética",
+        "regulación"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+      "tituloOriginal": "Want to get a data center online quickly? Give it some flex.",
+      "tituloLimpio": "Para poner un centro de datos en línea rápidamente, dale flexibilidad",
+      "resumen": "Al final de una tensa y sin goles primera mitad de un partido de fútbol entre el equipo masculino inglés y su rival Alemania, millones de británicos soltaron un suspiro colectivo e hicieron lo que tan a menudo hacen en momentos de estrés: prepararon té. Esa ola de hervidores eléctricos encendiéndose, sin embargo, causó una diferente…",
+      "porQueImporta": "Aunque el resumen es anecdótico, el título sugiere la importancia de la flexibilidad en la infraestructura para centros de datos, un componente crítico para el desarrollo y escalabilidad de la IA y otras tecnologías.",
+      "publicadoEn": "2026-06-16T09:00:00.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "tecnología",
+        "infraestructura",
+        "IA"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/18/iphone-18-pro-is-getting-larger-camera-bump-per-leaks-heres-why/",
+      "tituloOriginal": "iPhone 18 Pro is getting larger camera bump per leaks, here’s why",
+      "tituloLimpio": "El iPhone 18 Pro tendrá una protuberancia de cámara más grande, según filtraciones",
+      "resumen": "Se espera que el iPhone 18 Pro y Pro Max tengan en gran medida las mismas dimensiones que sus predecesores, excepto en un área clave: la protuberancia de la cámara. Aquí se explica por qué se espera que la protuberancia de la cámara del iPhone 18 Pro sea aún más grande este año.",
+      "porQueImporta": "Detalles sobre el diseño del próximo iPhone 18 Pro, relevantes para usuarios de Apple y para entender las tendencias en hardware de smartphones.",
+      "publicadoEn": "2026-06-18T15:09:13.000Z",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "iPhone",
+        "hardware"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81Z29v",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5google.com/2026/06/17/android-17-iphone-switching-upgrades/",
+      "tituloOriginal": "Android 17 can copy more data from iPhone including your iMessage history and homescreen",
+      "tituloLimpio": "Android 17 puede copiar más datos del iPhone, incluyendo el historial de iMessage y la pantalla de inicio",
+      "resumen": "Google está introduciendo una mejora masiva en su herramienta “Android Switch” en Android 17, con la capacidad de copiar más datos que nunca al cambiar de iPhone a Android, y podría copiar más datos de los que se obtienen al moverse entre teléfonos Android.",
+      "porQueImporta": "Facilita la migración de usuarios de iPhone a Android, lo que podría impactar la competencia entre plataformas y la experiencia del usuario.",
+      "publicadoEn": "2026-06-17T13:40:39.000Z",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "Android",
+        "iPhone",
+        "migración",
+        "herramientas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/06/18/woody-harrelson-and-matthew-mcconaughey-team-up-in-apple-tvs-new-comedy-series-brothers?utm_source=rss",
+      "tituloOriginal": "Woody Harrelson and Matthew McConaughey team up in Apple TV's new comedy series \"Brothers\"",
+      "tituloLimpio": "Woody Harrelson y Matthew McConaughey se unen en la nueva serie de comedia de Apple TV 'Brothers'",
+      "resumen": "Un secreto familiar de décadas amenaza con desentrañar una amistad de toda la vida en 'Brothers', que se estrenará en Apple TV en septiembre.",
+      "porQueImporta": "Noticia de entretenimiento relevante para suscriptores de Apple TV+, mostrando la inversión de Apple en contenido original.",
+      "publicadoEn": "2026-06-18T15:18:28.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "entretenimiento",
+        "Apple TV+"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/news/macstories-setups-update-batteries-chargers-e-ink-note-taking-and-videogames/",
+      "tituloOriginal": "MacStories Setups Update: Batteries, Chargers, E-Ink Note-Taking, and Videogames",
+      "tituloLimpio": "Actualización de configuraciones de MacStories: baterías, cargadores, toma de notas con tinta electrónica y videojuegos",
+      "resumen": "Es temporada de betas, lo cual es una buena excusa para mezclar nuestras configuraciones con nuevos gadgets y apps. Entre viajes, preparación para nuestra investigación y escritura de reseñas de sistemas operativos, y la revisión de apps del sistema de Apple, los últimos meses han resultado en cambios en nuestras configuraciones. Los viajes de verano significan baterías para cargar nuestros […]",
+      "porQueImporta": "Ofrece ideas sobre nuevas herramientas y gadgets, especialmente en el ecosistema Apple, que podrían mejorar la productividad y la experiencia del usuario.",
+      "publicadoEn": "2026-06-18T13:59:59.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "herramientas",
+        "productividad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/grocery-chain-pays-massive-fine-231700048.html",
+      "tituloOriginal": "Grocery chain pays massive fine, accused of inflated price reporting",
+      "tituloLimpio": "Cadena de supermercados paga multa masiva, acusada de informar precios inflados",
+      "resumen": "",
+      "porQueImporta": "Aunque el resumen es escueto, la noticia sobre multas por precios inflados es relevante para la protección del consumidor y la transparencia del mercado.",
+      "publicadoEn": "2026-06-17T23:17:00.000Z",
+      "imagen": "https://media.zenfs.com/en/thestreet_881/3d66894198cf77c62cf2d220382045dc",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "consumo",
+        "regulación"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/stock-lists/ibd-50/data-center-copper-stocks-ai-mining-metals-commodities-markets/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Copper Stocks Are Making A Comeback. Here's Why.",
+      "tituloLimpio": "Las acciones de cobre están regresando. Aquí el porqué.",
+      "resumen": "",
+      "porQueImporta": "El resurgimiento de las acciones de cobre puede ser un indicador de tendencias en el mercado de materias primas, relevante para inversores en ETFs o commodities.",
+      "publicadoEn": "2026-06-18T14:55:45.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/7945ca2b182db5668eb64a2e74f1a7f2",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "inversión",
+        "materias primas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/06/17/crypto-for-advisors-trading-the-bitcoin-cycle",
+      "tituloOriginal": "Crypto for Advisors: Trading the bitcoin cycle",
+      "tituloLimpio": "Cripto para asesores: operando el ciclo de Bitcoin",
+      "resumen": "El ciclo de 4 años de Bitcoin hace que el DCA sea costoso. Aprenda por qué una estrategia inteligente de ciclo es esencial para que los asesores gestionen mejor la volatilidad y maximicen los retornos de los clientes.",
+      "porQueImporta": "Ofrece una perspectiva sobre estrategias de inversión en Bitcoin, relevante para quienes siguen el mercado de criptomonedas y buscan optimizar sus retornos.",
+      "publicadoEn": "2026-06-18T15:00:00.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/a20e2625ba9218f5748c04814b5ad48f67b00df3-5397x3598.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "criptomonedas",
+        "Bitcoin",
+        "inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/acciones-subirian-argentina-consigue-hoy-guino-mercado-emergente_0_l5MYoNo143.html",
+      "tituloOriginal": "Cuáles son las acciones que subirían más si Argentina consigue hoy un guiño para ser \"mercado emergente\"",
+      "tituloLimpio": "Acciones que subirían más si Argentina consigue un guiño para ser 'mercado emergente'",
+      "resumen": "Las empresas argentinas podrían recibir un flujo de más de US$ 4.500 millones de inversión. Este jueves se conocerá la decisión de MSCI que implicaría un paso más hacia una reclasificación a una categoría superior.",
+      "porQueImporta": "Una posible reclasificación de Argentina a 'mercado emergente' podría generar oportunidades de inversión significativas en el mercado local.",
+      "publicadoEn": "2026-06-18T14:18:05.000Z",
+      "imagen": "https://www.clarin.com/img/2022/03/03/W2kJVmcri_1200x630__1.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "finanzas",
+        "inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/06/18/la-confianza-del-consumidor-aumento-64-en-junio-como-vario-en-buenos-aires-y-el-resto-del-pais/",
+      "tituloOriginal": "La confianza del consumidor aumentó 6,4% en junio: cómo varió en Buenos Aires y en el resto del país",
+      "tituloLimpio": "La confianza del consumidor aumentó 6,4% en junio en Argentina",
+      "resumen": "El indicador nacional registró subas en todas las regiones y en ambos niveles de ingreso, con un salto destacado en el Gran Buenos Aires y en los bienes durables e inmuebles.",
+      "porQueImporta": "Un aumento en la confianza del consumidor es un indicador positivo para la economía argentina, sugiriendo un posible repunte en el consumo y la inversión.",
+      "publicadoEn": "2026-06-18T15:14:33.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/EL7OVC3ULBGVFDRPRAAGD2PUOY?auth=594c7345d87d6ce060abf67d1f690d43668d2f8ce8e169fcef08bce872b27e8c&smart=true&width=3226&height=1814",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "consumo"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/plazo-fijo-cual-es-la-tasa-de-interes-banco-por-banco-este-jueves-18-de-junio-nid18062026/",
+      "tituloOriginal": "Plazo fijo: cuál es la tasa de interés banco por banco este jueves 18 de junio",
+      "tituloLimpio": "Plazo fijo: cuál es la tasa de interés banco por banco este jueves 18 de junio",
+      "resumen": "El Banco Central de la República Argentina (BCRA) permite a los ahorristas conocer el rendimiento de estos instrumentos de inversión en pesos con una tabla comparativa de tasas.",
+      "porQueImporta": "Información práctica y directa para ahorristas e inversores en Argentina sobre las tasas de interés de plazos fijos, una herramienta de inversión común.",
+      "publicadoEn": "2026-06-18T15:25:57.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/6F62HGBPJFBZNBGXJCBOPYI26M.jpg?auth=ff9c25c2cbe47acf333a2ec801d16ae18dbb86b8b9b995dee2e3d2da73ee5902&smart=true&width=800&height=600",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "finanzas personales",
+        "inversión"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-06-18T15:32:49.731Z"
+  }
+}
