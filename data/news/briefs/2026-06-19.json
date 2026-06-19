@@ -1,13 +1,13 @@
 {
   "fecha": "2026-06-19",
-  "generadoEn": "2026-06-19T15:26:41.683Z",
+  "generadoEn": "2026-06-19T18:54:39.048Z",
   "actualizacion": "14:00",
-  "resumenEjecutivo": "Hoy, la inteligencia artificial sigue avanzando, con Google presentando una IA médica y una startup afirmando haber resuelto un cuello de botella en LLMs. En Apple, Siri recibe una gran actualización y se lanza una nueva beta de editor de texto para Mac. En Argentina, las importaciones vía courier se duplicaron, La Serenísima renegoció su deuda y la Legislatura porteña aprobó un plan para refinanciar deudas en mora. Los mercados financieros reaccionaron a un acuerdo de paz entre EE.UU. e Irán, y Uber y Pinterest están expandiendo sus estrategias de marketing con IA.",
+  "resumenEjecutivo": "Hoy, la inteligencia artificial médica de Google, AMIE, demostró igualar a médicos de atención primaria en el manejo de enfermedades complejas. En el ámbito Apple, se rumorea el lanzamiento del chip M6 y se presentaron nuevas pantallas táctiles para Mac. En Argentina, el Banco Provincia lanzó una iniciativa para acercar las inversiones a los hinchas, y un grupo sueco compró una empresa de transporte de caudales. El dólar oficial y el blue se mantienen en $1480. En el mercado de marketing, Uber Advertising se expande más allá de sus apps, y Pinterest profundiza en IA.",
   "radarPersonal": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "titulo": "Google presenta AMIE, una IA médica conversacional que iguala a médicos de atención primaria",
-      "resumen": "Una investigación en “Nature” muestra que el sistema de IA conversacional de Google iguala a los médicos de atención primaria en el manejo de enfermedades complejas.",
+      "titulo": "Investigación muestra cómo la IA médica AMIE de Google podría ayudar a manejar condiciones de salud",
+      "resumen": "Investigación en “Nature” muestra que el sistema de IA conversacional de Google iguala a médicos de atención primaria en el manejo de enfermedades complejas.",
       "categoria": "AI",
       "fuentes": [
         "Google AI Blog"
@@ -18,148 +18,184 @@
       "score": 100,
       "tags": [
         "IA",
-        "medicina",
+        "salud",
         "investigación"
       ]
     },
     {
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "Las importaciones vía courier se duplicaron en Argentina en lo que va de 2026",
-      "resumen": "Las compras al exterior por courier ya superan los u$s500 millones en lo que va del año, con un alza del 113,2% interanual. Los argentinos se inclinan principalmente por productos tecnológicos, indumentaria y calzado de marcas internacionales.",
+      "titulo": "La \"inversioneta\": el método del Banco Provincia para acercar las inversiones al hincha argentino",
+      "resumen": "Banco Provincia lanzó una iniciativa que usa la analogía del fútbol para explicar inversiones de manera accesible. A través de tres perfiles, busca desmitificar las finanzas y la toma de decisiones inteligentes a quienes dan sus primeros pasos como inversores.",
       "categoria": "Argentina",
       "fuentes": [
         "Ambito"
       ],
       "urls": [
-        "https://www.ambito.com/economia/boom-compras-al-exterior-las-importaciones-via-courier-se-duplicaron-lo-que-va-2026-n6290560"
+        "https://www.ambito.com/economia/la-inversioneta-el-original-metodo-del-banco-provincia-acercar-las-inversiones-al-hincha-argentino-el-mundial-n6290727"
       ],
       "score": 100,
       "tags": [
         "Argentina",
-        "importaciones",
-        "tecnología",
-        "consumo"
+        "inversiones",
+        "finanzas"
       ]
     },
     {
       "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
-      "titulo": "Apple confirma que Siri será la misma en todos los dispositivos con iOS 27",
-      "resumen": "Siri AI es una gran renovación para el asistente de Apple, y en la beta de iOS 27, es muy buena. Una mejora es que Siri es la misma en todos los dispositivos, lo cual Apple explica fue un objetivo intencional.",
+      "titulo": "El chip M6 de Apple se lanzaría este otoño con nuevos productos",
+      "resumen": "Se rumorea que el chip M6 de próxima generación de Apple se lanzará este otoño, y se esperan nuevos productos que lo incluyan primero.",
       "categoria": "Apple",
       "fuentes": [
         "9to5Mac"
       ],
       "urls": [
-        "https://9to5mac.com/2026/06/19/apple-just-said-the-thing-about-siri-that-weve-long-wanted-to-hear/"
+        "https://9to5mac.com/2026/06/19/apples-m6-chip-launches-this-fall-with-these-new-products-rumored/"
       ],
       "score": 100,
       "tags": [
         "Apple",
-        "Siri",
-        "iOS",
-        "IA"
+        "chip",
+        "hardware"
       ]
     },
     {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "titulo": "Una startup afirma haber resuelto un cuello de botella que frena a los LLMs",
-      "resumen": "La startup de IA Subquadratic, con sede en Miami, anunció que había resuelto un cuello de botella matemático que había estado frenando a los grandes modelos de lenguaje durante casi una década.",
-      "categoria": "AI",
-      "fuentes": [
-        "MIT Technology Review AI"
-      ],
-      "urls": [
-        "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/"
-      ],
-      "score": 100,
-      "tags": [
-        "IA",
-        "LLMs",
-        "startup",
-        "tecnología"
-      ]
-    },
-    {
-      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "El equipo de Bear lanza la beta pública de Lettera, un nuevo editor de Markdown para Mac",
-      "resumen": "El equipo detrás de la app de notas Bear anunció la beta pública de Lettera, un nuevo editor de texto para Mac, basado en Panda, una beta anterior que se usó para desarrollar el motor de edición de texto de Bear 2.0.",
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "titulo": "Nuevas pantallas Aspekt Touch y Folio traen computación táctil a las Mac",
+      "resumen": "Alogic trae más opciones de entrada táctil y con lápiz a las Mac con un nuevo monitor de escritorio y pantallas portátiles, expandiendo una línea que agrega una característica que Apple aún no ofrece en su propio hardware.",
       "categoria": "Apple",
       "fuentes": [
-        "MacStories"
+        "AppleInsider"
       ],
       "urls": [
-        "https://www.macstories.net/news/the-bear-team-releases-public-beta-of-lettera-a-new-mac-markdown-editor/"
+        "https://appleinsider.com/articles/26/06/19/new-aspekt-touch-folio-displays-bring-touch-first-computing-to-macs?utm_source=rss"
       ],
       "score": 100,
       "tags": [
         "Apple",
         "Mac",
-        "productividad",
-        "herramientas"
+        "pantallas",
+        "táctil"
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "titulo": "Uber Advertising se expande más allá de sus propias aplicaciones",
+      "resumen": "Miller Lite tuvo una tasa de clics un 45% más alta con Ride Offers en Journey en comparación con creatividades similares sin oferta.",
+      "categoria": "Marketing",
+      "fuentes": [
+        "Marketing Dive"
+      ],
+      "urls": [
+        "https://www.marketingdive.com/news/uber-advertising-expands-beyond-owned-apps-in-play-for-more-ad-dollars/823164/"
+      ],
+      "score": 100,
+      "tags": [
+        "marketing",
+        "publicidad",
+        "Uber"
       ]
     }
   ],
   "loImportante": [
-    "La IA médica de Google, AMIE, iguala a médicos en manejo de enfermedades complejas.",
-    "Las importaciones de productos tecnológicos vía courier en Argentina se duplicaron en 2026.",
-    "Apple unifica la experiencia de Siri en todos sus dispositivos con iOS 27.",
-    "Una startup de IA afirma haber resuelto un problema matemático clave para los LLMs.",
-    "La Legislatura porteña aprobó un plan para refinanciar deudas en mora."
+    "La IA médica AMIE de Google muestra un rendimiento comparable a médicos de atención primaria en el manejo de enfermedades complejas.",
+    "El Banco Provincia lanzó una iniciativa para simplificar las inversiones para el público argentino, usando analogías futbolísticas.",
+    "Apple planea lanzar su chip M6 este otoño, lo que podría implicar nuevos productos con mejoras de rendimiento.",
+    "Se están desarrollando pantallas táctiles y con soporte para lápiz para Mac, ofreciendo una funcionalidad que Apple no incluye de forma nativa.",
+    "Uber Advertising está expandiendo su alcance publicitario más allá de sus propias aplicaciones, buscando mayores ingresos por publicidad."
   ],
   "oportunidades": [
     {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
       "categoria": "AI",
-      "titulo": "Avance en LLMs podría mejorar herramientas de IA",
-      "detalle": "Una startup afirma haber resuelto un cuello de botella que frena a los grandes modelos de lenguaje, lo que podría llevar a mejoras significativas en las herramientas de IA disponibles.",
+      "titulo": "Avances en IA médica para gestión de salud",
+      "detalle": "La IA conversacional de Google, AMIE, iguala a médicos en el manejo de enfermedades complejas, lo que abre puertas a herramientas de asistencia médica.",
       "acciones": [
-        "Investigar la tecnología de Subquadratic para entender su impacto potencial en el desarrollo de herramientas de IA.",
-        "Evaluar cómo este avance podría influir en la eficiencia y capacidad de las IAs generativas para arte y retoque fotográfico."
+        "Explorar posibles aplicaciones de IA conversacional en el sector salud o en herramientas de asistencia personal.",
+        "Monitorear el desarrollo de AMIE y otras IA médicas para entender su impacto en la industria."
       ]
     },
     {
-      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
-      "categoria": "Productivity",
-      "titulo": "Nuevo editor de Markdown para Mac en beta pública",
-      "detalle": "El equipo de Bear lanzó la beta pública de Lettera, un nuevo editor de texto Markdown para Mac, que podría ser una herramienta útil para la productividad.",
-      "acciones": [
-        "Probar la beta de Lettera para evaluar su utilidad en flujos de trabajo de escritura y organización.",
-        "Comparar Lettera con otras herramientas de Markdown existentes para Mac."
-      ]
-    },
-    {
-      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Investing",
-      "titulo": "Plan de refinanciación de deudas en CABA",
-      "detalle": "La Legislatura porteña aprobó un plan para refinanciar deudas en mora, ofreciendo condiciones más favorables para cancelar créditos atrasados.",
+      "titulo": "Iniciativa del Banco Provincia para democratizar inversiones",
+      "detalle": "El Banco Provincia usa una analogía futbolística para explicar inversiones a principiantes, lo que podría aumentar el interés en el mercado local.",
       "acciones": [
-        "Analizar los detalles del 'Programa de Desendeudamiento Familiar y Personal' para entender su alcance y requisitos.",
-        "Considerar si este plan podría impactar en el consumo o la estabilidad económica local."
+        "Analizar la efectividad de esta estrategia de marketing para atraer nuevos inversores.",
+        "Considerar cómo estas iniciativas pueden influir en la adopción de ETFs o fondos de inversión en Argentina."
+      ]
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Productivity",
+      "titulo": "Nuevas pantallas táctiles para Mac",
+      "detalle": "Alogic está lanzando pantallas táctiles y con soporte para lápiz para Mac, ofreciendo una nueva forma de interactuar con el ecosistema Apple.",
+      "acciones": [
+        "Evaluar estas nuevas pantallas como una posible mejora para el flujo de trabajo en retoque fotográfico o arte con IA en Mac.",
+        "Investigar la compatibilidad y el rendimiento de estas soluciones de terceros con el software de Apple."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
-      "categoria": "Market",
-      "titulo": "Infraestructura de Añelo no acompaña el crecimiento de Vaca Muerta",
-      "detalle": "El boom de Vaca Muerta provocó un crecimiento del 142% en Añelo, pero la infraestructura urbana no es suficiente, generando déficit de viviendas y servicios.",
-      "mitigacion": "Monitorear el impacto de la falta de infraestructura en el desarrollo económico regional y posibles efectos en la inversión."
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "Regulatory",
+      "titulo": "Prohibición de modelos de IA por seguridad nacional en EE.UU.",
+      "detalle": "El gobierno de EE.UU. forzó a Anthropic a retirar sus modelos Fable 5 y Mythos 5 por preocupaciones de seguridad nacional, lo que genera debate sobre la regulación de la IA.",
+      "mitigacion": "Mantenerse informado sobre las regulaciones de IA y sus implicaciones globales, ya que podrían afectar la disponibilidad o el uso de ciertas herramientas de IA."
     }
   ],
   "conexiones": [
     {
-      "id": "apple-ai-siri-unificada",
-      "titulo": "La unificación de Siri y los avances en IA",
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "titulo": "Mercados de predicción y su regulación",
       "historias": [
-        "9to5Mac: Apple confirma que Siri será la misma en todos los dispositivos con iOS 27",
-        "Google AI Blog: Google presenta AMIE, una IA médica conversacional que iguala a médicos de atención primaria",
-        "MIT Technology Review AI: Una startup afirma haber resuelto un cuello de botella que frena a los LLMs"
+        "Schwab se une a la carrera de mercados de predicción con opciones basadas en eventos del S&P 500.",
+        "Un legislador republicano propone prohibir el uso de información privilegiada en mercados de predicción, excluyendo a funcionarios de la Casa Blanca."
       ],
-      "conclusion": "La noticia de que Siri será una experiencia unificada en todos los dispositivos Apple con iOS 27, sumada a los avances en IA médica de Google y la posible resolución de un cuello de botella en LLMs por una startup, sugiere una tendencia clara hacia IAs más potentes y coherentes. Esto podría impactar en cómo interactuamos con la tecnología y en las capacidades de las herramientas de IA para profesionales."
+      "conclusion": "El interés en los mercados de predicción está creciendo, con grandes jugadores como Schwab entrando al juego. Sin embargo, la falta de una regulación clara sobre el uso de información privilegiada, especialmente para funcionarios, plantea interrogantes sobre la equidad y transparencia de estos mercados."
     }
   ],
   "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+      "tituloOriginal": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "tituloLimpio": "Investigación muestra cómo la IA médica AMIE de Google podría ayudar a manejar condiciones de salud",
+      "resumen": "Investigación en “Nature” muestra que el sistema de IA conversacional de Google iguala a médicos de atención primaria en el manejo de enfermedades complejas.",
+      "porQueImporta": "Este avance en IA médica podría transformar la gestión de enfermedades, ofreciendo herramientas de apoyo para profesionales de la salud y potencialmente mejorando el acceso a la atención.",
+      "publicadoEn": "2026-06-17T15:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "salud",
+        "investigación"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/19/the-macrumors-show-hands-on-with-ios-27/",
+      "tituloOriginal": "The MacRumors Show: Hands-On With iOS 27, Brutal watchOS 27 Cuts, and More",
+      "tituloLimpio": "El show de MacRumors: Novedades de iOS 27, recortes en watchOS 27 y más",
+      "resumen": "En el episodio de esta semana de The MacRumors Show, se sigue desglosando la WWDC 2026 y se analiza iOS 27, macOS Golden Gate y otras actualizaciones de software de Apple que llegarán este otoño. iOS 27 es compatible con los mismos iPhones que iOS 26, incluyendo el iPhone 11 y el iPhone SE de segunda generación.",
+      "porQueImporta": "Guido, como usuario de Apple, se beneficia de conocer las novedades de software, especialmente la compatibilidad de iOS 27 con modelos de iPhone anteriores, lo que impacta en la vida útil de sus dispositivos.",
+      "publicadoEn": "2026-06-19T16:17:27.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "iOS",
+        "macOS",
+        "WWDC"
+      ],
+      "tambienVistoEn": []
+    },
     {
       "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
       "categoria": "Finance",
@@ -167,8 +203,8 @@
       "url": "https://sherwood.news/markets/market-wrap-2026-06-18-sp500-qqq/",
       "tituloOriginal": "Stock climb on US-Iran peace deal; semiconductors rally",
       "tituloLimpio": "Las acciones suben por acuerdo de paz entre EE.UU. e Irán; los semiconductores repuntan",
-      "resumen": "El presidente Trump y el presidente iraní Masoud Pezeshkian firmaron un memorándum de entendimiento para poner fin a la guerra.",
-      "porQueImporta": "Un acuerdo de paz entre EE.UU. e Irán podría tener un impacto positivo en los mercados globales, incluyendo los ETFs y las inversiones, al reducir la incertidumbre geopolítica. El repunte de los semiconductores es relevante para el sector tecnológico.",
+      "resumen": "Esta mañana, el Presidente Trump y el Presidente iraní Masoud Pezeshkian firmaron un memorándum de entendimiento destinado a poner fin a la guerra.",
+      "porQueImporta": "Un acuerdo de paz entre EE.UU. e Irán tiene un impacto global significativo en los mercados, incluyendo el repunte de los semiconductores, lo cual es relevante para las inversiones de Guido.",
       "publicadoEn": "2026-06-18T20:03:41.000Z",
       "imagen": "https://sherwoodnews.imgix.net/GettyImages-1251872654.jpg",
       "globalScore": 100,
@@ -176,7 +212,29 @@
       "tags": [
         "finanzas",
         "mercados",
-        "geopolítica"
+        "semiconductores",
+        "política global"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/la-inversioneta-el-original-metodo-del-banco-provincia-acercar-las-inversiones-al-hincha-argentino-el-mundial-n6290727",
+      "tituloOriginal": "La \"inversioneta\": el original metódo del Banco Provincia para acercar las inversiones al hincha argentino durante el Mundial",
+      "tituloLimpio": "La \"inversioneta\": el método del Banco Provincia para acercar las inversiones al hincha argentino durante el Mundial",
+      "resumen": "Banco Provincia lanzó una iniciativa que usa la analogía del fútbol para explicar inversiones de manera accesible. A través de tres perfiles, busca desmitificar las finanzas y la toma de decisiones inteligentes a quienes dan sus primeros pasos como inversores.",
+      "porQueImporta": "Esta iniciativa es relevante para Guido por su interés en inversiones y por ser un desarrollo local en Argentina que busca educar financieramente a la población.",
+      "publicadoEn": "2026-06-19T18:24:00.000Z",
+      "imagen": "https://media.ambito.com/p/19335d770feed13aaf36a61d9e0dedb8/adjuntos/239/imagenes/043/455/0043455461/1200x675/955x369:975x389/image-3.png",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "inversiones",
+        "finanzas",
+        "marketing"
       ],
       "tambienVistoEn": []
     },
@@ -186,16 +244,17 @@
       "fuente": "Marketing Dive",
       "url": "https://www.marketingdive.com/news/uber-advertising-expands-beyond-owned-apps-in-play-for-more-ad-dollars/823164/",
       "tituloOriginal": "Uber Advertising expands beyond owned apps in play for more ad dollars",
-      "tituloLimpio": "Uber Advertising se expande más allá de sus propias apps",
+      "tituloLimpio": "Uber Advertising se expande más allá de sus propias aplicaciones en busca de más ingresos publicitarios",
       "resumen": "Miller Lite tuvo una tasa de clics un 45% más alta con Ride Offers en Journey en comparación con creatividades similares sin oferta.",
-      "porQueImporta": "La expansión de Uber Advertising indica una tendencia en el marketing digital hacia la diversificación de plataformas y el uso de datos de comportamiento para campañas más efectivas, relevante para estrategias de marketing y publicidad.",
+      "porQueImporta": "La expansión de Uber Advertising es una tendencia importante en marketing digital, mostrando cómo las plataformas buscan diversificar sus fuentes de ingresos y ofrecer nuevas oportunidades para anunciantes.",
       "publicadoEn": "2026-06-18T15:10:00.000Z",
       "globalScore": 84,
       "personalScore": 100,
       "tags": [
         "marketing",
         "publicidad",
-        "Uber"
+        "Uber",
+        "negocios"
       ],
       "tambienVistoEn": []
     },
@@ -203,18 +262,19 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
-      "tituloOriginal": "Billionaire Ambani wants AI in every call, app, and home",
-      "tituloLimpio": "El multimillonario Ambani busca integrar la IA en cada llamada, app y hogar",
-      "resumen": "Reliance está integrando la IA en los servicios de telecomunicaciones utilizados por más de 500 millones de personas.",
-      "porQueImporta": "La visión de Ambani de una IA omnipresente resalta la dirección futura de la tecnología, donde la IA se integrará profundamente en la vida cotidiana, afectando el desarrollo de apps y herramientas.",
-      "publicadoEn": "2026-06-19T15:23:28.000Z",
+      "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+      "tituloOriginal": "Is the US government’s Anthropic ban accidentally helping the brand?",
+      "tituloLimpio": "La prohibición de Anthropic por parte del gobierno de EE.UU. ¿está ayudando accidentalmente a la marca?",
+      "resumen": "El gobierno de EE.UU. forzó a Anthropic a retirar sus dos modelos más nuevos, Fable 5 y Mythos 5, citando preocupaciones de seguridad nacional después de que investigadores de Amazon supuestamente encontraran una forma de eludir las salvaguardias de Fable 5.",
+      "porQueImporta": "Este evento destaca las tensiones entre la innovación en IA y la seguridad nacional, un tema crucial para Guido por su interés en la IA aplicada y sus implicaciones regulatorias.",
+      "publicadoEn": "2026-06-19T16:08:17.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "IA",
-        "tecnología",
-        "futuro"
+        "regulación",
+        "seguridad",
+        "Anthropic"
       ],
       "tambienVistoEn": []
     },
@@ -224,16 +284,57 @@
       "fuente": "The Verge AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
       "tituloOriginal": "The film about Sam Altman has been dropped by Amazon MGM",
-      "tituloLimpio": "Amazon MGM cancela la película sobre Sam Altman",
-      "resumen": "La película de Luca Guadagnino sobre el CEO de OpenAI, Sam Altman, 'Artificial', fue cancelada por Amazon MGM.",
-      "porQueImporta": "Aunque no es directamente sobre tecnología, la cancelación de una película sobre una figura tan prominente en el mundo de la IA como Sam Altman es una noticia de interés general que refleja el dinamismo y a veces la volatilidad del sector.",
+      "tituloLimpio": "Amazon MGM canceló la película sobre Sam Altman",
+      "resumen": "La película de Luca Guadagnino sobre el CEO de OpenAI, Sam Altman, Artificial, ha sido cancelada por Amazon MGM. La película, que protagoniza Andrew Garfield y cubre los cinco días de 2023 que abarcaron la destitución y reinstalación de Altman como CEO, había estado en desarrollo durante aproximadamente un año.",
+      "porQueImporta": "Aunque es una noticia de entretenimiento, la cancelación de una película sobre una figura tan prominente en el mundo de la IA como Sam Altman es relevante para Guido, ya que refleja el interés y la volatilidad en torno a las personalidades clave de la industria.",
       "publicadoEn": "2026-06-19T14:15:29.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "IA",
         "OpenAI",
+        "Sam Altman",
         "noticias generales"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "tituloOriginal": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+      "tituloLimpio": "Una startup afirma haber superado un cuello de botella que frena a los LLM",
+      "resumen": "La startup de IA Subquadratic, con sede en Miami, salió del modo sigiloso el mes pasado con una gran afirmación. Anunció que había resuelto un cuello de botella matemático que había estado frenando a los grandes modelos de lenguaje durante casi una década.",
+      "porQueImporta": "Si esta afirmación es cierta, podría significar un avance significativo en el desarrollo de LLM, impactando directamente en las herramientas y aplicaciones de IA que Guido utiliza o le interesan.",
+      "publicadoEn": "2026-06-19T10:40:24.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "LLM",
+        "tecnología",
+        "innovación"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/19/apples-m6-chip-launches-this-fall-with-these-new-products-rumored/",
+      "tituloOriginal": "Apple’s M6 chip launches this fall, with these new products rumored",
+      "tituloLimpio": "El chip M6 de Apple se lanza este otoño, con estos nuevos productos rumoreados",
+      "resumen": "Se rumorea que el chip M6 de próxima generación de Apple se lanzará este otoño, y se espera que estos nuevos productos lo reciban primero.",
+      "porQueImporta": "Como usuario de Apple, Guido estará interesado en las mejoras de rendimiento y las nuevas capacidades que el chip M6 podría traer a los productos de Apple, afectando su trabajo en retoque y arte con IA.",
+      "publicadoEn": "2026-06-19T18:48:49.000Z",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "chip",
+        "hardware",
+        "rumores"
       ],
       "tambienVistoEn": []
     },
@@ -243,17 +344,17 @@
       "fuente": "9to5Mac",
       "url": "https://9to5google.com/2026/06/17/android-17-iphone-switching-upgrades/",
       "tituloOriginal": "Android 17 can copy more data from iPhone including your iMessage history and homescreen",
-      "tituloLimpio": "Android 17 puede copiar más datos de iPhone, incluyendo historial de iMessage y pantalla de inicio",
-      "resumen": "Google está introduciendo una gran actualización en su herramienta 'Android Switch' en Android 17, con la capacidad de copiar más datos al cambiar de iPhone a Android.",
-      "porQueImporta": "Esta mejora en la migración de datos es relevante para usuarios de Apple que consideren cambiar a Android, o para entender la competencia entre ecosistemas. Afecta la experiencia del usuario y la interoperabilidad.",
+      "tituloLimpio": "Android 17 puede copiar más datos del iPhone, incluyendo el historial de iMessage y la pantalla de inicio",
+      "resumen": "Google está introduciendo una actualización masiva en su herramienta “Android Switch” en Android 17, con la capacidad de copiar más datos que nunca al cambiar de iPhone a Android, y podría copiar más datos de los que se obtienen al moverse entre teléfonos Android.",
+      "porQueImporta": "Esta mejora en la migración de datos es relevante para Guido si alguna vez considera cambiar de ecosistema o si trabaja con clientes que lo hacen, ya que facilita la transición de información importante.",
       "publicadoEn": "2026-06-17T13:40:39.000Z",
       "globalScore": 88,
       "personalScore": 100,
       "tags": [
         "Android",
-        "Apple",
-        "herramientas",
-        "tecnología"
+        "iPhone",
+        "migración de datos",
+        "herramientas"
       ],
       "tambienVistoEn": []
     },
@@ -261,60 +362,20 @@
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
       "categoria": "Apple",
       "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/06/19/siri-ai-snap-spectacles-and-iphone-rumors-on-the-appleinsider-podcast?utm_source=rss",
-      "tituloOriginal": "Siri AI, Snap Spectacles, and iPhone rumors on the AppleInsider Podcast",
-      "tituloLimpio": "Siri AI, Snap Spectacles y rumores de iPhone en el podcast de AppleInsider",
-      "resumen": "Siri AI está resultando ser brillante, excepto cuando no lo es, además hay Snap Spectacles y rumores sobre el iPhone Fold, en el podcast de AppleInsider.",
-      "porQueImporta": "Las novedades y rumores sobre Siri AI y el iPhone Fold son de interés para Guido por su perfil de usuario de Apple y su interés en la IA y las nuevas tecnologías. Los rumores pueden indicar futuras tendencias de productos.",
-      "publicadoEn": "2026-06-19T14:05:06.000Z",
+      "url": "https://appleinsider.com/articles/26/06/19/new-aspekt-touch-folio-displays-bring-touch-first-computing-to-macs?utm_source=rss",
+      "tituloOriginal": "New Aspekt Touch & Folio displays bring touch-first computing to Macs",
+      "tituloLimpio": "Nuevas pantallas Aspekt Touch y Folio traen computación táctil a las Mac",
+      "resumen": "Alogic está trayendo más opciones de entrada táctil y con lápiz a las Mac con un nuevo monitor de escritorio y pantallas portátiles, expandiendo una línea que agrega una característica que Apple aún no ofrece en su propio hardware.",
+      "porQueImporta": "Esta es una noticia importante para Guido, ya que las pantallas táctiles y con lápiz pueden mejorar significativamente el flujo de trabajo en retoque fotográfico y arte con IA en su Mac.",
+      "publicadoEn": "2026-06-19T17:42:55.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "Siri",
-        "iPhone",
-        "rumores"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
-      "categoria": "Finance",
-      "fuente": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dxp-enterprises-inc-dxpe-good-150111135.html",
-      "tituloOriginal": "Is DXP Enterprises, Inc. (DXPE) A Good Stock To Buy Now?",
-      "tituloLimpio": "¿Es DXP Enterprises, Inc. (DXPE) una buena acción para comprar ahora?",
-      "resumen": "",
-      "porQueImporta": "Esta es una pregunta directa sobre inversión en acciones, relevante para Guido por su interés en finanzas y mercados. Aunque el resumen está vacío, el título indica una evaluación de una acción específica.",
-      "publicadoEn": "2026-06-19T15:01:11.000Z",
-      "imagen": "https://media.zenfs.com/en/insidermonkey.com/2b22cfb501af533978d6edbdf1550404",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "finanzas",
-        "inversión",
-        "acciones"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
-      "categoria": "Finance",
-      "fuente": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-5-chips-buy-points-spacex-stock/?src=A00220&yptr=yahoo",
-      "tituloOriginal": "Dow Jones Futures Fall With U.S. Markets Shut; Nvidia Leads 5 Stocks Near Buy Points, SpaceX Needs This",
-      "tituloLimpio": "Los futuros del Dow Jones caen con los mercados de EE.UU. cerrados; Nvidia lidera 5 acciones cerca de puntos de compra",
-      "resumen": "",
-      "porQueImporta": "Las noticias sobre los futuros del Dow Jones y el rendimiento de Nvidia son importantes para Guido, ya que sigue los mercados y la inversión. Nvidia es clave en el sector de IA, lo que añade relevancia.",
-      "publicadoEn": "2026-06-19T14:48:48.000Z",
-      "imagen": "https://media.zenfs.com/en/ibd.com/a2718c578247ec7a151aec3a57442ba4",
-      "globalScore": 98,
-      "personalScore": 100,
-      "tags": [
-        "finanzas",
-        "mercados",
-        "Nvidia",
-        "inversión"
+        "Mac",
+        "pantallas",
+        "productividad",
+        "herramientas"
       ],
       "tambienVistoEn": []
     },
@@ -322,41 +383,20 @@
       "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
       "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/06/19/gomining-challenges-jack-dorsey-s-square-with-payments-system-designed-around-bitcoin",
-      "tituloOriginal": "GoMining challenges Jack Dorsey's Square with payments system designed around bitcoin",
-      "tituloLimpio": "GoMining desafía a Square de Jack Dorsey con un sistema de pagos basado en Bitcoin",
-      "resumen": "GoMining presentó un kit de desarrollo de software y acceso programable para su protocolo de pago de bitcoin GoBTC Pay, permitiendo a los comerciantes aceptar BTC para compras diarias.",
-      "porQueImporta": "La competencia en el espacio de pagos con criptomonedas y la adopción de Bitcoin para transacciones diarias es una tendencia relevante en finanzas y tecnología, que podría impactar en el futuro de los pagos digitales.",
-      "publicadoEn": "2026-06-19T12:30:00.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/cab7c2189991e6ba68bc9c8c8ed71e58bf53bc8c-1280x800.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "globalScore": 96,
+      "url": "https://www.coindesk.com/markets/2026/06/19/schwab-to-join-prediction-markets-race-with-s-and-p-500-event-based-options-wsj",
+      "tituloOriginal": "Schwab to join prediction markets race with S&P 500 event-based options: WSJ",
+      "tituloLimpio": "Schwab se unirá a la carrera de mercados de predicción con opciones basadas en eventos del S&P 500",
+      "resumen": "La oferta planificada permitiría a los clientes apostar en movimientos de índices mientras Coinbase y Robinhood se expanden en el sector.",
+      "porQueImporta": "La entrada de un jugador importante como Schwab en los mercados de predicción es relevante para Guido por su interés en inversiones y la evolución de los mercados financieros.",
+      "publicadoEn": "2026-06-19T17:51:12.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/cc2e121d53068f5ee4a64351fa479ce13fd75769-6000x3978.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 92,
       "personalScore": 100,
       "tags": [
         "finanzas",
-        "criptomonedas",
-        "Bitcoin",
-        "pagos"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
-      "categoria": "Finance",
-      "fuente": "CoinTelegraph",
-      "url": "https://cointelegraph.com/learn/aave-defi-bank-run-lending-risk?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "tituloOriginal": "Aave survived $8.45B in withdrawals, but risk questions remain",
-      "tituloLimpio": "Aave sobrevivió a retiros de $8.45B, pero persisten preguntas sobre riesgos",
-      "resumen": "Aave manejó $8.45 mil millones en retiros sin congelar fondos, pero el episodio planteó nuevas preguntas sobre riesgos ocultos en los préstamos DeFi.",
-      "porQueImporta": "La resiliencia de Aave ante grandes retiros es una señal importante para la estabilidad de las finanzas descentralizadas (DeFi), pero las preguntas sobre riesgos son cruciales para cualquier inversor en este sector.",
-      "publicadoEn": "2026-06-19T15:00:00.000Z",
-      "imagen": "https://s3-images.ctmedia.io/media/article-covers/aave-survived-845b-in-withdrawals-but-the-risk-debate-is-not-over.jpg",
-      "globalScore": 90,
-      "personalScore": 100,
-      "tags": [
-        "finanzas",
-        "DeFi",
-        "criptomonedas",
-        "riesgos"
+        "inversiones",
+        "mercados de predicción",
+        "S&P 500"
       ],
       "tambienVistoEn": []
     },
@@ -364,40 +404,41 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/deuda-empresas-serenisima-logra-bajar-11-650-tasa-dolares-grandes-grupos-electricos-sale-default_0_hw37WFc7wn.html",
-      "tituloOriginal": "Deuda de empresas: La Serenísima logra bajar de 11% a 6,50% la tasa en dólares y uno de los grandes grupos eléctricos sale del default",
-      "tituloLimpio": "La Serenísima baja su tasa en dólares y un grupo eléctrico sale del default",
-      "resumen": "Tras el cambio de accionistas, la empresa Mastellone colocó US$ 42 millones a dos años. Por otro lado, GEMSA renegoció su deuda de US$ 1.500 millones.",
-      "porQueImporta": "Noticia relevante para el panorama económico argentino, mostrando movimientos en la deuda corporativa y la capacidad de las empresas locales para renegociar condiciones financieras. Esto puede influir en la percepción del riesgo país y las oportunidades de inversión.",
-      "publicadoEn": "2026-06-19T14:11:49.000Z",
-      "imagen": "https://www.clarin.com/img/2025/04/15/MdmhulXGh_1200x630__1.jpg",
-      "globalScore": 90,
-      "personalScore": 100,
-      "tags": [
-        "Argentina",
-        "finanzas",
-        "empresas",
-        "deuda"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
-      "categoria": "Argentina",
-      "fuente": "Clarin Politica",
-      "url": "https://www.clarin.com/politica/fiscal-pollicita-recibio-expediente-herencia-recibida-manuel-adorni-pone-lupa-veracidad_0_H3R3chZIvY.html",
-      "tituloOriginal": "El fiscal Pollicita recibió el expediente de la herencia recibida por Manuel Adorni y pone la lupa en su veracidad",
-      "tituloLimpio": "El fiscal Pollicita recibió el expediente de la herencia de Manuel Adorni y analiza su veracidad",
-      "resumen": "Después de las declaraciones juradas rectificadas y la última correspondiente al período fiscal 2025, que da cuenta de un patrimonio de 944 millones de pesos, la justicia federal se concentra en el análisis de la herencia recibida por el jefe de Gabinete.",
-      "porQueImporta": "Noticia de interés político y económico en Argentina, que puede generar incertidumbre o confianza en la gestión pública, afectando el clima de negocios y la percepción de la transparencia.",
-      "publicadoEn": "2026-06-19T12:55:14.000Z",
-      "imagen": "https://www.clarin.com/img/2026/06/18/RuMZlAxbZ1_1200x630__1.jpg",
+      "url": "https://www.clarin.com/economia/grupo-sueco-compra-empresa-argentina-transporte-caudales_0_rgPysLYGW1.html",
+      "tituloOriginal": "Un grupo sueco compra una empresa argentina de transporte de caudales",
+      "tituloLimpio": "Un grupo sueco compra una empresa argentina de transporte de caudales",
+      "resumen": "Loomis se quedó con Transportadora del Interior, que era propiedad del banco Coinag.",
+      "porQueImporta": "Esta adquisición es una señal de inversión extranjera en Argentina y puede indicar movimientos en el sector de seguridad y logística, relevante para el panorama económico local.",
+      "publicadoEn": "2026-06-19T17:44:59.000Z",
+      "imagen": "https://www.clarin.com/img/2022/08/24/kHtTY35vV_1200x630__1.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "política",
+        "negocios",
+        "inversión",
         "economía"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/06/19/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-viernes-19-de-junio/",
+      "tituloOriginal": "Dólar hoy en vivo: en el Banco Nación subió a $1.480 para la venta, en su cuarta alza consecutiva",
+      "tituloLimpio": "Dólar hoy en vivo: en el Banco Nación subió a $1.480 para la venta, en su cuarta alza consecutiva",
+      "resumen": "El billete minorista avanzó diez pesos en el día y 30 pesos desde el viernes de la semana anterior. El blue quedó ofrecido a $1.480",
+      "porQueImporta": "La cotización del dólar es una información económica fundamental en Argentina, impactando directamente en la economía personal y en las decisiones de inversión de Guido.",
+      "publicadoEn": "2026-06-19T18:25:34.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/KOHQ4DUZF5FMFGKB72BJQKJOVM.jpeg?auth=ebb19ac5f5d618ae29f90bb74e6d5c42402c3f2be716d0a6bb808ada814fad34&smart=true&width=4857&height=2730",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "dólar",
+        "economía",
+        "finanzas"
       ],
       "tambienVistoEn": []
     },
@@ -407,38 +448,18 @@
       "fuente": "La Nacion Economia",
       "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid19062026/",
       "tituloOriginal": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 19 de junio, minuto a minuto",
-      "tituloLimpio": "Dólar hoy y dólar blue, EN VIVO: cotización del oficial y el paralelo este viernes 19 de junio",
-      "resumen": "La divisa oficial opera a $1475 para la venta; el dólar blue se ubica en $1485 para esa operación.",
-      "porQueImporta": "La cotización del dólar es una información económica fundamental en Argentina, que afecta directamente el poder adquisitivo, los costos de importación y exportación, y las decisiones de inversión.",
-      "publicadoEn": "2026-06-19T15:20:36.000Z",
+      "tituloLimpio": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 19 de junio",
+      "resumen": "La divisa oficial opera a $1480 para la venta; el dólar blue se ubica en $1480 para esa operación",
+      "porQueImporta": "La cotización del dólar es una información económica fundamental en Argentina, impactando directamente en la economía personal y en las decisiones de inversión de Guido.",
+      "publicadoEn": "2026-06-19T18:50:00.000Z",
       "imagen": "https://resizer.glanacion.com/resizer/v2/GKINURSAPBCSJKX7P2XTFRAMSE.JPG?auth=45744c45a30ab5193758032fe402f3af23d9fd0f2770d4487ff4cbc6d33fbbd9&smart=true&width=2000&height=1333",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
         "dólar",
-        "finanzas",
-        "economía"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
-      "categoria": "Argentina",
-      "fuente": "La Nacion Politica",
-      "url": "https://www.lanacion.com.ar/politica/luis-caputo-insulto-a-florencia-pena-tras-su-error-sobre-la-salud-de-jorge-messi-nid19062026/",
-      "tituloOriginal": "Luis Caputo insultó a Florencia Peña tras su error sobre la salud de Jorge Messi",
-      "tituloLimpio": "Luis Caputo insultó a Florencia Peña tras su error sobre la salud de Jorge Messi",
-      "resumen": "El ministro de Economía se refirió a la actriz, aunque sin nombrarla, como “boluda”.",
-      "porQueImporta": "Aunque es una noticia de política y espectáculos, la participación del Ministro de Economía en una controversia pública puede ser de interés general para entender el clima político y social en Argentina.",
-      "publicadoEn": "2026-06-19T15:18:08.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/I5JF7QNJ5BAXNFODYD4JLMILY4.png?auth=a8ca4832eaed14e9c4fd879680f329607966e24ab7ad7847a1ded2d5f4499fea&smart=true&width=2000&height=1333",
-      "globalScore": 98,
-      "personalScore": 100,
-      "tags": [
-        "Argentina",
-        "política",
-        "noticias generales"
+        "economía",
+        "finanzas"
       ],
       "tambienVistoEn": []
     },
@@ -448,11 +469,11 @@
       "fuente": "Adweek",
       "url": "https://www.adweek.com/commerce/7-things-that-hit-this-week-metas-next-stab-at-commerce-new-hires-at-sephora-and-lowes-and-pinterest-goes-deep-on-ai/",
       "tituloOriginal": "7 Things That Hit This Week: Meta’s Next Stab at Commerce, New Hires at Sephora and Lowe’s, and Pinterest Goes Deep on AI",
-      "tituloLimpio": "7 Novedades de la Semana: Meta avanza en comercio, nuevas contrataciones en Sephora y Lowe’s, y Pinterest profundiza en IA",
+      "tituloLimpio": "7 cosas que impactaron esta semana: El próximo intento de Meta en el comercio, nuevas contrataciones en Sephora y Lowe’s, y Pinterest profundiza en IA",
       "resumen": "Además, cuánto cuesta patrocinar un 'retail upfront'.",
-      "porQueImporta": "La incursión de Meta en el comercio y la profundización de Pinterest en IA son tendencias clave en marketing digital y tecnología, relevantes para entender la evolución de las plataformas y las estrategias de publicidad.",
+      "porQueImporta": "La profundización de Pinterest en IA y los movimientos de Meta en comercio son tendencias clave en marketing digital que Guido debería conocer para entender la evolución de las plataformas y las oportunidades publicitarias.",
       "publicadoEn": "2026-06-19T10:25:25.000Z",
-      "globalScore": 94,
+      "globalScore": 88,
       "personalScore": 100,
       "tags": [
         "marketing",
@@ -466,6 +487,6 @@
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-06-19T15:26:41.683Z"
+    "generadoEn": "2026-06-19T18:54:39.048Z"
   }
 }
