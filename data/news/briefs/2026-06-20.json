@@ -1,31 +1,13 @@
 {
   "fecha": "2026-06-20",
-  "generadoEn": "2026-06-20T14:10:43.756Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "Hoy, las noticias giran en torno a posibles aumentos de precios en productos Apple, avances en IA médica y una startup que afirma haber resuelto un cuello de botella en LLMs. En Argentina, la morosidad en préstamos personales alcanzó un nuevo récord y se debate el alto costo de los autos importados. También hay novedades sobre la expansión de la publicidad de Uber y el respaldo de Robinhood a la eliminación de una regla de mercado.",
+  "generadoEn": "2026-06-20T18:11:48.169Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Hoy destacamos avances en IA médica de Google, el lanzamiento de cinco nuevas apps de Apple, y un superávit energético récord en Argentina impulsado por Vaca Muerta. También es relevante la salida de un Nobel de DeepMind y el aumento del Merval.",
   "radarPersonal": [
     {
-      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "Apple podría aumentar los precios de sus productos",
-      "resumen": "Apple podría aumentar los precios de sus productos debido a los costos de memoria y almacenamiento, según señales del CEO Tim Cook.",
-      "categoria": "Apple",
-      "fuentes": [
-        "MacRumors"
-      ],
-      "urls": [
-        "https://www.macrumors.com/2026/06/20/top-stories-apple-price-hikes/"
-      ],
-      "score": 100,
-      "tags": [
-        "apple",
-        "precios",
-        "aumentos"
-      ]
-    },
-    {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "titulo": "AMIE, la IA médica de Google, muestra potencial en manejo de enfermedades",
-      "resumen": "Investigaciones publicadas en “Nature” indican que el sistema de IA conversacional de Google iguala a médicos de atención primaria en el manejo de enfermedades complejas.",
+      "titulo": "Investigación de Google muestra cómo su IA médica podría ayudar a manejar condiciones de salud",
+      "resumen": "Una investigación publicada en “Nature” indica que el sistema de IA conversacional de Google iguala a médicos de atención primaria en el manejo de enfermedades complejas.",
       "categoria": "AI",
       "fuentes": [
         "Google AI Blog"
@@ -35,15 +17,72 @@
       ],
       "score": 100,
       "tags": [
-        "ia",
-        "medicina",
+        "IA",
+        "salud",
         "investigación"
       ]
     },
     {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Apple presentó cinco nuevas apps la semana pasada",
+      "resumen": "Apple presentó cinco nuevas apps la semana pasada, con cuatro anunciadas en la WWDC 2026 junto a sus próximas actualizaciones de software de otoño, una lanzada en beta para desarrolladores y otra lanzada independientemente por su subsidiaria Claris. Siri AI fue uno de los mayores anuncios de la WWDC 2026.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/06/20/apple-unveiled-these-five-new-apps/"
+      ],
+      "score": 100,
+      "tags": [
+        "Apple",
+        "apps",
+        "WWDC",
+        "Siri AI"
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "La balanza energética argentina alcanzó un superávit récord de u$s1.543 millones en mayo por Vaca Muerta",
+      "resumen": "El sector energético volvió a posicionarse como uno de los principales motores económicos. Las cifras fueron anunciadas por el Ministerio de Economía.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/la-balanza-energetica-alcanzo-un-superavit-record-us1543-millones-mayo-el-impulso-vaca-muerta-n6290973"
+      ],
+      "score": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "energía",
+        "Vaca Muerta"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "El premio Nobel John Jumper deja DeepMind para unirse a Anthropic",
+      "resumen": "Jumper no es el único nombre importante que deja Google DeepMind.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/"
+      ],
+      "score": 100,
+      "tags": [
+        "IA",
+        "DeepMind",
+        "Anthropic",
+        "talento"
+      ]
+    },
+    {
       "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "titulo": "Startup afirma haber resuelto un cuello de botella en LLMs",
-      "resumen": "Una startup de IA de Miami, Subquadratic, asegura haber resuelto un cuello de botella matemático que afectaba a los grandes modelos de lenguaje por casi una década.",
+      "titulo": "Una startup afirma haber superado un cuello de botella que frena a los LLMs",
+      "resumen": "La startup de IA Subquadratic, con sede en Miami, salió del modo sigiloso el mes pasado con una gran afirmación. Anunció que había resuelto un cuello de botella matemático que había estado frenando a los grandes modelos de lenguaje durante casi una década.",
       "categoria": "AI",
       "fuentes": [
         "MIT Technology Review AI"
@@ -53,97 +92,97 @@
       ],
       "score": 100,
       "tags": [
-        "ia",
-        "llms",
-        "startup",
-        "tecnología"
-      ]
-    },
-    {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "La morosidad en préstamos personales de familias en Argentina rozó el 15%",
-      "resumen": "El BCRA confirmó un nuevo récord de morosidad en familias, alcanzando el 12,1% a nivel agregado y casi el 15% en préstamos personales en abril.",
-      "categoria": "Argentina",
-      "fuentes": [
-        "Ambito"
-      ],
-      "urls": [
-        "https://www.ambito.com/economia/el-bcra-confirmo-un-nuevo-record-la-morosidad-familias-prestamos-personales-rozo-el-15-n6290892"
-      ],
-      "score": 100,
-      "tags": [
-        "argentina",
-        "economía",
-        "morosidad",
-        "préstamos"
-      ]
-    },
-    {
-      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
-      "titulo": "El precio de un auto importado se duplica al llegar a Argentina por aranceles e impuestos",
-      "resumen": "El precio de un auto importado se duplica al desembarcar en Argentina debido a aranceles e impuestos, a pesar de acuerdos con la Unión Europea y Estados Unidos.",
-      "categoria": "Argentina",
-      "fuentes": [
-        "Infobae Economia"
-      ],
-      "urls": [
-        "https://www.infobae.com/economia/2026/06/20/aranceles-e-impuestos-por-que-el-precio-de-un-auto-importado-se-duplica-ni-bien-desembarca-en-argentina/"
-      ],
-      "score": 100,
-      "tags": [
-        "argentina",
-        "economía",
-        "impuestos",
-        "autos"
+        "IA",
+        "LLMs",
+        "innovación",
+        "startup"
       ]
     }
   ],
   "loImportante": [
-    "Apple podría subir los precios de sus productos por el aumento de costos de memoria y almacenamiento.",
-    "La IA médica AMIE de Google muestra resultados prometedores en el manejo de enfermedades complejas.",
-    "Una startup afirma haber resuelto un cuello de botella clave en el desarrollo de grandes modelos de lenguaje (LLMs).",
-    "La morosidad en préstamos personales de familias en Argentina alcanzó un nuevo récord, rozando el 15%.",
-    "El costo de los autos importados en Argentina se duplica al llegar al país debido a aranceles e impuestos."
+    "Google avanza en IA médica, con su sistema conversacional AMIE igualando a médicos en manejo de enfermedades complejas.",
+    "Apple lanzó cinco nuevas apps, incluyendo una reconstrucción de Siri con IA, y se prepara para sus actualizaciones de software de otoño.",
+    "Argentina logró un superávit energético récord de u$s1.543 millones en mayo, impulsado por Vaca Muerta, consolidando al sector como motor económico.",
+    "El Merval argentino mostró un aumento significativo en dólares, superando índices regionales y globales, con cambios en la composición del índice.",
+    "Una startup de IA afirma haber resuelto un cuello de botella matemático que limitaba a los grandes modelos de lenguaje (LLMs) durante casi una década."
   ],
   "oportunidades": [
     {
       "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
       "categoria": "AI",
-      "titulo": "Avance en LLMs podría abrir nuevas posibilidades en desarrollo de IA",
-      "detalle": "Una startup afirma haber resuelto un cuello de botella que limitaba a los grandes modelos de lenguaje. Esto podría acelerar el desarrollo y la aplicación de IA en diversas áreas.",
+      "titulo": "Avance en LLMs podría abrir nuevas posibilidades",
+      "detalle": "Si la afirmación de la startup Subquadratic sobre la resolución de un cuello de botella en LLMs es cierta, podría significar un salto importante en el desarrollo y aplicación de modelos de lenguaje grandes, impactando en diversas industrias.",
       "acciones": [
-        "Investigar más sobre la tecnología de Subquadratic y su impacto real en LLMs.",
-        "Evaluar cómo este avance podría influir en herramientas de IA para retoque fotográfico y automatización."
+        "Monitorear el desarrollo de Subquadratic y la validación de sus afirmaciones.",
+        "Evaluar posibles aplicaciones de LLMs más eficientes en flujos de trabajo de retoque fotográfico o arte con IA."
+      ]
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Automation",
+      "titulo": "IA mejora la seguridad en criptoactivos",
+      "detalle": "Las herramientas de seguridad impulsadas por IA se están volviendo más económicas, rápidas y accesibles en el sector cripto, lo que podría redefinir la diligencia debida y las expectativas para desarrolladores e instituciones.",
+      "acciones": [
+        "Investigar herramientas de seguridad con IA para proteger inversiones en criptoactivos.",
+        "Considerar la integración de estas herramientas en la gestión de activos digitales."
       ]
     },
     {
       "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
       "categoria": "Marketing",
-      "titulo": "Uber Advertising se expande más allá de sus apps, abriendo nuevas vías publicitarias",
-      "detalle": "Uber Advertising está expandiendo su alcance publicitario más allá de sus propias aplicaciones, lo que podría generar nuevas oportunidades para anunciantes.",
+      "titulo": "Uber Advertising se expande más allá de sus apps",
+      "detalle": "Uber Advertising está buscando más ingresos publicitarios al expandirse más allá de sus propias aplicaciones, lo que podría abrir nuevas vías para anunciantes y estrategias de marketing.",
       "acciones": [
-        "Analizar las nuevas opciones publicitarias de Uber y su relevancia para campañas de marketing.",
-        "Considerar la efectividad de formatos como 'Ride Offers' para clientes en Argentina."
+        "Analizar las nuevas opciones publicitarias de Uber para campañas de marketing digital.",
+        "Evaluar la efectividad de estas plataformas para alcanzar audiencias específicas."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
       "categoria": "Market",
-      "titulo": "Posibles aumentos de precios en productos Apple",
-      "detalle": "Tim Cook ha señalado que Apple podría subir los precios de sus productos debido al aumento de costos de memoria y almacenamiento, lo que afectaría el poder adquisitivo.",
-      "mitigacion": "Monitorear los anuncios de precios de Apple y planificar compras estratégicamente antes de posibles aumentos."
+      "titulo": "Cierre del Estrecho de Ormuz por Irán",
+      "detalle": "El cierre del Estrecho de Ormuz por parte de Irán es un evento geopolítico con potencial para impactar los mercados globales, especialmente en el sector energético.",
+      "mitigacion": "Monitorear de cerca la situación geopolítica y su impacto en los precios del petróleo y los mercados financieros. Considerar diversificación de inversiones para mitigar riesgos."
     },
     {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "categoria": "Market",
-      "titulo": "Aumento de la morosidad en préstamos personales en Argentina",
-      "detalle": "La morosidad en préstamos personales de familias en Argentina alcanzó un nuevo récord, rozando el 15%, lo que indica un deterioro de la situación económica y financiera.",
-      "mitigacion": "Revisar y ajustar estrategias de inversión y finanzas personales ante un contexto de mayor riesgo crediticio y económico en Argentina."
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Regulatory",
+      "titulo": "Proyecto de ley en Tucumán para eliminar calumnias en redes y diarios digitales",
+      "detalle": "Un proyecto de ley en Tucumán busca eliminar de forma exprés calumnias en redes y diarios digitales, generando polémica por posibles afectaciones a la libertad de expresión. Aunque el gobernador anticipó un veto, es un precedente a observar.",
+      "mitigacion": "Mantenerse informado sobre la legislación local y provincial que pueda afectar la libertad de expresión y el uso de plataformas digitales, especialmente en el ámbito de la comunicación y el marketing."
     }
   ],
-  "conexiones": [],
+  "conexiones": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Avances en IA médica y el futuro de la salud",
+      "historias": [
+        "La investigación de Google sobre AMIE demuestra el potencial de la IA conversacional en el manejo de enfermedades complejas, igualando a médicos primarios.",
+        "Este avance se suma a la creciente tendencia de la IA aplicada en sectores críticos, mostrando cómo la tecnología puede mejorar la eficiencia y precisión en áreas como la salud."
+      ],
+      "conclusion": "La IA no solo está transformando industrias creativas y financieras, sino que también está logrando hitos significativos en campos como la medicina, prometiendo herramientas más sofisticadas para el diagnóstico y tratamiento."
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Apple y la integración de IA en su ecosistema",
+      "historias": [
+        "Apple presentó cinco nuevas apps, incluyendo una reconstrucción de Siri con IA, lo que indica un fuerte enfoque en la integración de inteligencia artificial en su ecosistema de productos.",
+        "Este movimiento de Apple se alinea con la tendencia general de la industria tecnológica de incorporar IA en las funcionalidades centrales de sus dispositivos y servicios, buscando mejorar la experiencia del usuario y la automatización."
+      ],
+      "conclusion": "La apuesta de Apple por una Siri renovada con IA es un paso clave para mantener su competitividad y ofrecer a los usuarios herramientas más inteligentes y personalizadas, impactando directamente en la productividad y el uso diario de sus dispositivos."
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "titulo": "El Merval y la economía argentina: señales de cambio",
+      "historias": [
+        "El Merval experimentó un aumento significativo en dólares y un cambio en su composición, con mayor incidencia de los sectores financiero y energético, y una caída en los productores de bienes.",
+        "Este fenómeno se conecta con el superávit energético récord de Argentina, impulsado por Vaca Muerta, lo que sugiere un reacomodo de la economía local hacia sectores específicos con mayor dinamismo."
+      ],
+      "conclusion": "El desempeño del Merval y el superávit energético reflejan movimientos importantes en la economía argentina, indicando oportunidades en sectores clave y la necesidad de una observación constante para decisiones de inversión."
+    }
+  ],
   "noticias": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
@@ -151,15 +190,15 @@
       "fuente": "Google AI Blog",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
       "tituloOriginal": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-      "tituloLimpio": "Investigación muestra que la IA médica AMIE podría ayudar a manejar condiciones de salud",
-      "resumen": "Investigaciones en “Nature” muestran que el sistema de IA conversacional de Google iguala a médicos de atención primaria en el manejo de enfermedades complejas.",
-      "porQueImporta": "Este avance en IA médica podría tener un impacto significativo en la salud y la atención médica, ofreciendo nuevas herramientas para el diagnóstico y tratamiento de enfermedades. Es relevante para el interés en IA aplicada.",
+      "tituloLimpio": "Investigación de Google muestra cómo su IA médica podría ayudar a manejar condiciones de salud",
+      "resumen": "Una investigación publicada en “Nature” indica que el sistema de IA conversacional de Google iguala a médicos de atención primaria en el manejo de enfermedades complejas.",
+      "porQueImporta": "Guido, esto es relevante porque muestra el avance de la IA aplicada en un campo crítico como la medicina, lo que puede inspirar nuevas formas de pensar la automatización y el procesamiento de información en otros ámbitos, incluyendo el arte con IA.",
       "publicadoEn": "2026-06-17T15:00:00.000Z",
       "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp",
-      "globalScore": 100,
+      "globalScore": 92,
       "personalScore": 100,
       "tags": [
-        "ia",
+        "IA",
         "salud",
         "investigación"
       ],
@@ -169,18 +208,19 @@
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Apple",
       "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/20/top-stories-apple-price-hikes/",
-      "tituloOriginal": "Top Stories: Apple Price Hikes Coming, 20th Anniversary iPhone Rumors, and More",
-      "tituloLimpio": "Apple podría aumentar los precios de sus productos",
-      "resumen": "El CEO Tim Cook ha señalado que Apple tendrá que seguir el ejemplo de otros fabricantes y subir los precios debido a los aumentos masivos en los costos de memoria y almacenamiento.",
-      "porQueImporta": "Guido, como usuario de Apple, debe estar atento a posibles aumentos de precios en productos que le interesan. Esto podría influir en futuras decisiones de compra.",
-      "publicadoEn": "2026-06-20T13:00:00.000Z",
+      "url": "https://www.macrumors.com/2026/06/20/apple-unveiled-these-five-new-apps/",
+      "tituloOriginal": "Apple Unveiled These Five New Apps Last Week",
+      "tituloLimpio": "Apple presentó cinco nuevas apps la semana pasada",
+      "resumen": "Apple presentó cinco nuevas apps la semana pasada, con cuatro anunciadas en la WWDC 2026 junto a sus próximas actualizaciones de software de otoño, una lanzada en beta para desarrolladores y otra lanzada independientemente por su subsidiaria Claris. Siri AI fue uno de los mayores anuncios de la WWDC 2026.",
+      "porQueImporta": "Como usuario de Apple, te interesa saber qué novedades trae la compañía, especialmente con la reconstrucción de Siri con IA, que podría mejorar la interacción y automatización en tus dispositivos.",
+      "publicadoEn": "2026-06-20T15:00:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "apple",
-        "precios",
-        "mercado"
+        "Apple",
+        "apps",
+        "WWDC",
+        "Siri AI"
       ],
       "tambienVistoEn": []
     },
@@ -191,8 +231,8 @@
       "url": "https://sherwood.news/markets/market-wrap-2026-06-18-sp500-qqq/",
       "tituloOriginal": "Stock climb on US-Iran peace deal; semiconductors rally",
       "tituloLimpio": "Las acciones suben por acuerdo de paz entre EE.UU. e Irán; los semiconductores repuntan",
-      "resumen": "El Presidente Trump y el Presidente iraní Masoud Pezeshkian firmaron un memorándum de entendimiento para poner fin a la guerra.",
-      "porQueImporta": "Un acuerdo de paz entre EE.UU. e Irán tiene un impacto global en los mercados, incluyendo los semiconductores, que son clave para la tecnología y la IA. Esto afecta indirectamente las inversiones de Guido.",
+      "resumen": "Esta mañana, el presidente Trump y el presidente iraní Masoud Pezeshkian firmaron un memorándum de entendimiento destinado a poner fin a la guerra.",
+      "porQueImporta": "Este tipo de noticias geopolíticas tienen un impacto directo en los mercados globales, incluyendo los ETFs. El repunte de los semiconductores es relevante para el sector tecnológico.",
       "publicadoEn": "2026-06-18T20:03:41.000Z",
       "imagen": "https://sherwoodnews.imgix.net/GettyImages-1251872654.jpg",
       "globalScore": 98,
@@ -200,8 +240,8 @@
       "tags": [
         "finanzas",
         "mercados",
-        "semiconductores",
-        "política_global"
+        "geopolítica",
+        "semiconductores"
       ],
       "tambienVistoEn": []
     },
@@ -209,20 +249,20 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/el-bcra-confirmo-un-nuevo-record-la-morosidad-familias-prestamos-personales-rozo-el-15-n6290892",
-      "tituloOriginal": "El BCRA confirmó un nuevo récord de la morosidad en familias: en préstamos personales rozó el 15%",
-      "tituloLimpio": "El BCRA confirmó un nuevo récord de morosidad en familias: en préstamos personales rozó el 15%",
-      "resumen": "A nivel agregado, la morosidad trepó al 7,3% en abril: fue del 12,1% en familias y del 3,3% en empresas, con un deterioro mensual e interanual.",
-      "porQueImporta": "Esta noticia es crucial para entender la situación económica en Argentina y el riesgo crediticio. Es relevante para las decisiones de inversión y la percepción del mercado local.",
-      "publicadoEn": "2026-06-20T00:48:00.000Z",
-      "imagen": "https://media.ambito.com/p/ddf07eaa650b9a8fa93db30d11bb32f6/adjuntos/239/imagenes/042/607/0042607070/1200x675/727x385:747x405/morosidad-00.jpg",
-      "globalScore": 88,
+      "url": "https://www.ambito.com/economia/la-balanza-energetica-alcanzo-un-superavit-record-us1543-millones-mayo-el-impulso-vaca-muerta-n6290973",
+      "tituloOriginal": "La balanza energética alcanzó un superávit récord de u$s1.543 millones en mayo con el impulso de Vaca Muerta",
+      "tituloLimpio": "La balanza energética argentina alcanzó un superávit récord de u$s1.543 millones en mayo con el impulso de Vaca Muerta",
+      "resumen": "El sector volvió a posicionarse como uno de los principales motores económicos. Las cifras fueron anunciadas por el Ministerio de Economía.",
+      "porQueImporta": "Noticia clave para Argentina. Un superávit energético tan grande es una señal positiva para la economía del país y puede influir en las decisiones de inversión a nivel local.",
+      "publicadoEn": "2026-06-20T14:21:00.000Z",
+      "imagen": "https://media.ambito.com/p/e80d5179caa28946bffe9542d457e34e/adjuntos/239/imagenes/043/283/0043283488/1200x675/2924x1732:2944x1752/petroleo.jpg",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "argentina",
+        "Argentina",
         "economía",
-        "morosidad",
-        "finanzas"
+        "energía",
+        "Vaca Muerta"
       ],
       "tambienVistoEn": []
     },
@@ -232,17 +272,16 @@
       "fuente": "Marketing Dive",
       "url": "https://www.marketingdive.com/news/uber-advertising-expands-beyond-owned-apps-in-play-for-more-ad-dollars/823164/",
       "tituloOriginal": "Uber Advertising expands beyond owned apps in play for more ad dollars",
-      "tituloLimpio": "Uber Advertising se expande más allá de sus apps para captar más inversión publicitaria",
+      "tituloLimpio": "Uber Advertising se expande más allá de sus apps en busca de más ingresos publicitarios",
       "resumen": "Miller Lite tuvo una tasa de clics un 45% más alta con Ride Offers en Journey en comparación con creatividades similares sin oferta.",
-      "porQueImporta": "Para Guido, interesado en marketing, esta expansión de Uber abre nuevas vías para la publicidad digital y muestra la efectividad de ciertos formatos. Es una tendencia a seguir en el sector.",
+      "porQueImporta": "Para tu interés en marketing, la expansión de Uber Advertising abre nuevas vías para la publicidad digital y la segmentación de audiencias, ofreciendo nuevas herramientas y estrategias.",
       "publicadoEn": "2026-06-18T15:10:00.000Z",
       "globalScore": 84,
       "personalScore": 100,
       "tags": [
         "marketing",
         "publicidad",
-        "uber",
-        "tendencias"
+        "Uber"
       ],
       "tambienVistoEn": []
     },
@@ -250,19 +289,19 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-      "tituloOriginal": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
-      "tituloLimpio": "La historia muestra por qué el control de exportaciones cibernéticas no funciona",
-      "resumen": "Durante los últimos 30 años, detener el flujo de software relacionado con la ciberseguridad ha demostrado ser ineficaz. No está claro por qué funcionaría ahora con el modelo de ciberseguridad Mythos de Anthropic.",
-      "porQueImporta": "Esta noticia es relevante para entender las limitaciones de la regulación en el ámbito de la ciberseguridad y la IA, un tema importante para la industria tecnológica.",
-      "publicadoEn": "2026-06-19T22:40:14.000Z",
-      "globalScore": 90,
+      "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+      "tituloOriginal": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+      "tituloLimpio": "El premio Nobel John Jumper deja DeepMind para unirse a Anthropic",
+      "resumen": "Jumper no es el único nombre importante que deja Google DeepMind.",
+      "porQueImporta": "Este movimiento de talento de alto nivel en el campo de la IA es significativo. Muestra la dinámica competitiva entre las grandes empresas de IA y puede indicar tendencias futuras en investigación y desarrollo.",
+      "publicadoEn": "2026-06-20T16:39:57.000Z",
+      "globalScore": 96,
       "personalScore": 100,
       "tags": [
-        "ia",
-        "ciberseguridad",
-        "regulación",
-        "tecnología"
+        "IA",
+        "DeepMind",
+        "Anthropic",
+        "talento"
       ],
       "tambienVistoEn": []
     },
@@ -273,36 +312,16 @@
       "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
       "tituloOriginal": "A startup claims it broke through a bottleneck that’s holding back LLMs",
       "tituloLimpio": "Una startup afirma haber superado un cuello de botella que frena a los LLMs",
-      "resumen": "La startup de IA Subquadratic, con sede en Miami, anunció que había resuelto un cuello de botella matemático que había estado frenando a los grandes modelos de lenguaje durante casi una década.",
-      "porQueImporta": "Si esta afirmación es cierta, podría significar un avance importante en el desarrollo de la IA, impactando directamente en las herramientas y aplicaciones que Guido utiliza o le interesan.",
+      "resumen": "La startup de IA Subquadratic, con sede en Miami, salió del modo sigiloso el mes pasado con una gran afirmación. Anunció que había resuelto un cuello de botella matemático que había estado frenando a los grandes modelos de lenguaje durante casi una década.",
+      "porQueImporta": "Si esta afirmación es cierta, podría ser un avance fundamental para la IA, impactando directamente en el desarrollo de herramientas y aplicaciones de IA que utilizás en tu trabajo.",
       "publicadoEn": "2026-06-19T10:40:24.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "ia",
-        "llms",
-        "startup",
-        "innovación"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
-      "categoria": "Apple",
-      "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/19/whatsapp-tests-new-animated-message-bubbles-on-iphone/",
-      "tituloOriginal": "WhatsApp tests new animated message bubbles on iPhone",
-      "tituloLimpio": "WhatsApp prueba nuevas burbujas de mensajes animadas en iPhone",
-      "resumen": "La última beta de WhatsApp disponible en TestFlight trae de vuelta las animaciones de mensajes en iOS, esta vez con una configuración que permite a los usuarios desactivarlas.",
-      "porQueImporta": "Como usuario de iPhone, Guido podría interesarse en las nuevas funcionalidades de WhatsApp, una herramienta de comunicación muy utilizada. Es una mejora en la experiencia de usuario.",
-      "publicadoEn": "2026-06-20T02:25:20.000Z",
-      "globalScore": 98,
-      "personalScore": 100,
-      "tags": [
-        "apple",
-        "whatsapp",
-        "iphone",
-        "herramientas"
+        "IA",
+        "LLMs",
+        "innovación",
+        "startup"
       ],
       "tambienVistoEn": []
     },
@@ -313,37 +332,37 @@
       "url": "https://appleinsider.com/articles/26/06/19/new-aspekt-touch-folio-displays-bring-touch-first-computing-to-macs?utm_source=rss",
       "tituloOriginal": "New Aspekt Touch & Folio displays bring touch-first computing to Macs",
       "tituloLimpio": "Nuevas pantallas Aspekt Touch y Folio ofrecen computación táctil a las Mac",
-      "resumen": "Alogic está trayendo más opciones de entrada táctil y con stylus a Mac con un nuevo monitor de escritorio y pantallas portátiles, expandiendo una línea que agrega una característica que Apple aún no ofrece en su propio hardware.",
-      "porQueImporta": "Esta noticia es relevante para Guido, ya que introduce opciones de interacción táctil en Mac, una característica que Apple no ofrece directamente. Podría mejorar su flujo de trabajo en retoque fotográfico.",
+      "resumen": "Alogic está trayendo más opciones de entrada táctil y con lápiz a Mac con un nuevo monitor de escritorio y pantallas portátiles, expandiendo una línea que agrega una característica que Apple aún no ofrece en su propio hardware.",
+      "porQueImporta": "Como usuario de Mac, esta noticia es interesante porque ofrece soluciones de terceros para una funcionalidad (pantallas táctiles) que Apple no ha implementado directamente, lo que podría mejorar tu flujo de trabajo.",
       "publicadoEn": "2026-06-19T17:42:55.000Z",
-      "globalScore": 94,
+      "globalScore": 88,
       "personalScore": 100,
       "tags": [
-        "apple",
-        "mac",
+        "Apple",
+        "Mac",
         "hardware",
         "productividad"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
       "categoria": "Finance",
       "fuente": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/robinhood-backs-push-to-scrap-a-market-rule-most-traders-dont-know-exists-140000083.html",
-      "tituloOriginal": "Robinhood backs push to scrap a market rule most traders don't know exists",
-      "tituloLimpio": "Robinhood apoya la eliminación de una regla de mercado que la mayoría de los traders desconoce",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-5-chips-buy-points-spacex-stock/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Dow Jones Futures: Iran Closes Strait Of Hormuz; Nvidia Near Buy Point, Watch For This SpaceX Move",
+      "tituloLimpio": "Futuros del Dow Jones: Irán cierra el Estrecho de Ormuz; Nvidia cerca de un punto de compra, atención a este movimiento de SpaceX",
       "resumen": "",
-      "porQueImporta": "Para Guido, interesado en inversiones y mercados, el respaldo de Robinhood a la eliminación de una regla de mercado es relevante. Podría simplificar o cambiar la dinámica de trading.",
-      "publicadoEn": "2026-06-20T14:00:00.000Z",
-      "imagen": "https://s.yimg.com/uu/api/res/1.2/9BgdaiHKVrs5uaIYBRHKEQ--~B/aD0zMzMzO3c9NTAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-06/b4977906-92ea-4f62-a786-a49a9b67fe79",
-      "globalScore": 94,
+      "porQueImporta": "Esta noticia es relevante para tus intereses en inversión y mercados, ya que menciona movimientos clave en el Dow Jones, Nvidia y SpaceX, además de un evento geopolítico con impacto económico.",
+      "publicadoEn": "2026-06-20T15:48:27.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/a2718c578247ec7a151aec3a57442ba4",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "finanzas",
         "mercados",
-        "robinhood",
-        "regulación"
+        "inversión",
+        "Nvidia"
       ],
       "tambienVistoEn": []
     },
@@ -351,20 +370,20 @@
       "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
       "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/20/how-strc-lost-its-par-the-timeline-behind-strategy-s-preferred-stock-meltdown",
-      "tituloOriginal": "How STRC lost its par: The timeline behind Strategy's preferred-stock meltdown",
-      "tituloLimpio": "Cómo STRC perdió su par: la cronología detrás del colapso de las acciones preferentes de Strategy",
-      "resumen": "Desde una recompra de bonos y la disminución de las reservas de efectivo hasta un mercado bajista de bitcoin, la secuencia de eventos que convirtió el desafío del valor nominal de STRC en un debate a nivel de mercado.",
-      "porQueImporta": "Esta noticia ofrece un caso de estudio sobre la volatilidad y los riesgos en el mercado de acciones, especialmente relevante para alguien interesado en inversiones y el comportamiento de los activos.",
-      "publicadoEn": "2026-06-20T13:00:00.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/3a6393eb4ae1f1db4ef1caec0023161c16707226-6000x3376.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "globalScore": 92,
+      "url": "https://www.coindesk.com/tech/2026/06/20/ai-is-making-crypto-security-cheaper-faster-and-harder-to-ignore",
+      "tituloOriginal": "AI is making crypto security cheaper, faster and harder to ignore",
+      "tituloLimpio": "La IA está haciendo que la seguridad de las criptomonedas sea más barata, rápida y difícil de ignorar",
+      "resumen": "A medida que las herramientas de seguridad impulsadas por IA se vuelven más baratas, rápidas y ampliamente disponibles, los investigadores dijeron que podrían remodelar lo que la industria de las criptomonedas considera una diligencia debida razonable antes de implementar código, alterando potencialmente las expectativas para desarrolladores e instituciones.",
+      "porQueImporta": "Para tus inversiones, la mejora en la seguridad de las criptomonedas gracias a la IA es una noticia importante, ya que puede reducir riesgos y aumentar la confianza en este tipo de activos.",
+      "publicadoEn": "2026-06-20T15:00:00.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/6c28c3dcd5461d3803d6e6200f1da0686dde993f-1920x1082.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "finanzas",
-        "inversiones",
-        "mercado",
-        "criptomonedas"
+        "IA",
+        "criptomonedas",
+        "seguridad",
+        "inversión"
       ],
       "tambienVistoEn": []
     },
@@ -372,20 +391,20 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/ethereum-hoy-cotizacion-y-precio-del-eth-este-sabado-20-de-junio-de-2026_0_r5dT6JuTLW.html",
-      "tituloOriginal": "Ethereum hoy: cotización y precio del ETH este sábado 20 de junio de 2026",
-      "tituloLimpio": "Ethereum hoy: cotización y precio del ETH este sábado 20 de junio de 2026",
-      "resumen": "El valor actualizado de la segunda criptomoneda más importante por capitalización. Origen e historia de Ethereum.",
-      "porQueImporta": "Para Guido, interesado en inversiones, la cotización de Ethereum es una información financiera directa y relevante, especialmente si considera invertir en criptomonedas.",
-      "publicadoEn": "2026-06-20T10:30:02.000Z",
-      "imagen": "https://www.clarin.com/img/2024/08/25/r8q0CRi-o_1200x630__1.jpg",
-      "globalScore": 94,
+      "url": "https://www.clarin.com/economia/planes-salvataje-familias-endeudadas-ayudas-ofrecen-bancos-provincia-nacion-ciudad_0_H16lRERUS7.html",
+      "tituloOriginal": "Planes de alivio para familias endeudadas: qué ayudas ofrecen los bancos Provincia, Nación y la Ciudad",
+      "tituloLimpio": "Planes de alivio para familias endeudadas: qué ayudas ofrecen los bancos Provincia, Nación y la Ciudad",
+      "resumen": "También Córdoba y Santa Fe impulsan medidas para reducir la morosidad, que ya llega a 12,1% a nivel país.",
+      "porQueImporta": "Como residente en Argentina, es útil conocer las iniciativas de los bancos públicos para aliviar el endeudamiento, ya que pueden afectar el panorama económico general y las políticas financieras.",
+      "publicadoEn": "2026-06-20T16:11:01.000Z",
+      "imagen": "https://www.clarin.com/img/2025/12/16/OpIssagF5_1200x630__1.jpg",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
+        "Argentina",
+        "economía",
         "finanzas",
-        "criptomonedas",
-        "ethereum",
-        "inversiones"
+        "bancos"
       ],
       "tambienVistoEn": []
     },
@@ -393,20 +412,41 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/06/20/aranceles-e-impuestos-por-que-el-precio-de-un-auto-importado-se-duplica-ni-bien-desembarca-en-argentina/",
-      "tituloOriginal": "Aranceles e impuestos: por que el precio de un auto importado se duplica ni bien desembarca en Argentina",
-      "tituloLimpio": "Aranceles e impuestos: por qué el precio de un auto importado se duplica al desembarcar en Argentina",
-      "resumen": "A pesar del cupo de híbridos y eléctricos, y de los acuerdos con la Unión Europea y con Estados Unidos, hay países con los que Argentina no tiene exenciones arancelarias.",
-      "porQueImporta": "Esta noticia explica un factor clave de la economía argentina que afecta directamente el costo de vida y el acceso a bienes importados. Es relevante para entender el contexto económico local.",
-      "publicadoEn": "2026-06-20T12:53:25.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/PXTI4WZQTZCDTBFMQFBJ6PRKWE.jpg?auth=9ea5939f64f13400d857a9bfb32ef2ac018d6209d88bf70c1870fb722f09fee9&smart=true&width=1456&height=816",
-      "globalScore": 100,
+      "url": "https://www.infobae.com/economia/2026/06/20/el-impresionante-aumento-en-dolares-y-el-cambio-de-anatomia-del-merval-en-lo-que-va-del-gobierno-de-milei/",
+      "tituloOriginal": "El impresionante aumento en dólares y el cambio de anatomía del Merval en lo que va del gobierno de Milei",
+      "tituloLimpio": "El impresionante aumento en dólares y el cambio de anatomía del Merval en lo que va del gobierno de Milei",
+      "resumen": "Subió más que índices regionales o globales y superó incluso el desempeño de las firmas big tech de Wall Street. Además, cambió de forma: explotó la incidencia de los sectores financiero y energético y se desplomó la de los productores de bienes",
+      "porQueImporta": "Esta es una noticia crucial para tus inversiones en Argentina. El desempeño del Merval y los cambios en su composición son indicadores importantes para evaluar oportunidades y riesgos en el mercado local.",
+      "publicadoEn": "2026-06-20T17:27:38.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/QETO7W2PVZBZNETVRIWDD3LETY.PNG?auth=aa704813ed95ca9553924eb83c9c3ae571e936af1a0866ecd1fb13c0fc95f742&smart=true&width=371&height=202",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "economía",
-        "impuestos",
-        "importaciones"
+        "Argentina",
+        "finanzas",
+        "Merval",
+        "inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/06/20/polemica-en-tucuman-por-un-proyecto-que-busca-eliminar-de-forma-expres-calumnias-en-redes-y-diarios-digitales/",
+      "tituloOriginal": "Polémica en Tucumán por un proyecto que busca eliminar de forma exprés calumnias en redes y diarios digitales",
+      "tituloLimpio": "Polémica en Tucumán por un proyecto que busca eliminar de forma exprés calumnias en redes y diarios digitales",
+      "resumen": "La propuesta, impulsada por el legislador peronista Vargas Aignasse, cuenta con dictamen favorable. La Libertad Avanza repudió el proyecto por afectar la libertad de expresión. El gobernador Jaldo anticipó que lo vetará si fuera aprobado",
+      "porQueImporta": "Aunque el gobernador planea vetarlo, este tipo de proyectos son importantes de seguir en Argentina, ya que pueden sentar precedentes sobre la libertad de expresión y el manejo de la información en plataformas digitales, algo relevante para el marketing y la comunicación.",
+      "publicadoEn": "2026-06-20T17:46:14.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/IT6PHHIX4ZEUDIMLSKXDLBFCOE.jpg?auth=bb674797ce24ad0c18f5ade187d8f6d710b03a47e462ccbee90e0dd4ece4dd1a&smart=true&width=1920&height=1080",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "política",
+        "redes sociales",
+        "libertad de expresión"
       ],
       "tambienVistoEn": []
     },
@@ -414,26 +454,26 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/campo/ganaderia/estiman-que-los-altos-precios-ganaderos-duraran-varios-anos-nid20062026/",
-      "tituloOriginal": "Un reconocido experto estima que los altos precios ganaderos durarán varios años",
-      "tituloLimpio": "Un experto estima que los altos precios ganaderos durarán varios años",
-      "resumen": "Para el experto Víctor Tonelli, el crecimiento de la demanda de carne vacuna a nivel global está llevando a la liquidación de los stocks para abastecerla.",
-      "porQueImporta": "Esta noticia ofrece una perspectiva sobre la economía real y la inflación en Argentina, ya que los precios de la carne son un componente importante de la canasta básica. Relevante para el contexto económico general.",
-      "publicadoEn": "2026-06-20T13:46:55.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/2X5WOND4ZRDINBK6B3JBSNPZA4.jpg?auth=2a11879855ec7d0aacd502bf05cb0dfedd047400ab34c9f78ff616653ce3fe40&smart=true&width=2000&height=1333",
-      "globalScore": 94,
+      "url": "https://www.lanacion.com.ar/economia/campo/la-vuelta-al-campo-que-termino-en-una-pyme-quesera-que-reescribe-una-historia-familiar-nid20062026/",
+      "tituloOriginal": "La vuelta al campo que terminó en una pyme quesera que reescribe una historia familiar",
+      "tituloLimpio": "La vuelta al campo que terminó en una pyme quesera que reescribe una historia familiar",
+      "resumen": "María Alejandra Espinosa tomó la posta del establecimiento fundado por su abuelo, aumentó la producción y sumó una fábrica de quesos artesanales en el partido bonaerense de Brandsen",
+      "porQueImporta": "Esta historia de emprendimiento y crecimiento de una pyme en Argentina es un ejemplo de negocio local y puede ser inspiradora para entender dinámicas de mercado y desarrollo de productos.",
+      "publicadoEn": "2026-06-20T14:20:06.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/6ZWCSIFFEBBAFIQY5X45G2CQMI.png?auth=e5bfba608f79809befe09dbd22806cdfb3f2fa800e30f11921ab3d5049c77adc&smart=true&width=772&height=574",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "economía",
-        "precios",
-        "ganadería"
+        "Argentina",
+        "negocios",
+        "emprendimiento",
+        "pyme"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-06-20T14:10:43.756Z"
+    "generadoEn": "2026-06-20T18:11:48.169Z"
   }
 }
