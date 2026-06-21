@@ -1,13 +1,13 @@
 {
   "fecha": "2026-06-21",
-  "generadoEn": "2026-06-21T14:18:14.951Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "Esta semana, Apple presentó cinco nuevas apps, incluyendo una reconstrucción de Siri con IA. En el ámbito de la inteligencia artificial, Google mostró avances en IA médica, mientras que una startup afirma haber resuelto un cuello de botella en los LLMs. En Argentina, el petróleo superó al maíz y la soja como principal producto de exportación en mayo, y se debate sobre cómo conectar el auge de la minería con la economía local. También hubo noticias sobre la expansión de Uber Advertising y alertas sobre la naturaleza de los chatbots de IA.",
+  "generadoEn": "2026-06-21T18:20:39.882Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "El mercado bursátil subió por un acuerdo de paz entre EE.UU. e Irán, impulsando a los semiconductores. En Argentina, el petróleo superó al maíz y la soja como principal exportación en mayo, y se espera que el Mundial 2026 impulse el consumo. En tecnología, Google presentó una IA médica que iguala a médicos de atención primaria, y una startup afirma haber resuelto un cuello de botella en LLMs. Apple podría revalorizar su equipo de diseño con un nuevo CEO, mientras que Android 17 mejora la migración de datos desde iPhone. Se reportó una gran IPO de SpaceX, y se discute el impacto de posibles regulaciones de EE.UU. sobre Anthropic.",
   "radarPersonal": [
     {
-      "id": "google-ai-blog-aHR0cHM6Ly9ibG9n.md",
-      "titulo": "Investigación de Google muestra cómo su IA médica AMIE podría ayudar a manejar condiciones de salud",
-      "resumen": "Una investigación publicada en 'Nature' indica que el sistema de IA conversacional de Google iguala a médicos de atención primaria en el manejo de enfermedades complejas.",
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Investigación muestra que la IA médica de Google podría ayudar a manejar condiciones de salud",
+      "resumen": "Una investigación publicada en “Nature” indica que el sistema conversacional de IA de Google iguala a médicos de atención primaria en el manejo de enfermedades complejas.",
       "categoria": "AI",
       "fuentes": [
         "Google AI Blog"
@@ -23,48 +23,45 @@
       ]
     },
     {
-      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "Apple presentó cinco nuevas aplicaciones la semana pasada",
-      "resumen": "Apple presentó cinco nuevas aplicaciones la semana pasada, incluyendo una reconstrucción de Siri con IA, anunciada en la WWDC 2026 junto con sus próximas actualizaciones de software.",
-      "categoria": "Apple",
-      "fuentes": [
-        "MacRumors"
-      ],
-      "urls": [
-        "https://www.macrumors.com/2026/06/20/apple-unveiled-these-five-new-apps/"
-      ],
-      "score": 100,
-      "tags": [
-        "Apple",
-        "apps",
-        "WWDC",
-        "Siri",
-        "IA"
-      ]
-    },
-    {
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "Guillermo Oliveto: \"Cómo llega el litio de Catamarca al Conurbano es una respuesta de modelo de país que aún no está\"",
-      "resumen": "El especialista en consumo destaca la oportunidad histórica del nuevo modelo económico, pero advierte sobre el desafío de extender sus beneficios al resto de la economía, planteando cómo conectar el auge de la minería y la energía con la realidad productiva y social del país.",
+      "titulo": "Efecto Mundial 2026: hinchas argentinos con mayor intención de gasto podrían impulsar el consumo",
+      "resumen": "Un informe revela que Argentina es uno de los países con más seguidores de la Copa del Mundo, y quienes siguen el torneo muestran mayor predisposición a gastar en viajes, tecnología, autos, inversiones y mejoras para el hogar en los próximos meses.",
       "categoria": "Argentina",
       "fuentes": [
         "Ambito"
       ],
       "urls": [
-        "https://www.ambito.com/economia/guillermo-oliveto-como-llega-el-litio-catamarca-al-conurbano-es-una-respuesta-modelo-pais-que-aun-no-esta-n6291033"
+        "https://www.ambito.com/economia/efecto-mundial-2026-los-hinchas-argentinos-tienen-mayor-intencion-gasto-y-podrian-impulsar-el-consumo-distintos-sectores-n6291167"
       ],
       "score": 100,
       "tags": [
         "Argentina",
-        "economía",
-        "litio",
-        "minería"
+        "consumo",
+        "Mundial"
+      ]
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "titulo": "El petróleo superó al maíz y la soja como principal exportación de Argentina en mayo",
+      "resumen": "Según la balanza comercial del Indec, el petróleo fue el producto más exportado por Argentina en mayo, influenciado por la suba de precios debido a la guerra en Medio Oriente.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Clarin Economia"
+      ],
+      "urls": [
+        "https://www.clarin.com/economia/cambio-epoca-petroleo-gana-maiz-soja-producto-exporta-argentina_0_kVp7rM6w7V.html"
+      ],
+      "score": 100,
+      "tags": [
+        "Argentina",
+        "exportaciones",
+        "economía"
       ]
     },
     {
       "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
       "titulo": "Una startup afirma haber resuelto un cuello de botella que frena a los LLMs",
-      "resumen": "Una startup de IA con sede en Miami anunció que resolvió un cuello de botella matemático que había estado frenando a los grandes modelos de lenguaje (LLMs) durante casi una década.",
+      "resumen": "La startup Subquadratic, con sede en Miami, anunció que resolvió un cuello de botella matemático que ha estado frenando a los grandes modelos de lenguaje durante casi una década.",
       "categoria": "AI",
       "fuentes": [
         "MIT Technology Review AI"
@@ -76,108 +73,75 @@
       "tags": [
         "IA",
         "LLMs",
-        "innovación",
-        "startup"
+        "innovación"
       ]
     },
     {
-      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
-      "titulo": "Cambio de época: el petróleo le gana al maíz y la soja, y es el producto que más exporta la Argentina",
-      "resumen": "En mayo, según la balanza comercial informada por el Indec, el petróleo superó al maíz y la soja como el producto más exportado por Argentina, influenciado por la suba de precios debido a la guerra en Medio Oriente.",
-      "categoria": "Argentina",
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "titulo": "John Ternus reestablecería la importancia del equipo de diseño de Apple como CEO",
+      "resumen": "Un informe de Bloomberg indica que John Ternus, al asumir como CEO, buscaría reestablecer la influencia del equipo de diseño de Apple, que disminuyó en los últimos diez años.",
+      "categoria": "Apple",
       "fuentes": [
-        "Clarin Economia"
+        "9to5Mac"
       ],
       "urls": [
-        "https://www.clarin.com/economia/cambio-epoca-petroleo-gana-maiz-soja-producto-exporta-argentina_0_kVp7rM6w7V.html"
+        "https://9to5mac.com/2026/06/21/john-ternus-apple-design-team-influence/"
       ],
       "score": 100,
       "tags": [
-        "Argentina",
-        "economía",
-        "exportaciones",
-        "petróleo"
+        "Apple",
+        "diseño",
+        "liderazgo"
       ]
     }
   ],
   "loImportante": [
-    "Apple lanzó cinco nuevas apps, incluyendo una versión renovada de Siri con IA, marcando un avance significativo en su ecosistema.",
-    "Investigaciones de Google sugieren que su IA médica, AMIE, puede igualar a médicos en el manejo de enfermedades complejas, abriendo puertas a nuevas herramientas de salud.",
-    "El petróleo se convirtió en el principal producto de exportación de Argentina en mayo, superando a la soja y el maíz, reflejando cambios en la balanza comercial.",
-    "Una startup de IA afirma haber resuelto un cuello de botella en los LLMs, lo que podría acelerar el desarrollo de modelos de lenguaje más avanzados.",
-    "Se advierte sobre la naturaleza de los chatbots de IA, recordando que no son seres conscientes, un punto clave para la interacción y expectativas con estas tecnologías."
+    "Un acuerdo de paz entre EE.UU. e Irán impulsó los mercados bursátiles, beneficiando a los semiconductores.",
+    "El petróleo se convirtió en la principal exportación de Argentina en mayo, superando al maíz y la soja.",
+    "La IA médica de Google demostró ser tan efectiva como médicos de atención primaria en el manejo de enfermedades complejas.",
+    "Una startup afirma haber resuelto un problema matemático que limita el desarrollo de los grandes modelos de lenguaje (LLMs).",
+    "El Mundial 2026 podría generar un aumento significativo en el gasto de los argentinos en varios sectores, incluyendo tecnología e inversiones."
   ],
   "oportunidades": [
     {
-      "id": "google-ai-blog-aHR0cHM6Ly9ibG9n.md",
-      "categoria": "AI",
-      "titulo": "IA médica de Google iguala a médicos en manejo de enfermedades",
-      "detalle": "La investigación de Google en 'Nature' muestra que su IA conversacional AMIE puede igualar a médicos de atención primaria en el manejo de enfermedades complejas. Esto podría abrir nuevas vías para herramientas de diagnóstico y asistencia médica basadas en IA.",
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Investing",
+      "titulo": "Potencial de inversión en sectores impulsados por el Mundial 2026 en Argentina",
+      "detalle": "El informe sobre la intención de gasto de los hinchas argentinos para el Mundial 2026 sugiere oportunidades en viajes, tecnología, autos, inversiones y mejoras para el hogar.",
       "acciones": [
-        "Explorar posibles aplicaciones de IA en el sector salud o en la automatización de procesos complejos que requieran análisis de información similar.",
-        "Monitorear el desarrollo de AMIE para entender cómo se integra la IA conversacional en campos especializados."
+        "Investigar ETFs o empresas relacionadas con turismo, tecnología y consumo en Argentina.",
+        "Considerar inversiones en bienes raíces o mejoras del hogar si el informe se traduce en demanda real."
       ]
     },
     {
-      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "categoria": "Productivity",
-      "titulo": "Apple presenta cinco nuevas apps, incluyendo una Siri renovada con IA",
-      "detalle": "Apple lanzó cinco nuevas aplicaciones, destacando una reconstrucción de Siri con IA. Esto indica una fuerte inversión de Apple en la integración de IA en sus productos y servicios, lo que podría mejorar la productividad y la experiencia del usuario.",
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Automation",
+      "titulo": "Warner Bros. Discovery integra IA agéntica en su tecnología publicitaria",
+      "detalle": "La adopción de automatización basada en agentes busca unificar la TV lineal y digital, manteniendo flexibilidad para los anunciantes. Esto muestra una tendencia hacia la automatización avanzada en marketing.",
       "acciones": [
-        "Investigar las nuevas funcionalidades de Siri con IA para ver cómo pueden integrarse en flujos de trabajo de automatización o mejorar la interacción con dispositivos Apple.",
-        "Evaluar el impacto de estas nuevas apps en el ecosistema de Apple y en las oportunidades para desarrolladores o usuarios avanzados."
-      ]
-    },
-    {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "categoria": "AI",
-      "titulo": "Startup afirma haber resuelto cuello de botella en LLMs",
-      "detalle": "Una startup de IA anunció que resolvió un cuello de botella matemático que había frenado a los grandes modelos de lenguaje (LLMs) durante casi una década. Si esto se confirma, podría significar un avance significativo en la capacidad y eficiencia de los LLMs.",
-      "acciones": [
-        "Seguir de cerca los desarrollos de esta startup y la validación de su tecnología, ya que podría impactar directamente en el rendimiento y costo de las herramientas de IA que utiliza Guido.",
-        "Considerar cómo una mejora en los LLMs podría abrir nuevas posibilidades en la creación de contenido, retoque fotográfico asistido por IA o automatización de tareas."
+        "Explorar herramientas de IA agéntica para automatización de tareas en marketing y retoque fotográfico.",
+        "Analizar cómo esta integración podría influir en futuras estrategias de marketing digital y publicidad."
       ]
     }
   ],
   "riesgos": [
     {
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "categoria": "AI",
-      "titulo": "Meredith Whittaker de Signal advierte que los chatbots de IA 'no son tus amigos'",
-      "detalle": "Meredith Whittaker de Signal enfatiza que los chatbots de IA no son seres conscientes ni interlocutores sensibles. Esta advertencia subraya la importancia de mantener expectativas realistas sobre la IA y evitar la antropomorfización de estas herramientas.",
-      "mitigacion": "Mantener una perspectiva crítica y realista sobre las capacidades de la IA. No depender de los chatbots para tareas que requieran juicio humano, empatía o confidencialidad absoluta. Educarse sobre las limitaciones de la IA para evitar malentendidos o usos inapropiados."
+      "categoria": "Regulatory",
+      "titulo": "Posible regulación de EE.UU. sobre Anthropic y su impacto en el ecosistema de IA",
+      "detalle": "La administración Trump podría tomar medidas contra Anthropic, lo que podría afectar el panorama de la IA y la competencia en el sector.",
+      "mitigacion": "Monitorear de cerca las noticias sobre regulaciones de IA en EE.UU. y su posible impacto en el desarrollo y uso de modelos de IA. Diversificar el uso de herramientas de IA para no depender de un único proveedor."
     },
     {
       "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Market",
-      "titulo": "Bot de Ethereum pierde $7.5 millones en un exploit",
-      "detalle": "El bot 'sandwich' más grande de Ethereum fue drenado de $7.5 millones en un exploit, donde un atacante engañó al bot para que aprobara rutas de trading falsas y luego drenó sus fondos. Esto resalta la vulnerabilidad de los sistemas automatizados en el espacio cripto.",
-      "mitigacion": "Ser extremadamente cauteloso con la automatización de inversiones en criptomonedas. Investigar a fondo la seguridad de cualquier bot o plataforma antes de delegar fondos. Diversificar las inversiones y no concentrar grandes sumas en sistemas automatizados de alto riesgo."
+      "titulo": "Explotación de bot de Ethereum por $7.5 millones",
+      "detalle": "El bot 'sandwich' más grande de Ethereum fue drenado de $7.5 millones debido a un exploit donde un atacante engañó al bot para que aprobara rutas de trading falsas.",
+      "mitigacion": "Ser extremadamente cauteloso con la interacción con contratos inteligentes y bots en el espacio cripto. Investigar a fondo la seguridad de cualquier herramienta o plataforma antes de invertir o delegar fondos."
     }
   ],
   "conexiones": [],
   "noticias": [
-    {
-      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "categoria": "Apple",
-      "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/20/apple-unveiled-these-five-new-apps/",
-      "tituloOriginal": "Apple Unveiled These Five New Apps Last Week",
-      "tituloLimpio": "Apple presentó cinco nuevas aplicaciones la semana pasada",
-      "resumen": "Apple presentó cinco nuevas aplicaciones la semana pasada, incluyendo una reconstrucción de Siri con IA, anunciada en la WWDC 2026 junto con sus próximas actualizaciones de software.",
-      "porQueImporta": "Es una noticia clave para los usuarios de Apple, ya que indica nuevas funcionalidades y una mayor integración de la IA en el ecosistema de la marca.",
-      "publicadoEn": "2026-06-20T15:00:00.000Z",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "Apple",
-        "apps",
-        "WWDC",
-        "Siri",
-        "IA"
-      ],
-      "tambienVistoEn": []
-    },
     {
       "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
       "categoria": "Finance",
@@ -185,77 +149,16 @@
       "url": "https://sherwood.news/markets/market-wrap-2026-06-18-sp500-qqq/",
       "tituloOriginal": "Stock climb on US-Iran peace deal; semiconductors rally",
       "tituloLimpio": "Las acciones suben por acuerdo de paz entre EE.UU. e Irán; los semiconductores repuntan",
-      "resumen": "El presidente Trump y el presidente iraní Masoud Pezeshkian firmaron un memorándum de entendimiento para poner fin a la guerra.",
-      "porQueImporta": "Un acuerdo de paz entre estas potencias tiene un impacto global en los mercados, lo que es relevante para las inversiones.",
+      "resumen": "El mercado bursátil subió esta mañana tras la firma de un memorándum de entendimiento entre los presidentes Trump y Pezeshkian de Irán, buscando poner fin a la guerra.",
+      "porQueImporta": "Un acuerdo de paz entre potencias globales puede estabilizar los mercados y generar un repunte en sectores clave como los semiconductores, relevantes para la tecnología y la IA.",
       "publicadoEn": "2026-06-18T20:03:41.000Z",
       "imagen": "https://sherwoodnews.imgix.net/GettyImages-1251872654.jpg",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "finanzas",
-        "mercados",
-        "política_global"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "categoria": "Argentina",
-      "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/guillermo-oliveto-como-llega-el-litio-catamarca-al-conurbano-es-una-respuesta-modelo-pais-que-aun-no-esta-n6291033",
-      "tituloOriginal": "Guillermo Oliveto: \"Cómo llega el litio de Catamarca al Conurbano es una respuesta de modelo de país que aún no está\"",
-      "tituloLimpio": "Guillermo Oliveto: \"Cómo llega el litio de Catamarca al Conurbano es una respuesta de modelo de país que aún no está\"",
-      "resumen": "El especialista en consumo destaca la oportunidad histórica que abre el nuevo modelo económico, pero advierte que el desafío será extender sus beneficios al resto de la economía.",
-      "porQueImporta": "Es una reflexión importante sobre el desarrollo económico de Argentina y la integración de recursos naturales en la economía local.",
-      "publicadoEn": "2026-06-21T12:28:00.000Z",
-      "imagen": "https://media.ambito.com/p/0dfb15a599602d6c655cec4ab0395d68/adjuntos/239/imagenes/043/457/0043457625/1200x675/smart/62ec68b0-3275-47c2-aef9-d7bd123f0697.jpeg",
-      "globalScore": 98,
-      "personalScore": 100,
-      "tags": [
-        "Argentina",
-        "economía",
-        "litio",
-        "desarrollo"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
-      "categoria": "Marketing",
-      "fuente": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/uber-advertising-expands-beyond-owned-apps-in-play-for-more-ad-dollars/823164/",
-      "tituloOriginal": "Uber Advertising expands beyond owned apps in play for more ad dollars",
-      "tituloLimpio": "Uber Advertising se expande más allá de sus propias apps buscando más ingresos publicitarios",
-      "resumen": "Miller Lite tuvo una tasa de clics un 45% más alta con Ride Offers en Journey en comparación con creatividades similares sin oferta.",
-      "porQueImporta": "Muestra una tendencia en marketing digital donde plataformas no tradicionales buscan expandir sus ofertas publicitarias, relevante para estrategias de marketing.",
-      "publicadoEn": "2026-06-18T15:10:00.000Z",
-      "globalScore": 84,
-      "personalScore": 100,
-      "tags": [
-        "marketing",
-        "publicidad",
-        "Uber",
-        "estrategia"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "categoria": "AI",
-      "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
-      "tituloOriginal": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
-      "tituloLimpio": "Meredith Whittaker de Signal quiere que recuerdes que los chatbots de IA 'no son tus amigos'",
-      "resumen": "\"Estos no son tus amigos. No son seres conscientes. No son interlocutores sensibles.\"",
-      "porQueImporta": "Es una advertencia crucial sobre las expectativas y el uso de la IA, fundamental para entender sus limitaciones y evitar malentendidos.",
-      "publicadoEn": "2026-06-20T20:32:29.000Z",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "IA",
-        "ética",
-        "chatbots",
-        "seguridad"
+        "mercado",
+        "política"
       ],
       "tambienVistoEn": []
     },
@@ -265,9 +168,9 @@
       "fuente": "The Verge AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
       "tituloOriginal": "The Atlantic created a searchable database of the music used to train AI",
-      "tituloLimpio": "The Atlantic creó una base de datos de la música usada para entrenar IA",
-      "resumen": "Un reportero de Atlantic descubrió cuatro conjuntos de datos de música usados para entrenar modelos de IA y los hizo públicos y buscables.",
-      "porQueImporta": "Relevante para entender el origen de los datos de entrenamiento de IA y las implicaciones para los creadores de contenido y derechos de autor.",
+      "tituloLimpio": "The Atlantic creó una base de datos de música usada para entrenar IA",
+      "resumen": "Un periodista de The Atlantic descubrió cuatro conjuntos de datos de música usados para entrenar modelos de IA y los hizo públicos y buscables. Dos de estos conjuntos son enormes, con 12 y 9 millones de pistas.",
+      "porQueImporta": "Esto es relevante para artistas y creadores que trabajan con IA, ya que permite entender qué música se usa para entrenar modelos, impactando en derechos de autor y el futuro de la creación musical con IA.",
       "publicadoEn": "2026-06-20T18:46:48.000Z",
       "globalScore": 98,
       "personalScore": 100,
@@ -275,47 +178,7 @@
         "IA",
         "música",
         "datos",
-        "transparencia"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "categoria": "AI",
-      "fuente": "MIT Technology Review AI",
-      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-      "tituloOriginal": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-      "tituloLimpio": "Una startup afirma haber resuelto un cuello de botella que frena a los LLMs",
-      "resumen": "Una startup de IA con sede en Miami anunció que resolvió un cuello de botella matemático que había estado frenando a los grandes modelos de lenguaje (LLMs) durante casi una década.",
-      "porQueImporta": "Si se confirma, podría significar un avance importante en la eficiencia y capacidad de los LLMs, impactando directamente en herramientas de IA.",
-      "publicadoEn": "2026-06-19T10:40:24.000Z",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "IA",
-        "LLMs",
-        "innovación",
-        "tecnología"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
-      "categoria": "Apple",
-      "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/20/apple-work-the-era-of-legacy-mdm-is-over-and-declarative-management-is-the-new-standard/",
-      "tituloOriginal": "Apple @ Work: The era of legacy MDM is over, and declarative management is the new standard",
-      "tituloLimpio": "Apple @ Work: La era del MDM legado terminó, y la gestión declarativa es el nuevo estándar",
-      "resumen": "Apple @ Work es presentado por Mosyle, la única plataforma unificada de Apple. Mosyle es la única solución que integra en una única plataforma profesional todas las soluciones necesarias para implementar, gestionar y proteger dispositivos Apple en el trabajo.",
-      "porQueImporta": "Indica un cambio en la gestión de dispositivos Apple en entornos empresariales, relevante para quienes administran equipos o buscan automatización.",
-      "publicadoEn": "2026-06-20T19:46:08.000Z",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "Apple",
-        "gestión",
-        "automatización",
-        "empresas"
+        "arte"
       ],
       "tambienVistoEn": []
     },
@@ -323,62 +186,58 @@
       "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
       "categoria": "Finance",
       "fuente": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/1-gain-spacex-stock-adds-124500506.html",
-      "tituloOriginal": "Each $1 gain in SpaceX stock adds $4.76B to Elon Musk’s net worth. Here’s what $1K, $7K or $15K invested could earn you",
-      "tituloLimpio": "Cada $1 de ganancia en acciones de SpaceX suma $4.76B a la fortuna de Elon Musk",
-      "resumen": "No se proporcionó resumen adicional.",
-      "porQueImporta": "Muestra el impacto de las valoraciones de empresas privadas de alto perfil en la riqueza de sus fundadores, relevante para el análisis de mercados y fortunas.",
-      "publicadoEn": "2026-06-20T12:45:00.000Z",
-      "imagen": "https://media.zenfs.com/en/moneywise_ecomm_711/dd3f905db7add86e32238f65bc5f5def",
-      "globalScore": 86,
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-just-had-biggest-ipo-180400880.html",
+      "tituloOriginal": "SpaceX Just Had the Biggest IPO in History. Here's What It Tells Investors About Buying Anthropic and OpenAI When They Go Public.",
+      "tituloLimpio": "SpaceX tuvo la IPO más grande de la historia",
+      "resumen": "SpaceX realizó la Oferta Pública Inicial más grande de la historia.",
+      "porQueImporta": "Este evento es un indicador del interés y la valoración de empresas tecnológicas innovadoras, y puede ofrecer lecciones para futuras IPO de compañías de IA como Anthropic y OpenAI.",
+      "publicadoEn": "2026-06-21T18:04:00.000Z",
+      "imagen": "https://media.zenfs.com/en/motleyfool.com/fc223303567e2d8a58b62bdfd0ec3aac",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "finanzas",
         "inversión",
-        "SpaceX",
-        "Elon_Musk"
+        "tecnología"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
       "categoria": "Finance",
-      "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/06/21/ethereum-s-biggest-sandwich-bot-drained-of-usd7-5-million-in-ironic-exploit",
-      "tituloOriginal": "Ethereum's biggest 'sandwich' bot drained of $7.5 million in ironic exploit",
-      "tituloLimpio": "El bot 'sandwich' más grande de Ethereum pierde $7.5 millones en un exploit",
-      "resumen": "Blockaid dijo que un atacante engañó a Jaredfromsubway.eth para que aprobara rutas de trading falsas, y luego usó esas aprobaciones para drenar WETH, USDC y USDT.",
-      "porQueImporta": "Destaca los riesgos de seguridad en el mundo de las criptomonedas y la automatización, importante para quienes invierten o consideran invertir en este sector.",
-      "publicadoEn": "2026-06-21T07:12:35.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/c97bd815dbaa4d0c149b3c9a15cc76b83b6dab51-720x406.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "globalScore": 96,
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-tipped-for-66k-top-as-trader-flags-suspicious-btc-price-gains?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "tituloOriginal": "Bitcoin tipped for $66K top as trader flags 'suspicious' BTC price gains",
+      "tituloLimpio": "Bitcoin apunta a los $66K mientras un trader señala ganancias 'sospechosas'",
+      "resumen": "Bitcoin intentó recuperar los $64,000 a pesar de un resurgimiento parcial de la guerra entre EE.UU. e Irán y la presión de los vendedores en Binance.",
+      "porQueImporta": "Para inversores en criptomonedas, es clave seguir las tendencias de Bitcoin y las señales de los traders, especialmente en un contexto de eventos geopolíticos y movimientos del mercado.",
+      "publicadoEn": "2026-06-21T14:50:55.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-read-crypto-charts-bitcoin-2.jpg",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "finanzas",
         "criptomonedas",
-        "seguridad",
-        "exploit"
+        "Bitcoin"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
-      "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/cambio-epoca-petroleo-gana-maiz-soja-producto-exporta-argentina_0_kVp7rM6w7V.html",
-      "tituloOriginal": "Cambio de época: el petróleo le gana al maíz y la soja, y es el producto que más exporta la Argentina",
-      "tituloLimpio": "Cambio de época: el petróleo le gana al maíz y la soja, y es el producto que más exporta la Argentina",
-      "resumen": "En mayo, según la balanza comercial informada por el Indec, el petróleo superó al maíz y la soja como el producto más exportado por Argentina, influenciado por la suba de precios debido a la guerra en Medio Oriente.",
-      "porQueImporta": "Es una noticia económica fundamental para Argentina, que muestra un cambio en la matriz exportadora y sus causas.",
-      "publicadoEn": "2026-06-21T10:31:31.000Z",
-      "imagen": "https://www.clarin.com/img/2025/12/19/URZUFLD5o_1200x630__1.jpg",
-      "globalScore": 100,
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/emboscada-rosada-adorni-cito-senadores-libertad-avanza-dudan-ir_0_ex0xNAnhMV.html",
+      "tituloOriginal": "¿Emboscada en la Rosada? Adorni cito a los senadores de La Libertad Avanza, pero algunos dudan de ir",
+      "tituloLimpio": "Adorni citó a senadores de La Libertad Avanza, pero algunos dudan de ir",
+      "resumen": "En medio de una investigación judicial y pedidos de interpelación, un funcionario activa una estrategia de resistencia. La trastienda de una cita clave divide aguas en el espacio.",
+      "porQueImporta": "Refleja la dinámica política actual en Argentina, con implicaciones para la gobernabilidad y la implementación de políticas que pueden afectar la economía y los negocios.",
+      "publicadoEn": "2026-06-21T17:26:04.000Z",
+      "imagen": "https://www.clarin.com/img/2026/06/21/JFAtEKXLg_1200x630__1.jpg",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "economía",
-        "exportaciones",
-        "petróleo"
+        "política"
       ],
       "tambienVistoEn": []
     },
@@ -386,21 +245,39 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/06/21/expansion-fraude-y-pesca-ilegal-como-hizo-china-para-aduenarse-de-la-pesca-del-calamar-dentro-del-mar-argentino/",
-      "tituloOriginal": "Expansión, fraude y pesca ilegal: cómo hizo China para adueñarse del calamar dentro del Mar Argentino",
-      "tituloLimpio": "Expansión, fraude y pesca ilegal: cómo hizo China para adueñarse del calamar dentro del Mar Argentino",
-      "resumen": "Una investigación precisa que más del 63% de la flota dedicada a la especie opera en la ZEE y está controlada por empresas de origen chino, algunas con antecedentes de captura ilegal.",
-      "porQueImporta": "Revela un problema significativo de soberanía y recursos naturales en Argentina, con implicaciones económicas y geopolíticas.",
-      "publicadoEn": "2026-06-21T13:15:52.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/DGMERSCHWZAU5HU2MRTVBEQBKY.jpg?auth=988664ecc3c7d78bcb17b7da40d0dc0345babf8a988b8a43ff532e8c6f0ea87c&smart=true&width=1920&height=1080",
-      "globalScore": 90,
+      "url": "https://www.infobae.com/economia/2026/06/21/la-lista-completa-de-privatizaciones-que-empresas-siguen-en-la-mira-oficial-y-cuanto-espera-recaudar-el-gobierno-antes-de-fin-de-ano/",
+      "tituloOriginal": "La lista completa de privatizaciones: qué empresas siguen en la mira oficial y cuánto espera recaudar el Gobierno antes de fin de año",
+      "tituloLimpio": "La lista completa de privatizaciones: qué empresas siguen en la mira oficial y cuánto espera recaudar el Gobierno",
+      "resumen": "AySA, Belgrano Cargas, Corredores Viales, Enarsa, YCRT y NASA integran la nómina a transferir al sector privado. El Ejecutivo ya recaudó USD 1.081 millones y busca duplicar o triplicar esa cifra antes de diciembre.",
+      "porQueImporta": "Las privatizaciones en Argentina pueden generar oportunidades de inversión y cambios en la estructura de servicios públicos, afectando a la economía y a los ciudadanos.",
+      "publicadoEn": "2026-06-21T18:11:49.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/ZEYQYRQS7ZCDDKOMKIX2Q5IASI.JPG?auth=4f53d91fd640a43d7496318f32bc40bd86b1aa3d9419d4fec6b6f298d7742d80&smart=true&width=5500&height=3207",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
         "economía",
-        "pesca",
-        "China",
-        "fraude"
+        "privatizaciones",
+        "inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/06/21/juan-manuel-olmos-si-nos-organizamos-y-hacemos-una-competencia-de-ideas-y-de-programas-en-el-27-vuelve-a-ganar-el-peronismo/",
+      "tituloOriginal": "Juan Manuel Olmos: “Si nos organizamos y hacemos una competencia de ideas y de programas, en el ’27 vuelve a ganar el peronismo”",
+      "tituloLimpio": "Juan Manuel Olmos: “Si nos organizamos y hacemos una competencia de ideas y de programas, en el ’27 vuelve a ganar el peronismo”",
+      "resumen": "El presidente de la Auditoría General de la Nación y dirigente del PJ afirmó que sería un “error” ignorar el peso de la figura política de Cristina Fernández de Kirchner, pero que esto no debe cerrar definiciones sobre ideas y estrategia. Sostuvo que el espacio necesita recuperar confianza social con una agenda concreta.",
+      "porQueImporta": "Ofrece una perspectiva sobre el futuro político de Argentina y las estrategias de los partidos, lo cual es relevante para entender el contexto económico y social del país.",
+      "publicadoEn": "2026-06-21T18:16:16.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/5W2FUJI26JDSTF4D7SAL7YEXEA.png?auth=9f63b158a3a9d7d61d861ac99643d34d11d53f90645870c86e543e572c4eb26e&smart=true&width=1536&height=1024",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "política"
       ],
       "tambienVistoEn": []
     },
@@ -408,20 +285,20 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/campo/sorpresa-investigaron-el-uso-del-aserrin-para-que-coman-las-vacas-y-el-resultado-fue-categorico-nid21062026/",
-      "tituloOriginal": "Sorpresa: investigaron el uso del aserrín para que coman las vacas y el resultado fue categórico",
-      "tituloLimpio": "Sorpresa: investigaron el uso del aserrín para que coman las vacas y el resultado fue categórico",
-      "resumen": "Diversos trabajos demuestran que el residuo de pino y álamo puede reemplazar entre un 10% y un 30% de la fibra tradicional en bovinos y ovinos, sin afectar el rendimiento ni la calidad de la producción.",
-      "porQueImporta": "Muestra una innovación en el sector agropecuario con potencial para reducir costos y aprovechar residuos, relevante para la economía y la sostenibilidad.",
-      "publicadoEn": "2026-06-21T13:19:20.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/NETGNJSCSZBWLI5GKRUU42ES4M.jpg?auth=5d03352aa758f17ebdc1d1685921b9512a934ee02da4b0e80eeacabc728e563f&smart=true&width=2000&height=1333",
-      "globalScore": 94,
+      "url": "https://www.lanacion.com.ar/economia/campo/era-poco-para-mantener-a-tres-familias-la-abrupta-decision-que-convirtio-un-tambo-en-otra-cosa-nid21062026/",
+      "tituloOriginal": "“Era poco para mantener a tres familias”: la abrupta decisión que convirtió un tambo en otra cosa",
+      "tituloLimpio": "Un tambo se transformó en otra cosa por ser 'poco para mantener a tres familias'",
+      "resumen": "En Córdoba, la familia Monzoni pasó de un tambo tradicional a un sistema dry lot debido a que la producción anterior no era suficiente para mantener a tres familias.",
+      "porQueImporta": "Ilustra los desafíos económicos y las transformaciones en el sector agropecuario argentino, mostrando cómo la necesidad impulsa la innovación y el cambio en los modelos de negocio rurales.",
+      "publicadoEn": "2026-06-21T17:45:24.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/SR4IP3REDNGV7A5SLJ5QRD2OJM.jpg?auth=3de9451486cf27b6ca1868466abe841124c845a69c8812f17c591fd93fcd8a23&smart=true&width=1920&height=1440",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "innovación",
-        "agro",
-        "sostenibilidad"
+        "economía",
+        "negocios",
+        "campo"
       ],
       "tambienVistoEn": []
     },
@@ -431,24 +308,43 @@
       "fuente": "Adweek",
       "url": "https://www.adweek.com/commerce/7-things-that-hit-this-week-metas-next-stab-at-commerce-new-hires-at-sephora-and-lowes-and-pinterest-goes-deep-on-ai/",
       "tituloOriginal": "7 Things That Hit This Week: Meta’s Next Stab at Commerce, New Hires at Sephora and Lowe’s, and Pinterest Goes Deep on AI",
-      "tituloLimpio": "7 cosas que impactaron esta semana: el próximo intento de Meta en el comercio, nuevas contrataciones en Sephora y Lowe’s, y Pinterest se enfoca en IA",
-      "resumen": "Además, cuánto cuesta patrocinar un 'retail upfront'.",
-      "porQueImporta": "Ofrece un panorama rápido de tendencias en marketing, comercio y el uso de IA en plataformas, útil para mantenerse al día en el sector.",
+      "tituloLimpio": "Meta avanza en comercio, nuevas contrataciones en Sephora y Lowe’s, y Pinterest profundiza en IA",
+      "resumen": "Además, se menciona el costo de patrocinar un 'retail upfront'.",
+      "porQueImporta": "Resume tendencias clave en marketing digital, comercio electrónico y el uso de IA en plataformas, lo cual es relevante para estrategias de marketing y negocios online.",
       "publicadoEn": "2026-06-19T10:25:25.000Z",
       "globalScore": 82,
       "personalScore": 100,
       "tags": [
         "marketing",
-        "Meta",
-        "Pinterest",
         "IA",
-        "comercio"
+        "negocios",
+        "e-commerce"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81Z29v",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5google.com/2026/06/17/android-17-iphone-switching-upgrades/",
+      "tituloOriginal": "Android 17 can copy more data from iPhone including your iMessage history and homescreen",
+      "tituloLimpio": "Android 17 puede copiar más datos de iPhone, incluyendo historial de iMessage y pantalla de inicio",
+      "resumen": "Google está introduciendo una gran mejora en su herramienta “Android Switch” en Android 17, permitiendo copiar más datos que nunca al cambiar de iPhone a Android, incluso más que entre teléfonos Android.",
+      "porQueImporta": "Esta mejora facilita la migración de usuarios de Apple a Android, lo que podría influir en la competencia entre plataformas y en las decisiones de compra de dispositivos.",
+      "publicadoEn": "2026-06-17T13:40:39.000Z",
+      "globalScore": 74,
+      "personalScore": 95,
+      "tags": [
+        "Apple",
+        "Android",
+        "tecnología",
+        "herramientas"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-06-21T14:18:14.951Z"
+    "generadoEn": "2026-06-21T18:20:39.882Z"
   }
 }
