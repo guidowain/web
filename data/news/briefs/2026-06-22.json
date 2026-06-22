@@ -1,13 +1,13 @@
 {
   "fecha": "2026-06-22",
-  "generadoEn": "2026-06-22T17:03:15.905Z",
-  "actualizacion": "14:00",
-  "resumenEjecutivo": "Hoy, la IA médica de Google muestra resultados prometedores en el manejo de enfermedades, mientras que Apple avanza con su dictado por IA en iOS 27 y se rumorea un iPhone plegable. En Argentina, la desocupación en CABA subió al 7,9% y se ajustan las Pensiones no Contributivas. Google invierte en un estudio de cine y forma una alianza de IA, y SpaceX cierra un acuerdo de computación con un laboratorio de IA de código abierto. También se destaca la estrategia de IA de Banco Santander y el debate sobre el liderazgo en la Fundación Ethereum.",
+  "generadoEn": "2026-06-22T20:09:00.088Z",
+  "actualizacion": "manual",
+  "resumenEjecutivo": "Hoy destacamos avances en IA médica de Google y la inversión de Google en el estudio de cine A24 con una alianza en IA. En Apple, se esperan actualizaciones de macOS Tahoe e iOS 26.5.2, y iOS 27 beta 2 trae mejoras en Mensajes y la app Casa. A nivel local, los bonos argentinos suben y el riesgo país baja, mientras que la desocupación muestra una leve baja. También se observa la expansión de SpaceSail, un rival chino de Starlink, y el impacto de la IA en el mercado inmobiliario.",
   "radarPersonal": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "titulo": "Investigación muestra cómo la IA médica de Google podría ayudar a manejar condiciones de salud",
-      "resumen": "Una investigación en 'Nature' indica que el sistema de IA conversacional de Google iguala a médicos de atención primaria en el manejo de enfermedades complejas.",
+      "titulo": "Investigación muestra cómo la IA médica AMIE podría ayudar a manejar condiciones de salud",
+      "resumen": "Una investigación publicada en “Nature” indica que el sistema de IA conversacional de Google iguala a médicos de atención primaria en el manejo de enfermedades complejas.",
       "categoria": "AI",
       "fuentes": [
         "Google AI Blog"
@@ -20,25 +20,6 @@
         "IA",
         "salud",
         "investigación"
-      ]
-    },
-    {
-      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "El dictado avanzado con IA no está activado por defecto en la beta de iOS 27",
-      "resumen": "La función de dictado con IA de próxima generación de Apple para el iPhone 17 Pro y iPhone Air no viene activada por defecto en la primera beta para desarrolladores de iOS 27.",
-      "categoria": "Apple",
-      "fuentes": [
-        "MacRumors"
-      ],
-      "urls": [
-        "https://www.macrumors.com/2026/06/22/advanced-ai-dictation-not-enabled-by-default/"
-      ],
-      "score": 100,
-      "tags": [
-        "Apple",
-        "iOS",
-        "IA",
-        "dictado"
       ]
     },
     {
@@ -61,9 +42,28 @@
       ]
     },
     {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Próximas actualizaciones de macOS Tahoe 26.5.2 e iOS 26.5.2",
+      "resumen": "Apple está trabajando en una actualización de macOS Tahoe 26.5.2 que se espera pronto, junto con iOS 26.5.2.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/06/22/macos-tahoe-26-5-2-coming-soon/"
+      ],
+      "score": 100,
+      "tags": [
+        "Apple",
+        "macOS",
+        "iOS",
+        "actualizaciones"
+      ]
+    },
+    {
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "titulo": "SpaceSail, el rival chino de Starlink, busca expandirse y lanza una nueva ronda de financiación",
-      "resumen": "Los fondos se usarán para la construcción de satélites, investigación y desarrollo, y expansión. La empresa china busca desplegar 15.000 satélites para 2030.",
+      "resumen": "Los fondos se destinarán a la construcción de satélites, I+D y expansión, con el objetivo de desplegar 15.000 satélites para 2030.",
       "categoria": "Argentina",
       "fuentes": [
         "Ambito"
@@ -80,107 +80,81 @@
       ]
     },
     {
-      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
-      "titulo": "AI-first: detalles de la estrategia de Inteligencia Artificial del banco Santander",
-      "resumen": "El responsable global de Datos e IA explicó cómo la entidad bancaria avanza en su esquema, incluyendo el caso local y el avance de la tecnología en el trabajo diario del banco.",
-      "categoria": "AI",
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "titulo": "Los bonos comienzan la semana en alza y el riesgo país toca un nuevo mínimo",
+      "resumen": "El indicador de la banca JP Morgan llega a los 422 puntos, mientras el Merval en dólares baja 3% en línea con las acciones argentinas en Wall Street.",
+      "categoria": "Argentina",
       "fuentes": [
-        "Infobae Economia"
+        "Clarin Economia"
       ],
       "urls": [
-        "https://www.infobae.com/economia/networking/2026/06/22/ai-first-los-detalles-de-la-estrategia-de-inteligencia-artificial-del-banco-santander/"
+        "https://www.clarin.com/economia/luego-guino-caputo-bonos-comienzan-semana-alza-riesgo-pais-toca-nuevo-minimo_0_6Ij3WlwPjM.html"
       ],
       "score": 100,
       "tags": [
-        "IA",
-        "banca",
-        "estrategia",
-        "Argentina"
+        "Argentina",
+        "finanzas",
+        "bonos",
+        "riesgo país"
       ]
     }
   ],
   "loImportante": [
-    "La IA médica de Google muestra un gran potencial para el manejo de enfermedades complejas, igualando a médicos primarios.",
-    "Apple sigue integrando IA en sus sistemas, con el dictado avanzado en iOS 27, y se intensifican los rumores sobre un iPhone plegable.",
-    "Google está diversificando sus inversiones, entrando al sector cinematográfico con una alianza de IA, lo que podría indicar nuevas tendencias en la industria del entretenimiento y la tecnología.",
-    "En Argentina, la desocupación en CABA subió al 7,9%, con un crecimiento de empleos informales y por cuenta propia, reflejando desafíos económicos.",
-    "Grandes empresas como SpaceX y Santander están realizando importantes movimientos en el sector de la IA, ya sea a través de acuerdos de computación o estrategias 'AI-first'."
+    "La IA médica de Google, AMIE, demuestra capacidad para igualar a médicos en manejo de enfermedades complejas.",
+    "Google invierte en el estudio de cine A24 y establece una alianza en IA, marcando su primera incursión en la industria cinematográfica.",
+    "Apple prepara actualizaciones importantes para macOS e iOS, incluyendo mejoras en la app Mensajes y Casa en iOS 27 beta 2.",
+    "SpaceSail, el competidor chino de Starlink, busca expandirse globalmente con una nueva ronda de financiación.",
+    "Los bonos argentinos muestran un alza y el riesgo país alcanza un nuevo mínimo, indicando movimientos en el mercado financiero local."
   ],
   "oportunidades": [
     {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "titulo": "Avances en IA médica con AMIE",
+      "detalle": "La IA conversacional de Google, AMIE, iguala a médicos en el manejo de enfermedades complejas, abriendo puertas a nuevas herramientas de asistencia médica.",
+      "acciones": [
+        "Monitorear el desarrollo de AMIE y su potencial aplicación en herramientas de salud digital.",
+        "Evaluar cómo estas tecnologías pueden impactar el sector de la salud y la automatización de procesos."
+      ]
+    },
+    {
       "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
       "categoria": "Investing",
-      "titulo": "Google invierte en estudio de cine A24 y forma alianza de IA",
-      "detalle": "La inversión de Google en un estudio de cine y su alianza de IA sugieren una convergencia de tecnología y entretenimiento. Podría ser una señal de nuevas oportunidades de inversión en empresas que fusionen estos campos o en startups de IA aplicada a la producción de contenido.",
+      "titulo": "Inversión de Google en A24 y alianza de IA",
+      "detalle": "Google invierte 75 millones de dólares en el estudio de cine A24 y forma una alianza de IA, lo que podría generar nuevas oportunidades en la intersección de la IA y el entretenimiento.",
       "acciones": [
-        "Investigar ETFs o fondos que incluyan empresas de tecnología y entretenimiento.",
-        "Analizar el impacto de la IA en la creación de contenido y las posibles herramientas emergentes."
+        "Investigar el impacto de la IA en la producción y distribución de contenido audiovisual.",
+        "Analizar posibles inversiones en empresas que fusionen IA con industrias creativas."
       ]
     },
     {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "categoria": "AI",
-      "titulo": "SpaceX cierra acuerdo de computación con laboratorio de IA de código abierto",
-      "detalle": "El acuerdo de SpaceX con Reflection AI por el uso de chips Nvidia GB300 destaca la creciente demanda de infraestructura de computación para IA. Esto podría generar oportunidades en el desarrollo de herramientas de automatización y optimización de recursos para proyectos de IA de código abierto.",
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Investing",
+      "titulo": "Expansión de SpaceSail, rival de Starlink",
+      "detalle": "SpaceSail, el competidor chino de Starlink, busca expandirse y lanza una nueva ronda de financiación para desplegar 15.000 satélites para 2030.",
       "acciones": [
-        "Explorar herramientas de automatización para la gestión de recursos de computación en proyectos de IA.",
-        "Considerar la inversión en empresas que proveen infraestructura o servicios de computación para IA."
-      ]
-    },
-    {
-      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
-      "categoria": "AI",
-      "titulo": "Estrategia 'AI-first' del Banco Santander",
-      "detalle": "La estrategia de IA del Banco Santander, con foco en datos y tecnología, muestra la adopción de la IA en el sector financiero en Argentina. Esto puede generar oportunidades para profesionales de IA y automatización, así como para el desarrollo de herramientas financieras basadas en IA.",
-      "acciones": [
-        "Analizar el mercado de herramientas de IA para finanzas y automatización de procesos bancarios.",
-        "Evaluar la demanda de habilidades en IA y datos en el sector financiero local."
+        "Seguir de cerca el mercado de satélites y la competencia en el sector espacial.",
+        "Evaluar oportunidades de inversión en empresas de tecnología espacial o sus proveedores."
       ]
     }
   ],
   "riesgos": [
     {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "titulo": "Consumo de agua de los centros de datos de IA",
+      "detalle": "Nvidia busca reducir el uso de agua en sus centros de datos, pero esto no aborda el problema principal del consumo de agua de la IA, que proviene de las centrales eléctricas de combustibles fósiles.",
+      "mitigacion": "Considerar el impacto ambiental de las tecnologías de IA y buscar soluciones más sostenibles en el largo plazo. Evaluar proveedores de servicios de IA con políticas de sostenibilidad claras."
+    },
+    {
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
-      "titulo": "Riesgos de seguridad en aplicaciones 'vibe-coded'",
-      "detalle": "La noticia sobre una aplicación 'vibe-coded' con un riesgo de inyección SQL oculto subraya los peligros de desarrollar software sin una revisión de seguridad adecuada, especialmente con métodos de desarrollo rápidos o asistidos por IA.",
-      "mitigacion": "Implementar revisiones de seguridad rigurosas y pruebas de penetración en cualquier proyecto de desarrollo, incluso si se utilizan herramientas de IA. Priorizar la seguridad desde el diseño."
-    },
-    {
-      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
-      "categoria": "Market",
-      "titulo": "Aumento de la desocupación y empleos informales en CABA",
-      "detalle": "El aumento de la desocupación al 7,9% en la Ciudad de Buenos Aires y el crecimiento de los empleos por cuenta propia e informales indican una situación económica desafiante y un mercado laboral volátil.",
-      "mitigacion": "Diversificar fuentes de ingresos y habilidades. Mantenerse actualizado sobre tendencias del mercado laboral y buscar oportunidades en sectores resilientes o en crecimiento, como la IA y la automatización."
-    },
-    {
-      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
-      "categoria": "Regulatory",
-      "titulo": "Venture TradFi-crypto sujeto a aprobaciones regulatorias",
-      "detalle": "La formación de una empresa conjunta entre OKX e Intercontinental Exchange en el espacio TradFi-crypto, sujeta a aprobaciones regulatorias, resalta la incertidumbre y la evolución constante del marco legal en el sector de las criptomonedas.",
-      "mitigacion": "Monitorear de cerca los desarrollos regulatorios en el espacio cripto y TradFi. Ser cauteloso con inversiones en proyectos que dependan fuertemente de aprobaciones regulatorias aún pendientes."
+      "titulo": "La IA en el mercado inmobiliario genera expectativas irreales",
+      "detalle": "La IA está creando expectativas de hogares imposibles para los inquilinos, lo que podría llevar a frustración y desconfianza en el mercado inmobiliario.",
+      "mitigacion": "Ser cauteloso con las representaciones generadas por IA en el sector inmobiliario. Verificar la información y las imágenes con fuentes confiables antes de tomar decisiones."
     }
   ],
-  "conexiones": [
-    {
-      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "titulo": "IA médica de Google y estrategia 'AI-first' de Santander",
-      "historias": [
-        "New research shows how AMIE, our medical AI, could help manage health conditions.",
-        "AI-first: los detalles de la estrategia de Inteligencia Artificial del banco Santander"
-      ],
-      "conclusion": "Ambas noticias resaltan la creciente aplicación de la Inteligencia Artificial en sectores clave. Mientras Google avanza en IA médica con AMIE, demostrando su potencial en el manejo de enfermedades, el Banco Santander implementa una estrategia 'AI-first' para transformar sus operaciones. Esto subraya una tendencia global de adopción de IA para mejorar la eficiencia y la calidad de los servicios, tanto en salud como en finanzas."
-    },
-    {
-      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "Avances de IA en Apple y el futuro del iPhone",
-      "historias": [
-        "Advanced AI Dictation Not Enabled by Default in iOS 27 Beta",
-        "Samsung Display milestone moves the iPhone Fold beyond rumor territory"
-      ],
-      "conclusion": "Apple continúa integrando la IA en sus sistemas operativos, como se ve con el dictado avanzado en iOS 27, aunque aún no esté activado por defecto. Paralelamente, los rumores sobre un iPhone plegable se fortalecen con los avances de Samsung Display. Esto sugiere que Apple está preparando innovaciones significativas tanto en software (IA) como en hardware (nuevos formatos de dispositivos) para sus futuros productos."
-    }
-  ],
+  "conexiones": [],
   "noticias": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
@@ -188,9 +162,9 @@
       "fuente": "Google AI Blog",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
       "tituloOriginal": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-      "tituloLimpio": "Investigación muestra cómo la IA médica de Google podría ayudar a manejar condiciones de salud",
-      "resumen": "Una investigación en 'Nature' indica que el sistema de IA conversacional de Google iguala a médicos de atención primaria en el manejo de enfermedades complejas.",
-      "porQueImporta": "Guido, esto es relevante porque muestra el avance de la IA aplicada en un campo crítico como la salud, lo que podría generar nuevas herramientas y oportunidades en el futuro. La capacidad de la IA para igualar a médicos en tareas complejas es un hito importante.",
+      "tituloLimpio": "Investigación muestra cómo la IA médica AMIE podría ayudar a manejar condiciones de salud",
+      "resumen": "Una investigación publicada en “Nature” indica que el sistema de IA conversacional de Google iguala a médicos de atención primaria en el manejo de enfermedades complejas.",
+      "porQueImporta": "Este avance de Google en IA médica podría transformar la gestión de enfermedades, ofreciendo nuevas herramientas de apoyo para profesionales de la salud y pacientes.",
       "publicadoEn": "2026-06-17T15:00:00.000Z",
       "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp",
       "globalScore": 92,
@@ -206,19 +180,19 @@
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Apple",
       "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/22/advanced-ai-dictation-not-enabled-by-default/",
-      "tituloOriginal": "Advanced AI Dictation Not Enabled by Default in iOS 27 Beta",
-      "tituloLimpio": "El dictado avanzado con IA no está activado por defecto en la beta de iOS 27",
-      "resumen": "La función de dictado con IA de próxima generación de Apple para el iPhone 17 Pro y iPhone Air no viene activada por defecto en la primera beta para desarrolladores de iOS 27.",
-      "porQueImporta": "Como usuario de Apple, te interesa saber cómo avanza la IA en iOS. Aunque no esté por defecto, indica que Apple está mejorando significativamente la precisión del dictado con IA, lo que impactará en tu productividad con los dispositivos.",
-      "publicadoEn": "2026-06-22T15:44:05.000Z",
+      "url": "https://www.macrumors.com/2026/06/22/macos-tahoe-26-5-2-coming-soon/",
+      "tituloOriginal": "macOS Tahoe 26.5.2 and iOS 26.5.2 Updates Coming Soon",
+      "tituloLimpio": "Próximas actualizaciones de macOS Tahoe 26.5.2 e iOS 26.5.2",
+      "resumen": "Apple está trabajando en una actualización de macOS Tahoe 26.5.2 que se espera pronto, junto con iOS 26.5.2.",
+      "porQueImporta": "Guido, como usuario de Apple, debe estar atento a estas actualizaciones para mantener sus dispositivos al día y aprovechar las mejoras de seguridad y rendimiento.",
+      "publicadoEn": "2026-06-22T19:58:22.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
+        "macOS",
         "iOS",
-        "IA",
-        "dictado"
+        "actualizaciones"
       ],
       "tambienVistoEn": []
     },
@@ -230,7 +204,7 @@
       "tituloOriginal": "Google invests $75 million in film studio A24, forms AI partnership",
       "tituloLimpio": "Google invierte 75 millones de dólares en el estudio de cine A24 y forma una alianza de IA",
       "resumen": "Esta inversión marca la primera vez que Google adquiere una participación en un estudio de cine.",
-      "porQueImporta": "Esta noticia es clave por dos motivos: la inversión de Google en un sector no tradicional y la formación de una alianza de IA. Esto podría indicar nuevas tendencias en la intersección de la tecnología y el entretenimiento, y cómo la IA se integra en la producción de contenido, algo relevante para tu trabajo en arte con IA.",
+      "porQueImporta": "La incursión de Google en el cine con una alianza de IA es relevante para Guido, quien trabaja con arte e IA, ya que muestra cómo la IA se integra en industrias creativas y abre nuevas vías de negocio.",
       "publicadoEn": "2026-06-22T15:00:28.000Z",
       "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/2278849578_new-york-ny-the-google-logo-and-a-traffic-light-are-seen-on-may-29-2026-in-new-york-ny.jpg",
       "globalScore": 100,
@@ -250,8 +224,8 @@
       "url": "https://www.ambito.com/economia/spacesail-el-rival-chino-starlink-busca-expandirse-y-lanza-una-nueva-ronda-financiacion-n6291509",
       "tituloOriginal": "SpaceSail, el rival chino de Starlink, busca expandirse y lanza una nueva ronda de financiación",
       "tituloLimpio": "SpaceSail, el rival chino de Starlink, busca expandirse y lanza una nueva ronda de financiación",
-      "resumen": "Los fondos se usarán para la construcción de satélites, investigación y desarrollo, y expansión. La empresa china busca desplegar 15.000 satélites para 2030.",
-      "porQueImporta": "Es una noticia relevante para Argentina por la competencia global en el sector de satélites y conectividad. Aunque sea un rival de Starlink, su expansión y financiación global pueden influir en el acceso a servicios de internet satelital en el futuro, incluso en Argentina.",
+      "resumen": "Los fondos se destinarán a la construcción de satélites, I+D y expansión, con el objetivo de desplegar 15.000 satélites para 2030.",
+      "porQueImporta": "La expansión de SpaceSail es una noticia relevante para Argentina, ya que la competencia en el sector de satélites podría impactar los servicios de internet y la infraestructura tecnológica en el país.",
       "publicadoEn": "2026-06-22T16:52:00.000Z",
       "globalScore": 98,
       "personalScore": 100,
@@ -264,22 +238,42 @@
       "tambienVistoEn": []
     },
     {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/target-directv-team-to-track-premium-video-advertisings-sales-impact/823311/",
+      "tituloOriginal": "Target, DirecTV team to track premium video advertising’s sales impact",
+      "tituloLimpio": "Target y DirecTV se asocian para rastrear el impacto de la publicidad en video premium en las ventas",
+      "resumen": "Danone planea probar una nueva solución que usa datos de Roundel e información de audiencia de DirecTV para medir si los anuncios generaron compras en Target.",
+      "porQueImporta": "Esta colaboración es importante para Guido por su interés en marketing, ya que muestra cómo las grandes empresas están utilizando datos y alianzas para medir la efectividad de la publicidad en video.",
+      "publicadoEn": "2026-06-22T15:00:00.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "publicidad",
+        "datos",
+        "medición"
+      ],
+      "tambienVistoEn": []
+    },
+    {
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
-      "tituloOriginal": "SpaceX inks compute deal with Reflection AI, an open-source AI lab",
-      "tituloLimpio": "SpaceX cierra acuerdo de computación con Reflection AI, un laboratorio de IA de código abierto",
-      "resumen": "Reflection AI pagará 150 millones de dólares al mes por acceso a los últimos chips de IA de Nvidia y hardware de soporte en el centro de datos Colossus 2 de SpaceX.",
-      "porQueImporta": "Esto es importante para entender la infraestructura detrás del desarrollo de IA. Muestra la enorme demanda de recursos de computación de alto rendimiento y la inversión en chips avanzados, lo que impacta directamente en las capacidades y el futuro de la IA, incluyendo herramientas y automatización.",
-      "publicadoEn": "2026-06-22T16:51:29.000Z",
+      "url": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+      "tituloOriginal": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+      "tituloLimpio": "Nvidia busca reducir el uso de agua en centros de datos, pero esto no soluciona el problema del agua de la IA",
+      "resumen": "Nvidia anunció un nuevo sistema de enfriamiento que reduce el uso de agua dentro del centro de datos. Pero no aborda el mayor consumo de agua de la IA, que son las centrales eléctricas de combustibles fósiles.",
+      "porQueImporta": "Es crucial entender el impacto ambiental de la IA. Aunque Nvidia avanza en eficiencia, el problema de fondo del consumo de agua en la generación de energía para IA sigue siendo un desafío global.",
+      "publicadoEn": "2026-06-22T20:08:15.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "IA",
-        "hardware",
-        "computación",
-        "código abierto"
+        "sostenibilidad",
+        "medio ambiente",
+        "Nvidia"
       ],
       "tambienVistoEn": []
     },
@@ -287,39 +281,19 @@
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
       "fuente": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
-      "tituloOriginal": "Read this before you vibe-code another app",
-      "tituloLimpio": "Lea esto antes de 'vibe-codear' otra aplicación",
-      "resumen": "Un sitio web 'vibe-coded' tenía un riesgo oculto de inyección SQL que se descubrió meses después de su lanzamiento.",
-      "porQueImporta": "Esta noticia es una advertencia importante sobre los riesgos de seguridad en el desarrollo de software, especialmente con métodos rápidos o asistidos por IA. Es crucial para vos, que trabajás con IA, entender la importancia de la seguridad y las posibles vulnerabilidades en las herramientas y aplicaciones que se crean.",
-      "publicadoEn": "2026-06-22T11:00:00.000Z",
+      "url": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+      "tituloOriginal": "AI is cursing renters with the promise of impossible homes",
+      "tituloLimpio": "La IA está generando expectativas de hogares imposibles para los inquilinos",
+      "resumen": "Joyce, una neoyorquina, encontró su apartamento soñado, un estudio a precio razonable en Manhattan, después de ver muchos lugares pequeños y caros.",
+      "porQueImporta": "Para Guido, que trabaja con retoque fotográfico y arte con IA, esta noticia resalta un riesgo: el uso de IA para crear imágenes engañosas que generan expectativas irreales en el mercado inmobiliario.",
+      "publicadoEn": "2026-06-22T20:00:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "IA",
-        "seguridad",
-        "desarrollo",
-        "riesgos"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "categoria": "AI",
-      "fuente": "MIT Technology Review AI",
-      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-      "tituloOriginal": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-      "tituloLimpio": "Una startup afirma haber superado un cuello de botella que frena a los LLM",
-      "resumen": "La startup Subquadratic anunció que resolvió un cuello de botella matemático que había estado frenando a los grandes modelos de lenguaje por casi una década.",
-      "porQueImporta": "Si esta afirmación es cierta, podría significar un avance significativo para los Grandes Modelos de Lenguaje (LLM), impactando directamente en el desarrollo y la eficiencia de las herramientas de IA que utilizás o que te interesan.",
-      "publicadoEn": "2026-06-19T10:40:24.000Z",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "IA",
-        "LLM",
-        "investigación",
-        "tecnología"
+        "inmobiliario",
+        "ética",
+        "arte digital"
       ],
       "tambienVistoEn": []
     },
@@ -327,19 +301,19 @@
       "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Apple",
       "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/22/fantastical-just-solved-the-classic-double-booking-calendar-problem-heres-how/",
-      "tituloOriginal": "Fantastical just solved the classic double-booking calendar problem, here’s how",
-      "tituloLimpio": "Fantastical resolvió el problema clásico de la doble reserva en el calendario",
-      "resumen": "La última versión de Fantastical aborda el problema de reservar accidentalmente dos eventos al mismo tiempo.",
-      "porQueImporta": "Como usuario de Apple y alguien interesado en la automatización y herramientas de productividad, esta mejora en Fantastical es muy útil. Resuelve un problema común de organización y puede mejorar tu eficiencia diaria.",
-      "publicadoEn": "2026-06-22T15:28:35.000Z",
+      "url": "https://9to5mac.com/2026/06/22/ios-27-upgrades-messages-app-with-key-new-features-for-rcs/",
+      "tituloOriginal": "iOS 27 upgrades Messages app with key new features for RCS",
+      "tituloLimpio": "iOS 27 actualiza la aplicación Mensajes con nuevas funciones clave para RCS",
+      "resumen": "La beta 2 de iOS 27 llegó hoy para pruebas de desarrolladores e incluye nuevas funciones para conversaciones RCS en la aplicación Mensajes.",
+      "porQueImporta": "Como usuario de Apple, Guido se beneficiará de las mejoras en la aplicación Mensajes, especialmente con la integración de RCS, que promete una mejor experiencia de mensajería con usuarios de Android.",
+      "publicadoEn": "2026-06-22T19:49:33.000Z",
       "globalScore": 96,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "productividad",
-        "herramientas",
-        "automatización"
+        "iOS",
+        "Mensajes",
+        "RCS"
       ],
       "tambienVistoEn": []
     },
@@ -347,40 +321,19 @@
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
       "categoria": "Apple",
       "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/06/22/samsung-display-milestone-moves-the-iphone-fold-beyond-rumor-territory?utm_source=rss",
-      "tituloOriginal": "Samsung Display milestone moves the iPhone Fold beyond rumor territory",
-      "tituloLimpio": "El avance de Samsung Display acerca el iPhone plegable más allá de los rumores",
-      "resumen": "Samsung Display habría obtenido la aprobación de Apple para empezar a fabricar módulos de pantallas plegables, lo que sugiere que el iPhone Fold se acerca a un lanzamiento a fines de 2026.",
-      "porQueImporta": "Para vos, como usuario de Apple, la posibilidad de un iPhone plegable es una noticia importante sobre el futuro del hardware. Indica una posible dirección de diseño y funcionalidad que podría cambiar la forma en que interactuamos con los dispositivos.",
-      "publicadoEn": "2026-06-22T16:57:14.000Z",
-      "globalScore": 92,
-      "personalScore": 100,
-      "tags": [
-        "Apple",
-        "iPhone",
-        "hardware",
-        "rumores"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
-      "categoria": "Finance",
-      "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/06/22/ethereum-foundation-talent-exodus-sparks-fresh-debate-over-leadership",
-      "tituloOriginal": "Ethereum Foundation talent exodus sparks fresh debate over leadership",
-      "tituloLimpio": "La salida de talentos de la Fundación Ethereum reaviva el debate sobre su liderazgo",
-      "resumen": "La comunidad de Ethereum vuelve a debatir el futuro de la fundación después de que la codirectora ejecutiva Hsiao-Wei Wang anunciara su renuncia.",
-      "porQueImporta": "Si invertís o seguís el mercado de criptomonedas, los cambios de liderazgo en la Fundación Ethereum pueden influir en la dirección y estabilidad de una de las plataformas más grandes. Es importante estar al tanto de estos movimientos internos.",
-      "publicadoEn": "2026-06-22T16:39:41.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/f699a131e76d466af66875c784e656723e91d725-8014x5343.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "url": "https://appleinsider.com/articles/26/06/22/new-in-ios-27-beta-2-update-an-apple-tv-in-the-home-app-wallet-insights?utm_source=rss",
+      "tituloOriginal": "New in iOS 27 beta 2: Update an Apple TV in the Home app, Wallet Insights",
+      "tituloLimpio": "Novedades en iOS 27 beta 2: Actualización de Apple TV en la app Casa y Wallet Insights",
+      "resumen": "La segunda beta para desarrolladores de iOS 27 incluye funciones adicionales para las aplicaciones Casa y Apple Wallet.",
+      "porQueImporta": "Estas nuevas funciones en iOS 27 beta 2 mejoran la integración del ecosistema Apple, permitiendo a Guido gestionar mejor sus dispositivos y finanzas personales desde su iPhone.",
+      "publicadoEn": "2026-06-22T19:52:51.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "Finanzas",
-        "Ethereum",
-        "criptomonedas",
-        "liderazgo"
+        "Apple",
+        "iOS",
+        "HomeKit",
+        "Wallet"
       ],
       "tambienVistoEn": []
     },
@@ -388,20 +341,20 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/desocupacion-alcanzo-79-ciudad-crecieron-empleos-cuenta-propia-informales_0_eoSBAq3eJq.html",
-      "tituloOriginal": "La desocupación alcanzó el 7,9% en la Ciudad y crecieron los empleos en cuenta propia y los informales",
-      "tituloLimpio": "La desocupación alcanzó el 7,9% en la Ciudad y crecieron los empleos por cuenta propia e informales",
-      "resumen": "La desocupación porteña subió a 7,9% y hay 136.500 desocupados, según datos del Instituto de Estadística y Censos de la Ciudad.",
-      "porQueImporta": "Como residente de Buenos Aires, esta noticia te afecta directamente. Refleja la situación económica local y el estado del mercado laboral, con un aumento de la informalidad, lo que es crucial para entender el contexto económico de Argentina.",
-      "publicadoEn": "2026-06-22T14:01:49.000Z",
-      "imagen": "https://www.clarin.com/img/2026/06/22/OMGivY3OE_1200x630__1.jpg",
-      "globalScore": 94,
+      "url": "https://www.clarin.com/economia/luego-guino-caputo-bonos-comienzan-semana-alza-riesgo-pais-toca-nuevo-minimo_0_6Ij3WlwPjM.html",
+      "tituloOriginal": "Luego del guiño de Caputo, los bonos comienzan la semana en alza y el riesgo país toca un nuevo mínimo",
+      "tituloLimpio": "Los bonos comienzan la semana en alza y el riesgo país toca un nuevo mínimo",
+      "resumen": "El indicador de la banca JP Morgan llega a los 422 puntos, mientras el Merval en dólares baja 3% en línea con las acciones argentinas en Wall Street.",
+      "porQueImporta": "Esta es una noticia clave para Guido, interesado en inversiones y el mercado argentino, ya que el alza de bonos y la baja del riesgo país pueden indicar una mejora en la percepción económica del país.",
+      "publicadoEn": "2026-06-22T16:40:44.000Z",
+      "imagen": "https://www.clarin.com/img/2026/03/26/F8kheLR9y_1200x630__1.jpg",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "economía",
-        "desempleo",
-        "CABA"
+        "finanzas",
+        "bonos",
+        "riesgo país"
       ],
       "tambienVistoEn": []
     },
@@ -409,20 +362,20 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/networking/2026/06/22/ai-first-los-detalles-de-la-estrategia-de-inteligencia-artificial-del-banco-santander/",
-      "tituloOriginal": "AI-first: los detalles de la estrategia de Inteligencia Artificial del banco Santander",
-      "tituloLimpio": "AI-first: detalles de la estrategia de Inteligencia Artificial del banco Santander",
-      "resumen": "El responsable global de Datos e IA explicó cómo la entidad bancaria avanza en su esquema, incluyendo el caso local y el avance de la tecnología en el trabajo diario del banco.",
-      "porQueImporta": "Es relevante para vos porque muestra cómo una gran entidad financiera en Argentina está adoptando la IA. Esto puede generar nuevas oportunidades en el sector y es un indicador de la madurez de la IA aplicada en el ámbito empresarial local.",
-      "publicadoEn": "2026-06-22T16:02:28.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/E3MPDC7AEVBRVPGXH7YRO2EIXA.JPG?auth=6a01195696ee2bb24904cd4d9699a31c3908eb81fca582600569768197525a75&smart=true&width=2738&height=1825",
-      "globalScore": 98,
+      "url": "https://www.infobae.com/economia/2026/06/22/la-desocupacion-tuvo-una-leve-baja-en-el-primer-trimestre-y-afecta-a-17-millones-de-argentinos/",
+      "tituloOriginal": "La desocupación tuvo una leve baja en el primer trimestre y afecta a 1,7 millones de argentinos",
+      "tituloLimpio": "La desocupación tuvo una leve baja en el primer trimestre y afecta a 1,7 millones de argentinos",
+      "resumen": "Según datos del Indec, la tasa de desempleo retrocedió 0,1 puntos porcentuales respecto al mismo período de 2025.",
+      "porQueImporta": "Esta noticia ofrece un panorama del mercado laboral en Argentina, relevante para entender el contexto económico general del país.",
+      "publicadoEn": "2026-06-22T19:51:58.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/NLOFEIEDHRFXRIW4XHJS53IY4E.jpg?auth=e536e3fce61807b6be78a83525e3f1fbb5d86dc2f0c82cb605d8eb930926eab5&smart=true&width=880&height=512",
+      "globalScore": 90,
       "personalScore": 100,
       "tags": [
-        "IA",
-        "banca",
-        "estrategia",
-        "Argentina"
+        "Argentina",
+        "economía",
+        "desempleo",
+        "Indec"
       ],
       "tambienVistoEn": []
     },
@@ -430,46 +383,26 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/pnc-de-la-anses-cual-es-el-monto-de-las-pensiones-no-contributivas-en-julio-de-2026-con-el-aumento-nid22062026/",
-      "tituloOriginal": "PNC de la Anses: cuál es el monto de las Pensiones no Contributivas en julio de 2026, con el aumento confirmado",
-      "tituloLimpio": "PNC de la Anses: cuál es el monto de las Pensiones no Contributivas en julio de 2026, con el aumento confirmado",
-      "resumen": "Los haberes se ajustan en un 2,15%, de acuerdo al último registro de inflación; cuáles son los valores con el bono previsional.",
-      "porQueImporta": "Aunque no te afecte directamente, es una noticia importante para entender el contexto económico y social de Argentina, ya que impacta en una parte significativa de la población y en el gasto público.",
-      "publicadoEn": "2026-06-22T16:48:58.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/HIOFVKXR65HE7IFWGMISROHMNE.png?auth=bf0414b59dc34ecd87eebb3d54d57d3cd378ddb531dc46298c9f8a9c2c054445&smart=true&width=2000&height=1333",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "Argentina",
-        "economía",
-        "Anses",
-        "jubilaciones"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
-      "categoria": "Argentina",
-      "fuente": "La Nacion Politica",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-viaje-del-presidente-a-espana-y-las-repercusiones-de-la-nid22062026/",
-      "tituloOriginal": "Javier Milei y sus medidas, en vivo: el viaje del Presidente a España y las repercusiones de la elección en Colombia",
-      "tituloLimpio": "Javier Milei y sus medidas, en vivo: el viaje del Presidente a España y las repercusiones de la elección en Colombia",
-      "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios.",
-      "porQueImporta": "Como ciudadano argentino, es fundamental estar al tanto de la actividad presidencial y las repercusiones políticas, tanto a nivel nacional como internacional, ya que pueden influir en la economía y el clima de negocios.",
-      "publicadoEn": "2026-06-22T16:48:15.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/PUKAFRJFABBX3JFEVHV5NUQ2FI.jpg?auth=e159e53b01f2c4fe49765977eb0d7fb05a8c208f1f40785bd885690f212153b5&smart=true&width=3258&height=2172",
+      "url": "https://www.lanacion.com.ar/economia/campo/cumbre-de-expertos-debate-de-alto-nivel-sobre-un-tema-clave-para-la-produccion-de-carne-argentina-nid22062026/",
+      "tituloOriginal": "Cumbre de expertos: debate de alto nivel sobre un tema clave para la producción de carne argentina",
+      "tituloLimpio": "Cumbre de expertos: debate de alto nivel sobre un tema clave para la producción de carne argentina",
+      "resumen": "En Córdoba, en el Congreso Nacional del Foro Argentino de Genética Bovina (FAGB) se destacó que la genética es motor de innovación y una herramienta concreta para incrementar la productividad y mejorar la calidad de los rodeos.",
+      "porQueImporta": "Esta noticia resalta la importancia de la innovación y la tecnología (genética) en un sector clave de la economía argentina, como es la producción de carne.",
+      "publicadoEn": "2026-06-22T19:53:20.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/FC3PYQYEIBCQLEQT5TVSVDEFJ4.jpeg?auth=32a5a2522b7861abc6db96c0e4adad58de599e3ed04397160effcfcb542ddaf6&smart=true&width=1600&height=1066",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "política",
-        "gobierno"
+        "economía",
+        "innovación",
+        "ganadería"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-06-22T17:03:15.905Z"
+    "generadoEn": "2026-06-22T20:09:00.088Z"
   }
 }
