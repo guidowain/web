@@ -1,0 +1,407 @@
+{
+  "fecha": "2026-06-23",
+  "generadoEn": "2026-06-23T14:55:45.975Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "Hoy tenemos novedades importantes en IA, con Google presentando una IA médica y Sony lanzando una cámara con IA que no convence. En el ámbito financiero, el mercado de acciones muestra volatilidad, con caídas en Nasdaq y Bitcoin, y se observa un aumento en el dólar blue en Argentina. También hay noticias relevantes sobre la gestión de deudas judiciales en AGIP y el pedido de un tratado de libre comercio con India para Argentina. En Apple, se destacan ofertas de Prime Day que no aplican para Argentina y un nuevo case para iPhone con pantalla e-ink. Finalmente, en marketing, Gap está integrando IA en sus canales y Palantir y Zeta Global cerraron un acuerdo importante.",
+  "radarPersonal": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Investigación muestra cómo la IA médica de Google podría ayudar a manejar condiciones de salud",
+      "resumen": "Una investigación publicada en “Nature” indica que el sistema de IA conversacional de Google iguala a médicos de atención primaria en el manejo de enfermedades complejas.",
+      "categoria": "AI",
+      "fuentes": [
+        "Google AI Blog"
+      ],
+      "urls": [
+        "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/"
+      ],
+      "score": 100,
+      "tags": [
+        "IA",
+        "medicina",
+        "investigación",
+        "Google"
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "AGIP: ya se pueden pagar de forma digital online las deudas judiciales y los honorarios sin intermediarios",
+      "resumen": "Los contribuyentes pueden regularizar de manera 100% digital las deudas tributarias judicializadas y pagar honorarios de mandatarios desde el Portal del Contribuyente. El plan permite financiar la deuda en hasta 36 cuotas.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/agip-ya-se-pueden-pagar-forma-digital-online-las-deudas-judiciales-y-los-honorarios-intermediarios-n6291832"
+      ],
+      "score": 100,
+      "tags": [
+        "Argentina",
+        "impuestos",
+        "deudas",
+        "digitalización"
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "titulo": "Gap incorpora IA en sus canales de marketing propios en todo su portfolio de marcas",
+      "resumen": "El minorista está aprovechando asociaciones con Google Cloud, Zeta Global y Publicis Sapient como parte de un nuevo esfuerzo de transformación.",
+      "categoria": "Marketing",
+      "fuentes": [
+        "Marketing Dive"
+      ],
+      "urls": [
+        "https://www.marketingdive.com/news/gap-brings-ai-to-owned-marketing-channels-across-brand-portfolio/823491/"
+      ],
+      "score": 100,
+      "tags": [
+        "marketing",
+        "IA",
+        "retail",
+        "Gap"
+      ]
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "titulo": "Un case agrega una pantalla e-ink personalizable a tu iPhone",
+      "resumen": "Hay miles de fundas para iPhone en el mercado. Es raro ver una funda que haga algo diferente y que sea más que un truco. El nuevo case XTREME E-Ink afirma...",
+      "categoria": "Apple",
+      "fuentes": [
+        "9to5Mac"
+      ],
+      "urls": [
+        "https://9to5mac.com/2026/06/23/hands-on-this-case-adds-a-customizable-e-ink-display-to-your-iphone-video/"
+      ],
+      "score": 100,
+      "tags": [
+        "iPhone",
+        "accesorios",
+        "e-ink",
+        "personalización"
+      ]
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "titulo": "La caída reciente de Bitcoin por debajo de los $60.000 señala presiones de la Fed, ETFs y la IA: Deutsche Bank",
+      "resumen": "La caída de Bitcoin a su nivel más bajo desde finales de 2024 refleja una Reserva Federal restrictiva, salidas de fondos de ETFs y un cambio de capital hacia la IA, según el banco.",
+      "categoria": "Finance",
+      "fuentes": [
+        "CoinDesk"
+      ],
+      "urls": [
+        "https://www.coindesk.com/markets/2026/06/23/bitcoin-s-recent-drop-below-usd60-000-signals-fed-etf-and-ai-pressures-deutsche-bank/"
+      ],
+      "score": 100,
+      "tags": [
+        "Bitcoin",
+        "inversión",
+        "mercado",
+        "IA",
+        "ETFs"
+      ]
+    }
+  ],
+  "loImportante": [
+    "La IA médica de Google muestra resultados prometedores en el manejo de enfermedades complejas, igualando a médicos primarios.",
+    "En Argentina, AGIP digitalizó el pago de deudas judiciales y honorarios, ofreciendo financiación en hasta 36 cuotas.",
+    "El dólar blue en Argentina subió 5% en junio, alcanzando los $1.500 por primera vez desde enero.",
+    "Gap está implementando IA en sus canales de marketing, lo que indica una tendencia en la industria del retail.",
+    "La volatilidad en los mercados financieros es notable, con caídas en Nasdaq y Bitcoin, y un posible traslado de capital hacia la IA."
+  ],
+  "oportunidades": [
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Productivity",
+      "titulo": "Digitalización de pagos de deudas judiciales en AGIP",
+      "detalle": "La AGIP permite pagar deudas tributarias judicializadas y honorarios de mandatarios de forma 100% digital y online, con financiación en hasta 36 cuotas.",
+      "acciones": [
+        "Revisar si tenés deudas judiciales con AGIP y aprovechar la opción de pago digital y financiación."
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "Integración de IA en canales de marketing por Gap",
+      "detalle": "Gap está usando IA en sus canales de marketing propios a través de alianzas con Google Cloud, Zeta Global y Publicis Sapient.",
+      "acciones": [
+        "Analizar cómo otras empresas están integrando IA en sus estrategias de marketing y considerar su aplicación en proyectos propios."
+      ]
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "AI",
+      "titulo": "Acuerdo de Palantir y Zeta Global enfocado en IA",
+      "detalle": "Palantir y Zeta Global firmaron un acuerdo de 7 años con el objetivo de generar $100M en ingresos anuales, buscando la transición de Zeta Global a un actor de infraestructura de IA.",
+      "acciones": [
+        "Observar la evolución de este tipo de alianzas estratégicas en el sector de la IA y el marketing para identificar tendencias y posibles herramientas futuras."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "categoria": "Market",
+      "titulo": "El apalancamiento en el comercio de IA es más preocupante que la deuda de su construcción",
+      "detalle": "Los mercados de valores de EE.UU. y Corea muestran volatilidad, con caídas en las acciones tecnológicas, lo que sugiere riesgos en la inversión en IA.",
+      "mitigacion": "Monitorear de cerca la volatilidad del mercado y considerar estrategias de inversión diversificadas para mitigar riesgos asociados al apalancamiento en el sector de la IA."
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Market",
+      "titulo": "Caída de Bitcoin por presiones de la Fed, ETFs y la IA",
+      "detalle": "La baja de Bitcoin por debajo de los $60.000 se atribuye a una Reserva Federal restrictiva, salidas de fondos de ETFs y un cambio de capital hacia la IA.",
+      "mitigacion": "Evaluar el impacto de las políticas de la Reserva Federal y el flujo de capital hacia la IA en las inversiones en criptomonedas y ETFs."
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "Technology",
+      "titulo": "El asistente de cámara con IA de Sony es tan malo como parece",
+      "detalle": "Sony promocionó su Xperia 1 VIII con fotos de baja calidad tomadas con su nuevo asistente de cámara con IA, lo que sugiere que la tecnología no está a la altura.",
+      "mitigacion": "Ser cauteloso con las promesas de IA en productos de consumo y evaluar la calidad real de la implementación antes de adoptar nuevas herramientas o dispositivos."
+    }
+  ],
+  "conexiones": [
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "titulo": "Apalancamiento en el comercio de IA y la deuda de su construcción",
+      "historias": [
+        "La caída de Bitcoin se atribuye en parte a un cambio de capital hacia la IA.",
+        "La máquina de $400 millones de ASML impulsa el futuro de la fabricación de chips, esencial para la IA."
+      ],
+      "conclusion": "La inversión en IA está generando un gran movimiento de capital, pero también presenta riesgos de apalancamiento y volatilidad en los mercados, lo que podría afectar tanto a las acciones tecnológicas como a las criptomonedas."
+    }
+  ],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+      "tituloOriginal": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "tituloLimpio": "Investigación muestra cómo la IA médica de Google podría ayudar a manejar condiciones de salud",
+      "resumen": "Una investigación publicada en “Nature” indica que el sistema de IA conversacional de Google iguala a médicos de atención primaria en el manejo de enfermedades complejas.",
+      "porQueImporta": "Esta noticia es relevante para Guido por su interés en la IA aplicada, mostrando un avance significativo en el uso de la inteligencia artificial en el campo de la medicina, con un impacto potencial global.",
+      "publicadoEn": "2026-06-17T15:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "medicina",
+        "investigación",
+        "Google"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "categoria": "Finance",
+      "fuente": "Sherwood",
+      "url": "https://sherwood.news/markets/south-koreas-memory-stock-leverage-slump-us-stock-tech-selloff-ai-trade/",
+      "tituloOriginal": "Leverage in the AI trade is even scarier than the debt used for its build-out",
+      "tituloLimpio": "El apalancamiento en el comercio de IA es más preocupante que la deuda de su construcción",
+      "resumen": "Los mercados de valores de EE.UU. y Corea muestran volatilidad, con caídas en las acciones tecnológicas.",
+      "porQueImporta": "Guido, interesado en inversión y mercados, debe estar al tanto de la volatilidad y los riesgos asociados al apalancamiento en el sector de la IA, que podría impactar sus inversiones.",
+      "publicadoEn": "2026-06-23T13:59:59.000Z",
+      "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/97238386_screaming-man.jpg?w=1600",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "mercado",
+        "IA",
+        "inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/agip-ya-se-pueden-pagar-forma-digital-online-las-deudas-judiciales-y-los-honorarios-intermediarios-n6291832",
+      "tituloOriginal": "AGIP: ya se pueden pagar de forma digital online las deudas judiciales y los honorarios sin intermediarios",
+      "tituloLimpio": "AGIP: ya se pueden pagar de forma digital online las deudas judiciales y los honorarios sin intermediarios",
+      "resumen": "Los contribuyentes pueden regularizar de manera 100% digital las deudas tributarias judicializadas y pagar honorarios de mandatarios desde el Portal del Contribuyente. El plan permite financiar la deuda en hasta 36 cuotas.",
+      "porQueImporta": "Esta es una noticia muy útil para Guido, como residente en Argentina, ya que le ofrece una herramienta de automatización y simplificación para la gestión de deudas tributarias, con opciones de financiación.",
+      "publicadoEn": "2026-06-23T14:30:55.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "impuestos",
+        "deudas",
+        "digitalización",
+        "herramientas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/gap-brings-ai-to-owned-marketing-channels-across-brand-portfolio/823491/",
+      "tituloOriginal": "Gap brings AI to owned marketing channels across brand portfolio",
+      "tituloLimpio": "Gap incorpora IA en sus canales de marketing propios en todo su portfolio de marcas",
+      "resumen": "El minorista está aprovechando asociaciones con Google Cloud, Zeta Global y Publicis Sapient como parte de un nuevo esfuerzo de transformación.",
+      "porQueImporta": "Para Guido, interesado en marketing y IA aplicada, esta noticia muestra cómo grandes empresas están integrando la IA en sus estrategias, lo que puede inspirar nuevas ideas o tendencias en su propio trabajo.",
+      "publicadoEn": "2026-06-23T14:07:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "IA",
+        "retail",
+        "Gap"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant",
+      "tituloOriginal": "Sony’s AI Camera Assistant is exactly as bad as it looks",
+      "tituloLimpio": "El asistente de cámara con IA de Sony es tan malo como parece",
+      "resumen": "Cuando Sony anunció el Xperia 1 VIII, promocionó el teléfono compartiendo algunas de las peores fotos tomadas con una cámara Sony en años. Estas fotos fueron tomadas con el nuevo asistente de cámara con IA de Sony.",
+      "porQueImporta": "Esta noticia es relevante para Guido, que trabaja con retoque fotográfico y arte con IA, ya que ilustra los desafíos y las posibles fallas en la implementación de la IA en productos de consumo, especialmente en el ámbito visual.",
+      "publicadoEn": "2026-06-23T13:25:42.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "fotografía",
+        "tecnología",
+        "Sony"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
+      "tituloOriginal": "The $400 million machine powering the future of chipmaking",
+      "tituloLimpio": "La máquina de $400 millones que impulsa el futuro de la fabricación de chips",
+      "resumen": "Jos Benschop está subiendo una escalera para llegar a la parte superior de su máquina más nueva. El aparato tiene el tamaño de un autobús de dos pisos, más de 150 toneladas de aluminio fresado de precisión cubierto de miles de tubos, cables de colores y tanques presurizados.",
+      "porQueImporta": "Esta noticia es importante para Guido por su interés en la IA aplicada, ya que describe la infraestructura física de alta tecnología necesaria para el desarrollo de chips, que son fundamentales para el avance de la inteligencia artificial.",
+      "publicadoEn": "2026-06-23T09:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "tecnología",
+        "hardware",
+        "chips"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/23/hands-on-this-case-adds-a-customizable-e-ink-display-to-your-iphone-video/",
+      "tituloOriginal": "Hands-on: This case adds a customizable e-ink display to your iPhone [Video]",
+      "tituloLimpio": "Un case agrega una pantalla e-ink personalizable a tu iPhone",
+      "resumen": "Hay miles de fundas para iPhone en el mercado. Es raro ver una funda que haga algo diferente y que sea más que un truco. El nuevo case XTREME E-Ink afirma...",
+      "porQueImporta": "Como usuario de Apple, Guido podría encontrar interesante esta innovación en accesorios para iPhone, que ofrece una funcionalidad diferente y personalizable, alineada con su interés en herramientas y tecnología.",
+      "publicadoEn": "2026-06-23T14:38:16.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "iPhone",
+        "accesorios",
+        "e-ink"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/23/bitcoin-s-recent-drop-below-usd60-000-signals-fed-etf-and-ai-pressures-deutsche-bank",
+      "tituloOriginal": "Bitcoin's recent drop below $60,000 signals Fed, ETF and AI pressures: Deutsche Bank",
+      "tituloLimpio": "La caída reciente de Bitcoin por debajo de los $60.000 señala presiones de la Fed, ETFs y la IA: Deutsche Bank",
+      "resumen": "La caída de Bitcoin a su nivel más bajo desde finales de 2024 refleja una Reserva Federal restrictiva, salidas de fondos de ETFs y un cambio de capital hacia la IA, según el banco.",
+      "porQueImporta": "Esta noticia es crucial para Guido por su interés en inversión y ETFs, ya que explica factores macroeconómicos y tecnológicos que afectan el valor de Bitcoin y el flujo de capital en los mercados.",
+      "publicadoEn": "2026-06-23T14:54:17.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/71df673d351b791c3005560c1b5760411dece6dd-1500x922.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Bitcoin",
+        "inversión",
+        "mercado",
+        "IA",
+        "ETFs"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/economista-ricardo-arriazu-pidio-tratado-libre-comercio-india-eliminar-costo-argentino-produccion_0_eyJSsxtabx.html",
+      "tituloOriginal": "El economista Ricardo Arriazu pidió un tratado de libre comercio con India y eliminar el \"costo argentino\" de la producción",
+      "tituloLimpio": "El economista Ricardo Arriazu pidió un tratado de libre comercio con India y eliminar el \"costo argentino\" de la producción",
+      "resumen": "Fue durante el ciclo Democracia y Desarrollo, organizado este martes por Clarín en el Malba. Compartió el panel \"Las claves del cambiante escenario global\" con Carlos Pérez Llana, Francisco de Santibañes, Dante Sica y Martín Rapetti.",
+      "porQueImporta": "Para Guido, como residente en Argentina, esta noticia es relevante por su impacto potencial en la economía local y las oportunidades de negocio a través de un tratado de libre comercio, así como la discusión sobre la eficiencia productiva en el país.",
+      "publicadoEn": "2026-06-23T13:37:43.000Z",
+      "imagen": "https://www.clarin.com/img/2026/06/23/LQE11X8Ni_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "comercio",
+        "producción"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/06/23/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-martes-23-de-junio/",
+      "tituloOriginal": "Dólar hoy en vivo: el blue sube 5% en junio y alcanza los 1.500 pesos por primera vez desde enero",
+      "tituloLimpio": "Dólar hoy en vivo: el blue sube 5% en junio y alcanza los 1.500 pesos por primera vez desde enero",
+      "resumen": "El billete informal gana cinco pesos en el día y amplía a 70 pesos el alza en lo que va del mes. El dólar minorista asciende a $1.485 para la venta en el Banco Nación",
+      "porQueImporta": "Esta es una noticia de alta relevancia para Guido en Argentina, ya que el valor del dólar blue impacta directamente en su poder adquisitivo y en sus decisiones financieras y de inversión.",
+      "publicadoEn": "2026-06-23T14:50:35.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/KOHQ4DUZF5FMFGKB72BJQKJOVM.jpeg?auth=ebb19ac5f5d618ae29f90bb74e6d5c42402c3f2be716d0a6bb808ada814fad34&smart=true&width=4857&height=2730",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "finanzas",
+        "dólar",
+        "mercado"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "fuente": "Adweek",
+      "url": "https://www.adweek.com/media/palantir-and-zeta-global-ink-7-year-deal-targeting-100m-in-annual-revenue/",
+      "tituloOriginal": "Palantir and Zeta Global Ink 7-Year Deal, Targeting $100M in Annual Revenue",
+      "tituloLimpio": "Palantir y Zeta Global firman un acuerdo de 7 años, apuntando a $100M en ingresos anuales",
+      "resumen": "La empresa de marketing en la nube busca una transición de proveedor de adtech a actor de infraestructura de IA.",
+      "porQueImporta": "Esta noticia es relevante para Guido por su interés en marketing y IA, ya que muestra una tendencia de empresas de marketing a transformarse en proveedores de infraestructura de IA, lo que podría influir en el desarrollo de herramientas y servicios.",
+      "publicadoEn": "2026-06-23T09:41:32.000Z",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "IA",
+        "negocios",
+        "tecnología"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-06-23T14:55:45.975Z"
+  }
+}
