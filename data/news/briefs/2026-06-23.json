@@ -1,13 +1,13 @@
 {
   "fecha": "2026-06-23",
-  "generadoEn": "2026-06-23T14:55:45.975Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "Hoy tenemos novedades importantes en IA, con Google presentando una IA médica y Sony lanzando una cámara con IA que no convence. En el ámbito financiero, el mercado de acciones muestra volatilidad, con caídas en Nasdaq y Bitcoin, y se observa un aumento en el dólar blue en Argentina. También hay noticias relevantes sobre la gestión de deudas judiciales en AGIP y el pedido de un tratado de libre comercio con India para Argentina. En Apple, se destacan ofertas de Prime Day que no aplican para Argentina y un nuevo case para iPhone con pantalla e-ink. Finalmente, en marketing, Gap está integrando IA en sus canales y Palantir y Zeta Global cerraron un acuerdo importante.",
+  "generadoEn": "2026-06-23T19:10:30.584Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Hoy, la IA médica de Google muestra resultados prometedores en el manejo de enfermedades, mientras que Apple lanza la segunda beta de watchOS 27. En el ámbito financiero, se observa preocupación por el apalancamiento en el sector de la IA y Meta desarrolla una app de mercado de predicciones. A nivel local, el salario pretendido en Argentina sigue perdiendo contra la inflación y el dólar blue supera los $1.500. También se destaca la posible migración de talento en empresas que no adopten IA y el interés de argentinos por el Mundial de Miami.",
   "radarPersonal": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "titulo": "Investigación muestra cómo la IA médica de Google podría ayudar a manejar condiciones de salud",
-      "resumen": "Una investigación publicada en “Nature” indica que el sistema de IA conversacional de Google iguala a médicos de atención primaria en el manejo de enfermedades complejas.",
+      "titulo": "Investigación de Google muestra cómo su IA médica podría ayudar a manejar condiciones de salud",
+      "resumen": "Una investigación en “Nature” indica que el sistema de IA conversacional de Google iguala a médicos de atención primaria en el manejo de enfermedades complejas.",
       "categoria": "AI",
       "fuentes": [
         "Google AI Blog"
@@ -18,122 +18,122 @@
       "score": 100,
       "tags": [
         "IA",
-        "medicina",
-        "investigación",
-        "Google"
+        "salud",
+        "investigación"
+      ]
+    },
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "titulo": "El apalancamiento en el comercio de IA es más preocupante que la deuda de su construcción",
+      "resumen": "Las acciones estadounidenses tienen hipo, los mercados coreanos vomitan, las acciones estadounidenses tienen fiebre.",
+      "categoria": "Finance",
+      "fuentes": [
+        "Sherwood"
+      ],
+      "urls": [
+        "https://sherwood.news/markets/south-koreas-memory-stock-leverage-slump-us-stock-tech-selloff-ai-trade/"
+      ],
+      "score": 100,
+      "tags": [
+        "finanzas",
+        "IA",
+        "mercados"
       ]
     },
     {
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "AGIP: ya se pueden pagar de forma digital online las deudas judiciales y los honorarios sin intermediarios",
-      "resumen": "Los contribuyentes pueden regularizar de manera 100% digital las deudas tributarias judicializadas y pagar honorarios de mandatarios desde el Portal del Contribuyente. El plan permite financiar la deuda en hasta 36 cuotas.",
+      "titulo": "El salario pretendido por los argentinos promedió $1.805.897 en mayo y volvió a perder contra la inflación",
+      "resumen": "Las remuneraciones solicitadas subieron 1,18% en mayo y promediaron los $1.805.897, ubicándose casi un punto por debajo del IPC mensual.",
       "categoria": "Argentina",
       "fuentes": [
         "Ambito"
       ],
       "urls": [
-        "https://www.ambito.com/economia/agip-ya-se-pueden-pagar-forma-digital-online-las-deudas-judiciales-y-los-honorarios-intermediarios-n6291832"
+        "https://www.ambito.com/economia/el-salario-pretendido-los-argentinos-promedio-los-1805897-mayo-y-volvio-perder-contra-la-inflacion-n6291949"
       ],
       "score": 100,
       "tags": [
         "Argentina",
-        "impuestos",
-        "deudas",
-        "digitalización"
+        "economía",
+        "salarios",
+        "inflación"
       ]
     },
     {
-      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
-      "titulo": "Gap incorpora IA en sus canales de marketing propios en todo su portfolio de marcas",
-      "resumen": "El minorista está aprovechando asociaciones con Google Cloud, Zeta Global y Publicis Sapient como parte de un nuevo esfuerzo de transformación.",
-      "categoria": "Marketing",
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "Claude Tag de Anthropic aprende sobre tu empresa, un mensaje de Slack a la vez",
+      "resumen": "El nuevo Claude Tag de Anthropic trae un compañero de equipo de IA siempre activo a Slack. Más allá de la productividad, la función es una jugada estratégica para capturar el contexto organizacional, el conocimiento institucional y los flujos de trabajo empresariales.",
+      "categoria": "AI",
       "fuentes": [
-        "Marketing Dive"
+        "TechCrunch AI"
       ],
       "urls": [
-        "https://www.marketingdive.com/news/gap-brings-ai-to-owned-marketing-channels-across-brand-portfolio/823491/"
+        "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/"
       ],
       "score": 100,
       "tags": [
-        "marketing",
         "IA",
-        "retail",
-        "Gap"
+        "productividad",
+        "empresas",
+        "Slack"
       ]
     },
     {
-      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
-      "titulo": "Un case agrega una pantalla e-ink personalizable a tu iPhone",
-      "resumen": "Hay miles de fundas para iPhone en el mercado. Es raro ver una funda que haga algo diferente y que sea más que un truco. El nuevo case XTREME E-Ink afirma...",
-      "categoria": "Apple",
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "titulo": "Por qué las empresas podrían tener una migración del talento en el próximo año",
+      "resumen": "La adopción de IA pasa a ser un imperativo en las empresas, para evitar la pérdida de clientes y de talento, según un informe.",
+      "categoria": "Business",
       "fuentes": [
-        "9to5Mac"
+        "La Nacion Economia"
       ],
       "urls": [
-        "https://9to5mac.com/2026/06/23/hands-on-this-case-adds-a-customizable-e-ink-display-to-your-iphone-video/"
+        "https://www.lanacion.com.ar/tecnologia/por-que-las-empresas-podrian-tener-una-migracion-del-talento-en-el-proximo-ano-nid23062026/"
       ],
       "score": 100,
       "tags": [
-        "iPhone",
-        "accesorios",
-        "e-ink",
-        "personalización"
-      ]
-    },
-    {
-      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
-      "titulo": "La caída reciente de Bitcoin por debajo de los $60.000 señala presiones de la Fed, ETFs y la IA: Deutsche Bank",
-      "resumen": "La caída de Bitcoin a su nivel más bajo desde finales de 2024 refleja una Reserva Federal restrictiva, salidas de fondos de ETFs y un cambio de capital hacia la IA, según el banco.",
-      "categoria": "Finance",
-      "fuentes": [
-        "CoinDesk"
-      ],
-      "urls": [
-        "https://www.coindesk.com/markets/2026/06/23/bitcoin-s-recent-drop-below-usd60-000-signals-fed-etf-and-ai-pressures-deutsche-bank/"
-      ],
-      "score": 100,
-      "tags": [
-        "Bitcoin",
-        "inversión",
-        "mercado",
+        "empresas",
+        "talento",
         "IA",
-        "ETFs"
+        "negocios"
       ]
     }
   ],
   "loImportante": [
-    "La IA médica de Google muestra resultados prometedores en el manejo de enfermedades complejas, igualando a médicos primarios.",
-    "En Argentina, AGIP digitalizó el pago de deudas judiciales y honorarios, ofreciendo financiación en hasta 36 cuotas.",
-    "El dólar blue en Argentina subió 5% en junio, alcanzando los $1.500 por primera vez desde enero.",
-    "Gap está implementando IA en sus canales de marketing, lo que indica una tendencia en la industria del retail.",
-    "La volatilidad en los mercados financieros es notable, con caídas en Nasdaq y Bitcoin, y un posible traslado de capital hacia la IA."
+    "La IA médica de Google muestra un rendimiento comparable al de médicos primarios en el manejo de enfermedades complejas, lo que podría transformar la atención sanitaria.",
+    "El apalancamiento en el sector de la IA genera preocupación en los mercados, con movimientos bruscos en las acciones de EE.UU. y Corea.",
+    "El salario pretendido en Argentina sigue perdiendo contra la inflación, impactando el poder adquisitivo de los trabajadores.",
+    "La adopción de IA es crucial para las empresas, no solo para la productividad sino para retener talento y clientes.",
+    "Meta está desarrollando una aplicación de mercado de predicciones, lo que indica un interés creciente en este tipo de plataformas."
   ],
   "oportunidades": [
     {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "categoria": "Productivity",
-      "titulo": "Digitalización de pagos de deudas judiciales en AGIP",
-      "detalle": "La AGIP permite pagar deudas tributarias judicializadas y honorarios de mandatarios de forma 100% digital y online, con financiación en hasta 36 cuotas.",
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "titulo": "IA conversacional para el manejo de enfermedades",
+      "detalle": "La IA médica de Google iguala a médicos primarios en el manejo de enfermedades complejas, abriendo puertas a nuevas herramientas de apoyo en salud.",
       "acciones": [
-        "Revisar si tenés deudas judiciales con AGIP y aprovechar la opción de pago digital y financiación."
+        "Explorar aplicaciones de IA en el sector salud y bienestar.",
+        "Investigar el impacto de la IA en la eficiencia de servicios médicos."
       ]
     },
     {
-      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
-      "categoria": "Marketing",
-      "titulo": "Integración de IA en canales de marketing por Gap",
-      "detalle": "Gap está usando IA en sus canales de marketing propios a través de alianzas con Google Cloud, Zeta Global y Publicis Sapient.",
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "titulo": "IA para la gestión del conocimiento empresarial",
+      "detalle": "Claude Tag de Anthropic se integra en Slack para capturar contexto organizacional y flujos de trabajo, mejorando la productividad y el conocimiento institucional.",
       "acciones": [
-        "Analizar cómo otras empresas están integrando IA en sus estrategias de marketing y considerar su aplicación en proyectos propios."
+        "Evaluar herramientas de IA para la gestión del conocimiento y la automatización de tareas en entornos de trabajo.",
+        "Considerar la implementación de IA para optimizar flujos de trabajo internos."
       ]
     },
     {
       "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
-      "categoria": "AI",
-      "titulo": "Acuerdo de Palantir y Zeta Global enfocado en IA",
-      "detalle": "Palantir y Zeta Global firmaron un acuerdo de 7 años con el objetivo de generar $100M en ingresos anuales, buscando la transición de Zeta Global a un actor de infraestructura de IA.",
+      "categoria": "Marketing",
+      "titulo": "Pagos basados en resultados para agencias",
+      "detalle": "Los pagos basados en resultados podrían ser el futuro para las agencias, según un informe, permitiendo recuperar ingresos.",
       "acciones": [
-        "Observar la evolución de este tipo de alianzas estratégicas en el sector de la IA y el marketing para identificar tendencias y posibles herramientas futuras."
+        "Analizar modelos de negocio basados en resultados para servicios de marketing y consultoría.",
+        "Considerar la implementación de estructuras de pago que alineen incentivos con el éxito del cliente."
       ]
     }
   ],
@@ -141,97 +141,63 @@
     {
       "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
       "categoria": "Market",
-      "titulo": "El apalancamiento en el comercio de IA es más preocupante que la deuda de su construcción",
-      "detalle": "Los mercados de valores de EE.UU. y Corea muestran volatilidad, con caídas en las acciones tecnológicas, lo que sugiere riesgos en la inversión en IA.",
-      "mitigacion": "Monitorear de cerca la volatilidad del mercado y considerar estrategias de inversión diversificadas para mitigar riesgos asociados al apalancamiento en el sector de la IA."
+      "titulo": "Apalancamiento excesivo en el sector de IA",
+      "detalle": "El apalancamiento en el comercio de IA es considerado más preocupante que la deuda utilizada para su desarrollo, lo que podría generar inestabilidad en los mercados.",
+      "mitigacion": "Monitorear de cerca los indicadores de apalancamiento en el sector tecnológico y de IA. Diversificar inversiones para mitigar riesgos asociados a la volatilidad del mercado."
     },
     {
-      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Market",
-      "titulo": "Caída de Bitcoin por presiones de la Fed, ETFs y la IA",
-      "detalle": "La baja de Bitcoin por debajo de los $60.000 se atribuye a una Reserva Federal restrictiva, salidas de fondos de ETFs y un cambio de capital hacia la IA.",
-      "mitigacion": "Evaluar el impacto de las políticas de la Reserva Federal y el flujo de capital hacia la IA en las inversiones en criptomonedas y ETFs."
+      "titulo": "Pérdida de poder adquisitivo por inflación en Argentina",
+      "detalle": "El salario pretendido en Argentina sigue perdiendo contra la inflación, afectando el poder adquisitivo y la estabilidad económica personal.",
+      "mitigacion": "Evaluar estrategias de inversión que protejan contra la inflación. Mantenerse informado sobre la evolución económica local y ajustar planes financieros."
     },
     {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "categoria": "Technology",
-      "titulo": "El asistente de cámara con IA de Sony es tan malo como parece",
-      "detalle": "Sony promocionó su Xperia 1 VIII con fotos de baja calidad tomadas con su nuevo asistente de cámara con IA, lo que sugiere que la tecnología no está a la altura.",
-      "mitigacion": "Ser cauteloso con las promesas de IA en productos de consumo y evaluar la calidad real de la implementación antes de adoptar nuevas herramientas o dispositivos."
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Business",
+      "titulo": "Migración de talento por falta de adopción de IA",
+      "detalle": "Las empresas que no adopten IA podrían enfrentar una migración de talento, además de la pérdida de clientes.",
+      "mitigacion": "Priorizar la capacitación en IA y la integración de herramientas de IA en los procesos de trabajo. Fomentar una cultura de innovación y adaptación tecnológica para retener talento."
     }
   ],
   "conexiones": [
     {
-      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
-      "titulo": "Apalancamiento en el comercio de IA y la deuda de su construcción",
+      "id": "ai-economy-impact",
+      "titulo": "El impacto dual de la IA en la economía y el empleo",
       "historias": [
-        "La caída de Bitcoin se atribuye en parte a un cambio de capital hacia la IA.",
-        "La máquina de $400 millones de ASML impulsa el futuro de la fabricación de chips, esencial para la IA."
+        "La adopción de IA pasa a ser un imperativo en las empresas, para evitar la pérdida de clientes y de talento.",
+        "El apalancamiento en el comercio de IA es incluso más preocupante que la deuda utilizada para su construcción."
       ],
-      "conclusion": "La inversión en IA está generando un gran movimiento de capital, pero también presenta riesgos de apalancamiento y volatilidad en los mercados, lo que podría afectar tanto a las acciones tecnológicas como a las criptomonedas."
+      "conclusion": "La IA se posiciona como un motor de cambio ineludible, tanto en la creación de valor y retención de talento como en la generación de riesgos financieros por el apalancamiento de su desarrollo. Es clave entender ambos lados de la moneda."
+    },
+    {
+      "id": "apple-ecosystem-updates",
+      "titulo": "Novedades en el ecosistema Apple y su integración",
+      "historias": [
+        "Apple lanza la segunda beta de watchOS 27 para desarrolladores.",
+        "YouTube Music podría pronto soportar descargas offline en Apple Watch."
+      ],
+      "conclusion": "Apple continúa con el desarrollo de sus sistemas operativos, y la posible integración de descargas offline de YouTube Music en el Apple Watch mejora la experiencia del usuario, especialmente para quienes usan el reloj para actividades físicas sin el iPhone."
     }
   ],
   "noticias": [
     {
-      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "categoria": "AI",
-      "fuente": "Google AI Blog",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-      "tituloOriginal": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-      "tituloLimpio": "Investigación muestra cómo la IA médica de Google podría ayudar a manejar condiciones de salud",
-      "resumen": "Una investigación publicada en “Nature” indica que el sistema de IA conversacional de Google iguala a médicos de atención primaria en el manejo de enfermedades complejas.",
-      "porQueImporta": "Esta noticia es relevante para Guido por su interés en la IA aplicada, mostrando un avance significativo en el uso de la inteligencia artificial en el campo de la medicina, con un impacto potencial global.",
-      "publicadoEn": "2026-06-17T15:00:00.000Z",
-      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp",
-      "globalScore": 92,
-      "personalScore": 100,
-      "tags": [
-        "IA",
-        "medicina",
-        "investigación",
-        "Google"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
-      "categoria": "Finance",
-      "fuente": "Sherwood",
-      "url": "https://sherwood.news/markets/south-koreas-memory-stock-leverage-slump-us-stock-tech-selloff-ai-trade/",
-      "tituloOriginal": "Leverage in the AI trade is even scarier than the debt used for its build-out",
-      "tituloLimpio": "El apalancamiento en el comercio de IA es más preocupante que la deuda de su construcción",
-      "resumen": "Los mercados de valores de EE.UU. y Corea muestran volatilidad, con caídas en las acciones tecnológicas.",
-      "porQueImporta": "Guido, interesado en inversión y mercados, debe estar al tanto de la volatilidad y los riesgos asociados al apalancamiento en el sector de la IA, que podría impactar sus inversiones.",
-      "publicadoEn": "2026-06-23T13:59:59.000Z",
-      "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/97238386_screaming-man.jpg?w=1600",
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/23/apple-seeds-watchos-27-beta-2-to-developers/",
+      "tituloOriginal": "Apple Seeds watchOS 27 Beta 2 to Developers",
+      "tituloLimpio": "Apple lanza la segunda beta de watchOS 27 para desarrolladores",
+      "resumen": "Apple lanzó hoy la segunda beta de watchOS 27 para desarrolladores, dos semanas después del lanzamiento de la primera beta.",
+      "porQueImporta": "Guido, como usuario de Apple, esta noticia es relevante para estar al tanto de las próximas actualizaciones del sistema operativo de su Apple Watch y las posibles nuevas funciones que se vienen.",
+      "publicadoEn": "2026-06-23T18:18:05.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "finanzas",
-        "mercado",
-        "IA",
-        "inversión"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "categoria": "Argentina",
-      "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/agip-ya-se-pueden-pagar-forma-digital-online-las-deudas-judiciales-y-los-honorarios-intermediarios-n6291832",
-      "tituloOriginal": "AGIP: ya se pueden pagar de forma digital online las deudas judiciales y los honorarios sin intermediarios",
-      "tituloLimpio": "AGIP: ya se pueden pagar de forma digital online las deudas judiciales y los honorarios sin intermediarios",
-      "resumen": "Los contribuyentes pueden regularizar de manera 100% digital las deudas tributarias judicializadas y pagar honorarios de mandatarios desde el Portal del Contribuyente. El plan permite financiar la deuda en hasta 36 cuotas.",
-      "porQueImporta": "Esta es una noticia muy útil para Guido, como residente en Argentina, ya que le ofrece una herramienta de automatización y simplificación para la gestión de deudas tributarias, con opciones de financiación.",
-      "publicadoEn": "2026-06-23T14:30:55.000Z",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "Argentina",
-        "impuestos",
-        "deudas",
-        "digitalización",
-        "herramientas"
+        "Apple",
+        "watchOS",
+        "desarrolladores",
+        "actualización"
       ],
       "tambienVistoEn": []
     },
@@ -239,19 +205,19 @@
       "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
       "categoria": "Marketing",
       "fuente": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/gap-brings-ai-to-owned-marketing-channels-across-brand-portfolio/823491/",
-      "tituloOriginal": "Gap brings AI to owned marketing channels across brand portfolio",
-      "tituloLimpio": "Gap incorpora IA en sus canales de marketing propios en todo su portfolio de marcas",
-      "resumen": "El minorista está aprovechando asociaciones con Google Cloud, Zeta Global y Publicis Sapient como parte de un nuevo esfuerzo de transformación.",
-      "porQueImporta": "Para Guido, interesado en marketing y IA aplicada, esta noticia muestra cómo grandes empresas están integrando la IA en sus estrategias, lo que puede inspirar nuevas ideas o tendencias en su propio trabajo.",
-      "publicadoEn": "2026-06-23T14:07:00.000Z",
+      "url": "https://www.marketingdive.com/news/liveramp-ceo-dishes-on-openai-partnership-looming-publicis-acquisition/823481/",
+      "tituloOriginal": "LiveRamp CEO dishes on OpenAI partnership, looming Publicis acquisition",
+      "tituloLimpio": "CEO de LiveRamp habla sobre la asociación con OpenAI y la adquisición de Publicis",
+      "resumen": "Scott Howe se reunió con Marketing Dive para hablar sobre nuevas colaboraciones, incluyendo una con Adobe, y su compromiso con la neutralidad.",
+      "porQueImporta": "Para Guido, interesado en marketing y IA, esta noticia es relevante porque muestra cómo grandes empresas de marketing se asocian con líderes en IA como OpenAI, indicando tendencias en la industria.",
+      "publicadoEn": "2026-06-23T17:52:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "marketing",
+        "Marketing",
         "IA",
-        "retail",
-        "Gap"
+        "OpenAI",
+        "colaboraciones"
       ],
       "tambienVistoEn": []
     },
@@ -259,19 +225,18 @@
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
       "fuente": "The Verge AI",
-      "url": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant",
-      "tituloOriginal": "Sony’s AI Camera Assistant is exactly as bad as it looks",
-      "tituloLimpio": "El asistente de cámara con IA de Sony es tan malo como parece",
-      "resumen": "Cuando Sony anunció el Xperia 1 VIII, promocionó el teléfono compartiendo algunas de las peores fotos tomadas con una cámara Sony en años. Estas fotos fueron tomadas con el nuevo asistente de cámara con IA de Sony.",
-      "porQueImporta": "Esta noticia es relevante para Guido, que trabaja con retoque fotográfico y arte con IA, ya que ilustra los desafíos y las posibles fallas en la implementación de la IA en productos de consumo, especialmente en el ámbito visual.",
-      "publicadoEn": "2026-06-23T13:25:42.000Z",
+      "url": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district",
+      "tituloOriginal": "Why corporate AI super PACs spent $27 million on a local election",
+      "tituloLimpio": "Por qué los super PACs corporativos de IA gastaron $27 millones en una elección local",
+      "resumen": "Hola y bienvenido a Regulator, el boletín para suscriptores de Verge que narra las desventuras de sus señores tecnológicos favoritos y las criaturas del pantano de Washington.",
+      "porQueImporta": "Esta noticia, aunque habla de política local, es relevante por el monto invertido por super PACs de IA, lo que sugiere el creciente poder e influencia de la industria de la IA en distintos ámbitos, incluso fuera de su core tecnológico.",
+      "publicadoEn": "2026-06-23T17:00:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "IA",
-        "fotografía",
-        "tecnología",
-        "Sony"
+        "política",
+        "influencia"
       ],
       "tambienVistoEn": []
     },
@@ -282,16 +247,16 @@
       "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
       "tituloOriginal": "The $400 million machine powering the future of chipmaking",
       "tituloLimpio": "La máquina de $400 millones que impulsa el futuro de la fabricación de chips",
-      "resumen": "Jos Benschop está subiendo una escalera para llegar a la parte superior de su máquina más nueva. El aparato tiene el tamaño de un autobús de dos pisos, más de 150 toneladas de aluminio fresado de precisión cubierto de miles de tubos, cables de colores y tanques presurizados.",
-      "porQueImporta": "Esta noticia es importante para Guido por su interés en la IA aplicada, ya que describe la infraestructura física de alta tecnología necesaria para el desarrollo de chips, que son fundamentales para el avance de la inteligencia artificial.",
+      "resumen": "Jos Benschop está subiendo una escalera para llegar a la cima de su máquina más nueva. Es un poco un esfuerzo. El artilugio es del tamaño de un autobús de dos pisos, más de 150 toneladas de aluminio pulido de precisión cubierto de miles de tubos serpenteantes, cables de colores y tanques presurizados.",
+      "porQueImporta": "Para Guido, interesado en IA y tecnología, esta noticia es clave porque la fabricación de chips es fundamental para el avance de la IA. Entender la escala y la inversión en esta área da una idea del futuro de la tecnología.",
       "publicadoEn": "2026-06-23T09:00:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "IA",
+        "chips",
         "tecnología",
-        "hardware",
-        "chips"
+        "fabricación"
       ],
       "tambienVistoEn": []
     },
@@ -299,19 +264,79 @@
       "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Apple",
       "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/23/hands-on-this-case-adds-a-customizable-e-ink-display-to-your-iphone-video/",
-      "tituloOriginal": "Hands-on: This case adds a customizable e-ink display to your iPhone [Video]",
-      "tituloLimpio": "Un case agrega una pantalla e-ink personalizable a tu iPhone",
-      "resumen": "Hay miles de fundas para iPhone en el mercado. Es raro ver una funda que haga algo diferente y que sea más que un truco. El nuevo case XTREME E-Ink afirma...",
-      "porQueImporta": "Como usuario de Apple, Guido podría encontrar interesante esta innovación en accesorios para iPhone, que ofrece una funcionalidad diferente y personalizable, alineada con su interés en herramientas y tecnología.",
-      "publicadoEn": "2026-06-23T14:38:16.000Z",
-      "globalScore": 100,
+      "url": "https://9to5mac.com/2026/06/23/iphone-18-pro-three-new-features-that-already-have-me-excited/",
+      "tituloOriginal": "iPhone 18 Pro: Three new features that already have me excited",
+      "tituloLimpio": "iPhone 18 Pro: Tres nuevas características que ya me entusiasman",
+      "resumen": "Faltan unos meses para el lanzamiento del iPhone 18 Pro, pero de las nuevas características rumoreadas hasta ahora, hay tres mejoras que me entusiasman especialmente.",
+      "porQueImporta": "Como usuario de Apple, Guido puede interesarse en las especulaciones sobre las futuras características del iPhone, lo que le permite anticipar posibles mejoras y planificar futuras compras o actualizaciones.",
+      "publicadoEn": "2026-06-23T18:45:32.000Z",
+      "globalScore": 96,
       "personalScore": 100,
       "tags": [
         "Apple",
         "iPhone",
-        "accesorios",
-        "e-ink"
+        "rumores",
+        "novedades"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81Z29v",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5google.com/2026/06/23/youtube-music-may-soon-support-offline-downloads-on-apple-watch/",
+      "tituloOriginal": "YouTube Music may be working on support for offline downloads on Apple Watch",
+      "tituloLimpio": "YouTube Music podría estar trabajando en soporte para descargas offline en Apple Watch",
+      "resumen": "Hay muchas razones por las que un smartwatch puede ser útil, pero una opción que ha demostrado ser muy práctica es la capacidad de emparejar los auriculares directamente con el reloj y usar aplicaciones de música mientras se hace ejercicio, sin necesidad de teléfono.",
+      "porQueImporta": "Esta noticia es relevante para Guido si usa su Apple Watch para escuchar música mientras hace ejercicio, ya que las descargas offline mejorarían significativamente la experiencia sin depender del iPhone.",
+      "publicadoEn": "2026-06-23T16:55:18.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "Apple Watch",
+        "YouTube Music",
+        "offline"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/06/23/apple-rolls-out-watchos-27-beta-2-for-apple-watch?utm_source=rss",
+      "tituloOriginal": "Apple rolls out watchOS 27 beta 2 for Apple Watch",
+      "tituloLimpio": "Apple lanza watchOS 27 beta 2 para Apple Watch",
+      "resumen": "Un día después del resto de la segunda ola de betas para desarrolladores, watchOS 27 beta 2 finalmente está disponible para la mayoría de la línea compatible de Apple Watch.",
+      "porQueImporta": "Confirma y amplía la noticia de MacRumors, reforzando la información sobre las actualizaciones de Apple, importante para Guido como usuario del ecosistema.",
+      "publicadoEn": "2026-06-23T18:49:24.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "watchOS",
+        "beta",
+        "actualización"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/news/amazon-prime-day-2026-our-top-picks/",
+      "tituloOriginal": "Amazon Prime Day 2026: Our Top Picks",
+      "tituloLimpio": "Amazon Prime Day 2026: Nuestras mejores selecciones",
+      "resumen": "El Amazon Prime Day es más temprano que nunca este año, con muchas ofertas en nuestros gadgets favoritos.",
+      "porQueImporta": "Aunque Amazon Prime Day no es directamente accesible en Argentina con todos sus beneficios, la noticia puede servir como referencia de tendencias de consumo global y qué tipo de productos tecnológicos están en oferta, lo que puede ser útil para Guido en su interés por herramientas y gadgets.",
+      "publicadoEn": "2026-06-23T13:27:33.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Amazon",
+        "ofertas",
+        "gadgets",
+        "tecnología"
       ],
       "tambienVistoEn": []
     },
@@ -319,21 +344,41 @@
       "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
       "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/23/bitcoin-s-recent-drop-below-usd60-000-signals-fed-etf-and-ai-pressures-deutsche-bank",
-      "tituloOriginal": "Bitcoin's recent drop below $60,000 signals Fed, ETF and AI pressures: Deutsche Bank",
-      "tituloLimpio": "La caída reciente de Bitcoin por debajo de los $60.000 señala presiones de la Fed, ETFs y la IA: Deutsche Bank",
-      "resumen": "La caída de Bitcoin a su nivel más bajo desde finales de 2024 refleja una Reserva Federal restrictiva, salidas de fondos de ETFs y un cambio de capital hacia la IA, según el banco.",
-      "porQueImporta": "Esta noticia es crucial para Guido por su interés en inversión y ETFs, ya que explica factores macroeconómicos y tecnológicos que afectan el valor de Bitcoin y el flujo de capital en los mercados.",
-      "publicadoEn": "2026-06-23T14:54:17.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/71df673d351b791c3005560c1b5760411dece6dd-1500x922.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "url": "https://www.coindesk.com/markets/2026/06/23/meta-is-developing-a-prediction-market-app-called-arena-as-sector-booms-nyt",
+      "tituloOriginal": "Meta is developing a prediction market app called ‘Arena’ as sector booms: NYT",
+      "tituloLimpio": "Meta está desarrollando una aplicación de mercado de predicciones llamada ‘Arena’",
+      "resumen": "La aplicación permitiría a los usuarios pronosticar eventos futuros utilizando un sistema basado en puntos en lugar de apuestas en efectivo, según el informe.",
+      "porQueImporta": "Para Guido, interesado en inversión y mercados, una aplicación de predicciones de Meta es relevante porque explora nuevas formas de interacción con eventos futuros, aunque sea con puntos, y puede influir en el comportamiento del usuario y en el desarrollo de mercados similares.",
+      "publicadoEn": "2026-06-23T17:54:32.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/6e5cf463b2f68dffa6a7b6afec450568a6f19f28-2122x1415.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "Bitcoin",
-        "inversión",
-        "mercado",
-        "IA",
-        "ETFs"
+        "Meta",
+        "predicciones",
+        "aplicaciones",
+        "mercados"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/zcash-miner-fortitude-go-public-heartsciences-merger?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "tituloOriginal": "Zcash miner Fortitude gets Nasdaq listing via HeartSciences merger",
+      "tituloLimpio": "El minero de Zcash Fortitude obtiene cotización en Nasdaq mediante fusión con HeartSciences",
+      "resumen": "El acuerdo de acciones otorga a Fortitude una cotización en Nasdaq, mientras que HeartSciences conserva su negocio de atención médica y los accionistas existentes mantienen una participación minoritaria.",
+      "porQueImporta": "Esta noticia es relevante para Guido por su interés en inversiones y mercados, ya que muestra cómo empresas de criptominería acceden a mercados bursátiles tradicionales, lo que puede indicar tendencias en el sector financiero y de activos digitales.",
+      "publicadoEn": "2026-06-23T18:05:01.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/zcash-fortitude.png",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "criptomonedas",
+        "Nasdaq",
+        "inversión"
       ],
       "tambienVistoEn": []
     },
@@ -341,20 +386,41 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/economista-ricardo-arriazu-pidio-tratado-libre-comercio-india-eliminar-costo-argentino-produccion_0_eyJSsxtabx.html",
-      "tituloOriginal": "El economista Ricardo Arriazu pidió un tratado de libre comercio con India y eliminar el \"costo argentino\" de la producción",
-      "tituloLimpio": "El economista Ricardo Arriazu pidió un tratado de libre comercio con India y eliminar el \"costo argentino\" de la producción",
-      "resumen": "Fue durante el ciclo Democracia y Desarrollo, organizado este martes por Clarín en el Malba. Compartió el panel \"Las claves del cambiante escenario global\" con Carlos Pérez Llana, Francisco de Santibañes, Dante Sica y Martín Rapetti.",
-      "porQueImporta": "Para Guido, como residente en Argentina, esta noticia es relevante por su impacto potencial en la economía local y las oportunidades de negocio a través de un tratado de libre comercio, así como la discusión sobre la eficiencia productiva en el país.",
-      "publicadoEn": "2026-06-23T13:37:43.000Z",
-      "imagen": "https://www.clarin.com/img/2026/06/23/LQE11X8Ni_1200x630__1.jpg",
+      "url": "https://www.clarin.com/economia/miami-espera-boom-argentinos-mundial-disparo-800-demanda-pasajes-us-650_0_4faTaDmva7.html",
+      "tituloOriginal": "Miami espera un boom de argentinos por el Mundial: se disparó hasta 800% la demanda y hay pasajes desde US$ 650",
+      "tituloLimpio": "Miami espera un boom de argentinos por el Mundial: se disparó hasta 800% la demanda de pasajes",
+      "resumen": "Las búsquedas de viajes volvieron a subir tras el triunfo de la Selección. Hasta el comienzo del torneo, la demanda venía planchada.",
+      "porQueImporta": "Esta noticia es relevante para Guido por su contexto argentino, mostrando un fenómeno de consumo y migración temporal significativo, con impacto económico y social local.",
+      "publicadoEn": "2026-06-23T18:04:19.000Z",
+      "imagen": "https://www.clarin.com/img/2026/06/23/tbFtYhu2x_1200x630__1.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "economía",
-        "comercio",
-        "producción"
+        "Mundial",
+        "turismo",
+        "economía"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/causa-extorsion-cirio-buscaba-cubrirse-video-millones-dolares-cerrada-delito_0_WCofTeZO7w.html",
+      "tituloOriginal": "La causa de extorsión con la que Cirio buscaba cubrirse del video de los millones de dólares fue cerrada porque no hubo delito",
+      "tituloLimpio": "Causa de extorsión contra Cirio fue cerrada por inexistencia de delito",
+      "resumen": "La modelo dijo que denunció que la coaccionaron y que vulneraron sus dispositivos para sacar esas imágenes y otras. Pero la causa fue archivada por inexistencia de delito.",
+      "porQueImporta": "Aunque es una noticia de farándula, el aspecto legal y la mención de la vulneración de dispositivos pueden ser de interés para Guido, que trabaja con imágenes y tecnología, y puede estar atento a temas de seguridad digital y privacidad.",
+      "publicadoEn": "2026-06-23T17:46:35.000Z",
+      "imagen": "https://www.clarin.com/img/2025/07/25/4LuT4EWuZ_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "legal",
+        "seguridad digital",
+        "privacidad"
       ],
       "tambienVistoEn": []
     },
@@ -363,45 +429,67 @@
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
       "url": "https://www.infobae.com/economia/2026/06/23/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-martes-23-de-junio/",
-      "tituloOriginal": "Dólar hoy en vivo: el blue sube 5% en junio y alcanza los 1.500 pesos por primera vez desde enero",
-      "tituloLimpio": "Dólar hoy en vivo: el blue sube 5% en junio y alcanza los 1.500 pesos por primera vez desde enero",
-      "resumen": "El billete informal gana cinco pesos en el día y amplía a 70 pesos el alza en lo que va del mes. El dólar minorista asciende a $1.485 para la venta en el Banco Nación",
-      "porQueImporta": "Esta es una noticia de alta relevancia para Guido en Argentina, ya que el valor del dólar blue impacta directamente en su poder adquisitivo y en sus decisiones financieras y de inversión.",
-      "publicadoEn": "2026-06-23T14:50:35.000Z",
+      "tituloOriginal": "Dólar hoy en vivo: el blue sube 5% en junio y supera los 1.500 pesos por primera vez desde enero",
+      "tituloLimpio": "Dólar hoy en vivo: el blue sube 5% en junio y supera los 1.500 pesos por primera vez desde enero",
+      "resumen": "El billete informal ganó diez pesos en el día y amplió a 75 pesos el alza en lo que va del mes.",
+      "porQueImporta": "Para Guido, residente en Argentina, la cotización del dólar blue es una noticia de impacto directo en su economía personal y en el contexto financiero del país.",
+      "publicadoEn": "2026-06-23T18:56:00.000Z",
       "imagen": "https://www.infobae.com/resizer/v2/KOHQ4DUZF5FMFGKB72BJQKJOVM.jpeg?auth=ebb19ac5f5d618ae29f90bb74e6d5c42402c3f2be716d0a6bb808ada814fad34&smart=true&width=4857&height=2730",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "finanzas",
         "dólar",
-        "mercado"
+        "economía",
+        "finanzas"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
-      "categoria": "Marketing",
-      "fuente": "Adweek",
-      "url": "https://www.adweek.com/media/palantir-and-zeta-global-ink-7-year-deal-targeting-100m-in-annual-revenue/",
-      "tituloOriginal": "Palantir and Zeta Global Ink 7-Year Deal, Targeting $100M in Annual Revenue",
-      "tituloLimpio": "Palantir y Zeta Global firman un acuerdo de 7 años, apuntando a $100M en ingresos anuales",
-      "resumen": "La empresa de marketing en la nube busca una transición de proveedor de adtech a actor de infraestructura de IA.",
-      "porQueImporta": "Esta noticia es relevante para Guido por su interés en marketing y IA, ya que muestra una tendencia de empresas de marketing a transformarse en proveedores de infraestructura de IA, lo que podría influir en el desarrollo de herramientas y servicios.",
-      "publicadoEn": "2026-06-23T09:41:32.000Z",
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/06/23/en-plena-ofensiva-opositora-contra-adorni-y-con-las-paso-en-agenda-santilli-y-toto-caputo-recibiran-a-jalil-saenz-y-jaldo/",
+      "tituloOriginal": "En plena ofensiva opositora contra Adorni y con las PASO en agenda, Santilli y “Toto” Caputo recibieron a Jalil, Sáenz y Jaldo",
+      "tituloLimpio": "En plena ofensiva opositora contra Adorni, Santilli y Caputo recibieron a gobernadores",
+      "resumen": "La cita es a las 14.30 y reunirá a tres mandatarios con peso en el Congreso y una lista de reclamos por obras y transferencias.",
+      "porQueImporta": "Esta noticia es relevante para Guido por su contexto argentino, ya que refleja la dinámica política y económica del país, con implicaciones en la gestión y posibles impactos en la economía general.",
+      "publicadoEn": "2026-06-23T19:01:05.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/3V4VOAZTB5CP3OAKUEL4TTK764.jpeg?auth=62b2e6fe96b9b6595188aef887fbdd34607472888d4c026c242bbbae3c8bb33c&smart=true&width=1280&height=829",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "política",
+        "economía",
+        "gobierno"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Politica",
+      "url": "https://www.lanacion.com.ar/politica/en-el-aeropuerto-de-bariloche-detuvieron-a-un-exministro-rionegrino-condenado-por-sobresueldos-nid23062026/",
+      "tituloOriginal": "En el aeropuerto de Bariloche: detuvieron a un exministro rionegrino condenado por sobresueldos",
+      "tituloLimpio": "Detuvieron en Bariloche a exministro rionegrino condenado por sobresueldos",
+      "resumen": "César Barbeito fue aprehendido cuando regresaba de sus vacaciones; la Corte Suprema confirmó su condena por peculado mediante un sistema de cheques.",
+      "porQueImporta": "Esta noticia es relevante para Guido por su contexto argentino, mostrando un caso de corrupción y la acción de la justicia, lo que contribuye a entender el panorama político y social del país.",
+      "publicadoEn": "2026-06-23T19:00:41.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/LTJBQGU3WZGXLEEACXO3PAOROE.jpg?auth=36b48610b5c9a25355944ab74631be74e3daed986847a74fd4abb0c875afb569&smart=true&width=368&height=360",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "marketing",
-        "IA",
-        "negocios",
-        "tecnología"
+        "Argentina",
+        "política",
+        "corrupción",
+        "justicia"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-06-23T14:55:45.975Z"
+    "generadoEn": "2026-06-23T19:10:30.584Z"
   }
 }
