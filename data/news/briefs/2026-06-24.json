@@ -1,0 +1,384 @@
+{
+  "fecha": "2026-06-24",
+  "generadoEn": "2026-06-24T18:53:10.307Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Hoy tenemos novedades importantes en IA, con Google presentando su IA médica AMIE y Facebook lanzando una app para creadores. En Apple, iOS 27 trae mejoras para AirPods, incluyendo Siri AI y ecualizador personalizado. Para Argentina, se destaca el crecimiento de exportaciones de carne a EE.UU. y el debate político sobre el dólar y la moción de censura a Adorni. También hay noticias sobre la evolución del dólar y el interés en Vaca Muerta. En finanzas, se observa el éxito de Prime Day y movimientos en el mercado cripto.",
+  "radarPersonal": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Google presenta AMIE, su IA médica, para la gestión de enfermedades",
+      "resumen": "Investigaciones en “Nature” muestran que el sistema de IA conversacional de Google iguala a médicos de atención primaria en la gestión de enfermedades complejas.",
+      "categoria": "AI",
+      "fuentes": [
+        "Google AI Blog"
+      ],
+      "urls": [
+        "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/"
+      ],
+      "score": 100,
+      "tags": [
+        "IA",
+        "medicina",
+        "salud"
+      ]
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Nuevas funciones para AirPods en iOS 27",
+      "resumen": "Con cada actualización de iOS, Apple añade nuevas funciones a los AirPods. En iOS 27, los AirPods funcionan con Siri AI y hay una opción de ecualizador personalizado muy solicitada.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/guide/ios-27-airpods/"
+      ],
+      "score": 100,
+      "tags": [
+        "Apple",
+        "AirPods",
+        "iOS",
+        "Siri",
+        "ecualizador"
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Ganancia al invertir $2.000.000 en un plazo fijo a 30 días en Argentina",
+      "resumen": "Con las tasas vigentes en junio, un depósito de dos millones de pesos genera ganancias diferentes, según el canal elegido.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/cuanto-se-obtiene-al-invertir-2000000-un-plazo-fijo-30-dias-n6292393"
+      ],
+      "score": 100,
+      "tags": [
+        "Argentina",
+        "inversión",
+        "plazo fijo",
+        "finanzas"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "Facebook lanza una aplicación de IA complementaria para creadores",
+      "resumen": "La nueva aplicación, que actualmente se está probando con creadores seleccionados, tendrá el asistente de IA para creadores de Facebook integrado.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/"
+      ],
+      "score": 100,
+      "tags": [
+        "IA",
+        "creadores",
+        "Facebook",
+        "aplicaciones"
+      ]
+    }
+  ],
+  "loImportante": [
+    "Google está avanzando en IA médica con AMIE, un sistema conversacional que iguala a médicos en gestión de enfermedades complejas.",
+    "Apple mejora la experiencia de AirPods en iOS 27 con integración de Siri AI y la esperada opción de ecualizador personalizado.",
+    "En Argentina, las exportaciones de carne vacuna a Estados Unidos crecieron exponencialmente, con un aumento de más del 145% en volumen.",
+    "Facebook lanzó una aplicación de IA para creadores, integrando su asistente de IA para facilitar el trabajo de los mismos.",
+    "El dólar en Argentina alcanzó máximos desde enero, con el billete ofrecido a $1.495 en Banco Nación y $1.520 en el mercado blue."
+  ],
+  "oportunidades": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "titulo": "Explorar el potencial de la IA conversacional en la gestión de salud",
+      "detalle": "La investigación de Google con AMIE demuestra que la IA puede igualar a médicos en la gestión de enfermedades complejas. Esto abre puertas para aplicaciones de IA en asistencia médica y bienestar.",
+      "acciones": [
+        "Investigar herramientas de IA conversacional para aplicaciones en salud o bienestar.",
+        "Analizar cómo la IA puede optimizar procesos de gestión de información médica."
+      ]
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Productivity",
+      "titulo": "Aprovechar las nuevas funciones de AirPods con iOS 27",
+      "detalle": "La integración de Siri AI y el ecualizador personalizado en AirPods con iOS 27 mejoran la experiencia de audio y la interacción con el asistente, útil para productividad y entretenimiento.",
+      "acciones": [
+        "Actualizar a iOS 27 para acceder a las nuevas funciones de AirPods.",
+        "Configurar el ecualizador personalizado para optimizar la experiencia de audio."
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Investing",
+      "titulo": "Evaluar opciones de inversión en plazos fijos en Argentina",
+      "detalle": "Con las tasas vigentes en junio, invertir $2.000.000 en un plazo fijo a 30 días genera ganancias, aunque varían según el canal elegido. Es una opción a considerar para la gestión de capital en pesos.",
+      "acciones": [
+        "Consultar las tasas de plazos fijos en diferentes bancos y canales.",
+        "Comparar rendimientos para tomar la mejor decisión de inversión a corto plazo."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "titulo": "Riesgos de conflictos de intereses en el desarrollo de IA",
+      "detalle": "La 'guerra de poder' de 27 millones de dólares entre Anthropic y OpenAI en una primaria política de Nueva York resalta la influencia y los posibles conflictos de intereses de grandes empresas de IA en otros ámbitos.",
+      "mitigacion": "Mantenerse informado sobre la ética y la regulación en el desarrollo de IA para entender su impacto en la sociedad y los mercados."
+    }
+  ],
+  "conexiones": [],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+      "tituloOriginal": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "tituloLimpio": "Investigación muestra cómo AMIE, la IA médica de Google, podría ayudar a gestionar condiciones de salud",
+      "resumen": "Investigaciones en “Nature” muestran que el sistema de IA conversacional de Google iguala a médicos de atención primaria en la gestión de enfermedades complejas.",
+      "porQueImporta": "Guido, como interesado en IA aplicada, esta noticia es clave porque muestra un avance significativo en el uso de IA en un campo tan sensible como la medicina, equiparando el rendimiento de un sistema conversacional con el de profesionales de la salud. Esto puede inspirar nuevas ideas para la aplicación de IA en otros dominios.",
+      "publicadoEn": "2026-06-17T15:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "medicina",
+        "salud",
+        "investigación"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/guide/ios-27-airpods/",
+      "tituloOriginal": "Every New AirPods Feature in iOS 27",
+      "tituloLimpio": "Todas las nuevas funciones de AirPods en iOS 27",
+      "resumen": "Con cada actualización de iOS, Apple añade nuevas funciones a los AirPods. En iOS 27, los AirPods funcionan con Siri AI y hay una opción de ecualizador personalizado muy solicitada.",
+      "porQueImporta": "Para vos, que seguís de cerca las novedades de Apple, esta actualización de iOS 27 para AirPods es importante por la integración de Siri AI y la inclusión de un ecualizador personalizado, una función muy esperada que mejora la experiencia de usuario y la personalización del sonido.",
+      "publicadoEn": "2026-06-24T17:58:08.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "AirPods",
+        "iOS",
+        "Siri",
+        "ecualizador"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/cuanto-se-obtiene-al-invertir-2000000-un-plazo-fijo-30-dias-n6292393",
+      "tituloOriginal": "Cuánto se obtiene al invertir $2.000.000 en un plazo fijo de 30 días",
+      "tituloLimpio": "Cuánto se obtiene al invertir $2.000.000 en un plazo fijo de 30 días",
+      "resumen": "Con las tasas vigentes en junio, un depósito de dos millones de pesos genera ganancias diferentes, según el canal elegido.",
+      "porQueImporta": "Como inversor en Argentina, esta noticia te da una idea concreta de los rendimientos actuales de los plazos fijos en pesos, lo cual es fundamental para tus decisiones de inversión a corto plazo y la gestión de tu capital.",
+      "publicadoEn": "2026-06-24T18:30:00.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "finanzas",
+        "inversión",
+        "plazo fijo"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/albertsons-media-collective-criteo-ai-search-brand-ads-ecommerce-omnichannel/823636/",
+      "tituloOriginal": "Albertsons integrates branded product placement into AI-search tool",
+      "tituloLimpio": "Albertsons integra la colocación de productos de marca en su herramienta de búsqueda con IA",
+      "resumen": "El brazo de medios minoristas de la compañía de comestibles ahora permite que los anuncios aparezcan en los carruseles de productos de búsqueda conversacional.",
+      "porQueImporta": "Para tu interés en marketing y IA, esta noticia muestra cómo la inteligencia artificial está transformando la publicidad en el comercio minorista, permitiendo la integración de anuncios directamente en las búsquedas conversacionales. Es un ejemplo práctico de marketing con IA.",
+      "publicadoEn": "2026-06-24T14:34:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "IA",
+        "publicidad",
+        "e-commerce"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
+      "tituloOriginal": "Facebook rolls out an AI companion app for creators",
+      "tituloLimpio": "Facebook lanza una aplicación de IA complementaria para creadores",
+      "resumen": "La nueva aplicación, que actualmente se está probando con creadores seleccionados, tendrá el asistente de IA para creadores de Facebook integrado.",
+      "porQueImporta": "Como artista con IA y creador, esta noticia es relevante porque Facebook está invirtiendo en herramientas de IA para facilitar el trabajo de los creadores. Esto podría impactar en cómo se genera contenido y se interactúa con las plataformas.",
+      "publicadoEn": "2026-06-24T17:16:24.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "creadores",
+        "Facebook",
+        "aplicaciones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+      "tituloOriginal": "The emergence of the web data infrastructure layer for AI",
+      "tituloLimpio": "La emergencia de la capa de infraestructura de datos web para IA",
+      "resumen": "La IA está en auge. Cada día surgen nuevos casos de uso. Para capitalizar el potencial de la tecnología, las empresas requieren datos a escala.",
+      "porQueImporta": "Esta noticia es importante para entender la base de la IA. Destaca la necesidad de una infraestructura de datos robusta para el crecimiento de la IA, un aspecto técnico clave que impacta en el desarrollo y la aplicación de modelos de IA, algo que te interesa como artista con IA.",
+      "publicadoEn": "2026-06-24T11:59:54.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "datos",
+        "infraestructura",
+        "tecnología"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/24/openai-just-updated-how-chatgpts-most-used-model-works-again-details-here/",
+      "tituloOriginal": "OpenAI just updated how ChatGPT’s most-used model works again, details here",
+      "tituloLimpio": "OpenAI actualizó cómo funciona su modelo más usado de ChatGPT",
+      "resumen": "Los usuarios de ChatGPT podrían notar algo diferente en la experiencia del chatbot de IA en los próximos días. Esto se debe a que OpenAI está ajustando cómo funciona su modelo más usado.",
+      "porQueImporta": "Como usuario o interesado en herramientas de IA, es relevante saber que OpenAI está ajustando su modelo más usado de ChatGPT. Esto puede implicar cambios en el rendimiento, la precisión o las capacidades del chatbot, afectando tu experiencia o la de tus colegas.",
+      "publicadoEn": "2026-06-24T18:13:59.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "ChatGPT",
+        "OpenAI",
+        "actualización"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81Z29v",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5google.com/2026/06/23/youtube-music-may-soon-support-offline-downloads-on-apple-watch/",
+      "tituloOriginal": "YouTube Music may be working on support for offline downloads on Apple Watch",
+      "tituloLimpio": "YouTube Music podría pronto soportar descargas offline en Apple Watch",
+      "resumen": "YouTube Music para Apple Watch parece estar finalmente listo para esa funcionalidad, ya que nuevos hallazgos de código sugieren que el soporte está a la vuelta de la esquina.",
+      "porQueImporta": "Para vos, que usás productos Apple, la posibilidad de descargar música offline en YouTube Music para Apple Watch es una mejora práctica. Permite escuchar música sin el teléfono, ideal para hacer ejercicio o actividades al aire libre.",
+      "publicadoEn": "2026-06-23T16:55:18.000Z",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "Apple Watch",
+        "YouTube Music",
+        "offline"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/rural/vamos-cumplir-cuota-duda-exponencial-crecimiento-exportaciones-carne-vacuna-estados-unidos-ampliacion-cupo_0_Xg4yb6pTeZ.html",
+      "tituloOriginal": "\"Vamos a cumplir la cuota sin ninguna duda\": exponencial crecimiento de las exportaciones de carne vacuna a Estados Unidos tras la ampliación del cupo",
+      "tituloLimpio": "Crecimiento exponencial de las exportaciones de carne vacuna a Estados Unidos",
+      "resumen": "Entre enero y mayo, los embarques hacia el mercado norteamericano crecieron más de 145% en volumen y más de 200% en valor. El país norteamericano se convirtió en mayo en el segundo destino en importancia.",
+      "porQueImporta": "Esta es una excelente noticia para la economía argentina. Un crecimiento tan marcado en las exportaciones de carne a un mercado clave como EE.UU. indica un fortalecimiento de un sector importante y puede tener un impacto positivo en la balanza comercial y la generación de divisas.",
+      "publicadoEn": "2026-06-24T16:05:24.000Z",
+      "imagen": "https://www.clarin.com/img/2025/10/14/fM3CRGXO7_1200x630__1.jpg",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "exportaciones",
+        "carne"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/06/24/dolar-hoy-en-vivo-a-cuanto-se-negocian-todas-las-cotizaciones-minuto-a-minuto-este-miercoles-24-de-junio/",
+      "tituloOriginal": "Dólar hoy en vivo: a cuánto se negocian todas las cotizaciones minuto a minuto este miércoles 24 de junio",
+      "tituloLimpio": "El dólar hoy en vivo: cotizaciones minuto a minuto este miércoles 24 de junio",
+      "resumen": "El billete terminó ofrecido a $1.495 para la venta en el Banco Nación, y a $1.520 en el mercado blue, en máximos desde enero.",
+      "porQueImporta": "Para vos, que seguís de cerca la economía argentina y las inversiones, la cotización del dólar es un dato diario fundamental. El hecho de que haya alcanzado máximos desde enero es una señal importante sobre la situación económica y el valor de la moneda local.",
+      "publicadoEn": "2026-06-24T18:42:29.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/BHDRNJIJ3JGJTG7X6BSJV6I7WY.JPG?auth=aaafaff94ec39a430a6fd0b1536db65c3b5825cd48f3947e63c5f5f202934cfc&smart=true&width=4000&height=2668",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "finanzas",
+        "dólar",
+        "economía"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/vaca-muerta-tecnologia-y-el-fenomeno-messi-la-ciudad-que-esta-desplazando-a-miami-como-centro-de-nid24062026/",
+      "tituloOriginal": "Vaca Muerta, tecnología y el fenómeno Messi: la ciudad que está desplazando a Miami como centro de atención de los argentinos",
+      "tituloLimpio": "Vaca Muerta, tecnología y el fenómeno Messi: la ciudad que está desplazando a Miami como centro de atención de los argentinos",
+      "resumen": "Cada vez son más las compañías que se instalan en esta ciudad y dejan de lado Miami; el boom que provoca la selección.",
+      "porQueImporta": "Esta noticia es interesante porque muestra un cambio en las tendencias de inversión y atención dentro de Argentina, con un foco en Vaca Muerta y la tecnología. Refleja movimientos económicos y sociales relevantes a nivel local.",
+      "publicadoEn": "2026-06-24T18:33:40.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/WB5FR2CBNNH43F3P3AEK2SWNCY.png?auth=78df3eabbe1b92a65ade69458ec7f65c1f7387e8d1947da4a37a4b519eea12e6&smart=true&width=2000&height=1333",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "Vaca Muerta",
+        "tecnología"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "fuente": "Adweek",
+      "url": "https://www.adweek.com/media/how-marketers-can-align-ai-with-real-business-growth/",
+      "tituloOriginal": "How Marketers Can Align AI With Real Business Growth",
+      "tituloLimpio": "Cómo los especialistas en marketing pueden alinear la IA con el crecimiento real del negocio",
+      "resumen": "La IA ha hecho que la compra de medios sea más rápida. Si esa velocidad se dirige en la dirección correcta es otra cuestión.",
+      "porQueImporta": "Como profesional interesado en marketing y automatización, esta noticia te ofrece una perspectiva crítica sobre cómo la IA puede y debe ser utilizada en marketing para generar un crecimiento real, no solo velocidad. Es clave para entender la estrategia detrás de la implementación de IA en negocios.",
+      "publicadoEn": "2026-06-24T14:49:08.000Z",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "IA",
+        "negocios",
+        "crecimiento"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-06-24T18:53:10.307Z"
+  }
+}
