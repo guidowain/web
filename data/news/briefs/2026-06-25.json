@@ -1,0 +1,495 @@
+{
+  "fecha": "2026-06-25",
+  "generadoEn": "2026-06-25T14:39:03.770Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "Apple anunció aumentos de precios en varios de sus productos, incluyendo iPads y Macs, aunque algunos artículos se salvaron. En el ámbito de la IA, se destaca una investigación de Google sobre su IA médica AMIE y la necesidad de una mejor infraestructura de datos web para el crecimiento de la IA. A nivel local, el dólar blue y oficial mantienen sus cotizaciones, y el Gobierno nombró nuevos jueces. También se frustró una sesión en el Senado por falta de quórum.",
+  "radarPersonal": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Última chance para conseguir iPads y Macs baratos antes de la suba de precios de Apple",
+      "resumen": "Apple anunció hoy aumentos de precios en una amplia gama de sus productos, incluyendo iPads, Macs, HomePod y Vision Pro. Estos cambios de precios ya están activos en Apple.com.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/06/25/beat-apples-price-hike/"
+      ],
+      "score": 100,
+      "tags": [
+        "apple",
+        "precios",
+        "ipad",
+        "mac"
+      ]
+    },
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Investigación muestra cómo la IA médica AMIE de Google podría ayudar a manejar condiciones de salud",
+      "resumen": "Una investigación en “Nature” muestra que el sistema de IA conversacional de Google iguala a los médicos de atención primaria en el manejo de enfermedades complejas.",
+      "categoria": "AI",
+      "fuentes": [
+        "Google AI Blog"
+      ],
+      "urls": [
+        "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/"
+      ],
+      "score": 100,
+      "tags": [
+        "ia",
+        "medicina",
+        "salud",
+        "investigacion"
+      ]
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "titulo": "La emergencia de la capa de infraestructura de datos web para la IA",
+      "resumen": "La IA está en auge. Para capitalizar el potencial de la tecnología, las empresas requieren datos a escala. En muchos casos, la información relevante está bloqueada o no estructurada, lo que limita su uso por los modelos de IA.",
+      "categoria": "AI",
+      "fuentes": [
+        "MIT Technology Review AI"
+      ],
+      "urls": [
+        "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/"
+      ],
+      "score": 100,
+      "tags": [
+        "ia",
+        "datos",
+        "infraestructura",
+        "empresas"
+      ]
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "titulo": "Cómo hacer que la IA funcione para tu equipo de marketing",
+      "resumen": "En un mundo saturado de IA, los equipos de marca están empezando a hacer preguntas de siguiente nivel sobre cómo escalar la creatividad de manera responsable.",
+      "categoria": "Marketing",
+      "fuentes": [
+        "Adweek"
+      ],
+      "urls": [
+        "https://www.adweek.com/creativity/how-to-make-ai-work-for-your-marketing-team/"
+      ],
+      "score": 100,
+      "tags": [
+        "ia",
+        "marketing",
+        "creatividad",
+        "equipos"
+      ]
+    }
+  ],
+  "loImportante": [
+    "Apple subió los precios de varios de sus productos, incluyendo iPads y Macs.",
+    "Una investigación de Google muestra que su IA médica AMIE iguala a médicos en el manejo de enfermedades complejas.",
+    "La infraestructura de datos web es clave para el crecimiento de la IA, ya que muchas empresas necesitan datos a escala.",
+    "El dólar oficial y el dólar blue mantienen sus cotizaciones en Argentina.",
+    "El Gobierno argentino nombró 46 jueces, mientras que una sesión en el Senado se cayó por falta de quórum."
+  ],
+  "oportunidades": [
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "titulo": "Aprovechar la IA para escalar la creatividad en marketing",
+      "detalle": "Los equipos de marketing están buscando formas de usar la IA para escalar la creatividad de manera responsable. Esto representa una oportunidad para integrar herramientas de IA en procesos de retoque fotográfico y arte con IA.",
+      "acciones": [
+        "Investigar herramientas de IA para optimizar flujos de trabajo creativos.",
+        "Explorar casos de uso de IA en marketing para aplicar a proyectos personales o de clientes."
+      ]
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "titulo": "Desarrollo de infraestructura de datos para IA",
+      "detalle": "El auge de la IA requiere datos a escala, pero mucha información está bloqueada o no estructurada. Esto abre una oportunidad para soluciones que mejoren la infraestructura de datos web para modelos de IA.",
+      "acciones": [
+        "Analizar herramientas o servicios que faciliten la estructuración y acceso a datos para IA.",
+        "Considerar la creación de soluciones que aborden la limitación de datos para modelos de IA."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Market",
+      "titulo": "Aumento de precios de productos Apple",
+      "detalle": "Apple anunció aumentos de precios en una amplia gama de sus productos, incluyendo iPads y Macs. Esto podría impactar el costo de adquisición de herramientas de trabajo para Guido.",
+      "mitigacion": "Evaluar compras de equipos Apple antes de que los nuevos precios se apliquen completamente, si es posible. Buscar alternativas o planificar el presupuesto considerando los nuevos costos."
+    }
+  ],
+  "conexiones": [],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+      "tituloOriginal": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "tituloLimpio": "Investigación muestra cómo la IA médica de Google podría ayudar a manejar condiciones de salud",
+      "resumen": "Una investigación en “Nature” muestra que el sistema de IA conversacional de Google iguala a los médicos de atención primaria en el manejo de enfermedades complejas.",
+      "porQueImporta": "Destaca el avance de la IA en aplicaciones prácticas y sensibles como la medicina, mostrando su potencial para asistir en el manejo de la salud.",
+      "publicadoEn": "2026-06-17T15:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "medicina",
+        "salud"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/25/beat-apples-price-hike/",
+      "tituloOriginal": "Beat Apple's Price Hike: Last Chance to Score Cheap iPads and Macs for Prime Day",
+      "tituloLimpio": "Última chance para conseguir iPads y Macs baratos antes de la suba de precios de Apple",
+      "resumen": "Apple anunció hoy aumentos de precios en una amplia gama de sus productos, incluyendo iPads, Macs, HomePod y Vision Pro. Estos cambios de precios ya están activos en Apple.com.",
+      "porQueImporta": "Es relevante para Guido por el impacto directo en el costo de herramientas de trabajo de Apple, permitiendo anticipar posibles compras.",
+      "publicadoEn": "2026-06-25T13:53:05.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "precios",
+        "ipad",
+        "mac"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/el-mapa-precios-europa-cuales-son-los-paises-mas-caros-y-los-mas-baratos-n6292713",
+      "tituloOriginal": "El mapa de precios de Europa: cuáles son los países más caros y los más baratos",
+      "tituloLimpio": "El mapa de precios de Europa: cuáles son los países más caros y los más baratos",
+      "resumen": "Según los índices de nivel de precios de Eurostat, la misma canasta de bienes y servicios puede costar hasta 3,7 veces más en un país europeo que otro. Europa occidental y septentrional lideran los precios más altos, mientras que Europa central y oriental sigue siendo la más accesible.",
+      "porQueImporta": "Ofrece una perspectiva económica global sobre el costo de vida, útil para entender tendencias de precios y poder adquisitivo en diferentes regiones.",
+      "publicadoEn": "2026-06-25T14:09:00.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "economia",
+        "europa",
+        "precios"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/as-agentic-advertising-floods-cannes-amazon-touts-its-alexa-advantage/823730/",
+      "tituloOriginal": "As agentic advertising floods Cannes, Amazon touts its Alexa advantage",
+      "tituloLimpio": "Con la publicidad agéntica en Cannes, Amazon destaca su ventaja con Alexa",
+      "resumen": "Charlotte Maines, vicepresidenta de contenido y publicidad de dispositivos, detalló un nuevo formato de anuncios agénticos Alexa+ que está siendo probado por Papa Johns y otras marcas.",
+      "porQueImporta": "Muestra cómo las grandes empresas están integrando la IA conversacional en estrategias de marketing, relevante para entender el futuro de la publicidad y las herramientas de IA.",
+      "publicadoEn": "2026-06-25T13:30:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "ia",
+        "publicidad",
+        "amazon"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
+      "tituloOriginal": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
+      "tituloLimpio": "Ford tuvo que recontratar ingenieros para arreglar errores de sus sistemas automatizados",
+      "resumen": "Para celebrar su nuevo estatus como número 1 en el ranking de calidad inicial de JD Power entre los fabricantes de automóviles masivos, Ford está hablando de los desafíos que ha enfrentado en los últimos años, especialmente en torno a su dependencia de los sistemas automatizados en producción y diseño. Resulta que esos sistemas automatizados no eran tan robustos como se asumía previamente.",
+      "porQueImporta": "Destaca los desafíos y limitaciones de la automatización y la IA en entornos de producción, un recordatorio de la importancia de la supervisión humana y la calidad en la implementación de estas tecnologías.",
+      "publicadoEn": "2026-06-25T12:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "automatizacion",
+        "errores",
+        "produccion"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+      "tituloOriginal": "The emergence of the web data infrastructure layer for AI",
+      "tituloLimpio": "La emergencia de la capa de infraestructura de datos web para la IA",
+      "resumen": "La IA está en auge. Nuevos casos de uso están surgiendo cada día. Para capitalizar el potencial de la tecnología, las empresas requieren datos a escala. En muchos casos, la información relevante está bloqueada o no estructurada, lo que limita su uso por los modelos de IA.",
+      "porQueImporta": "Es crucial para entender los desafíos actuales en la implementación de IA y la necesidad de una mejor gestión de datos, relevante para cualquier profesional que trabaje con IA.",
+      "publicadoEn": "2026-06-24T11:59:54.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "datos",
+        "infraestructura",
+        "empresas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/25/here-is-every-apple-product-that-hasnt-yet-increased-in-price/",
+      "tituloOriginal": "Here is every Apple product that hasn’t yet increased in price",
+      "tituloLimpio": "Aquí están todos los productos de Apple que aún no han aumentado de precio",
+      "resumen": "Hoy Apple implementó aumentos de precios significativos en la mayoría de sus productos, pero ciertos productos se salvaron. Aquí están todos los productos de Apple que no aumentaron de precio, al menos por ahora.",
+      "porQueImporta": "Complementa la noticia de los aumentos de precios, ofreciendo una guía sobre qué productos de Apple mantienen su costo actual, útil para planificar compras.",
+      "publicadoEn": "2026-06-25T14:07:08.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "precios",
+        "productos"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81Z29v",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5google.com/2026/06/23/youtube-music-may-soon-support-offline-downloads-on-apple-watch/",
+      "tituloOriginal": "YouTube Music may be working on support for offline downloads on Apple Watch",
+      "tituloLimpio": "YouTube Music podría estar trabajando en soporte para descargas offline en Apple Watch",
+      "resumen": "Hay muchas razones por las que un smartwatch puede ser útil, pero una opción que ha demostrado ser muy práctica es la capacidad de emparejar tus auriculares directamente con tu reloj y usar aplicaciones de música mientras haces ejercicio, sin necesidad de teléfono. YouTube Music para Apple Watch parece estar finalmente listo para esa funcionalidad, ya que nuevos hallazgos de código sugieren que el soporte está a la vuelta de la esquina.",
+      "porQueImporta": "Mejora la funcionalidad de los dispositivos Apple, ofreciendo mayor autonomía para los usuarios de Apple Watch y YouTube Music, lo que puede ser útil para Guido.",
+      "publicadoEn": "2026-06-23T16:55:18.000Z",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "apple watch",
+        "youtube music",
+        "offline"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/06/25/why-the-macbook-neo-got-a-price-hike-and-why-it-really-shouldnt-have?utm_source=rss",
+      "tituloOriginal": "Why the MacBook Neo got a price hike, and why it really shouldn't have",
+      "tituloLimpio": "Por qué el MacBook Neo subió de precio y por qué no debería haberlo hecho",
+      "resumen": "Apple ha aumentado el precio del MacBook Neo de $599 a $699, una medida tan decepcionante como inevitable en medio de las tensiones actuales de precios y disponibilidad global de RAM y almacenamiento. Apple aumentó el precio del MacBook Neo a $699. Apple también ha aumentado el precio de varios productos, evitando aumentos en iPhone, Apple Watch y AirPods.",
+      "porQueImporta": "Analiza las razones detrás del aumento de precio de un producto Apple específico, ofreciendo contexto sobre las dinámicas del mercado de componentes que afectan los costos de la tecnología.",
+      "publicadoEn": "2026-06-25T14:25:33.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "macbook",
+        "precios",
+        "mercado"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/blackberry-q1-fy2027-earnings-beat-142833744.html",
+      "tituloOriginal": "BlackBerry Q1 FY2027 earnings beat, raises full-year outlook",
+      "tituloLimpio": "BlackBerry supera las ganancias del primer trimestre del año fiscal 2027 y eleva las perspectivas para todo el año",
+      "resumen": "",
+      "porQueImporta": "Indica un buen desempeño financiero de una empresa tecnológica, relevante para quienes siguen el mercado de valores y las inversiones.",
+      "publicadoEn": "2026-06-25T14:28:33.000Z",
+      "imagen": "https://media.zenfs.com/en/quartz_855/3f2b973d676cff84ce6f08c445ca7ede",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "inversiones",
+        "blackberry"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/news/pce-inflation-may-federal-reserve-sp-500/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "PCE Inflation Data, Falling Oil Prices Calm Fed Fears (Live Coverage)",
+      "tituloLimpio": "Datos de inflación PCE y caída de precios del petróleo calman temores de la Fed",
+      "resumen": "",
+      "porQueImporta": "Noticia económica relevante que puede influir en las decisiones de inversión y el panorama financiero global.",
+      "publicadoEn": "2026-06-25T14:18:06.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/fc0eb6c0b6a3d2173eda5875717362d1",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "inflacion",
+        "petroleo",
+        "fed"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/06/25/kraken-sues-crypto-derivatives-firm-powertrade-over-misappropriated-funds-claim",
+      "tituloOriginal": "Kraken sues crypto derivatives firm PowerTrade over 'misappropriated' funds claim",
+      "tituloLimpio": "Kraken demanda a la firma de derivados de criptomonedas PowerTrade por presunta apropiación indebida de fondos",
+      "resumen": "PowerTrade cambió el saldo positivo de Kraken de alrededor de $7 millones a un déficit de $2 millones a través de una serie de “correcciones” no autorizadas relacionadas con operaciones que habían expirado o se habían liquidado meses antes, según una presentación legal.",
+      "porQueImporta": "Es una noticia importante en el sector de las criptomonedas, que destaca riesgos y problemas legales en el manejo de fondos, relevante para quienes invierten en este tipo de activos.",
+      "publicadoEn": "2026-06-25T13:53:28.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/60eaa4392d735a85d254d5ac89ec08baf0b7a62e-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "criptomonedas",
+        "kraken",
+        "fraude"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/dolar-hoy-en-venezuela-precio-y-cotizacion-de-la-divisa-este-jueves-25-de-junio-de-2026_0_p2Vob0U2Kf.html",
+      "tituloOriginal": "Dólar hoy en Venezuela: precio y cotización de la divisa este jueves 25 de junio de 2026",
+      "tituloLimpio": "Dólar hoy en Venezuela: precio y cotización de la divisa este jueves 25 de junio de 2026",
+      "resumen": "Mirá la cotización del dólar en Venezuela, su variación y los valores de referencia. Cómo es la tendencia de la moneda estadounidense en lo que va del año.",
+      "porQueImporta": "Aunque es de Venezuela, la información sobre el dólar en la región es relevante para entender el contexto económico latinoamericano y sus posibles influencias.",
+      "publicadoEn": "2026-06-25T13:56:52.000Z",
+      "imagen": "https://www.clarin.com/img/2019/11/29/W92lPof3_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "dolar",
+        "venezuela",
+        "economia"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/gobierno-nombro-46-jueces-dejo-afuera-jueza-veronica-michelli_0_hjWADY6qqr.html",
+      "tituloOriginal": "El Gobierno nombró a 46 jueces y dejó afuera a la jueza Verónica Michelli",
+      "tituloLimpio": "El Gobierno nombró a 46 jueces y dejó afuera a la jueza Verónica Michelli",
+      "resumen": "La magistrada es la cuñada de un periodista. Las designaciones fueron publicadas en el Boletín Oficial. La mayoría para el fuero civil y penal. Además, enviaron otra tanda de 21 pliegos al Senado.",
+      "porQueImporta": "Noticia política local que informa sobre movimientos en el poder judicial, relevante para entender el panorama político y legal en Argentina.",
+      "publicadoEn": "2026-06-25T13:28:05.000Z",
+      "imagen": "https://www.clarin.com/img/2026/06/02/IJMetgmR0_1200x630__1.jpg",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "politica",
+        "justicia",
+        "gobierno"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/06/25/great-place-to-work-cuales-son-las-mejores-pymes-para-trabajar-en-2026/",
+      "tituloOriginal": "Great Place to Work: cuáles son las mejores pymes para trabajar en 2026",
+      "tituloLimpio": "Great Place to Work: cuáles son las mejores pymes para trabajar en 2026",
+      "resumen": "Un nuevo relevamiento analizó el ambiente de trabajo en pequeñas y medianas empresas, con especial atención al bienestar laboral.",
+      "porQueImporta": "Ofrece información sobre el ambiente laboral en pymes argentinas, útil para entender tendencias en el mercado de trabajo y la cultura empresarial.",
+      "publicadoEn": "2026-06-25T14:29:57.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/LGINNYNNXZE43CR6BGVA4THAOQ.jpg?auth=08709ae9e8db319d661b1b8d340839799e86d7889e360f00e66a26fb6b1576fe&smart=true&width=1920&height=1080",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "pymes",
+        "trabajo",
+        "bienestar"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/06/25/senado-en-vivo-ultimas-noticias-sobre-la-interpelacion-a-adorni-y-la-ley-de-propiedad-privada/",
+      "tituloOriginal": "Se cayó la sesión en el Senado por falta de quórum y",
+      "tituloLimpio": "Se cayó la sesión en el Senado por falta de quórum",
+      "resumen": "Los legisladores de La Libertad Avanza no bajaron al recinto. Así se frustró el intento opositor de avanzar con una interpelación al jefe de Gabinete. También se iban a debatir pliegos judiciales, ascensos diplomáticos, convenios internacionales y el proyecto de inviolabilidad de la propiedad privada.",
+      "porQueImporta": "Noticia política de Argentina que muestra el funcionamiento y los desafíos del poder legislativo, afectando la agenda de gobierno.",
+      "publicadoEn": "2026-06-25T14:35:57.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/QCMELGUXKVAMFHMOTJY4CL5XRI.jpg?auth=16777b2deac81a295db2084ffa372e58d3d2b97cc3d6546977541f6ac2cdb6d5&smart=true&width=1920&height=1080",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "politica",
+        "senado",
+        "quorum"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid25062026/",
+      "tituloOriginal": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este jueves 25 de junio, minuto a minuto",
+      "tituloLimpio": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este jueves 25 de junio",
+      "resumen": "La divisa oficial cerró ayer a $1495 para la venta; mientras que el dólar blue se ubicó en $1520 para esa operación.",
+      "porQueImporta": "Información esencial para Guido, ya que el valor del dólar blue y oficial impacta directamente en la economía argentina y en sus decisiones financieras.",
+      "publicadoEn": "2026-06-25T14:27:51.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/GHSZNGFV4FBN7D6V3AYV4H6RTU.jpg?auth=d9c8fd22de8f9f8455c0d6610ecd246b61fdc09688eb4385a24c4611144e9133&smart=true&width=2000&height=1333",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "dolar",
+        "dolar blue",
+        "economia"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Politica",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-crece-la-tension-entre-bullrich-y-adorni-y-nid25062026/",
+      "tituloOriginal": "Javier Milei y sus medidas, en vivo: Diputados le dio media sanción al “Súper RIGI” y el Senado sesiona en medio del caso Adorni",
+      "tituloLimpio": "Javier Milei y sus medidas, en vivo: Diputados le dio media sanción al “Súper RIGI” y el Senado sesiona en medio del caso Adorni",
+      "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios.",
+      "porQueImporta": "Cobertura de la política argentina, incluyendo la media sanción de una ley importante y el contexto de la sesión del Senado, relevante para entender el clima político y económico del país.",
+      "publicadoEn": "2026-06-25T14:35:37.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/DKZAXH5IRFDXNG7RA45IMFUBUA.jpg?auth=80b8689b97b8d5bf3287293c85e7d6e3c61c4140faff2a735d9cb9a5efdb3ae0&smart=true&width=1600&height=1066",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "politica",
+        "milei",
+        "rigi"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-06-25T14:39:03.770Z"
+  }
+}
