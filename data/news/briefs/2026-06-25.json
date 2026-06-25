@@ -1,13 +1,13 @@
 {
   "fecha": "2026-06-25",
-  "generadoEn": "2026-06-25T14:39:03.770Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "Apple anunció aumentos de precios en varios de sus productos, incluyendo iPads y Macs, aunque algunos artículos se salvaron. En el ámbito de la IA, se destaca una investigación de Google sobre su IA médica AMIE y la necesidad de una mejor infraestructura de datos web para el crecimiento de la IA. A nivel local, el dólar blue y oficial mantienen sus cotizaciones, y el Gobierno nombró nuevos jueces. También se frustró una sesión en el Senado por falta de quórum.",
+  "generadoEn": "2026-06-25T19:05:51.143Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Apple anunció aumentos de precios en varios de sus productos, incluyendo iPads y Macs, mientras que Google Finance lanzó una nueva app para Android. En el ámbito de la IA, Anthropic's Claude está ganando terreno entre los usuarios pagos frente a ChatGPT, y Ford tuvo que recontratar ingenieros para corregir errores de sus sistemas automatizados. En Argentina, se observa un aumento de personas con más de un empleo, el Gobierno no logró vender Intercargo, y la Corte Suprema desestimó una apelación sobre el financiamiento universitario. También, una empresa de telefonía argentina bonificará llamadas a Venezuela por el terremoto.",
   "radarPersonal": [
     {
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "Última chance para conseguir iPads y Macs baratos antes de la suba de precios de Apple",
-      "resumen": "Apple anunció hoy aumentos de precios en una amplia gama de sus productos, incluyendo iPads, Macs, HomePod y Vision Pro. Estos cambios de precios ya están activos en Apple.com.",
+      "titulo": "Última oportunidad para conseguir iPads y Macs baratos antes de la suba de precios de Apple",
+      "resumen": "Apple anunció hoy aumentos de precios en una amplia gama de sus productos, incluyendo iPads, Macs, HomePod y Vision Pro. Estos cambios ya están activos en Apple.com.",
       "categoria": "Apple",
       "fuentes": [
         "MacRumors"
@@ -17,96 +17,123 @@
       ],
       "score": 100,
       "tags": [
-        "apple",
+        "Apple",
         "precios",
-        "ipad",
-        "mac"
+        "iPad",
+        "Mac"
+      ]
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "titulo": "Apple saltearía los chips M6 Pro y Max para enfocarse en los M7 con IA",
+      "resumen": "Se rumorea que Apple omitirá los chips M6 Pro y M6 Max de Apple Silicon en favor de nuevos chips M7 centrados en IA, según un nuevo informe.",
+      "categoria": "Apple",
+      "fuentes": [
+        "AppleInsider"
+      ],
+      "urls": [
+        "https://appleinsider.com/articles/26/06/25/apple-will-skip-m6-pro-max-chips-in-favor-of-m7-ai-alternatives?utm_source=rss"
+      ],
+      "score": 100,
+      "tags": [
+        "Apple",
+        "chips",
+        "IA",
+        "M7"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "Claude de Anthropic está ganando usuarios pagos, un mercado dominado por ChatGPT",
+      "resumen": "A pesar del liderazgo de mercado de ChatGPT, los consumidores que pagan por IA han estado eligiendo cada vez más a Claude de Anthropic, según muestran los datos.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/"
+      ],
+      "score": 100,
+      "tags": [
+        "IA",
+        "Anthropic",
+        "Claude",
+        "ChatGPT",
+        "mercado"
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Hay 206.000 trabajadores con más de un empleo en la Ciudad de Buenos Aires, y el fenómeno crece en todo el país",
+      "resumen": "El 13% de los ocupados en CABA tiene más de un empleo, un 4,8% más que un año atrás. Los datos sobre cuánto ganan y cuántas horas le dedican al segundo trabajo revelan un fenómeno que va mucho más allá de la Ciudad.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/hay-206000-trabajadores-mas-un-empleo-la-ciudad-que-el-fenomeno-crece-todo-el-pais-n6292840"
+      ],
+      "score": 100,
+      "tags": [
+        "Argentina",
+        "empleo",
+        "CABA",
+        "economía"
       ]
     },
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "titulo": "Investigación muestra cómo la IA médica AMIE de Google podría ayudar a manejar condiciones de salud",
-      "resumen": "Una investigación en “Nature” muestra que el sistema de IA conversacional de Google iguala a los médicos de atención primaria en el manejo de enfermedades complejas.",
+      "titulo": "Google Finance se actualiza e incluye una nueva app",
+      "resumen": "El nuevo Google Finance sale de beta y lanza una nueva aplicación para Android.",
       "categoria": "AI",
       "fuentes": [
         "Google AI Blog"
       ],
       "urls": [
-        "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/"
+        "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/"
       ],
       "score": 100,
       "tags": [
-        "ia",
-        "medicina",
-        "salud",
-        "investigacion"
-      ]
-    },
-    {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "titulo": "La emergencia de la capa de infraestructura de datos web para la IA",
-      "resumen": "La IA está en auge. Para capitalizar el potencial de la tecnología, las empresas requieren datos a escala. En muchos casos, la información relevante está bloqueada o no estructurada, lo que limita su uso por los modelos de IA.",
-      "categoria": "AI",
-      "fuentes": [
-        "MIT Technology Review AI"
-      ],
-      "urls": [
-        "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/"
-      ],
-      "score": 100,
-      "tags": [
-        "ia",
-        "datos",
-        "infraestructura",
-        "empresas"
-      ]
-    },
-    {
-      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
-      "titulo": "Cómo hacer que la IA funcione para tu equipo de marketing",
-      "resumen": "En un mundo saturado de IA, los equipos de marca están empezando a hacer preguntas de siguiente nivel sobre cómo escalar la creatividad de manera responsable.",
-      "categoria": "Marketing",
-      "fuentes": [
-        "Adweek"
-      ],
-      "urls": [
-        "https://www.adweek.com/creativity/how-to-make-ai-work-for-your-marketing-team/"
-      ],
-      "score": 100,
-      "tags": [
-        "ia",
-        "marketing",
-        "creatividad",
-        "equipos"
+        "Google",
+        "Finance",
+        "app",
+        "Android"
       ]
     }
   ],
   "loImportante": [
-    "Apple subió los precios de varios de sus productos, incluyendo iPads y Macs.",
-    "Una investigación de Google muestra que su IA médica AMIE iguala a médicos en el manejo de enfermedades complejas.",
-    "La infraestructura de datos web es clave para el crecimiento de la IA, ya que muchas empresas necesitan datos a escala.",
-    "El dólar oficial y el dólar blue mantienen sus cotizaciones en Argentina.",
-    "El Gobierno argentino nombró 46 jueces, mientras que una sesión en el Senado se cayó por falta de quórum."
+    "Apple subió los precios de sus productos, incluyendo Macs y iPads, lo que podría impactar decisiones de compra.",
+    "Google Finance lanzó una nueva app para Android, mejorando el acceso a información financiera.",
+    "Anthropic's Claude está ganando terreno en el mercado de IA paga, lo que sugiere una competencia creciente para ChatGPT.",
+    "El aumento de personas con más de un empleo en Argentina refleja una tendencia económica relevante.",
+    "Apple podría saltarse los chips M6 Pro y Max para enfocarse en los M7 con IA, indicando una dirección clara en su estrategia de hardware."
   ],
   "oportunidades": [
     {
-      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
-      "categoria": "Marketing",
-      "titulo": "Aprovechar la IA para escalar la creatividad en marketing",
-      "detalle": "Los equipos de marketing están buscando formas de usar la IA para escalar la creatividad de manera responsable. Esto representa una oportunidad para integrar herramientas de IA en procesos de retoque fotográfico y arte con IA.",
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Productivity",
+      "titulo": "Aprovechar precios viejos de Apple antes de la suba",
+      "detalle": "Apple anunció aumentos de precios en iPads y Macs. Es la última oportunidad para comprar a precios anteriores.",
       "acciones": [
-        "Investigar herramientas de IA para optimizar flujos de trabajo creativos.",
-        "Explorar casos de uso de IA en marketing para aplicar a proyectos personales o de clientes."
+        "Evaluar la compra de equipos Apple necesarios antes de que los precios suban en los distribuidores locales."
       ]
     },
     {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "categoria": "AI",
-      "titulo": "Desarrollo de infraestructura de datos para IA",
-      "detalle": "El auge de la IA requiere datos a escala, pero mucha información está bloqueada o no estructurada. Esto abre una oportunidad para soluciones que mejoren la infraestructura de datos web para modelos de IA.",
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "Investing",
+      "titulo": "Explorar la nueva app de Google Finance",
+      "detalle": "Google Finance sale de beta y lanza una nueva aplicación para Android, lo que podría ofrecer mejores herramientas para el seguimiento de inversiones.",
       "acciones": [
-        "Analizar herramientas o servicios que faciliten la estructuración y acceso a datos para IA.",
-        "Considerar la creación de soluciones que aborden la limitación de datos para modelos de IA."
+        "Descargar y probar la nueva app de Google Finance para Android para gestionar y monitorear inversiones."
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "titulo": "Considerar Claude de Anthropic para tareas de IA",
+      "detalle": "Claude de Anthropic está ganando popularidad entre los usuarios pagos de IA, superando a ChatGPT en algunos aspectos.",
+      "acciones": [
+        "Investigar las capacidades de Claude de Anthropic y evaluar si puede ser una herramienta más adecuada para tareas de retoque fotográfico o arte con IA."
       ]
     }
   ],
@@ -115,29 +142,63 @@
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Market",
       "titulo": "Aumento de precios de productos Apple",
-      "detalle": "Apple anunció aumentos de precios en una amplia gama de sus productos, incluyendo iPads y Macs. Esto podría impactar el costo de adquisición de herramientas de trabajo para Guido.",
-      "mitigacion": "Evaluar compras de equipos Apple antes de que los nuevos precios se apliquen completamente, si es posible. Buscar alternativas o planificar el presupuesto considerando los nuevos costos."
+      "detalle": "Apple anunció aumentos de precios en iPads, Macs y otros productos, lo que impactará el costo de adquisición de nuevas herramientas de trabajo.",
+      "mitigacion": "Planificar compras de equipos Apple con anticipación o buscar alternativas si el presupuesto se ve afectado."
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "Technology",
+      "titulo": "Errores en sistemas automatizados de IA",
+      "detalle": "Ford tuvo que recontratar ingenieros para corregir errores en sus sistemas automatizados, lo que sugiere que la IA no siempre es infalible y puede requerir supervisión humana.",
+      "mitigacion": "Mantener una supervisión humana activa en los procesos automatizados con IA y no depender ciegamente de ellos, especialmente en tareas críticas."
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Market",
+      "titulo": "El Gobierno no logra vender Intercargo",
+      "detalle": "La licitación para vender Intercargo quedó desierta tras dos postergaciones, lo que indica dificultades en la privatización de empresas estatales y un posible impacto en la economía local.",
+      "mitigacion": "Monitorear las políticas económicas y de privatización en Argentina, ya que pueden influir en el clima de negocios y las oportunidades de inversión."
     }
   ],
-  "conexiones": [],
+  "conexiones": [
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "titulo": "Apple se enfoca en IA con los chips M7, mientras Ford corrige errores de automatización",
+      "historias": [
+        "Apple planea saltarse los chips M6 Pro y Max para priorizar los M7 con IA.",
+        "Ford tuvo que recontratar ingenieros para corregir errores causados por sus sistemas automatizados."
+      ],
+      "conclusion": "Mientras Apple apuesta fuerte por la IA en su hardware futuro, la experiencia de Ford subraya la importancia de la supervisión humana y la madurez de la tecnología de IA en aplicaciones críticas."
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Aumento de precios de Apple y el impacto en el mercado argentino",
+      "historias": [
+        "Apple anunció aumentos de precios en iPads y Macs.",
+        "En Argentina, el 13% de los ocupados en CABA tiene más de un empleo, un fenómeno que crece en todo el país."
+      ],
+      "conclusion": "El aumento de precios de Apple, sumado a la situación económica en Argentina donde muchos necesitan más de un empleo, podría hacer que la adquisición de tecnología Apple sea aún más desafiante para los usuarios locales."
+    }
+  ],
   "noticias": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
       "categoria": "AI",
       "fuente": "Google AI Blog",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-      "tituloOriginal": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-      "tituloLimpio": "Investigación muestra cómo la IA médica de Google podría ayudar a manejar condiciones de salud",
-      "resumen": "Una investigación en “Nature” muestra que el sistema de IA conversacional de Google iguala a los médicos de atención primaria en el manejo de enfermedades complejas.",
-      "porQueImporta": "Destaca el avance de la IA en aplicaciones prácticas y sensibles como la medicina, mostrando su potencial para asistir en el manejo de la salud.",
-      "publicadoEn": "2026-06-17T15:00:00.000Z",
-      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp",
-      "globalScore": 92,
+      "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+      "tituloOriginal": "Our latest Google Finance upgrades, including a new app",
+      "tituloLimpio": "Google Finance se actualiza e incluye una nueva app",
+      "resumen": "El nuevo Google Finance sale de beta y lanza una nueva aplicación para Android.",
+      "porQueImporta": "Guido, como inversor, puede beneficiarse de una nueva herramienta de Google para seguir los mercados financieros. La disponibilidad en Android es clave.",
+      "publicadoEn": "2026-06-25T16:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "ia",
-        "medicina",
-        "salud"
+        "Google",
+        "Finance",
+        "app",
+        "Android"
       ],
       "tambienVistoEn": []
     },
@@ -147,17 +208,17 @@
       "fuente": "MacRumors",
       "url": "https://www.macrumors.com/2026/06/25/beat-apples-price-hike/",
       "tituloOriginal": "Beat Apple's Price Hike: Last Chance to Score Cheap iPads and Macs for Prime Day",
-      "tituloLimpio": "Última chance para conseguir iPads y Macs baratos antes de la suba de precios de Apple",
-      "resumen": "Apple anunció hoy aumentos de precios en una amplia gama de sus productos, incluyendo iPads, Macs, HomePod y Vision Pro. Estos cambios de precios ya están activos en Apple.com.",
-      "porQueImporta": "Es relevante para Guido por el impacto directo en el costo de herramientas de trabajo de Apple, permitiendo anticipar posibles compras.",
-      "publicadoEn": "2026-06-25T13:53:05.000Z",
+      "tituloLimpio": "Apple sube los precios de iPads y Macs",
+      "resumen": "Apple anunció aumentos de precios en una amplia gama de sus productos, incluyendo iPads, Macs, HomePod y Vision Pro. Estos cambios ya están activos en Apple.com.",
+      "porQueImporta": "Impacta directamente a Guido, usuario de Apple, en el costo de futuras adquisiciones de equipos para su trabajo o uso personal.",
+      "publicadoEn": "2026-06-25T17:43:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "apple",
+        "Apple",
         "precios",
-        "ipad",
-        "mac"
+        "iPad",
+        "Mac"
       ],
       "tambienVistoEn": []
     },
@@ -165,38 +226,39 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/el-mapa-precios-europa-cuales-son-los-paises-mas-caros-y-los-mas-baratos-n6292713",
-      "tituloOriginal": "El mapa de precios de Europa: cuáles son los países más caros y los más baratos",
-      "tituloLimpio": "El mapa de precios de Europa: cuáles son los países más caros y los más baratos",
-      "resumen": "Según los índices de nivel de precios de Eurostat, la misma canasta de bienes y servicios puede costar hasta 3,7 veces más en un país europeo que otro. Europa occidental y septentrional lideran los precios más altos, mientras que Europa central y oriental sigue siendo la más accesible.",
-      "porQueImporta": "Ofrece una perspectiva económica global sobre el costo de vida, útil para entender tendencias de precios y poder adquisitivo en diferentes regiones.",
-      "publicadoEn": "2026-06-25T14:09:00.000Z",
+      "url": "https://www.ambito.com/economia/hay-206000-trabajadores-mas-un-empleo-la-ciudad-que-el-fenomeno-crece-todo-el-pais-n6292840",
+      "tituloOriginal": "Hay 206.000 trabajadores con más de un empleo en la Ciudad: por qué el fenómeno crece en todo el país",
+      "tituloLimpio": "Aumenta el número de trabajadores con más de un empleo en CABA y el país",
+      "resumen": "El 13% de los ocupados en CABA tiene más de un empleo, un 4,8% más que un año atrás. Los datos sobre cuánto ganan y cuántas horas le dedican al segundo trabajo revelan un fenómeno que va mucho más allá de la Ciudad.",
+      "porQueImporta": "Refleja una tendencia económica en Argentina que puede influir en el poder adquisitivo y las decisiones de consumo de tecnología y servicios.",
+      "publicadoEn": "2026-06-25T18:39:00.000Z",
+      "imagen": "https://media.ambito.com/p/0e5ca93de3ba1ac42bb8ce859e06f63d/adjuntos/239/imagenes/043/380/0043380342/1200x675/smart/auto-aplicacion-chofer-uber-cabify.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "economia",
-        "europa",
-        "precios"
+        "Argentina",
+        "empleo",
+        "economía"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
-      "categoria": "Marketing",
-      "fuente": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/as-agentic-advertising-floods-cannes-amazon-touts-its-alexa-advantage/823730/",
-      "tituloOriginal": "As agentic advertising floods Cannes, Amazon touts its Alexa advantage",
-      "tituloLimpio": "Con la publicidad agéntica en Cannes, Amazon destaca su ventaja con Alexa",
-      "resumen": "Charlotte Maines, vicepresidenta de contenido y publicidad de dispositivos, detalló un nuevo formato de anuncios agénticos Alexa+ que está siendo probado por Papa Johns y otras marcas.",
-      "porQueImporta": "Muestra cómo las grandes empresas están integrando la IA conversacional en estrategias de marketing, relevante para entender el futuro de la publicidad y las herramientas de IA.",
-      "publicadoEn": "2026-06-25T13:30:00.000Z",
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "tituloOriginal": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+      "tituloLimpio": "Claude de Anthropic gana usuarios pagos frente a ChatGPT",
+      "resumen": "A pesar del liderazgo de mercado de ChatGPT, los consumidores que pagan por IA han estado eligiendo cada vez más a Claude de Anthropic, según muestran los datos.",
+      "porQueImporta": "Guido, que trabaja con IA, debe estar al tanto de las herramientas que ganan terreno. Claude podría ser una alternativa o complemento a ChatGPT para sus proyectos.",
+      "publicadoEn": "2026-06-25T17:38:27.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "marketing",
-        "ia",
-        "publicidad",
-        "amazon"
+        "IA",
+        "Anthropic",
+        "Claude",
+        "ChatGPT"
       ],
       "tambienVistoEn": []
     },
@@ -206,17 +268,17 @@
       "fuente": "The Verge AI",
       "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
       "tituloOriginal": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
-      "tituloLimpio": "Ford tuvo que recontratar ingenieros para arreglar errores de sus sistemas automatizados",
-      "resumen": "Para celebrar su nuevo estatus como número 1 en el ranking de calidad inicial de JD Power entre los fabricantes de automóviles masivos, Ford está hablando de los desafíos que ha enfrentado en los últimos años, especialmente en torno a su dependencia de los sistemas automatizados en producción y diseño. Resulta que esos sistemas automatizados no eran tan robustos como se asumía previamente.",
-      "porQueImporta": "Destaca los desafíos y limitaciones de la automatización y la IA en entornos de producción, un recordatorio de la importancia de la supervisión humana y la calidad en la implementación de estas tecnologías.",
+      "tituloLimpio": "Ford recontrató ingenieros para corregir errores de sistemas automatizados",
+      "resumen": "Ford tuvo que recontratar ingenieros para corregir errores cometidos por sus sistemas automatizados en producción y diseño.",
+      "porQueImporta": "Destaca que la IA y la automatización no son infalibles y requieren supervisión humana, un punto importante para Guido en su trabajo con IA y automatización.",
       "publicadoEn": "2026-06-25T12:00:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "ia",
-        "automatizacion",
+        "IA",
+        "automatización",
         "errores",
-        "produccion"
+        "Ford"
       ],
       "tambienVistoEn": []
     },
@@ -224,38 +286,19 @@
       "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
       "categoria": "AI",
       "fuente": "MIT Technology Review AI",
-      "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
-      "tituloOriginal": "The emergence of the web data infrastructure layer for AI",
-      "tituloLimpio": "La emergencia de la capa de infraestructura de datos web para la IA",
-      "resumen": "La IA está en auge. Nuevos casos de uso están surgiendo cada día. Para capitalizar el potencial de la tecnología, las empresas requieren datos a escala. En muchos casos, la información relevante está bloqueada o no estructurada, lo que limita su uso por los modelos de IA.",
-      "porQueImporta": "Es crucial para entender los desafíos actuales en la implementación de IA y la necesidad de una mejor gestión de datos, relevante para cualquier profesional que trabaje con IA.",
-      "publicadoEn": "2026-06-24T11:59:54.000Z",
+      "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+      "tituloOriginal": "Repositioning retail for the AI era",
+      "tituloLimpio": "La IA transforma el retail detrás de escena",
+      "resumen": "La inteligencia artificial está remodelando rápidamente el comercio minorista, no tanto en lo que los consumidores notan de inmediato, sino en cómo se toman las decisiones internas: cómo aparecen los productos en los resultados de búsqueda, cómo se mueve el inventario y cómo se envía el código.",
+      "porQueImporta": "Guido, interesado en marketing y IA, puede ver cómo la IA impacta industrias más allá de lo evidente, ofreciendo insights sobre la aplicación de la tecnología en procesos de negocio.",
+      "publicadoEn": "2026-06-25T14:22:59.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "ia",
-        "datos",
-        "infraestructura",
-        "empresas"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
-      "categoria": "Apple",
-      "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/25/here-is-every-apple-product-that-hasnt-yet-increased-in-price/",
-      "tituloOriginal": "Here is every Apple product that hasn’t yet increased in price",
-      "tituloLimpio": "Aquí están todos los productos de Apple que aún no han aumentado de precio",
-      "resumen": "Hoy Apple implementó aumentos de precios significativos en la mayoría de sus productos, pero ciertos productos se salvaron. Aquí están todos los productos de Apple que no aumentaron de precio, al menos por ahora.",
-      "porQueImporta": "Complementa la noticia de los aumentos de precios, ofreciendo una guía sobre qué productos de Apple mantienen su costo actual, útil para planificar compras.",
-      "publicadoEn": "2026-06-25T14:07:08.000Z",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "apple",
-        "precios",
-        "productos"
+        "IA",
+        "retail",
+        "marketing",
+        "negocios"
       ],
       "tambienVistoEn": []
     },
@@ -265,16 +308,16 @@
       "fuente": "9to5Mac",
       "url": "https://9to5google.com/2026/06/23/youtube-music-may-soon-support-offline-downloads-on-apple-watch/",
       "tituloOriginal": "YouTube Music may be working on support for offline downloads on Apple Watch",
-      "tituloLimpio": "YouTube Music podría estar trabajando en soporte para descargas offline en Apple Watch",
-      "resumen": "Hay muchas razones por las que un smartwatch puede ser útil, pero una opción que ha demostrado ser muy práctica es la capacidad de emparejar tus auriculares directamente con tu reloj y usar aplicaciones de música mientras haces ejercicio, sin necesidad de teléfono. YouTube Music para Apple Watch parece estar finalmente listo para esa funcionalidad, ya que nuevos hallazgos de código sugieren que el soporte está a la vuelta de la esquina.",
-      "porQueImporta": "Mejora la funcionalidad de los dispositivos Apple, ofreciendo mayor autonomía para los usuarios de Apple Watch y YouTube Music, lo que puede ser útil para Guido.",
+      "tituloLimpio": "YouTube Music podría sumar descargas offline en Apple Watch",
+      "resumen": "YouTube Music para Apple Watch parece estar listo para esa funcionalidad, ya que nuevos hallazgos de código sugieren que el soporte está cerca.",
+      "porQueImporta": "Una mejora en la funcionalidad del Apple Watch, relevante para Guido como usuario de Apple y para la productividad en movimiento.",
       "publicadoEn": "2026-06-23T16:55:18.000Z",
       "globalScore": 92,
       "personalScore": 100,
       "tags": [
-        "apple",
-        "apple watch",
-        "youtube music",
+        "Apple",
+        "Apple Watch",
+        "YouTube Music",
         "offline"
       ],
       "tambienVistoEn": []
@@ -283,81 +326,19 @@
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
       "categoria": "Apple",
       "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/06/25/why-the-macbook-neo-got-a-price-hike-and-why-it-really-shouldnt-have?utm_source=rss",
-      "tituloOriginal": "Why the MacBook Neo got a price hike, and why it really shouldn't have",
-      "tituloLimpio": "Por qué el MacBook Neo subió de precio y por qué no debería haberlo hecho",
-      "resumen": "Apple ha aumentado el precio del MacBook Neo de $599 a $699, una medida tan decepcionante como inevitable en medio de las tensiones actuales de precios y disponibilidad global de RAM y almacenamiento. Apple aumentó el precio del MacBook Neo a $699. Apple también ha aumentado el precio de varios productos, evitando aumentos en iPhone, Apple Watch y AirPods.",
-      "porQueImporta": "Analiza las razones detrás del aumento de precio de un producto Apple específico, ofreciendo contexto sobre las dinámicas del mercado de componentes que afectan los costos de la tecnología.",
-      "publicadoEn": "2026-06-25T14:25:33.000Z",
+      "url": "https://appleinsider.com/articles/26/06/25/apple-will-skip-m6-pro-max-chips-in-favor-of-m7-ai-alternatives?utm_source=rss",
+      "tituloOriginal": "Apple will skip M6 Pro, Max chips in favor of M7 AI alternatives",
+      "tituloLimpio": "Apple podría saltarse los chips M6 Pro y Max para enfocarse en los M7 con IA",
+      "resumen": "Se rumorea que Apple omitirá los chips M6 Pro y M6 Max de Apple Silicon en favor de nuevos chips M7 centrados en IA, según un nuevo informe.",
+      "porQueImporta": "Indica la dirección futura de Apple en hardware y su enfoque en la IA, relevante para Guido como usuario de Apple y profesional de IA.",
+      "publicadoEn": "2026-06-25T17:39:41.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "apple",
-        "macbook",
-        "precios",
-        "mercado"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
-      "categoria": "Finance",
-      "fuente": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/blackberry-q1-fy2027-earnings-beat-142833744.html",
-      "tituloOriginal": "BlackBerry Q1 FY2027 earnings beat, raises full-year outlook",
-      "tituloLimpio": "BlackBerry supera las ganancias del primer trimestre del año fiscal 2027 y eleva las perspectivas para todo el año",
-      "resumen": "",
-      "porQueImporta": "Indica un buen desempeño financiero de una empresa tecnológica, relevante para quienes siguen el mercado de valores y las inversiones.",
-      "publicadoEn": "2026-06-25T14:28:33.000Z",
-      "imagen": "https://media.zenfs.com/en/quartz_855/3f2b973d676cff84ce6f08c445ca7ede",
-      "globalScore": 98,
-      "personalScore": 100,
-      "tags": [
-        "finanzas",
-        "inversiones",
-        "blackberry"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
-      "categoria": "Finance",
-      "fuente": "Yahoo Finance",
-      "url": "https://www.investors.com/news/pce-inflation-may-federal-reserve-sp-500/?src=A00220&yptr=yahoo",
-      "tituloOriginal": "PCE Inflation Data, Falling Oil Prices Calm Fed Fears (Live Coverage)",
-      "tituloLimpio": "Datos de inflación PCE y caída de precios del petróleo calman temores de la Fed",
-      "resumen": "",
-      "porQueImporta": "Noticia económica relevante que puede influir en las decisiones de inversión y el panorama financiero global.",
-      "publicadoEn": "2026-06-25T14:18:06.000Z",
-      "imagen": "https://media.zenfs.com/en/ibd.com/fc0eb6c0b6a3d2173eda5875717362d1",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "finanzas",
-        "inflacion",
-        "petroleo",
-        "fed"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
-      "categoria": "Finance",
-      "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/06/25/kraken-sues-crypto-derivatives-firm-powertrade-over-misappropriated-funds-claim",
-      "tituloOriginal": "Kraken sues crypto derivatives firm PowerTrade over 'misappropriated' funds claim",
-      "tituloLimpio": "Kraken demanda a la firma de derivados de criptomonedas PowerTrade por presunta apropiación indebida de fondos",
-      "resumen": "PowerTrade cambió el saldo positivo de Kraken de alrededor de $7 millones a un déficit de $2 millones a través de una serie de “correcciones” no autorizadas relacionadas con operaciones que habían expirado o se habían liquidado meses antes, según una presentación legal.",
-      "porQueImporta": "Es una noticia importante en el sector de las criptomonedas, que destaca riesgos y problemas legales en el manejo de fondos, relevante para quienes invierten en este tipo de activos.",
-      "publicadoEn": "2026-06-25T13:53:28.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/60eaa4392d735a85d254d5ac89ec08baf0b7a62e-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "finanzas",
-        "criptomonedas",
-        "kraken",
-        "fraude"
+        "Apple",
+        "chips",
+        "IA",
+        "M7"
       ],
       "tambienVistoEn": []
     },
@@ -365,41 +346,20 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/dolar-hoy-en-venezuela-precio-y-cotizacion-de-la-divisa-este-jueves-25-de-junio-de-2026_0_p2Vob0U2Kf.html",
-      "tituloOriginal": "Dólar hoy en Venezuela: precio y cotización de la divisa este jueves 25 de junio de 2026",
-      "tituloLimpio": "Dólar hoy en Venezuela: precio y cotización de la divisa este jueves 25 de junio de 2026",
-      "resumen": "Mirá la cotización del dólar en Venezuela, su variación y los valores de referencia. Cómo es la tendencia de la moneda estadounidense en lo que va del año.",
-      "porQueImporta": "Aunque es de Venezuela, la información sobre el dólar en la región es relevante para entender el contexto económico latinoamericano y sus posibles influencias.",
-      "publicadoEn": "2026-06-25T13:56:52.000Z",
-      "imagen": "https://www.clarin.com/img/2019/11/29/W92lPof3_1200x630__1.jpg",
+      "url": "https://www.clarin.com/economia/gobierno-logra-vender-intercargo-postergaciones-nadie-presento-ofertas-licitacion-quedo-desierta_0_NEeluHln8n.html",
+      "tituloOriginal": "El Gobierno no logra vender Intercargo: tras dos postergaciones, nadie presentó ofertas y la licitación quedó desierta",
+      "tituloLimpio": "El Gobierno no logra vender Intercargo: la licitación quedó desierta",
+      "resumen": "Este jueves se abrían los sobres y no hubo ofertas. La desregulación del sector le quitó atractivo a la compañía.",
+      "porQueImporta": "Noticia relevante para el contexto económico y de inversiones en Argentina, mostrando desafíos en la privatización de empresas estatales.",
+      "publicadoEn": "2026-06-25T15:53:28.000Z",
+      "imagen": "https://www.clarin.com/img/2026/06/25/H3PqbDfiN_1200x630__1.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "dolar",
-        "venezuela",
-        "economia"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
-      "categoria": "Argentina",
-      "fuente": "Clarin Politica",
-      "url": "https://www.clarin.com/politica/gobierno-nombro-46-jueces-dejo-afuera-jueza-veronica-michelli_0_hjWADY6qqr.html",
-      "tituloOriginal": "El Gobierno nombró a 46 jueces y dejó afuera a la jueza Verónica Michelli",
-      "tituloLimpio": "El Gobierno nombró a 46 jueces y dejó afuera a la jueza Verónica Michelli",
-      "resumen": "La magistrada es la cuñada de un periodista. Las designaciones fueron publicadas en el Boletín Oficial. La mayoría para el fuero civil y penal. Además, enviaron otra tanda de 21 pliegos al Senado.",
-      "porQueImporta": "Noticia política local que informa sobre movimientos en el poder judicial, relevante para entender el panorama político y legal en Argentina.",
-      "publicadoEn": "2026-06-25T13:28:05.000Z",
-      "imagen": "https://www.clarin.com/img/2026/06/02/IJMetgmR0_1200x630__1.jpg",
-      "globalScore": 98,
-      "personalScore": 100,
-      "tags": [
-        "argentina",
-        "politica",
-        "justicia",
-        "gobierno"
+        "Argentina",
+        "economía",
+        "privatización",
+        "Intercargo"
       ],
       "tambienVistoEn": []
     },
@@ -407,41 +367,20 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/06/25/great-place-to-work-cuales-son-las-mejores-pymes-para-trabajar-en-2026/",
-      "tituloOriginal": "Great Place to Work: cuáles son las mejores pymes para trabajar en 2026",
-      "tituloLimpio": "Great Place to Work: cuáles son las mejores pymes para trabajar en 2026",
-      "resumen": "Un nuevo relevamiento analizó el ambiente de trabajo en pequeñas y medianas empresas, con especial atención al bienestar laboral.",
-      "porQueImporta": "Ofrece información sobre el ambiente laboral en pymes argentinas, útil para entender tendencias en el mercado de trabajo y la cultura empresarial.",
-      "publicadoEn": "2026-06-25T14:29:57.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/LGINNYNNXZE43CR6BGVA4THAOQ.jpg?auth=08709ae9e8db319d661b1b8d340839799e86d7889e360f00e66a26fb6b1576fe&smart=true&width=1920&height=1080",
-      "globalScore": 94,
+      "url": "https://www.infobae.com/economia/2026/06/25/una-empresa-argentina-de-telefonia-bonificara-llamadas-desde-y-hacia-venezuela-para-facilitar-la-comunicacion-tras-el-terremoto/",
+      "tituloOriginal": "Una empresa argentina de telefonía bonificará llamadas desde y hacia Venezuela para facilitar la comunicación tras el terremoto",
+      "tituloLimpio": "Empresa argentina de telefonía bonificará llamadas a Venezuela por terremoto",
+      "resumen": "La compañía anunció medidas específicas para quienes se encuentran en el país sudamericano y para quienes desean comunicarse desde Argentina, en respuesta al reciente movimiento sísmico.",
+      "porQueImporta": "Muestra una acción de responsabilidad social corporativa de una empresa local, relevante para el contexto argentino.",
+      "publicadoEn": "2026-06-25T18:55:49.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/RB5HNQH32RH5PFQB2ZHSXAAEXU.jpg?auth=ca1cc0563c2e73beca6613fc60634da298f69d3865baab658d83dc9701244f7f&smart=true&width=1920&height=1080",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "pymes",
-        "trabajo",
-        "bienestar"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
-      "categoria": "Argentina",
-      "fuente": "Infobae Politica",
-      "url": "https://www.infobae.com/politica/2026/06/25/senado-en-vivo-ultimas-noticias-sobre-la-interpelacion-a-adorni-y-la-ley-de-propiedad-privada/",
-      "tituloOriginal": "Se cayó la sesión en el Senado por falta de quórum y",
-      "tituloLimpio": "Se cayó la sesión en el Senado por falta de quórum",
-      "resumen": "Los legisladores de La Libertad Avanza no bajaron al recinto. Así se frustró el intento opositor de avanzar con una interpelación al jefe de Gabinete. También se iban a debatir pliegos judiciales, ascensos diplomáticos, convenios internacionales y el proyecto de inviolabilidad de la propiedad privada.",
-      "porQueImporta": "Noticia política de Argentina que muestra el funcionamiento y los desafíos del poder legislativo, afectando la agenda de gobierno.",
-      "publicadoEn": "2026-06-25T14:35:57.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/QCMELGUXKVAMFHMOTJY4CL5XRI.jpg?auth=16777b2deac81a295db2084ffa372e58d3d2b97cc3d6546977541f6ac2cdb6d5&smart=true&width=1920&height=1080",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "argentina",
-        "politica",
-        "senado",
-        "quorum"
+        "Argentina",
+        "telefonía",
+        "Venezuela",
+        "solidaridad"
       ],
       "tambienVistoEn": []
     },
@@ -449,20 +388,20 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid25062026/",
-      "tituloOriginal": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este jueves 25 de junio, minuto a minuto",
-      "tituloLimpio": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este jueves 25 de junio",
-      "resumen": "La divisa oficial cerró ayer a $1495 para la venta; mientras que el dólar blue se ubicó en $1520 para esa operación.",
-      "porQueImporta": "Información esencial para Guido, ya que el valor del dólar blue y oficial impacta directamente en la economía argentina y en sus decisiones financieras.",
-      "publicadoEn": "2026-06-25T14:27:51.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/GHSZNGFV4FBN7D6V3AYV4H6RTU.jpg?auth=d9c8fd22de8f9f8455c0d6610ecd246b61fdc09688eb4385a24c4611144e9133&smart=true&width=2000&height=1333",
+      "url": "https://www.lanacion.com.ar/economia/campo/bayer-gano-un-fallo-historico-en-estados-unidos-bloquea-demandas-en-contra-del-herbicida-roundup-nid25062026/",
+      "tituloOriginal": "Bayer ganó un fallo histórico en Estados Unidos: bloquea demandas en contra del herbicida Roundup",
+      "tituloLimpio": "Bayer ganó un fallo en Estados Unidos que bloquea demandas contra el herbicida Roundup",
+      "resumen": "La Corte Suprema de los Estados Unidos anuló un veredicto donde un particular reclamaba por una supuesta falta de advertencias ante el presunto riesgo de cáncer.",
+      "porQueImporta": "Aunque es una noticia de EE.UU., un fallo de la Corte Suprema sobre un producto global como Roundup puede sentar precedentes o influir en la percepción de riesgos a nivel internacional.",
+      "publicadoEn": "2026-06-25T18:47:20.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/JYKAPWST3NFHNMTMTR5IRJ36FM.jpg?auth=88fec080058eeb1a47d20f63603761f25c1c7c2bce7847d60f8565a779af5a92&smart=true&width=2692&height=2056",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "dolar",
-        "dolar blue",
-        "economia"
+        "Bayer",
+        "Roundup",
+        "legal",
+        "Estados Unidos"
       ],
       "tambienVistoEn": []
     },
@@ -470,26 +409,26 @@
       "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Politica",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-crece-la-tension-entre-bullrich-y-adorni-y-nid25062026/",
-      "tituloOriginal": "Javier Milei y sus medidas, en vivo: Diputados le dio media sanción al “Súper RIGI” y el Senado sesiona en medio del caso Adorni",
-      "tituloLimpio": "Javier Milei y sus medidas, en vivo: Diputados le dio media sanción al “Súper RIGI” y el Senado sesiona en medio del caso Adorni",
-      "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios.",
-      "porQueImporta": "Cobertura de la política argentina, incluyendo la media sanción de una ley importante y el contexto de la sesión del Senado, relevante para entender el clima político y económico del país.",
-      "publicadoEn": "2026-06-25T14:35:37.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/DKZAXH5IRFDXNG7RA45IMFUBUA.jpg?auth=80b8689b97b8d5bf3287293c85e7d6e3c61c4140faff2a735d9cb9a5efdb3ae0&smart=true&width=1600&height=1066",
+      "url": "https://www.lanacion.com.ar/politica/sin-nombrar-a-adorni-karina-milei-fue-a-diputados-agradecio-al-bloque-y-pidio-aguantar-nid25062026/",
+      "tituloOriginal": "Sin nombrar a Adorni, Karina Milei fue a Diputados, agradeció al bloque y pidió “aguantar”",
+      "tituloLimpio": "Karina Milei fue a Diputados, agradeció al bloque y pidió “aguantar”",
+      "resumen": "Asistió a la votación del Súper RIGI, felicitó a los legisladores oficialistas y les pidió resistir los “embates de la política”.",
+      "porQueImporta": "Noticia política relevante en Argentina que muestra el clima legislativo y el apoyo interno al gobierno.",
+      "publicadoEn": "2026-06-25T18:40:02.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/667ZSK7IVNGKVOLKEVCUPUYT6U.jpeg?auth=8ec3e912dbd6014f43a42b52d29b915bf214eebdfa2a5459e6d16ae6b35a2531&smart=true&width=1600&height=1066",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "politica",
-        "milei",
-        "rigi"
+        "Argentina",
+        "política",
+        "gobierno",
+        "RIGI"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-06-25T14:39:03.770Z"
+    "generadoEn": "2026-06-25T19:05:51.143Z"
   }
 }
