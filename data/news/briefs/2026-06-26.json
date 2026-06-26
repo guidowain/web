@@ -1,152 +1,179 @@
 {
   "fecha": "2026-06-26",
-  "generadoEn": "2026-06-26T14:31:45.556Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "Hoy tenemos novedades importantes sobre Apple, con subas de precios en varios productos y rumores de aumentos para los próximos iPhone. En el ámbito de la IA, Google Finance lanza una nueva app con mejoras, mientras que Anthropic enfrenta problemas con sus modelos Mythos. A nivel local, el Gobierno habilitó definitivamente el Puerto Quequén y hay novedades sobre las elecciones en la Sociedad Rural. También se destaca la situación de las represas de Santa Cruz y la misión humanitaria a Venezuela.",
+  "generadoEn": "2026-06-26T18:51:35.117Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Hoy se destaca el lanzamiento de la serie GPT-5.6 de OpenAI, incluyendo los modelos Sol, Terra y Luna, aunque con un despliegue limitado por solicitud gubernamental. En el ámbito de Apple, se esperan novedades como la estación meteorológica SwitchBot compatible con HomeKit y rumores sobre un MacBook Pro con pantalla OLED y táctil para 2027. A nivel local, Argentina enfrenta aumentos en transporte, alquileres y prepagas para julio, mientras que el costo de la energía y los subsidios presentan desafíos para el ajuste fiscal.",
   "radarPersonal": [
     {
-      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "titulo": "Google Finance lanza una nueva app y mejoras",
-      "resumen": "La nueva versión de Google Finance sale de beta y estrena una aplicación para Android.",
-      "categoria": "AI",
-      "fuentes": [
-        "Google AI Blog"
-      ],
-      "urls": [
-        "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/"
-      ],
-      "score": 100,
-      "tags": [
-        "google",
-        "finance",
-        "app",
-        "android"
-      ]
-    },
-    {
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "Rumores de subas de precios para el iPhone 18 Pro y el iPhone plegable",
-      "resumen": "La línea iPhone 18 Pro y el primer iPhone plegable de Apple se lanzarían con precios más altos de lo previsto, según filtraciones chinas.",
-      "categoria": "Apple",
+      "titulo": "OpenAI lanza GPT-5.6 Sol, Terra y Luna en vista previa limitada",
+      "resumen": "OpenAI lanzó una vista previa limitada de su serie GPT-5.6, que incluye el modelo Sol, un modelo de trabajo diario equilibrado llamado Terra, y Luna, un modelo rápido y accesible. Terra es similar en rendimiento a GPT-5.5 pero es 2 veces más económico, y Luna ofrece 'gran capacidad' al precio más bajo de OpenAI. GPT-5.6 Sol es el modelo más potente de OpenAI hasta la fecha.",
+      "categoria": "AI",
       "fuentes": [
         "MacRumors"
       ],
       "urls": [
-        "https://www.macrumors.com/2026/06/26/iphone-18-pro-and-foldable-to-get-price-hikes/"
+        "https://www.macrumors.com/2026/06/26/openai-gpt-5-6-sol/"
       ],
       "score": 100,
       "tags": [
-        "iphone",
-        "precios",
-        "plegable",
-        "apple"
+        "openai",
+        "gpt-5.6",
+        "lanzamiento",
+        "modelos"
       ]
     },
     {
-      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "Apple sube los precios de la mayoría de sus productos",
-      "resumen": "Apple aumentó los precios de Macs y otros productos, con incrementos de entre 100 y 200 dólares para las Macs de entrada y mayores para configuraciones avanzadas.",
-      "categoria": "Apple",
-      "fuentes": [
-        "MacStories"
-      ],
-      "urls": [
-        "https://www.macstories.net/news/apple-raises-prices-across-most-of-its-product-lines/"
-      ],
-      "score": 100,
-      "tags": [
-        "apple",
-        "precios",
-        "mac",
-        "ipad",
-        "vision pro"
-      ]
-    },
-    {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "titulo": "La IA está transformando el comercio minorista de formas no evidentes",
-      "resumen": "La inteligencia artificial está redefiniendo el comercio minorista, principalmente en cómo se toman las decisiones internas, como la aparición de productos en búsquedas y la gestión de la cadena de suministro.",
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "OpenAI presenta GPT-5.6 en medio de la regulación de IA en EE. UU.",
+      "resumen": "Menos de 24 horas después de que se supiera que OpenAI escalonaría el lanzamiento de su próximo modelo a pedido de la administración Trump, ese modelo, GPT-5.6, ya está aquí. La compañía presentó la vista previa limitada de su nueva suite de modelos GPT 5.6: Sol, el modelo insignia; Terra, un modelo de nivel medio para 'trabajo de alto volumen'; y Luna.",
       "categoria": "AI",
       "fuentes": [
-        "MIT Technology Review AI"
+        "The Verge AI"
       ],
       "urls": [
-        "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/"
+        "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview"
       ],
       "score": 100,
       "tags": [
-        "ia",
-        "retail",
-        "comercio",
-        "transformacion"
+        "openai",
+        "gpt-5.6",
+        "regulación",
+        "lanzamiento"
       ]
     },
     {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "El Gobierno habilitó definitivamente el Puerto Quequén",
-      "resumen": "La Agencia Nacional de Puertos y Navegación oficializó la habilitación del puerto bonaerense como provincial, de uso público y destino comercial, abarcando sus seis terminales.",
-      "categoria": "Argentina",
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "OpenAI limita el despliegue de GPT-5.6 tras solicitud gubernamental",
+      "resumen": "OpenAI dice que las restricciones no deberían ser la norma. 'No creemos que este tipo de proceso de acceso gubernamental deba convertirse en el predeterminado a largo plazo', dice OpenAI. 'Mantiene las mejores herramientas lejos de usuarios, desarrolladores, empresas, defensores cibernéticos y socios globales que las necesitan'.",
+      "categoria": "AI",
       "fuentes": [
-        "Ambito"
+        "TechCrunch AI"
       ],
       "urls": [
-        "https://www.ambito.com/economia/el-gobierno-otorgo-la-habilitacion-definitiva-al-puerto-quequen-n6293029"
+        "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/"
       ],
       "score": 100,
       "tags": [
-        "argentina",
-        "puerto quequen",
-        "economia",
+        "openai",
+        "gpt-5.6",
+        "restricciones",
         "gobierno"
+      ]
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "titulo": "La estación meteorológica SwitchBot trae calendario E-ink y panel climático a Apple Home",
+      "resumen": "SwitchBot ha entrado oficialmente en este mercado con la nueva SwitchBot Weather Station. Combina una pantalla E-ink, sincronización de calendario de iCloud y sensores ambientales compatibles con Matter en un solo dispositivo.",
+      "categoria": "Apple",
+      "fuentes": [
+        "9to5Mac"
+      ],
+      "urls": [
+        "https://9to5mac.com/2026/06/26/switchbot-weather-station/"
+      ],
+      "score": 100,
+      "tags": [
+        "homekit",
+        "switchbot",
+        "e-ink",
+        "apple home"
+      ]
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "titulo": "OLED, pantalla táctil y más: qué esperar del MacBook Pro 2027",
+      "resumen": "Se espera que el MacBook Pro de Apple reciba una revisión, con un rediseño y una pantalla táctil OLED como los cambios clave. Esto es lo que dicen los rumores sobre el dispositivo. Se espera que el MacBook Pro reciba un panel OLED en 2027 o 2026.",
+      "categoria": "Apple",
+      "fuentes": [
+        "AppleInsider"
+      ],
+      "urls": [
+        "https://appleinsider.com/articles/26/06/26/oled-touchscreen-and-more-what-to-expect-from-the-2027-macbook-pro?utm_source=rss"
+      ],
+      "score": 100,
+      "tags": [
+        "macbook pro",
+        "oled",
+        "pantalla táctil",
+        "rumores"
       ]
     }
   ],
   "loImportante": [
-    "Apple subió los precios de la mayoría de sus productos, incluyendo Macs, iPads y Vision Pro, con rumores de más aumentos para los próximos iPhone.",
-    "Google Finance lanzó una nueva app para Android y mejoras en su plataforma, saliendo de la fase beta.",
-    "La inteligencia artificial está redefiniendo el comercio minorista, enfocándose en la toma de decisiones internas y la gestión de la cadena de suministro.",
-    "El Gobierno argentino habilitó definitivamente el Puerto Quequén, lo que podría impactar en el comercio exterior de la provincia de Buenos Aires.",
-    "Anthropic enfrenta problemas con sus modelos Mythos, que fueron retirados de línea tras un ultimátum de la administración Trump."
+    "OpenAI lanzó su serie GPT-5.6 (Sol, Terra, Luna) con modelos más potentes y económicos, aunque con un despliegue limitado por solicitud gubernamental.",
+    "Google Finance sale de beta y lanza una nueva app para Android, mejorando la experiencia de seguimiento financiero.",
+    "Se esperan aumentos en transporte, alquileres y prepagas en Argentina para julio, impactando el bolsillo de los ciudadanos.",
+    "El ajuste fiscal en Argentina enfrenta desafíos por el aumento del costo de la energía y el rebote de los subsidios.",
+    "El marketing se enfoca en preservar la humanidad en la era de la IA, destacando la emoción como diferenciador."
   ],
   "oportunidades": [
     {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "AI",
-      "titulo": "Aplicación de IA en la optimización de procesos de negocio",
-      "detalle": "La IA está transformando el retail en la toma de decisiones internas, como la gestión de inventario y la optimización de la cadena de suministro. Esto sugiere oportunidades para aplicar IA en la automatización y mejora de procesos en otros sectores, incluyendo el retoque fotográfico y la creación de arte con IA.",
+      "titulo": "Nuevos modelos de OpenAI más económicos y potentes",
+      "detalle": "Los nuevos modelos GPT-5.6 Terra y Luna ofrecen un rendimiento similar o mejor que versiones anteriores a un costo significativamente menor, lo que podría reducir los costos de desarrollo y operación de proyectos basados en IA.",
       "acciones": [
-        "Investigar herramientas de IA para optimizar flujos de trabajo en retoque fotográfico.",
-        "Explorar cómo la IA puede mejorar la gestión de proyectos y recursos en estudios de arte digital."
+        "Evaluar la integración de Terra o Luna en flujos de trabajo de retoque fotográfico o automatización para optimizar costos y rendimiento.",
+        "Explorar las capacidades de Sol para tareas que requieran la máxima potencia de IA."
       ]
     },
     {
-      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "categoria": "Investing",
-      "titulo": "Mejoras en Google Finance para análisis de inversiones",
-      "detalle": "El lanzamiento de la nueva app de Google Finance y sus mejoras podrían ofrecer herramientas más robustas para el seguimiento y análisis de mercados, útil para la inversión en ETFs y otros activos.",
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Productivity",
+      "titulo": "Estación meteorológica SwitchBot con E-ink para Apple Home",
+      "detalle": "La nueva estación meteorológica de SwitchBot integra una pantalla E-ink, sincronización con calendario de iCloud y sensores ambientales compatibles con Matter, ofreciendo una herramienta útil para la automatización del hogar y la gestión del tiempo.",
       "acciones": [
-        "Explorar las nuevas funcionalidades de Google Finance para el seguimiento de ETFs y mercados.",
-        "Evaluar si las nuevas herramientas de análisis pueden complementar las estrategias de inversión actuales."
+        "Investigar la compatibilidad y utilidad de la SwitchBot Weather Station para el ecosistema Apple Home de Guido.",
+        "Considerar su aplicación para monitorear condiciones ambientales en el espacio de trabajo."
+      ]
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "titulo": "Repensar el retail para la era de la IA",
+      "detalle": "La IA está transformando el retail en aspectos menos visibles, como la aparición de productos en búsquedas, la gestión de inventario y el desarrollo de código. Esto sugiere nuevas oportunidades para aplicar IA en la optimización de procesos internos y la experiencia del cliente.",
+      "acciones": [
+        "Analizar cómo las tendencias de IA en retail pueden aplicarse a estrategias de marketing digital o venta de servicios de retoque/arte con IA.",
+        "Explorar herramientas de IA para mejorar la visibilidad de proyectos o servicios online."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Market",
-      "titulo": "Aumento de precios en productos Apple",
-      "detalle": "Los rumores de subas de precios para los próximos iPhone y los aumentos ya aplicados en Macs y otros productos de Apple podrían impactar el presupuesto para nuevas adquisiciones de hardware.",
-      "mitigacion": "Evaluar la necesidad real de actualizar equipos y considerar alternativas o planificar las compras con anticipación."
+      "titulo": "Aumentos de tarifas en Argentina para julio",
+      "detalle": "Se esperan aumentos en transporte, alquileres y prepagas, lo que impactará directamente en el costo de vida y podría reducir el poder adquisitivo.",
+      "mitigacion": "Revisar el presupuesto personal y ajustar gastos en función de los próximos aumentos. Buscar alternativas de transporte o servicios si es posible."
     },
     {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "categoria": "AI",
-      "titulo": "Inestabilidad regulatoria en el sector de IA",
-      "detalle": "Los problemas de Anthropic con sus modelos Mythos tras un ultimátum de la administración Trump resaltan la creciente intervención regulatoria en el desarrollo y uso de la IA, lo que podría generar incertidumbre en el futuro de ciertas herramientas o modelos.",
-      "mitigacion": "Mantenerse informado sobre las regulaciones de IA y diversificar el uso de herramientas para no depender de un único proveedor o tecnología."
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Market",
+      "titulo": "El ajuste fiscal en Argentina enfrenta límites por el costo de la energía",
+      "detalle": "El aumento del costo de la energía y el rebote de los subsidios complican el ajuste fiscal del gobierno, lo que podría generar inestabilidad económica o nuevas medidas de ajuste.",
+      "mitigacion": "Mantenerse informado sobre las políticas económicas y sus posibles impactos en la inflación y el tipo de cambio. Diversificar inversiones si es posible."
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "Regulatory",
+      "titulo": "Restricciones gubernamentales en el despliegue de modelos de IA",
+      "detalle": "OpenAI limitó el lanzamiento de GPT-5.6 por solicitud gubernamental, lo que indica una creciente intervención regulatoria en el desarrollo y acceso a la IA. Esto podría afectar la disponibilidad de herramientas y la innovación en el sector.",
+      "mitigacion": "Monitorear las tendencias regulatorias en IA y sus posibles implicaciones para el uso de estas tecnologías en proyectos personales o profesionales. Considerar la diversificación de herramientas de IA."
     }
   ],
-  "conexiones": [],
+  "conexiones": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Lanzamiento de GPT-5.6 y restricciones gubernamentales",
+      "historias": [
+        "OpenAI lanza GPT-5.6 Sol, Terra y Luna en vista previa limitada (MacRumors)",
+        "OpenAI limita el despliegue de GPT-5.6 tras solicitud gubernamental (TechCrunch AI)",
+        "OpenAI presenta GPT-5.6 en medio de la regulación de IA en EE. UU. (The Verge AI)"
+      ],
+      "conclusion": "El lanzamiento de los nuevos y más eficientes modelos GPT-5.6 de OpenAI se ve opacado por la intervención gubernamental, que limita su despliegue. Esto subraya la creciente tensión entre la innovación tecnológica y la necesidad de regulación, un factor clave a seguir para el acceso y uso de herramientas de IA."
+    }
+  ],
   "noticias": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
@@ -154,39 +181,18 @@
       "fuente": "Google AI Blog",
       "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
       "tituloOriginal": "Our latest Google Finance upgrades, including a new app",
-      "tituloLimpio": "Google Finance lanza una nueva app y mejoras",
-      "resumen": "La nueva versión de Google Finance sale de beta y estrena una aplicación para Android.",
-      "porQueImporta": "Para Guido, que invierte en ETFs y mercados, una herramienta mejorada de Google Finance puede ser muy útil para el seguimiento y análisis de sus inversiones.",
+      "tituloLimpio": "Google Finance lanza nuevas actualizaciones y una app para Android",
+      "resumen": "El nuevo Google Finance sale de beta y lanza una nueva app para Android.",
+      "porQueImporta": "Guido, que invierte en ETFs y mercados, puede beneficiarse de una herramienta mejorada para el seguimiento financiero, ahora con una aplicación dedicada para Android.",
       "publicadoEn": "2026-06-25T16:00:00.000Z",
       "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp",
-      "globalScore": 100,
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "google",
         "finance",
         "app",
-        "android",
         "inversiones"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "categoria": "Apple",
-      "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/26/iphone-18-pro-and-foldable-to-get-price-hikes/",
-      "tituloOriginal": "iPhone 18 Pro and Foldable iPhone Tipped to Get Price Hikes Too",
-      "tituloLimpio": "Rumores de subas de precios para el iPhone 18 Pro y el iPhone plegable",
-      "resumen": "La línea iPhone 18 Pro y el primer iPhone plegable de Apple se lanzarían con precios más altos de lo previsto, según filtraciones chinas.",
-      "porQueImporta": "Guido, como usuario de Apple, debe estar al tanto de las tendencias de precios para futuras compras o actualizaciones de equipos.",
-      "publicadoEn": "2026-06-26T14:14:02.000Z",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "apple",
-        "iphone",
-        "precios",
-        "rumores"
       ],
       "tambienVistoEn": []
     },
@@ -194,20 +200,20 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/el-gobierno-otorgo-la-habilitacion-definitiva-al-puerto-quequen-n6293029",
-      "tituloOriginal": "El Gobierno otorgó la habilitación definitiva al Puerto Quequén",
-      "tituloLimpio": "El Gobierno habilitó definitivamente el Puerto Quequén",
-      "resumen": "La Agencia Nacional de Puertos y Navegación oficializó la habilitación del puerto bonaerense como provincial, de uso público y destino comercial, abarcando sus seis terminales.",
-      "porQueImporta": "Es una noticia relevante para la economía argentina y bonaerense, que puede impactar en el comercio y la logística del país.",
-      "publicadoEn": "2026-06-26T11:06:00.000Z",
-      "imagen": "https://media.ambito.com/p/6d443ebdeeb66509c00e130d2a443c76/adjuntos/239/imagenes/043/471/0043471514/1200x675/smart/puerto-quequen.png",
-      "globalScore": 94,
+      "url": "https://www.ambito.com/economia/julio-llega-aumentos-transporte-alquileres-prepagas-y-mas-una-una-las-subas-que-golpearan-el-bolsillo-n6293194",
+      "tituloOriginal": "Julio llega con aumentos en transporte, alquileres, prepagas y más: una por una, las subas que golpearán el bolsillo",
+      "tituloLimpio": "Julio llega con aumentos en transporte, alquileres y prepagas en Argentina",
+      "resumen": "Luego de que el INDEC anunció que la inflación de abril fue del 2,1%, el Estado y las empresas ya preparan las nuevas subas de tarifas para el próximo mes.",
+      "porQueImporta": "Impacto directo en el costo de vida de Guido en Buenos Aires, afectando su presupuesto personal y familiar.",
+      "publicadoEn": "2026-06-26T18:07:00.000Z",
+      "imagen": "https://media.ambito.com/p/1aa1244b7db73e40732c8a32495388fa/adjuntos/239/imagenes/042/808/0042808837/aumentos-luz-gas-colectivos-subas.jpg",
+      "globalScore": 90,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "puerto",
-        "economia",
-        "gobierno"
+        "inflación",
+        "aumentos",
+        "economía"
       ],
       "tambienVistoEn": []
     },
@@ -217,9 +223,9 @@
       "fuente": "Marketing Dive",
       "url": "https://www.marketingdive.com/news/5-cannes-lions-takeaways-as-marketers-wrestle-with-an-industry-in-flux/823850/",
       "tituloOriginal": "5 Cannes Lions takeaways as marketers wrestle with an industry in flux",
-      "tituloLimpio": "Cinco conclusiones de Cannes Lions para el marketing",
-      "resumen": "Marketing Dive consultó a los asistentes sobre sus sorpresas, frustraciones y lo que esperan ver más en el festival.",
-      "porQueImporta": "Como profesional interesado en marketing, las conclusiones de un evento como Cannes Lions ofrecen insights sobre las tendencias y desafíos de la industria.",
+      "tituloLimpio": "Cinco puntos clave de Cannes Lions para profesionales del marketing",
+      "resumen": "Marketing Dive conversó con los asistentes para preguntarles sobre sus mayores sorpresas, frustraciones y lo que quieren ver más en el festival.",
+      "porQueImporta": "Ofrece perspectivas sobre las tendencias y desafíos actuales en marketing, relevantes para Guido en su trabajo y posibles estrategias de promoción.",
       "publicadoEn": "2026-06-26T12:53:00.000Z",
       "globalScore": 96,
       "personalScore": 100,
@@ -231,125 +237,41 @@
       "tambienVistoEn": []
     },
     {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "categoria": "AI",
-      "fuente": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
-      "tituloOriginal": "Anthropic’s Mythos mess is only getting worse",
-      "tituloLimpio": "Los problemas de Anthropic con sus modelos Mythos empeoran",
-      "resumen": "Han pasado dos semanas desde que Anthropic retiró sus modelos Mythos-class de línea tras un ultimátum de la administración Trump, sin una resolución a la vista.",
-      "porQueImporta": "La situación de Anthropic es un indicador de la creciente intervención regulatoria en el sector de la IA, algo relevante para Guido que trabaja con IA aplicada.",
-      "publicadoEn": "2026-06-26T14:07:03.000Z",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "ia",
-        "anthropic",
-        "regulacion",
-        "modelos"
-      ],
-      "tambienVistoEn": []
-    },
-    {
       "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
       "categoria": "AI",
       "fuente": "MIT Technology Review AI",
       "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
       "tituloOriginal": "Repositioning retail for the AI era",
-      "tituloLimpio": "La IA está redefiniendo el comercio minorista",
-      "resumen": "La inteligencia artificial está transformando rápidamente el comercio minorista, principalmente en cómo se toman las decisiones internas, como la aparición de productos en búsquedas y la gestión de la cadena de suministro.",
-      "porQueImporta": "Para Guido, que trabaja con IA, es importante entender cómo esta tecnología está impactando diferentes industrias, más allá de las aplicaciones obvias.",
+      "tituloLimpio": "Reubicando el retail para la era de la IA",
+      "resumen": "La inteligencia artificial está remodelando rápidamente el retail, pero no de las maneras que los consumidores podrían notar de inmediato. La mayor transformación puede no ser las pruebas virtuales llamativas o los asistentes de compra con chatbot, sino cómo se toman las decisiones detrás de escena.",
+      "porQueImporta": "Aunque no es su sector directo, muestra cómo la IA está transformando industrias de manera fundamental, lo que puede inspirar aplicaciones en su campo de retoque y arte con IA.",
       "publicadoEn": "2026-06-25T14:22:59.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "ia",
+        "ai",
         "retail",
-        "comercio",
-        "transformacion"
+        "transformación digital"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "id": "9to5mac-aHR0cHM6Ly85dG81Z29v",
       "categoria": "Apple",
       "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/26/apple-supporting-venezuela-relief-efforts-after-catastrophic-earthquake/",
-      "tituloOriginal": "Apple supporting Venezuela relief efforts after catastrophic earthquake",
-      "tituloLimpio": "Apple apoya los esfuerzos de ayuda en Venezuela tras el terremoto",
-      "resumen": "El CEO de Apple, Tim Cook, anunció que la compañía donará a los esfuerzos de ayuda en Venezuela después del terremoto catastrófico ocurrido esta semana.",
-      "porQueImporta": "Muestra el rol social de las grandes empresas tecnológicas, un aspecto de interés general.",
-      "publicadoEn": "2026-06-26T14:13:58.000Z",
-      "globalScore": 100,
+      "url": "https://9to5google.com/2026/06/23/youtube-music-may-soon-support-offline-downloads-on-apple-watch/",
+      "tituloOriginal": "YouTube Music may be working on support for offline downloads on Apple Watch",
+      "tituloLimpio": "YouTube Music podría soportar descargas offline en Apple Watch",
+      "resumen": "YouTube Music para Apple Watch parece estar finalmente listo para esa funcionalidad, ya que nuevos hallazgos de código sugieren que el soporte está a la vuelta de la esquina.",
+      "porQueImporta": "Mejora la experiencia de usuario para Guido si usa Apple Watch y YouTube Music, permitiendo escuchar música sin el teléfono durante actividades.",
+      "publicadoEn": "2026-06-23T16:55:18.000Z",
+      "globalScore": 78,
       "personalScore": 100,
       "tags": [
         "apple",
-        "venezuela",
-        "ayuda humanitaria"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
-      "categoria": "Apple",
-      "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/inside/apple-vision-pro/tips/how-to-play-steam-vr-games-on-an-apple-vision-pro-using-alvr?utm_source=rss",
-      "tituloOriginal": "How to play Steam VR games on an Apple Vision Pro using ALVR",
-      "tituloLimpio": "Cómo jugar juegos de Steam VR en un Apple Vision Pro usando ALVR",
-      "resumen": "ALVR es una de las herramientas para transmitir juegos de VR desde una PC con Windows a un Apple Vision Pro a través de Wi-Fi.",
-      "porQueImporta": "Para Guido, como usuario de Apple y con interés en la tecnología, esta noticia ofrece una forma de expandir las capacidades de un dispositivo como el Vision Pro.",
-      "publicadoEn": "2026-06-26T14:27:27.000Z",
-      "globalScore": 96,
-      "personalScore": 100,
-      "tags": [
-        "apple",
-        "vision pro",
-        "vr",
-        "juegos",
-        "herramientas"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
-      "categoria": "Apple",
-      "fuente": "MacStories",
-      "url": "https://www.macstories.net/news/apple-raises-prices-across-most-of-its-product-lines/",
-      "tituloOriginal": "Apple Raises Prices Across Most of Its Product Lines",
-      "tituloLimpio": "Apple sube los precios de la mayoría de sus productos",
-      "resumen": "Apple aumentó los precios de Macs y otros productos, con incrementos de entre 100 y 200 dólares para las Macs de entrada y mayores para configuraciones avanzadas.",
-      "porQueImporta": "Impacta directamente en el costo de adquisición de hardware Apple, relevante para Guido como usuario y profesional.",
-      "publicadoEn": "2026-06-25T17:25:22.000Z",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "apple",
-        "precios",
-        "mac",
-        "ipad",
-        "vision pro"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
-      "categoria": "Finance",
-      "fuente": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-waver-as-report-of-openai-ipo-delay-rattles-chip-stocks-231347821.html",
-      "tituloOriginal": "Stock market today: Dow, S&P 500, Nasdaq waver as report of OpenAI IPO delay rattles chip stocks",
-      "tituloLimpio": "Mercado de valores hoy: Dow, S&P 500, Nasdaq fluctúan por informe de retraso en la IPO de OpenAI",
-      "resumen": "El Dow, S&P 500 y Nasdaq muestran fluctuaciones debido a un informe sobre el retraso de la oferta pública inicial de OpenAI, lo que afecta a las acciones de chips.",
-      "porQueImporta": "Noticia relevante para Guido por su interés en inversiones y el impacto de las empresas de IA en el mercado.",
-      "publicadoEn": "2026-06-25T23:13:47.000Z",
-      "imagen": "https://s.yimg.com/os/creatr-uploaded-images/2025-06/0f4360b0-44a2-11f0-b23a-700d03706262",
-      "globalScore": 92,
-      "personalScore": 100,
-      "tags": [
-        "finanzas",
-        "mercado",
-        "openai",
-        "acciones",
-        "ia"
+        "apple watch",
+        "youtube music",
+        "offline"
       ],
       "tambienVistoEn": []
     },
@@ -357,91 +279,67 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/rural/elecciones-rural-pino-presento-lista-candidatos_0_tOjggxK2FJ.html",
-      "tituloOriginal": "Elecciones en la Rural: Pino presentó su lista de candidatos",
-      "tituloLimpio": "Elecciones en la Rural: Pino presentó su lista de candidatos",
-      "resumen": "El actual presidente de la entidad eligió a Carlos Odriozola como su compañero de fórmula. Su espacio, Presencia Federal, competirá con Renovación y Unidad, encabezado por el actual vicepresidente Marcos Pereda Born.",
-      "porQueImporta": "Noticia de interés local sobre el sector agropecuario y la política interna de una entidad importante en Argentina.",
-      "publicadoEn": "2026-06-26T13:29:37.000Z",
-      "imagen": "https://www.clarin.com/img/2026/06/26/fL735K1HV_1200x630__1.jpg",
+      "url": "https://www.clarin.com/economia/ajuste-clave-milei-limite-crece-costo-energia-rebotan-subsidios_0_nXMsNvqDbt.html",
+      "tituloOriginal": "El ajuste clave de Milei, ante un límite: crece el costo de la energía y rebotan los subsidios",
+      "tituloLimpio": "El ajuste de Milei enfrenta un límite: crece el costo de la energía y rebotan los subsidios",
+      "resumen": "El Gobierno pagó deudas atrasadas con las empresas y enfrenta un mayor costo de la energía por el gas y los combustibles. Desde hace casi un año que el gasto acumulado se mantiene casi estancado. Pero aseguran que es transitorio y que en el segundo semestre volverá a reducirse la ayuda del Estado a los hogares.",
+      "porQueImporta": "Información clave sobre la situación económica de Argentina que puede influir en decisiones financieras y de inversión de Guido.",
+      "publicadoEn": "2026-06-26T17:01:35.000Z",
+      "imagen": "https://www.clarin.com/img/2025/06/07/Wwq_YmIAw_1200x630__1.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "sociedad rural",
-        "elecciones",
-        "politica"
+        "economía",
+        "ajuste",
+        "energía"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
-      "fuente": "Clarin Politica",
-      "url": "https://www.clarin.com/politica/justicia-encuentra-culpable-adorni-echo-patada-advertencia-milei-escandalo-patrimonio-jefe-gabinete_0_IIMmc8Grff.html",
-      "tituloOriginal": "\"Si la Justicia encuentra culpable a Adorni lo echo de una patada\": la advertencia de Milei por el escándalo sobre el patrimonio del jefe de Gabinete",
-      "tituloLimpio": "Milei advierte que echará a Adorni si la Justicia lo encuentra culpable",
-      "resumen": "El mandatario aseguró que si la Justicia encuentra culpable a Adorni por el escándalo sobre su patrimonio, lo echará, aunque reiteró su apoyo al jefe de Gabinete.",
-      "porQueImporta": "Noticia política de alto impacto en Argentina, que refleja la postura del presidente ante un caso de corrupción.",
-      "publicadoEn": "2026-06-26T11:41:03.000Z",
-      "imagen": "https://www.clarin.com/img/2026/06/13/yY5CfB_uH_1200x630__1.jpg",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/06/26/dolar-hoy-en-vivo-a-cuanto-se-negocian-todas-las-cotizaciones-minuto-a-minuto-este-viernes-26-de-junio/",
+      "tituloOriginal": "Dólar hoy en vivo: a cuánto se negocian todas las cotizaciones minuto a minuto este viernes 26 de junio",
+      "tituloLimpio": "Dólar hoy en vivo: cotizaciones del viernes 26 de junio",
+      "resumen": "El billete al público es ofrecido a $1.495 para la venta en el Banco Nación. El blue es pactado a $1.520.",
+      "porQueImporta": "Información esencial sobre el tipo de cambio en Argentina, relevante para la planificación financiera y decisiones de inversión de Guido.",
+      "publicadoEn": "2026-06-26T18:32:20.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/BHDRNJIJ3JGJTG7X6BSJV6I7WY.JPG?auth=aaafaff94ec39a430a6fd0b1536db65c3b5825cd48f3947e63c5f5f202934cfc&smart=true&width=4000&height=2668",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "politica",
-        "milei",
-        "adorni",
-        "justicia"
+        "dólar",
+        "cotización",
+        "finanzas"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
-      "categoria": "Argentina",
-      "fuente": "Infobae Politica",
-      "url": "https://www.infobae.com/politica/2026/06/26/el-gobierno-alisto-la-mision-humanitaria-que-enviara-a-venezuela-para-asistir-a-las-victimas-del-terremoto/",
-      "tituloOriginal": "El Gobierno alistó la misión humanitaria que enviará a Venezuela para asistir a las víctimas del terremoto",
-      "tituloLimpio": "El Gobierno alistó la misión humanitaria para Venezuela",
-      "resumen": "La cartera a cargo de Carlos Presti informó que el grupo especializado quedó listo para salir con binomios caninos, equipos de búsqueda y rescate y recursos para actuar en estructuras colapsadas, coordinado con la Cancillería.",
-      "porQueImporta": "Muestra la acción del gobierno argentino en respuesta a una catástrofe internacional, relevante para el contexto regional.",
-      "publicadoEn": "2026-06-26T13:15:18.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/Y3IJMINVKRDT3DPYU55HF3BJME.jpeg?auth=3c0b49e16c4ef285904aecd5dbb3499f592323c09798bf32fd746eba6f952c21&smart=true&width=1600&height=1200",
-      "globalScore": 94,
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "fuente": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/preserving-humanity-in-the-age-of-ai-the-future-of-marketing-with-natasha-madan/",
+      "tituloOriginal": "Preserving Humanity in the Age of AI: The Future of Marketing with Natasha Madan",
+      "tituloLimpio": "Preservando la humanidad en la era de la IA: el futuro del marketing",
+      "resumen": "La emoción es el diferenciador cuando todos tienen los mismos datos.",
+      "porQueImporta": "Ofrece una perspectiva estratégica sobre cómo el marketing debe evolucionar con la IA, enfatizando la importancia de la emoción, algo crucial para Guido en su trabajo creativo con IA.",
+      "publicadoEn": "2026-06-26T13:50:13.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "venezuela",
-        "ayuda humanitaria",
-        "gobierno"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
-      "categoria": "Argentina",
-      "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/las-represas-de-santa-cruz-el-gobierno-prometio-reactivarlas-en-marzo-pero-los-trabajos-todavia-no-nid26062026/",
-      "tituloOriginal": "Las represas de Santa Cruz: el Gobierno prometió reactivarlas en marzo, pero los trabajos todavía no arrancaron",
-      "tituloLimpio": "Las represas de Santa Cruz: los trabajos no arrancaron a pesar de la promesa",
-      "resumen": "El Gobierno prometió reactivar las represas de Santa Cruz en marzo, pero los trabajos aún no comenzaron. El traspaso del proyecto generó meses de revisión documental y aún resta firmar la adenda XII.",
-      "porQueImporta": "Noticia económica y de infraestructura importante para Argentina, que muestra el estado de un proyecto clave y la gestión gubernamental.",
-      "publicadoEn": "2026-06-26T14:21:58.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/ZGRVXTSHW5CHBOHRFJFM46VKOY.PNG?auth=96de0d915a85be43131054d1069645c1778ed23b09ac82650855543279312e57&smart=true&width=2000&height=1333",
-      "globalScore": 98,
-      "personalScore": 100,
-      "tags": [
-        "argentina",
-        "economia",
-        "infraestructura",
-        "gobierno",
-        "santa cruz"
+        "marketing",
+        "ai",
+        "creatividad",
+        "humanidad"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-06-26T14:31:45.556Z"
+    "generadoEn": "2026-06-26T18:51:35.117Z"
   }
 }
