@@ -1,13 +1,13 @@
 {
   "fecha": "2026-06-27",
-  "generadoEn": "2026-06-27T13:49:21.119Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "Apple implementó aumentos de precios significativos en varios de sus productos, generando preocupación entre los usuarios. En el ámbito de la IA, se lanzan nuevos modelos en Asia, mientras Google Finance actualiza su plataforma con una nueva app. Argentina evalúa un 'pasaporte dorado' para atraer inversiones y se debate la situación económica y política local. El mercado cripto experimenta una baja, atribuida a una combinación de factores.",
+  "generadoEn": "2026-06-27T18:03:33.367Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Hoy, Apple anunció aumentos masivos de precios en muchos de sus productos, con subas de hasta el 50%. En Argentina, el Banco Nación lanzó un nuevo crédito UVA para deudores morosos, y se especula con un \"pasaporte dorado\" para atraer inversiones. En el ámbito de la IA, un ejecutivo de Apple Vision Pro se iría a OpenAI, y Google Finance lanzó una nueva app para Android. El sector minorista se está reconfigurando para la era de la IA, y el mercado de criptomonedas muestra una caída en el rendimiento de las acciones.",
   "radarPersonal": [
     {
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "titulo": "Aumentos masivos de precios en productos Apple",
-      "resumen": "La comunidad de Apple se vio afectada esta semana por aumentos masivos de precios en una amplia gama de productos, con muchos productos viendo aumentos del 10 al 20 por ciento y algunos tan altos como el 50 por ciento o más.",
+      "resumen": "Apple implementó aumentos de precios significativos en una amplia gama de productos, con subas del 10 al 20 por ciento y algunas de hasta el 50 por ciento o más.",
       "categoria": "Apple",
       "fuentes": [
         "MacRumors"
@@ -23,96 +23,120 @@
       ]
     },
     {
-      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "titulo": "Actualizaciones de Google Finance, incluyendo una nueva app",
-      "resumen": "El nuevo Google Finance sale de la versión beta y lanza una nueva aplicación para Android.",
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "Apple sube precios y culpa a la \"obsesión por la IA\" de las grandes tecnológicas",
+      "resumen": "Tim Cook dijo que los aumentos de precios eran \"inevitables\" y describió los precios de la compañía como \"insostenibles\". El MacBook Pro de 16 pulgadas subió 300 dólares, el iPad Air de 11 pulgadas pasó de 599 a 749 dólares, y el HomePod Mini subió 30 dólares a 129 dólares. Cook atribuyó la culpa a la obsesión por la IA.",
       "categoria": "AI",
       "fuentes": [
-        "Google AI Blog"
+        "The Verge AI"
       ],
       "urls": [
-        "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/"
+        "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech"
       ],
       "score": 100,
       "tags": [
-        "google",
-        "finance",
-        "app",
-        "android"
+        "apple",
+        "precios",
+        "ia",
+        "macbook",
+        "ipad",
+        "homepod"
       ]
     },
     {
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "titulo": "Startups de IA asiáticas lanzan modelos similares a Mythos mientras la prohibición de exportación de Anthropic continúa",
-      "resumen": "Se están lanzando nuevos modelos en Asia que prometen capacidades similares a Mythos sin temor a una prohibición de exportación.",
+      "titulo": "Ejecutivo de Apple Vision Pro se iría a OpenAI",
+      "resumen": "Paul Meade, vicepresidente de Apple a cargo del headset Vision Pro, dejaría la compañía para unirse al equipo de hardware de OpenAI.",
       "categoria": "AI",
       "fuentes": [
         "TechCrunch AI"
       ],
       "urls": [
-        "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/"
+        "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/"
       ],
       "score": 100,
       "tags": [
-        "ia",
-        "startups",
-        "asia",
-        "modelos"
+        "apple",
+        "vision pro",
+        "openai",
+        "ejecutivo"
       ]
     },
     {
-      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
-      "titulo": "Argentina podría lanzar un 'pasaporte dorado' para atraer divisas y millonarios",
-      "resumen": "Según Financial Times, el documento se otorgaría a cambio de USD 500.000 o la compra de un bono por USD 1 millón. No habría requisito de residencia.",
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "titulo": "El Financial Times cree que Milei lanzaría un \"pasaporte dorado\" para atraer inversión",
+      "resumen": "El medio británico sostiene que esta iniciativa sería una herramienta del Gobierno para enfrentar los \"problemas de liquidez\", ofreciendo la nacionalidad argentina a cambio de una donación de 500.000 dólares o la compra de un bono soberano por 1 millón de dólares.",
       "categoria": "Argentina",
       "fuentes": [
-        "Infobae Economia"
+        "Clarin Economia"
       ],
       "urls": [
-        "https://www.infobae.com/economia/2026/06/27/pasaporte-dorado-segun-financial-times-milei-lo-lanzara-este-ano-para-captar-divisas-atraer-millonarios-y-cancelar-deuda/"
+        "https://www.clarin.com/economia/pasaporte-dorado-financial-times-cree-milei-lanzaria-ano-canjear-ciudadania-inversion-sumar-dolares-cancelar-deuda_0_XD5rH3VjD6.html"
       ],
       "score": 100,
       "tags": [
         "argentina",
-        "inversión",
-        "divisas",
-        "pasaporte"
+        "inversion",
+        "milei",
+        "pasaporte dorado"
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "El Banco Nación lanza un nuevo crédito UVA para deudores morosos",
+      "resumen": "La nueva línea de créditos comienza a regir el 29 de junio. El objetivo es otorgar una regularización más fácil.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/el-banco-nacion-sale-al-rescate-de-deudores-morosos-un-nuevo-credito-uva-quienes-pueden-acceder-n6293483"
+      ],
+      "score": 100,
+      "tags": [
+        "argentina",
+        "banco nacion",
+        "credito uva",
+        "deudores"
       ]
     }
   ],
   "loImportante": [
-    "Apple subió significativamente los precios de sus productos, afectando a la comunidad de usuarios.",
-    "Google Finance lanzó una nueva app para Android y salió de beta.",
-    "Startups asiáticas de IA están lanzando nuevos modelos, compitiendo con laboratorios de EE.UU.",
-    "Argentina evalúa un 'pasaporte dorado' para atraer inversiones y millonarios.",
-    "El fundador de Binance atribuye la baja del mercado cripto a la IA, tensiones globales y el ciclo de 4 años."
+    "Apple subió drásticamente los precios de sus productos, incluyendo MacBooks, iPads y HomePods, atribuyendo parte de la culpa a la inversión en IA.",
+    "Un ejecutivo clave de Apple Vision Pro se va a OpenAI, lo que podría indicar movimientos importantes en el sector de la IA y hardware.",
+    "Google Finance lanzó una nueva app para Android, mejorando la accesibilidad a herramientas financieras.",
+    "En Argentina, el Banco Nación ofrece una nueva línea de créditos UVA para deudores morosos, y se evalúa un \"pasaporte dorado\" para atraer inversión extranjera.",
+    "El sector minorista se está reconfigurando por la IA, con cambios en la toma de decisiones internas más que en experiencias de usuario llamativas."
   ],
   "oportunidades": [
     {
-      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Investing",
-      "titulo": "Potencial 'pasaporte dorado' en Argentina para atraer capital",
-      "detalle": "Argentina podría lanzar un programa de 'pasaporte dorado' que otorgaría residencia a cambio de una inversión significativa, buscando atraer divisas y millonarios.",
+      "titulo": "Oportunidad de inversión en Argentina con el \"pasaporte dorado\"",
+      "detalle": "El posible lanzamiento de un \"pasaporte dorado\" en Argentina, que permitiría obtener la ciudadanía a cambio de una donación de 500.000 dólares o la compra de un bono soberano por 1 millón de dólares, podría generar nuevas oportunidades de inversión y flujo de capital en el país.",
       "acciones": [
-        "Monitorear el desarrollo de este programa para posibles oportunidades de inversión o reubicación de capital."
-      ]
-    },
-    {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "categoria": "AI",
-      "titulo": "Nuevos modelos de IA en Asia ofrecen alternativas a las restricciones de exportación",
-      "detalle": "Startups asiáticas están lanzando modelos de IA con capacidades avanzadas, sin las restricciones de exportación que afectan a otras empresas.",
-      "acciones": [
-        "Investigar estos nuevos modelos de IA asiáticos para posibles aplicaciones en retoque fotográfico o arte con IA."
+        "Monitorear el desarrollo de esta iniciativa en Argentina.",
+        "Evaluar posibles vehículos de inversión asociados a esta medida, como bonos soberanos o proyectos que se beneficien de la entrada de capital."
       ]
     },
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
       "categoria": "Tools & Automation",
-      "titulo": "Nueva app de Google Finance para seguimiento de inversiones",
-      "detalle": "Google Finance lanzó una nueva aplicación para Android, saliendo de su fase beta, lo que podría mejorar el seguimiento de inversiones.",
+      "titulo": "Nueva app de Google Finance para Android",
+      "detalle": "La nueva aplicación de Google Finance para Android, que sale de beta, ofrece una herramienta mejorada para el seguimiento de inversiones y finanzas personales.",
       "acciones": [
-        "Explorar la nueva app de Google Finance para gestionar y monitorear ETFs y otros mercados."
+        "Explorar la nueva app de Google Finance para Android y sus funcionalidades.",
+        "Evaluar cómo esta herramienta puede integrarse en el seguimiento de ETFs y mercados."
+      ]
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "titulo": "Reconfiguración del retail por la IA: oportunidades en la optimización interna",
+      "detalle": "La inteligencia artificial está transformando el sector minorista, principalmente en la toma de decisiones internas como la gestión de inventario y la optimización de resultados de búsqueda. Esto abre puertas para soluciones de IA aplicada en la eficiencia operativa.",
+      "acciones": [
+        "Investigar herramientas de IA que optimicen procesos internos en el retail (gestión de inventario, logística, personalización de búsqueda).",
+        "Considerar cómo estas tendencias pueden aplicarse a negocios propios o de clientes para mejorar la eficiencia."
       ]
     }
   ],
@@ -121,42 +145,34 @@
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Market",
       "titulo": "Aumentos masivos de precios en productos Apple",
-      "detalle": "Apple implementó aumentos de precios del 10% al 50% en una amplia gama de productos, lo que podría afectar futuras compras de equipos.",
-      "mitigacion": "Evaluar la necesidad de nuevas compras de Apple y considerar alternativas o buscar ofertas en minoristas antes de que los precios se ajusten."
+      "detalle": "Apple implementó aumentos de precios significativos en una amplia gama de productos, con subas del 10 al 20 por ciento y algunas de hasta el 50 por ciento o más. Esto podría impactar el presupuesto para nuevas adquisiciones de hardware Apple.",
+      "mitigacion": "Evaluar la necesidad real de nuevas compras de Apple y considerar alternativas o buscar ofertas en el mercado de segunda mano. Planificar las compras con anticipación si es posible."
     },
     {
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "Market",
-      "titulo": "Apple atribuye aumentos de precios a la 'obsesión por la IA' de las grandes tecnológicas",
-      "detalle": "Tim Cook mencionó que los aumentos de precios eran 'inevitables' y que la política de precios de la compañía era 'insostenible', culpando a la 'obsesión por la IA' de las grandes tecnológicas.",
-      "mitigacion": "Considerar el impacto a largo plazo de la 'obsesión por la IA' en los costos de hardware y software, y planificar el presupuesto en consecuencia."
+      "titulo": "Impacto de la \"obsesión por la IA\" en los precios de Apple",
+      "detalle": "Apple atribuye los aumentos de precios a la \"obsesión por la IA\" de las grandes tecnológicas, lo que sugiere que la inversión en IA podría seguir encareciendo productos tecnológicos de alta gama.",
+      "mitigacion": "Monitorear cómo la inversión en IA afecta los precios de hardware y software. Considerar alternativas de menor costo o de código abierto si los precios de las herramientas de IA se vuelven prohibitivos."
     },
     {
-      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
-      "categoria": "Market",
-      "titulo": "El fundador de Binance culpa a la IA y tensiones globales por la baja del criptomercado",
-      "detalle": "El fundador de Binance atribuye la caída del 50% del mercado cripto en el último año a una combinación de IA, tensiones globales y el ciclo de 4 años.",
-      "mitigacion": "Revisar la estrategia de inversión en criptoactivos, considerando la volatilidad y los factores macroeconómicos y tecnológicos mencionados."
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Technology",
+      "titulo": "Cinco modelos de iPad no serán compatibles con iPadOS 27",
+      "detalle": "Apple dejará de dar soporte a cinco modelos de iPad con la llegada de iPadOS 27, lo que implica que estos dispositivos no recibirán las últimas actualizaciones y funcionalidades.",
+      "mitigacion": "Verificar la compatibilidad de los iPads actuales con iPadOS 27. Si se posee uno de los modelos afectados, planificar una posible actualización de hardware a mediano plazo o aceptar la limitación de no tener las últimas funciones."
     }
   ],
   "conexiones": [
     {
-      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "Aumentos de precios de Apple y la 'obsesión por la IA'",
+      "id": "apple-price-increases-ai-connection",
+      "titulo": "La IA y los precios de Apple",
       "historias": [
-        "Los aumentos masivos de precios en productos Apple generaron preocupación en la comunidad.",
-        "Tim Cook, CEO de Apple, atribuyó los aumentos de precios a la 'obsesión por la IA' de las grandes tecnológicas, describiendo la situación como 'insostenible'."
+        "macrumors-aHR0cHM6Ly93d3cubWFj",
+        "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+        "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1"
       ],
-      "conclusion": "Los aumentos de precios de Apple, que afectan directamente a los usuarios, son justificados por la empresa como una consecuencia de la inversión y el enfoque en la IA por parte de la industria tecnológica."
-    },
-    {
-      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
-      "titulo": "Iniciativas económicas en Argentina y el contexto político",
-      "historias": [
-        "Argentina evalúa un 'pasaporte dorado' para atraer inversiones y millonarios, según Financial Times.",
-        "El Presidente Javier Milei regresó de España y se espera una reunión para definir la situación del jefe de Gabinete, en medio de rumores de renuncia."
-      ],
-      "conclusion": "Mientras el gobierno argentino busca nuevas estrategias para atraer capital extranjero, como el 'pasaporte dorado', el panorama político interno sigue siendo dinámico con importantes definiciones en curso."
+      "conclusion": "Los aumentos masivos de precios en productos Apple, atribuidos en parte a la \"obsesión por la IA\", se conectan con la salida de un ejecutivo clave de Vision Pro hacia OpenAI. Esto sugiere que la inversión en IA está generando costos significativos para Apple, que se trasladan al consumidor, y que la competencia por talento en IA es intensa."
     }
   ],
   "noticias": [
@@ -166,9 +182,9 @@
       "fuente": "Google AI Blog",
       "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
       "tituloOriginal": "Our latest Google Finance upgrades, including a new app",
-      "tituloLimpio": "Google Finance lanza nuevas actualizaciones y una app para Android",
-      "resumen": "El nuevo Google Finance sale de la versión beta y lanza una nueva aplicación para Android.",
-      "porQueImporta": "Guido, que invierte en ETFs y mercados, puede beneficiarse de una nueva herramienta de seguimiento financiero de Google, especialmente si la app ofrece funcionalidades avanzadas para monitorear sus inversiones.",
+      "tituloLimpio": "Google Finance lanza una nueva aplicación para Android",
+      "resumen": "La nueva aplicación de Google Finance sale de su fase beta y se lanza para Android.",
+      "porQueImporta": "Guido, como inversor, puede encontrar útil esta nueva herramienta para seguir sus inversiones y el mercado desde su dispositivo Android.",
       "publicadoEn": "2026-06-25T16:00:00.000Z",
       "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp",
       "globalScore": 98,
@@ -188,16 +204,15 @@
       "fuente": "MacRumors",
       "url": "https://www.macrumors.com/2026/06/27/top-stories-massive-apple-price-increases/",
       "tituloOriginal": "Top Stories: Massive Apple Price Increases, iOS 27 Beta 2, and More",
-      "tituloLimpio": "Apple implementa aumentos masivos de precios en sus productos",
-      "resumen": "La comunidad de Apple se vio afectada esta semana por aumentos masivos de precios en una amplia gama de productos, con muchos productos viendo aumentos del 10 al 20 por ciento y algunos tan altos como el 50 por ciento o más.",
-      "porQueImporta": "Como usuario de Apple, estos aumentos de precios impactan directamente en el costo de adquirir o actualizar equipos, lo que requiere una evaluación de futuras compras.",
+      "tituloLimpio": "Apple aumenta masivamente los precios de sus productos",
+      "resumen": "Apple implementó aumentos de precios significativos en una amplia gama de productos, con subas del 10 al 20 por ciento y algunas de hasta el 50 por ciento o más.",
+      "porQueImporta": "Impacta directamente en el presupuesto de Guido para futuras compras de equipos Apple, que son relevantes para su trabajo en retoque y arte con IA.",
       "publicadoEn": "2026-06-27T13:00:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "apple",
         "precios",
-        "aumentos",
         "hardware"
       ],
       "tambienVistoEn": []
@@ -208,9 +223,9 @@
       "fuente": "Sherwood",
       "url": "https://sherwood.news/markets/blackberry-managed-to-build-a-real-business-out-of-its-memestock-boom/",
       "tituloOriginal": "Blackberry managed to build a real business out of its memestock boom",
-      "tituloLimpio": "Blackberry construyó un negocio real a partir de su auge como 'memestock'",
-      "resumen": "No es la BlackBerry de tu papá.",
-      "porQueImporta": "Es un ejemplo interesante de cómo una empresa puede reinventarse y generar valor más allá de la especulación del mercado, relevante para entender dinámicas de inversión y negocios.",
+      "tituloLimpio": "Blackberry construyó un negocio real a partir de su auge como \"memestock\"",
+      "resumen": "No es la BlackBerry de antes.",
+      "porQueImporta": "Interesante caso de estudio sobre cómo una empresa puede reinventarse y capitalizar la atención del mercado, relevante para entender dinámicas de inversión y negocios.",
       "publicadoEn": "2026-06-26T20:51:31.000Z",
       "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/1757698746_in-this-photo-illustration-a-blackberry-logo-is-displayed-on-a-smartphone-with-stock-market.jpg",
       "globalScore": 96,
@@ -219,7 +234,7 @@
         "blackberry",
         "negocios",
         "memestock",
-        "inversión"
+        "inversiones"
       ],
       "tambienVistoEn": []
     },
@@ -227,20 +242,19 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/como-el-agua-y-el-aceite-el-giro-economico-que-se-espera-colombia-y-lo-que-puede-cambiar-argentina-n6293354",
-      "tituloOriginal": "\"Como el agua y el aceite\": el giro económico que se espera en Colombia y lo que puede cambiar para Argentina",
-      "tituloLimpio": "Giro económico en Colombia y su posible impacto en Argentina",
-      "resumen": "El triunfo del abogado de derecha abre una etapa de ajuste fiscal, menor intervención estatal y una apuesta más fuerte por el petróleo y el gas. Los inversores siguen de cerca la reacción de bonos y acciones, mientras el vínculo bilateral podría ganar fluidez tras la tensión entre Gustavo Petro y Javier Milei.",
-      "porQueImporta": "La situación económica y política de países vecinos puede influir en el clima de inversión regional y en las relaciones bilaterales de Argentina, lo que es relevante para el contexto local.",
-      "publicadoEn": "2026-06-27T01:50:00.000Z",
-      "globalScore": 84,
+      "url": "https://www.ambito.com/economia/el-banco-nacion-sale-al-rescate-deudores-morosos-un-nuevo-credito-uva-quienes-pueden-acceder-n6293483",
+      "tituloOriginal": "El Banco Nación sale al rescate de deudores morosos con un nuevo crédito UVA: quiénes pueden acceder",
+      "tituloLimpio": "El Banco Nación ofrece un nuevo crédito UVA para deudores morosos",
+      "resumen": "La nueva línea de créditos comienza a regir el 29 de junio. El objetivo es otorgar una regularización más fácil.",
+      "porQueImporta": "Noticia relevante para el contexto económico argentino, que podría afectar a conocidos o tener implicaciones en el mercado financiero local.",
+      "publicadoEn": "2026-06-27T17:19:00.000Z",
+      "globalScore": 90,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "colombia",
-        "economía",
-        "inversión",
-        "política"
+        "banco nacion",
+        "credito uva",
+        "deudores"
       ],
       "tambienVistoEn": []
     },
@@ -250,17 +264,16 @@
       "fuente": "Marketing Dive",
       "url": "https://www.marketingdive.com/news/5-cannes-lions-takeaways-as-marketers-wrestle-with-an-industry-in-flux/823850/",
       "tituloOriginal": "5 Cannes Lions takeaways as marketers wrestle with an industry in flux",
-      "tituloLimpio": "Cinco aprendizajes de Cannes Lions para marketers en una industria cambiante",
+      "tituloLimpio": "Cinco puntos clave de Cannes Lions para el marketing en un sector cambiante",
       "resumen": "Marketing Dive consultó a los asistentes sobre sus mayores sorpresas, frustraciones y lo que quieren ver más en el festival.",
-      "porQueImporta": "Como profesional interesado en marketing, los aprendizajes de un evento clave como Cannes Lions ofrecen insights sobre tendencias y desafíos de la industria.",
+      "porQueImporta": "Guido, interesado en marketing, puede encontrar insights sobre las tendencias y desafíos actuales de la industria publicitaria.",
       "publicadoEn": "2026-06-26T12:53:00.000Z",
       "globalScore": 84,
       "personalScore": 100,
       "tags": [
         "marketing",
-        "cannes",
-        "tendencias",
-        "industria"
+        "cannes lions",
+        "tendencias"
       ],
       "tambienVistoEn": []
     },
@@ -268,20 +281,20 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-      "tituloOriginal": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on",
-      "tituloLimpio": "Startups de IA asiáticas lanzan modelos similares a Mythos ante la prohibición de exportación de Anthropic",
-      "resumen": "Se están lanzando nuevos modelos en Asia que prometen capacidades similares a Mythos sin temor a una prohibición de exportación.",
-      "porQueImporta": "La aparición de nuevos modelos de IA en Asia, sin las restricciones de exportación de otros, puede ofrecer nuevas herramientas o enfoques para el arte con IA y el retoque fotográfico.",
-      "publicadoEn": "2026-06-27T12:00:00.000Z",
-      "globalScore": 100,
+      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "tituloOriginal": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "tituloLimpio": "Un ejecutivo de Apple Vision Pro se iría a OpenAI",
+      "resumen": "Paul Meade, vicepresidente de Apple a cargo del headset Vision Pro, dejaría la compañía para unirse al equipo de hardware de OpenAI.",
+      "porQueImporta": "Este movimiento de talento es significativo para el sector de la IA y el hardware, mostrando la competencia por expertos en tecnologías emergentes.",
+      "publicadoEn": "2026-06-27T16:45:09.000Z",
+      "globalScore": 96,
       "personalScore": 100,
       "tags": [
+        "apple",
+        "vision pro",
+        "openai",
         "ia",
-        "startups",
-        "asia",
-        "modelos",
-        "tecnología"
+        "talento"
       ],
       "tambienVistoEn": []
     },
@@ -291,9 +304,9 @@
       "fuente": "The Verge AI",
       "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
       "tituloOriginal": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
-      "tituloLimpio": "Apple justifica aumentos de precios por la 'obsesión por la IA' de las grandes tecnológicas",
-      "resumen": "Tim Cook dijo recientemente que los aumentos de precios eran 'inevitables' y describió la política de precios de la compañía como 'insostenible'.",
-      "porQueImporta": "Esta justificación de Apple sobre los aumentos de precios, vinculándolos a la IA, es relevante para entender la dirección de la industria tecnológica y el impacto en el consumidor.",
+      "tituloLimpio": "Apple sube precios y lo atribuye a la \"obsesión por la IA\" de las grandes tecnológicas",
+      "resumen": "Tim Cook dijo que los aumentos de precios eran \"inevitables\" y describió los precios de la compañía como \"insostenibles\". El MacBook Pro de 16 pulgadas subió 300 dólares. El iPad Air de 11 pulgadas pasó de 599 a 749 dólares. Incluso el HomePod Mini subió 30 dólares a 129 dólares. Cook atribuyó la culpa a la obsesión por la IA.",
+      "porQueImporta": "Confirma la tendencia de aumento de precios en productos Apple y ofrece una justificación desde la empresa, relevante para entender el costo de la innovación en IA.",
       "publicadoEn": "2026-06-27T13:30:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
@@ -301,8 +314,9 @@
         "apple",
         "precios",
         "ia",
-        "tecnología",
-        "costos"
+        "macbook",
+        "ipad",
+        "homepod"
       ],
       "tambienVistoEn": []
     },
@@ -312,16 +326,16 @@
       "fuente": "MIT Technology Review AI",
       "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
       "tituloOriginal": "Repositioning retail for the AI era",
-      "tituloLimpio": "La IA está transformando el retail de formas no evidentes para los consumidores",
-      "resumen": "La inteligencia artificial está remodelando rápidamente el retail, pero no de las maneras que los consumidores podrían notar de inmediato. La mayor transformación podría no ser en probadores virtuales o asistentes de chatbot, sino en cómo se toman las decisiones detrás de escena.",
-      "porQueImporta": "Aunque no es directamente sobre arte con IA, entender cómo la IA impacta industrias como el retail puede ofrecer insights sobre la automatización y la toma de decisiones basada en datos, aplicable a otros campos.",
+      "tituloLimpio": "Reconfiguración del retail para la era de la IA",
+      "resumen": "La inteligencia artificial está transformando rápidamente el sector minorista, no tanto en experiencias llamativas para el consumidor, sino en cómo se toman las decisiones internas: cómo los productos aparecen en los resultados de búsqueda, cómo se mueve el inventario a través de las cadenas de suministro y cómo los ingenieros envían código.",
+      "porQueImporta": "Muestra cómo la IA está impactando en un sector clave, con aplicaciones prácticas en la optimización de procesos que Guido podría aplicar o considerar en su trabajo.",
       "publicadoEn": "2026-06-25T14:22:59.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "ia",
         "retail",
-        "automatización",
+        "automatizacion",
         "negocios"
       ],
       "tambienVistoEn": []
@@ -330,41 +344,60 @@
       "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Apple",
       "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/27/psa-apples-price-increases-arent-yet-in-effect-on-amazon-act-quick/",
-      "tituloOriginal": "PSA: Amazon is starting to raise prices on Apple gear; here’s your last call to save",
-      "tituloLimpio": "Amazon comienza a subir los precios de productos Apple; última oportunidad para ahorrar",
-      "resumen": "Apple implementó importantes aumentos de precios para muchos modelos de Mac y iPad esta semana. Algunos de estos aumentos de precios aún no se reflejan en Amazon, y algunos todavía tienen descuentos por Prime Day.",
-      "porQueImporta": "Como usuario de Apple, esta noticia es crucial para aprovechar posibles descuentos antes de que los precios se ajusten completamente, permitiendo ahorrar en futuras compras.",
-      "publicadoEn": "2026-06-27T13:17:48.000Z",
+      "url": "https://9to5mac.com/2026/06/27/these-five-ipad-models-wont-run-ipados-27-but-deserve-better/",
+      "tituloOriginal": "iPadOS 27: Apple is leaving these five iPad models behind, but owners deserve better",
+      "tituloLimpio": "Cinco modelos de iPad no serán compatibles con iPadOS 27",
+      "resumen": "Apple dejará atrás a cinco modelos de iPad con la llegada de iPadOS 27.",
+      "porQueImporta": "Información crucial para Guido si posee alguno de estos modelos de iPad, ya que afectará la recepción de futuras actualizaciones y funcionalidades.",
+      "publicadoEn": "2026-06-27T16:21:52.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "apple",
-        "amazon",
-        "precios",
-        "descuentos",
-        "compras"
+        "ipad",
+        "ipados",
+        "actualizaciones"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/06/27/psa-lifetime-plex-plan-goes-from-24999-to-a-painful-74999-on-july-1?utm_source=rss",
+      "tituloOriginal": "PSA: Lifetime Plex Plan goes from $249.99 to a painful $749.99 on July 1",
+      "tituloLimpio": "El plan vitalicio de Plex sube de precio drásticamente el 1 de julio",
+      "resumen": "Si alguna vez quisiste comprar el pase vitalicio de Plex para seguir transmitiendo tu colección de películas a tu iPhone, cómpralo ahora antes de que el precio suba a 749.99 dólares el 1 de julio.",
+      "porQueImporta": "Alerta importante para Guido si es usuario de Plex o considera serlo, ya que el aumento de precio es significativo.",
+      "publicadoEn": "2026-06-27T16:05:41.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "plex",
+        "servicios",
+        "precios",
+        "streaming"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
       "categoria": "Finance",
       "fuente": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/cathie-wood-backed-crypto-stock-132913331.html",
-      "tituloOriginal": "Cathie Wood-backed crypto stock drops over 90%",
-      "tituloLimpio": "Acción cripto respaldada por Cathie Wood cae más del 90%",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-tipping-point-eli-lilly-tesla/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Dow Jones Futures: Market At Tipping Point. Eli Lilly Soars, Tesla, Jobs On Tap.",
+      "tituloLimpio": "Dow Jones Futures: El mercado en un punto de inflexión. Eli Lilly sube, Tesla y empleos en foco.",
       "resumen": "",
-      "porQueImporta": "Esta noticia es un recordatorio de la volatilidad en el mercado de criptomonedas y la importancia de la diversificación y la gestión de riesgos en las inversiones.",
-      "publicadoEn": "2026-06-27T13:29:13.000Z",
-      "imagen": "https://media.zenfs.com/en/thestreet_881/a2081ae1da7480c8a430bc915442aedd",
+      "porQueImporta": "Noticia relevante para el seguimiento de los mercados financieros y las inversiones en ETFs, indicando un momento clave para el Dow Jones.",
+      "publicadoEn": "2026-06-27T15:52:10.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/1ce802cf395fdace943c9de2dc2ce842",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "cripto",
-        "inversión",
+        "finanzas",
         "mercado",
-        "volatilidad"
+        "dow jones",
+        "inversiones"
       ],
       "tambienVistoEn": []
     },
@@ -372,21 +405,20 @@
       "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
       "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/06/27/binance-founder-cz-blames-crypto-s-sour-2026-on-mix-of-ai-global-tension-4-year-cycle",
-      "tituloOriginal": "Binance founder CZ blames crypto's sour 2026 on mix of AI, global tension, 4-year cycle",
-      "tituloLimpio": "El fundador de Binance culpa a la IA, tensiones globales y ciclo de 4 años por la baja de cripto en 2026",
-      "resumen": "No hay una única causa para la caída del 50% del mercado cripto en el último año, dijo el fundador de Binance a CoinDesk.",
-      "porQueImporta": "Ofrece una perspectiva de un actor clave en el mercado cripto sobre los factores que influyen en su desempeño, incluyendo la IA, lo cual es relevante para tus intereses en inversión y tecnología.",
-      "publicadoEn": "2026-06-27T13:00:00.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/13d506a56413c294d1d360bb5de6d8ad88d1ba5a-4054x2280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "url": "https://www.coindesk.com/opinion/2026/06/27/what-robinhood-s-recent-layoffs-say-about-the-current-state-of-crypto-investments",
+      "tituloOriginal": "What Robinhood’s recent layoffs say about the current state of crypto investments",
+      "tituloLimpio": "Los despidos recientes de Robinhood y el estado actual de las inversiones en cripto",
+      "resumen": "A pesar de la reestructuración de la plataforma de trading y la ola de recortes en empresas de cripto, que señalan un mercado bajista tardío, Horst, Anderson y Zhuleku de Altcoin Pro explican que no hay razón para entrar en pánico.",
+      "porQueImporta": "Ofrece una perspectiva sobre el mercado de criptomonedas, relevante para Guido si tiene interés en este tipo de inversiones.",
+      "publicadoEn": "2026-06-27T16:30:00.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/f49d4c68e25542b032d598eca35cddf2b90b900e-3840x2160.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
       "globalScore": 96,
       "personalScore": 100,
       "tags": [
-        "cripto",
-        "binance",
-        "ia",
-        "mercado",
-        "inversión"
+        "criptomonedas",
+        "inversiones",
+        "robinhood",
+        "mercado"
       ],
       "tambienVistoEn": []
     },
@@ -394,20 +426,21 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/ethereum-hoy-cotizacion-y-precio-del-eth-este-sabado-27-de-junio-de-2026_0_6fVVBtBZg6.html",
-      "tituloOriginal": "Ethereum hoy: cotización y precio del ETH este sábado 27 de junio de 2026",
-      "tituloLimpio": "Cotización de Ethereum hoy, sábado 27 de junio de 2026",
-      "resumen": "El valor actualizado de la segunda criptomoneda más importante por capitalización.",
-      "porQueImporta": "Como inversor, es útil tener información actualizada sobre la cotización de criptomonedas importantes como Ethereum para monitorear el mercado.",
-      "publicadoEn": "2026-06-27T10:30:02.000Z",
-      "imagen": "https://www.clarin.com/img/2018/01/19/H1216uJrM_1200x630.jpg",
-      "globalScore": 94,
+      "url": "https://www.clarin.com/economia/pasaporte-dorado-financial-times-cree-milei-lanzaria-ano-canjear-ciudadania-inversion-sumar-dolares-cancelar-deuda_0_XD5rH3VjD6.html",
+      "tituloOriginal": "\"Pasaporte dorado\": el Financial Times cree que Milei lo lanzaría este año para canjear ciudadanía por inversión, sumar dólares y cancelar deuda",
+      "tituloLimpio": "El Financial Times cree que Milei lanzaría un \"pasaporte dorado\" este año",
+      "resumen": "El reconocido medio británico sostiene en un artículo publicado este sábado que esta iniciativa será una de las herramientas del Gobierno para hacer frente a los \"problemas de liquidez\". Se ofrecería la nacionalidad argentina a los ricos del mundo a cambio de una donación de 500.000 dólares o la compra de un bono soberano por 1 millón de dólares.",
+      "porQueImporta": "Noticia de alto impacto para Argentina, con posibles implicaciones económicas y de inversión que podrían afectar el entorno de negocios local.",
+      "publicadoEn": "2026-06-27T16:10:47.000Z",
+      "imagen": "https://www.clarin.com/img/2026/06/27/mTLukjAHq_1200x630__1.jpg",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "ethereum",
-        "cripto",
-        "cotización",
-        "inversión"
+        "argentina",
+        "milei",
+        "inversion",
+        "economia",
+        "pasaporte dorado"
       ],
       "tambienVistoEn": []
     },
@@ -415,21 +448,21 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/06/27/pasaporte-dorado-segun-financial-times-milei-lo-lanzara-este-ano-para-captar-divisas-atraer-millonarios-y-cancelar-deuda/",
-      "tituloOriginal": "“Pasaporte dorado”: según Financial Times, Milei lo lanzaría este año para captar divisas, atraer millonarios y cancelar deuda",
-      "tituloLimpio": "Argentina lanzaría un 'pasaporte dorado' para captar divisas y atraer millonarios",
-      "resumen": "El documento se otorgaría a cambio de USD 500.000 o la compra de un bono por USD 1 millón. No habría requisito de residencia.",
-      "porQueImporta": "Esta iniciativa tiene un impacto directo en la economía argentina y podría generar oportunidades de inversión o cambios en el flujo de capitales, relevante para tus intereses financieros y el contexto local.",
-      "publicadoEn": "2026-06-27T13:38:14.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/2R3PMWGX2RG5DCACHNF7WE4MA4.jpg?auth=edcc63136fc5a266ad320adbb7fe0e507ba90613fc0ba4dbfef1f6ce738436d7&smart=true&width=1920&height=1628",
+      "url": "https://www.infobae.com/economia/2026/06/27/los-precios-de-las-materias-primas-tras-la-guerra-bajas-en-energia-y-metales-e-impacto-sobre-la-economia/",
+      "tituloOriginal": "Los precios de las materias primas tras la guerra: bajas en energía y metales e impacto sobre la economía",
+      "tituloLimpio": "Precios de materias primas tras la guerra: bajas en energía y metales, impacto en la economía",
+      "resumen": "Con el petróleo como primer termómetro, el índice del Banco Central cayó 5%, se trasladó al resto de los productos básicos. Qué canales se activan: costos, inflación, comercio exterior y subsidios.",
+      "porQueImporta": "Análisis relevante sobre el impacto global de los precios de las materias primas en la economía, que puede influir en las decisiones de inversión y el contexto económico general de Argentina.",
+      "publicadoEn": "2026-06-27T17:56:26.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/SMEODKLAHBCHXLXVPAG6WNNDSU.jpg?auth=2abb3b2fdc5404e8e52e16ad37076d1f81450ac49320685e9bc496bab5cf996e&smart=true&width=5794&height=3863",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "economía",
-        "inversión",
-        "divisas",
-        "millonarios"
+        "economia",
+        "materias primas",
+        "energia",
+        "metales",
+        "inflacion"
       ],
       "tambienVistoEn": []
     },
@@ -437,27 +470,26 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/las-tasas-de-financiamiento-pyme-bajan-pero-las-empresas-priorizan-la-supervivencia-sobre-el-nid27062026/",
-      "tituloOriginal": "Las tasas de financiamiento Pyme bajan, pero las empresas priorizan la supervivencia sobre el crecimiento",
-      "tituloLimpio": "Bajan las tasas de financiamiento Pyme, pero las empresas priorizan la supervivencia",
-      "resumen": "Aunque el nuevo Índice de Financiamiento de Pymes registró un abaratamiento del costo del crédito en mayo, los datos sectoriales muestran que los fondos se destinan a cubrir el día a día operativo.",
-      "porQueImporta": "Refleja la situación económica de las Pymes en Argentina, un indicador de la salud económica general y las prioridades de inversión en el sector productivo local.",
-      "publicadoEn": "2026-06-27T12:50:47.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/XW322KBAFRDEXHQ3UG3I4XXN3M.jpg?auth=93f0a7906a290cc111d41a59562a6789ff69b459cb2ad010686cedf920dae1e4&smart=true&width=2048&height=1361",
+      "url": "https://www.lanacion.com.ar/economia/campo/oro-verde-ya-se-exportaron-mas-de-600000-kilos-de-un-producto-muy-codiciado-nid27062026/",
+      "tituloOriginal": "“Oro verde”: ya se exportaron más de 600.000 kilos de un condimento muy codiciado",
+      "tituloLimpio": "“Oro verde”: se exportaron más de 600.000 kilos de un condimento muy codiciado",
+      "resumen": "El orégano de San Carlos, Mendoza, es el único en el mundo en contar con Indicación Geográfica (IG); hay un repunte de los precios y mejores perspectivas en la actividad.",
+      "porQueImporta": "Un ejemplo de éxito de un producto argentino con valor agregado y reconocimiento internacional, que muestra oportunidades en nichos de mercado y exportación.",
+      "publicadoEn": "2026-06-27T17:33:05.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/TZFJLW35CZCYDF5FLWL5NODRAM.jpg?auth=e38f8805077d6ad214fce332dc28c983a9db45724a55f624f87bac2126180fd2&smart=true&width=591&height=443",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "pymes",
-        "economía",
-        "financiamiento",
-        "negocios"
+        "exportacion",
+        "negocios",
+        "economia"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-06-27T13:49:21.119Z"
+    "generadoEn": "2026-06-27T18:03:33.367Z"
   }
 }
