@@ -1,176 +1,164 @@
 {
   "fecha": "2026-06-28",
-  "generadoEn": "2026-06-28T13:53:21.955Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "Esta semana se destacan las novedades de Google Finance con una nueva app, los aumentos masivos de precios en productos Apple y la situación económica en Argentina con la morosidad en préstamos y la salida de Manuel Adorni. En IA, se debate el futuro de los centros de datos orbitales de Musk y la aplicación de la IA en el retail. El mercado de criptomonedas también muestra interés en financiar IA y robótica.",
+  "generadoEn": "2026-06-28T18:05:42.063Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "En el ámbito de la IA, Google presentó una investigación sobre su IA médica AMIE, y Wall Street ve a Micron como el próximo Nvidia. En Apple, se esperan descuentos post-Prime Day y un Mac Studio M7 Ultra para 2028. En Argentina, se definieron los salarios de Comercio para julio y se debate la salida de Adorni de YPF. El marketing analiza las tendencias de Cannes Lions y la estrategia de audiencia para consumidores impredecibles. También se discute la historia del mercado de crédito chileno como modelo para Argentina y la volatilidad del Bitcoin.",
   "radarPersonal": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "titulo": "Google Finance lanza una nueva app y sale de beta",
-      "resumen": "La nueva versión de Google Finance está disponible y se lanza una nueva aplicación para Android.",
+      "titulo": "Investigación de Google muestra cómo su IA médica AMIE podría ayudar a manejar condiciones de salud",
+      "resumen": "Una investigación publicada en “Nature” indica que el sistema de IA conversacional de Google iguala a médicos de atención primaria en el manejo de enfermedades complejas.",
       "categoria": "AI",
       "fuentes": [
         "Google AI Blog"
       ],
       "urls": [
-        "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/"
+        "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/"
       ],
       "score": 100,
       "tags": [
-        "google",
-        "finance",
-        "app",
-        "android"
+        "IA",
+        "salud",
+        "investigación"
       ]
     },
     {
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "Apple aplica aumentos masivos de precios en sus productos",
-      "resumen": "La comunidad de Apple se vio afectada por aumentos de precios en una amplia gama de productos, con subas del 10 al 20 por ciento y algunas de hasta el 50 por ciento o más.",
+      "titulo": "Todavía se pueden conseguir descuentos récord en productos Apple este fin de semana",
+      "resumen": "Aunque el Prime Day terminó, los mejores precios del evento se mantienen en algunos dispositivos y accesorios de Apple este fin de semana. Hay ofertas en AirPods, AirTag, Apple Watch y MacBook Pro en Amazon.",
       "categoria": "Apple",
       "fuentes": [
         "MacRumors"
       ],
       "urls": [
-        "https://www.macrumors.com/2026/06/27/top-stories-massive-apple-price-increases/"
+        "https://www.macrumors.com/2026/06/28/missed-prime-day-discounts-weekend/"
       ],
       "score": 100,
       "tags": [
-        "apple",
-        "precios",
-        "aumentos"
+        "Apple",
+        "descuentos",
+        "ofertas"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "Wall Street considera a Micron como el próximo Nvidia",
+      "resumen": "Los inversores de Wall Street buscan más empresas públicas relacionadas con la IA que puedan tener el mismo éxito que Nvidia, y creen haber encontrado un ganador en Micron.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/"
+      ],
+      "score": 100,
+      "tags": [
+        "IA",
+        "inversión",
+        "mercado"
+      ]
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "titulo": "Apple estaría trabajando en un Mac Studio M7 Ultra para 2028 con una posible mejora importante",
+      "resumen": "Según un informe, Apple lanzará una versión actualizada del Mac Studio con chips M5 Max y M5 Ultra a finales de este año, y un Mac Studio M7 Ultra en 2028.",
+      "categoria": "Apple",
+      "fuentes": [
+        "9to5Mac"
+      ],
+      "urls": [
+        "https://9to5mac.com/2026/06/28/m7-ultra-mac-studio-coming-in-2028-after-m5-ultra-model-later-this-year/"
+      ],
+      "score": 100,
+      "tags": [
+        "Apple",
+        "Mac Studio",
+        "hardware"
       ]
     },
     {
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "Plazo fijo en 2026: ¿Cuánto generan $1.000.000 a 30 días?",
-      "resumen": "Las tasas siguen bajas y obligan a los inversores a inmovilizar cada vez más capital para alcanzar ganancias relevantes al finalizar el plazo.",
+      "titulo": "Salarios de Comercio: cuánto cobrarán en julio con el nuevo aumento y cómo quedaron las escalas",
+      "resumen": "La medida surge de la formalización definitiva de los importes adicionales que se liquidaban fuera del sueldo bruto regular.",
       "categoria": "Argentina",
       "fuentes": [
         "Ambito"
       ],
       "urls": [
-        "https://www.ambito.com/economia/plazo-fijo-2026-cuanto-generan-1000000-30-dias-n6292886"
+        "https://www.ambito.com/economia/salarios-comercio-cuanto-cobraran-julio-el-nuevo-aumento-y-como-quedaron-las-escalas-la-paritaria-n6293693"
       ],
       "score": 100,
       "tags": [
-        "plazo fijo",
-        "inversión",
-        "tasas",
-        "argentina"
-      ]
-    },
-    {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "titulo": "La IA está transformando el retail de formas no evidentes para los consumidores",
-      "resumen": "La inteligencia artificial está reconfigurando rápidamente el comercio minorista, pero no de las maneras que los consumidores podrían notar de inmediato.",
-      "categoria": "AI",
-      "fuentes": [
-        "MIT Technology Review AI"
-      ],
-      "urls": [
-        "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/"
-      ],
-      "score": 100,
-      "tags": [
-        "ia",
-        "retail",
-        "transformación"
-      ]
-    },
-    {
-      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
-      "titulo": "El próximo paso de las criptomonedas es financiar IA y robótica",
-      "resumen": "Blockchain se está convirtiendo en la capa financiera para industrias intensivas en capital en lugar de solo especulación cripto-nativa.",
-      "categoria": "Finance",
-      "fuentes": [
-        "CoinDesk"
-      ],
-      "urls": [
-        "https://www.coindesk.com/business/2026/06/28/crypto-s-next-frontier-isn-t-crypto-it-s-financing-ai-and-robotics-framework-s-anderson-says"
-      ],
-      "score": 100,
-      "tags": [
-        "criptomonedas",
-        "ia",
-        "robótica",
-        "blockchain",
-        "finanzas"
+        "Argentina",
+        "salarios",
+        "economía"
       ]
     }
   ],
   "loImportante": [
-    "Google Finance lanza una nueva app para Android, mejorando la experiencia de usuario.",
-    "Apple implementa aumentos significativos en los precios de sus productos, afectando a los consumidores.",
-    "La morosidad en préstamos familiares en Argentina sigue en alza, a pesar de las expectativas de bancos y gobierno.",
-    "La inteligencia artificial está redefiniendo el sector minorista, especialmente en la toma de decisiones internas.",
-    "El sector cripto ve una oportunidad en financiar proyectos de IA y robótica, más allá de la especulación."
+    "La IA médica de Google, AMIE, demuestra ser tan efectiva como médicos primarios en el manejo de enfermedades complejas, lo que podría transformar la atención sanitaria.",
+    "Wall Street está buscando activamente la 'próxima Nvidia' en el sector de la IA, identificando a Micron como un posible candidato, lo que sugiere un interés creciente en empresas de hardware de IA.",
+    "Apple planea una actualización significativa para el Mac Studio con chips M5 Ultra este año y un M7 Ultra en 2028, indicando una inversión continua en rendimiento para profesionales.",
+    "En Argentina, se definieron los nuevos salarios de Comercio para julio, un dato clave para la economía local y el poder adquisitivo.",
+    "El uso de registros de ChatGPT como evidencia en un juicio por incendio forestal marca un precedente sobre la implicación de la IA en procesos legales y la privacidad de los datos."
   ],
   "oportunidades": [
     {
-      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "categoria": "Tools & Automation",
-      "titulo": "Nueva app de Google Finance para Android",
-      "detalle": "La salida de beta y el lanzamiento de una nueva app de Google Finance para Android podría ofrecer herramientas mejoradas para el seguimiento de inversiones y análisis de mercado.",
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "Investing",
+      "titulo": "Identificación de la 'próxima Nvidia' en el sector de la IA",
+      "detalle": "Wall Street está buscando activamente empresas de hardware relacionadas con la IA que puedan replicar el éxito de Nvidia, con Micron siendo un candidato destacado. Esto sugiere un potencial de crecimiento en el sector de la memoria y componentes de IA.",
       "acciones": [
-        "Explorar la nueva app de Google Finance para Android.",
-        "Evaluar las nuevas funcionalidades para el seguimiento de ETFs y mercados."
+        "Investigar empresas de hardware de IA más allá de los líderes obvios.",
+        "Analizar el rendimiento y las proyecciones de Micron y sus competidores."
       ]
     },
     {
       "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
       "categoria": "AI",
-      "titulo": "IA en el retail: oportunidades en la optimización de procesos",
-      "detalle": "La IA está transformando el retail en la toma de decisiones internas, cómo los productos aparecen en búsquedas y la gestión de la cadena de suministro, lo que puede inspirar nuevas aplicaciones de IA en otros sectores.",
+      "titulo": "Repensar el retail para la era de la IA",
+      "detalle": "La inteligencia artificial está transformando el retail en aspectos menos visibles, como la gestión de inventario, la optimización de la cadena de suministro y la presentación de productos en búsquedas. Esto abre oportunidades para la automatización y la eficiencia en el comercio.",
       "acciones": [
-        "Investigar cómo se aplica la IA en la optimización de la cadena de suministro y resultados de búsqueda.",
-        "Considerar la aplicación de estas tendencias de IA en proyectos de retoque fotográfico o arte con IA para optimizar flujos de trabajo."
+        "Explorar herramientas de IA para optimizar procesos internos en negocios de retail o e-commerce.",
+        "Considerar la aplicación de IA en la gestión de inventario y la logística."
       ]
     },
     {
-      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Investing",
-      "titulo": "Criptomonedas como fuente de financiación para IA y robótica",
-      "detalle": "Blockchain se posiciona como una capa financiera para industrias intensivas en capital como la IA y la robótica, abriendo nuevas vías de inversión y desarrollo.",
+      "titulo": "Lecciones del mercado de crédito chileno para Argentina",
+      "detalle": "Chile desarrolló un mercado de crédito robusto, equivalente a más del 100% de su PBI, con amplio acceso a préstamos para hogares y empresas. Argentina podría imitar algunas de estas estrategias para fortalecer su propio sistema financiero.",
       "acciones": [
-        "Analizar proyectos de IA y robótica que buscan financiación a través de blockchain.",
-        "Evaluar el potencial de inversión en este nuevo cruce entre cripto y tecnología avanzada."
+        "Analizar las políticas y regulaciones que permitieron el desarrollo del mercado de crédito chileno.",
+        "Evaluar cómo estas estrategias podrían aplicarse en el contexto argentino para fomentar la inversión y el crecimiento."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
       "categoria": "Market",
-      "titulo": "Aumentos masivos de precios en productos Apple",
-      "detalle": "Apple implementó aumentos de precios significativos en muchos de sus productos, lo que podría impactar el presupuesto para nuevas adquisiciones de hardware o actualizaciones.",
-      "mitigacion": "Monitorear los precios en minoristas y considerar compras antes de que los aumentos se generalicen, si es posible. Evaluar alternativas o esperar a posibles ofertas."
+      "titulo": "Potencial caída del mercado de valores en 2026",
+      "detalle": "La historia del mercado de valores podría revelar un potencial de caída en 2026. Aunque no se proporcionan detalles específicos, la mención de un posible 'crash' sugiere volatilidad.",
+      "mitigacion": "Revisar la diversificación de la cartera de inversiones y considerar estrategias de protección ante posibles caídas del mercado."
     },
     {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Market",
-      "titulo": "Bajas tasas de plazo fijo en Argentina",
-      "detalle": "Las tasas de los plazos fijos en Argentina siguen bajas, lo que requiere inmovilizar más capital para obtener ganancias relevantes, afectando la rentabilidad de inversiones conservadoras.",
-      "mitigacion": "Explorar otras opciones de inversión en Argentina que ofrezcan mayor rentabilidad, como ETFs o fondos comunes de inversión, si se ajustan al perfil de riesgo."
-    },
-    {
-      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
-      "categoria": "Market",
-      "titulo": "Aumento de la morosidad en préstamos familiares en Argentina",
-      "detalle": "La morosidad en los préstamos para familias sigue en alza en Argentina, lo que indica una posible debilidad económica y un riesgo para el sistema financiero local.",
-      "mitigacion": "Mantener una gestión financiera prudente y evitar endeudamientos innecesarios. Estar atento a las políticas económicas y bancarias que puedan surgir para frenar esta tendencia."
+      "titulo": "Incertidumbre sobre el 'piso' del Bitcoin",
+      "detalle": "Aunque un defensor del Bitcoin afirma que el 'piso' ya se alcanzó, analistas permanecen divididos y esperan una posible caída adicional. Esto indica una alta volatilidad y riesgo en el mercado de criptomonedas.",
+      "mitigacion": "Mantenerse informado sobre el análisis técnico y fundamental del Bitcoin. Considerar la volatilidad inherente a las criptomonedas al tomar decisiones de inversión."
     }
   ],
   "conexiones": [
     {
-      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
-      "titulo": "Salida de Manuel Adorni y su impacto político",
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "El uso de registros de ChatGPT como evidencia legal",
       "historias": [
-        "Javier Milei y sus medidas, EN VIVO: siguen las repercusiones por la salida de Manuel Adorni y suena Diego Santilli como su sucesor",
-        "Cristian Ritondo celebró la salida de Adorni: “Era una debilidad que tenía el Gobierno y el Parlamento estaba casi frenado”",
-        "El sacrificio de Milei para poner a salvo el plan de reelección"
+        "Fiscales usaron registros de ChatGPT como evidencia en el juicio por el incendio de Palisades.",
+        "La IA de Google, AMIE, iguala a médicos en manejo de enfermedades."
       ],
-      "conclusion": "La salida de Manuel Adorni del gabinete de Javier Milei generó un fuerte impacto político en Argentina, con repercusiones sobre la estabilidad del gobierno y el funcionamiento del parlamento. Se interpreta como un movimiento estratégico de Milei para proteger su plan de reelección."
+      "conclusion": "El uso de la IA se expande a campos críticos como la medicina y la justicia. Mientras AMIE busca mejorar la salud, el caso de ChatGPT en un juicio subraya la creciente importancia de la IA en la vida cotidiana y las implicaciones legales de los datos generados por estas tecnologías."
     }
   ],
   "noticias": [
@@ -178,22 +166,19 @@
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
       "categoria": "AI",
       "fuente": "Google AI Blog",
-      "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
-      "tituloOriginal": "Our latest Google Finance upgrades, including a new app",
-      "tituloLimpio": "Google Finance lanza una nueva app y sale de beta",
-      "resumen": "La nueva versión de Google Finance está disponible y se lanza una nueva aplicación para Android.",
-      "porQueImporta": "Guido, como inversor, puede beneficiarse de una herramienta mejorada para el seguimiento de mercados y ETFs. La nueva app podría ofrecer funcionalidades más eficientes para su análisis financiero.",
-      "publicadoEn": "2026-06-25T16:00:00.000Z",
-      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp",
-      "globalScore": 98,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+      "tituloOriginal": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "tituloLimpio": "Investigación de Google muestra cómo su IA médica AMIE podría ayudar a manejar condiciones de salud",
+      "resumen": "Una investigación publicada en “Nature” indica que el sistema de IA conversacional de Google iguala a médicos de atención primaria en el manejo de enfermedades complejas.",
+      "porQueImporta": "La IA médica de Google, AMIE, demuestra ser tan efectiva como médicos primarios en el manejo de enfermedades complejas, lo que podría transformar la atención sanitaria y la forma en que se diagnostican y tratan las enfermedades.",
+      "publicadoEn": "2026-06-17T15:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp",
+      "globalScore": 92,
       "personalScore": 100,
       "tags": [
-        "google",
-        "finance",
-        "app",
-        "android",
-        "inversión",
-        "herramientas"
+        "IA",
+        "salud",
+        "investigación"
       ],
       "tambienVistoEn": []
     },
@@ -201,19 +186,38 @@
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Apple",
       "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/27/top-stories-massive-apple-price-increases/",
-      "tituloOriginal": "Top Stories: Massive Apple Price Increases, iOS 27 Beta 2, and More",
-      "tituloLimpio": "Apple aplica aumentos masivos de precios en sus productos",
-      "resumen": "La comunidad de Apple se vio afectada por aumentos de precios en una amplia gama de productos, con subas del 10 al 20 por ciento y algunas de hasta el 50 por ciento o más.",
-      "porQueImporta": "Guido, usuario de Apple, debe estar al tanto de estos aumentos que impactan directamente en el costo de adquirir nuevos equipos o actualizar los existentes, afectando su presupuesto de herramientas de trabajo.",
-      "publicadoEn": "2026-06-27T13:00:00.000Z",
-      "globalScore": 92,
+      "url": "https://www.macrumors.com/2026/06/28/missed-prime-day-discounts-weekend/",
+      "tituloOriginal": "Missed Prime Day? You Can Still Grab Record Low Apple Discounts This Weekend",
+      "tituloLimpio": "Todavía se pueden conseguir descuentos récord en productos Apple este fin de semana",
+      "resumen": "Aunque el Prime Day terminó, los mejores precios del evento se mantienen en algunos dispositivos y accesorios de Apple este fin de semana. Hay ofertas en AirPods, AirTag, Apple Watch y MacBook Pro en Amazon.",
+      "porQueImporta": "Es una oportunidad para adquirir productos Apple con descuentos significativos, lo que es relevante para Guido, que sigue de cerca las novedades y ofertas de la marca.",
+      "publicadoEn": "2026-06-28T16:25:56.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "apple",
-        "precios",
-        "aumentos",
-        "hardware"
+        "Apple",
+        "descuentos",
+        "ofertas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "categoria": "Finance",
+      "fuente": "Sherwood",
+      "url": "https://sherwood.news/markets/blackberry-managed-to-build-a-real-business-out-of-its-memestock-boom/",
+      "tituloOriginal": "Blackberry managed to build a real business out of its memestock boom",
+      "tituloLimpio": "Blackberry logró construir un negocio real a partir de su auge como 'memestock'",
+      "resumen": "No es la BlackBerry de antes.",
+      "porQueImporta": "Muestra cómo una empresa puede reinventarse y capitalizar la atención del mercado para construir un negocio sostenible, un caso interesante para entender la dinámica de las inversiones y el marketing.",
+      "publicadoEn": "2026-06-26T20:51:31.000Z",
+      "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/1757698746_in-this-photo-illustration-a-blackberry-logo-is-displayed-on-a-smartphone-with-stock-market.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "negocios",
+        "inversión",
+        "mercado"
       ],
       "tambienVistoEn": []
     },
@@ -221,19 +225,18 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/plazo-fijo-2026-cuanto-generan-1000000-30-dias-n6292886",
-      "tituloOriginal": "Plazo fijo en 2026: ¿Cuánto generan $1.000.000 a 30 días?",
-      "tituloLimpio": "Plazo fijo en 2026: ¿Cuánto generan $1.000.000 a 30 días?",
-      "resumen": "Las tasas siguen bajas y obligan a los inversores a inmovilizar cada vez más capital para alcanzar ganancias relevantes al finalizar el plazo.",
-      "porQueImporta": "Guido, como inversor en Argentina, necesita conocer el rendimiento de las opciones de inversión locales. Las bajas tasas de los plazos fijos son un factor clave para decidir dónde colocar su capital.",
-      "publicadoEn": "2026-06-27T14:00:00.000Z",
-      "globalScore": 88,
+      "url": "https://www.ambito.com/economia/salarios-comercio-cuanto-cobraran-julio-el-nuevo-aumento-y-como-quedaron-las-escalas-la-paritaria-n6293693",
+      "tituloOriginal": "Salarios de Comercio: cuánto cobrarán en julio con el nuevo aumento y cómo quedaron las escalas tras la paritaria",
+      "tituloLimpio": "Salarios de Comercio: cuánto cobrarán en julio con el nuevo aumento y cómo quedaron las escalas",
+      "resumen": "La medida surge de la formalización definitiva de los importes adicionales que se liquidaban fuera del sueldo bruto regular.",
+      "porQueImporta": "Es una noticia de interés directo para Guido, ya que afecta a un sector importante de la economía argentina y puede influir en el poder adquisitivo y las decisiones financieras personales.",
+      "publicadoEn": "2026-06-28T17:42:00.000Z",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "plazo fijo",
-        "inversión",
-        "argentina",
-        "finanzas"
+        "Argentina",
+        "salarios",
+        "economía"
       ],
       "tambienVistoEn": []
     },
@@ -243,15 +246,14 @@
       "fuente": "Marketing Dive",
       "url": "https://www.marketingdive.com/news/5-cannes-lions-takeaways-as-marketers-wrestle-with-an-industry-in-flux/823850/",
       "tituloOriginal": "5 Cannes Lions takeaways as marketers wrestle with an industry in flux",
-      "tituloLimpio": "Cinco aprendizajes de Cannes Lions mientras los marketers enfrentan una industria en cambio",
+      "tituloLimpio": "Cinco conclusiones de Cannes Lions mientras los especialistas en marketing lidian con una industria en cambio",
       "resumen": "Marketing Dive consultó a los asistentes sobre sus mayores sorpresas, frustraciones y lo que quieren ver más en el festival.",
-      "porQueImporta": "Guido, interesado en marketing, puede encontrar insights sobre las tendencias y desafíos actuales de la industria publicitaria global, lo que puede influir en sus estrategias o en cómo percibe el mercado.",
+      "porQueImporta": "Ofrece insights sobre las tendencias y desafíos actuales en la industria del marketing, lo que es relevante para Guido por su interés en el marketing y la IA aplicada al arte.",
       "publicadoEn": "2026-06-26T12:53:00.000Z",
       "globalScore": 84,
       "personalScore": 100,
       "tags": [
         "marketing",
-        "cannes lions",
         "tendencias",
         "industria"
       ],
@@ -261,19 +263,18 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
-      "tituloOriginal": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
-      "tituloLimpio": "El CEO de SoftBank no es el único con dudas sobre los centros de datos orbitales de Elon Musk",
-      "resumen": "No todos están de acuerdo con la visión de Elon Musk sobre los centros de datos orbitales.",
-      "porQueImporta": "Guido, interesado en IA aplicada, puede seguir el debate sobre las grandes innovaciones y sus desafíos. La viabilidad de proyectos ambiciosos como los centros de datos orbitales de Musk es un tema relevante en el futuro de la infraestructura tecnológica.",
-      "publicadoEn": "2026-06-27T20:42:36.000Z",
-      "globalScore": 90,
+      "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+      "tituloOriginal": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+      "tituloLimpio": "Por qué Wall Street cree que el fabricante de memoria estadounidense Micron es el próximo Nvidia",
+      "resumen": "Ansiosos por encontrar más empresas públicas relacionadas con la IA que puedan tener el mismo éxito que Nvidia, los inversores de Wall Street creen haber encontrado un ganador en Micron.",
+      "porQueImporta": "Indica una tendencia de inversión en el sector de la IA y el hardware, lo que es relevante para Guido por su interés en la IA y las inversiones.",
+      "publicadoEn": "2026-06-28T15:00:00.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "elon musk",
-        "ia",
-        "tecnología",
-        "innovación"
+        "IA",
+        "inversión",
+        "mercado"
       ],
       "tambienVistoEn": []
     },
@@ -281,19 +282,18 @@
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
       "fuente": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
-      "tituloOriginal": "Margaret Atwood says the problem with AI is ‘garbage in, garbage out’",
-      "tituloLimpio": "Margaret Atwood dice que el problema con la IA es 'basura entra, basura sale'",
-      "resumen": "Maraget Atwood, la reconocida autora, fue entrevistada y no dudó en expresar su opinión sobre la IA.",
-      "porQueImporta": "Guido, que trabaja con arte e IA, puede encontrar interesante la perspectiva de una figura literaria sobre la calidad de los resultados de la IA, lo que resalta la importancia de la calidad de los datos de entrada en cualquier proceso creativo con IA.",
-      "publicadoEn": "2026-06-27T18:39:32.000Z",
-      "globalScore": 98,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+      "tituloOriginal": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+      "tituloLimpio": "Fiscales usaron registros de ChatGPT como evidencia en el juicio por el incendio de Palisades",
+      "resumen": "Jonathan Rinderknecht enfrentaba cargos de incendio provocado por un fuego en el Día de Año Nuevo de 2025. Para su caso, los fiscales recurrieron a datos de ubicación de su iPhone, grabaciones de cámaras de seguridad, testimonios de testigos y sus registros de ChatGPT.",
+      "porQueImporta": "Destaca la creciente relevancia de la IA y los datos generados por ella en contextos legales, lo que plantea preguntas sobre privacidad y el uso de la IA en la vida cotidiana.",
+      "publicadoEn": "2026-06-28T14:12:06.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "ia",
-        "arte",
-        "calidad",
-        "contenido"
+        "IA",
+        "legal",
+        "privacidad"
       ],
       "tambienVistoEn": []
     },
@@ -303,17 +303,16 @@
       "fuente": "MIT Technology Review AI",
       "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
       "tituloOriginal": "Repositioning retail for the AI era",
-      "tituloLimpio": "La IA está transformando el retail de formas no evidentes para los consumidores",
-      "resumen": "La inteligencia artificial está reconfigurando rápidamente el comercio minorista, pero no de las maneras que los consumidores podrían notar de inmediato.",
-      "porQueImporta": "Guido, interesado en IA aplicada, puede ver cómo la IA impacta en industrias más allá de su nicho, especialmente en la optimización de procesos internos como la gestión de inventario y la aparición de productos en búsquedas, lo que puede inspirar nuevas ideas para la automatización.",
+      "tituloLimpio": "Repensar el retail para la era de la IA",
+      "resumen": "La inteligencia artificial está transformando rápidamente el retail, pero no de las maneras que los consumidores podrían notar de inmediato. La mayor transformación podría no ser en probadores virtuales o asistentes de compra, sino en cómo se toman las decisiones detrás de escena.",
+      "porQueImporta": "Muestra cómo la IA está impactando en la automatización y la eficiencia de los negocios, un área de interés para Guido, especialmente en el contexto de su trabajo en retoque fotográfico y arte con IA.",
       "publicadoEn": "2026-06-25T14:22:59.000Z",
-      "globalScore": 100,
+      "globalScore": 90,
       "personalScore": 100,
       "tags": [
-        "ia",
+        "IA",
         "retail",
-        "automatización",
-        "negocios"
+        "automatización"
       ],
       "tambienVistoEn": []
     },
@@ -321,19 +320,18 @@
       "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Apple",
       "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/28/how-to-create-a-macos-golden-gate-usb-install-drive-video/",
-      "tituloOriginal": "How to create a macOS Golden Gate USB install drive [Video]",
-      "tituloLimpio": "Cómo crear un disco de instalación USB de macOS Golden Gate",
-      "resumen": "Esta guía práctica muestra cómo transformar un disco USB en un instalador USB de macOS Golden Gate.",
-      "porQueImporta": "Guido, usuario de Apple, puede encontrar esta guía útil para la gestión de sus sistemas operativos macOS, especialmente para actualizaciones o instalaciones en múltiples Macs.",
-      "publicadoEn": "2026-06-28T13:00:00.000Z",
+      "url": "https://9to5mac.com/2026/06/28/m7-ultra-mac-studio-coming-in-2028-after-m5-ultra-model-later-this-year/",
+      "tituloOriginal": "Apple working on M7 Ultra Mac Studio for 2028 with potential major upgrade: report",
+      "tituloLimpio": "Apple estaría trabajando en un Mac Studio M7 Ultra para 2028 con una posible mejora importante",
+      "resumen": "Apple lanzará una versión actualizada del Mac Studio con chips M5 Max y M5 Ultra a finales de este año. El actual Mac Studio, lanzado a principios de 2025, incluye un chip M4 Max y M3 Ultra. Según Mark Gurman de Bloomberg, el Mac Studio basado en M5 será solo una actualización de chip.",
+      "porQueImporta": "Es una noticia relevante para Guido por su interés en Apple y el hardware, ya que anticipa futuras mejoras en la línea Mac Studio, importantes para profesionales creativos.",
+      "publicadoEn": "2026-06-28T14:31:16.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "macos",
-        "apple",
-        "herramientas",
-        "automatización"
+        "Apple",
+        "Mac Studio",
+        "hardware"
       ],
       "tambienVistoEn": []
     },
@@ -343,17 +341,74 @@
       "fuente": "9to5Mac",
       "url": "https://9to5google.com/2026/06/23/youtube-music-may-soon-support-offline-downloads-on-apple-watch/",
       "tituloOriginal": "YouTube Music may be working on support for offline downloads on Apple Watch",
-      "tituloLimpio": "YouTube Music podría soportar descargas offline en Apple Watch",
-      "resumen": "YouTube Music para Apple Watch parece estar listo para esa funcionalidad, ya que nuevos hallazgos de código sugieren que el soporte está cerca.",
-      "porQueImporta": "Guido, usuario de Apple, puede beneficiarse de esta funcionalidad para escuchar música sin conexión en su Apple Watch, lo que mejora la experiencia de usuario y la autonomía del dispositivo.",
+      "tituloLimpio": "YouTube Music podría pronto soportar descargas offline en Apple Watch",
+      "resumen": "Una opción muy útil de los smartwatches es la capacidad de emparejar auriculares directamente con el reloj y usar aplicaciones de música mientras se hace ejercicio, sin necesidad de teléfono. YouTube Music para Apple Watch parece estar listo para esa funcionalidad, ya que nuevos hallazgos de código sugieren que el soporte está cerca.",
+      "porQueImporta": "Una mejora en la funcionalidad del Apple Watch que podría ser útil para Guido, permitiendo mayor autonomía al escuchar música sin el iPhone.",
       "publicadoEn": "2026-06-23T16:55:18.000Z",
       "globalScore": 78,
       "personalScore": 100,
       "tags": [
-        "apple watch",
-        "youtube music",
-        "apple",
-        "herramientas"
+        "Apple",
+        "Apple Watch",
+        "aplicaciones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/06/28/this-homebrew-apple-ii-skips-emulation-does-it-all-in-hardware?utm_source=rss",
+      "tituloOriginal": "This homebrew Apple II skips emulation, does it all in hardware",
+      "tituloLimpio": "Este Apple II casero evita la emulación y lo hace todo en hardware",
+      "resumen": "Un proyecto ha clonado el Apple II Plus, pero en lugar de usar emulación, opta por la ruta más difícil de reconstruir la computadora clásica de Apple en hardware.",
+      "porQueImporta": "Un proyecto interesante que muestra la dedicación a la ingeniería de hardware y la historia de Apple, relevante para Guido por su interés en la marca y la tecnología.",
+      "publicadoEn": "2026-06-28T16:27:21.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "hardware",
+        "tecnología"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/news/podcast-rewind-wwdc-reflections-thunderbolt-hubs-and-prime-day-finds/",
+      "tituloOriginal": "Podcast Rewind: WWDC Reflections, Thunderbolt Hubs, and Prime Day Finds",
+      "tituloLimpio": "Podcast Rewind: Reflexiones de la WWDC, hubs Thunderbolt y hallazgos del Prime Day",
+      "resumen": "Disfrute de los últimos episodios de la familia de podcasts de MacStories: AppStories. Esta semana, John y Federico están de vuelta en casa y reflexionan sobre todos los anuncios de la WWDC, incluyendo Siri AI, Apple Intelligence, cambios de diseño, herramientas para desarrolladores y más.",
+      "porQueImporta": "Ofrece un resumen de las novedades de la WWDC, incluyendo Apple Intelligence y Siri AI, temas de gran interés para Guido por su trabajo con IA y su seguimiento de Apple.",
+      "publicadoEn": "2026-06-26T20:58:18.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "WWDC",
+        "IA"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/history-reveals-potential-stock-market-175500125.html",
+      "tituloOriginal": "What History Reveals About a Potential Stock Market Crash in 2026",
+      "tituloLimpio": "Lo que la historia revela sobre una posible caída del mercado de valores en 2026",
+      "resumen": "",
+      "porQueImporta": "Una advertencia sobre la posible volatilidad del mercado de valores en el futuro cercano, relevante para las decisiones de inversión de Guido.",
+      "publicadoEn": "2026-06-28T17:55:00.000Z",
+      "imagen": "https://media.zenfs.com/en/motleyfool.com/5de940da4e4d23d926ec185a5c67e11d",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "inversión",
+        "mercado"
       ],
       "tambienVistoEn": []
     },
@@ -361,42 +416,19 @@
       "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
       "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/06/28/crypto-s-next-frontier-isn-t-crypto-it-s-financing-ai-and-robotics-framework-s-anderson-says",
-      "tituloOriginal": "Crypto's next frontier isn't crypto, it's financing AI and robotics, Framework's Anderson says",
-      "tituloLimpio": "El próximo paso de las criptomonedas es financiar IA y robótica",
-      "resumen": "Blockchain se está convirtiendo en la capa financiera para industrias intensivas en capital en lugar de solo especulación cripto-nativa.",
-      "porQueImporta": "Guido, interesado en inversión y IA, puede ver una nueva tendencia donde las criptomonedas y blockchain se integran con el financiamiento de tecnologías avanzadas, abriendo nuevas oportunidades de inversión.",
-      "publicadoEn": "2026-06-28T13:00:00.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/3b135d1bd6e8eb4b0cd88dfa19f2bfc75477bf93-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "globalScore": 100,
+      "url": "https://www.coindesk.com/markets/2026/06/28/samson-mow-says-bitcoin-bottom-is-in-but-analysts-remain-divided",
+      "tituloOriginal": "Samson Mow says bitcoin bottom is in despite skepticism from analysts",
+      "tituloLimpio": "Samson Mow dice que el Bitcoin tocó fondo a pesar del escepticismo de los analistas",
+      "resumen": "El defensor del Bitcoin dijo que su afirmación sobre el 'piso' de la criptomoneda se basa en el hecho de que el ciclo tradicional de halving de cuatro años ha cambiado, aunque varios analistas continúan esperando una mayor caída.",
+      "porQueImporta": "Información clave sobre la volatilidad y las proyecciones del Bitcoin, relevante para Guido por su interés en las inversiones y los mercados.",
+      "publicadoEn": "2026-06-28T15:07:12.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/ed5d95b717720557dc9faae91855ddb7a70fa9f3-1344x950.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 96,
       "personalScore": 100,
       "tags": [
-        "criptomonedas",
-        "ia",
-        "robótica",
         "finanzas",
-        "inversión"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
-      "categoria": "Argentina",
-      "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/ethereum-hoy-cotizacion-y-precio-del-eth-este-domingo-28-de-junio-de-2026_0_IsVWAL0H7l.html",
-      "tituloOriginal": "Ethereum hoy: cotización y precio del ETH este domingo 28 de junio de 2026",
-      "tituloLimpio": "Ethereum hoy: cotización y precio del ETH este domingo 28 de junio de 2026",
-      "resumen": "El valor actualizado de la segunda criptomoneda más importante por capitalización. Origen e historia de Ethereum.",
-      "porQueImporta": "Guido, como inversor, puede querer mantenerse informado sobre la cotización de criptomonedas importantes como Ethereum, especialmente si considera diversificar sus inversiones.",
-      "publicadoEn": "2026-06-28T10:30:02.000Z",
-      "imagen": "https://www.clarin.com/img/2025/11/28/r3Jl2sk8t_1200x630__1.jpg",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "ethereum",
-        "criptomonedas",
-        "finanzas",
-        "inversión"
+        "Bitcoin",
+        "criptomonedas"
       ],
       "tambienVistoEn": []
     },
@@ -404,20 +436,39 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/06/28/por-que-la-morosidad-en-los-prestamos-para-las-familias-sigue-en-alza-y-que-planes-pueden-frenarla/",
-      "tituloOriginal": "Por qué la morosidad en los préstamos para las familias sigue en alza y qué planes pueden frenarla",
-      "tituloLimpio": "La morosidad en los préstamos para las familias sigue en alza en Argentina",
-      "resumen": "Los datos oficiales llegan hasta abril y muestran un aumento de los deudores en situación irregular a pesar de que los bancos y el Gobierno auguraban lo contrario.",
-      "porQueImporta": "Guido, como residente en Argentina, debe estar al tanto de la situación económica del país, ya que el aumento de la morosidad puede indicar problemas económicos más amplios que podrían afectar el clima de negocios y la inversión.",
-      "publicadoEn": "2026-06-28T13:16:39.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/GQPCCNUS7JBURFVQHVPUZ3YDLI.png?auth=9afdf27dcb47c17f0ec53586fc2c507b9e45ab3742477f13314be8b5a4c759a8&smart=true&width=1456&height=816",
+      "url": "https://www.infobae.com/economia/2026/06/28/como-hizo-chile-para-desarrollar-un-mercado-de-credito-equivalente-a-mas-del-100-del-pbi-y-que-podria-imitar-argentina/",
+      "tituloOriginal": "Cómo hizo Chile para desarrollar un mercado de crédito equivalente a más del 100% del PBI y qué podría imitar Argentina",
+      "tituloLimpio": "Cómo hizo Chile para desarrollar un mercado de crédito equivalente a más del 100% del PBI y qué podría imitar Argentina",
+      "resumen": "El país vecino consolidó un sistema financiero desarrollado, con niveles de acceso a préstamos para hogares y empresas que superan ampliamente los registros locales en términos relativos.",
+      "porQueImporta": "Ofrece un análisis comparativo de la economía regional y posibles lecciones para Argentina, relevante para entender el contexto económico local.",
+      "publicadoEn": "2026-06-28T17:40:24.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/UPKNXI656RGVVHXT55OYZ2453I.JPG?auth=8b073036dd6883a49504ab2bad2fc919882912959a76f32aba63eebc6b25af8f&smart=true&width=3300&height=2201",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "argentina",
+        "Argentina",
         "economía",
-        "préstamos",
         "finanzas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/06/28/manuel-adorni-renunciara-tambien-como-director-de-ypf-por-el-estado-y-se-aleja-de-todos-los-cargos/",
+      "tituloOriginal": "Manuel Adorni renunciará también como director de YPF por el Estado y se aleja de todos los cargos",
+      "tituloLimpio": "Manuel Adorni renunciará también como director de YPF por el Estado y se aleja de todos los cargos",
+      "resumen": "Fuentes oficiales confirmaron a Infobae que el ex jefe de Gabinete presentará durante esta semana su dimisión al directorio de la petrolera estatal. La decisión fue tomada por el propio exfuncionario, que busca retirarse de la actividad pública tras su salida del Gobierno.",
+      "porQueImporta": "Una noticia política relevante en Argentina que marca un cambio en la administración y puede tener implicaciones en la gestión de empresas estatales.",
+      "publicadoEn": "2026-06-28T17:25:09.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/GTJ5AB6T7BEJ3GZGKX42O4WPSA.jpeg?auth=4b4f421f985febc4001882e39bcee30bb55de2d39d9ddb16172622ad296508e1&smart=true&width=1280&height=854",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "política",
+        "gobierno"
       ],
       "tambienVistoEn": []
     },
@@ -425,20 +476,19 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/campo/cada-vez-somos-menos-hay-riesgo-de-que-este-ano-muchos-productores-abandonen-la-siembra-de-un-nid28062026/",
-      "tituloOriginal": "“Cada vez somos menos”: hay riesgo de que este año muchos productores abandonen la siembra de un tradicional cultivo",
-      "tituloLimpio": "Hay riesgo de que muchos productores abandonen la siembra de un cultivo tradicional en Argentina",
-      "resumen": "En Entre Ríos advierten que el fuerte aumento del gasoil dejó los números del arroz en rojo; el complejo viene con una caída del 19% en las exportaciones.",
-      "porQueImporta": "Esta noticia refleja desafíos económicos en el sector agropecuario argentino, lo que puede tener un impacto en la economía general del país y en la percepción de riesgo para inversores locales.",
-      "publicadoEn": "2026-06-28T13:32:32.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/QCR4Q5OID5DHNDLOUU3VKMLCRA.JPG?auth=0167f94265c925994d72294d3d63fa7536c427f70f6ed6af1459f17fba5b01e9&smart=true&width=4000&height=2250",
-      "globalScore": 98,
+      "url": "https://www.lanacion.com.ar/economia/campo/marina-lambertini-la-ingeniera-agronoma-detras-de-un-trabajo-poco-conocido-y-que-define-uno-de-los-nid28062026/",
+      "tituloOriginal": "Marina Lambertini: la ingeniera agrónoma detrás de un trabajo poco conocido y que es clave para uno de los principales alimentos",
+      "tituloLimpio": "Marina Lambertini: la ingeniera agrónoma detrás de un trabajo poco conocido y clave para uno de los principales alimentos",
+      "resumen": "Asesora a productores hortícolas de distintas regiones del país con foco en compartir conocimientos, tecnologías y trazabilidad.",
+      "porQueImporta": "Destaca un trabajo importante en el sector agropecuario argentino, mostrando la aplicación de conocimiento y tecnología en una industria fundamental.",
+      "publicadoEn": "2026-06-28T17:56:08.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/N346HBVBOVE5HJJS7WYIENEUKQ.jpeg?auth=aae97fadb85cac287a39c74ab87b632b7eecf1fbc91ecaac67c458de1a79ed4a&smart=true&width=1600&height=1200",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "economía",
-        "campo",
-        "producción"
+        "Argentina",
+        "negocios",
+        "tecnología"
       ],
       "tambienVistoEn": []
     },
@@ -449,22 +499,21 @@
       "url": "https://www.adweek.com/commerce/rethinking-audience-strategy-for-an-unpredictable-consumer/",
       "tituloOriginal": "Rethinking Audience Strategy for an Unpredictable Consumer",
       "tituloLimpio": "Repensando la estrategia de audiencia para un consumidor impredecible",
-      "resumen": "Los consumidores más jóvenes están cambiando el retail al combinar tendencias virales online con compras en tiendas.",
-      "porQueImporta": "Guido, interesado en marketing, puede encontrar valiosa esta perspectiva sobre cómo las nuevas generaciones de consumidores están redefiniendo las estrategias de audiencia y el retail, lo que puede influir en sus propios enfoques de marketing o en la comprensión del mercado.",
+      "resumen": "Los consumidores más jóvenes están cambiando el retail al combinar tendencias virales online con compras en tiendas. Este post fue creado en asociación con GroundTruth.",
+      "porQueImporta": "Ofrece insights sobre las nuevas tendencias de consumo y cómo los especialistas en marketing deben adaptar sus estrategias, relevante para Guido por su interés en marketing.",
       "publicadoEn": "2026-06-27T08:59:12.000Z",
       "globalScore": 82,
       "personalScore": 100,
       "tags": [
         "marketing",
         "consumidor",
-        "retail",
-        "estrategia"
+        "tendencias"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-06-28T13:53:21.955Z"
+    "generadoEn": "2026-06-28T18:05:42.063Z"
   }
 }
