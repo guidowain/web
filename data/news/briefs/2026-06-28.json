@@ -1,0 +1,470 @@
+{
+  "fecha": "2026-06-28",
+  "generadoEn": "2026-06-28T13:53:21.955Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "Esta semana se destacan las novedades de Google Finance con una nueva app, los aumentos masivos de precios en productos Apple y la situación económica en Argentina con la morosidad en préstamos y la salida de Manuel Adorni. En IA, se debate el futuro de los centros de datos orbitales de Musk y la aplicación de la IA en el retail. El mercado de criptomonedas también muestra interés en financiar IA y robótica.",
+  "radarPersonal": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Google Finance lanza una nueva app y sale de beta",
+      "resumen": "La nueva versión de Google Finance está disponible y se lanza una nueva aplicación para Android.",
+      "categoria": "AI",
+      "fuentes": [
+        "Google AI Blog"
+      ],
+      "urls": [
+        "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/"
+      ],
+      "score": 100,
+      "tags": [
+        "google",
+        "finance",
+        "app",
+        "android"
+      ]
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Apple aplica aumentos masivos de precios en sus productos",
+      "resumen": "La comunidad de Apple se vio afectada por aumentos de precios en una amplia gama de productos, con subas del 10 al 20 por ciento y algunas de hasta el 50 por ciento o más.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/06/27/top-stories-massive-apple-price-increases/"
+      ],
+      "score": 100,
+      "tags": [
+        "apple",
+        "precios",
+        "aumentos"
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Plazo fijo en 2026: ¿Cuánto generan $1.000.000 a 30 días?",
+      "resumen": "Las tasas siguen bajas y obligan a los inversores a inmovilizar cada vez más capital para alcanzar ganancias relevantes al finalizar el plazo.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/plazo-fijo-2026-cuanto-generan-1000000-30-dias-n6292886"
+      ],
+      "score": 100,
+      "tags": [
+        "plazo fijo",
+        "inversión",
+        "tasas",
+        "argentina"
+      ]
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "titulo": "La IA está transformando el retail de formas no evidentes para los consumidores",
+      "resumen": "La inteligencia artificial está reconfigurando rápidamente el comercio minorista, pero no de las maneras que los consumidores podrían notar de inmediato.",
+      "categoria": "AI",
+      "fuentes": [
+        "MIT Technology Review AI"
+      ],
+      "urls": [
+        "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/"
+      ],
+      "score": 100,
+      "tags": [
+        "ia",
+        "retail",
+        "transformación"
+      ]
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "titulo": "El próximo paso de las criptomonedas es financiar IA y robótica",
+      "resumen": "Blockchain se está convirtiendo en la capa financiera para industrias intensivas en capital en lugar de solo especulación cripto-nativa.",
+      "categoria": "Finance",
+      "fuentes": [
+        "CoinDesk"
+      ],
+      "urls": [
+        "https://www.coindesk.com/business/2026/06/28/crypto-s-next-frontier-isn-t-crypto-it-s-financing-ai-and-robotics-framework-s-anderson-says"
+      ],
+      "score": 100,
+      "tags": [
+        "criptomonedas",
+        "ia",
+        "robótica",
+        "blockchain",
+        "finanzas"
+      ]
+    }
+  ],
+  "loImportante": [
+    "Google Finance lanza una nueva app para Android, mejorando la experiencia de usuario.",
+    "Apple implementa aumentos significativos en los precios de sus productos, afectando a los consumidores.",
+    "La morosidad en préstamos familiares en Argentina sigue en alza, a pesar de las expectativas de bancos y gobierno.",
+    "La inteligencia artificial está redefiniendo el sector minorista, especialmente en la toma de decisiones internas.",
+    "El sector cripto ve una oportunidad en financiar proyectos de IA y robótica, más allá de la especulación."
+  ],
+  "oportunidades": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "Tools & Automation",
+      "titulo": "Nueva app de Google Finance para Android",
+      "detalle": "La salida de beta y el lanzamiento de una nueva app de Google Finance para Android podría ofrecer herramientas mejoradas para el seguimiento de inversiones y análisis de mercado.",
+      "acciones": [
+        "Explorar la nueva app de Google Finance para Android.",
+        "Evaluar las nuevas funcionalidades para el seguimiento de ETFs y mercados."
+      ]
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "titulo": "IA en el retail: oportunidades en la optimización de procesos",
+      "detalle": "La IA está transformando el retail en la toma de decisiones internas, cómo los productos aparecen en búsquedas y la gestión de la cadena de suministro, lo que puede inspirar nuevas aplicaciones de IA en otros sectores.",
+      "acciones": [
+        "Investigar cómo se aplica la IA en la optimización de la cadena de suministro y resultados de búsqueda.",
+        "Considerar la aplicación de estas tendencias de IA en proyectos de retoque fotográfico o arte con IA para optimizar flujos de trabajo."
+      ]
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Investing",
+      "titulo": "Criptomonedas como fuente de financiación para IA y robótica",
+      "detalle": "Blockchain se posiciona como una capa financiera para industrias intensivas en capital como la IA y la robótica, abriendo nuevas vías de inversión y desarrollo.",
+      "acciones": [
+        "Analizar proyectos de IA y robótica que buscan financiación a través de blockchain.",
+        "Evaluar el potencial de inversión en este nuevo cruce entre cripto y tecnología avanzada."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Market",
+      "titulo": "Aumentos masivos de precios en productos Apple",
+      "detalle": "Apple implementó aumentos de precios significativos en muchos de sus productos, lo que podría impactar el presupuesto para nuevas adquisiciones de hardware o actualizaciones.",
+      "mitigacion": "Monitorear los precios en minoristas y considerar compras antes de que los aumentos se generalicen, si es posible. Evaluar alternativas o esperar a posibles ofertas."
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Market",
+      "titulo": "Bajas tasas de plazo fijo en Argentina",
+      "detalle": "Las tasas de los plazos fijos en Argentina siguen bajas, lo que requiere inmovilizar más capital para obtener ganancias relevantes, afectando la rentabilidad de inversiones conservadoras.",
+      "mitigacion": "Explorar otras opciones de inversión en Argentina que ofrezcan mayor rentabilidad, como ETFs o fondos comunes de inversión, si se ajustan al perfil de riesgo."
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Market",
+      "titulo": "Aumento de la morosidad en préstamos familiares en Argentina",
+      "detalle": "La morosidad en los préstamos para familias sigue en alza en Argentina, lo que indica una posible debilidad económica y un riesgo para el sistema financiero local.",
+      "mitigacion": "Mantener una gestión financiera prudente y evitar endeudamientos innecesarios. Estar atento a las políticas económicas y bancarias que puedan surgir para frenar esta tendencia."
+    }
+  ],
+  "conexiones": [
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "titulo": "Salida de Manuel Adorni y su impacto político",
+      "historias": [
+        "Javier Milei y sus medidas, EN VIVO: siguen las repercusiones por la salida de Manuel Adorni y suena Diego Santilli como su sucesor",
+        "Cristian Ritondo celebró la salida de Adorni: “Era una debilidad que tenía el Gobierno y el Parlamento estaba casi frenado”",
+        "El sacrificio de Milei para poner a salvo el plan de reelección"
+      ],
+      "conclusion": "La salida de Manuel Adorni del gabinete de Javier Milei generó un fuerte impacto político en Argentina, con repercusiones sobre la estabilidad del gobierno y el funcionamiento del parlamento. Se interpreta como un movimiento estratégico de Milei para proteger su plan de reelección."
+    }
+  ],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+      "tituloOriginal": "Our latest Google Finance upgrades, including a new app",
+      "tituloLimpio": "Google Finance lanza una nueva app y sale de beta",
+      "resumen": "La nueva versión de Google Finance está disponible y se lanza una nueva aplicación para Android.",
+      "porQueImporta": "Guido, como inversor, puede beneficiarse de una herramienta mejorada para el seguimiento de mercados y ETFs. La nueva app podría ofrecer funcionalidades más eficientes para su análisis financiero.",
+      "publicadoEn": "2026-06-25T16:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "google",
+        "finance",
+        "app",
+        "android",
+        "inversión",
+        "herramientas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/27/top-stories-massive-apple-price-increases/",
+      "tituloOriginal": "Top Stories: Massive Apple Price Increases, iOS 27 Beta 2, and More",
+      "tituloLimpio": "Apple aplica aumentos masivos de precios en sus productos",
+      "resumen": "La comunidad de Apple se vio afectada por aumentos de precios en una amplia gama de productos, con subas del 10 al 20 por ciento y algunas de hasta el 50 por ciento o más.",
+      "porQueImporta": "Guido, usuario de Apple, debe estar al tanto de estos aumentos que impactan directamente en el costo de adquirir nuevos equipos o actualizar los existentes, afectando su presupuesto de herramientas de trabajo.",
+      "publicadoEn": "2026-06-27T13:00:00.000Z",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "precios",
+        "aumentos",
+        "hardware"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/plazo-fijo-2026-cuanto-generan-1000000-30-dias-n6292886",
+      "tituloOriginal": "Plazo fijo en 2026: ¿Cuánto generan $1.000.000 a 30 días?",
+      "tituloLimpio": "Plazo fijo en 2026: ¿Cuánto generan $1.000.000 a 30 días?",
+      "resumen": "Las tasas siguen bajas y obligan a los inversores a inmovilizar cada vez más capital para alcanzar ganancias relevantes al finalizar el plazo.",
+      "porQueImporta": "Guido, como inversor en Argentina, necesita conocer el rendimiento de las opciones de inversión locales. Las bajas tasas de los plazos fijos son un factor clave para decidir dónde colocar su capital.",
+      "publicadoEn": "2026-06-27T14:00:00.000Z",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "plazo fijo",
+        "inversión",
+        "argentina",
+        "finanzas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/5-cannes-lions-takeaways-as-marketers-wrestle-with-an-industry-in-flux/823850/",
+      "tituloOriginal": "5 Cannes Lions takeaways as marketers wrestle with an industry in flux",
+      "tituloLimpio": "Cinco aprendizajes de Cannes Lions mientras los marketers enfrentan una industria en cambio",
+      "resumen": "Marketing Dive consultó a los asistentes sobre sus mayores sorpresas, frustraciones y lo que quieren ver más en el festival.",
+      "porQueImporta": "Guido, interesado en marketing, puede encontrar insights sobre las tendencias y desafíos actuales de la industria publicitaria global, lo que puede influir en sus estrategias o en cómo percibe el mercado.",
+      "publicadoEn": "2026-06-26T12:53:00.000Z",
+      "globalScore": 84,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "cannes lions",
+        "tendencias",
+        "industria"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+      "tituloOriginal": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
+      "tituloLimpio": "El CEO de SoftBank no es el único con dudas sobre los centros de datos orbitales de Elon Musk",
+      "resumen": "No todos están de acuerdo con la visión de Elon Musk sobre los centros de datos orbitales.",
+      "porQueImporta": "Guido, interesado en IA aplicada, puede seguir el debate sobre las grandes innovaciones y sus desafíos. La viabilidad de proyectos ambiciosos como los centros de datos orbitales de Musk es un tema relevante en el futuro de la infraestructura tecnológica.",
+      "publicadoEn": "2026-06-27T20:42:36.000Z",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "elon musk",
+        "ia",
+        "tecnología",
+        "innovación"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+      "tituloOriginal": "Margaret Atwood says the problem with AI is ‘garbage in, garbage out’",
+      "tituloLimpio": "Margaret Atwood dice que el problema con la IA es 'basura entra, basura sale'",
+      "resumen": "Maraget Atwood, la reconocida autora, fue entrevistada y no dudó en expresar su opinión sobre la IA.",
+      "porQueImporta": "Guido, que trabaja con arte e IA, puede encontrar interesante la perspectiva de una figura literaria sobre la calidad de los resultados de la IA, lo que resalta la importancia de la calidad de los datos de entrada en cualquier proceso creativo con IA.",
+      "publicadoEn": "2026-06-27T18:39:32.000Z",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "arte",
+        "calidad",
+        "contenido"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+      "tituloOriginal": "Repositioning retail for the AI era",
+      "tituloLimpio": "La IA está transformando el retail de formas no evidentes para los consumidores",
+      "resumen": "La inteligencia artificial está reconfigurando rápidamente el comercio minorista, pero no de las maneras que los consumidores podrían notar de inmediato.",
+      "porQueImporta": "Guido, interesado en IA aplicada, puede ver cómo la IA impacta en industrias más allá de su nicho, especialmente en la optimización de procesos internos como la gestión de inventario y la aparición de productos en búsquedas, lo que puede inspirar nuevas ideas para la automatización.",
+      "publicadoEn": "2026-06-25T14:22:59.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "retail",
+        "automatización",
+        "negocios"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/28/how-to-create-a-macos-golden-gate-usb-install-drive-video/",
+      "tituloOriginal": "How to create a macOS Golden Gate USB install drive [Video]",
+      "tituloLimpio": "Cómo crear un disco de instalación USB de macOS Golden Gate",
+      "resumen": "Esta guía práctica muestra cómo transformar un disco USB en un instalador USB de macOS Golden Gate.",
+      "porQueImporta": "Guido, usuario de Apple, puede encontrar esta guía útil para la gestión de sus sistemas operativos macOS, especialmente para actualizaciones o instalaciones en múltiples Macs.",
+      "publicadoEn": "2026-06-28T13:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "macos",
+        "apple",
+        "herramientas",
+        "automatización"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81Z29v",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5google.com/2026/06/23/youtube-music-may-soon-support-offline-downloads-on-apple-watch/",
+      "tituloOriginal": "YouTube Music may be working on support for offline downloads on Apple Watch",
+      "tituloLimpio": "YouTube Music podría soportar descargas offline en Apple Watch",
+      "resumen": "YouTube Music para Apple Watch parece estar listo para esa funcionalidad, ya que nuevos hallazgos de código sugieren que el soporte está cerca.",
+      "porQueImporta": "Guido, usuario de Apple, puede beneficiarse de esta funcionalidad para escuchar música sin conexión en su Apple Watch, lo que mejora la experiencia de usuario y la autonomía del dispositivo.",
+      "publicadoEn": "2026-06-23T16:55:18.000Z",
+      "globalScore": 78,
+      "personalScore": 100,
+      "tags": [
+        "apple watch",
+        "youtube music",
+        "apple",
+        "herramientas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/06/28/crypto-s-next-frontier-isn-t-crypto-it-s-financing-ai-and-robotics-framework-s-anderson-says",
+      "tituloOriginal": "Crypto's next frontier isn't crypto, it's financing AI and robotics, Framework's Anderson says",
+      "tituloLimpio": "El próximo paso de las criptomonedas es financiar IA y robótica",
+      "resumen": "Blockchain se está convirtiendo en la capa financiera para industrias intensivas en capital en lugar de solo especulación cripto-nativa.",
+      "porQueImporta": "Guido, interesado en inversión y IA, puede ver una nueva tendencia donde las criptomonedas y blockchain se integran con el financiamiento de tecnologías avanzadas, abriendo nuevas oportunidades de inversión.",
+      "publicadoEn": "2026-06-28T13:00:00.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/3b135d1bd6e8eb4b0cd88dfa19f2bfc75477bf93-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "criptomonedas",
+        "ia",
+        "robótica",
+        "finanzas",
+        "inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/ethereum-hoy-cotizacion-y-precio-del-eth-este-domingo-28-de-junio-de-2026_0_IsVWAL0H7l.html",
+      "tituloOriginal": "Ethereum hoy: cotización y precio del ETH este domingo 28 de junio de 2026",
+      "tituloLimpio": "Ethereum hoy: cotización y precio del ETH este domingo 28 de junio de 2026",
+      "resumen": "El valor actualizado de la segunda criptomoneda más importante por capitalización. Origen e historia de Ethereum.",
+      "porQueImporta": "Guido, como inversor, puede querer mantenerse informado sobre la cotización de criptomonedas importantes como Ethereum, especialmente si considera diversificar sus inversiones.",
+      "publicadoEn": "2026-06-28T10:30:02.000Z",
+      "imagen": "https://www.clarin.com/img/2025/11/28/r3Jl2sk8t_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "ethereum",
+        "criptomonedas",
+        "finanzas",
+        "inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/06/28/por-que-la-morosidad-en-los-prestamos-para-las-familias-sigue-en-alza-y-que-planes-pueden-frenarla/",
+      "tituloOriginal": "Por qué la morosidad en los préstamos para las familias sigue en alza y qué planes pueden frenarla",
+      "tituloLimpio": "La morosidad en los préstamos para las familias sigue en alza en Argentina",
+      "resumen": "Los datos oficiales llegan hasta abril y muestran un aumento de los deudores en situación irregular a pesar de que los bancos y el Gobierno auguraban lo contrario.",
+      "porQueImporta": "Guido, como residente en Argentina, debe estar al tanto de la situación económica del país, ya que el aumento de la morosidad puede indicar problemas económicos más amplios que podrían afectar el clima de negocios y la inversión.",
+      "publicadoEn": "2026-06-28T13:16:39.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/GQPCCNUS7JBURFVQHVPUZ3YDLI.png?auth=9afdf27dcb47c17f0ec53586fc2c507b9e45ab3742477f13314be8b5a4c759a8&smart=true&width=1456&height=816",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "economía",
+        "préstamos",
+        "finanzas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/campo/cada-vez-somos-menos-hay-riesgo-de-que-este-ano-muchos-productores-abandonen-la-siembra-de-un-nid28062026/",
+      "tituloOriginal": "“Cada vez somos menos”: hay riesgo de que este año muchos productores abandonen la siembra de un tradicional cultivo",
+      "tituloLimpio": "Hay riesgo de que muchos productores abandonen la siembra de un cultivo tradicional en Argentina",
+      "resumen": "En Entre Ríos advierten que el fuerte aumento del gasoil dejó los números del arroz en rojo; el complejo viene con una caída del 19% en las exportaciones.",
+      "porQueImporta": "Esta noticia refleja desafíos económicos en el sector agropecuario argentino, lo que puede tener un impacto en la economía general del país y en la percepción de riesgo para inversores locales.",
+      "publicadoEn": "2026-06-28T13:32:32.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/QCR4Q5OID5DHNDLOUU3VKMLCRA.JPG?auth=0167f94265c925994d72294d3d63fa7536c427f70f6ed6af1459f17fba5b01e9&smart=true&width=4000&height=2250",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "economía",
+        "campo",
+        "producción"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "fuente": "Adweek",
+      "url": "https://www.adweek.com/commerce/rethinking-audience-strategy-for-an-unpredictable-consumer/",
+      "tituloOriginal": "Rethinking Audience Strategy for an Unpredictable Consumer",
+      "tituloLimpio": "Repensando la estrategia de audiencia para un consumidor impredecible",
+      "resumen": "Los consumidores más jóvenes están cambiando el retail al combinar tendencias virales online con compras en tiendas.",
+      "porQueImporta": "Guido, interesado en marketing, puede encontrar valiosa esta perspectiva sobre cómo las nuevas generaciones de consumidores están redefiniendo las estrategias de audiencia y el retail, lo que puede influir en sus propios enfoques de marketing o en la comprensión del mercado.",
+      "publicadoEn": "2026-06-27T08:59:12.000Z",
+      "globalScore": 82,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "consumidor",
+        "retail",
+        "estrategia"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-06-28T13:53:21.955Z"
+  }
+}
