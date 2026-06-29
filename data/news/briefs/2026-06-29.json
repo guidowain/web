@@ -1,69 +1,87 @@
 {
   "fecha": "2026-06-29",
-  "generadoEn": "2026-06-29T15:52:42.890Z",
+  "generadoEn": "2026-06-29T19:04:39.165Z",
   "actualizacion": "14:00",
-  "resumenEjecutivo": "Hoy se destaca la exención del Impuesto al Cheque para billeteras y proveedores cripto en Argentina. En el ámbito tecnológico, Apple adquirió una app premiada y se defiende de acusaciones antimonopolio en India. En IA, Google explica su enfoque 'full-stack' y China avanza en ciberseguridad con su modelo GLM-5.2. El mercado de valores muestra movimientos leves, con el yen alcanzando un mínimo de 40 años frente al dólar. En Argentina, se completó la colocación del Bonar 2028 y se prohibió la salida del país a Martín Insaurralde y Jesica Cirio.",
+  "resumenEjecutivo": "Hoy, el foco está en la seguridad de Apple tras filtraciones de datos del iPhone 18 Pro y una actualización de iOS con más de 25 parches. En Argentina, se destaca el impacto del aumento de tarifas en los ingresos bajos y la suba del dólar. También hay novedades sobre la inversión en Vaca Muerta y la colocación del Bonar 28. En IA, Google explica su enfoque 'full-stack' y OpenAI insinúa nuevo hardware para Codex. El marketing explora el 'full-funnel' con video e IA, y se analiza la evolución del 'shopping moment'.",
   "radarPersonal": [
     {
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "Exención del Impuesto al Cheque para billeteras y proveedores cripto en Argentina",
-      "resumen": "El organismo ARCA hizo operativa, a través de una resolución general, una medida decretada hace diez días por el presidente Javier Milei.",
+      "titulo": "El peso de los servicios públicos en los ingresos de los sectores bajos se cuadruplicó desde 2023",
+      "resumen": "La suba de tarifas reduce el ingreso disponible de los hogares. El fenómeno se da con mayor fuerza en los sectores de menores recursos.",
       "categoria": "Argentina",
       "fuentes": [
         "Ambito"
       ],
       "urls": [
-        "https://www.ambito.com/economia/impuesto-al-cheque-arca-habilita-la-exencion-billeteras-y-proveedores-cripto-n6293949"
+        "https://www.ambito.com/economia/el-peso-los-servicios-publicos-los-ingresos-los-sectores-bajos-se-cuadruplico-2023-n6293983"
       ],
       "score": 100,
       "tags": [
-        "impuesto",
-        "cheque",
-        "cripto",
+        "tarifas",
+        "ingresos",
         "argentina"
       ]
     },
     {
-      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "titulo": "Experto de Google explica el enfoque 'full-stack' en IA",
-      "resumen": "Un experto de Google explica qué significa adoptar un enfoque 'full-stack' para la IA y por qué ha sido la base de su trabajo en IA durante tanto tiempo.",
-      "categoria": "AI",
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "titulo": "El dólar volvió a subir y tocó su precio más elevado en ocho meses",
+      "resumen": "Con un fuerte volumen operado de más de USD 800 millones, la cotización mayorista se pactó a $1.481,50, un máximo desde el 3 de noviembre. Al púbico en el Banco Nación siguió a $1.495",
+      "categoria": "Argentina",
       "fuentes": [
-        "Google AI Blog"
+        "Infobae Economia"
       ],
       "urls": [
-        "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/"
+        "https://www.infobae.com/economia/2026/06/29/el-dolar-volvio-a-subir-y-toco-su-precio-mas-elevado-en-ocho-meses/"
       ],
       "score": 100,
       "tags": [
-        "ia",
-        "full-stack",
-        "google"
+        "dólar",
+        "economía",
+        "argentina"
       ]
     },
     {
-      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
-      "titulo": "Apple adquirió la app ganadora del premio 'Innovation' Apple Design Award del año pasado",
-      "resumen": "Apple adquirió una variedad de apps recientemente, y la última, Play, ganó el Apple Design Award 2025 en la categoría 'Innovation'.",
-      "categoria": "Apple",
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "titulo": "YPF sumó a dos socios globales para el gas licuado que exportará Vaca Muerta",
+      "resumen": "YPF acordó la estructura societaria con la italiana Eni y la emiratí XRG para el desarrollo del upstream del proyecto Argentina LNG. La transacción está sujeta a la aprobación del gobierno neuquino a cargo de Rolando Figueroa.",
+      "categoria": "Argentina",
       "fuentes": [
-        "9to5Mac"
+        "Clarin Economia"
       ],
       "urls": [
-        "https://9to5mac.com/2026/06/29/apple-just-acquired-the-app-that-won-last-years-innovation-apple-design-award/"
+        "https://www.clarin.com/economia/ypf-sumo-socios-globales-gas-licuado-exportara-vaca-muerta_0_4yvVR0MIFN.html"
       ],
       "score": 100,
       "tags": [
-        "apple",
-        "adquisición",
-        "apps",
-        "diseño"
+        "YPF",
+        "Vaca Muerta",
+        "inversión",
+        "gas"
+      ]
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "titulo": "No esperes para actualizar: iOS 26.5.2 incluye más de 25 arreglos de seguridad para la navegación web",
+      "resumen": "La actualización iOS 26.5.2 de Apple agrega una variedad de arreglos para mantener tus datos seguros mientras navegás por la web. Acá tenés lo que necesitás saber y por qué deberías actualizar.",
+      "categoria": "Apple",
+      "fuentes": [
+        "AppleInsider"
+      ],
+      "urls": [
+        "https://appleinsider.com/articles/26/06/29/dont-wait-to-update-ios-2652-includes-over-25-security-fixes-for-web-browsing?utm_source=rss"
+      ],
+      "score": 100,
+      "tags": [
+        "iOS",
+        "seguridad",
+        "Apple",
+        "actualización"
       ]
     },
     {
       "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
-      "titulo": "Instacart cultiva marketing de embudo completo con video e IA",
-      "resumen": "Ali Miller, gerente general de publicidad, detalla una nueva fuente de video vertical de formato corto y cómo Instacart planea integrar anuncios en su asistente de IA.",
+      "titulo": "Cómo Instacart está cultivando el marketing de embudo completo con video e IA",
+      "resumen": "Ali Miller, gerente general de publicidad, desglosa un nuevo feed de videos verticales de formato corto y cómo Instacart planea integrar anuncios en su asistente de IA.",
       "categoria": "Marketing",
       "fuentes": [
         "Marketing Dive"
@@ -74,131 +92,102 @@
       "score": 100,
       "tags": [
         "marketing",
-        "ia",
+        "IA",
         "video",
-        "instacart"
-      ]
-    },
-    {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "titulo": "Empresa de manos robóticas resuelve demanda de secreto comercial con Tesla y anuncia inversión de 11 millones de dólares",
-      "resumen": "La startup, Proception, está adoptando un enfoque único para recopilar datos de entrenamiento para abordar uno de los problemas más difíciles en robótica: las manos.",
-      "categoria": "AI",
-      "fuentes": [
-        "TechCrunch AI"
-      ],
-      "urls": [
-        "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/"
-      ],
-      "score": 100,
-      "tags": [
-        "robótica",
-        "ia",
-        "inversión",
-        "tesla"
+        "Instacart"
       ]
     }
   ],
   "loImportante": [
-    "La exención del Impuesto al Cheque para billeteras y proveedores cripto en Argentina es una medida relevante para el sector financiero digital local.",
-    "El enfoque 'full-stack' de Google en IA subraya la importancia de una visión integral en el desarrollo de esta tecnología.",
-    "La adquisición de una app premiada por Apple muestra su interés en integrar innovaciones externas en su ecosistema.",
-    "El uso de video e IA en el marketing de Instacart destaca tendencias en la publicidad digital y la personalización.",
-    "El avance de China en IA para ciberseguridad con GLM-5.2 indica una competencia global creciente en capacidades de IA."
+    "La suba de tarifas en Argentina impacta fuertemente en los ingresos de los sectores bajos.",
+    "El dólar mayorista alcanzó su valor más alto en ocho meses en Argentina.",
+    "Apple enfrenta preocupaciones por filtraciones de datos del iPhone 18 Pro de un proveedor.",
+    "iOS 26.5.2 incluye más de 25 arreglos de seguridad, siendo una actualización importante.",
+    "YPF sumó socios globales para la exportación de gas licuado de Vaca Muerta."
   ],
   "oportunidades": [
     {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "categoria": "Investing",
-      "titulo": "Nueva exención impositiva para cripto en Argentina",
-      "detalle": "La exención del Impuesto al Cheque para billeteras y proveedores cripto en Argentina puede impulsar la adopción y el desarrollo del ecosistema cripto local, ofreciendo un marco más favorable para transacciones y servicios.",
-      "acciones": [
-        "Evaluar el impacto en inversiones y operaciones con criptomonedas en Argentina.",
-        "Considerar nuevas herramientas o servicios cripto que se beneficien de esta exención."
-      ]
-    },
-    {
       "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
       "categoria": "Marketing",
-      "titulo": "Tendencias en marketing full-funnel con video e IA",
-      "detalle": "Instacart está integrando video vertical y asistentes de IA para un marketing de embudo completo. Esto sugiere la creciente relevancia de estas tecnologías para estrategias de marketing efectivas.",
+      "titulo": "Integración de video e IA en marketing de embudo completo",
+      "detalle": "Instacart está usando video vertical y asistentes de IA para marketing. Esto muestra cómo la IA puede mejorar la estrategia de marketing en todas las etapas del embudo.",
       "acciones": [
-        "Investigar herramientas de IA para la creación y gestión de contenido de video en marketing.",
-        "Analizar cómo aplicar estrategias de marketing full-funnel con IA en proyectos de retoque fotográfico y arte con IA."
+        "Explorar herramientas de IA para optimizar campañas de video.",
+        "Analizar cómo integrar asistentes de IA en estrategias de contenido y publicidad."
       ]
     },
     {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "categoria": "AI",
-      "titulo": "Inversión empresarial en IA y agentes de IA",
-      "detalle": "La inversión empresarial en IA está en auge, con un enfoque en agentes de IA para lograr resultados financieros medibles. Esto indica una maduración del mercado de IA hacia soluciones prácticas y con ROI.",
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "titulo": "Cada momento se convierte en un momento de compra",
+      "detalle": "El shopping ya no tiene un punto de inicio único ni un camino predecible. Esto implica nuevas oportunidades para el marketing y la venta en diversos puntos de contacto.",
       "acciones": [
-        "Explorar oportunidades de inversión en empresas de IA con soluciones de agentes.",
-        "Identificar cómo los agentes de IA pueden automatizar o mejorar procesos en el trabajo de retoque y arte con IA."
+        "Investigar nuevas plataformas y formatos para captar la atención del consumidor en momentos inesperados.",
+        "Adaptar estrategias de marketing para un recorrido del cliente no lineal."
+      ]
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Investing",
+      "titulo": "Inversión global en gas licuado de Vaca Muerta",
+      "detalle": "YPF sumó socios globales para el desarrollo del proyecto Argentina LNG, lo que podría impulsar el sector energético y la economía local.",
+      "acciones": [
+        "Monitorear el desarrollo de proyectos energéticos en Argentina para posibles oportunidades de inversión."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
-      "categoria": "Technology",
-      "titulo": "Vulnerabilidad de claves privadas en cripto",
-      "detalle": "Las claves privadas, y no los contratos inteligentes, causaron el 40% de las pérdidas por hackeos de 16 mil millones de dólares en cripto. La industria está trabajando en soluciones, pero de forma desigual.",
-      "mitigacion": "Reforzar la seguridad de las claves privadas en cualquier inversión o interacción con criptomonedas. Investigar soluciones de custodia segura y prácticas recomendadas."
-    },
-    {
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "categoria": "Regulatory",
-      "titulo": "Apple enfrenta acusaciones antimonopolio en India",
-      "detalle": "Apple acusó a los investigadores antimonopolio indios de 'copiar y pegar' reclamos de sus rivales. Esto podría sentar un precedente para futuras regulaciones antimonopolio en mercados emergentes.",
-      "mitigacion": "Monitorear el desarrollo de casos antimonopolio contra grandes tecnológicas, ya que pueden influir en el acceso a mercados y la disponibilidad de servicios."
+      "categoria": "Technology",
+      "titulo": "Filtración de datos del iPhone 18 Pro por proveedor",
+      "detalle": "Apple está preocupada por una filtración de datos confidenciales del iPhone 18 Pro de uno de sus socios de fabricación. Esto subraya los riesgos de seguridad en la cadena de suministro.",
+      "mitigacion": "Revisar y fortalecer las medidas de seguridad con proveedores y socios, especialmente aquellos que manejan información sensible."
     },
     {
-      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
-      "categoria": "AI",
-      "titulo": "Preocupaciones sobre ataques de IA a DeFi",
-      "detalle": "Claude Mythos generó preocupaciones sobre ataques impulsados por IA a protocolos DeFi. Aunque las herramientas de IA también están disponibles para equipos de seguridad, el riesgo de ataques sofisticados aumenta.",
-      "mitigacion": "Mantenerse informado sobre las vulnerabilidades de seguridad en DeFi y las capacidades de la IA en ciberseguridad. Priorizar plataformas DeFi con fuertes medidas de seguridad."
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Market",
+      "titulo": "Impacto de tarifas en ingresos bajos en Argentina",
+      "detalle": "El aumento de tarifas de servicios públicos cuadruplicó su peso en los ingresos de los sectores bajos desde 2023, reduciendo el ingreso disponible de los hogares.",
+      "mitigacion": "Considerar el impacto en el poder adquisitivo de los consumidores al planificar estrategias de precios o lanzamiento de productos en el mercado local."
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Market",
+      "titulo": "Suba del dólar en Argentina a máximo de ocho meses",
+      "detalle": "El dólar mayorista alcanzó su precio más elevado en ocho meses, lo que puede impactar en costos de importación y en la economía general.",
+      "mitigacion": "Monitorear de cerca la evolución del tipo de cambio y sus posibles efectos en los costos operativos y la rentabilidad de las inversiones."
     }
   ],
-  "conexiones": [],
-  "noticias": [
+  "conexiones": [
     {
-      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "categoria": "AI",
-      "fuente": "Google AI Blog",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
-      "tituloOriginal": "Ask an AI expert: What exactly is the full stack?",
-      "tituloLimpio": "Experto de Google explica el enfoque 'full-stack' en IA",
-      "resumen": "Un experto de Google explica qué significa adoptar un enfoque 'full-stack' para la IA y por qué ha sido la base de su trabajo en IA durante tanto tiempo.",
-      "porQueImporta": "Para Guido, que trabaja con IA, entender el enfoque 'full-stack' de Google puede ofrecer una perspectiva valiosa sobre el desarrollo y la implementación de sistemas de IA, impactando su visión de herramientas y procesos.",
-      "publicadoEn": "2026-06-29T16:00:00.000Z",
-      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Full_Stack.max-600x600.format-webp.webp",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "ia",
-        "google",
-        "desarrollo"
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Filtración de datos del iPhone 18 Pro",
+      "historias": [
+        "macrumors-aHR0cHM6Ly93d3cubWFj",
+        "9to5mac-aHR0cHM6Ly85dG81bWFj"
       ],
-      "tambienVistoEn": []
-    },
+      "conclusion": "Dos fuentes reportan la misma preocupación de Apple por la filtración de datos del iPhone 18 Pro desde su proveedor Tata Electronics, incluyendo fotos de pruebas de caída. Esto destaca un problema de seguridad importante en la cadena de suministro de Apple."
+    }
+  ],
+  "noticias": [
     {
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Apple",
       "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/29/apple-says-indias-antitrust-case-is-copy-pasted/",
-      "tituloOriginal": "Apple Says India's Antitrust Case Against It Is 'Copy-Pasted'",
-      "tituloLimpio": "Apple dice que el caso antimonopolio de India es 'copiado y pegado'",
-      "resumen": "Apple acusó a los investigadores antimonopolio indios de 'copiar y pegar' reclamos de sus rivales y de no realizar su propio análisis, argumentando que los hallazgos del regulador en su contra deberían ser desestimados.",
-      "porQueImporta": "Como usuario de Apple, es relevante seguir cómo la empresa maneja sus desafíos regulatorios globales, ya que esto puede influir en la disponibilidad de productos y servicios a largo plazo, incluso si el caso es en India.",
-      "publicadoEn": "2026-06-29T15:34:32.000Z",
+      "url": "https://www.macrumors.com/2026/06/29/apple-tata-leak-iphone-18-pro/",
+      "tituloOriginal": "Apple 'Concerned' Over iPhone 18 Pro Data Leak From Supplier Tata",
+      "tituloLimpio": "Apple 'preocupada' por la filtración de datos del iPhone 18 Pro de su proveedor Tata",
+      "resumen": "Apple está 'preocupada' por una reciente filtración de datos de Tata Electronics, uno de sus socios de fabricación en India. Tata Electronics fue blanco de un ciberataque, con documentos confidenciales de Apple robados y compartidos en la dark web. Los hackers lograron robar información sobre el iPhone 18 Pro y el iPhone 18 Pro Max.",
+      "porQueImporta": "Esta noticia es relevante para Guido por su interés en Apple. Una filtración de datos de un producto futuro como el iPhone 18 Pro es un evento significativo que puede afectar la estrategia de lanzamiento y la seguridad de la marca.",
+      "publicadoEn": "2026-06-29T18:46:01.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "apple",
-        "legal",
-        "regulación"
+        "Apple",
+        "iPhone",
+        "seguridad",
+        "filtración"
       ],
       "tambienVistoEn": []
     },
@@ -206,19 +195,19 @@
       "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
       "categoria": "Finance",
       "fuente": "Sherwood",
-      "url": "https://sherwood.news/culture/hollywood-may-have-its-best-year-at-the-box-office-since-2019-but-streaming-audiences-are-still-obsessed-with-old-content/",
-      "tituloOriginal": "Hollywood may have its best year at the box office since 2019, but streaming audiences are still obsessed with old content",
-      "tituloLimpio": "Hollywood podría tener su mejor año en taquilla desde 2019, pero las audiencias de streaming siguen obsesionadas con contenido viejo",
-      "resumen": "Los espectadores están optando por contenido de catálogo en lugar de nuevos programas y películas en (prácticamente) todos los principales servicios de streaming.",
-      "porQueImporta": "Aunque no es directamente de su nicho, esta noticia refleja una tendencia de consumo de contenido que puede influir en estrategias de marketing y distribución digital, relevante para entender el comportamiento de la audiencia.",
-      "publicadoEn": "2026-06-29T15:34:56.000Z",
-      "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/499439801_family.jpg",
+      "url": "https://sherwood.news/markets/rocket-lab-deal-lifts-space-stocks/",
+      "tituloOriginal": "Rocket Lab deal lifts space stocks",
+      "tituloLimpio": "Acuerdo de Rocket Lab impulsa las acciones espaciales",
+      "resumen": "La gerencia de Rocket Lab calificó la compra como 'un atajo' para su negocio de comunicaciones satelitales.",
+      "porQueImporta": "Guido, interesado en inversiones, podría ver esto como una señal de crecimiento en el sector espacial, que puede influir en decisiones de inversión en ETFs o acciones relacionadas.",
+      "publicadoEn": "2026-06-29T15:53:09.000Z",
+      "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/2269754330_in-this-photo-illustration-a-rocketlab-logo-is-seen-displayed-on-a-smartphone-and-in-the.jpg",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "marketing",
-        "streaming",
-        "tendencias"
+        "inversión",
+        "mercados",
+        "espacio"
       ],
       "tambienVistoEn": []
     },
@@ -226,20 +215,19 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/impuesto-al-cheque-arca-habilita-la-exencion-billeteras-y-proveedores-cripto-n6293949",
-      "tituloOriginal": "Impuesto al Cheque: ARCA habilita la exención para billeteras y proveedores cripto",
-      "tituloLimpio": "Impuesto al Cheque: ARCA habilita la exención para billeteras y proveedores cripto",
-      "resumen": "El organismo hizo operativa, a través de una resolución general en el Boletín Oficial, una medida decretada hace diez días por el presidente Javier Milei.",
-      "porQueImporta": "Esta es una noticia muy importante para Guido, ya que impacta directamente en el ecosistema cripto en Argentina, donde invierte. La exención puede mejorar la rentabilidad y la facilidad de operación con activos digitales.",
-      "publicadoEn": "2026-06-29T15:06:00.000Z",
-      "imagen": "https://media.ambito.com/p/b657f106bbc6f3fa0ea4b935c1761af4/adjuntos/239/imagenes/042/967/0042967251/billeteras-virtuales.png",
-      "globalScore": 94,
+      "url": "https://www.ambito.com/economia/el-peso-los-servicios-publicos-los-ingresos-los-sectores-bajos-se-cuadruplico-2023-n6293983",
+      "tituloOriginal": "El peso de los servicios públicos en los ingresos de los sectores bajos se cuadruplicó desde 2023",
+      "tituloLimpio": "El peso de los servicios públicos en los ingresos de los sectores bajos se cuadruplicó desde 2023",
+      "resumen": "La suba de tarifas reduce el ingreso disponible de los hogares. El fenómeno se da con mayor fuerza en los sectores de menores recursos.",
+      "porQueImporta": "Como residente de Argentina, esta noticia tiene un impacto directo en la economía local y en el poder adquisitivo de la población, lo cual es relevante para entender el contexto económico general.",
+      "publicadoEn": "2026-06-29T16:30:00.000Z",
+      "globalScore": 90,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "finanzas",
-        "cripto",
-        "impuestos"
+        "Argentina",
+        "economía",
+        "tarifas",
+        "ingresos"
       ],
       "tambienVistoEn": []
     },
@@ -249,37 +237,17 @@
       "fuente": "Marketing Dive",
       "url": "https://www.marketingdive.com/news/how-instacart-is-cultivating-full-funnel-marketing-with-video-ai/823905/",
       "tituloOriginal": "How Instacart is cultivating full-funnel marketing with video, AI",
-      "tituloLimpio": "Cómo Instacart cultiva marketing de embudo completo con video e IA",
-      "resumen": "Ali Miller, gerente general de publicidad, detalla una nueva fuente de video vertical de formato corto y cómo Instacart planea integrar anuncios en su asistente de IA.",
-      "porQueImporta": "Para Guido, interesado en marketing y IA aplicada, esta noticia muestra cómo una empresa grande está innovando en publicidad digital, utilizando video y IA para estrategias de embudo completo, lo cual puede inspirar nuevas ideas para sus propios proyectos.",
+      "tituloLimpio": "Cómo Instacart cultiva el marketing de embudo completo con video e IA",
+      "resumen": "Ali Miller, gerente general de publicidad, desglosa un nuevo feed de videos verticales de formato corto y cómo Instacart planea integrar anuncios en su asistente de IA.",
+      "porQueImporta": "Para Guido, interesado en marketing e IA aplicada, esta noticia muestra una aplicación práctica de la IA en estrategias de marketing, especialmente en el uso de video y asistentes de IA para el 'full-funnel marketing'.",
       "publicadoEn": "2026-06-29T15:14:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "marketing",
-        "ia",
+        "IA",
         "video",
-        "publicidad"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "categoria": "AI",
-      "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
-      "tituloOriginal": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
-      "tituloLimpio": "Empresa de manos robóticas resuelve demanda de secreto comercial con Tesla y anuncia inversión de 11 millones de dólares",
-      "resumen": "La startup, Proception, está adoptando un enfoque único para recopilar datos de entrenamiento para abordar uno de los problemas más difíciles en robótica: las manos.",
-      "porQueImporta": "Esta noticia es relevante para Guido por su interés en la IA aplicada y la automatización. El avance en robótica, especialmente en la manipulación, puede tener implicaciones futuras para la automatización de tareas complejas.",
-      "publicadoEn": "2026-06-29T14:00:08.000Z",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "ia",
-        "robótica",
-        "automatización",
-        "inversión"
+        "automatización"
       ],
       "tambienVistoEn": []
     },
@@ -287,19 +255,19 @@
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
       "fuente": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
-      "tituloOriginal": "China’s Z.ai claims it can match Mythos on cybersecurity",
-      "tituloLimpio": "Z.ai de China afirma que puede igualar a Mythos en ciberseguridad",
-      "resumen": "Zhipu AI (Z.ai) de China lanzó su GLM-5.2 de peso abierto, y algunos investigadores afirmaron que iguala a Mythos en ciertos escenarios de búsqueda de errores y ciberseguridad.",
-      "porQueImporta": "Guido, interesado en IA, debería saber sobre los avances en modelos de IA de diferentes países, especialmente en áreas críticas como la ciberseguridad. Esto muestra la competencia global y el progreso en capacidades de IA.",
-      "publicadoEn": "2026-06-28T21:42:51.000Z",
-      "globalScore": 98,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+      "tituloOriginal": "OpenAI is teasing new hardware… for Codex",
+      "tituloLimpio": "OpenAI anticipa nuevo hardware para Codex",
+      "resumen": "OpenAI lanzará algún tipo de dispositivo relacionado con su herramienta de codificación impulsada por IA, Codex, el 15 de julio. En un video publicado en X el lunes, OpenAI muestra un dispositivo cuadrado con varios botones, junto con la leyenda: 'Tus atajos favoritos de Codex están recibiendo una actualización'.",
+      "porQueImporta": "Guido, interesado en IA y herramientas, encontrará relevante que OpenAI esté incursionando en hardware para Codex, lo que podría significar nuevas formas de interactuar con herramientas de codificación asistidas por IA.",
+      "publicadoEn": "2026-06-29T18:52:03.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "ia",
-        "ciberseguridad",
-        "china",
-        "modelos"
+        "IA",
+        "OpenAI",
+        "hardware",
+        "herramientas"
       ],
       "tambienVistoEn": []
     },
@@ -307,39 +275,18 @@
       "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
       "categoria": "AI",
       "fuente": "MIT Technology Review AI",
-      "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
-      "tituloOriginal": "Agent confidence on the technical frontier",
-      "tituloLimpio": "Confianza de los agentes en la frontera técnica de la IA",
-      "resumen": "La inversión empresarial en IA está en auge. Gartner llama a 2026 un 'año de inflexión' para que las organizaciones alineen sus proyectos de IA con objetivos estratégicos de negocio.",
-      "porQueImporta": "Esta noticia es clave para Guido, ya que subraya la maduración del mercado de IA y la creciente presión por el ROI. Esto puede influir en las herramientas y soluciones de IA que se desarrollan y en las oportunidades de inversión.",
-      "publicadoEn": "2026-06-29T14:44:01.000Z",
+      "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+      "tituloOriginal": "AI agents are not your “coworkers”",
+      "tituloLimpio": "Los agentes de IA no son tus 'compañeros de trabajo'",
+      "resumen": "Esta historia apareció originalmente en The Algorithm, nuestro boletín semanal sobre IA. Para recibir historias como esta primero en tu bandeja de entrada, registrate acá. Imaginá llegar al trabajo y enterarte de que un nuevo subordinado te reportará. El trabajador no es una persona sino una herramienta de IA.",
+      "porQueImporta": "Esta reflexión sobre la naturaleza de los agentes de IA es importante para Guido, quien trabaja con IA, ya que aborda la percepción y el rol de estas herramientas en el ámbito laboral, diferenciándolas de la interacción humana.",
+      "publicadoEn": "2026-06-29T18:00:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "ia",
-        "negocios",
-        "inversión",
-        "tendencias"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
-      "categoria": "Apple",
-      "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/29/apple-just-acquired-the-app-that-won-last-years-innovation-apple-design-award/",
-      "tituloOriginal": "Apple just acquired the app that won last year’s ‘Innovation’ Apple Design Award",
-      "tituloLimpio": "Apple adquirió la app que ganó el premio 'Innovation' Apple Design Award del año pasado",
-      "resumen": "Apple adquirió una variedad de apps recientemente, y la última, Play, ganó el Apple Design Award 2025 en la categoría 'Innovation'.",
-      "porQueImporta": "Como usuario de Apple, es relevante ver qué tipo de innovaciones atraen a la compañía. Esto puede indicar futuras direcciones en el ecosistema de Apple y las funcionalidades que valoran.",
-      "publicadoEn": "2026-06-29T15:27:50.000Z",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "apple",
-        "apps",
-        "innovación",
-        "adquisición"
+        "IA",
+        "futuro del trabajo",
+        "reflexión"
       ],
       "tambienVistoEn": []
     },
@@ -347,19 +294,19 @@
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
       "categoria": "Apple",
       "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/06/29/how-thread-is-fixing-smart-home-networks-on-smart-home-insider?utm_source=rss",
-      "tituloOriginal": "How Thread is fixing smart home networks on Smart Home Insider",
-      "tituloLimpio": "Cómo Thread está mejorando las redes de hogar inteligente",
-      "resumen": "Esta semana en Smart Home Insider, Ann Olivo de Thread Group se une para hablar sobre el futuro del estándar inalámbrico y cómo está mejorando las redes de hogar inteligente.",
-      "porQueImporta": "Para Guido, interesado en herramientas y automatización, el avance de estándares como Thread en el hogar inteligente es relevante. Puede influir en la elección de dispositivos y en la integración de sistemas automatizados.",
-      "publicadoEn": "2026-06-29T15:12:02.000Z",
+      "url": "https://appleinsider.com/articles/26/06/29/dont-wait-to-update-ios-2652-includes-over-25-security-fixes-for-web-browsing?utm_source=rss",
+      "tituloOriginal": "Don't wait to update: iOS 26.5.2 includes over 25 security fixes for web browsing",
+      "tituloLimpio": "No esperes para actualizar: iOS 26.5.2 incluye más de 25 arreglos de seguridad para la navegación web",
+      "resumen": "La actualización iOS 26.5.2 de Apple agrega una variedad de arreglos para mantener tus datos seguros mientras navegás por la web. Acá tenés lo que necesitás saber y por qué deberías actualizar.",
+      "porQueImporta": "Como usuario de Apple, es crucial para Guido estar al tanto de las actualizaciones de seguridad de iOS para proteger sus dispositivos y datos personales.",
+      "publicadoEn": "2026-06-29T19:00:49.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "apple",
-        "hogar inteligente",
-        "automatización",
-        "tecnología"
+        "Apple",
+        "iOS",
+        "seguridad",
+        "actualización"
       ],
       "tambienVistoEn": []
     },
@@ -367,41 +314,19 @@
       "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
       "categoria": "Finance",
       "fuente": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/articles/stocks-adrift-oil-us-iran-014817134.html",
-      "tituloOriginal": "Stocks and oil prices edge up with eyes on Iran; yen touches 40-year low vs dollar",
-      "tituloLimpio": "Las acciones y los precios del petróleo suben con la mirada puesta en Irán; el yen toca mínimo de 40 años frente al dólar",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/h-m-closed-136-stores-012815718.html",
+      "tituloOriginal": "79-year-old fashion retailer closed 136 stores, killed one of its brands",
+      "tituloLimpio": "Minorista de moda de 79 años cerró 136 tiendas y eliminó una de sus marcas",
       "resumen": "",
-      "porQueImporta": "Como inversor, es crucial estar al tanto de los movimientos del mercado global. La debilidad del yen y la situación en Irán son factores que pueden influir en las decisiones de inversión y en el panorama económico general.",
-      "publicadoEn": "2026-06-29T15:22:14.000Z",
-      "imagen": "https://media.zenfs.com/en/reuters.com/9afd118fd9b70b7a9fad51bfb03f8958",
-      "globalScore": 94,
+      "porQueImporta": "Esta noticia, aunque breve, puede ser un indicador de tendencias en el sector minorista y el impacto en las empresas establecidas, lo cual es relevante para entender el panorama de negocios y posibles inversiones.",
+      "publicadoEn": "2026-06-29T01:28:15.000Z",
+      "imagen": "https://media.zenfs.com/en/thestreet_881/6c68c19348bf57d5cf2d0b2066bf45cc",
+      "globalScore": 92,
       "personalScore": 100,
       "tags": [
-        "finanzas",
-        "mercados",
-        "inversión",
-        "yen"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
-      "categoria": "Finance",
-      "fuente": "Yahoo Finance",
-      "url": "https://www.investors.com/news/technology/amazon-stock-gains-prime-day-cloud-price-hike/?src=A00220&yptr=yahoo",
-      "tituloOriginal": "Amazon Stock's Climb Leads Strong Day For Magnificent Seven",
-      "tituloLimpio": "El ascenso de las acciones de Amazon lidera un día fuerte para las 'Magníficas Siete'",
-      "resumen": "",
-      "porQueImporta": "Para Guido, interesado en inversiones, el desempeño de las 'Magníficas Siete' (grandes tecnológicas) es un indicador clave de la salud del mercado tecnológico y puede influir en sus decisiones de inversión en ETFs o acciones individuales.",
-      "publicadoEn": "2026-06-29T15:12:55.000Z",
-      "imagen": "https://media.zenfs.com/en/ibd.com/79737d30c6d5dd226bb6f31f7241ed32",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "finanzas",
-        "inversión",
-        "acciones",
-        "amazon"
+        "negocios",
+        "retail",
+        "mercado"
       ],
       "tambienVistoEn": []
     },
@@ -409,20 +334,20 @@
       "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
       "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/06/29/private-keys-not-smart-contracts-caused-40-of-crypto-s-usd16-billion-hack-losses-here-s-whats-being-done",
-      "tituloOriginal": "Private keys, not smart contracts, caused 40% of crypto's $16 billion hack losses. Here's whats being done.",
-      "tituloLimpio": "Claves privadas, no contratos inteligentes, causaron el 40% de las pérdidas por hackeos de 16 mil millones de dólares en cripto",
-      "resumen": "La industria se está moviendo para solucionar el problema de vulnerabilidad de las claves privadas, aunque no de manera uniforme, dijo Wish Wu, cofundador y CEO de Pharos.",
-      "porQueImporta": "Esta es una noticia crítica para Guido como inversor en cripto. Destaca un riesgo fundamental en la seguridad de los activos digitales y la necesidad de priorizar la protección de las claves privadas.",
-      "publicadoEn": "2026-06-29T15:45:18.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/49d26266043c2276a5271a8a4085b94f29c5b7f8-1500x844.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "url": "https://www.coindesk.com/business/2026/06/29/bitcoin-lending-is-entering-a-new-institutional-era-according-to-silicon-valley-bank",
+      "tituloOriginal": "Bitcoin lending is entering a new institutional era, according to Silicon Valley Bank",
+      "tituloLimpio": "El préstamo de Bitcoin entra en una nueva era institucional, según Silicon Valley Bank",
+      "resumen": "El banco dijo que el préstamo de bitcoin ha emergido del colapso del crédito cripto de 2022 con controles de riesgo más fuertes, creciente participación institucional y un camino hacia costos de endeudamiento más bajos.",
+      "porQueImporta": "Para Guido, interesado en inversiones, la institucionalización del préstamo de Bitcoin puede indicar una maduración del mercado cripto, lo que podría influir en sus decisiones de inversión o en la diversificación de su cartera.",
+      "publicadoEn": "2026-06-29T17:57:18.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/db7a50d5390093f48d2fc8699f90bd5c1e56f9ca-990x557.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
       "globalScore": 96,
       "personalScore": 100,
       "tags": [
         "finanzas",
-        "cripto",
-        "seguridad",
-        "hackeos"
+        "Bitcoin",
+        "inversión",
+        "cripto"
       ],
       "tambienVistoEn": []
     },
@@ -430,20 +355,41 @@
       "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
       "categoria": "Finance",
       "fuente": "CoinTelegraph",
-      "url": "https://cointelegraph.com/learn/claude-mythos-defi-hacks-ai-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "tituloOriginal": "Can AI drain DeFi? Separating Claude Mythos hype from reality",
-      "tituloLimpio": "¿Puede la IA agotar DeFi? Separando el hype de Claude Mythos de la realidad",
-      "resumen": "Claude Mythos generó preocupaciones sobre ataques impulsados por IA a protocolos DeFi. Sin embargo, las mismas herramientas de IA también están disponibles para equipos de seguridad, no solo para atacantes.",
-      "porQueImporta": "Para Guido, que invierte en cripto y trabaja con IA, es importante entender los riesgos y oportunidades que la IA presenta para la seguridad de DeFi. Muestra la doble cara de la tecnología en este sector.",
-      "publicadoEn": "2026-06-29T15:00:00.000Z",
-      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-the-claude-bitcoin-recovery-story-has-a-dangerous-lesson-for-crypto-users.jpg",
-      "globalScore": 94,
+      "url": "https://cointelegraph.com/news/bny-adds-usdc-minting-and-redemption-to-institutional-custody-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "BNY adds USDC minting and redemption to institutional custody platform",
+      "tituloLimpio": "BNY agrega acuñación y redención de USDC a su plataforma de custodia institucional",
+      "resumen": "La medida profundiza la asociación de BNY con Circle y se basa en el papel del banco como custodio principal de las reservas de USDC.",
+      "porQueImporta": "Esta noticia es relevante para Guido por su interés en finanzas y criptoactivos. La integración de USDC en una plataforma de custodia institucional como BNY Bank señala una mayor adopción y legitimidad de las stablecoins en el sector financiero tradicional.",
+      "publicadoEn": "2026-06-29T16:10:09.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-sbuidl-okx-tokenized-treasury-fund.png",
+      "globalScore": 90,
       "personalScore": 100,
       "tags": [
-        "ia",
+        "finanzas",
         "cripto",
-        "defi",
-        "seguridad"
+        "USDC",
+        "inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/ypf-sumo-socios-globales-gas-licuado-exportara-vaca-muerta_0_4yvVR0MIFN.html",
+      "tituloOriginal": "YPF sumó a dos socios globales para el gas licuado que exportará Vaca Muerta",
+      "tituloLimpio": "YPF sumó a dos socios globales para el gas licuado que exportará Vaca Muerta",
+      "resumen": "YPF acordó la estructura societaria con la italiana Eni y la emiratí XRG para el desarrollo del upstream del proyecto Argentina LNG. La transacción está sujeta a la aprobación del gobierno neuquino a cargo de Rolando Figueroa.",
+      "porQueImporta": "Esta es una noticia clave para Argentina, ya que implica una inversión significativa en Vaca Muerta y la exportación de gas, lo que puede tener un impacto positivo en la economía nacional y en el mercado energético.",
+      "publicadoEn": "2026-06-29T17:19:28.000Z",
+      "imagen": "https://www.clarin.com/img/2025/08/18/IC4q62ov__1200x630__1.jpg",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Vaca Muerta",
+        "energía",
+        "inversión"
       ],
       "tambienVistoEn": []
     },
@@ -451,40 +397,20 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/06/29/economia-completo-la-colocacion-del-bonar-2028-y-tiene-casi-todos-los-dolares-para-el-vencimiento-del-9-de-julio/",
-      "tituloOriginal": "Economía completó la colocación del Bonar 2028 y tiene casi todos los dólares para el vencimiento del 9 de julio",
-      "tituloLimpio": "Economía completó la colocación del Bonar 2028 y tiene casi todos los dólares para el vencimiento del 9 de julio",
-      "resumen": "Este lunes se llevó a cabo la segunda vuelta y la Secretaría de Finanzas obtuvo USD 100 millones. Cuánto hay en la cuenta del Tesoro y qué operación puede hacer el BCRA para los dólares que faltan.",
-      "porQueImporta": "Esta noticia es relevante para Guido por su interés en la economía argentina y las finanzas. Indica la capacidad del gobierno para afrontar vencimientos de deuda, lo que puede influir en la estabilidad económica y el tipo de cambio.",
-      "publicadoEn": "2026-06-29T15:43:38.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/JCNUP2ROARFCBHI57PAOOTEX4I.jpg?auth=a653aa0a0fc68ca43189317cc5ad21aaedf717c95602642ed08b5f8ad0227e0d&smart=true&width=1920&height=1080",
-      "globalScore": 94,
+      "url": "https://www.infobae.com/economia/2026/06/29/el-dolar-volvio-a-subir-y-toco-su-precio-mas-elevado-en-ocho-meses/",
+      "tituloOriginal": "El dólar volvió a subir y tocó su precio más elevado en ocho meses",
+      "tituloLimpio": "El dólar volvió a subir y tocó su precio más elevado en ocho meses",
+      "resumen": "Con un fuerte volumen operado de más de USD 800 millones, la cotización mayorista se pactó a $1.481,50, un máximo desde el 3 de noviembre. Al púbico en el Banco Nación siguió a $1.495",
+      "porQueImporta": "La suba del dólar es una noticia económica fundamental en Argentina, afectando el poder adquisitivo, los costos de importación y la estabilidad financiera, lo cual es de interés general para Guido.",
+      "publicadoEn": "2026-06-29T18:49:47.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/C4MW4ZNIHZENTJ7AG6Q3U3FP2U.JPG?auth=0fca26884ba0571ddc001ec2c37edb865f1467beb538441a93afd7279ecdd30a&smart=true&width=2985&height=1935",
+      "globalScore": 90,
       "personalScore": 100,
       "tags": [
-        "argentina",
+        "Argentina",
         "economía",
-        "finanzas",
-        "deuda"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
-      "categoria": "Argentina",
-      "fuente": "Infobae Politica",
-      "url": "https://www.infobae.com/politica/2026/06/29/la-justicia-les-prohibio-salir-del-pais-a-martin-insaurralde-y-a-jesica-cirio/",
-      "tituloOriginal": "La Justicia les prohibió salir del país a Martín Insaurralde y a Jesica Cirio",
-      "tituloLimpio": "La Justicia les prohibió salir del país a Martín Insaurralde y a Jesica Cirio",
-      "resumen": "La decisión fue tomada por el juez Luis Armella, quien no hizo lugar al pedido de detención que había realizado el fiscal federal Sergio Mola.",
-      "porQueImporta": "Esta noticia es de interés general en Argentina y refleja el estado de la justicia y la política en el país. Aunque no impacta directamente en sus finanzas o trabajo, es parte del contexto local.",
-      "publicadoEn": "2026-06-29T15:21:44.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/EJLBXL7SG5FTHMLZHHEQKCFJD4.jpg?auth=0d67124bc08cbcadbca5d7195d58f1932c461a37a6de95a478bed27a45249387&smart=true&width=1920&height=1080",
-      "globalScore": 98,
-      "personalScore": 100,
-      "tags": [
-        "argentina",
-        "política",
-        "justicia"
+        "dólar",
+        "mercado"
       ],
       "tambienVistoEn": []
     },
@@ -492,26 +418,45 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/campo/mas-de-200-milimetros-en-pocas-horas-un-temporal-encendio-las-alarmas-en-misiones-y-hay-preocupacion-nid29062026/",
-      "tituloOriginal": "Más de 200 milímetros en pocas horas: un temporal encendió las alarmas en Misiones y hay preocupación por El Niño",
-      "tituloLimpio": "Más de 200 milímetros en pocas horas: un temporal encendió las alarmas en Misiones y hay preocupación por El Niño",
-      "resumen": "En Colonia Aurora cayó un volumen excepcional de agua y en San Javier se registraron unos 160 milímetros; los productores ya empezaron a mover la hacienda a zonas más altas mientras miran con preocupación lo que pueda pasar en los próximos meses.",
-      "porQueImporta": "Aunque es una noticia regional, los fenómenos climáticos extremos y la preocupación por El Niño pueden tener un impacto económico más amplio en Argentina, afectando la producción y los precios, lo cual es relevante para el panorama financiero general.",
-      "publicadoEn": "2026-06-29T15:44:40.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/55TYRRI25BHCBPCZEV4PBKSW5E.png?auth=930643928c8ca4fcf17ead83cef00664277836b2083d262a689bc3739e84e757&smart=true&width=2000&height=1333",
-      "globalScore": 98,
+      "url": "https://www.lanacion.com.ar/economia/el-gobierno-termino-de-colocar-el-bonar-28-y-ya-se-aseguro-unos-us4000-millones-nid29062026/",
+      "tituloOriginal": "El Gobierno terminó de colocar el Bonar 28 y ya se aseguró unos US$4000 millones",
+      "tituloLimpio": "El Gobierno terminó de colocar el Bonar 28 y ya se aseguró unos US$4000 millones",
+      "resumen": "Captó otros US$97 millones y tiene cubierto el 90% del pago del 9 de julio a acreedores privados",
+      "porQueImporta": "Esta noticia financiera es relevante para Guido por su interés en inversiones y la economía argentina. La colocación exitosa de deuda y la cobertura de pagos a acreedores son indicadores de la gestión económica del país.",
+      "publicadoEn": "2026-06-29T18:55:27.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/JCAU7ONCJFEP5JRVQVV3JAYKHI.jpg?auth=8e72c2ccf0e180e799330f807eb93a4762286e822d2155a674bde4a4f1b3568a&smart=true&width=2000&height=1333",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "clima",
-        "economía",
-        "campo"
+        "Argentina",
+        "finanzas",
+        "bonos",
+        "inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "fuente": "Adweek",
+      "url": "https://www.adweek.com/commerce/when-every-moment-becomes-a-shopping-moment/",
+      "tituloOriginal": "When Every Moment Becomes a Shopping Moment",
+      "tituloLimpio": "Cuando cada momento se convierte en un momento de compra",
+      "resumen": "Esta publicación fue creada en asociación con Roundel. El shopping ya no comienza en un solo lugar, ni sigue un camino predecible.",
+      "porQueImporta": "Para Guido, interesado en marketing, esta noticia explora la evolución del comportamiento del consumidor y las oportunidades que surgen cuando cada interacción puede ser un 'momento de compra', lo que puede influir en estrategias de marketing y ventas.",
+      "publicadoEn": "2026-06-29T14:52:01.000Z",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "consumidor",
+        "tendencias"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-06-29T15:52:42.890Z"
+    "generadoEn": "2026-06-29T19:04:39.165Z"
   }
 }
