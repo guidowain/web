@@ -1,83 +1,79 @@
 {
   "fecha": "2026-06-30",
-  "generadoEn": "2026-06-30T14:25:48.446Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "El dólar minorista en Argentina alcanzó los $1.500, mientras que el transporte público subirá un 4,1% desde el 1 de julio. En tecnología, se esperan cambios importantes en el Apple Watch para el próximo año y se lanzó una actualización para el chatbot de IA de Proton, Lumo. La IA sigue siendo un tema central, con debates sobre su aplicación en la agricultura y su impacto en las agencias de marketing.",
+  "generadoEn": "2026-06-30T18:56:28.920Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Hoy, el dólar en Argentina superó a la inflación por primera vez desde octubre de 2025, alcanzando los $1.500. A nivel nacional, el Gobierno aprobó un RIGI de US$ 4.521 millones para Pampa Energía en Vaca Muerta y se anunció a Santilli como nuevo jefe de Gabinete. En el ámbito tecnológico, Apple lanzó iPhones 16e reacondicionados a precios más bajos en EE.UU., y Anthropic actualizó su modelo Claude Sonnet. La inteligencia artificial sigue expandiéndose, con noticias sobre su uso en la voz de Gene Wilder para un show de Netflix y el crecimiento de competidores de Nvidia en chips de IA. También se destaca la importancia de la IA en la agricultura, aunque con desafíos en los datos.",
   "radarPersonal": [
     {
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "Aumenta el transporte público en Argentina desde el 1 de julio",
-      "resumen": "La suba será del 4,1% y el ajuste combina el 2,1% del Índice de Precios al Consumidor (IPC) de mayo más un 2% adicional.",
+      "titulo": "Melconian criticó el plan económico de Milei: \"Los dólares de Vaca Muerta terminan en Miami\"",
+      "resumen": "Carlos Melconian afirmó que la economía argentina está en una 'economía gris' y de dos velocidades distintas, y destacó la disyuntiva entre inflación y actividad que el Gobierno deberá resolver.",
       "categoria": "Argentina",
       "fuentes": [
         "Ambito"
       ],
       "urls": [
-        "https://www.ambito.com/economia/manana-aumenta-el-transporte-publico-cuanto-costaran-colectivos-subtes-y-peajes-el-1-julio-n6294352"
+        "https://www.ambito.com/economia/carlos-melconian-cruzo-javier-milei-el-plan-economico-los-dolares-vaca-muerta-terminan-miami-n6294453"
       ],
       "score": 100,
       "tags": [
-        "transporte",
-        "aumento",
-        "argentina",
-        "economia"
+        "economia",
+        "milei",
+        "vaca muerta"
+      ]
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "titulo": "El Gobierno aprobó un RIGI de US$ 4.521 millones para Pampa y extendió la concesión de una represa hidroeléctrica",
+      "resumen": "Se aprobó un RIGI para Rincón de Aranda, donde la empresa ampliará su producción de petróleo crudo. Es el primer OK de un RIGI para producción en Vaca Muerta.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Clarin Economia"
+      ],
+      "urls": [
+        "https://www.clarin.com/economia/gobierno-aprobo-rigi-us-4521-millones-mindlin-extendio-concesion-represa-hidroelectrica_0_w96BNKwnNG.html"
+      ],
+      "score": 100,
+      "tags": [
+        "rigi",
+        "inversion",
+        "vaca muerta"
       ]
     },
     {
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
-      "titulo": "El dólar minorista en Argentina sube y alcanza los $1.500",
-      "resumen": "El billete al público sigue ofrecido a $1.495 para la venta en el Banco Nación. El blue es pactado a $1.510.",
+      "titulo": "El dólar subió 5% en junio y le ganó a la inflación por primera vez desde octubre de 2025",
+      "resumen": "El billete al público alcanzó los 1.500 pesos en el Banco Nación, su precio más alto en ocho meses. En la rueda mayorista cerró a $1.482, con un importante volumen de contado.",
       "categoria": "Argentina",
       "fuentes": [
         "Infobae Economia"
       ],
       "urls": [
-        "https://www.infobae.com/economia/2026/06/30/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-martes-30-de-junio/"
+        "https://www.infobae.com/economia/2026/06/30/el-dolar-subio-5-en-junio-y-le-gano-a-la-inflacion-por-primera-vez-desde-octubre-de-2025/"
       ],
       "score": 100,
       "tags": [
         "dolar",
-        "economia",
-        "argentina",
+        "inflacion",
         "mercado"
       ]
     },
     {
-      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
-      "titulo": "El Apple Watch tendría un rediseño importante el próximo año",
-      "resumen": "Se rumorea que la línea 'Series' del Apple Watch podría recibir grandes actualizaciones el próximo año.",
-      "categoria": "Apple",
-      "fuentes": [
-        "9to5Mac"
-      ],
-      "urls": [
-        "https://9to5mac.com/2026/06/30/apple-watch-to-get-major-overhaul-next-year-says-leaker/"
-      ],
-      "score": 100,
-      "tags": [
-        "apple",
-        "apple watch",
-        "diseño",
-        "rumores"
-      ]
-    },
-    {
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "titulo": "Lumo, el chatbot de IA de Proton enfocado en la privacidad, recibe una actualización",
-      "resumen": "Proton's Lumo 2.0 se lanza esta semana, ofreciendo a los usuarios una variedad más amplia de capacidades.",
+      "titulo": "Competidor de Nvidia, Etched, alcanza una valuación de $5B y $1B en ventas de chips de IA",
+      "resumen": "Etched, un competidor de Nvidia en chips de IA, afirma haber contratado ya $1.000 millones en sistemas de inferencia impulsados por su chip.",
       "categoria": "AI",
       "fuentes": [
         "TechCrunch AI"
       ],
       "urls": [
-        "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/"
+        "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/"
       ],
       "score": 100,
       "tags": [
         "ia",
-        "chatbot",
-        "privacidad",
-        "proton"
+        "chips",
+        "mercado"
       ]
     },
     {
@@ -95,48 +91,83 @@
       "tags": [
         "ia",
         "agricultura",
-        "datos",
-        "industria"
+        "datos"
       ]
     }
   ],
   "loImportante": [
-    "El dólar minorista en Argentina alcanzó los $1.500, marcando un nuevo hito.",
-    "El transporte público en Argentina subirá un 4,1% a partir del 1 de julio.",
-    "Se anticipa un rediseño importante para el Apple Watch el próximo año.",
-    "La IA de Proton, Lumo, recibió una actualización con más funcionalidades y foco en la privacidad.",
-    "La aplicación de IA en la agricultura es prometedora, pero la calidad de los datos es un desafío."
+    "El dólar en Argentina superó a la inflación en junio, un dato clave para la economía local.",
+    "Se aprobó el primer RIGI para producción en Vaca Muerta, lo que podría impulsar inversiones en energía.",
+    "La IA sigue avanzando, con nuevos modelos y competidores de peso en el mercado de chips.",
+    "El uso de IA en la voz de Gene Wilder en un show de Netflix muestra la expansión de la tecnología en el entretenimiento.",
+    "La desregulación en Argentina busca impactar en el transporte marítimo y otros sectores."
   ],
   "oportunidades": [
     {
-      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
-      "categoria": "Marketing",
-      "titulo": "La IA está remodelando las agencias de marketing",
-      "detalle": "La IA ya está transformando la forma en que las agencias hacen negocios, y se esperan cambios aún mayores.",
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "Investing",
+      "titulo": "Inversión en chips de IA: Etched, competidor de Nvidia, con valuación de $5B y $1B en ventas",
+      "detalle": "La empresa Etched, que compite con Nvidia en chips de IA, ya tiene $1.000 millones en ventas contratadas para sus sistemas de inferencia. Esto indica un mercado en expansión y oportunidades para quienes invierten en tecnología de IA.",
       "acciones": [
-        "Evaluar cómo integrar la IA en los procesos de retoque fotográfico y arte con IA.",
-        "Investigar herramientas de IA para automatizar tareas de marketing y gestión de proyectos."
+        "Investigar ETFs o fondos que incluyan empresas de chips de IA o competidores de Nvidia.",
+        "Monitorear el crecimiento de Etched y otras startups en el sector de hardware de IA."
+      ]
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "titulo": "IA en agricultura: potencial de transformación a pesar de desafíos en datos",
+      "detalle": "La inteligencia artificial tiene un gran potencial para transformar la agricultura, especialmente en un contexto de costos volátiles y clima impredecible. Aunque los datos son un desafío, la oportunidad de optimizar procesos y predecir resultados es enorme.",
+      "acciones": [
+        "Explorar herramientas de IA para análisis de datos y automatización en sectores relacionados con la agricultura.",
+        "Considerar el desarrollo de soluciones de IA que ayuden a organizar y procesar datos agrícolas."
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "El patriotismo como estrategia de marca: una nueva lente para los consumidores",
+      "detalle": "Los consumidores definen las marcas patrióticas de una manera más amplia que los especialistas en marketing. Esto sugiere una oportunidad para desarrollar estrategias de branding que conecten con valores locales o nacionales de forma auténtica y diversa.",
+      "acciones": [
+        "Revisar cómo las marcas pueden integrar valores culturales o locales en su estrategia de marketing.",
+        "Analizar ejemplos de marcas que han logrado conectar con el 'patriotismo' de los consumidores de manera efectiva."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "categoria": "AI",
-      "titulo": "La falta de datos adecuados frena la adopción de IA en sectores clave",
-      "detalle": "Aunque la agricultura está lista para la IA, la calidad y disponibilidad de sus datos no lo están, lo que puede generar inversiones ineficaces.",
-      "mitigacion": "Asegurarse de tener datos limpios y estructurados antes de implementar soluciones de IA en proyectos personales o de clientes."
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Market",
+      "titulo": "Incertidumbre económica en Argentina: 'economía gris' y disyuntiva inflación-actividad",
+      "detalle": "La afirmación de Carlos Melconian sobre una 'economía gris' y la disyuntiva entre inflación y actividad económica en Argentina, de cara al año electoral, presenta un riesgo de volatilidad e incertidumbre para inversiones y negocios en el país.",
+      "mitigacion": "Mantener una cartera de inversiones diversificada y monitorear de cerca los indicadores económicos y las políticas gubernamentales en Argentina. Considerar inversiones en activos que actúen como refugio ante la inflación."
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Platform",
+      "titulo": "Funcionalidades de Apple Pay restringidas geográficamente",
+      "detalle": "La nueva función de American Express para usar puntos Membership Rewards directamente en Apple Pay checkout está disponible para 'eligible cardholders' en EE.UU. Esto resalta el riesgo de que Guido no pueda acceder a beneficios o funcionalidades de Apple Pay que son exclusivas de otros mercados, limitando el uso de la plataforma.",
+      "mitigacion": "Estar atento a los anuncios de Apple y sus socios sobre la expansión de servicios a Argentina. Buscar alternativas locales o globales que no dependan de la región del usuario para aprovechar al máximo las herramientas de pago digital."
     }
   ],
   "conexiones": [
     {
-      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
-      "titulo": "El patriotismo como estrategia de marca y su relación con la percepción del consumidor",
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "IA para la productividad y el desarrollo de 'trailblazers'",
       "historias": [
-        "Los consumidores definen las marcas patrióticas con una visión más amplia que los especialistas en marketing.",
-        "La identidad de marca y la conexión emocional con el público son cruciales."
+        "Google UK comparte su informe de impacto económico y cómo habilitar a más personas para desbloquear los beneficios de las tecnologías impulsadas por IA.",
+        "La agricultura está lista para la IA, pero sus datos no, lo que indica un desafío en la implementación a pesar del potencial de productividad."
       ],
-      "conclusion": "Para Guido, que trabaja en arte con IA y retoque, entender cómo las marcas construyen su identidad y conectan con el público es clave. Esto puede influir en cómo presenta su propio trabajo o el de sus clientes, especialmente si busca resonar con un público local o con ciertos valores."
+      "conclusion": "Google destaca el potencial de la IA para la productividad y la formación de líderes en el Reino Unido, lo que se alinea con la necesidad de preparar la infraestructura de datos para aprovechar al máximo la IA en sectores como la agricultura, donde el impacto en la productividad podría ser significativo."
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "titulo": "Cambios en el Gabinete y tensiones políticas en Argentina",
+      "historias": [
+        "Santilli asume como jefe de Gabinete: la amplia convocatoria y el fastidio de un sector del Gobierno con el PRO.",
+        "Bianco anticipó que la provincia de Buenos Aires reclamará a Santilli las 'deudas' de la Nación: 'Nos borraron del mapa'."
+      ],
+      "conclusion": "La asunción de Santilli como jefe de Gabinete genera tanto expectativas de una 'amplia convocatoria' como tensiones políticas, evidenciadas por el reclamo de la provincia de Buenos Aires sobre 'deudas' de la Nación. Esto sugiere un panorama político complejo y posibles fricciones en la gestión."
     }
   ],
   "noticias": [
@@ -146,9 +177,9 @@
       "fuente": "Google AI Blog",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
       "tituloOriginal": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-      "tituloLimpio": "Google UK comparte su informe de impacto económico y cómo la IA puede impulsar la productividad",
-      "resumen": "Google UK comparte su último Informe de Impacto Económico y cómo habilitar a más personas para que aprovechen los beneficios de las tecnologías impulsadas por IA.",
-      "porQueImporta": "Aunque se centra en el Reino Unido, la discusión sobre cómo la IA puede mejorar la productividad es relevante para Guido, quien busca herramientas y automatización en su trabajo.",
+      "tituloLimpio": "Google UK comparte informe sobre el impacto económico de la IA y la productividad",
+      "resumen": "Google UK comparte su último informe de impacto económico y cómo habilitar a más personas para desbloquear los beneficios de las tecnologías impulsadas por IA.",
+      "porQueImporta": "Muestra cómo la IA puede impulsar la productividad y el desarrollo de habilidades, un tema relevante para Guido en su trabajo con IA y automatización.",
       "publicadoEn": "2026-06-30T06:00:00.000Z",
       "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp",
       "globalScore": 100,
@@ -156,8 +187,26 @@
       "tags": [
         "ia",
         "productividad",
-        "google",
-        "tecnologia"
+        "economia"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/30/apple-refurbished-iphone-16e/",
+      "tituloOriginal": "Apple Now Sells Refurbished iPhone 16e Starting at $419",
+      "tituloLimpio": "Apple vende iPhone 16e reacondicionados desde $419 en EE.UU.",
+      "resumen": "Apple actualizó su tienda online de reacondicionados en Estados Unidos, agregando el iPhone 16e. Los modelos reacondicionados están disponibles a precios con descuento por primera vez desde su lanzamiento en febrero de 2025.",
+      "porQueImporta": "Aunque es una oferta para EE.UU., es una señal de la estrategia de Apple de ofrecer productos más accesibles, lo que podría tener un impacto global en el futuro o influir en el mercado de segunda mano.",
+      "publicadoEn": "2026-06-30T18:06:37.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "iphone",
+        "reacondicionado"
       ],
       "tambienVistoEn": []
     },
@@ -167,17 +216,16 @@
       "fuente": "Sherwood",
       "url": "https://sherwood.news/markets/rocket-lab-deal-lifts-space-stocks/",
       "tituloOriginal": "Rocket Lab deal lifts space stocks",
-      "tituloLimpio": "Un acuerdo de Rocket Lab impulsa las acciones del sector espacial",
+      "tituloLimpio": "Acuerdo de Rocket Lab impulsa acciones del sector espacial",
       "resumen": "La gerencia de Rocket Lab calificó la compra como un 'atajo' para su negocio de comunicaciones satelitales.",
-      "porQueImporta": "Interesante para Guido por su interés en inversiones, ya que muestra cómo un acuerdo específico puede impactar un sector completo del mercado.",
+      "porQueImporta": "Interesante para Guido por su interés en inversiones y mercados, ya que muestra el impacto de movimientos corporativos en sectores tecnológicos emergentes como el espacial.",
       "publicadoEn": "2026-06-29T15:53:09.000Z",
       "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/2269754330_in-this-photo-illustration-a-rocketlab-logo-is-seen-displayed-on-a-smartphone-and-in-the.jpg",
-      "globalScore": 96,
+      "globalScore": 90,
       "personalScore": 100,
       "tags": [
-        "inversiones",
+        "inversion",
         "mercado",
-        "acciones",
         "espacio"
       ],
       "tambienVistoEn": []
@@ -188,16 +236,15 @@
       "fuente": "Marketing Dive",
       "url": "https://www.marketingdive.com/news/patriotism-is-no-longer-a-campaign-its-a-branding-strategy/823127/",
       "tituloOriginal": "Patriotism is no longer a campaign — it’s a branding strategy",
-      "tituloLimpio": "El patriotismo es ahora una estrategia de marca, no solo una campaña",
-      "resumen": "Los consumidores definen las marcas patrióticas con una visión más amplia que los especialistas en marketing.",
-      "porQueImporta": "Relevante para Guido por su interés en marketing, ya que destaca una tendencia en cómo las marcas construyen su identidad y conectan con el público.",
+      "tituloLimpio": "El patriotismo se convierte en estrategia de branding",
+      "resumen": "Los consumidores definen las marcas patrióticas a través de una lente más amplia que los especialistas en marketing.",
+      "porQueImporta": "Relevante para Guido por su interés en marketing, ya que explora nuevas tendencias en cómo las marcas conectan con los consumidores.",
       "publicadoEn": "2026-06-30T13:51:00.000Z",
       "globalScore": 96,
       "personalScore": 100,
       "tags": [
         "marketing",
         "branding",
-        "estrategia",
         "consumidor"
       ],
       "tambienVistoEn": []
@@ -206,101 +253,77 @@
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
       "fuente": "The Verge AI",
-      "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
-      "tituloOriginal": "Meet the lawyer who beat Elon Musk — twice",
-      "tituloLimpio": "Conocé al abogado que le ganó a Elon Musk dos veces",
-      "resumen": "Ver a Elon Musk enfurecerse con Bill Savitt durante el caso Musk contra Altman fue un poco como ver a un niño pequeño hacer un berrinche.",
-      "porQueImporta": "Una noticia de interés general que muestra la dinámica legal y personal en el ámbito de la IA, con un personaje como Elon Musk.",
-      "publicadoEn": "2026-06-30T12:00:00.000Z",
+      "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
+      "tituloOriginal": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
+      "tituloLimpio": "Netflix usa voz de Gene Wilder generada por IA en su reality show de Willy Wonka",
+      "resumen": "Un nuevo tráiler confirmó que 'Wonka's The Golden Ticket' se estrenará en Netflix el 23 de septiembre. La voz en off es generada por IA.",
+      "porQueImporta": "Muestra una aplicación concreta y llamativa de la IA en el entretenimiento, relevante para Guido por su trabajo con IA y arte.",
+      "publicadoEn": "2026-06-30T17:19:15.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "elon musk",
         "ia",
-        "legal",
-        "noticias generales"
+        "entretenimiento",
+        "arte"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Apple",
-      "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/25/06/30/apple-musics-ten-years-billions-of-dollars-in-fines-and-one-failure?utm_source=rss",
-      "tituloOriginal": "Apple Music's billions of streams, billions of dollars in fines, and one failure",
-      "tituloLimpio": "Apple Music: diez años, miles de millones en multas y un fracaso",
-      "resumen": "El 30 de junio de 2015, Apple lanzó Apple Music, que ha brindado placer musical a millones, una función de redes sociales que probablemente no recuerdes y le costó a Apple miles de millones en multas.",
-      "porQueImporta": "Un repaso histórico sobre un producto clave de Apple, relevante para Guido por su interés en la marca y en cómo evolucionan sus servicios.",
-      "publicadoEn": "2026-06-30T14:14:39.000Z",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/30/anthropic-upgrades-claude-with-new-sonnet-5-model-details-here/",
+      "tituloOriginal": "Anthropic upgrades Claude with new Sonnet 5 model, details here",
+      "tituloLimpio": "Anthropic actualiza Claude con el nuevo modelo Sonnet 5",
+      "resumen": "Anthropic está actualizando Claude Sonnet, reemplazando Sonnet 4.6 con Sonnet 5 como el mejor modelo de tamaño mediano.",
+      "porQueImporta": "Importante para Guido por su interés en IA, ya que es una actualización de un modelo de lenguaje clave y puede influir en herramientas y automatización.",
+      "publicadoEn": "2026-06-30T17:57:51.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "apple",
-        "apple music",
-        "historia",
-        "servicios"
+        "ia",
+        "modelos de lenguaje",
+        "actualizacion"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
-      "fuente": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/carbon-underwriting-secures-ftv-capital-141913297.html",
-      "tituloOriginal": "Carbon Underwriting secures FTV Capital investment",
-      "tituloLimpio": "Carbon Underwriting asegura inversión de FTV Capital",
-      "resumen": "",
-      "porQueImporta": "Noticia de finanzas que indica movimientos de capital en el mercado, relevante para el interés de Guido en inversiones.",
-      "publicadoEn": "2026-06-30T14:19:13.000Z",
-      "imagen": "https://media.zenfs.com/en/life_insurance_international_186/a7cbc9dde43a7ffe6f1bb2ecd340bdea",
-      "globalScore": 94,
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/06/30/why-the-openusd-s-real-threat-that-tanked-circle-stock-still-faces-a-steep-uphill-battle-for-adoption",
+      "tituloOriginal": "Why OpenUSD's 'real threat' that tanked Circle stock still faces a steep uphill battle for adoption",
+      "tituloLimpio": "OpenUSD enfrenta desafíos para su adopción a pesar de ser una 'amenaza real' para Circle",
+      "resumen": "El consorcio de stablecoins respaldado por Stripe y Coinbase puede desafiar el modelo de negocio de Circle, pero los analistas dicen que construir una red es más difícil que reunir socios de renombre.",
+      "porQueImporta": "Relevante para Guido por su interés en finanzas y mercados, ya que aborda la competencia y los desafíos en el espacio de las criptomonedas y stablecoins.",
+      "publicadoEn": "2026-06-30T18:39:06.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/ed70ddc2c8f0585a4bb58715fca8c57501146afa-1367x769.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 92,
       "personalScore": 100,
       "tags": [
         "finanzas",
-        "inversiones",
-        "capital"
+        "criptomonedas",
+        "stablecoin"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
       "categoria": "Finance",
-      "fuente": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-economic-data-aerovironment-avav/?src=A00220&yptr=yahoo",
-      "tituloOriginal": "Stock Market Today: Dow Wobbles Amid Key Economic Data; AeroVironment Soars On Earnings (Live Coverage)",
-      "tituloLimpio": "El mercado de valores hoy: el Dow Jones fluctúa en medio de datos económicos clave",
-      "resumen": "",
-      "porQueImporta": "Información sobre el estado actual del mercado de valores, útil para Guido por su interés en ETFs y mercados.",
-      "publicadoEn": "2026-06-30T13:46:25.000Z",
-      "imagen": "https://media.zenfs.com/en/ibd.com/6681ba47464c8e51c9d4e56a07440051",
-      "globalScore": 94,
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/nasdaq-brings-proprietary-market-data-onchain-through-pyth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Nasdaq brings proprietary market data onchain through Pyth",
+      "tituloLimpio": "Nasdaq lleva datos de mercado propietarios a la cadena a través de Pyth",
+      "resumen": "La asociación extiende la distribución de los datos de mercado TotalView de Nasdaq a aplicaciones blockchain y otras plataformas de software a través del marketplace de Pyth.",
+      "porQueImporta": "Interesante para Guido por su interés en finanzas y tecnología, ya que muestra la integración de datos de mercado tradicionales con la tecnología blockchain.",
+      "publicadoEn": "2026-06-30T18:46:29.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-cryptocurrency-vs-stocks-breaking-news.png",
+      "globalScore": 90,
       "personalScore": 100,
       "tags": [
-        "mercado",
         "finanzas",
-        "dow jones",
-        "economia"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
-      "categoria": "Argentina",
-      "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-martes-30-junio_0_JmfTtEbXbx.html",
-      "tituloOriginal": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este martes 30 de junio",
-      "tituloLimpio": "Dólar hoy: cotización del oficial y los diferentes tipos de cambio este martes 30 de junio",
-      "resumen": "Desde el oficial hasta el blue y el turista, todos los tipos de cambio. Mirá la cotización minuto a minuto.",
-      "porQueImporta": "Información esencial para cualquier residente en Argentina, directamente relacionada con la economía local y el poder adquisitivo.",
-      "publicadoEn": "2026-06-30T12:00:01.000Z",
-      "imagen": "https://www.clarin.com/img/2020/03/04/XTskgx7L_1200x630__1.jpg",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "dolar",
-        "argentina",
-        "economia",
-        "cotizacion"
+        "blockchain",
+        "datos"
       ],
       "tambienVistoEn": []
     },
@@ -308,21 +331,19 @@
       "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Politica",
-      "url": "https://www.clarin.com/politica/gobierno-kicillof-dice-llegada-santilli-mejorara-relacion-milei-decision-presidente-borrar-mapa-provincia_0_ceqyf4VFW0.html",
-      "tituloOriginal": "El Gobierno de Kicillof dice que la llegada de Santilli no mejorará la relación con Milei: \"Es una decisión del Presidente borrar del mapa a la Provincia\"",
-      "tituloLimpio": "El Gobierno de Kicillof dice que la llegada de Santilli no mejorará la relación con Milei",
-      "resumen": "El ministro de Gobierno bonaerense volvió a reclamar por fondos adeudados por Nación.",
-      "porQueImporta": "Noticia política local que refleja las tensiones entre el gobierno nacional y provincial, impactando el contexto económico y social de Argentina.",
-      "publicadoEn": "2026-06-30T13:02:04.000Z",
-      "imagen": "https://www.clarin.com/img/2025/10/19/47WMV1O4i_1200x630__1.jpg",
-      "globalScore": 94,
+      "url": "https://www.clarin.com/politica/senado-avanza-pliegos-judiciales-ex-secretario-juez-ariel-lijo-designado-juzgado-clave_0_0bLDrJLB9z.html",
+      "tituloOriginal": "El Senado avanza con los pliegos judiciales y el ex secretario del juez Ariel Lijo sería designado para un juzgado clave",
+      "tituloLimpio": "El Senado avanza con pliegos judiciales; ex secretario de Lijo sería designado juez",
+      "resumen": "Juan Rodríguez Ponte tendría acuerdo para asumir como juez federal de Lomas de Zamora. Se haría cargo de una causa vinculada al Chiqui Tapia como así también del caso de Insaurralde y Jesica Cirio.",
+      "porQueImporta": "Noticia de política argentina que impacta en el ámbito judicial y en figuras públicas, relevante para entender el contexto local.",
+      "publicadoEn": "2026-06-30T17:40:52.000Z",
+      "imagen": "https://www.clarin.com/img/2026/05/22/U_5xewhcv_1200x630__1.jpg",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "argentina",
         "politica",
-        "gobierno",
-        "kicillof",
-        "milei"
+        "justicia"
       ],
       "tambienVistoEn": []
     },
@@ -330,20 +351,19 @@
       "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Politica",
-      "url": "https://www.infobae.com/politica/2026/06/30/javier-milei-ira-hoy-a-la-residencia-del-embajador-de-los-estados-unidos-y-sera-el-primer-presidente-argentino-en-celebrar-alli-el-4-de-julio/",
-      "tituloOriginal": "Javier Milei irá hoy a la residencia del embajador de los Estados Unidos y será el primer presidente argentino en celebrar allí el 4 de julio",
-      "tituloLimpio": "Javier Milei irá hoy a la residencia del embajador de Estados Unidos para celebrar el 4 de julio",
-      "resumen": "El Presidente estará esta noche en el acto por el Día de la Independencia. Asistirá luego de tomarle juramento a Diego Santilli como nuevo jefe de Gabinete.",
-      "porQueImporta": "Noticia política relevante sobre la agenda del presidente argentino y sus relaciones internacionales.",
-      "publicadoEn": "2026-06-30T14:11:01.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/YNE2PSG3OBEDVJJ6DZEHJW4VUA.jpeg?auth=bad66a20d19edf1bf6cb25b113c43c10950f1c432d431b3333d0f04d17ab1c46&smart=true&width=4160&height=2773",
-      "globalScore": 94,
+      "url": "https://www.infobae.com/politica/2026/06/30/santilli-asume-como-jefe-de-gabinete-la-amplia-convocatoria-y-el-fastidio-de-un-sector-del-gobierno-con-el-pro/",
+      "tituloOriginal": "Santilli asume como jefe de Gabinete: la amplia convocatoria y el fastidio de un sector del Gobierno con el PRO",
+      "tituloLimpio": "Santilli asume como jefe de Gabinete en medio de amplia convocatoria y fastidio del PRO",
+      "resumen": "Javier Milei le tomará juramento al funcionario que reemplazará a Manuel Adorni. Habrá presencia de gobernadores y dirigentes aliados, pero en el oficialismo acusan al partido liderado por Macri de querer hacer uso político de la designación.",
+      "porQueImporta": "Cambio importante en el gabinete nacional que puede influir en la dirección política y económica del país, relevante para Guido por vivir en Argentina.",
+      "publicadoEn": "2026-06-30T18:39:33.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/Y5HVWMVR3VBZTBWNT6IVB4OI3Q.png?auth=2316e29dbf250735a6ae9bf9c0d600c58618b4d69727f2ffcaf4ed872339b507&smart=true&width=825&height=529",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "argentina",
         "politica",
-        "milei",
-        "estados unidos"
+        "gobierno"
       ],
       "tambienVistoEn": []
     },
@@ -351,20 +371,19 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid30062026/",
-      "tituloOriginal": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 30 de junio, minuto a minuto",
-      "tituloLimpio": "Dólar hoy y dólar blue, EN VIVO: cotización del oficial y el paralelo este martes 30 de junio",
-      "resumen": "La divisa oficial opera a $1500 para venta y se acerca a su máximo histórico; el dólar blue se ubica en $1510 para esa operación.",
-      "porQueImporta": "Actualización constante sobre la cotización del dólar en Argentina, crucial para la planificación financiera de Guido.",
-      "publicadoEn": "2026-06-30T14:23:05.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/GHSZNGFV4FBN7D6V3AYV4H6RTU.jpg?auth=d9c8fd22de8f9f8455c0d6610ecd246b61fdc09688eb4385a24c4611144e9133&smart=true&width=2000&height=1333",
+      "url": "https://www.lanacion.com.ar/economia/buques-contra-camiones-cambios-en-codigos-y-nueva-ley-de-seguros-la-apuesta-para-retomar-la-agenda-nid30062026/",
+      "tituloOriginal": "Buques contra camiones, cambios en códigos y nueva ley de seguros: la apuesta para retomar la agenda de los “desreguladores” de Milei",
+      "tituloLimpio": "El Gobierno apuesta por desregulación con cambios en códigos y nueva ley de seguros",
+      "resumen": "El Ministerio de Desregulación impulsa un paquete de reformas que desafía a gremios, empresas navieras y camioneros, con la apertura del transporte comercial marítimo como punta de lanza.",
+      "porQueImporta": "Estas reformas pueden tener un impacto significativo en la economía y el funcionamiento de diversos sectores en Argentina, afectando el entorno de negocios.",
+      "publicadoEn": "2026-06-30T18:48:50.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/FNFPT4YIE5B3BIEO64GZ6VVN3A.webp?auth=4826d8e7627f769f41192c4a2ada4a6443223a5843ec99706af2d118ce769866&smart=true&width=900&height=600",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "dolar",
-        "dolar blue",
         "argentina",
-        "economia"
+        "economia",
+        "desregulacion"
       ],
       "tambienVistoEn": []
     },
@@ -372,26 +391,44 @@
       "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Politica",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-diego-santilli-asume-como-nuevo-jefe-de-gabinete-nid30062026/",
-      "tituloOriginal": "Javier Milei y sus medidas, en vivo: Diego Santilli asume como nuevo jefe de Gabinete",
-      "tituloLimpio": "Javier Milei y sus medidas, en vivo: Diego Santilli asume como nuevo jefe de Gabinete",
-      "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios.",
-      "porQueImporta": "Seguimiento de los cambios en el gabinete nacional, lo que puede influir en las políticas económicas y sociales del país.",
-      "publicadoEn": "2026-06-30T14:09:58.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/DIFOFEY7UZEOTEDYZ5ACWVEAEM.JPG?auth=16c1f395e0fb5565c700527586bedd8aed21357ce0731e1dd8e55768fa8e19e1&smart=true&width=1422&height=1066",
-      "globalScore": 94,
+      "url": "https://www.lanacion.com.ar/politica/bianco-anticipo-que-la-provincia-de-buenos-aires-reclamara-a-santilli-las-deudas-de-la-nacion-nos-nid30062026/",
+      "tituloOriginal": "Bianco anticipó que la provincia de Buenos Aires reclamará a Santilli las “deudas” de la Nación: “Nos borraron del mapa”",
+      "tituloLimpio": "Bianco anticipa reclamo de Buenos Aires a Santilli por 'deudas' de la Nación",
+      "resumen": "El funcionario de Kicillof aclaró que nunca tuvo 'vínculo' con el designado jefe de Gabinete; insistirá con una nota formal.",
+      "porQueImporta": "Muestra las tensiones entre el gobierno nacional y la provincia de Buenos Aires, un factor político relevante en Argentina.",
+      "publicadoEn": "2026-06-30T18:44:19.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/LFXTA665QNABXPELAMZUWPNBPQ.jpg?auth=a8344048710a59b78bc54b2e28fb2339e42365ce4e55d00166f8cbec952a6caa&smart=true&width=2000&height=1333",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "argentina",
         "politica",
-        "milei",
-        "gobierno"
+        "provincia"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "fuente": "Adweek",
+      "url": "https://www.adweek.com/agencies/amid-ai-and-ma-its-time-for-agencies-to-recalibrate/",
+      "tituloOriginal": "Amid AI and M&A, It’s Time for Agencies to Recalibrate",
+      "tituloLimpio": "Agencias deben recalibrar estrategias ante IA y fusiones y adquisiciones",
+      "resumen": "ADWEEK presenta una sección de fusiones y adquisiciones en asociación con Evros Group.",
+      "porQueImporta": "Relevante para Guido por su interés en marketing y IA, ya que aborda cómo las agencias se están adaptando a las nuevas tecnologías y a los cambios en el mercado.",
+      "publicadoEn": "2026-06-30T14:45:25.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "ia",
+        "negocios"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-06-30T14:25:48.446Z"
+    "generadoEn": "2026-06-30T18:56:28.920Z"
   }
 }
