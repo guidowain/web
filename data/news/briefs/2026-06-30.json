@@ -1,0 +1,397 @@
+{
+  "fecha": "2026-06-30",
+  "generadoEn": "2026-06-30T14:25:48.446Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "El dólar minorista en Argentina alcanzó los $1.500, mientras que el transporte público subirá un 4,1% desde el 1 de julio. En tecnología, se esperan cambios importantes en el Apple Watch para el próximo año y se lanzó una actualización para el chatbot de IA de Proton, Lumo. La IA sigue siendo un tema central, con debates sobre su aplicación en la agricultura y su impacto en las agencias de marketing.",
+  "radarPersonal": [
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Aumenta el transporte público en Argentina desde el 1 de julio",
+      "resumen": "La suba será del 4,1% y el ajuste combina el 2,1% del Índice de Precios al Consumidor (IPC) de mayo más un 2% adicional.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/manana-aumenta-el-transporte-publico-cuanto-costaran-colectivos-subtes-y-peajes-el-1-julio-n6294352"
+      ],
+      "score": 100,
+      "tags": [
+        "transporte",
+        "aumento",
+        "argentina",
+        "economia"
+      ]
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "titulo": "El dólar minorista en Argentina sube y alcanza los $1.500",
+      "resumen": "El billete al público sigue ofrecido a $1.495 para la venta en el Banco Nación. El blue es pactado a $1.510.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Infobae Economia"
+      ],
+      "urls": [
+        "https://www.infobae.com/economia/2026/06/30/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-martes-30-de-junio/"
+      ],
+      "score": 100,
+      "tags": [
+        "dolar",
+        "economia",
+        "argentina",
+        "mercado"
+      ]
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "titulo": "El Apple Watch tendría un rediseño importante el próximo año",
+      "resumen": "Se rumorea que la línea 'Series' del Apple Watch podría recibir grandes actualizaciones el próximo año.",
+      "categoria": "Apple",
+      "fuentes": [
+        "9to5Mac"
+      ],
+      "urls": [
+        "https://9to5mac.com/2026/06/30/apple-watch-to-get-major-overhaul-next-year-says-leaker/"
+      ],
+      "score": 100,
+      "tags": [
+        "apple",
+        "apple watch",
+        "diseño",
+        "rumores"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "Lumo, el chatbot de IA de Proton enfocado en la privacidad, recibe una actualización",
+      "resumen": "Proton's Lumo 2.0 se lanza esta semana, ofreciendo a los usuarios una variedad más amplia de capacidades.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/"
+      ],
+      "score": 100,
+      "tags": [
+        "ia",
+        "chatbot",
+        "privacidad",
+        "proton"
+      ]
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "titulo": "La agricultura está lista para la IA, pero sus datos no",
+      "resumen": "La inteligencia artificial está transformando lo posible en la agricultura, pero los líderes de la industria deberían ser cautelosos al invertir en IA sin antes sentar las bases.",
+      "categoria": "AI",
+      "fuentes": [
+        "MIT Technology Review AI"
+      ],
+      "urls": [
+        "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/"
+      ],
+      "score": 100,
+      "tags": [
+        "ia",
+        "agricultura",
+        "datos",
+        "industria"
+      ]
+    }
+  ],
+  "loImportante": [
+    "El dólar minorista en Argentina alcanzó los $1.500, marcando un nuevo hito.",
+    "El transporte público en Argentina subirá un 4,1% a partir del 1 de julio.",
+    "Se anticipa un rediseño importante para el Apple Watch el próximo año.",
+    "La IA de Proton, Lumo, recibió una actualización con más funcionalidades y foco en la privacidad.",
+    "La aplicación de IA en la agricultura es prometedora, pero la calidad de los datos es un desafío."
+  ],
+  "oportunidades": [
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "titulo": "La IA está remodelando las agencias de marketing",
+      "detalle": "La IA ya está transformando la forma en que las agencias hacen negocios, y se esperan cambios aún mayores.",
+      "acciones": [
+        "Evaluar cómo integrar la IA en los procesos de retoque fotográfico y arte con IA.",
+        "Investigar herramientas de IA para automatizar tareas de marketing y gestión de proyectos."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "titulo": "La falta de datos adecuados frena la adopción de IA en sectores clave",
+      "detalle": "Aunque la agricultura está lista para la IA, la calidad y disponibilidad de sus datos no lo están, lo que puede generar inversiones ineficaces.",
+      "mitigacion": "Asegurarse de tener datos limpios y estructurados antes de implementar soluciones de IA en proyectos personales o de clientes."
+    }
+  ],
+  "conexiones": [
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "titulo": "El patriotismo como estrategia de marca y su relación con la percepción del consumidor",
+      "historias": [
+        "Los consumidores definen las marcas patrióticas con una visión más amplia que los especialistas en marketing.",
+        "La identidad de marca y la conexión emocional con el público son cruciales."
+      ],
+      "conclusion": "Para Guido, que trabaja en arte con IA y retoque, entender cómo las marcas construyen su identidad y conectan con el público es clave. Esto puede influir en cómo presenta su propio trabajo o el de sus clientes, especialmente si busca resonar con un público local o con ciertos valores."
+    }
+  ],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+      "tituloOriginal": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+      "tituloLimpio": "Google UK comparte su informe de impacto económico y cómo la IA puede impulsar la productividad",
+      "resumen": "Google UK comparte su último Informe de Impacto Económico y cómo habilitar a más personas para que aprovechen los beneficios de las tecnologías impulsadas por IA.",
+      "porQueImporta": "Aunque se centra en el Reino Unido, la discusión sobre cómo la IA puede mejorar la productividad es relevante para Guido, quien busca herramientas y automatización en su trabajo.",
+      "publicadoEn": "2026-06-30T06:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "productividad",
+        "google",
+        "tecnologia"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "categoria": "Finance",
+      "fuente": "Sherwood",
+      "url": "https://sherwood.news/markets/rocket-lab-deal-lifts-space-stocks/",
+      "tituloOriginal": "Rocket Lab deal lifts space stocks",
+      "tituloLimpio": "Un acuerdo de Rocket Lab impulsa las acciones del sector espacial",
+      "resumen": "La gerencia de Rocket Lab calificó la compra como un 'atajo' para su negocio de comunicaciones satelitales.",
+      "porQueImporta": "Interesante para Guido por su interés en inversiones, ya que muestra cómo un acuerdo específico puede impactar un sector completo del mercado.",
+      "publicadoEn": "2026-06-29T15:53:09.000Z",
+      "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/2269754330_in-this-photo-illustration-a-rocketlab-logo-is-seen-displayed-on-a-smartphone-and-in-the.jpg",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "inversiones",
+        "mercado",
+        "acciones",
+        "espacio"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/patriotism-is-no-longer-a-campaign-its-a-branding-strategy/823127/",
+      "tituloOriginal": "Patriotism is no longer a campaign — it’s a branding strategy",
+      "tituloLimpio": "El patriotismo es ahora una estrategia de marca, no solo una campaña",
+      "resumen": "Los consumidores definen las marcas patrióticas con una visión más amplia que los especialistas en marketing.",
+      "porQueImporta": "Relevante para Guido por su interés en marketing, ya que destaca una tendencia en cómo las marcas construyen su identidad y conectan con el público.",
+      "publicadoEn": "2026-06-30T13:51:00.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "branding",
+        "estrategia",
+        "consumidor"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+      "tituloOriginal": "Meet the lawyer who beat Elon Musk — twice",
+      "tituloLimpio": "Conocé al abogado que le ganó a Elon Musk dos veces",
+      "resumen": "Ver a Elon Musk enfurecerse con Bill Savitt durante el caso Musk contra Altman fue un poco como ver a un niño pequeño hacer un berrinche.",
+      "porQueImporta": "Una noticia de interés general que muestra la dinámica legal y personal en el ámbito de la IA, con un personaje como Elon Musk.",
+      "publicadoEn": "2026-06-30T12:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "elon musk",
+        "ia",
+        "legal",
+        "noticias generales"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/25/06/30/apple-musics-ten-years-billions-of-dollars-in-fines-and-one-failure?utm_source=rss",
+      "tituloOriginal": "Apple Music's billions of streams, billions of dollars in fines, and one failure",
+      "tituloLimpio": "Apple Music: diez años, miles de millones en multas y un fracaso",
+      "resumen": "El 30 de junio de 2015, Apple lanzó Apple Music, que ha brindado placer musical a millones, una función de redes sociales que probablemente no recuerdes y le costó a Apple miles de millones en multas.",
+      "porQueImporta": "Un repaso histórico sobre un producto clave de Apple, relevante para Guido por su interés en la marca y en cómo evolucionan sus servicios.",
+      "publicadoEn": "2026-06-30T14:14:39.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "apple music",
+        "historia",
+        "servicios"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/small-business/articles/carbon-underwriting-secures-ftv-capital-141913297.html",
+      "tituloOriginal": "Carbon Underwriting secures FTV Capital investment",
+      "tituloLimpio": "Carbon Underwriting asegura inversión de FTV Capital",
+      "resumen": "",
+      "porQueImporta": "Noticia de finanzas que indica movimientos de capital en el mercado, relevante para el interés de Guido en inversiones.",
+      "publicadoEn": "2026-06-30T14:19:13.000Z",
+      "imagen": "https://media.zenfs.com/en/life_insurance_international_186/a7cbc9dde43a7ffe6f1bb2ecd340bdea",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "inversiones",
+        "capital"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-economic-data-aerovironment-avav/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Stock Market Today: Dow Wobbles Amid Key Economic Data; AeroVironment Soars On Earnings (Live Coverage)",
+      "tituloLimpio": "El mercado de valores hoy: el Dow Jones fluctúa en medio de datos económicos clave",
+      "resumen": "",
+      "porQueImporta": "Información sobre el estado actual del mercado de valores, útil para Guido por su interés en ETFs y mercados.",
+      "publicadoEn": "2026-06-30T13:46:25.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/6681ba47464c8e51c9d4e56a07440051",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "mercado",
+        "finanzas",
+        "dow jones",
+        "economia"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-martes-30-junio_0_JmfTtEbXbx.html",
+      "tituloOriginal": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este martes 30 de junio",
+      "tituloLimpio": "Dólar hoy: cotización del oficial y los diferentes tipos de cambio este martes 30 de junio",
+      "resumen": "Desde el oficial hasta el blue y el turista, todos los tipos de cambio. Mirá la cotización minuto a minuto.",
+      "porQueImporta": "Información esencial para cualquier residente en Argentina, directamente relacionada con la economía local y el poder adquisitivo.",
+      "publicadoEn": "2026-06-30T12:00:01.000Z",
+      "imagen": "https://www.clarin.com/img/2020/03/04/XTskgx7L_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "dolar",
+        "argentina",
+        "economia",
+        "cotizacion"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/gobierno-kicillof-dice-llegada-santilli-mejorara-relacion-milei-decision-presidente-borrar-mapa-provincia_0_ceqyf4VFW0.html",
+      "tituloOriginal": "El Gobierno de Kicillof dice que la llegada de Santilli no mejorará la relación con Milei: \"Es una decisión del Presidente borrar del mapa a la Provincia\"",
+      "tituloLimpio": "El Gobierno de Kicillof dice que la llegada de Santilli no mejorará la relación con Milei",
+      "resumen": "El ministro de Gobierno bonaerense volvió a reclamar por fondos adeudados por Nación.",
+      "porQueImporta": "Noticia política local que refleja las tensiones entre el gobierno nacional y provincial, impactando el contexto económico y social de Argentina.",
+      "publicadoEn": "2026-06-30T13:02:04.000Z",
+      "imagen": "https://www.clarin.com/img/2025/10/19/47WMV1O4i_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "politica",
+        "gobierno",
+        "kicillof",
+        "milei"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/06/30/javier-milei-ira-hoy-a-la-residencia-del-embajador-de-los-estados-unidos-y-sera-el-primer-presidente-argentino-en-celebrar-alli-el-4-de-julio/",
+      "tituloOriginal": "Javier Milei irá hoy a la residencia del embajador de los Estados Unidos y será el primer presidente argentino en celebrar allí el 4 de julio",
+      "tituloLimpio": "Javier Milei irá hoy a la residencia del embajador de Estados Unidos para celebrar el 4 de julio",
+      "resumen": "El Presidente estará esta noche en el acto por el Día de la Independencia. Asistirá luego de tomarle juramento a Diego Santilli como nuevo jefe de Gabinete.",
+      "porQueImporta": "Noticia política relevante sobre la agenda del presidente argentino y sus relaciones internacionales.",
+      "publicadoEn": "2026-06-30T14:11:01.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/YNE2PSG3OBEDVJJ6DZEHJW4VUA.jpeg?auth=bad66a20d19edf1bf6cb25b113c43c10950f1c432d431b3333d0f04d17ab1c46&smart=true&width=4160&height=2773",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "politica",
+        "milei",
+        "estados unidos"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid30062026/",
+      "tituloOriginal": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 30 de junio, minuto a minuto",
+      "tituloLimpio": "Dólar hoy y dólar blue, EN VIVO: cotización del oficial y el paralelo este martes 30 de junio",
+      "resumen": "La divisa oficial opera a $1500 para venta y se acerca a su máximo histórico; el dólar blue se ubica en $1510 para esa operación.",
+      "porQueImporta": "Actualización constante sobre la cotización del dólar en Argentina, crucial para la planificación financiera de Guido.",
+      "publicadoEn": "2026-06-30T14:23:05.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/GHSZNGFV4FBN7D6V3AYV4H6RTU.jpg?auth=d9c8fd22de8f9f8455c0d6610ecd246b61fdc09688eb4385a24c4611144e9133&smart=true&width=2000&height=1333",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "dolar",
+        "dolar blue",
+        "argentina",
+        "economia"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Politica",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-diego-santilli-asume-como-nuevo-jefe-de-gabinete-nid30062026/",
+      "tituloOriginal": "Javier Milei y sus medidas, en vivo: Diego Santilli asume como nuevo jefe de Gabinete",
+      "tituloLimpio": "Javier Milei y sus medidas, en vivo: Diego Santilli asume como nuevo jefe de Gabinete",
+      "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios.",
+      "porQueImporta": "Seguimiento de los cambios en el gabinete nacional, lo que puede influir en las políticas económicas y sociales del país.",
+      "publicadoEn": "2026-06-30T14:09:58.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/DIFOFEY7UZEOTEDYZ5ACWVEAEM.JPG?auth=16c1f395e0fb5565c700527586bedd8aed21357ce0731e1dd8e55768fa8e19e1&smart=true&width=1422&height=1066",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "politica",
+        "milei",
+        "gobierno"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-06-30T14:25:48.446Z"
+  }
+}
