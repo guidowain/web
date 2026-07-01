@@ -1,0 +1,460 @@
+{
+  "fecha": "2026-07-01",
+  "generadoEn": "2026-07-01T14:43:12.198Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "Hoy se destaca la reducción en la producción del iPhone 17 por parte de Apple y el lanzamiento de Claude Science de Anthropic para investigación científica. En Argentina, la venta de electrodomésticos cayó, pero se eliminaron retenciones para 1.000 productos industriales. Meta explora el negocio de la nube con su exceso de capacidad de IA, y Bitcoin se acerca a los $60.000 tras comentarios de la Fed.",
+  "radarPersonal": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Apple habría reducido la producción del iPhone 17",
+      "resumen": "La demanda del iPhone 17 habría disminuido, llevando a Apple a reducir sus planes de producción en un 15%, según fuentes de la cadena de suministro.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/07/01/apple-has-cut-iphone-17-production/"
+      ],
+      "score": 100,
+      "tags": [
+        "apple",
+        "iphone",
+        "produccion"
+      ]
+    },
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "titulo": "Meta sube en bolsa por posible entrada al negocio de la nube con exceso de IA",
+      "resumen": "Meta experimenta un alza en bolsa tras reportes de que podría iniciar un negocio en la nube para vender su exceso de capacidad de computación de IA.",
+      "categoria": "AI",
+      "fuentes": [
+        "Sherwood"
+      ],
+      "urls": [
+        "https://sherwood.news/markets/meta-surges-report-entering-into-cloud-business-excess-compute/"
+      ],
+      "score": 100,
+      "tags": [
+        "meta",
+        "nube",
+        "ia",
+        "negocio"
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "titulo": "Cómo las marcas pueden mejorar su aparición en los resúmenes de búsqueda de IA",
+      "resumen": "La forma en que se formula una consulta impacta significativamente si una marca aparecerá en los resultados de búsqueda de IA, siendo las búsquedas por categoría las más favorables.",
+      "categoria": "Marketing",
+      "fuentes": [
+        "Marketing Dive"
+      ],
+      "urls": [
+        "https://www.marketingdive.com/news/how-brands-can-improve-chances-of-showing-up-in-ai-search-overviews/824059/"
+      ],
+      "score": 100,
+      "tags": [
+        "marcas",
+        "busqueda",
+        "ia",
+        "marketing"
+      ]
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "titulo": "Claude Science es el nuevo producto estrella de Anthropic",
+      "resumen": "Anthropic anunció Claude Science, un nuevo producto destinado a apoyar la investigación científica, de manera similar a cómo Claude Code apoya la ingeniería de software.",
+      "categoria": "AI",
+      "fuentes": [
+        "MIT Technology Review AI"
+      ],
+      "urls": [
+        "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/"
+      ],
+      "score": 100,
+      "tags": [
+        "claude",
+        "science",
+        "anthropic",
+        "ia",
+        "investigacion"
+      ]
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81Z29v",
+      "titulo": "Gemini Spark se lanza en la app de macOS para tareas locales y automatización",
+      "resumen": "Gemini para macOS ahora soporta Gemini Spark, la primera de dos grandes actualizaciones de la aplicación de escritorio que llegarán este verano, enfocada en tareas locales y automatización.",
+      "categoria": "Tools & Automation",
+      "fuentes": [
+        "9to5Mac"
+      ],
+      "urls": [
+        "https://9to5google.com/2026/06/30/gemini-spark-mac-app/"
+      ],
+      "score": 100,
+      "tags": [
+        "gemini",
+        "spark",
+        "macos",
+        "automatizacion",
+        "ia"
+      ]
+    }
+  ],
+  "loImportante": [
+    "Apple redujo la producción del iPhone 17, lo que podría indicar un cambio en la demanda del mercado de smartphones de alta gama.",
+    "Meta explora nuevas vías de negocio con su capacidad de IA, lo que podría diversificar sus ingresos y afectar su valoración en bolsa.",
+    "La eliminación de retenciones para 1.000 productos industriales en Argentina busca impulsar la economía local.",
+    "Anthropic lanza Claude Science, un producto de IA especializado en investigación científica, ampliando las aplicaciones de la inteligencia artificial.",
+    "Bitcoin se acerca a los $60.000, influenciado por comentarios de la Fed sobre la inflación y el impacto de la IA en la economía."
+  ],
+  "oportunidades": [
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "categoria": "Investing",
+      "titulo": "Meta entra al negocio de la nube con IA",
+      "detalle": "Meta está explorando la venta de su exceso de capacidad de computación de IA como un servicio en la nube, lo que podría generar nuevas fuentes de ingresos y mejorar su flujo de caja.",
+      "acciones": [
+        "Monitorear el desarrollo de este nuevo negocio de Meta.",
+        "Evaluar el impacto potencial en la competencia del mercado de servicios en la nube."
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "Optimización para búsquedas de IA",
+      "detalle": "Las marcas pueden mejorar su visibilidad en los resúmenes de búsqueda de IA al optimizar sus contenidos para consultas de categoría, que son las más favorables.",
+      "acciones": [
+        "Revisar y adaptar estrategias de SEO para incluir la optimización para búsquedas de IA.",
+        "Analizar cómo se formulan las consultas de categoría relevantes para el negocio."
+      ]
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Business",
+      "titulo": "Eliminación de retenciones para productos industriales en Argentina",
+      "detalle": "El Gobierno argentino eliminó las retenciones para 1.000 productos industriales, lo que podría beneficiar a diversos sectores y fomentar la producción local.",
+      "acciones": [
+        "Investigar los sectores y productos específicos beneficiados por la eliminación de retenciones.",
+        "Evaluar posibles oportunidades de inversión o negocio en estos sectores."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Market",
+      "titulo": "Reducción de producción del iPhone 17",
+      "detalle": "Apple ha reducido la producción del iPhone 17 en un 15% debido a una menor demanda, lo que podría indicar una desaceleración en el mercado de smartphones de alta gama o un cambio en las preferencias de los consumidores.",
+      "mitigacion": "Monitorear de cerca los informes de ventas y producción de Apple y la industria tecnológica en general para anticipar tendencias del mercado."
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Market",
+      "titulo": "Caída en la venta de electrodomésticos en Argentina",
+      "detalle": "El mercado de electrodomésticos en Argentina acumula una baja del 3% en volumen hasta mayo, a pesar del crecimiento en algunos segmentos clave. Esto refleja una contracción del consumo interno.",
+      "mitigacion": "Analizar los datos de consumo y las proyecciones económicas para Argentina, ajustando las expectativas de inversión en sectores relacionados con el consumo masivo."
+    }
+  ],
+  "conexiones": [],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+      "tituloOriginal": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+      "tituloLimpio": "Google UK busca impulsar la productividad con IA",
+      "resumen": "Google UK comparte su último Informe de Impacto Económico y cómo habilitar a más personas para aprovechar los beneficios de las tecnologías impulsadas por IA.",
+      "porQueImporta": "Muestra el enfoque de Google en la adopción de la IA para la productividad, una tendencia global relevante para profesionales y empresas.",
+      "publicadoEn": "2026-06-30T06:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "google",
+        "ia",
+        "productividad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/07/01/apple-has-cut-iphone-17-production/",
+      "tituloOriginal": "Apple Has Reportedly Cut iPhone 17 Lineup Production",
+      "tituloLimpio": "Apple habría recortado la producción del iPhone 17",
+      "resumen": "La demanda del iPhone 17 parece haber terminado, en medio de rumores de que Apple ha reducido las expectativas y los planes de producción en un 15%.",
+      "porQueImporta": "Una posible señal de desaceleración en la demanda de los productos estrella de Apple, lo que podría impactar en el mercado tecnológico y las inversiones.",
+      "publicadoEn": "2026-07-01T14:13:49.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "iphone",
+        "produccion"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "categoria": "Finance",
+      "fuente": "Sherwood",
+      "url": "https://sherwood.news/markets/meta-surges-report-entering-into-cloud-business-excess-compute/",
+      "tituloOriginal": "Meta surges on report it’s starting a cloud business to sell excess AI compute",
+      "tituloLimpio": "Meta sube por informe de entrada al negocio de la nube con exceso de capacidad de IA",
+      "resumen": "Meta sube en bolsa por un informe que indica que está iniciando un negocio en la nube para vender su exceso de capacidad de computación de IA.",
+      "porQueImporta": "Indica una posible nueva fuente de ingresos para Meta y una expansión en el mercado de servicios de IA, relevante para inversores y el sector tecnológico.",
+      "publicadoEn": "2026-07-01T14:03:12.000Z",
+      "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/2268011998_washington-dc-united-states-meta-ceo-mark-zuckerberg-walks-through-the-u-s-capitol-following.jpg",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "meta",
+        "ia",
+        "nube",
+        "finanzas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/electrodomesticos-cae-la-venta-unidades-pese-al-crecimiento-tres-segmentos-clave-n6294849",
+      "tituloOriginal": "Electrodomésticos: cae la venta en unidades, pese al crecimiento de tres segmentos clave",
+      "tituloLimpio": "Caen las ventas de electrodomésticos en Argentina, pese al crecimiento de tres segmentos",
+      "resumen": "Según NielsenIQ, el mercado de electrodomésticos acumula una baja del 3% en volumen hasta mayo, aunque algunas categorías como televisores y pequeños electros muestran un fuerte crecimiento.",
+      "porQueImporta": "Refleja la situación del consumo interno en Argentina, importante para entender el contexto económico local.",
+      "publicadoEn": "2026-07-01T14:26:00.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "economia",
+        "consumo"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/how-brands-can-improve-chances-of-showing-up-in-ai-search-overviews/824059/",
+      "tituloOriginal": "How brands can improve chances of showing up in AI search overviews",
+      "tituloLimpio": "Cómo las marcas pueden mejorar su aparición en los resúmenes de búsqueda de IA",
+      "resumen": "La forma en que se formula una consulta impacta en si una marca aparecerá en los resultados de búsqueda de IA, siendo las búsquedas por categoría las más favorables para las marcas.",
+      "porQueImporta": "Ofrece una guía práctica para optimizar la visibilidad en las nuevas interfaces de búsqueda impulsadas por IA, crucial para el marketing digital.",
+      "publicadoEn": "2026-07-01T13:29:00.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "ia",
+        "seo"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+      "tituloOriginal": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+      "tituloLimpio": "Venice AI se convierte en unicornio con una Serie A de $65M",
+      "resumen": "Venice AI ya es rentable, con ingresos anualizados de más de $70 millones, según su CEO Erik Voorhees.",
+      "porQueImporta": "Destaca el crecimiento y la rentabilidad en el sector de plataformas de IA, un indicador de oportunidades en el mercado.",
+      "publicadoEn": "2026-07-01T14:25:23.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "startup",
+        "inversion"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+      "tituloOriginal": "Google built a great smart speaker, but Gemini isn’t ready for it",
+      "tituloLimpio": "Google creó un buen parlante inteligente, pero Gemini no está listo",
+      "resumen": "Los parlantes inteligentes han buscado un segundo acto convincente. La IA prometía cambiar eso. Google ahora lanza su turno.",
+      "porQueImporta": "Muestra los desafíos en la integración de IA avanzada en dispositivos de consumo y la evolución de los asistentes de voz.",
+      "publicadoEn": "2026-07-01T12:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "google",
+        "ia",
+        "hardware"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+      "tituloOriginal": "Claude Science is Anthropic’s newest flagship product",
+      "tituloLimpio": "Claude Science es el nuevo producto estrella de Anthropic",
+      "resumen": "Anthropic anunció Claude Science, un nuevo producto importante destinado a apoyar la investigación científica.",
+      "porQueImporta": "La expansión de la IA a campos especializados como la investigación científica abre nuevas posibilidades y herramientas para profesionales.",
+      "publicadoEn": "2026-06-30T21:50:04.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "ciencia",
+        "anthropic"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/01/iphone-17-pro-just-got-an-exclusive-new-pro-focused-camera-feature/",
+      "tituloOriginal": "iPhone 17 Pro just got an exclusive new pro-focused camera feature",
+      "tituloLimpio": "El iPhone 17 Pro recibe una nueva función de cámara exclusiva",
+      "resumen": "Apple actualizó su aplicación de cámara 'pro', Final Cut Camera, con una nueva función exclusiva para el iPhone 17 Pro.",
+      "porQueImporta": "Muestra la continua innovación de Apple en sus productos, especialmente en el ámbito profesional de la fotografía y video móvil.",
+      "publicadoEn": "2026-07-01T14:37:49.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "iphone",
+        "camara"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81Z29v",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5google.com/2026/06/30/gemini-spark-mac-app/",
+      "tituloOriginal": "Gemini Spark rolling out to macOS app for local tasks, automation",
+      "tituloLimpio": "Gemini Spark llega a la aplicación de macOS para tareas locales y automatización",
+      "resumen": "Gemini para macOS ahora soporta Gemini Spark, la primera de dos grandes actualizaciones de la aplicación de escritorio que llegarán este verano.",
+      "porQueImporta": "La integración de IA para automatización en macOS es relevante para la productividad y el flujo de trabajo de usuarios de Apple.",
+      "publicadoEn": "2026-06-30T20:44:39.000Z",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "gemini",
+        "macos",
+        "automatizacion",
+        "ia"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/01/bitcoin-retakes-usd60-000-level-after-fed-chair-warsh-said-inflation-risks-has-come-down",
+      "tituloOriginal": "Bitcoin climbs toward $60,000 after Fed Chair Warsh said inflation risks has come down",
+      "tituloLimpio": "Bitcoin se acerca a los $60.000 tras comentarios de la Fed sobre la inflación",
+      "resumen": "Bitcoin sube hacia los $60.000 después de que el presidente de la Fed, Warsh, dijera que los riesgos de inflación han disminuido.",
+      "porQueImporta": "Impacta directamente en el mercado de criptomonedas y puede influir en las decisiones de inversión, especialmente en activos volátiles.",
+      "publicadoEn": "2026-07-01T14:36:00.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/0d9b13f93394936e876ea4478fac1170701d6748-4717x3145.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "bitcoin",
+        "finanzas",
+        "inflacion"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/rural/liquidacion-divisas-parte-agro-crecio-12-mensual-junio-acumulado-primer-semestre-cerro-13-abajo_0_x2rp5rN0d2.html",
+      "tituloOriginal": "La liquidación de divisas por parte del agro creció 12% mensual en junio, aunque el acumulado del primer semestre cerró 13% abajo",
+      "tituloLimpio": "La liquidación de divisas del agro creció 12% mensual en junio, pero el semestre cerró 13% abajo",
+      "resumen": "El ingreso de dólares superó los US$ 3.000 millones en junio, aunque la eliminación de retenciones del año pasado generó que la liquidación de los exportadores sea menor en los primeros seis meses de 2026.",
+      "porQueImporta": "Proporciona datos clave sobre la economía argentina y el sector agropecuario, fundamental para entender el flujo de divisas.",
+      "publicadoEn": "2026-07-01T12:36:58.000Z",
+      "imagen": "https://www.clarin.com/img/2017/12/27/r1eJGuZXf_1200x630.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "economia",
+        "agro"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/gobernador-cercano-santilli-anticipo-apoyo-eliminacion-paso-pidio-avanzar-obras-pendientes_0_VLSvqyaCJb.html",
+      "tituloOriginal": "Un gobernador cercano a Santilli anticipó su apoyo a la eliminación de las PASO y pidió avanzar con las obras pendientes",
+      "tituloLimpio": "Gobernador cercano a Santilli apoya eliminación de las PASO y pide avanzar con obras",
+      "resumen": "Rogelio Frigerio consideró que 'los partidos deberían hacer un esfuerzo para definir entre ellos la selección de sus candidaturas' y que con el nuevo jefe de Gabinete 'se abre una etapa nueva'.",
+      "porQueImporta": "Refleja movimientos políticos internos en Argentina y posibles cambios en el sistema electoral, con impacto en el panorama político y económico.",
+      "publicadoEn": "2026-07-01T13:53:53.000Z",
+      "imagen": "https://www.clarin.com/img/2026/07/01/a-W7ihQVL_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "politica",
+        "paso"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/07/01/el-gobierno-elimino-las-retenciones-para-1000-productos-industriales-cuales-son-los-sectores-beneficiados/",
+      "tituloOriginal": "El Gobierno eliminó las retenciones para 1.000 productos industriales: cuáles son los sectores beneficiados",
+      "tituloLimpio": "El Gobierno eliminó las retenciones para 1.000 productos industriales",
+      "resumen": "El Decreto 566/2026 fija tres esquemas diferenciados que van desde la exención inmediata hasta un cronograma de reducción gradual que vence en junio del año próximo.",
+      "porQueImporta": "Una medida económica importante en Argentina que busca impulsar la industria local, relevante para inversores y empresarios.",
+      "publicadoEn": "2026-07-01T14:30:54.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/G27USBYU2BH63GH7K5RWFWHEPA.jpg?auth=cb4b3585d294526cb3bcabfccd8a5b23ff762f08303a45f8f03492d861a094ca&smart=true&width=1920&height=1080",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "economia",
+        "industria"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/cuanto-cobran-de-minima-los-jubilados-en-julio-2026-nid01072026/",
+      "tituloOriginal": "Cuánto cobran de mínima los jubilados en julio 2026",
+      "tituloLimpio": "Cuánto cobran de mínima los jubilados en julio 2026",
+      "resumen": "Los haberes previsionales se ajustan en un 2,15%; se detalla el valor del haber mínimo, con el bono extraordinario.",
+      "porQueImporta": "Información relevante sobre la situación económica de los jubilados en Argentina, un tema de interés social y económico.",
+      "publicadoEn": "2026-07-01T14:24:31.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/DPPNJWTXZRFZDENJM6Y6ARIE6U.png?auth=dc3b957a715761f1f1c5b715e2cf3b937b74f689fc6911aae366e94bf8f0cb54&smart=true&width=2000&height=1333",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "economia",
+        "jubilados"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-07-01T14:43:12.198Z"
+  }
+}
