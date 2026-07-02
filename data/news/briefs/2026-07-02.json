@@ -1,0 +1,512 @@
+{
+  "fecha": "2026-07-02",
+  "generadoEn": "2026-07-02T18:25:26.476Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "El mercado laboral de EE.UU. mostró un crecimiento de empleos menor al esperado en junio, mientras que en Argentina, la industria enfrenta posibles parates por el frío y el precio del gas. En el ámbito tecnológico, Volkswagen planea integrar las llaves de auto de Apple Wallet en sus vehículos futuros, y OpenAI propuso donar un 5% de su capital a un fondo soberano de EE.UU. para aliviar tensiones. Las noticias de Apple incluyen rumores sobre el iPhone 18 Pro y actualizaciones de Safari. En finanzas, Bitcoin subió tras los datos de empleo de EE.UU. y eToro invierte en una plataforma de derivados onchain.",
+  "radarPersonal": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Volkswagen planea ofrecer llaves de auto en Apple Wallet para iPhone",
+      "resumen": "Volkswagen planea ofrecer llaves de auto de Apple Wallet en futuros vehículos, según un nuevo código de Apple. Esto permitiría usar el iPhone o Apple Watch para bloquear, desbloquear y arrancar el auto.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors",
+        "9to5Mac"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/07/02/vw-planning-apple-wallet-car-keys/",
+        "https://9to5mac.com/2026/07/02/car-keys-in-apple-wallet-coming-to-major-new-vehicle-brand-report/"
+      ],
+      "score": 100,
+      "tags": [
+        "Apple Wallet",
+        "automoción",
+        "iPhone",
+        "Apple Watch"
+      ]
+    },
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "titulo": "El crecimiento del empleo en EE.UU. en junio fue menor a lo estimado; el desempleo bajó al 4.2%",
+      "resumen": "El crecimiento del empleo en EE.UU. fue de 57.000 en junio, por debajo de las estimaciones de los analistas. La tasa de desempleo bajó inesperadamente al 4.2%.",
+      "categoria": "Finance",
+      "fuentes": [
+        "Sherwood"
+      ],
+      "urls": [
+        "https://sherwood.news/markets/us-non-farm-payrolls-june-2026-jobs-report/"
+      ],
+      "score": 100,
+      "tags": [
+        "empleo",
+        "EE.UU.",
+        "economía",
+        "desempleo"
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "La industria argentina podría enfrentar parates productivos por la ola de frío y el precio del gas",
+      "resumen": "Las pymes se abastecen de las mismas redes que los hogares. Ante un pico de demanda por el frío, las distribuidoras priorizan los domicilios, obligando a las fábricas a usar GNL, cuyo precio se multiplicó por la guerra en Irán.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/la-industria-puede-enfrentar-un-escenario-parates-productivos-la-ola-frio-y-el-precio-del-gas-n6295228"
+      ],
+      "score": 100,
+      "tags": [
+        "industria",
+        "Argentina",
+        "gas",
+        "pymes",
+        "energía"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "OpenAI propuso donar el 5% de su capital a un fondo soberano de EE.UU.",
+      "resumen": "El CEO de OpenAI, Sam Altman, habría propuesto ceder el 5% del capital de la empresa a un fondo soberano de EE.UU., reavivando el debate sobre cómo compartir las ganancias del auge de la IA con el público.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI",
+        "The Verge AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+        "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump"
+      ],
+      "score": 100,
+      "tags": [
+        "OpenAI",
+        "IA",
+        "inversión",
+        "política"
+      ]
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "titulo": "EToro invierte en la plataforma de derivados onchain Extended",
+      "resumen": "EToro invierte en la plataforma de derivados onchain Extended, mientras los brokers compiten en DeFi. El broker planea integrar futuros perpetuos en la billetera Zengo y expandir productos DeFi en su plataforma principal.",
+      "categoria": "Finance",
+      "fuentes": [
+        "CoinDesk"
+      ],
+      "urls": [
+        "https://www.coindesk.com/business/2026/07/02/etoro-invests-in-onchain-derivatives-platform-extended-as-brokers-race-into-defi"
+      ],
+      "score": 100,
+      "tags": [
+        "eToro",
+        "DeFi",
+        "inversión",
+        "criptomonedas",
+        "derivados"
+      ]
+    }
+  ],
+  "loImportante": [
+    "El mercado laboral de EE.UU. mostró un crecimiento de empleo menor al esperado en junio, lo que podría influir en políticas económicas.",
+    "La industria argentina enfrenta desafíos energéticos por el frío y el precio del gas, con riesgo de parates productivos.",
+    "Volkswagen integrará las llaves de auto de Apple Wallet, mejorando la experiencia de usuario para propietarios de iPhone.",
+    "OpenAI propuso una donación de capital a un fondo soberano de EE.UU., lo que podría sentar un precedente para la participación pública en el auge de la IA.",
+    "Bitcoin subió tras los datos de empleo de EE.UU., mostrando la sensibilidad del mercado cripto a las noticias macroeconómicas."
+  ],
+  "oportunidades": [
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Investing",
+      "titulo": "Inversión de eToro en derivados onchain",
+      "detalle": "La inversión de eToro en la plataforma de derivados onchain Extended y sus planes de expansión en productos DeFi sugieren una tendencia creciente en las finanzas descentralizadas. Esto podría abrir nuevas vías de inversión en el espacio cripto.",
+      "acciones": [
+        "Investigar plataformas de derivados onchain y productos DeFi.",
+        "Evaluar la integración de futuros perpetuos en billeteras como Zengo."
+      ]
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "titulo": "Excelencia operativa con IA",
+      "detalle": "La aplicación de IA para lograr excelencia operativa, siguiendo marcos como Lean Six Sigma y BPM, ofrece un enfoque estructurado para optimizar procesos. Esto es relevante para la automatización y la eficiencia en el trabajo.",
+      "acciones": [
+        "Explorar cómo la IA puede integrarse en los procesos de retoque fotográfico y arte con IA para mejorar la eficiencia.",
+        "Investigar herramientas de IA que complementen metodologías de gestión de procesos."
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "Marketing de influencers y deportes de Dove Men+Care",
+      "detalle": "La estrategia de Dove Men+Care en Strava y redes sociales para promocionar una reformulación, con énfasis en marketing deportivo e influencers, muestra tendencias actuales en marketing digital.",
+      "acciones": [
+        "Analizar campañas de marketing de influencers en el sector de arte y tecnología.",
+        "Considerar la aplicación de estrategias de marketing deportivo para proyectos personales o de clientes."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Market",
+      "titulo": "Parates productivos en la industria argentina por energía",
+      "detalle": "La industria argentina, especialmente las pymes, enfrenta el riesgo de parates productivos debido a la ola de frío y el alto precio del gas, lo que podría afectar la cadena de suministro y la economía local.",
+      "mitigacion": "Monitorear la situación energética en Argentina y su impacto en la economía general. Considerar la diversificación de inversiones para mitigar riesgos locales."
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Market",
+      "titulo": "Situación crítica de tamberos santafesinos",
+      "detalle": "Los tamberos de Santa Fe alertan sobre una situación \"dramática\" por los altos niveles de endeudamiento y la necesidad de recomposición del precio de la leche. Esto refleja problemas en sectores productivos clave de Argentina.",
+      "mitigacion": "Estar atento a las políticas económicas y sectoriales que puedan afectar la estabilidad de los mercados locales y la inversión en Argentina."
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Technology",
+      "titulo": "Rumores de SSD más lentos en iPhone 18 Pro de alta capacidad",
+      "detalle": "Un rumor sugiere que algunos modelos de iPhone 18 Pro de alta capacidad podrían usar almacenamiento QLC NAND más lento. Aunque se dice que no afecta mucho el uso práctico, es una posible degradación de componentes en modelos premium.",
+      "mitigacion": "Si se planea una compra de iPhone 18 Pro, esperar a la confirmación oficial de las especificaciones de almacenamiento. Evaluar el impacto real en el rendimiento para el uso personal."
+    }
+  ],
+  "conexiones": [
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "titulo": "Datos de empleo de EE.UU. y su impacto en Bitcoin",
+      "historias": [
+        "US job growth falls far short of estimates in June; unemployment rate unexpectedly dips to 4.2%",
+        "Bitcoin price taps new July high above $62K on weak US jobs data"
+      ],
+      "conclusion": "Los datos de empleo de EE.UU. en junio, que mostraron un crecimiento menor al esperado, influyeron directamente en el mercado de Bitcoin, impulsando su precio al alza. Esto subraya la sensibilidad de las criptomonedas a los indicadores macroeconómicos globales."
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "Propuesta de OpenAI para compartir ganancias de la IA",
+      "historias": [
+        "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+        "OpenAI floats giving Trump administration 5 percent cut of AI boom"
+      ],
+      "conclusion": "La propuesta de OpenAI de donar un 5% de su capital a un fondo soberano de EE.UU. o al gobierno de Trump refleja un intento de aliviar tensiones y compartir los beneficios del auge de la IA con el público. Esto podría sentar un precedente para la regulación y la participación pública en el desarrollo de la inteligencia artificial."
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Expansión de Car Keys en Apple Wallet",
+      "historias": [
+        "VW Planning to Offer Apple Wallet Car Keys on iPhone",
+        "Car Keys in Apple Wallet coming to major new vehicle brand: report"
+      ],
+      "conclusion": "La noticia de que Volkswagen planea integrar las llaves de auto de Apple Wallet en sus vehículos futuros, sumándose a otras marcas, confirma una tendencia de Apple a expandir la funcionalidad de su billetera digital en el sector automotriz, mejorando la conveniencia para los usuarios de iPhone y Apple Watch."
+    }
+  ],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "tituloOriginal": "The latest AI news we announced in June 2026",
+      "tituloLimpio": "Novedades de IA de Google en junio de 2026",
+      "resumen": "Aquí están las últimas actualizaciones de IA de Google de junio de 2026.",
+      "porQueImporta": "Es relevante para mantenerse al día con los avances de Google en inteligencia artificial, que pueden influir en herramientas y aplicaciones futuras.",
+      "publicadoEn": "2026-07-01T18:15:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Google",
+        "IA",
+        "actualizaciones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/dove-mencare-takes-to-strava-and-social-media-to-promote-reformulation/824351/",
+      "tituloOriginal": "Dove Men+Care takes to Strava and social media to promote reformulation",
+      "tituloLimpio": "Dove Men+Care usa Strava y redes sociales para promocionar reformulación",
+      "resumen": "El desafío de fitness llega mientras Unilever pone un énfasis creciente en el marketing deportivo y de influencers.",
+      "porQueImporta": "Muestra estrategias de marketing digital y de influencers en acción, útiles para entender tendencias y posibles aplicaciones en proyectos propios.",
+      "publicadoEn": "2026-07-02T16:59:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "influencers",
+        "redes sociales",
+        "Unilever"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+      "tituloOriginal": "Achieving operational excellence with AI",
+      "tituloLimpio": "Lograr la excelencia operativa con IA",
+      "resumen": "Marcos como Lean Six Sigma y la gestión de procesos de negocio (BPM) ganaron tracción por prometer claridad en el caos, una forma estructurada de ordenar operaciones. Ambos ofrecieron un enfoque repetible.",
+      "porQueImporta": "Ofrece una perspectiva sobre cómo la IA puede integrarse en la optimización de procesos, algo clave para la automatización y la productividad.",
+      "publicadoEn": "2026-07-02T15:37:08.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "automatización",
+        "productividad",
+        "gestión de procesos"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81Z29v",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5google.com/2026/06/30/gemini-spark-mac-app/",
+      "tituloOriginal": "Gemini Spark rolling out to macOS app for local tasks, automation",
+      "tituloLimpio": "Gemini Spark se lanza en la app de macOS para tareas locales y automatización",
+      "resumen": "Como se adelantó en I/O 2026, Gemini para macOS ahora es compatible con Gemini Spark. Esta es la primera de dos grandes actualizaciones de la aplicación de escritorio que llegarán este verano.",
+      "porQueImporta": "Una nueva herramienta de IA de Google para macOS que permite tareas locales y automatización es directamente relevante para el flujo de trabajo de Guido.",
+      "publicadoEn": "2026-06-30T20:44:39.000Z",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "Gemini",
+        "macOS",
+        "IA",
+        "automatización",
+        "herramientas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/07/02/iphone-18-pro-rumor-recycles-claims-of-slower-ssd-on-high-capacity-models?utm_source=rss",
+      "tituloOriginal": "iPhone 18 Pro rumor recycles claims of slower SSD on high capacity models",
+      "tituloLimpio": "Rumor de iPhone 18 Pro: posibles SSD más lentos en modelos de alta capacidad",
+      "resumen": "Un nuevo rumor afirma que algunos modelos de iPhone 18 Pro usarán almacenamiento QLC NAND más lento, imitando un informe similar del iPhone 16 Pro de 2024. El iPhone 18 Pro de 1TB y 2TB podría no tener el mismo tipo de almacenamiento que los modelos de menor capacidad.",
+      "porQueImporta": "Es una noticia relevante para usuarios de Apple que consideran comprar modelos Pro, ya que podría afectar el rendimiento del almacenamiento.",
+      "publicadoEn": "2026-07-02T16:30:51.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "iPhone",
+        "Apple",
+        "hardware",
+        "rumores"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/linked/safaris-new-mcp-server-is-great-for-agents/",
+      "tituloOriginal": "Safari’s New MCP Server Is Great for Agents",
+      "tituloLimpio": "El nuevo servidor MCP de Safari es útil para agentes",
+      "resumen": "En Safari Technology Preview 247, se introduce el servidor Safari MCP, un servidor de Protocolo de Contexto de Modelo para desarrolladores web que hace el flujo de trabajo de desarrollo y depuración web más rápido y potente.",
+      "porQueImporta": "Una mejora en Safari para desarrolladores web y agentes de IA podría impactar en la eficiencia de herramientas y procesos relacionados con la web.",
+      "publicadoEn": "2026-07-02T12:12:36.000Z",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Safari",
+        "Apple",
+        "desarrollo web",
+        "IA"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/media-advertising/articles/giant-satellite-tv-company-files-231700614.html",
+      "tituloOriginal": "Giant satellite TV company files Chapter 11 bankruptcy",
+      "tituloLimpio": "Gran empresa de televisión satelital se declara en bancarrota",
+      "resumen": "",
+      "porQueImporta": "Aunque el resumen es escueto, la bancarrota de una gran empresa de TV satelital puede indicar cambios en el sector de medios y telecomunicaciones, con posibles efectos en el mercado de inversiones.",
+      "publicadoEn": "2026-07-01T23:17:00.000Z",
+      "imagen": "https://media.zenfs.com/en/thestreet_881/0eda1151915739c0d93e7efb4e378b95",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "bancarrota",
+        "medios"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-returns-to-62k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Bitcoin price taps new July high above $62K on weak US jobs data",
+      "tituloLimpio": "El precio de Bitcoin alcanza un nuevo máximo de julio por encima de los $62K por datos débiles de empleo en EE.UU.",
+      "resumen": "Bitcoin obtuvo ganancias diarias de casi el 4% en el segundo día de 'julio verde', ya que las señales del mercado laboral de EE.UU. apoyaron una política de flexibilización de la inflación por parte de la Reserva Federal.",
+      "porQueImporta": "Muestra la correlación entre los datos macroeconómicos de EE.UU. y el precio de Bitcoin, relevante para decisiones de inversión en criptomonedas.",
+      "publicadoEn": "2026-07-02T17:41:26.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/article-covers-205891-stablecoins-4b-bitcoin-exchange-reserves-july-charts.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Bitcoin",
+        "criptomonedas",
+        "inversión",
+        "mercado"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/rural/grandes-excluidos-tamberos-santafesinos-alertan-dramatica-situacion-sector-altos-niveles-endeudamiento_0_QH4WKj3sYq.html",
+      "tituloOriginal": "“Los grandes excluidos”: tamberos santafesinos alertan sobre la \"dramática\" situación del sector y los altos niveles de endeudamiento",
+      "tituloLimpio": "Tamberos santafesinos alertan sobre situación \"dramática\" del sector y alto endeudamiento",
+      "resumen": "La Mesa de Productores de Leche de la provincia (Meprolsafe) exigió medidas para la recomposición del precio pagado a los productores y refinanciamiento de las deudas.",
+      "porQueImporta": "Refleja problemas económicos en un sector productivo clave de Argentina, lo que puede tener implicaciones en la economía general y el consumo.",
+      "publicadoEn": "2026-07-02T17:14:05.000Z",
+      "imagen": "https://www.clarin.com/img/2022/01/05/gTVOHxQUU_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "campo",
+        "endeudamiento"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/corte-suprema-confirmo-cristina-kirchner-condenados-vialidad-deben-devolver-685000-millones_0_QmzjgZHFfL.html",
+      "tituloOriginal": "La Corte Suprema confirmó que Cristina Kirchner y los demás condenados en Vialidad deben devolver $ 685.000 millones",
+      "tituloLimpio": "La Corte Suprema confirmó que Cristina Kirchner y condenados en Vialidad deben devolver $685.000 millones",
+      "resumen": "La resolución del máximo tribunal desestimó los pedidos de nulidad y los intentos de frenar las medidas vinculadas a la ejecución de los bienes.",
+      "porQueImporta": "Noticia política y judicial de alto impacto en Argentina, con implicaciones en la percepción de la justicia y la política nacional.",
+      "publicadoEn": "2026-07-02T17:15:33.000Z",
+      "imagen": "https://www.clarin.com/img/2026/07/02/VlxLGdCct_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "política",
+        "justicia",
+        "corrupción"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/07/02/calculadora-del-plazo-fijo-en-julio-2026-cuanto-gano-en-cada-banco-si-invierto-300000/",
+      "tituloOriginal": "Calculadora del plazo fijo en julio 2026: cuánto gano en cada banco si invierto $300.000",
+      "tituloLimpio": "Calculadora del plazo fijo en julio 2026: cuánto se gana en cada banco al invertir $300.000",
+      "resumen": "Diferencias en entidades, tasas y resultados marcan el escenario para quienes buscan maximizar el rendimiento de sus ahorros en el corto plazo.",
+      "porQueImporta": "Información práctica y relevante para la gestión de ahorros e inversiones a corto plazo en Argentina.",
+      "publicadoEn": "2026-07-02T17:33:48.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/LJBMKGQAWFBBFGG2RGUXWLRQQM.jpg?auth=f76902583cc5bd8b3b5170161e01b545c0b0dfc748af695bbfcba6b8e868f092&smart=true&width=1920&height=1080",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "finanzas",
+        "inversión",
+        "plazo fijo"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/07/02/un-argentino-es-candidato-a-integrar-la-comision-para-el-control-de-los-archivos-de-interpol/",
+      "tituloOriginal": "Un argentino es candidato a integrar la Comisión para el Control de los Archivos de Interpol",
+      "tituloLimpio": "Un argentino es candidato a integrar la Comisión para el Control de los Archivos de Interpol",
+      "resumen": "Se trata de Ramiro Anzit Guerrero, un abogado con reconocida experiencia internacional en asuntos policiales y trayectoria en el estudio y ejercicio de derecho penal. Es el único representante latinoamericano.",
+      "porQueImporta": "Destaca la participación argentina en organismos internacionales, mostrando reconocimiento profesional a nivel global.",
+      "publicadoEn": "2026-07-02T18:13:51.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/OQM4XK35HNFMFGYEAROFJQCS4U.JPG?auth=c74634f491642238e7da739a43f168bd49114bb49dbb59be20eec06b512b43c4&smart=true&width=741&height=443",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "internacional",
+        "política"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/campo/la-nieve-sorprendio-al-campo-en-un-momento-decisivo-nid02072026/",
+      "tituloOriginal": "La nieve sorprendió al campo en un momento decisivo",
+      "tituloLimpio": "La nieve sorprendió al campo en un momento decisivo",
+      "resumen": "El fenómeno que se registró en el sudeste bonaerense volvió a frenar la cosecha de soja en zonas de Tres Arroyos, Gonzales Chaves, San Cayetano y Necochea; productores aseguran que aún queda una parte importante de la oleaginosa y el maíz sin levantar.",
+      "porQueImporta": "Impacto directo de fenómenos climáticos en la producción agrícola argentina, con posibles efectos en la economía y los precios de alimentos.",
+      "publicadoEn": "2026-07-02T18:14:19.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/EAIAVTDHPRD2ND23XGK2KJLA74.jpeg?auth=83af331ee2a119aa68f44de5c57e855fc535aaddff6195faacf0adf3eadcbd37&smart=true&width=960&height=720",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "campo",
+        "clima",
+        "economía"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Politica",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-anticipo-del-presupuesto-y-los-cambios-en-la-jefatura-de-nid02072026/",
+      "tituloOriginal": "Javier Milei y sus medidas, en VIVO: el anticipo del Presupuesto y los cambios en la jefatura de Gabinete",
+      "tituloLimpio": "Javier Milei y sus medidas, en VIVO: anticipo del Presupuesto y cambios en la jefatura de Gabinete",
+      "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios.",
+      "porQueImporta": "Información clave sobre la política y economía argentina, incluyendo decisiones presidenciales y cambios en el gabinete.",
+      "publicadoEn": "2026-07-02T18:18:18.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/PSAH7RXQK5AV7NURJPERB6XWSA.JPG?auth=57530a9c176ab80bde18cc6000a10b10c8d66a6064b295e825ebe46bb7490558&smart=true&width=1280&height=853",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "política",
+        "gobierno",
+        "economía"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "fuente": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/marketing-vanguard-at-cannes-human-ingenuity-still-runs-the-game-ft-dara-treseder/",
+      "tituloOriginal": "Marketing Vanguard at Cannes: Human Ingenuity Still Runs the Game ft. Dara Treseder",
+      "tituloLimpio": "Marketing Vanguard en Cannes: la ingeniosidad humana sigue dominando",
+      "resumen": "Es una era dorada para los creativos, y la confianza sigue siendo lo más importante.",
+      "porQueImporta": "Ofrece una perspectiva sobre el estado actual del marketing y la importancia de la creatividad y la confianza, relevante para profesionales del marketing y el arte.",
+      "publicadoEn": "2026-07-02T14:03:12.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "creatividad",
+        "tendencias"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-07-02T18:25:26.476Z"
+  }
+}
