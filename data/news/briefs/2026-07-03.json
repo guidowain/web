@@ -1,70 +1,68 @@
 {
   "fecha": "2026-07-03",
-  "generadoEn": "2026-07-03T14:12:40.046Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "En el ámbito de la IA, Google anunció sus novedades de junio, mientras que Meta reconoce un progreso más lento de lo esperado en agentes de IA. Midjourney mostró un escáner médico futurista, aunque sin pruebas de funcionamiento. Apple, por su parte, suspendió el desarrollo de los AirPods Pro con cámara, pero se destaca por la mejora de Siri AI y el avance de su Game Porting Toolkit. En el plano económico, el crecimiento del empleo en EE.UU. fue menor al esperado en junio, y en Argentina, la litigiosidad en riesgos del trabajo alcanzó un récord. El mercado de motos se estabilizó en junio y el dólar mantiene su cotización. En marketing, Dove Men+Care lanzó una campaña en Strava y redes sociales.",
+  "generadoEn": "2026-07-03T18:12:44.014Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Hoy tenemos novedades importantes sobre la economía argentina, con caídas en la recaudación y planes para la deuda. En el ámbito tecnológico, Apple y Google presentaron actualizaciones de IA y productos. También hay noticias sobre el mercado laboral en EE.UU. y el marketing digital.",
   "radarPersonal": [
     {
-      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "Apple suspende el desarrollo de los AirPods Pro con cámara",
-      "resumen": "El desarrollo de los rumoreados AirPods Pro con cámara de Apple fue suspendido, según un filtrador.",
-      "categoria": "Apple",
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Google anunció novedades en inteligencia artificial durante junio de 2026",
+      "resumen": "Google presentó las últimas actualizaciones de IA de junio de 2026.",
+      "categoria": "AI",
       "fuentes": [
-        "MacRumors"
+        "Google AI Blog"
       ],
       "urls": [
-        "https://www.macrumors.com/2026/07/03/camera-airpods-pro-development-suspended-leaker/"
+        "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/"
       ],
       "score": 100,
       "tags": [
-        "AirPods Pro",
-        "cámara",
-        "desarrollo",
-        "suspendido"
+        "Google",
+        "IA",
+        "actualizaciones"
       ]
     },
     {
-      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
-      "titulo": "Siri AI de Apple mejora y podría dominar la IA",
-      "resumen": "Siri AI es finalmente buena y Apple podría dominar la IA por su enfoque en usuarios y casos de uso.",
-      "categoria": "Apple",
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "La Nación y las Provincias perdieron $6,5 billones de recaudación en el primer semestre",
+      "resumen": "La caída de los ingresos se debe a la menor actividad económica y a la reducción de impuestos. La rebaja de retenciones al campo generó una mayor pérdida en el gobierno federal.",
+      "categoria": "Argentina",
       "fuentes": [
-        "AppleInsider"
+        "Ambito"
       ],
       "urls": [
-        "https://appleinsider.com/articles/26/07/03/siri-ai-is-finally-good-and-apple-is-going-to-with-the-ai-wars?utm_source=rss"
+        "https://www.ambito.com/economia/la-nacion-y-las-provincias-perdieron-65-billones-recaudacion-el-primer-semestre-n6295779"
       ],
       "score": 100,
       "tags": [
-        "Siri",
-        "IA",
-        "Apple",
-        "dominio"
+        "Argentina",
+        "economía",
+        "recaudación"
       ]
     },
     {
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "titulo": "Midjourney muestra un escáner médico futurista sin pruebas de funcionamiento",
-      "resumen": "Midjourney mostró más de su escáner médico futurista, pero no hay muchas pruebas de que funcione.",
+      "titulo": "Anthropic busca desarrollar sus propios medicamentos",
+      "resumen": "Anthropic anunció Claude Science, una nueva \"mesa de trabajo de IA para científicos\" que integra herramientas y datos fragmentados en un solo entorno, y genera figuras y visuales.",
       "categoria": "AI",
       "fuentes": [
         "The Verge AI"
       ],
       "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video"
+        "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development"
       ],
       "score": 100,
       "tags": [
-        "Midjourney",
-        "escáner médico",
+        "Anthropic",
         "IA",
-        "tecnología"
+        "ciencia",
+        "medicamentos"
       ]
     },
     {
       "id": "9to5mac-aHR0cHM6Ly85dG81Z29v",
-      "titulo": "Gemini Spark llega a la app de macOS para tareas locales y automatización",
-      "resumen": "Gemini para macOS ahora soporta Gemini Spark para tareas locales y automatización.",
+      "titulo": "Gemini Spark llega a la aplicación de macOS para tareas locales y automatización",
+      "resumen": "Gemini para macOS ahora es compatible con Gemini Spark. Esta es la primera de dos grandes actualizaciones de la aplicación de escritorio que llegarán este verano.",
       "categoria": "Apple",
       "fuentes": [
         "9to5Mac"
@@ -74,117 +72,88 @@
       ],
       "score": 100,
       "tags": [
-        "Gemini Spark",
+        "Apple",
         "macOS",
-        "automatización",
-        "tareas locales"
+        "Gemini",
+        "automatización"
       ]
     },
     {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "titulo": "Lograr excelencia operativa con IA",
-      "resumen": "Marcos como Lean Six Sigma y la gestión de procesos de negocio (BPM) prometieron claridad en el caos.",
-      "categoria": "AI",
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "titulo": "AirPods con cámaras aparecen en el código beta de iOS 27",
+      "resumen": "El código de la última beta para desarrolladores de iOS 27 describe el manejo de imágenes de un par de cámaras, y sugiere que se trata de los esperados AirPods con cámaras.",
+      "categoria": "Apple",
       "fuentes": [
-        "MIT Technology Review AI"
+        "AppleInsider"
       ],
       "urls": [
-        "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/"
+        "https://appleinsider.com/articles/26/07/03/airpods-with-cameras-show-up-in-ios-27-beta-code?utm_source=rss"
       ],
       "score": 100,
       "tags": [
-        "IA",
-        "excelencia operativa",
-        "Lean Six Sigma",
-        "BPM"
+        "Apple",
+        "AirPods",
+        "iOS",
+        "cámaras"
       ]
     }
   ],
   "loImportante": [
-    "La litigiosidad en el sistema de riesgos del trabajo en Argentina alcanzó un récord histórico.",
-    "El crecimiento del empleo en EE.UU. en junio fue menor a lo esperado, con una baja en la tasa de desempleo.",
-    "Mark Zuckerberg de Meta reconoce que los agentes de IA no progresaron tan rápido como esperaba.",
-    "Apple suspendió el desarrollo de los AirPods Pro con cámara, pero Siri AI muestra mejoras significativas.",
-    "El mercado de motos en Argentina se estabilizó en junio, tras un récord en abril."
+    "La economía argentina muestra una fuerte caída en la recaudación y el gobierno prepara un plan financiero para la deuda de 2027.",
+    "Google y Anthropic avanzan en IA con nuevas herramientas y enfoques, incluyendo el desarrollo de medicamentos.",
+    "Apple sigue innovando con posibles AirPods con cámaras y la integración de Gemini Spark en macOS para automatización.",
+    "El mercado laboral de EE.UU. tuvo un crecimiento de empleo menor al esperado en junio, con una baja en la tasa de desempleo.",
+    "Se observa una tendencia en marketing hacia el uso de desafíos de fitness y redes sociales para promocionar productos."
   ],
   "oportunidades": [
     {
       "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
       "categoria": "Automation",
-      "titulo": "Aplicar IA para mejorar la excelencia operativa",
-      "detalle": "La IA puede ofrecer una forma estructurada de ordenar operaciones complejas, similar a marcos como Lean Six Sigma y BPM.",
+      "titulo": "Lograr excelencia operativa con IA",
+      "detalle": "Los marcos como Lean Six Sigma y la gestión de procesos de negocio (BPM) prometen claridad en el caos. Ambos ofrecieron una forma repetible.",
       "acciones": [
-        "Investigar herramientas de IA para optimizar procesos de retoque fotográfico.",
-        "Explorar cómo la IA puede automatizar tareas repetitivas en la gestión de proyectos."
-      ]
-    },
-    {
-      "id": "9to5mac-aHR0cHM6Ly85dG81Z29v",
-      "categoria": "Automation",
-      "titulo": "Aprovechar Gemini Spark para automatización en macOS",
-      "detalle": "Gemini Spark permite realizar tareas locales y automatización directamente desde la aplicación de macOS.",
-      "acciones": [
-        "Evaluar la integración de Gemini Spark en flujos de trabajo de retoque y arte con IA.",
-        "Configurar automatizaciones para tareas recurrentes en macOS usando Gemini Spark."
+        "Explorar la aplicación de IA en la optimización de flujos de trabajo de retoque fotográfico.",
+        "Investigar herramientas de IA que integren principios de Lean Six Sigma para mejorar la eficiencia."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "categoria": "Regulatory",
-      "titulo": "Récord de litigiosidad en riesgos del trabajo en Argentina",
-      "detalle": "La alta litigiosidad en el sistema de riesgos del trabajo en Argentina genera que gran parte de las cuotas de las empresas se destinen a previsionar juicios.",
-      "mitigacion": "Revisar y fortalecer las políticas internas de seguridad y salud laboral para minimizar riesgos de juicios."
-    },
-    {
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
-      "titulo": "Progreso lento en agentes de IA según Meta",
-      "detalle": "Mark Zuckerberg informó a su personal que los agentes de IA no han progresado tan rápido como esperaba.",
-      "mitigacion": "Mantener expectativas realistas sobre el avance de ciertas tecnologías de IA y diversificar las herramientas y plataformas utilizadas."
+      "titulo": "El progreso de los agentes de IA no es tan rápido como se esperaba",
+      "detalle": "Mark Zuckerberg informó a su personal que los agentes de IA no han progresado tan rápido como esperaba. En una reunión interna, el CEO de Meta habría dicho que los esfuerzos de desarrollo de IA no avanzaban tan rápido como se anticipaba.",
+      "mitigacion": "Mantener expectativas realistas sobre el desarrollo de IA y diversificar las herramientas y plataformas utilizadas. No depender exclusivamente de una única tecnología o proveedor de IA."
     }
   ],
-  "conexiones": [],
-  "noticias": [
+  "conexiones": [
     {
-      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "categoria": "AI",
-      "fuente": "Google AI Blog",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-      "tituloOriginal": "The latest AI news we announced in June 2026",
-      "tituloLimpio": "Google anuncia sus últimas novedades de IA de junio de 2026",
-      "resumen": "Aquí están las últimas actualizaciones de IA de Google de junio de 2026.",
-      "porQueImporta": "Es relevante para estar al tanto de los avances y herramientas que Google está desarrollando en inteligencia artificial, lo cual puede impactar en el trabajo de Guido con IA.",
-      "publicadoEn": "2026-07-01T18:15:00.000Z",
-      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "Google",
-        "IA",
-        "actualizaciones",
-        "novedades"
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "titulo": "Trump y las criptomonedas",
+      "historias": [
+        "Trump dice que no hay 'nada malo' con la ganancia inesperada de criptomonedas de su familia.",
+        "Donald Trump dice que 'no hay nada malo' con una ganancia inesperada de criptomonedas de 1.400 millones de dólares mientras estaba en el cargo."
       ],
-      "tambienVistoEn": []
-    },
+      "conclusion": "Las noticias de CoinDesk y CoinTelegraph reportan que Donald Trump defendió las ganancias de su familia en criptomonedas, afirmando que no hay irregularidades, en medio de discusiones sobre la regulación de activos digitales."
+    }
+  ],
+  "noticias": [
     {
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Apple",
       "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/07/03/camera-airpods-pro-development-suspended-leaker/",
-      "tituloOriginal": "Camera-Equipped AirPods Pro Development 'Suspended,' Leaker Claims",
-      "tituloLimpio": "Desarrollo de AirPods Pro con cámara 'suspendido', según filtrador",
-      "resumen": "El desarrollo de los rumoreados AirPods Pro con cámara de Apple fue suspendido, según un filtrador.",
-      "porQueImporta": "Aunque es una suspensión, es una noticia importante para los usuarios de Apple y para entender la dirección de los productos futuros de la marca.",
-      "publicadoEn": "2026-07-03T10:12:53.000Z",
-      "globalScore": 96,
+      "url": "https://www.macrumors.com/2026/07/03/the-macrumors-show-latest-iphone-18-pro-rumors/",
+      "tituloOriginal": "The MacRumors Show: Latest iPhone 18 Pro Leaks and Rumors",
+      "tituloLimpio": "El programa MacRumors: últimas filtraciones y rumores del iPhone 18 Pro",
+      "resumen": "En el episodio de esta semana de The MacRumors Show, se discuten las últimas filtraciones y rumores sobre el iPhone 18 Pro.",
+      "porQueImporta": "Interesante para conocer las posibles novedades de Apple, aunque son rumores. Puede influir en futuras decisiones de compra o inversión en el ecosistema Apple.",
+      "publicadoEn": "2026-07-03T16:13:58.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "AirPods Pro",
-        "cámara",
-        "desarrollo"
+        "iPhone",
+        "rumores"
       ],
       "tambienVistoEn": []
     },
@@ -194,38 +163,18 @@
       "fuente": "Sherwood",
       "url": "https://sherwood.news/markets/us-non-farm-payrolls-june-2026-jobs-report/",
       "tituloOriginal": "US job growth falls far short of estimates in June; unemployment rate unexpectedly dips to 4.2%",
-      "tituloLimpio": "El crecimiento del empleo en EE.UU. en junio es menor a lo estimado; el desempleo baja al 4.2%",
-      "resumen": "El crecimiento del empleo fue de 57.000, muy por debajo de las estimaciones de los analistas de 113.000.",
-      "porQueImporta": "Aunque es una noticia de EE.UU., el mercado laboral estadounidense tiene un impacto global y puede influir en las decisiones de inversión en ETFs.",
+      "tituloLimpio": "El crecimiento del empleo en EE.UU. en junio fue menor al estimado; la tasa de desempleo bajó al 4,2%",
+      "resumen": "El crecimiento del empleo fue de 57.000. Los analistas preveían un crecimiento de 113.000 empleos; los mercados de predicción eran más optimistas, esperando un crecimiento de empleo superior a 125.000 pero inferior a 150.000.",
+      "porQueImporta": "Indica la salud del mercado laboral estadounidense, lo que puede impactar en las políticas de la Reserva Federal y, por ende, en los mercados globales y las inversiones en ETFs.",
       "publicadoEn": "2026-07-02T12:35:15.000Z",
       "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/2273898465_sunrise-florida-job-seekers-wait-in-line-to-enter-the-mega-jobnewsusa-south-florida-job-fair.jpg?w=1600",
       "globalScore": 90,
       "personalScore": 100,
       "tags": [
+        "Finanzas",
         "EE.UU.",
         "empleo",
-        "desempleo",
         "economía"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "categoria": "Argentina",
-      "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/a-30-anos-creacion-del-sistema-riesgos-del-trabajo-la-litigiosidad-es-record-n6295461",
-      "tituloOriginal": "A 30 años de creación del sistema de riesgos del trabajo la litigiosidad es récord",
-      "tituloLimpio": "A 30 años del sistema de riesgos del trabajo, la litigiosidad es récord en Argentina",
-      "resumen": "Las aseguradoras reclaman a las provincias avanzar con la designación de los cuerpos forenses. La alta litigiosidad genera que la mayor parte de las cuotas que pagan las empresas se destinen a previsionar juicios.",
-      "porQueImporta": "Es una noticia clave para Argentina, que afecta directamente el entorno empresarial y legal, y puede tener implicaciones para cualquier negocio en el país.",
-      "publicadoEn": "2026-07-02T20:00:00.000Z",
-      "globalScore": 92,
-      "personalScore": 100,
-      "tags": [
-        "Argentina",
-        "riesgos del trabajo",
-        "litigiosidad",
-        "empresas"
       ],
       "tambienVistoEn": []
     },
@@ -235,162 +184,35 @@
       "fuente": "Marketing Dive",
       "url": "https://www.marketingdive.com/news/dove-mencare-takes-to-strava-and-social-media-to-promote-reformulation/824351/",
       "tituloOriginal": "Dove Men+Care takes to Strava and social media to promote reformulation",
-      "tituloLimpio": "Dove Men+Care usa Strava y redes sociales para promover su reformulación",
+      "tituloLimpio": "Dove Men+Care utiliza Strava y redes sociales para promover su reformulación",
       "resumen": "El desafío de fitness llega mientras Unilever pone un mayor énfasis en el marketing deportivo y de influencers.",
-      "porQueImporta": "Ejemplo de estrategia de marketing digital y uso de plataformas como Strava, relevante para entender tendencias en marketing y promoción de productos.",
+      "porQueImporta": "Ejemplo práctico de estrategias de marketing digital y uso de influencers, relevante para entender tendencias y aplicar en proyectos propios.",
       "publicadoEn": "2026-07-02T16:59:00.000Z",
-      "globalScore": 94,
+      "globalScore": 88,
       "personalScore": 100,
       "tags": [
         "Marketing",
-        "Dove Men+Care",
-        "Strava",
         "redes sociales",
         "influencers"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "categoria": "AI",
-      "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-      "tituloOriginal": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
-      "tituloLimpio": "Mark Zuckerberg dice que los agentes de IA no progresaron tan rápido como esperaba",
-      "resumen": "En una reunión interna, el CEO de Meta habría dicho que los esfuerzos de desarrollo de IA no avanzaban tan rápido como se anticipaba.",
-      "porQueImporta": "Ofrece una perspectiva realista sobre los desafíos en el desarrollo de IA, incluso para grandes empresas como Meta, lo cual es útil para Guido en su trabajo con IA.",
-      "publicadoEn": "2026-07-02T23:38:10.000Z",
-      "globalScore": 86,
-      "personalScore": 100,
-      "tags": [
-        "Meta",
-        "Mark Zuckerberg",
-        "IA",
-        "desarrollo"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "categoria": "AI",
-      "fuente": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
-      "tituloOriginal": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
-      "tituloLimpio": "Un vistazo al escáner médico de Midjourney deja muchas preguntas sin respuesta",
-      "resumen": "Midjourney mostró más de su escáner médico futurista. Todavía no ha mostrado muchas pruebas de que funcione.",
-      "porQueImporta": "Interesante caso de uso de IA en medicina, pero también una advertencia sobre la necesidad de pruebas concretas, relevante para la aplicación práctica de la IA.",
-      "publicadoEn": "2026-07-03T11:49:10.000Z",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "Midjourney",
-        "IA",
-        "escáner médico",
-        "tecnología"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "categoria": "AI",
-      "fuente": "MIT Technology Review AI",
-      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-      "tituloOriginal": "Achieving operational excellence with AI",
-      "tituloLimpio": "Lograr excelencia operativa con IA",
-      "resumen": "Marcos como Lean Six Sigma y la gestión de procesos de negocio (BPM) prometieron claridad en el caos.",
-      "porQueImporta": "Explora cómo la IA puede mejorar la eficiencia y la gestión de procesos, directamente aplicable a la automatización y optimización de flujos de trabajo de Guido.",
-      "publicadoEn": "2026-07-02T15:37:08.000Z",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "IA",
-        "excelencia operativa",
-        "automatización",
-        "gestión de procesos"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "9to5mac-aHR0cHM6Ly85dG81Z29v",
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Apple",
       "fuente": "9to5Mac",
-      "url": "https://9to5google.com/2026/06/30/gemini-spark-mac-app/",
-      "tituloOriginal": "Gemini Spark rolling out to macOS app for local tasks, automation",
-      "tituloLimpio": "Gemini Spark llega a la app de macOS para tareas locales y automatización",
-      "resumen": "Gemini para macOS ahora soporta Gemini Spark. Esta es la primera de dos grandes actualizaciones de la app de escritorio que llegarán este verano.",
-      "porQueImporta": "Una nueva herramienta de automatización y IA para macOS es muy relevante para Guido, que usa productos Apple y busca optimizar sus tareas.",
-      "publicadoEn": "2026-06-30T20:44:39.000Z",
-      "globalScore": 92,
-      "personalScore": 100,
-      "tags": [
-        "Gemini Spark",
-        "macOS",
-        "automatización",
-        "IA",
-        "Apple"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
-      "categoria": "Apple",
-      "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/07/03/siri-ai-is-finally-good-and-apple-is-going-to-with-the-ai-wars?utm_source=rss",
-      "tituloOriginal": "Siri AI is finally good, and Apple is going to win the AI wars",
-      "tituloLimpio": "Siri AI es finalmente buena y Apple ganará las guerras de IA",
-      "resumen": "Apple lo está haciendo de nuevo, llega tarde a la fiesta. Pero eventualmente dominará la IA por cómo piensa en los usuarios y en los casos de uso.",
-      "porQueImporta": "Destaca la mejora de Siri y el enfoque de Apple en la experiencia del usuario con IA, lo cual es importante para Guido como usuario de Apple y profesional de IA.",
-      "publicadoEn": "2026-07-03T12:50:18.000Z",
+      "url": "https://9to5mac.com/2026/07/03/we-really-need-a-way-to-hand-over-ownership-of-an-apple-home/",
+      "tituloOriginal": "We really need a way to hand over ownership of an Apple Home",
+      "tituloLimpio": "Necesitamos una forma de transferir la propiedad de un Apple Home",
+      "resumen": "Una de las primeras cosas que quería hacer en mi nuevo hogar era configurar la tecnología de hogar inteligente. Eso ya casi está completo.",
+      "porQueImporta": "Destaca una limitación en la gestión de dispositivos Apple Home, relevante para usuarios del ecosistema Apple que buscan automatización y control de hogar.",
+      "publicadoEn": "2026-07-03T16:00:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "Siri",
-        "IA",
-        "experiencia de usuario"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
-      "categoria": "Apple",
-      "fuente": "MacStories",
-      "url": "https://www.macstories.net/linked/snazzy-labs-puts-the-macs-upcoming-game-porting-toolkit-4-through-its-paces/",
-      "tituloOriginal": "Snazzy Labs Puts the Mac’s Upcoming Game Porting Toolkit 4 Through Its Paces",
-      "tituloLimpio": "Snazzy Labs prueba el próximo Game Porting Toolkit 4 de Mac",
-      "resumen": "En Snazzy Labs, Quinn Nelson ofrece un análisis en profundidad de los cambios que llegarán al Game Porting Toolkit de Apple con macOS 27 este otoño.",
-      "porQueImporta": "Aunque enfocado en juegos, el Game Porting Toolkit muestra el avance de Apple en rendimiento y compatibilidad, lo cual puede tener implicaciones para otras aplicaciones exigentes en macOS.",
-      "publicadoEn": "2026-07-01T19:37:02.000Z",
-      "globalScore": 98,
-      "personalScore": 100,
-      "tags": [
-        "Apple",
-        "macOS",
-        "Game Porting Toolkit",
-        "rendimiento"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
-      "categoria": "Finance",
-      "fuente": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-tumbles-apple-robinhood-buy-signals-tesla-sandisk-dive/?src=A00220&yptr=yahoo",
-      "tituloOriginal": "Dow Jones Futures Fall Techs Rise After Tesla, Sandisk, AI Stocks Dive; Apple, Robinhood Flash Buy Signals",
-      "tituloLimpio": "Futuros del Dow Jones caen, tecnológicas suben tras la caída de Tesla, Sandisk y acciones de IA; Apple y Robinhood muestran señales de compra",
-      "resumen": "No se proporcionó resumen.",
-      "porQueImporta": "Información relevante sobre el mercado de valores, con mención de acciones de IA y Apple, útil para las decisiones de inversión de Guido.",
-      "publicadoEn": "2026-07-03T13:44:50.000Z",
-      "imagen": "https://media.zenfs.com/en/ibd.com/3466ef5c612e56be40cc67bae4229f0d",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "Finanzas",
-        "Dow Jones",
-        "acciones",
-        "IA",
-        "Apple",
-        "inversión"
+        "Hogar Inteligente",
+        "automatización"
       ],
       "tambienVistoEn": []
     },
@@ -398,20 +220,20 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-viernes-03-julio_0_PDMbgYz58h.html",
-      "tituloOriginal": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este viernes 03 de julio",
-      "tituloLimpio": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este viernes 03 de julio",
-      "resumen": "Desde el oficial hasta el blue y el turista, todos los tipos de cambio. Mirá la cotización minuto a minuto.",
-      "porQueImporta": "Noticia esencial para cualquier residente en Argentina, ya que el valor del dólar impacta directamente en la economía personal y profesional.",
-      "publicadoEn": "2026-07-03T12:00:02.000Z",
-      "imagen": "https://www.clarin.com/img/2015/08/12/rJeoyd-cEx_1200x630.jpg",
-      "globalScore": 94,
+      "url": "https://www.clarin.com/economia/va-bajar-nafta-ypf-clave-numero-inflacion_0_I6tCC9fJ3i.html",
+      "tituloOriginal": "Cuándo va a bajar la nafta y por qué YPF será clave en el número de inflación",
+      "tituloLimpio": "Cuándo bajará la nafta y por qué YPF será clave en el número de inflación",
+      "resumen": "El mercado anticipa un fuerte impacto de la caída de los precios de los combustibles en la inflación. Las empresas estiman que podría suceder entre agosto y septiembre.",
+      "porQueImporta": "Noticia de impacto directo en la economía personal y familiar en Argentina, afectando costos de transporte y el panorama inflacionario general.",
+      "publicadoEn": "2026-07-03T17:21:07.000Z",
+      "imagen": "https://www.clarin.com/img/2026/06/15/zSQWQEduG_1200x630__1.jpg",
+      "globalScore": 90,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "dólar",
-        "cotización",
-        "economía"
+        "economía",
+        "inflación",
+        "combustibles"
       ],
       "tambienVistoEn": []
     },
@@ -419,20 +241,20 @@
       "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Politica",
-      "url": "https://www.clarin.com/politica/caso-libra-justicia-decidio-apartar-querellantes-causa-investiga-milei_0_asvsmo21F8.html",
-      "tituloOriginal": "Caso $LIBRA: la Justicia decidió apartar a los querellantes en la causa en la que se investiga a Milei",
-      "tituloLimpio": "Caso $LIBRA: la Justicia aparta a los querellantes en la causa que investiga a Milei",
-      "resumen": "Hizo lugar a un pedido de la defensa del lobbista Mauricio Novelli, que argumenta que no existió una criptoestafa.",
-      "porQueImporta": "Noticia de interés político y judicial en Argentina, relevante para entender el panorama local.",
-      "publicadoEn": "2026-07-03T13:42:55.000Z",
-      "imagen": "https://www.clarin.com/img/2025/02/15/lyy6VH2_X_1200x630__1.jpg",
+      "url": "https://www.clarin.com/politica/camara-federal-acumulo-causas-rulo-dolar-quedaron-cargo-juez-lijo_0_qOMHlVUmbZ.html",
+      "tituloOriginal": "La Cámara Federal acumuló dos causas del rulo con el dólar y quedaron a cargo del juez Lijo",
+      "tituloLimpio": "La Cámara Federal acumuló dos causas del rulo con el dólar y quedaron a cargo del juez Lijo",
+      "resumen": "Había una disputa entre ese magistrado y María Servini, que investigan las maniobras durante el gobierno de Alberto Fernández.",
+      "porQueImporta": "Refleja la situación política y judicial en Argentina, con investigaciones sobre manejos económicos que pueden influir en la percepción del riesgo país.",
+      "publicadoEn": "2026-07-03T16:10:54.000Z",
+      "imagen": "https://www.clarin.com/img/2026/06/09/SPWA1d9y5_1200x630__1.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
         "política",
         "justicia",
-        "Milei"
+        "dólar"
       ],
       "tambienVistoEn": []
     },
@@ -440,20 +262,41 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/07/03/tras-el-record-historico-de-abril-el-mercado-de-motos-se-estabilizo-en-junio-cuales-fueron-los-10-modelos-mas-vendidos/",
-      "tituloOriginal": "Tras el récord histórico de abril, el mercado de motos se estabilizó en junio: cuáles fueron los 10 modelos más vendidos",
-      "tituloLimpio": "Tras el récord histórico de abril, el mercado de motos se estabilizó en junio en Argentina",
-      "resumen": "Luego de dos meses de retroceso, los patentamientos se estabilizaron y alcanzaron las 68.390 unidades. Aún así, fueron 42,3% más altos que un año atrás.",
-      "porQueImporta": "Indicador económico local que muestra la dinámica del consumo y la industria en Argentina.",
-      "publicadoEn": "2026-07-03T14:10:26.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/K4RGOHSD2FAB7CBCO7BNV4CBGQ.png?auth=2c0489748083f6bba2d590d738e8e2c136d6defb9f4859a5a5b18b5bfc54a2b7&smart=true&width=1536&height=1024",
-      "globalScore": 90,
+      "url": "https://www.infobae.com/economia/2026/07/03/economia-presentara-el-lunes-un-programa-financiero-para-cubrir-los-abultados-vencimientos-de-deuda-de-2027/",
+      "tituloOriginal": "Economía presentará el lunes un programa financiero para cubrir los abultados vencimientos de deuda de 2027",
+      "tituloLimpio": "Economía presentará el lunes un programa financiero para cubrir los vencimientos de deuda de 2027",
+      "resumen": "El ministro de Economía, Luis Caputo, compartirá el detalle sobre cómo se afrontarán los compromisos en moneda extranjera hasta el final del mandato de Javier Milei.",
+      "porQueImporta": "Información crucial sobre la estrategia económica del gobierno argentino frente a la deuda, con impacto directo en la estabilidad financiera y las expectativas de inversión.",
+      "publicadoEn": "2026-07-03T18:06:13.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/JCNUP2ROARFCBHI57PAOOTEX4I.jpg?auth=a653aa0a0fc68ca43189317cc5ad21aaedf717c95602642ed08b5f8ad0227e0d&smart=true&width=1920&height=1080",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "mercado",
-        "motos",
-        "economía"
+        "economía",
+        "deuda",
+        "finanzas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/07/03/jorge-ferraresi-dejo-la-intendencia-de-avellaneda-para-concentrarse-en-la-campana-bonaerense-de-2027/",
+      "tituloOriginal": "Jorge Ferraresi dejó la intendencia de Avellaneda para concentrarse en la campaña bonaerense de 2027",
+      "tituloLimpio": "Jorge Ferraresi dejó la intendencia de Avellaneda para concentrarse en la campaña bonaerense de 2027",
+      "resumen": "El jefe comunal se tomó licencia en el municipio y comenzará a recorrer la provincia de Buenos Aires. Dejó al mando a su esposa, la arquitecta Magdalena Sierra.",
+      "porQueImporta": "Movimiento político relevante en la provincia de Buenos Aires, que puede indicar futuras candidaturas y cambios en el panorama político local.",
+      "publicadoEn": "2026-07-03T17:06:22.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/QBYZQM4ET5AB3BJ6BYLQ25LMR4.jpg?auth=1d30197d5b2eca1316c7aacb21867b198da77a53f39c13babbf5416d598aeb9b&smart=true&width=1920&height=1080",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "política",
+        "Buenos Aires",
+        "elecciones"
       ],
       "tambienVistoEn": []
     },
@@ -461,20 +304,20 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid03072026/",
-      "tituloOriginal": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 3 de julio, minuto a minuto",
-      "tituloLimpio": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 3 de julio",
-      "resumen": "La divisa oficial opera a $1510 para venta; el dólar blue cotiza a $1525 para la misma operación.",
-      "porQueImporta": "Información crucial para la economía diaria en Argentina, complementando la noticia de Clarín sobre el dólar.",
-      "publicadoEn": "2026-07-03T14:00:00.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/36KKQDRO4FFFLC4MZSW44FTLLA.jpg?auth=5d30c391ec7688e0cdbd5a3863b16e8d363be5fa1336fca7524247f26855d15c&smart=true&width=2000&height=1333",
+      "url": "https://www.lanacion.com.ar/economia/campo/la-justicia-suspendio-el-pliego-y-el-cronograma-de-la-venta-de-la-lactea-sancor-tras-un-planteo-de-nid03072026/",
+      "tituloOriginal": "La Justicia suspendió el pliego y el cronograma de venta de la láctea SanCor tras un planteo de Gustavo Scaglione",
+      "tituloLimpio": "La Justicia suspendió el pliego y el cronograma de venta de la láctea SanCor tras un planteo de Gustavo Scaglione",
+      "resumen": "La Cámara de Apelaciones de Rafaela hizo lugar a un recurso de la firma del empresario, consideró que tenía derecho a una apelación y cuestionó el rechazo a un escrito del peticionante.",
+      "porQueImporta": "Muestra la complejidad de los procesos de venta de grandes empresas en Argentina y la intervención judicial, relevante para entender el clima de negocios.",
+      "publicadoEn": "2026-07-03T17:53:25.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/QPPLBZTUHRG7VMYBDY64LTQONQ.jpeg?auth=2ccf0513bb24e27533e533f982d27c97d1b891f75098366396d7e9d4f0dd4353&smart=true&width=786&height=524",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "dólar",
-        "dólar blue",
-        "cotización"
+        "economía",
+        "justicia",
+        "empresas"
       ],
       "tambienVistoEn": []
     },
@@ -482,26 +325,45 @@
       "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Politica",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-cambios-en-la-estructura-del-gobierno-y-negociaciones-electorales-nid03072026/",
-      "tituloOriginal": "Javier Milei y sus medidas, en vivo: cambios en la estructura del Gobierno y negociaciones electorales",
-      "tituloLimpio": "Javier Milei y sus medidas, en vivo: cambios en la estructura del Gobierno y negociaciones electorales",
-      "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios.",
-      "porQueImporta": "Seguimiento de la política nacional en Argentina, fundamental para entender el contexto socioeconómico del país.",
-      "publicadoEn": "2026-07-03T13:50:00.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/WQFKPFTXMNDIXACE4QES52VS6I.JPG?auth=18577b98412148e4e5907ec98bec9fd0696f324684aa2a4577f7d4d3eab39d78&smart=true&width=1600&height=1066",
+      "url": "https://www.lanacion.com.ar/politica/citan-a-indagatoria-al-socio-de-martin-menem-por-un-contrato-millonario-con-una-obra-social-nid03072026/",
+      "tituloOriginal": "Citan a indagatoria al socio de Martín Menem por un contrato millonario con una obra social intervenida por el Gobierno",
+      "tituloLimpio": "Citan a indagatoria al socio de Martín Menem por un contrato millonario con una obra social intervenida por el Gobierno",
+      "resumen": "Se trata de Sergio Aguirre, socio del presidente de la Cámara de Diputados en HTECH Innovation; se investiga el desvío de $266 millones de la obra social de ruralistas (Osprera), intervenida por Milei.",
+      "porQueImporta": "Noticia de alto impacto político y judicial en Argentina, que involucra a figuras del gobierno y posibles casos de corrupción.",
+      "publicadoEn": "2026-07-03T18:06:32.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/MEC5VKRB7BA3HBWDW334TJOC6Y.JPEG?auth=7231733db5aeaf89178f127ab9e9d4324b08d3dab857fd4ec89d1cad41809055&smart=true&width=2000&height=1332",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
         "política",
-        "Javier Milei",
-        "gobierno"
+        "justicia",
+        "corrupción"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "fuente": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/for-america250-patriotic-marketing-has-to-look-beyond-the-cliches/",
+      "tituloOriginal": "For America250, Patriotic Marketing Has to Look Beyond the Cliches",
+      "tituloLimpio": "Para America250, el marketing patriótico debe ir más allá de los clichés",
+      "resumen": "El 4 de julio es un recordatorio de que el marketing no puede fabricar autenticidad.",
+      "porQueImporta": "Ofrece una perspectiva crítica sobre el marketing y la autenticidad de marca, útil para profesionales del marketing y la comunicación.",
+      "publicadoEn": "2026-07-02T17:19:14.000Z",
+      "globalScore": 82,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "estrategia",
+        "autenticidad"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-07-03T14:12:40.046Z"
+    "generadoEn": "2026-07-03T18:12:44.014Z"
   }
 }
