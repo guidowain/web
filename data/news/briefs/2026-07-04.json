@@ -1,0 +1,503 @@
+{
+  "fecha": "2026-07-04",
+  "generadoEn": "2026-07-04T13:39:42.511Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "Esta semana, Apple presentó novedades con rumores de un 'MacBook Ultra' y AirPods Pro con cámaras, junto con actualizaciones de seguridad para iOS. En el ámbito de la IA, Google anunció sus últimas novedades de junio y se observa una tensión en la comunidad de fanfiction por el uso de IA. A nivel local, la producción automotriz en Argentina cayó un 18,3% en el primer semestre de 2026. En finanzas, el crecimiento del empleo en EE.UU. fue menor a lo esperado, mientras que el Reino Unido presentó nuevas reglas para criptomonedas. En marketing, Dove Men+Care lanzó una campaña en Strava y redes sociales.",
+  "radarPersonal": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Rumores sobre 'MacBook Ultra' y iPhone 18, y arreglos de seguridad en iOS 26.5.2",
+      "resumen": "Después de las subas de precios de Apple la semana pasada, esta semana hubo rumores sobre un MacBook con pantalla táctil, la línea iPhone 18 y más. También se lanzaron actualizaciones menores de iOS, iPadOS y macOS con varias correcciones de seguridad.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/07/04/top-stories-macbook-ultra-iphone-18-rumors/"
+      ],
+      "score": 100,
+      "tags": [
+        "MacBook Ultra",
+        "iPhone 18",
+        "iOS",
+        "seguridad"
+      ]
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "titulo": "iOS 27 beta 2 sugiere AirPods Pro con cámaras",
+      "resumen": "La beta 2 de iOS 27 incluye referencias a un próximo producto de Apple, el B790, que probablemente sean los rumoreados AirPods con cámaras.",
+      "categoria": "Apple",
+      "fuentes": [
+        "9to5Mac"
+      ],
+      "urls": [
+        "https://9to5mac.com/2026/07/04/airpods-pro-with-cameras-leaked-in-ios-27-beta-2-code/"
+      ],
+      "score": 100,
+      "tags": [
+        "AirPods Pro",
+        "cámaras",
+        "iOS 27"
+      ]
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81Z29v",
+      "titulo": "Gemini Spark llega a la app de macOS para tareas locales y automatización",
+      "resumen": "Gemini para macOS ahora soporta Gemini Spark, la primera de dos grandes actualizaciones de la app de escritorio que llegarán este verano.",
+      "categoria": "AI",
+      "fuentes": [
+        "9to5Mac"
+      ],
+      "urls": [
+        "https://9to5google.com/2026/06/30/gemini-spark-mac-app/"
+      ],
+      "score": 100,
+      "tags": [
+        "Gemini Spark",
+        "macOS",
+        "automatización"
+      ]
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "titulo": "Lograr la excelencia operativa con IA",
+      "resumen": "Marcos como Lean Six Sigma y la gestión de procesos de negocio (BPM) ganaron tracción por prometer claridad en el caos, una forma estructurada de ordenar operaciones complejas. Lean Six Sigma enfatizó el rigor estadístico y el control de calidad; BPM creó mapas de cómo debería fluir el trabajo.",
+      "categoria": "AI",
+      "fuentes": [
+        "MIT Technology Review AI"
+      ],
+      "urls": [
+        "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/"
+      ],
+      "score": 100,
+      "tags": [
+        "IA",
+        "excelencia operativa",
+        "Lean Six Sigma",
+        "BPM"
+      ]
+    },
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "titulo": "El crecimiento del empleo en EE.UU. en junio fue menor a lo estimado; la tasa de desempleo bajó al 4,2%",
+      "resumen": "El crecimiento del empleo fue de 57.000. Los analistas esperaban un crecimiento de 113.000; los mercados de predicción eran más optimistas, buscando un crecimiento de empleo entre 125.000 y 150.000.",
+      "categoria": "Finance",
+      "fuentes": [
+        "Sherwood"
+      ],
+      "urls": [
+        "https://sherwood.news/markets/us-non-farm-payrolls-june-2026-jobs-report/"
+      ],
+      "score": 100,
+      "tags": [
+        "empleo",
+        "EE.UU.",
+        "desempleo",
+        "mercado laboral"
+      ]
+    }
+  ],
+  "loImportante": [
+    "La producción automotriz en Argentina cayó un 18,3% en el primer semestre de 2026, influenciada por el comercio exterior y cambios estructurales.",
+    "Google anunció sus últimas actualizaciones de IA de junio de 2026.",
+    "La comunidad de fanfiction está en conflicto por el uso de IA en la creación de obras, con métodos de detección cuestionables.",
+    "El Reino Unido presentó nuevas reglas para criptomonedas que buscan impulsar el comercio global, aunque con desafíos de cumplimiento.",
+    "Dove Men+Care lanzó una campaña de marketing en Strava y redes sociales para promocionar una nueva formulación, enfocándose en deportes e influencers."
+  ],
+  "oportunidades": [
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "titulo": "Aplicar IA para mejorar la eficiencia operativa",
+      "detalle": "La IA puede integrarse con marcos como Lean Six Sigma y BPM para estructurar y optimizar operaciones complejas, ofreciendo claridad y control de calidad.",
+      "acciones": [
+        "Investigar herramientas de IA que complementen metodologías de mejora de procesos.",
+        "Evaluar cómo la IA puede automatizar tareas repetitivas en el retoque fotográfico o la creación de arte con IA."
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "Marketing de influencers y deportes para promocionar productos",
+      "detalle": "Unilever, a través de Dove Men+Care, está poniendo énfasis en el marketing deportivo y de influencers para promocionar sus productos, utilizando plataformas como Strava y redes sociales.",
+      "acciones": [
+        "Analizar campañas exitosas de marketing de influencers en el nicho de arte con IA o retoque fotográfico.",
+        "Considerar colaboraciones con figuras relevantes en plataformas digitales para promocionar herramientas o servicios."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "titulo": "Conflicto por el uso de IA en la creación de contenido",
+      "detalle": "La comunidad de fanfiction está en guerra con el uso de IA, y los métodos de detección implementados son cuestionables, lo que podría afectar a cualquier creador de contenido.",
+      "mitigacion": "Mantenerse al tanto de las políticas y herramientas de detección de IA en plataformas de contenido. Ser transparente sobre el uso de IA en proyectos personales para evitar malentendidos."
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Market",
+      "titulo": "Caída en la producción automotriz local en Argentina",
+      "detalle": "La industria automotriz local sufrió una caída interanual del 18,3% en el primer semestre de 2026, afectada por el comercio exterior y cambios estructurales.",
+      "mitigacion": "Aunque no afecta directamente, es un indicador de la situación económica local. Monitorear la economía argentina para entender el impacto en el poder adquisitivo y la inversión."
+    }
+  ],
+  "conexiones": [],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "tituloOriginal": "The latest AI news we announced in June 2026",
+      "tituloLimpio": "Novedades de IA de Google anunciadas en junio de 2026",
+      "resumen": "Aquí están las últimas actualizaciones de IA de Google de junio de 2026.",
+      "porQueImporta": "Es relevante para estar al tanto de los avances de uno de los principales actores en el campo de la IA, lo que puede influir en herramientas y tendencias futuras.",
+      "publicadoEn": "2026-07-01T18:15:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Google",
+        "IA",
+        "actualizaciones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/07/04/top-stories-macbook-ultra-iphone-18-rumors/",
+      "tituloOriginal": "Top Stories: 'MacBook Ultra' and iPhone 18 Rumors, iOS 26.5.2 Security Fixes, and More",
+      "tituloLimpio": "Rumores sobre 'MacBook Ultra' y iPhone 18, y arreglos de seguridad en iOS 26.5.2",
+      "resumen": "Después de las subas de precios de Apple la semana pasada, esta semana hubo rumores sobre un MacBook con pantalla táctil, la línea iPhone 18 y más. También se lanzaron actualizaciones menores de iOS, iPadOS y macOS con varias correcciones de seguridad.",
+      "porQueImporta": "Guido, como usuario de Apple, se beneficia de conocer los próximos lanzamientos y las actualizaciones de seguridad que afectan a sus dispositivos.",
+      "publicadoEn": "2026-07-04T13:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "MacBook Ultra",
+        "iPhone 18",
+        "iOS",
+        "seguridad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "categoria": "Finance",
+      "fuente": "Sherwood",
+      "url": "https://sherwood.news/markets/us-non-farm-payrolls-june-2026-jobs-report/",
+      "tituloOriginal": "US job growth falls far short of estimates in June; unemployment rate unexpectedly dips to 4.2%",
+      "tituloLimpio": "El crecimiento del empleo en EE.UU. en junio fue menor a lo estimado; la tasa de desempleo bajó al 4,2%",
+      "resumen": "El crecimiento del empleo fue de 57.000. Los analistas esperaban un crecimiento de 113.000; los mercados de predicción eran más optimistas, buscando un crecimiento de empleo entre 125.000 y 150.000.",
+      "porQueImporta": "Los datos económicos de EE.UU. son un indicador clave para los mercados globales y pueden influir en las decisiones de inversión en ETFs.",
+      "publicadoEn": "2026-07-02T12:35:15.000Z",
+      "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/2273898465_sunrise-florida-job-seekers-wait-in-line-to-enter-the-mega-jobnewsusa-south-florida-job-fair.jpg?w=1600",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "EE.UU.",
+        "empleo",
+        "mercado"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/la-produccion-autos-se-hundio-183-el-primer-semestre-2026-n6295911",
+      "tituloOriginal": "La producción de autos se hundió 18,3% en el primer semestre de 2026",
+      "tituloLimpio": "La producción de autos en Argentina cayó 18,3% en el primer semestre de 2026",
+      "resumen": "La industria automotriz local sufrió una nueva caída interanual en junio. El comercio exterior y cambios estructurales en las terminales influyen en los números.",
+      "porQueImporta": "Es una noticia relevante sobre la economía argentina que puede impactar el clima de negocios y la inversión local.",
+      "publicadoEn": "2026-07-03T21:37:00.000Z",
+      "imagen": "https://media.ambito.com/p/6f75c60a2d268d565408b8793bfa17ed/adjuntos/239/imagenes/043/229/0043229223/autos-industria.jpg",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "producción",
+        "automotriz"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/dove-mencare-takes-to-strava-and-social-media-to-promote-reformulation/824351/",
+      "tituloOriginal": "Dove Men+Care takes to Strava and social media to promote reformulation",
+      "tituloLimpio": "Dove Men+Care usa Strava y redes sociales para promocionar nueva formulación",
+      "resumen": "El desafío de fitness llega mientras Unilever pone un mayor énfasis en el marketing deportivo y de influencers.",
+      "porQueImporta": "Ejemplo de estrategia de marketing digital y de influencers que puede ser útil para Guido en su trabajo o proyectos personales.",
+      "publicadoEn": "2026-07-02T16:59:00.000Z",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "influencers",
+        "redes sociales",
+        "campaña"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "tituloOriginal": "The only AI glossary you’ll need this year",
+      "tituloLimpio": "El glosario de IA que necesitarás este año",
+      "resumen": "El auge de la IA trajo una avalancha de nuevos términos y jerga. Aquí hay un glosario con definiciones de algunas de las palabras y frases más importantes que podrías encontrar.",
+      "porQueImporta": "Útil para Guido, que trabaja con IA, para entender la terminología y mantenerse actualizado en el campo.",
+      "publicadoEn": "2026-07-03T21:20:00.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "glosario",
+        "términos"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+      "tituloOriginal": "The fanfiction community is at war with AI — and itself",
+      "tituloLimpio": "La comunidad de fanfiction está en conflicto con la IA y consigo misma",
+      "resumen": "Durante la última semana, un nuevo movimiento de fanworks comenzó con el objetivo de erradicar a los autores que usan IA generativa. Pero los métodos de detección implementados son cuestionables, y cualquier escritor de fanfic podría quedar atrapado.",
+      "porQueImporta": "Muestra las tensiones y desafíos éticos en torno al uso de IA en la creación de contenido, algo relevante para alguien que trabaja con arte con IA.",
+      "publicadoEn": "2026-07-04T12:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "ética",
+        "contenido",
+        "comunidad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+      "tituloOriginal": "Achieving operational excellence with AI",
+      "tituloLimpio": "Lograr la excelencia operativa con IA",
+      "resumen": "Marcos como Lean Six Sigma y la gestión de procesos de negocio (BPM) ganaron tracción por prometer claridad en el caos, una forma estructurada de ordenar operaciones complejas. Lean Six Sigma enfatizó el rigor estadístico y el control de calidad; BPM creó mapas de cómo debería fluir el trabajo.",
+      "porQueImporta": "Ofrece una perspectiva sobre cómo la IA puede mejorar la eficiencia y la automatización en procesos de negocio, aplicable a la gestión de proyectos o flujos de trabajo de Guido.",
+      "publicadoEn": "2026-07-02T15:37:08.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "automatización",
+        "productividad",
+        "gestión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/04/airpods-pro-with-cameras-leaked-in-ios-27-beta-2-code/",
+      "tituloOriginal": "iOS 27 beta 2 hints at AirPods Pro with cameras: Here’s what we know so far",
+      "tituloLimpio": "iOS 27 beta 2 sugiere AirPods Pro con cámaras",
+      "resumen": "La beta 2 de iOS 27 incluye referencias a un próximo producto de Apple, el B790, que probablemente sean los rumoreados AirPods con cámaras.",
+      "porQueImporta": "Interesante para Guido como usuario de Apple, ya que indica posibles innovaciones en los accesorios y la integración de nuevas tecnologías.",
+      "publicadoEn": "2026-07-04T13:18:56.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "AirPods Pro",
+        "cámaras",
+        "rumores"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81Z29v",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5google.com/2026/06/30/gemini-spark-mac-app/",
+      "tituloOriginal": "Gemini Spark rolling out to macOS app for local tasks, automation",
+      "tituloLimpio": "Gemini Spark llega a la app de macOS para tareas locales y automatización",
+      "resumen": "Gemini para macOS ahora soporta Gemini Spark. Esta es la primera de dos grandes actualizaciones de la app de escritorio que llegarán este verano.",
+      "porQueImporta": "Directamente relevante para Guido, ya que es una herramienta de IA y automatización para macOS que podría mejorar su flujo de trabajo.",
+      "publicadoEn": "2026-06-30T20:44:39.000Z",
+      "globalScore": 78,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "Apple",
+        "macOS",
+        "automatización",
+        "Gemini"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/07/03/three-changes-apple-could-do-to-make-iphone-air-2-a-hit?utm_source=rss",
+      "tituloOriginal": "Three changes Apple could do to make iPhone Air 2 a hit",
+      "tituloLimpio": "Tres cambios que Apple podría hacer para que el iPhone Air 2 sea un éxito",
+      "resumen": "Con el iPhone Air 2 rumoreado para dentro de menos de un año, Apple podría recurrir a una mejor refrigeración o más cámaras para hacer el teléfono ultradelgado aún más popular que el original. Esto es lo que se ha rumoreado y otras posibilidades.",
+      "porQueImporta": "Como usuario de Apple, Guido puede interesarse en las posibles mejoras y características de los futuros modelos de iPhone.",
+      "publicadoEn": "2026-07-03T19:14:05.000Z",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "iPhone Air 2",
+        "rumores",
+        "innovación"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-tumbles-apple-robinhood-buy-signals-tesla-sandisk-dive/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Dow Jones Futures: Techs' Rise Signal AI Trend Isn't Over; Apple, Robinhood Flash Buy Signals",
+      "tituloLimpio": "Dow Jones Futures: la señal de subida de las tecnológicas indica que la tendencia de la IA no terminó; Apple y Robinhood muestran señales de compra",
+      "resumen": "",
+      "porQueImporta": "Información sobre el mercado de valores y el rendimiento de empresas tecnológicas como Apple, relevante para las decisiones de inversión de Guido.",
+      "publicadoEn": "2026-07-04T12:31:02.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/aa912d4180e53e99e00e888061772f33",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "mercado",
+        "IA",
+        "Apple",
+        "inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/07/04/uk-s-bold-new-crypto-rules-promise-to-unlock-global-trading-but-huge-compliance-hurdles-still-threaten-the-rollout",
+      "tituloOriginal": "UK's bold new crypto rules promise to unlock global trading, but huge compliance hurdles still threaten the rollout",
+      "tituloLimpio": "Las nuevas reglas cripto del Reino Unido prometen desbloquear el comercio global, pero los obstáculos de cumplimiento amenazan su implementación",
+      "resumen": "El marco cripto de la FCA del Reino Unido fue elogiado por priorizar la liquidez global y la adopción institucional, pero se espera que el proceso de autorización sea desalentador.",
+      "porQueImporta": "Aunque es una regulación de otro país, tiene un impacto global en el mercado de criptomonedas, que es parte del ecosistema financiero que Guido monitorea.",
+      "publicadoEn": "2026-07-04T12:00:00.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/e0513d0a4817ed047117319c2338d720ea07bb82-1920x1439.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "criptomonedas",
+        "regulación",
+        "Reino Unido"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Here’s what happened in crypto today",
+      "tituloLimpio": "Lo que pasó hoy en cripto",
+      "resumen": "Necesitás saber qué pasó hoy en cripto? Aquí están las últimas noticias sobre tendencias diarias y eventos que impactan el precio de Bitcoin, blockchain, DeFi, Web3 y la regulación de cripto.",
+      "porQueImporta": "Un resumen diario de noticias cripto es útil para Guido para mantenerse informado sobre este mercado volátil.",
+      "publicadoEn": "2026-07-04T12:04:07.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "criptomonedas",
+        "Bitcoin",
+        "blockchain"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/javier-milei-medidas-vivo-karina-milei-martin-menem-viajan-misiones-reactivar-campana-nacional-lla_0_caLICRDPPR.html",
+      "tituloOriginal": "Javier Milei y sus medidas, EN VIVO: Karina Milei y Martín Menem viajan a Misiones para reactivar la campaña nacional de LLA",
+      "tituloLimpio": "Karina Milei y Martín Menem viajan a Misiones para reactivar la campaña nacional de LLA",
+      "resumen": "La Secretaria General de la Presidencia y el titular de la Cámara de Diputados lanzarán este sábado una escuela de dirigentes libertarios en Posadas.",
+      "porQueImporta": "Noticia política local que refleja la actividad del gobierno y el panorama político en Argentina.",
+      "publicadoEn": "2026-07-04T12:00:57.000Z",
+      "imagen": "https://www.clarin.com/img/2025/02/06/JNZcIyGFz_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "política",
+        "gobierno",
+        "LLA"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/07/04/cuanto-cuesta-viajar-a-alentar-a-la-seleccion-contra-egipto-en-octavos-de-final/",
+      "tituloOriginal": "Cuánto cuesta viajar a alentar a la Selección contra Egipto en Octavos de Final",
+      "tituloLimpio": "Cuánto cuesta viajar a alentar a la Selección contra Egipto en Octavos de Final",
+      "resumen": "Argentina enfrenta al equipo de Mohamed Salah el próximo martes, en Atlanta. Cuáles son las opciones para viajar a Estados Unidos, tanto por cuenta propia como a través de paquetes de agencias de turismo.",
+      "porQueImporta": "Noticia de interés general en Argentina, que combina deporte y economía, relevante para el contexto local.",
+      "publicadoEn": "2026-07-04T12:37:43.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/M2JP7DR46RDIXIAASLQRU4SYHM.JPG?auth=583c8187c81bd68ad9bafd7a54f07b2b4a9f0d059293c2bd9907e979aa63078b&smart=true&width=4032&height=2268",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "fútbol",
+        "viajes",
+        "economía"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/campo/esta-en-auge-el-factor-que-segun-los-expertos-disparara-una-revolucion-nunca-vista-en-un-cultivo-nid04072026/",
+      "tituloOriginal": "Está en auge: el factor que, según los expertos, disparará una revolución nunca vista en un cultivo",
+      "tituloLimpio": "Está en auge: el factor que, según los expertos, disparará una revolución nunca vista en un cultivo",
+      "resumen": "Con un buen paquete tecnológico el rendimiento promedio nacional podría aumentar 30-35%, según las zonas.",
+      "porQueImporta": "Noticia económica de Argentina que destaca una oportunidad de crecimiento en el sector agrícola, relevante para el panorama económico local.",
+      "publicadoEn": "2026-07-04T10:56:01.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/CZD2ZKELRBFNVCRETMFHPGIQBE.jpg?auth=27a3c5338d51faa5e2190de2092009aac75ccc46a02c37ff99a3ab97f26fc34d&smart=true&width=960&height=640",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "campo",
+        "tecnología"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-07-04T13:39:42.511Z"
+  }
+}
