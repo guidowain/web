@@ -1,0 +1,536 @@
+{
+  "fecha": "2026-07-05",
+  "generadoEn": "2026-07-05T13:47:26.452Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "El consumo minorista en Argentina muestra una leve mejora interanual en junio por el aguinaldo y el Mundial, pero cae respecto a mayo y acumula una baja semestral. El Gobierno argentino prepara licitaciones para construir autopistas. En tecnología, Google anunció sus últimas novedades de IA de junio y Meta incursiona en el negocio de la nube para vender su capacidad de cómputo de IA. Apple subió precios en varios productos, pero aún hay ofertas de MacBook Pro con valores originales. La comunidad de fanfiction debate el uso de IA en la escritura.",
+  "radarPersonal": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Ofertas de MacBook Pro para evitar las subas de precios de Apple",
+      "resumen": "Apple subió los precios de varios productos, incluyendo Macs y iPads. Aunque los nuevos precios ya llegaron a minoristas, algunos modelos de MacBook Pro mantienen sus precios originales, lo que ahora representa descuentos.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/07/04/beat-the-apple-price-hikes/"
+      ],
+      "score": 100,
+      "tags": [
+        "Apple",
+        "MacBook Pro",
+        "precios"
+      ]
+    },
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "titulo": "Meta sube por informe de entrada al negocio de la nube para vender su capacidad de cómputo de IA",
+      "resumen": "Meta podría cambiar su situación financiera al iniciar un negocio en la nube para vender su exceso de capacidad de cómputo de IA.",
+      "categoria": "Finance",
+      "fuentes": [
+        "Sherwood"
+      ],
+      "urls": [
+        "https://sherwood.news/markets/meta-surges-report-entering-into-cloud-business-excess-compute/"
+      ],
+      "score": 100,
+      "tags": [
+        "Meta",
+        "IA",
+        "nube",
+        "inversión"
+      ]
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "titulo": "Lograr excelencia operativa con IA",
+      "resumen": "Marcos como Lean Six Sigma y BPM ganaron terreno por prometer claridad en el caos, ofreciendo una forma estructurada de ordenar operaciones. Ambos ofrecieron un enfoque repetible.",
+      "categoria": "AI",
+      "fuentes": [
+        "MIT Technology Review AI"
+      ],
+      "urls": [
+        "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/"
+      ],
+      "score": 100,
+      "tags": [
+        "IA",
+        "operaciones",
+        "productividad"
+      ]
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81Z29v",
+      "titulo": "Gemini Spark llega a la app de macOS para tareas locales y automatización",
+      "resumen": "Gemini para macOS ahora soporta Gemini Spark, la primera de dos grandes actualizaciones de la app de escritorio que llegarán este verano.",
+      "categoria": "Apple",
+      "fuentes": [
+        "9to5Mac"
+      ],
+      "urls": [
+        "https://9to5google.com/2026/06/30/gemini-spark-mac-app/"
+      ],
+      "score": 100,
+      "tags": [
+        "Apple",
+        "IA",
+        "automatización",
+        "macOS"
+      ]
+    }
+  ],
+  "loImportante": [
+    "El consumo minorista en Argentina tuvo una leve mejora interanual en junio, pero cayó frente a mayo y acumula una baja del 2,5% en el semestre.",
+    "Google lanzó sus últimas novedades de IA de junio.",
+    "Meta está explorando el negocio de la nube para vender su exceso de capacidad de cómputo de IA, lo que podría impactar su flujo de caja.",
+    "Apple implementó importantes subas de precios en varios productos, pero aún hay oportunidades para comprar MacBook Pro a precios anteriores.",
+    "La comunidad de fanfiction está en conflicto por el uso de IA en la escritura, cuestionando los métodos de detección."
+  ],
+  "oportunidades": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Productivity",
+      "titulo": "Aprovechar ofertas de MacBook Pro antes de que se agoten los precios viejos",
+      "detalle": "Apple subió los precios de Macs y iPads, pero algunos modelos de MacBook Pro aún se venden a precios originales, lo que representa un descuento. Es una oportunidad para adquirir equipos a un mejor valor.",
+      "acciones": [
+        "Revisar minoristas como Amazon para encontrar modelos de MacBook Pro con precios originales.",
+        "Considerar la compra si se necesita una MacBook Pro, aprovechando el descuento implícito."
+      ]
+    },
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "categoria": "Investing",
+      "titulo": "Monitorear a Meta por su incursión en el negocio de la nube con IA",
+      "detalle": "Meta está entrando al negocio de la nube para vender su exceso de capacidad de cómputo de IA. Esto podría mejorar su flujo de caja y cambiar su historia financiera en 2026.",
+      "acciones": [
+        "Seguir las noticias sobre el desarrollo del negocio de la nube de Meta y su impacto en las acciones.",
+        "Evaluar si esta estrategia de Meta se alinea con oportunidades de inversión en el sector tecnológico y de IA."
+      ]
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "titulo": "Aplicar IA para la excelencia operativa",
+      "detalle": "La IA puede usarse para lograr excelencia operativa, siguiendo marcos como Lean Six Sigma y BPM para estructurar y ordenar procesos. Esto ofrece una forma repetible de mejorar las operaciones.",
+      "acciones": [
+        "Investigar cómo integrar la IA en los flujos de trabajo de retoque fotográfico y arte con IA para optimizar procesos.",
+        "Explorar herramientas de IA que ayuden a la gestión de proyectos y la automatización de tareas repetitivas."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Market",
+      "titulo": "Caída del consumo minorista en Argentina",
+      "detalle": "El consumo minorista en Argentina volvió a caer en junio respecto a mayo, acumulando una baja del 2,5% en el semestre, a pesar de una leve mejora interanual por el aguinaldo y el Mundial. Esto indica una tendencia de contracción en el mercado interno.",
+      "mitigacion": "Monitorear de cerca los indicadores económicos locales y ajustar estrategias de marketing y ventas si se depende del consumo interno. Diversificar fuentes de ingresos o mercados si es posible."
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "titulo": "Conflicto en la comunidad de fanfiction por el uso de IA",
+      "detalle": "La comunidad de fanfiction está en guerra con la IA y consigo misma, con un movimiento para identificar autores que usan IA generativa. Los métodos de detección son cuestionables y podrían afectar a cualquier escritor.",
+      "mitigacion": "Si se trabaja con IA generativa en proyectos creativos, ser transparente sobre su uso o estar atento a las reacciones de la comunidad. Evaluar el impacto de las herramientas de detección de IA en el arte digital."
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Productivity",
+      "titulo": "Aumento de precios en servicios como Plex",
+      "detalle": "Plex aumentó significativamente el costo de su pase de por vida y lanzó una opción de cinco años más cara. Esto refleja una tendencia de suba de precios en servicios de streaming y software.",
+      "mitigacion": "Revisar los costos de suscripciones y servicios utilizados. Evaluar alternativas gratuitas o más económicas si los aumentos de precios afectan el presupuesto. Considerar la compra de licencias de por vida si el precio es razonable antes de futuras subas."
+    }
+  ],
+  "conexiones": [
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Consumo minorista en Argentina: caída semestral a pesar de leve mejora en junio",
+      "historias": [
+        "El consumo minorista en Argentina volvió a caer en junio: las ventas pyme bajaron 1,3% mensual y el semestre cerró en rojo (Ambito)",
+        "Otro efecto Mundial 2026: las ventas minoristas de los comercios pyme crecieron en junio (Infobae Economia)"
+      ],
+      "conclusion": "Aunque hubo una leve mejora interanual en junio impulsada por el aguinaldo y el Mundial, el consumo minorista en Argentina sigue en retracción. Las ventas pyme cayeron respecto a mayo y acumulan una baja del 2,5% en el primer semestre del año, lo que indica una tendencia negativa generalizada en el mercado interno."
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "titulo": "El Gobierno argentino prepara licitación de rutas y autopistas",
+      "historias": [
+        "El Gobierno prepara una licitación para construir autopistas y acallar las críticas por las privatizaciones (La Nacion Economia)",
+        "La crisis en las rutas: dónde quedan las autopistas que el Gobierno proyecta construir (La Nacion Politica)"
+      ],
+      "conclusion": "El Gobierno argentino está preparando una licitación para construir autopistas y ampliar carriles en varias provincias, buscando acallar críticas y mejorar la infraestructura vial. Este plan complementa la adjudicación de 9000 kilómetros enfocados en mantenimiento."
+    }
+  ],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "tituloOriginal": "The latest AI news we announced in June 2026",
+      "tituloLimpio": "Novedades de IA de Google anunciadas en junio de 2026",
+      "resumen": "Aquí están las últimas actualizaciones de IA de Google de junio de 2026.",
+      "porQueImporta": "Guido, como artista de IA, necesita estar al tanto de los avances de Google en inteligencia artificial para sus proyectos y herramientas.",
+      "publicadoEn": "2026-07-01T18:15:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "Google",
+        "actualizaciones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/07/04/beat-the-apple-price-hikes/",
+      "tituloOriginal": "Beat the Apple Price Hikes: These MacBook Pro Deals Won't Last Long",
+      "tituloLimpio": "Ofertas de MacBook Pro para evitar las subas de precios de Apple",
+      "resumen": "Apple introdujo importantes subas de precios en varios productos. Esta semana, los nuevos precios de Apple comenzaron a llegar a minoristas, pero algunos modelos de MacBook Pro mantienen sus precios originales, lo que ahora representa descuentos.",
+      "porQueImporta": "Guido, usuario de Apple, puede aprovechar estas ofertas para adquirir una MacBook Pro a un mejor precio antes de que se agoten los modelos con valores anteriores.",
+      "publicadoEn": "2026-07-04T15:35:12.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "MacBook Pro",
+        "precios",
+        "ofertas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "categoria": "Finance",
+      "fuente": "Sherwood",
+      "url": "https://sherwood.news/markets/meta-surges-report-entering-into-cloud-business-excess-compute/",
+      "tituloOriginal": "Meta surges on report it’s starting a cloud business to sell excess AI compute",
+      "tituloLimpio": "Meta sube por informe de entrada al negocio de la nube para vender su capacidad de cómputo de IA",
+      "resumen": "Meta podría cambiar su situación financiera al iniciar un negocio en la nube para vender su exceso de capacidad de cómputo de IA.",
+      "porQueImporta": "Esta noticia es relevante para Guido por su interés en la inversión y la IA. La incursión de Meta en la nube con IA podría impactar el mercado y ofrecer nuevas oportunidades o tendencias tecnológicas.",
+      "publicadoEn": "2026-07-01T14:03:12.000Z",
+      "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/2268011998_washington-dc-united-states-meta-ceo-mark-zuckerberg-walks-through-the-u-s-capitol-following.jpg",
+      "globalScore": 80,
+      "personalScore": 100,
+      "tags": [
+        "Meta",
+        "IA",
+        "nube",
+        "inversión",
+        "negocios"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/el-consumo-volvio-retroceder-junio-las-ventas-pyme-bajaron-13-mensual-y-el-semestre-cerro-rojo-n6296289",
+      "tituloOriginal": "El consumo volvió a caer en junio: las ventas pyme bajaron 1,3% mensual y el semestre cerró en rojo",
+      "tituloLimpio": "El consumo volvió a caer en junio en Argentina: las ventas pyme bajaron 1,3% mensual y el semestre cerró en rojo",
+      "resumen": "El comercio minorista registró una leve mejora interanual impulsada por el cobro del medio aguinaldo y el consumo asociado al Mundial. Sin embargo, las ventas cayeron frente a mayo y acumulan una baja de 2,5% en lo que va del año.",
+      "porQueImporta": "Como residente en Argentina, Guido necesita conocer el estado de la economía local, especialmente el consumo, que afecta el entorno de negocios y el poder adquisitivo.",
+      "publicadoEn": "2026-07-05T13:01:00.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "consumo",
+        "pymes"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/dove-mencare-takes-to-strava-and-social-media-to-promote-reformulation/824351/",
+      "tituloOriginal": "Dove Men+Care takes to Strava and social media to promote reformulation",
+      "tituloLimpio": "Dove Men+Care usa Strava y redes sociales para promover reformulación",
+      "resumen": "El desafío de fitness llega mientras Unilever pone un énfasis creciente en el marketing deportivo y de influencers.",
+      "porQueImporta": "Guido, interesado en marketing, puede ver cómo una marca grande utiliza plataformas como Strava y redes sociales para promocionar un producto, una estrategia relevante para el marketing digital.",
+      "publicadoEn": "2026-07-02T16:59:00.000Z",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "redes sociales",
+        "influencers",
+        "estrategia"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "tituloOriginal": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "tituloLimpio": "Nuevo comercial de Google imagina una Declaración de Independencia escrita con ayuda de IA",
+      "resumen": "Doscientos cincuenta años después de la firma de la Declaración de Independencia, un nuevo comercial pregunta: ¿Qué pasaría si los Padres Fundadores hubieran tenido acceso a Google Workspace?",
+      "porQueImporta": "Este comercial muestra una aplicación creativa y conceptual de la IA, relevante para Guido como artista de IA y su interés en cómo la tecnología se integra en la cultura y la historia.",
+      "publicadoEn": "2026-07-04T20:55:25.000Z",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "Google",
+        "creatividad",
+        "marketing"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+      "tituloOriginal": "The fanfiction community is at war with AI — and itself",
+      "tituloLimpio": "La comunidad de fanfiction está en guerra con la IA y consigo misma",
+      "resumen": "Durante la última semana, un nuevo movimiento de fanworks comenzó, con el objetivo de erradicar a los autores que usan IA generativa. Pero los métodos de detección implementados son cuestionables.",
+      "porQueImporta": "Para Guido, que trabaja con arte con IA, este conflicto resalta los desafíos éticos y de aceptación social de la IA generativa en el ámbito creativo, y la dificultad de detectar su uso.",
+      "publicadoEn": "2026-07-04T12:00:00.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "arte",
+        "ética",
+        "comunidad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+      "tituloOriginal": "Achieving operational excellence with AI",
+      "tituloLimpio": "Lograr excelencia operativa con IA",
+      "resumen": "Marcos como Lean Six Sigma y BPM ganaron terreno por prometer claridad en el caos, una forma estructurada de ordenar operaciones. Ambos ofrecieron un enfoque repetible.",
+      "porQueImporta": "Guido, interesado en automatización y herramientas, puede aplicar estos conceptos para optimizar sus propios procesos de trabajo en retoque fotográfico y arte con IA, buscando eficiencia y orden.",
+      "publicadoEn": "2026-07-02T15:37:08.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "automatización",
+        "productividad",
+        "herramientas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/04/iphone-17-pro-max-included-in-america-250-time-capsule/",
+      "tituloOriginal": "iPhone 17 Pro Max buried in America’s 250th anniversary time capsule: to be opened in 2276",
+      "tituloLimpio": "iPhone 17 Pro Max enterrado en cápsula del tiempo del 250 aniversario de América: se abrirá en 2276",
+      "resumen": "En celebración del 250 aniversario de América, una cápsula del tiempo gigante fue enterrada con numerosos objetos de cada estado para conmemorar nuestra era actual, uno de ellos un iPhone 17 Pro Max en Cosmic Orange.",
+      "porQueImporta": "Aunque es una noticia curiosa, muestra la relevancia cultural de los productos Apple y cómo son vistos como hitos tecnológicos, lo que puede ser de interés general para un fan de Apple.",
+      "publicadoEn": "2026-07-05T03:07:08.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "iPhone",
+        "cultura",
+        "tecnología"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81Z29v",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5google.com/2026/06/30/gemini-spark-mac-app/",
+      "tituloOriginal": "Gemini Spark rolling out to macOS app for local tasks, automation",
+      "tituloLimpio": "Gemini Spark llega a la app de macOS para tareas locales y automatización",
+      "resumen": "Gemini para macOS ahora soporta Gemini Spark. Esta es la primera de dos grandes actualizaciones de la app de escritorio que llegarán este verano.",
+      "porQueImporta": "Guido, usuario de Apple y con interés en IA y automatización, se beneficia de esta noticia sobre una nueva funcionalidad de IA en macOS que puede mejorar su productividad y flujos de trabajo.",
+      "publicadoEn": "2026-06-30T20:44:39.000Z",
+      "globalScore": 78,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "IA",
+        "automatización",
+        "macOS",
+        "herramientas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/07/04/plexs-24999-five-year-pass-arrives-after-74999-lifetime-pass-price-hike?utm_source=rss",
+      "tituloOriginal": "Plex's $249.99 five-year pass arrives after $749.99 Lifetime Pass price hike",
+      "tituloLimpio": "El pase de cinco años de Plex de $249.99 llega después de la suba de precio del pase de por vida de $749.99",
+      "resumen": "Poco después de aumentar la versión de por vida del Plan Plex a $749.99, Plex ahora introdujo una nueva opción de cinco años. Una que cobra $249.99 por transmitir medios desde tu Mac a tu iPhone.",
+      "porQueImporta": "Guido, como usuario de Apple y con interés en herramientas, debe estar al tanto de los cambios de precios en servicios populares como Plex, que pueden afectar sus costos y opciones de entretenimiento/productividad.",
+      "publicadoEn": "2026-07-04T15:38:57.000Z",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "servicios",
+        "precios",
+        "herramientas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/news/podcast-rewind-ai-aggregators-fable-5-steam-machine-pricing-and-chriss-app/",
+      "tituloOriginal": "Podcast Rewind: AI Aggregators, Fable 5, Steam Machine Pricing, and Chris’s App",
+      "tituloLimpio": "Podcast Rewind: Agregadores de IA, Fable 5, precios de Steam Machine y la app de Chris",
+      "resumen": "Disfrutá los últimos episodios de la familia de podcasts de MacStories: AppStories. Esta semana, Federico y John hablan sobre el estado de las apps agregadoras de IA y sus perspectivas futuras.",
+      "porQueImporta": "Guido, interesado en IA y herramientas, puede encontrar valor en el análisis de las apps agregadoras de IA y sus perspectivas futuras, lo que le ayuda a entender el panorama de herramientas de IA.",
+      "publicadoEn": "2026-07-03T18:26:13.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "herramientas",
+        "podcasts",
+        "Apple"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/news/robinhood-dell-stocks-near-buy-points-ai/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Robinhood, Dell Lead 5 Stocks Near Buy Points With AI Tailwinds",
+      "tituloLimpio": "Robinhood, Dell lideran 5 acciones cerca de puntos de compra con vientos de cola de IA",
+      "resumen": "No se proporcionó resumen.",
+      "porQueImporta": "Para Guido, interesado en inversión y IA, esta noticia destaca acciones con potencial de compra impulsadas por la IA, lo que es relevante para sus decisiones de inversión.",
+      "publicadoEn": "2026-07-04T12:00:03.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/730392af4fb10497df61ee37b8af3d6f",
+      "globalScore": 86,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "inversión",
+        "IA",
+        "acciones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-ishares-consumer-staples-120103981.html",
+      "tituloOriginal": "State Street or iShares: Which Consumer Staples ETF Offers Better Value?",
+      "tituloLimpio": "State Street o iShares: ¿Qué ETF de consumo básico ofrece mejor valor?",
+      "resumen": "No se proporcionó resumen.",
+      "porQueImporta": "Guido, interesado en ETFs y mercados, puede usar esta información para evaluar opciones de inversión en ETFs de consumo básico, una categoría relevante para diversificar su cartera.",
+      "publicadoEn": "2026-07-04T12:01:03.000Z",
+      "imagen": "https://media.zenfs.com/en/motleyfool.com/057f0a4da36aed304d5126e836a6efed",
+      "globalScore": 86,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "inversión",
+        "ETFs"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/opinion/2026/07/05/collateral-not-yield-will-decide-which-stablecoins-win",
+      "tituloOriginal": "Collateral, not yield, will decide which stablecoins win",
+      "tituloLimpio": "El colateral, no el rendimiento, decidirá qué stablecoins ganan",
+      "resumen": "Mientras las stablecoins con rendimiento compiten por una capitalización de mercado de $50 mil millones, la industria está optimizando la métrica equivocada, argumenta Artem Tolkachev, director de RWA en Falcon Finance.",
+      "porQueImporta": "Para Guido, interesado en finanzas y mercados, esta opinión sobre stablecoins es clave para entender las tendencias y riesgos en el espacio de las criptomonedas, especialmente si considera inversiones en este sector.",
+      "publicadoEn": "2026-07-05T13:00:00.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/f11b1f8e85c5dff9843e693f431efd9d43b3da60-5315x3543.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "criptomonedas",
+        "inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/south-africa-proposes-crypto-tax-draft-guidance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "South Africa proposes crypto tax guidance under existing framework",
+      "tituloLimpio": "Sudáfrica propone guía fiscal para criptomonedas bajo marco existente",
+      "resumen": "La autoridad fiscal de Sudáfrica propuso un borrador de guía que aclara cómo se gravan los criptoactivos bajo las reglas existentes de impuestos sobre la renta y ganancias de capital.",
+      "porQueImporta": "Aunque no es Argentina, esta noticia muestra una tendencia global de regulación fiscal de criptomonedas, lo que puede ser un indicador de futuras normativas en otros países, incluyendo Argentina, relevante para inversores en cripto.",
+      "publicadoEn": "2026-07-05T11:52:47.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/booksouth-africa.png",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "criptomonedas",
+        "regulación",
+        "impuestos"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/07/05/el-acuerdo-electoral-que-se-cocina-en-el-gobierno-y-la-advertencia-puertas-adentro-por-la-interna-libertaria/",
+      "tituloOriginal": "El acuerdo electoral que se analiza en el Gobierno y la advertencia puertas adentro por la interna libertaria",
+      "tituloLimpio": "El acuerdo electoral que se analiza en el Gobierno y la advertencia puertas adentro por la interna libertaria",
+      "resumen": "La Casa Rosada inaugura una nueva etapa de funcionamiento político con el empoderamiento del ala de Karina Milei. Las desconfianzas entre facciones del oficialismo.",
+      "porQueImporta": "Para Guido, es importante estar al tanto de la política argentina, ya que las decisiones gubernamentales y las dinámicas internas pueden influir en la economía y el clima de negocios del país.",
+      "publicadoEn": "2026-07-05T12:32:12.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/SYCHREO2ORBEHAYYMHR7DLZS64.jfif?auth=e1d1ee368ed3e48df3a7f2c1278719efa7bd0d93c3afc486bc769c506c261d21&smart=true&width=2048&height=1366",
+      "globalScore": 86,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "política",
+        "gobierno"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/el-gobierno-prepara-una-licitacion-de-rutas-para-construir-autopistas-o-ampliar-carriles-y-acallar-nid05072026/",
+      "tituloOriginal": "El Gobierno prepara una licitación para construir autopistas y acallar las críticas por las privatizaciones",
+      "tituloLimpio": "El Gobierno prepara una licitación para construir autopistas y acallar las críticas por las privatizaciones",
+      "resumen": "Mientras se adjudican 9000 kilómetros con foco en mantenimiento, el segundo paquete de proyectos prevé obras en la mayoría de las provincias.",
+      "porQueImporta": "Como residente en Argentina, Guido se ve afectado por la infraestructura del país. Las obras de autopistas pueden mejorar la conectividad y tener un impacto económico local.",
+      "publicadoEn": "2026-07-05T13:26:25.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/6MDVW6TVFRHK7IB3Z22ZPSHT4U.JPG?auth=838c893b0a34e0076875604ef3cde8389d1345e97125758440c73beef76bf971&smart=true&width=2000&height=1333",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "gobierno",
+        "infraestructura",
+        "economía"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-07-05T13:47:26.452Z"
+  }
+}
