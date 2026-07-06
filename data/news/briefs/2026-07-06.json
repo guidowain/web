@@ -1,0 +1,528 @@
+{
+  "fecha": "2026-07-06",
+  "generadoEn": "2026-07-06T15:39:54.813Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "El Gobierno argentino presentó su plan financiero hasta 2027, mientras que una encuesta sugiere un posible balotaje desfavorable para el oficialismo. En tecnología, Google anunció sus novedades de IA de junio, y Microsoft realizó despidos en sus divisiones de Xbox y ventas. Apple tiene ofertas en varios de sus productos. En el ámbito de las criptomonedas, Ethereum busca una ejecución más rápida de su visión a largo plazo, y Bitcoin sufrió una caída por ventas estratégicas.",
+  "radarPersonal": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Google presenta las novedades de IA de junio de 2026",
+      "resumen": "Google dio a conocer sus últimas actualizaciones de inteligencia artificial de junio de 2026.",
+      "categoria": "AI",
+      "fuentes": [
+        "Google AI Blog"
+      ],
+      "urls": [
+        "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/"
+      ],
+      "score": 100,
+      "tags": [
+        "Google",
+        "IA",
+        "actualizaciones"
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Caputo insiste en que volver a colocar deuda en el mercado global es una opción, no un objetivo",
+      "resumen": "El ministro de Economía, Luis Caputo, encabezó la presentación del programa financiero 2026-2027 y dijo que espera que el país alcance la categoría 'investment grade' al finalizar un eventual segundo mandato de Javier Milei.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/el-gobierno-presentara-este-lunes-la-hoja-ruta-el-pago-la-deuda-el-final-del-mandato-n6296422"
+      ],
+      "score": 100,
+      "tags": [
+        "Argentina",
+        "finanzas",
+        "deuda",
+        "Caputo"
+      ]
+    },
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "titulo": "Meta sube por informe de entrada al negocio de la nube para vender exceso de capacidad de IA",
+      "resumen": "Meta sube por un informe que indica que la empresa está iniciando un negocio en la nube para vender su exceso de capacidad de computación de IA.",
+      "categoria": "Finance",
+      "fuentes": [
+        "Sherwood"
+      ],
+      "urls": [
+        "https://sherwood.news/markets/meta-surges-report-entering-into-cloud-business-excess-compute/"
+      ],
+      "score": 100,
+      "tags": [
+        "Meta",
+        "IA",
+        "nube",
+        "negocios"
+      ]
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81Z29v",
+      "titulo": "Gemini Spark se lanza en la app de macOS para tareas locales y automatización",
+      "resumen": "Gemini para macOS ahora es compatible con Gemini Spark, la primera de dos grandes actualizaciones de la aplicación de escritorio que llegarán este verano.",
+      "categoria": "Apple",
+      "fuentes": [
+        "9to5Mac"
+      ],
+      "urls": [
+        "https://9to5google.com/2026/06/30/gemini-spark-mac-app/"
+      ],
+      "score": 100,
+      "tags": [
+        "Gemini",
+        "macOS",
+        "automatización",
+        "IA"
+      ]
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "titulo": "Lograr la excelencia operativa con IA",
+      "resumen": "Marcos como Lean Six Sigma y la gestión de procesos de negocio (BPM) ganaron tracción al prometer claridad en el caos, una forma estructurada de ordenar operaciones complejas.",
+      "categoria": "AI",
+      "fuentes": [
+        "MIT Technology Review AI"
+      ],
+      "urls": [
+        "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/"
+      ],
+      "score": 100,
+      "tags": [
+        "IA",
+        "operaciones",
+        "eficiencia"
+      ]
+    }
+  ],
+  "loImportante": [
+    "El Gobierno argentino presentó su plan financiero hasta 2027, buscando alcanzar la categoría 'investment grade'.",
+    "Microsoft despidió a casi 5.000 empleados en sus divisiones de Xbox y ventas comerciales.",
+    "Meta está incursionando en el negocio de la nube para vender su exceso de capacidad de computación de IA.",
+    "El Gobierno impulsa la derogación de la Ley de Etiquetado Frontal en Argentina.",
+    "El mal estado de los caminos rurales en Argentina genera pérdidas económicas para la mayoría de los productores."
+  ],
+  "oportunidades": [
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "categoria": "AI",
+      "titulo": "Meta entra al negocio de la nube con IA",
+      "detalle": "Meta está incursionando en el negocio de la nube para vender su exceso de capacidad de computación de IA, lo que podría cambiar su panorama de flujo de caja.",
+      "acciones": [
+        "Analizar el modelo de negocio de Meta en la nube y su impacto en el sector.",
+        "Evaluar posibles inversiones en empresas relacionadas con la infraestructura de IA."
+      ]
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "titulo": "Excelencia operativa con IA",
+      "detalle": "La IA ofrece una forma estructurada de mejorar la eficiencia operativa, similar a marcos como Lean Six Sigma y BPM.",
+      "acciones": [
+        "Investigar herramientas de IA para optimizar procesos de retoque fotográfico y arte con IA.",
+        "Explorar cómo la IA puede automatizar tareas repetitivas en el flujo de trabajo."
+      ]
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81Z29v",
+      "categoria": "Automation",
+      "titulo": "Gemini Spark para automatización en macOS",
+      "detalle": "Gemini Spark llega a macOS para tareas locales y automatización, lo que podría mejorar la productividad en el ecosistema Apple.",
+      "acciones": [
+        "Probar Gemini Spark en macOS para automatizar tareas diarias.",
+        "Explorar cómo integrar Gemini Spark en flujos de trabajo existentes."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "titulo": "Despidos en Microsoft por temor a la IA",
+      "detalle": "Microsoft despidió a casi 5.000 empleados, lo que aviva los temores de que la IA reemplace puestos de trabajo.",
+      "mitigacion": "Mantenerse actualizado en las últimas tendencias de IA y adquirir nuevas habilidades para adaptarse a los cambios del mercado laboral."
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Market",
+      "titulo": "Encuesta pesimista para Milei y posible balotaje",
+      "detalle": "Una encuesta sugiere que la mayoría quiere un cambio y que el actual presidente perdería un balotaje con Kicillof, lo que podría generar incertidumbre política y económica en Argentina.",
+      "mitigacion": "Monitorear de cerca el panorama político y económico argentino para ajustar estrategias de inversión y negocios."
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Market",
+      "titulo": "Pérdidas económicas por caminos rurales en Argentina",
+      "detalle": "El mal estado de los caminos rurales genera pérdidas económicas para siete de cada diez productores en Argentina, afectando la cadena de suministro y la economía regional.",
+      "mitigacion": "Considerar el impacto de la infraestructura en las inversiones y operaciones en Argentina, especialmente en sectores relacionados con la producción."
+    }
+  ],
+  "conexiones": [
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "Despidos en Microsoft y el impacto de la IA",
+      "historias": [
+        "Microsoft despidió a casi 5.000 empleados en Xbox y ventas comerciales.",
+        "Estos despidos avivan los temores de que la IA reemplace puestos de trabajo."
+      ],
+      "conclusion": "Los despidos en Microsoft, aunque no directamente relacionados con la IA en todas las áreas, reflejan una tendencia de reestructuración en la industria tecnológica, donde la eficiencia impulsada por la IA podría ser un factor subyacente en la reducción de personal."
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Plan financiero argentino y panorama político",
+      "historias": [
+        "El Gobierno argentino presentó su programa financiero 2026-2027, buscando alcanzar el 'investment grade'.",
+        "Una encuesta sugiere que el presidente Milei perdería un balotaje con Kicillof."
+      ],
+      "conclusion": "El plan financiero del Gobierno argentino busca estabilidad y crecimiento, pero el panorama político, con encuestas desfavorables, podría generar incertidumbre sobre la continuidad de las políticas económicas y la capacidad de alcanzar los objetivos propuestos."
+    }
+  ],
+  "noticias": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/07/06/ankers-charger-matches-prime-day/",
+      "tituloOriginal": "Anker's 3-in-1 Foldable Wireless Charger Matches Prime Day Low at $99.74",
+      "tituloLimpio": "Cargador inalámbrico plegable 3 en 1 de Anker iguala precio bajo de Prime Day",
+      "resumen": "La estación de carga inalámbrica 3 en 1 de Anker bajó a 99,74 dólares en Amazon, igualando el precio más bajo registrado durante el Prime Day.",
+      "porQueImporta": "Es una buena oportunidad para adquirir un accesorio útil de Apple a un precio reducido, ideal para la automatización de la carga de dispositivos.",
+      "publicadoEn": "2026-07-06T14:28:18.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "accesorios",
+        "oferta"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/why-febreze-is-taking-on-soccer-stink-via-podcasts-experiences/824307/",
+      "tituloOriginal": "Why Febreze is taking on soccer stink via podcasts, experiences",
+      "tituloLimpio": "Febreze combate el mal olor del fútbol con podcasts y experiencias",
+      "resumen": "La campaña 'Can’t Wash This' de Febreze llega con la fiebre del Mundial y el inicio de la temporada de la MLS.",
+      "porQueImporta": "Muestra una estrategia de marketing creativa y relevante, utilizando podcasts y experiencias para conectar con la audiencia en un contexto deportivo.",
+      "publicadoEn": "2026-07-06T15:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "campañas",
+        "podcasts"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
+      "tituloOriginal": "Microsoft is laying off 4,800 employees",
+      "tituloLimpio": "Microsoft despide a 4.800 empleados",
+      "resumen": "Microsoft está realizando más despidos, afectando a aproximadamente el 2,1 por ciento de su fuerza laboral, principalmente en ventas comerciales y la división Xbox.",
+      "porQueImporta": "Indica una reestructuración importante en una de las mayores empresas tecnológicas, con posibles implicaciones para el mercado laboral y la industria de la IA.",
+      "publicadoEn": "2026-07-06T13:30:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Microsoft",
+        "despidos",
+        "tecnología"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/06/deals-m5-ipad-pro-airtag-2-apple-watch-ultra-3/",
+      "tituloOriginal": "Deals: M5 iPad Pro $420 off, AirTag 2 from $22 each, Apple Watch Ultra 3, Anker 25W MagSafe chargers, more",
+      "tituloLimpio": "Ofertas en iPad Pro M5, AirTag 2 y Apple Watch Ultra 3",
+      "resumen": "Hay ofertas en iPad Pro M5 con 420 dólares de descuento, AirTag 2 desde 22 dólares cada uno, y modelos de Apple Watch Ultra 3.",
+      "porQueImporta": "Oportunidades para adquirir productos Apple a precios reducidos, relevantes para un usuario de Apple interesado en herramientas y tecnología.",
+      "publicadoEn": "2026-07-06T15:26:31.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "ofertas",
+        "iPad",
+        "Apple Watch"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/07/06/apple-watch-ultra-3-drops-to-699-with-100-amazon-discount?utm_source=rss",
+      "tituloOriginal": "Apple Watch Ultra 3 drops to $699 with $100 Amazon discount",
+      "tituloLimpio": "Apple Watch Ultra 3 baja a 699 dólares con descuento de Amazon",
+      "resumen": "Amazon rebajó 100 dólares el Apple Watch Ultra 3, dejando el smartwatch premium de Apple en 699,99 dólares por tiempo limitado.",
+      "porQueImporta": "Otra oferta destacada en un producto Apple de alta gama, que puede ser de interés para Guido por su perfil de usuario de Apple.",
+      "publicadoEn": "2026-07-06T14:37:25.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "Apple Watch",
+        "oferta"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/news/podcast-rewind-ai-aggregators-fable-5-steam-machine-pricing-and-chriss-app/",
+      "tituloOriginal": "Podcast Rewind: AI Aggregators, Fable 5, Steam Machine Pricing, and Chris’s App",
+      "tituloLimpio": "Podcast Rewind: Agregadores de IA y configuraciones de apps de IA",
+      "resumen": "Los últimos episodios de los podcasts de MacStories hablan sobre el estado de las apps agregadoras de IA y sus perspectivas futuras, así como las configuraciones actuales de apps de IA.",
+      "porQueImporta": "Ofrece una perspectiva sobre el ecosistema de aplicaciones de IA y cómo se están utilizando, relevante para el interés de Guido en la IA aplicada y las herramientas.",
+      "publicadoEn": "2026-07-03T18:26:13.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "apps",
+        "podcasts"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductor-manufacturing-tsm-one-152448167.html",
+      "tituloOriginal": "Is Taiwan Semiconductor Manufacturing (TSM) One of the Top AI Stocks to Buy According to Philippe Laffont?",
+      "tituloLimpio": "Taiwan Semiconductor Manufacturing (TSM) entre las principales acciones de IA según Philippe Laffont",
+      "resumen": "Se menciona a Taiwan Semiconductor Manufacturing (TSM) como una de las principales acciones de IA para comprar, según Philippe Laffont.",
+      "porQueImporta": "Información relevante para inversores interesados en el sector de la IA y las acciones tecnológicas.",
+      "publicadoEn": "2026-07-06T15:24:48.000Z",
+      "imagen": "https://media.zenfs.com/en/insidermonkey.com/edeb2e9b75a1f5cacf34b09d36e2166f",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "inversión",
+        "IA",
+        "acciones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/news/technology/ibm-stock-price-target-bofa-quantum/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "IBM Stock Climbs After Price Target Hike, Quantum Research News",
+      "tituloLimpio": "Acciones de IBM suben tras aumento de precio objetivo y noticias de investigación cuántica",
+      "resumen": "Las acciones de IBM suben tras un aumento en su precio objetivo y noticias sobre investigación cuántica.",
+      "porQueImporta": "Noticia de interés para inversores en tecnología y empresas con desarrollo en IA y computación cuántica.",
+      "publicadoEn": "2026-07-06T15:12:32.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/d50014f9a929ec65c86677841004abeb",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "inversión",
+        "IBM",
+        "tecnología"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/07/06/ethereum-developers-embrace-vitalik-buterin-s-long-term-vision-but-urge-quicker-execution",
+      "tituloOriginal": "Ethereum developers embrace Vitalik Buterin's long-term vision but urge quicker execution",
+      "tituloLimpio": "Desarrolladores de Ethereum apoyan visión a largo plazo de Vitalik Buterin pero piden ejecución más rápida",
+      "resumen": "El 'Lean Ethereum' ha ganado apoyo de investigadores, aunque el desafío principal es la velocidad de ejecución.",
+      "porQueImporta": "Relevante para inversores en criptomonedas, especialmente Ethereum, y para entender las tendencias en el desarrollo de blockchain.",
+      "publicadoEn": "2026-07-06T15:34:33.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/1a56d3feac18afb1ed9b95981a5bb5544300776f-3641x2427.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "criptomonedas",
+        "Ethereum"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-falls-on-strategy-btc-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Bitcoin price falls up to 4% on Strategy BTC sale as trader sees Summer 2022 repeat",
+      "tituloLimpio": "Precio de Bitcoin cae hasta un 4% por venta de Strategy BTC",
+      "resumen": "Bitcoin perdió gran parte de sus últimas ganancias debido a la reacción del mercado a la venta de 3.600 BTC por parte de Strategy.",
+      "porQueImporta": "Información crucial para inversores en criptomonedas, mostrando la volatilidad del mercado y el impacto de grandes ventas.",
+      "publicadoEn": "2026-07-06T15:22:45.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-what-are-bitcoin-escrow-services-and-how-do-they-work-strategyb-1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "criptomonedas",
+        "Bitcoin"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/tarjeta-alimentar-julio-2026-monto-cobrar_0_EeNTxCVQ1C.html",
+      "tituloOriginal": "Tarjeta Alimentar en julio de 2026: de cuánto es el monto a cobrar",
+      "tituloLimpio": "Monto de la Tarjeta Alimentar en julio de 2026",
+      "resumen": "La Tarjeta Alimentar busca garantizar el acceso a la canasta básica y se cobra mensualmente junto a la Asignación Universal por Hijo.",
+      "porQueImporta": "Noticia de interés local sobre políticas sociales y economía argentina, que impacta en el consumo y la situación económica de parte de la población.",
+      "publicadoEn": "2026-07-06T15:34:40.000Z",
+      "imagen": "https://www.clarin.com/img/2025/08/01/v8yaecKAW_1200x630__1.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "políticas sociales"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/salio-encuesta-pesimista-milei-dice-mayoria-quiere-cambio-perderia-balotaje-kicillof_0_h9nAKmzKZn.html",
+      "tituloOriginal": "Salió la encuesta más pesimista con Milei: dice que la mayoría quiere un cambio y que perdería un balotaje con Kicillof",
+      "tituloLimpio": "Encuesta pesimista para Milei: mayoría quiere cambio y perdería balotaje con Kicillof",
+      "resumen": "Un estudio de la Facultad de Psicología de la UBA indica un 'punto de inflexión' en junio y variables negativas para el gobierno, con Kicillof como el principal beneficiario de la caída de apoyo.",
+      "porQueImporta": "Ofrece una perspectiva sobre el clima político actual en Argentina, relevante para entender el contexto económico y social del país.",
+      "publicadoEn": "2026-07-06T14:18:26.000Z",
+      "imagen": "https://www.clarin.com/img/2024/10/13/MJyjIynyr_1200x630__1.jpg",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "política",
+        "encuestas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/07/06/salio-a-la-venta-el-departamento-de-la-vecina-de-arriba-de-cristina-kirchner-en-recoleta-como-es-por-dentro/",
+      "tituloOriginal": "Salió a la venta el departamento de “la vecina de arriba” de Cristina Kirchner en Recoleta: cómo es por dentro",
+      "tituloLimpio": "Salió a la venta el departamento de la 'vecina de arriba' de Cristina Kirchner en Recoleta",
+      "resumen": "Se ofrece una propiedad de dos plantas con terraza y piscina en Recoleta, ubicada sobre la vivienda que perteneció a la exmandataria.",
+      "porQueImporta": "Noticia de interés general y local, que puede generar curiosidad por el mercado inmobiliario de lujo en Buenos Aires.",
+      "publicadoEn": "2026-07-06T15:30:44.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/ZSLTHNTFFVDBPC5ZRJGDKA2KSY.jpg?auth=d0f8419614c0eed28ba49a340e2a9b8be625ec7bc09992d4e5fad4911866d705&smart=true&width=1920&height=1440",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "inmobiliaria",
+        "noticias generales"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/07/06/el-gobierno-impulsa-la-derogacion-de-la-ley-de-etiquetado-frontal-y-reabre-el-debate-sobre-los-octogonos-negros/",
+      "tituloOriginal": "El Gobierno impulsa la derogación de la Ley de Etiquetado Frontal y reabre el debate sobre los octógonos negros",
+      "tituloLimpio": "El Gobierno impulsa la derogación de la Ley de Etiquetado Frontal",
+      "resumen": "La iniciativa busca eliminar el actual sistema de octógonos negros y abrir la discusión sobre un nuevo modelo de información nutricional.",
+      "porQueImporta": "Impacta en la regulación de alimentos y bebidas en Argentina, con posibles efectos en la salud pública y las estrategias de marketing de las empresas.",
+      "publicadoEn": "2026-07-06T14:53:49.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/CJ6T3RTMJZCHBAO6UEH6BE5LTQ.jpg?auth=aafd51bddf54f5b220f0cfdfd81c230cca2662e89a353c6e9aeb4aaf835f583c&smart=true&width=1811&height=894",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "política",
+        "regulación",
+        "marketing"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/campo/el-mal-estado-de-los-caminos-rurales-ya-genera-perdidas-economicas-para-siete-de-cada-diez-nid06072026/",
+      "tituloOriginal": "El mal estado de los caminos rurales ya genera pérdidas económicas para siete de cada diez productores",
+      "tituloLimpio": "Mal estado de caminos rurales genera pérdidas económicas para productores",
+      "resumen": "Un estudio revela que el 79% de los productores considera que la red vial rural está en malas o muy malas condiciones, generando pérdidas económicas para siete de cada diez.",
+      "porQueImporta": "Destaca un problema estructural en Argentina que afecta directamente la economía regional y la productividad del campo.",
+      "publicadoEn": "2026-07-06T15:33:24.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/ZMRNXPM3VBDETG2OEG7ITTI42E.png?auth=c48987b05cc59fd0824f29facdadbd3c4593747658949781830d8cf12569cdda&smart=true&width=1086&height=768",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "infraestructura",
+        "campo"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Politica",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-plan-para-pagar-la-deuda-hasta-2027-y-la-reforma-electoral-nid06072026/",
+      "tituloOriginal": "Javier Milei y sus medidas, en vivo: el plan para pagar la deuda hasta 2027 y la reforma electoral",
+      "tituloLimpio": "Javier Milei y sus medidas: plan para pagar la deuda hasta 2027 y reforma electoral",
+      "resumen": "Se sigue el minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios.",
+      "porQueImporta": "Proporciona un seguimiento continuo de la agenda política y económica del gobierno argentino, relevante para entender el contexto del país.",
+      "publicadoEn": "2026-07-06T15:21:00.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/WQFKPFTXMNDIXACE4QES52VS6I.JPG?auth=18577b98412148e4e5907ec98bec9fd0696f324684aa2a4577f7d4d3eab39d78&smart=true&width=1600&height=1066",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "política",
+        "deuda",
+        "reforma electoral"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "fuente": "Adweek",
+      "url": "https://www.adweek.com/agencies/jupiter-festival-miami-adds-iab-as-new-founding-partner-ahead-of-launch/",
+      "tituloOriginal": "Jupiter Festival Miami Adds IAB as New Founding Partner Ahead of Launch",
+      "tituloLimpio": "Jupiter Festival Miami suma a IAB como nuevo socio fundador",
+      "resumen": "El CEO de IAB, David Cohen, dijo que uno de los principales atractivos fue influir en la programación del festival.",
+      "porQueImporta": "Noticia relevante para el sector del marketing y la publicidad, mostrando alianzas estratégicas en eventos de la industria.",
+      "publicadoEn": "2026-07-06T06:00:00.000Z",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "eventos",
+        "publicidad"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-07-06T15:39:54.813Z"
+  }
+}
