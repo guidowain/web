@@ -1,0 +1,526 @@
+{
+  "fecha": "2026-07-07",
+  "generadoEn": "2026-07-07T14:42:47.386Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "Hoy tenemos novedades importantes en IA, con Google presentando sus últimas actualizaciones y una nueva app, Savi, que busca proteger de estafas realistas. En Apple, J.P. Morgan subió el precio objetivo de la acción, y se desestimaron la mayoría de las demandas por condensación en los AirPods Max. A nivel local, el Gobierno eliminó retenciones industriales y adjudicó un negocio de almacenamiento de energía por US$750 millones, mientras que la morosidad bancaria alcanzó un récord. También se destaca la suba del precio internacional de la soja.",
+  "radarPersonal": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Google presenta sus últimas actualizaciones de IA de junio de 2026",
+      "resumen": "Google dio a conocer las últimas novedades en inteligencia artificial de junio de 2026.",
+      "categoria": "AI",
+      "fuentes": [
+        "Google AI Blog"
+      ],
+      "urls": [
+        "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/"
+      ],
+      "score": 100,
+      "tags": [
+        "Google",
+        "IA",
+        "actualizaciones"
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Claves de la eliminación de retenciones industriales en Argentina",
+      "resumen": "La medida del Gobierno modifica el mapa de los Derechos de Exportación. Se detalla qué sectores quedan exentos, cuáles seguirán tributando y cuándo finalizará el proceso.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/las-claves-la-eliminacion-las-retenciones-industriales-que-cambia-y-que-productos-seguiran-pagando-n6297093"
+      ],
+      "score": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "retenciones",
+        "exportación"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "La app Savi busca proteger a los consumidores de estafas realistas con IA",
+      "resumen": "La compañía lanzó su aplicación para iPhone y Android, que busca proteger a los consumidores de estafas realistas de IA.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/"
+      ],
+      "score": 100,
+      "tags": [
+        "IA",
+        "seguridad",
+        "estafas",
+        "app"
+      ]
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "titulo": "J.P. Morgan sube el precio objetivo de las acciones de Apple a $345",
+      "resumen": "J.P. Morgan mantuvo su calificación de Compra para Apple y elevó el precio objetivo de las acciones de la compañía.",
+      "categoria": "Apple",
+      "fuentes": [
+        "9to5Mac"
+      ],
+      "urls": [
+        "https://9to5mac.com/2026/07/07/j-p-morgan-raises-apple-stock-target-to-345-despite-hardware-price-hikes/"
+      ],
+      "score": 100,
+      "tags": [
+        "Apple",
+        "acciones",
+        "inversión",
+        "mercado"
+      ]
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "titulo": "Empresas se adjudican negocio de almacenamiento de energía por US$ 750 millones en Argentina",
+      "resumen": "El dueño de FATE, Genneia y otras tres empresas se adjudicaron el negocio de almacenamiento de energía por US$ 750 millones. El Gobierno busca evitar cortes de luz y bajar el costo de la electricidad.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Clarin Economia"
+      ],
+      "urls": [
+        "https://www.clarin.com/economia/dueno-fate-genneia-3-empresas-adjudican-negocio-almacenamiento-energia-us-750-millones_0_fDbRvLcPRZ.html"
+      ],
+      "score": 100,
+      "tags": [
+        "Argentina",
+        "energía",
+        "inversión",
+        "negocios"
+      ]
+    }
+  ],
+  "loImportante": [
+    "Google presentó sus últimas actualizaciones de IA de junio de 2026, mostrando avances en el campo.",
+    "En Argentina, se eliminaron las retenciones industriales, lo que modifica el panorama de los Derechos de Exportación.",
+    "Una nueva app, Savi, busca proteger a los consumidores de estafas realistas generadas por IA.",
+    "J.P. Morgan elevó el precio objetivo de las acciones de Apple a $345, manteniendo la calificación de Compra.",
+    "En Argentina, empresas se adjudicaron un negocio de almacenamiento de energía por US$ 750 millones, buscando mejorar el suministro eléctrico."
+  ],
+  "oportunidades": [
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "categoria": "Investing",
+      "titulo": "Meta podría entrar al negocio de la nube vendiendo su exceso de capacidad de cómputo de IA",
+      "detalle": "Meta está evaluando iniciar un negocio en la nube para vender su exceso de capacidad de cómputo de IA, lo que podría cambiar su perspectiva de flujo de caja.",
+      "acciones": [
+        "Monitorear el desarrollo de Meta en el sector de la nube y su impacto en el mercado de IA.",
+        "Evaluar posibles inversiones en Meta si se confirma esta estrategia y su impacto en la valoración de la empresa."
+      ]
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "titulo": "Elementos fundamentales de la arquitectura de IA para escalar en organizaciones",
+      "detalle": "Con el avance de la IA y los sistemas agénticos, las organizaciones expanden sus casos de uso. Es clave volver a los elementos fundamentales de la arquitectura de IA para escalar y asegurar inversiones valiosas.",
+      "acciones": [
+        "Revisar y fortalecer la arquitectura de IA en proyectos propios para asegurar escalabilidad y sostenibilidad.",
+        "Investigar las mejores prácticas en arquitectura de IA para sistemas agénticos y su aplicación en el retoque fotográfico y arte con IA."
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "State Farm usa tecnología Flowcode con códigos QR en serie de gaming",
+      "detalle": "La serie de competencia 'Gamerhood' integrará la tecnología Flowcode, que utiliza códigos QR para conectar la marca con los consumidores.",
+      "acciones": [
+        "Explorar la aplicación de códigos QR y tecnologías similares para conectar con audiencias en proyectos de marketing o arte con IA.",
+        "Analizar cómo otras marcas están utilizando la gamificación y la tecnología interactiva para el engagement del consumidor."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Market",
+      "titulo": "Mora récord en Argentina: casi siete millones de personas sin acceso a crédito bancario",
+      "detalle": "La morosidad familiar alcanzó un máximo histórico en Argentina, con casi siete millones de personas sin acceso a nuevo crédito bancario.",
+      "mitigacion": "Evaluar el impacto de la situación crediticia en el consumo y la economía local para ajustar estrategias de negocio y finanzas personales. Mantener un fondo de emergencia sólido."
+    }
+  ],
+  "conexiones": [],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "tituloOriginal": "The latest AI news we announced in June 2026",
+      "tituloLimpio": "Google presenta sus últimas actualizaciones de IA de junio de 2026",
+      "resumen": "Google dio a conocer las últimas novedades en inteligencia artificial de junio de 2026.",
+      "porQueImporta": "Es relevante para estar al tanto de los avances de Google en IA, que pueden influir en herramientas y aplicaciones futuras para retoque fotográfico y arte con IA.",
+      "publicadoEn": "2026-07-01T18:15:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "Google",
+        "IA",
+        "actualizaciones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "categoria": "Finance",
+      "fuente": "Sherwood",
+      "url": "https://sherwood.news/markets/meta-surges-report-entering-into-cloud-business-excess-compute/",
+      "tituloOriginal": "Meta surges on report it’s starting a cloud business to sell excess AI compute",
+      "tituloLimpio": "Meta podría entrar al negocio de la nube vendiendo su exceso de capacidad de cómputo de IA",
+      "resumen": "Meta está evaluando iniciar un negocio en la nube para vender su exceso de capacidad de cómputo de IA.",
+      "porQueImporta": "Podría generar nuevas oportunidades de negocio y servicios de infraestructura de IA, impactando el mercado y potencialmente ofreciendo recursos para proyectos de IA.",
+      "publicadoEn": "2026-07-01T14:03:12.000Z",
+      "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/2268011998_washington-dc-united-states-meta-ceo-mark-zuckerberg-walks-through-the-u-s-capitol-following.jpg",
+      "globalScore": 80,
+      "personalScore": 100,
+      "tags": [
+        "Meta",
+        "IA",
+        "nube",
+        "negocios"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/las-claves-la-eliminacion-las-retenciones-industriales-que-cambia-y-que-productos-seguiran-pagando-n6297093",
+      "tituloOriginal": "Las claves de la eliminación de las retenciones industriales: qué cambia y qué productos seguirán pagando",
+      "tituloLimpio": "Claves de la eliminación de retenciones industriales en Argentina",
+      "resumen": "La medida del Gobierno modifica el mapa de los Derechos de Exportación. Se detalla qué sectores quedan exentos, cuáles seguirán tributando y cuándo finalizará el proceso.",
+      "porQueImporta": "Impacta directamente en la economía argentina y en los costos de exportación, lo que puede influir en la inversión y el desarrollo de negocios locales.",
+      "publicadoEn": "2026-07-07T14:27:44.000Z",
+      "imagen": "https://media.ambito.com/p/305edff8a9c4732a019ed8cbaca78bcc/adjuntos/239/imagenes/043/329/0043329607/1200x675/940x415:960x435/industria-pyme.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "retenciones",
+        "exportación"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/state-farm-ishowspeed-keeps-season-five-gaming-series-fresh/824308/",
+      "tituloOriginal": "State Farm enlists IShowSpeed to keep season five of gaming series fresh",
+      "tituloLimpio": "State Farm usa tecnología Flowcode con códigos QR en serie de gaming",
+      "resumen": "La serie de competencia 'Gamerhood' integrará la tecnología Flowcode, que utiliza códigos QR para conectar la marca con los consumidores.",
+      "porQueImporta": "Muestra una aplicación práctica de tecnología para marketing y engagement, relevante para estrategias de marca y promoción de proyectos creativos.",
+      "publicadoEn": "2026-07-07T12:00:00.000Z",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "códigos QR",
+        "engagement",
+        "tecnología"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+      "tituloOriginal": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+      "tituloLimpio": "La app Savi busca proteger a los consumidores de estafas realistas con IA",
+      "resumen": "La compañía lanzó su aplicación para iPhone y Android, que busca proteger a los consumidores de estafas realistas de IA.",
+      "porQueImporta": "Destaca la creciente preocupación por la seguridad en el ámbito de la IA y la necesidad de herramientas de protección, relevante para usuarios y desarrolladores de IA.",
+      "publicadoEn": "2026-07-07T12:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "seguridad",
+        "estafas",
+        "app"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy",
+      "tituloOriginal": "Solos debuts an even lighter version of its camera-less smart glasses",
+      "tituloLimpio": "Solos lanza una versión más ligera de sus gafas inteligentes sin cámara",
+      "resumen": "Solos anunció una nueva versión de sus gafas inteligentes AirGo, que prescinde de cámaras para un diseño más elegante y un asistente de IA que se basa en interacciones de voz.",
+      "porQueImporta": "Muestra la evolución de los dispositivos de IA y la tendencia hacia diseños más minimalistas y centrados en la voz, relevante para el futuro de la interacción con la tecnología.",
+      "publicadoEn": "2026-07-07T13:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "wearables",
+        "gafas inteligentes",
+        "diseño"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+      "tituloOriginal": "The foundational elements of AI architecture that IT leaders need to scale",
+      "tituloLimpio": "Elementos fundamentales de la arquitectura de IA para escalar en organizaciones",
+      "resumen": "Con el avance de la IA y los sistemas agénticos, las organizaciones expanden sus casos de uso. Es clave volver a los elementos fundamentales de la arquitectura de IA para escalar y asegurar inversiones valiosas.",
+      "porQueImporta": "Ofrece una perspectiva sobre cómo construir sistemas de IA robustos y escalables, útil para quienes trabajan con IA y buscan optimizar sus proyectos.",
+      "publicadoEn": "2026-07-07T11:10:52.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "arquitectura",
+        "escalabilidad",
+        "organizaciones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/07/j-p-morgan-raises-apple-stock-target-to-345-despite-hardware-price-hikes/",
+      "tituloOriginal": "J.P. Morgan raises Apple stock target to $345 despite hardware price hikes",
+      "tituloLimpio": "J.P. Morgan sube el precio objetivo de las acciones de Apple a $345",
+      "resumen": "J.P. Morgan mantuvo su calificación de Compra para Apple y elevó el precio objetivo de las acciones de la compañía.",
+      "porQueImporta": "Indica la confianza del mercado en Apple, lo que puede ser un indicador para inversores y para entender la salud financiera de la empresa.",
+      "publicadoEn": "2026-07-07T14:41:19.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "acciones",
+        "inversión",
+        "mercado"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/07/07/no-sweat-most-claims-stricken-in-airpods-max-condensation-lawsuit?utm_source=rss",
+      "tituloOriginal": "No sweat: Most claims stricken in AirPods Max condensation lawsuit",
+      "tituloLimpio": "La mayoría de las demandas por condensación en AirPods Max fueron desestimadas",
+      "resumen": "La mayoría de las demandas por condensación en los AirPods Max fueron desestimadas por un juez.",
+      "porQueImporta": "Es una noticia relevante para usuarios de AirPods Max y para entender cómo se resuelven problemas de diseño o fabricación en productos de Apple.",
+      "publicadoEn": "2026-07-07T14:32:40.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "AirPods Max",
+        "demanda",
+        "productos"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/stories/finishing-with-fable-5/",
+      "tituloOriginal": "Finishing with Fable 5",
+      "tituloLimpio": "Finalizando con Fable 5",
+      "resumen": "Cuando Fable 5 regresó la semana pasada, se sabía qué usar con él. Un proyecto que comenzó en febrero y terminó en frustración, se dejó de lado y se esperó. Cinco meses después, Fable 5 fue lanzado y fue el momento de terminar Editor.",
+      "porQueImporta": "Puede ser interesante para quienes siguen el desarrollo de software y herramientas, mostrando cómo nuevas versiones pueden resolver problemas previos.",
+      "publicadoEn": "2026-07-07T14:25:53.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Software",
+        "herramientas",
+        "desarrollo"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/news/technology/crinetics-stock-vertex-pharmaceuticals-takeover/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Vertex Pharma Makes A $10 Billion Deal; Crinetics Stock Doubles",
+      "tituloLimpio": "Vertex Pharma realiza un acuerdo de $10 mil millones; las acciones de Crinetics se duplican",
+      "resumen": "Vertex Pharma realizó un acuerdo de $10 mil millones, y las acciones de Crinetics se duplicaron.",
+      "porQueImporta": "Muestra movimientos significativos en el mercado de valores, relevante para inversores y para entender la dinámica de fusiones y adquisiciones.",
+      "publicadoEn": "2026-07-07T14:09:23.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/36341c7359b2a531328260e35b43cafc",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "inversión",
+        "mercado",
+        "acciones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/07/analysts-see-more-upside-for-spacex-as-post-ipo-research-begins",
+      "tituloOriginal": "Analysts see more upside for SpaceX as post-IPO research begins",
+      "tituloLimpio": "Analistas ven más potencial alcista para SpaceX tras el inicio de la investigación post-IPO",
+      "resumen": "Las principales corredurías iniciaron la cobertura el martes con calificaciones mayormente de compra tras la IPO de la compañía en junio por $75 mil millones.",
+      "porQueImporta": "Es una noticia importante para inversores interesados en el sector espacial y en empresas de alto crecimiento como SpaceX.",
+      "publicadoEn": "2026-07-07T14:39:24.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/4e21e46a2a6976b823f37de443344b1094f4e9d8-5184x3456.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "inversión",
+        "SpaceX",
+        "IPO"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/dueno-fate-genneia-3-empresas-adjudican-negocio-almacenamiento-energia-us-750-millones_0_fDbRvLcPRZ.html",
+      "tituloOriginal": "El dueño de FATE, Genneia y otras 3 empresas se adjudican el negocio de almacenamiento de energía por US$ 750 millones",
+      "tituloLimpio": "Empresas se adjudican negocio de almacenamiento de energía por US$ 750 millones en Argentina",
+      "resumen": "El dueño de FATE, Genneia y otras tres empresas se adjudicaron el negocio de almacenamiento de energía por US$ 750 millones. El Gobierno busca evitar cortes de luz y bajar el costo de la electricidad.",
+      "porQueImporta": "Impacta en la infraestructura energética de Argentina, buscando mejorar la estabilidad del suministro eléctrico y reducir costos.",
+      "publicadoEn": "2026-07-07T13:35:03.000Z",
+      "imagen": "https://www.clarin.com/img/2019/06/29/kMwwOmgQb_1200x630__1.jpg",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "energía",
+        "inversión",
+        "negocios"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/gobierno-avanza-venta-tierras-estrategicas-armada-ushuaia_0_tKIdHZScgl.html",
+      "tituloOriginal": "El Gobierno avanza en la venta de tierras estratégicas de la Armada en Ushuaia",
+      "tituloLimpio": "El Gobierno avanza en la venta de tierras estratégicas de la Armada en Ushuaia",
+      "resumen": "Se trata de un predio de 3.000 metros cuadrados en el que se buscaba levantar una base integrada.",
+      "porQueImporta": "Es una noticia de política y economía local que puede generar debate sobre el uso de tierras estratégicas y la gestión de activos estatales.",
+      "publicadoEn": "2026-07-07T13:45:42.000Z",
+      "imagen": "https://www.clarin.com/img/2026/07/07/-OZk2oede_1200x630__1.jpg",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "política",
+        "tierras",
+        "Ushuaia"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/07/07/mora-record-caputo-aseguro-que-bancos-privados-estan-rescatando-a-sus-clientes-con-prestamos-al-25-anual/",
+      "tituloOriginal": "Mora récord: Caputo aseguró que bancos privados están rescatando a sus clientes con préstamos al 25% anual",
+      "tituloLimpio": "Mora récord: Caputo aseguró que bancos privados están rescatando a sus clientes con préstamos al 25% anual",
+      "resumen": "Casi siete millones de personas no acceden a nuevo crédito bancario y la morosidad familiar alcanzó un máximo histórico.",
+      "porQueImporta": "Refleja la situación económica y financiera de las familias argentinas, con implicaciones para el consumo y la estabilidad bancaria.",
+      "publicadoEn": "2026-07-07T14:34:27.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/7BC74VKDCJCJHCNIVB7W2I4TOE.png?auth=34a8a888be5ff151c1bce0aa1e4c37f9d476a9d61eef277a07116453a2262f98&smart=true&width=856&height=507",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "crédito",
+        "morosidad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/07/07/el-pro-respaldo-las-reformas-economicas-del-gobierno-nacional-pero-pidio-alivio-fiscal-para-la-produccion/",
+      "tituloOriginal": "El PRO respaldó las reformas económicas del Gobierno nacional, pero pidió alivio fiscal para la producción",
+      "tituloLimpio": "El PRO respaldó las reformas económicas del Gobierno nacional, pero pidió alivio fiscal para la producción",
+      "resumen": "El senador provincial Pablo Petrecca sostuvo que la macroeconomía avanza en la dirección correcta, pero advirtió que ese proceso todavía no se refleja en las familias ni en el sector productivo.",
+      "porQueImporta": "Muestra el debate político y económico en Argentina sobre las reformas del gobierno y su impacto en la producción y las familias.",
+      "publicadoEn": "2026-07-07T14:37:32.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/RLGMVH44NZDV7HMITXBKC5FCRM.jfif?auth=5b0b02ad7430cb67686a2c1d560d7eafefa76e30cc1281e19537ec4d52632deb&smart=true&width=1229&height=691",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "política",
+        "economía",
+        "reformas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/campo/volo-la-soja-el-precio-internacional-subio-us1755-en-medio-de-un-coctel-de-importantes-factores-nid06072026/",
+      "tituloOriginal": "Voló la soja: el precio internacional subió US$17,55 en medio de un cóctel de importantes factores alcistas",
+      "tituloLimpio": "El precio internacional de la soja subió US$17,55 por factores alcistas",
+      "resumen": "El valor aumentó por pronósticos de temperaturas muy elevadas que podrían afectar los cultivos en Estados Unidos y especulaciones acerca de posibles compras de China en ese mercado.",
+      "porQueImporta": "Es una noticia relevante para el sector agropecuario argentino y para quienes siguen los mercados de commodities, ya que la soja es un producto clave para la economía del país.",
+      "publicadoEn": "2026-07-07T14:34:52.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/ZL4KFV4YAJHGRCEQXEKCKVMEFU.jpg?auth=dab455124ab03b78d1cbd5ddaf2e7166e4009dbdaa15a058f8a9a94b5cb0a513&smart=true&width=960&height=640",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "soja",
+        "mercado internacional"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Politica",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-en-cuanto-se-proyecta-la-inflacion-de-junio-y-los-avances-de-la-nid07072026/",
+      "tituloOriginal": "Javier Milei y sus medidas, en vivo: en cuánto se proyecta la inflación de junio y los avances de la reforma electoral",
+      "tituloLimpio": "Javier Milei y sus medidas: se proyecta la inflación de junio y avances de la reforma electoral",
+      "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios.",
+      "porQueImporta": "Mantiene al tanto sobre la agenda política y económica del gobierno argentino, incluyendo temas clave como la inflación y reformas electorales.",
+      "publicadoEn": "2026-07-07T14:27:38.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/WUWOOSXJXJE6ZELZSVV4M6VNCY.jpeg?auth=7c4a7ecf8306d550511bdc2a8fbfba4107893a360f2892d14c77eb1df3d80546&smart=true&width=498&height=332",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "política",
+        "inflación",
+        "reforma electoral"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-07-07T14:42:47.386Z"
+  }
+}
