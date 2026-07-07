@@ -1,171 +1,236 @@
 {
   "fecha": "2026-07-07",
-  "generadoEn": "2026-07-07T14:42:47.386Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "Hoy tenemos novedades importantes en IA, con Google presentando sus últimas actualizaciones y una nueva app, Savi, que busca proteger de estafas realistas. En Apple, J.P. Morgan subió el precio objetivo de la acción, y se desestimaron la mayoría de las demandas por condensación en los AirPods Max. A nivel local, el Gobierno eliminó retenciones industriales y adjudicó un negocio de almacenamiento de energía por US$750 millones, mientras que la morosidad bancaria alcanzó un récord. También se destaca la suba del precio internacional de la soja.",
+  "generadoEn": "2026-07-07T19:02:20.959Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Hoy destacamos la expansión de los agentes gestionados en la API de Gemini de Google y la disponibilidad de Claude Cowork en móvil y web. En Apple, se espera el lanzamiento del Pixel 11 de Google un mes antes del iPhone plegable, y Meta AI suma generación de imágenes. En Argentina, el déficit comercial de EE.UU. subió, y la empresa Dass cierra su última planta en el país. También, la CGT anunció su plan de lucha.",
   "radarPersonal": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "titulo": "Google presenta sus últimas actualizaciones de IA de junio de 2026",
-      "resumen": "Google dio a conocer las últimas novedades en inteligencia artificial de junio de 2026.",
+      "titulo": "Google expande los agentes gestionados en la API de Gemini",
+      "resumen": "Google anuncia nuevas capacidades en los agentes gestionados de la API de Gemini para que los desarrolladores puedan construir agentes confiables y listos para producción.",
       "categoria": "AI",
       "fuentes": [
         "Google AI Blog"
       ],
       "urls": [
-        "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/"
+        "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/"
       ],
       "score": 100,
       "tags": [
-        "Google",
-        "IA",
-        "actualizaciones"
+        "gemini",
+        "api",
+        "desarrolladores",
+        "agentes"
       ]
     },
     {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "Claves de la eliminación de retenciones industriales en Argentina",
-      "resumen": "La medida del Gobierno modifica el mapa de los Derechos de Exportación. Se detalla qué sectores quedan exentos, cuáles seguirán tributando y cuándo finalizará el proceso.",
-      "categoria": "Argentina",
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Evento del Google Pixel 11 programado para agosto, un mes antes del iPhone plegable de Apple",
+      "resumen": "Google presentará sus últimos smartphones Pixel en un evento el 12 de agosto, un mes antes de que Apple anuncie nuevos modelos de iPhone.",
+      "categoria": "Apple",
       "fuentes": [
-        "Ambito"
+        "MacRumors"
       ],
       "urls": [
-        "https://www.ambito.com/economia/las-claves-la-eliminacion-las-retenciones-industriales-que-cambia-y-que-productos-seguiran-pagando-n6297093"
+        "https://www.macrumors.com/2026/07/07/google-pixel-11-event/"
       ],
       "score": 100,
       "tags": [
-        "Argentina",
-        "economía",
-        "retenciones",
-        "exportación"
+        "google",
+        "pixel",
+        "apple",
+        "iphone",
+        "lanzamiento"
       ]
     },
     {
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "titulo": "La app Savi busca proteger a los consumidores de estafas realistas con IA",
-      "resumen": "La compañía lanzó su aplicación para iPhone y Android, que busca proteger a los consumidores de estafas realistas de IA.",
+      "titulo": "Claude Cowork se expande a móvil y web",
+      "resumen": "Con esta actualización, los usuarios pueden iniciar una tarea desde su escritorio, obtener actualizaciones de estado en su teléfono y recoger el resultado final más tarde, incluso si su laptop está cerrada.",
       "categoria": "AI",
       "fuentes": [
         "TechCrunch AI"
       ],
       "urls": [
-        "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/"
+        "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/"
       ],
       "score": 100,
       "tags": [
-        "IA",
-        "seguridad",
-        "estafas",
-        "app"
+        "claude",
+        "cowork",
+        "movil",
+        "web",
+        "productividad"
       ]
     },
     {
       "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
-      "titulo": "J.P. Morgan sube el precio objetivo de las acciones de Apple a $345",
-      "resumen": "J.P. Morgan mantuvo su calificación de Compra para Apple y elevó el precio objetivo de las acciones de la compañía.",
+      "titulo": "La app Meta AI agrega generación de imágenes y potencia funciones de WhatsApp e Instagram",
+      "resumen": "Meta lanza su primera herramienta de generación de imágenes de Superintelligence Labs como parte de la app Meta AI. La compañía dice que sus nuevas herramientas de generación de imágenes también potencian experiencias creativas en Instagram y WhatsApp.",
       "categoria": "Apple",
       "fuentes": [
         "9to5Mac"
       ],
       "urls": [
-        "https://9to5mac.com/2026/07/07/j-p-morgan-raises-apple-stock-target-to-345-despite-hardware-price-hikes/"
+        "https://9to5mac.com/2026/07/07/meta-ai-app-adds-image-generation-also-powering-whatsapp-and-instagram-features/"
       ],
       "score": 100,
       "tags": [
-        "Apple",
-        "acciones",
-        "inversión",
-        "mercado"
+        "meta",
+        "ai",
+        "generacion de imagenes",
+        "whatsapp",
+        "instagram"
       ]
     },
     {
-      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
-      "titulo": "Empresas se adjudican negocio de almacenamiento de energía por US$ 750 millones en Argentina",
-      "resumen": "El dueño de FATE, Genneia y otras tres empresas se adjudicaron el negocio de almacenamiento de energía por US$ 750 millones. El Gobierno busca evitar cortes de luz y bajar el costo de la electricidad.",
-      "categoria": "Argentina",
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "titulo": "Beta de firmware de AirPods permite a desarrolladores usar nuevas funciones de iOS 27",
+      "resumen": "Apple lanzó una nueva versión beta de firmware para desarrolladores de AirPods y AirPods Pro, preparando los dispositivos de audio personales para los próximos cambios de iOS 27.",
+      "categoria": "Apple",
       "fuentes": [
-        "Clarin Economia"
+        "AppleInsider"
       ],
       "urls": [
-        "https://www.clarin.com/economia/dueno-fate-genneia-3-empresas-adjudican-negocio-almacenamiento-energia-us-750-millones_0_fDbRvLcPRZ.html"
+        "https://appleinsider.com/articles/26/07/07/airpods-firmware-beta-lets-developers-use-new-ios-27-features?utm_source=rss"
       ],
       "score": 100,
       "tags": [
-        "Argentina",
-        "energía",
-        "inversión",
-        "negocios"
+        "airpods",
+        "firmware",
+        "ios 27",
+        "desarrolladores"
       ]
     }
   ],
   "loImportante": [
-    "Google presentó sus últimas actualizaciones de IA de junio de 2026, mostrando avances en el campo.",
-    "En Argentina, se eliminaron las retenciones industriales, lo que modifica el panorama de los Derechos de Exportación.",
-    "Una nueva app, Savi, busca proteger a los consumidores de estafas realistas generadas por IA.",
-    "J.P. Morgan elevó el precio objetivo de las acciones de Apple a $345, manteniendo la calificación de Compra.",
-    "En Argentina, empresas se adjudicaron un negocio de almacenamiento de energía por US$ 750 millones, buscando mejorar el suministro eléctrico."
+    "Google y Anthropic están expandiendo sus herramientas de IA, con Gemini API mejorando sus agentes gestionados y Claude Cowork llegando a plataformas móviles y web.",
+    "Apple se prepara para nuevos lanzamientos, con el Pixel 11 de Google anticipándose al iPhone plegable y actualizaciones de firmware para AirPods.",
+    "Meta AI integra la generación de imágenes en su aplicación, extendiendo esta capacidad a WhatsApp e Instagram.",
+    "En Argentina, la empresa Dass cierra su última planta de zapatillas, afectando a 150 trabajadores, y la CGT anuncia un plan de lucha.",
+    "El déficit comercial de EE.UU. se disparó en mayo debido al aumento de las importaciones."
   ],
   "oportunidades": [
     {
-      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
-      "categoria": "Investing",
-      "titulo": "Meta podría entrar al negocio de la nube vendiendo su exceso de capacidad de cómputo de IA",
-      "detalle": "Meta está evaluando iniciar un negocio en la nube para vender su exceso de capacidad de cómputo de IA, lo que podría cambiar su perspectiva de flujo de caja.",
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "titulo": "Desarrollo de agentes de IA más robustos con Gemini API",
+      "detalle": "Las nuevas capacidades en los agentes gestionados de Gemini API permiten a los desarrolladores construir agentes de IA más confiables y listos para producción, lo que puede abrir puertas a nuevas automatizaciones y herramientas.",
       "acciones": [
-        "Monitorear el desarrollo de Meta en el sector de la nube y su impacto en el mercado de IA.",
-        "Evaluar posibles inversiones en Meta si se confirma esta estrategia y su impacto en la valoración de la empresa."
+        "Explorar las nuevas capacidades de Gemini API para integrar en proyectos de automatización o retoque con IA.",
+        "Investigar casos de uso de agentes gestionados para optimizar flujos de trabajo."
       ]
     },
     {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "categoria": "AI",
-      "titulo": "Elementos fundamentales de la arquitectura de IA para escalar en organizaciones",
-      "detalle": "Con el avance de la IA y los sistemas agénticos, las organizaciones expanden sus casos de uso. Es clave volver a los elementos fundamentales de la arquitectura de IA para escalar y asegurar inversiones valiosas.",
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "Productivity",
+      "titulo": "Acceso a Claude Cowork desde cualquier dispositivo",
+      "detalle": "La expansión de Claude Cowork a móvil y web permite una mayor flexibilidad para gestionar tareas y obtener actualizaciones, mejorando la productividad personal y profesional.",
       "acciones": [
-        "Revisar y fortalecer la arquitectura de IA en proyectos propios para asegurar escalabilidad y sostenibilidad.",
-        "Investigar las mejores prácticas en arquitectura de IA para sistemas agénticos y su aplicación en el retoque fotográfico y arte con IA."
+        "Evaluar la integración de Claude Cowork en el flujo de trabajo diario para tareas de IA y automatización.",
+        "Probar la funcionalidad móvil para gestionar proyectos sobre la marcha."
       ]
     },
     {
       "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
       "categoria": "Marketing",
-      "titulo": "State Farm usa tecnología Flowcode con códigos QR en serie de gaming",
-      "detalle": "La serie de competencia 'Gamerhood' integrará la tecnología Flowcode, que utiliza códigos QR para conectar la marca con los consumidores.",
+      "titulo": "Explorar microdramas para estrategias de contenido de marca",
+      "detalle": "Las marcas están viendo potencial en los microdramas como formato de contenido corto. Esto podría ser una oportunidad para experimentar con nuevas formas de storytelling visual en marketing.",
       "acciones": [
-        "Explorar la aplicación de códigos QR y tecnologías similares para conectar con audiencias en proyectos de marketing o arte con IA.",
-        "Analizar cómo otras marcas están utilizando la gamificación y la tecnología interactiva para el engagement del consumidor."
+        "Investigar ejemplos exitosos de microdramas de marca.",
+        "Considerar la creación de contenido de microdrama para campañas de marketing o redes sociales."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Market",
-      "titulo": "Mora récord en Argentina: casi siete millones de personas sin acceso a crédito bancario",
-      "detalle": "La morosidad familiar alcanzó un máximo histórico en Argentina, con casi siete millones de personas sin acceso a nuevo crédito bancario.",
-      "mitigacion": "Evaluar el impacto de la situación crediticia en el consumo y la economía local para ajustar estrategias de negocio y finanzas personales. Mantener un fondo de emergencia sólido."
+      "titulo": "Cierre de planta de Dass en Argentina",
+      "detalle": "El cierre de la última planta de Dass en Argentina y el despido de 150 personas, sumado a la importación de mercadería desde Brasil, señala una tendencia preocupante en la industria local y el empleo.",
+      "mitigacion": "Monitorear la evolución del mercado laboral y las políticas económicas que afectan a la industria en Argentina."
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Market",
+      "titulo": "Best Buy y Apple advierten sobre un shock de precios",
+      "detalle": "La advertencia de Best Buy y Apple sobre un posible shock de precios para los consumidores podría indicar un aumento generalizado en los costos de productos tecnológicos.",
+      "mitigacion": "Anticipar posibles aumentos de precios en equipos y planificar compras estratégicamente."
     }
   ],
-  "conexiones": [],
+  "conexiones": [
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "Expansión de Claude Cowork y la arquitectura de IA",
+      "historias": [
+        "Claude Cowork se expande a móvil y web",
+        "Anthropic lanza Claude Cowork en móvil y web",
+        "Los elementos fundamentales de la arquitectura de IA que los líderes de TI necesitan para escalar"
+      ],
+      "conclusion": "La disponibilidad de Claude Cowork en más plataformas subraya la tendencia hacia sistemas de IA más accesibles y ubicuos. Esto se alinea con la necesidad de arquitecturas de IA escalables y adaptables, como se menciona en el artículo de MIT Technology Review, para soportar el crecimiento constante de las capacidades y casos de uso de la IA."
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "titulo": "Cierre de Dass en Argentina y su impacto en el empleo",
+      "historias": [
+        "El fabricante de zapatillas Dass cierra su última planta en la Argentina: despedirá a 150 personas e importará desde Brasil",
+        "El fabricante de Nike y Adidas cierra su última planta en la Argentina y despide a sus 150 trabajadores"
+      ],
+      "conclusion": "Ambas noticias confirman el cierre de la última planta de Grupo Dass en Eldorado, Misiones, y el despido de 150 trabajadores. Esto refleja una situación económica compleja en Argentina, donde empresas deciden importar en lugar de producir localmente, impactando directamente en el empleo."
+    }
+  ],
   "noticias": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
       "categoria": "AI",
       "fuente": "Google AI Blog",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-      "tituloOriginal": "The latest AI news we announced in June 2026",
-      "tituloLimpio": "Google presenta sus últimas actualizaciones de IA de junio de 2026",
-      "resumen": "Google dio a conocer las últimas novedades en inteligencia artificial de junio de 2026.",
-      "porQueImporta": "Es relevante para estar al tanto de los avances de Google en IA, que pueden influir en herramientas y aplicaciones futuras para retoque fotográfico y arte con IA.",
-      "publicadoEn": "2026-07-01T18:15:00.000Z",
-      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp",
-      "globalScore": 88,
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "tituloOriginal": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
+      "tituloLimpio": "Google expande los agentes gestionados en la API de Gemini",
+      "resumen": "Google anuncia nuevas capacidades en los agentes gestionados de la API de Gemini para que los desarrolladores puedan construir agentes confiables y listos para producción.",
+      "porQueImporta": "Es relevante para Guido por su interés en la IA aplicada y la automatización, ya que estas mejoras en Gemini API pueden ofrecer nuevas herramientas para el desarrollo de proyectos y flujos de trabajo.",
+      "publicadoEn": "2026-07-07T08:54:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "Google",
-        "IA",
-        "actualizaciones"
+        "expanding",
+        "managed",
+        "agents",
+        "gemini",
+        "background",
+        "tasks",
+        "remote",
+        "more",
+        "announcing",
+        "capabilities"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/07/07/google-pixel-11-event/",
+      "tituloOriginal": "Google's Pixel 11 Event Set for August 12, a Month Before Apple Debuts Foldable iPhone",
+      "tituloLimpio": "Evento del Google Pixel 11 programado para agosto, un mes antes del iPhone plegable de Apple",
+      "resumen": "Google presentará sus últimos smartphones Pixel en un evento el 12 de agosto, un mes antes de que Apple anuncie nuevos modelos de iPhone.",
+      "porQueImporta": "Guido, como usuario de Apple, estará interesado en la competencia y las novedades del mercado de smartphones, especialmente si se anticipa un iPhone plegable.",
+      "publicadoEn": "2026-07-07T18:48:20.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "google",
+        "pixel",
+        "event",
+        "august",
+        "month",
+        "before",
+        "apple",
+        "debuts",
+        "foldable",
+        "iphone",
+        "will"
       ],
       "tambienVistoEn": []
     },
@@ -173,20 +238,26 @@
       "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
       "categoria": "Finance",
       "fuente": "Sherwood",
-      "url": "https://sherwood.news/markets/meta-surges-report-entering-into-cloud-business-excess-compute/",
-      "tituloOriginal": "Meta surges on report it’s starting a cloud business to sell excess AI compute",
-      "tituloLimpio": "Meta podría entrar al negocio de la nube vendiendo su exceso de capacidad de cómputo de IA",
-      "resumen": "Meta está evaluando iniciar un negocio en la nube para vender su exceso de capacidad de cómputo de IA.",
-      "porQueImporta": "Podría generar nuevas oportunidades de negocio y servicios de infraestructura de IA, impactando el mercado y potencialmente ofreciendo recursos para proyectos de IA.",
-      "publicadoEn": "2026-07-01T14:03:12.000Z",
-      "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/2268011998_washington-dc-united-states-meta-ceo-mark-zuckerberg-walks-through-the-u-s-capitol-following.jpg",
-      "globalScore": 80,
+      "url": "https://sherwood.news/markets/spacex-gets-a-wave-of-bullish-ratings-from-wall-street-analysts/",
+      "tituloOriginal": "SpaceX gets a wave of bullish ratings from Wall Street analysts",
+      "tituloLimpio": "SpaceX recibe calificaciones alcistas de analistas de Wall Street",
+      "resumen": "Las calificaciones llegan mientras SpaceX se unió al índice Nasdaq 100, una canasta de empresas de tecnología que sustenta millones de carteras.",
+      "porQueImporta": "Interesante para Guido por su interés en inversiones y ETFs, ya que la inclusión de SpaceX en el Nasdaq 100 puede influir en el rendimiento de fondos tecnológicos.",
+      "publicadoEn": "2026-07-07T15:56:30.000Z",
+      "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/2195743491_lompoc-ca-spacex-an-american-aerospace-manufacturer-successfully-launches-a-pre-dawn-a-falcon.jpg",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "Meta",
-        "IA",
-        "nube",
-        "negocios"
+        "spacex",
+        "gets",
+        "wave",
+        "bullish",
+        "ratings",
+        "from",
+        "wall",
+        "street",
+        "analysts",
+        "come"
       ],
       "tambienVistoEn": []
     },
@@ -194,20 +265,24 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/las-claves-la-eliminacion-las-retenciones-industriales-que-cambia-y-que-productos-seguiran-pagando-n6297093",
-      "tituloOriginal": "Las claves de la eliminación de las retenciones industriales: qué cambia y qué productos seguirán pagando",
-      "tituloLimpio": "Claves de la eliminación de retenciones industriales en Argentina",
-      "resumen": "La medida del Gobierno modifica el mapa de los Derechos de Exportación. Se detalla qué sectores quedan exentos, cuáles seguirán tributando y cuándo finalizará el proceso.",
-      "porQueImporta": "Impacta directamente en la economía argentina y en los costos de exportación, lo que puede influir en la inversión y el desarrollo de negocios locales.",
-      "publicadoEn": "2026-07-07T14:27:44.000Z",
-      "imagen": "https://media.ambito.com/p/305edff8a9c4732a019ed8cbaca78bcc/adjuntos/239/imagenes/043/329/0043329607/1200x675/940x415:960x435/industria-pyme.jpg",
+      "url": "https://www.ambito.com/economia/el-deficit-comercial-eeuu-se-disparo-422-mayo-el-avance-las-importaciones-n6297110",
+      "tituloOriginal": "El déficit comercial de EEUU se disparó 42,2% en mayo por el avance de las importaciones",
+      "tituloLimpio": "El déficit comercial de EE.UU. se disparó 42,2% en mayo por el avance de las importaciones",
+      "resumen": "El déficit comercial dio un salto en mayo, motorizado por el avance importador. Las importaciones subieron un 3,3% mientras las exportaciones cayeron un 3,2%.",
+      "porQueImporta": "Aunque es una noticia de EE.UU., el déficit comercial de una economía tan grande puede tener implicaciones globales que indirectamente afectan a Argentina y a los mercados financieros.",
+      "publicadoEn": "2026-07-07T15:06:00.000Z",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "Argentina",
-        "economía",
-        "retenciones",
-        "exportación"
+        "deficit",
+        "comercial",
+        "eeuu",
+        "disparo",
+        "mayo",
+        "avance",
+        "importaciones",
+        "salto",
+        "motorizado"
       ],
       "tambienVistoEn": []
     },
@@ -215,39 +290,26 @@
       "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
       "categoria": "Marketing",
       "fuente": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/state-farm-ishowspeed-keeps-season-five-gaming-series-fresh/824308/",
-      "tituloOriginal": "State Farm enlists IShowSpeed to keep season five of gaming series fresh",
-      "tituloLimpio": "State Farm usa tecnología Flowcode con códigos QR en serie de gaming",
-      "resumen": "La serie de competencia 'Gamerhood' integrará la tecnología Flowcode, que utiliza códigos QR para conectar la marca con los consumidores.",
-      "porQueImporta": "Muestra una aplicación práctica de tecnología para marketing y engagement, relevante para estrategias de marca y promoción de proyectos creativos.",
-      "publicadoEn": "2026-07-07T12:00:00.000Z",
+      "url": "https://www.marketingdive.com/news/brands-content-gold-microdramas-will-they-muck-up-moment/819961/",
+      "tituloOriginal": "Brands see content gold in microdramas. Will they muck up the moment?",
+      "tituloLimpio": "Las marcas ven oro en los microdramas de contenido. ¿Arruinarán el momento?",
+      "resumen": "Las opiniones están divididas sobre si las marcas se toman en serio el género de formato corto, pero los expertos compartieron formas de probarlo.",
+      "porQueImporta": "Relevante para Guido por su interés en marketing y arte con IA, ya que los microdramas podrían ser un nuevo formato para explorar en la creación de contenido visual y narrativo.",
+      "publicadoEn": "2026-07-07T16:40:00.000Z",
       "globalScore": 92,
       "personalScore": 100,
       "tags": [
-        "Marketing",
-        "códigos QR",
-        "engagement",
-        "tecnología"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "categoria": "AI",
-      "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
-      "tituloOriginal": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
-      "tituloLimpio": "La app Savi busca proteger a los consumidores de estafas realistas con IA",
-      "resumen": "La compañía lanzó su aplicación para iPhone y Android, que busca proteger a los consumidores de estafas realistas de IA.",
-      "porQueImporta": "Destaca la creciente preocupación por la seguridad en el ámbito de la IA y la necesidad de herramientas de protección, relevante para usuarios y desarrolladores de IA.",
-      "publicadoEn": "2026-07-07T12:00:00.000Z",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "IA",
-        "seguridad",
-        "estafas",
-        "app"
+        "brands",
+        "content",
+        "gold",
+        "microdramas",
+        "will",
+        "they",
+        "muck",
+        "moment",
+        "opinions",
+        "split",
+        "whether"
       ],
       "tambienVistoEn": []
     },
@@ -255,19 +317,24 @@
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
       "fuente": "The Verge AI",
-      "url": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy",
-      "tituloOriginal": "Solos debuts an even lighter version of its camera-less smart glasses",
-      "tituloLimpio": "Solos lanza una versión más ligera de sus gafas inteligentes sin cámara",
-      "resumen": "Solos anunció una nueva versión de sus gafas inteligentes AirGo, que prescinde de cámaras para un diseño más elegante y un asistente de IA que se basa en interacciones de voz.",
-      "porQueImporta": "Muestra la evolución de los dispositivos de IA y la tendencia hacia diseños más minimalistas y centrados en la voz, relevante para el futuro de la interacción con la tecnología.",
-      "publicadoEn": "2026-07-07T13:00:00.000Z",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+      "tituloOriginal": "Anthropic is launching Claude Cowork on mobile and web",
+      "tituloLimpio": "Anthropic lanza Claude Cowork en móvil y web",
+      "resumen": "A partir del martes, la plataforma de IA Claude Cowork de Anthropic estará disponible en móvil y web por primera vez.",
+      "porQueImporta": "Importante para Guido por su interés en IA aplicada y herramientas, ya que la expansión de Claude Cowork a móvil y web mejora la accesibilidad y utilidad de esta herramienta de IA.",
+      "publicadoEn": "2026-07-07T17:46:59.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "IA",
-        "wearables",
-        "gafas inteligentes",
-        "diseño"
+        "anthropic",
+        "launching",
+        "claude",
+        "cowork",
+        "mobile",
+        "starting",
+        "tuesday",
+        "platform",
+        "will"
       ],
       "tambienVistoEn": []
     },
@@ -277,17 +344,25 @@
       "fuente": "MIT Technology Review AI",
       "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
       "tituloOriginal": "The foundational elements of AI architecture that IT leaders need to scale",
-      "tituloLimpio": "Elementos fundamentales de la arquitectura de IA para escalar en organizaciones",
-      "resumen": "Con el avance de la IA y los sistemas agénticos, las organizaciones expanden sus casos de uso. Es clave volver a los elementos fundamentales de la arquitectura de IA para escalar y asegurar inversiones valiosas.",
-      "porQueImporta": "Ofrece una perspectiva sobre cómo construir sistemas de IA robustos y escalables, útil para quienes trabajan con IA y buscan optimizar sus proyectos.",
+      "tituloLimpio": "Los elementos fundamentales de la arquitectura de IA que los líderes de TI necesitan para escalar",
+      "resumen": "Con el rápido progreso de las capacidades de IA y el paso a sistemas de agentes, las organizaciones están expandiendo sus casos de uso a medida que la tecnología sigue creciendo.",
+      "porQueImporta": "Ofrece una perspectiva sobre la infraestructura necesaria para escalar la IA, relevante para Guido en su trabajo con IA y para entender las tendencias tecnológicas a largo plazo.",
       "publicadoEn": "2026-07-07T11:10:52.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "IA",
-        "arquitectura",
-        "escalabilidad",
-        "organizaciones"
+        "foundational",
+        "elements",
+        "architecture",
+        "that",
+        "leaders",
+        "need",
+        "scale",
+        "with",
+        "rapid",
+        "progress",
+        "capabilities",
+        "move"
       ],
       "tambienVistoEn": []
     },
@@ -295,19 +370,27 @@
       "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Apple",
       "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/07/07/j-p-morgan-raises-apple-stock-target-to-345-despite-hardware-price-hikes/",
-      "tituloOriginal": "J.P. Morgan raises Apple stock target to $345 despite hardware price hikes",
-      "tituloLimpio": "J.P. Morgan sube el precio objetivo de las acciones de Apple a $345",
-      "resumen": "J.P. Morgan mantuvo su calificación de Compra para Apple y elevó el precio objetivo de las acciones de la compañía.",
-      "porQueImporta": "Indica la confianza del mercado en Apple, lo que puede ser un indicador para inversores y para entender la salud financiera de la empresa.",
-      "publicadoEn": "2026-07-07T14:41:19.000Z",
+      "url": "https://9to5mac.com/2026/07/07/meta-ai-app-adds-image-generation-also-powering-whatsapp-and-instagram-features/",
+      "tituloOriginal": "Meta AI app adds image generation, also powering WhatsApp and Instagram features",
+      "tituloLimpio": "La app Meta AI agrega generación de imágenes y potencia funciones de WhatsApp e Instagram",
+      "resumen": "Meta lanza su primera herramienta de generación de imágenes de Superintelligence Labs como parte de la app Meta AI. La compañía dice que sus nuevas herramientas de generación de imágenes también potencian experiencias creativas en Instagram y WhatsApp.",
+      "porQueImporta": "Directamente relevante para Guido por su trabajo en retoque fotográfico y arte con IA, ya que Meta AI ofrece nuevas herramientas de generación de imágenes que se integran en plataformas populares.",
+      "publicadoEn": "2026-07-07T18:52:09.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "Apple",
-        "acciones",
-        "inversión",
-        "mercado"
+        "meta",
+        "adds",
+        "image",
+        "generation",
+        "also",
+        "powering",
+        "whatsapp",
+        "instagram",
+        "features",
+        "earlier",
+        "this",
+        "year"
       ],
       "tambienVistoEn": []
     },
@@ -315,80 +398,25 @@
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
       "categoria": "Apple",
       "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/07/07/no-sweat-most-claims-stricken-in-airpods-max-condensation-lawsuit?utm_source=rss",
-      "tituloOriginal": "No sweat: Most claims stricken in AirPods Max condensation lawsuit",
-      "tituloLimpio": "La mayoría de las demandas por condensación en AirPods Max fueron desestimadas",
-      "resumen": "La mayoría de las demandas por condensación en los AirPods Max fueron desestimadas por un juez.",
-      "porQueImporta": "Es una noticia relevante para usuarios de AirPods Max y para entender cómo se resuelven problemas de diseño o fabricación en productos de Apple.",
-      "publicadoEn": "2026-07-07T14:32:40.000Z",
-      "globalScore": 96,
-      "personalScore": 100,
-      "tags": [
-        "Apple",
-        "AirPods Max",
-        "demanda",
-        "productos"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
-      "categoria": "Apple",
-      "fuente": "MacStories",
-      "url": "https://www.macstories.net/stories/finishing-with-fable-5/",
-      "tituloOriginal": "Finishing with Fable 5",
-      "tituloLimpio": "Finalizando con Fable 5",
-      "resumen": "Cuando Fable 5 regresó la semana pasada, se sabía qué usar con él. Un proyecto que comenzó en febrero y terminó en frustración, se dejó de lado y se esperó. Cinco meses después, Fable 5 fue lanzado y fue el momento de terminar Editor.",
-      "porQueImporta": "Puede ser interesante para quienes siguen el desarrollo de software y herramientas, mostrando cómo nuevas versiones pueden resolver problemas previos.",
-      "publicadoEn": "2026-07-07T14:25:53.000Z",
+      "url": "https://appleinsider.com/articles/26/07/07/airpods-firmware-beta-lets-developers-use-new-ios-27-features?utm_source=rss",
+      "tituloOriginal": "AirPods firmware beta lets developers use new iOS 27 features",
+      "tituloLimpio": "Beta de firmware de AirPods permite a desarrolladores usar nuevas funciones de iOS 27",
+      "resumen": "Apple lanzó una nueva versión beta de firmware para desarrolladores de AirPods y AirPods Pro, preparando los dispositivos de audio personales para los próximos cambios de iOS 27.",
+      "porQueImporta": "Como usuario de Apple, Guido se beneficia de conocer las próximas funcionalidades y mejoras en el ecosistema, especialmente en dispositivos como los AirPods.",
+      "publicadoEn": "2026-07-07T18:59:37.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "Software",
-        "herramientas",
-        "desarrollo"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
-      "categoria": "Finance",
-      "fuente": "Yahoo Finance",
-      "url": "https://www.investors.com/news/technology/crinetics-stock-vertex-pharmaceuticals-takeover/?src=A00220&yptr=yahoo",
-      "tituloOriginal": "Vertex Pharma Makes A $10 Billion Deal; Crinetics Stock Doubles",
-      "tituloLimpio": "Vertex Pharma realiza un acuerdo de $10 mil millones; las acciones de Crinetics se duplican",
-      "resumen": "Vertex Pharma realizó un acuerdo de $10 mil millones, y las acciones de Crinetics se duplicaron.",
-      "porQueImporta": "Muestra movimientos significativos en el mercado de valores, relevante para inversores y para entender la dinámica de fusiones y adquisiciones.",
-      "publicadoEn": "2026-07-07T14:09:23.000Z",
-      "imagen": "https://media.zenfs.com/en/ibd.com/36341c7359b2a531328260e35b43cafc",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "Finanzas",
-        "inversión",
-        "mercado",
-        "acciones"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
-      "categoria": "Finance",
-      "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/07/analysts-see-more-upside-for-spacex-as-post-ipo-research-begins",
-      "tituloOriginal": "Analysts see more upside for SpaceX as post-IPO research begins",
-      "tituloLimpio": "Analistas ven más potencial alcista para SpaceX tras el inicio de la investigación post-IPO",
-      "resumen": "Las principales corredurías iniciaron la cobertura el martes con calificaciones mayormente de compra tras la IPO de la compañía en junio por $75 mil millones.",
-      "porQueImporta": "Es una noticia importante para inversores interesados en el sector espacial y en empresas de alto crecimiento como SpaceX.",
-      "publicadoEn": "2026-07-07T14:39:24.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/4e21e46a2a6976b823f37de443344b1094f4e9d8-5184x3456.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "globalScore": 96,
-      "personalScore": 100,
-      "tags": [
-        "Finanzas",
-        "inversión",
-        "SpaceX",
-        "IPO"
+        "airpods",
+        "firmware",
+        "beta",
+        "lets",
+        "developers",
+        "features",
+        "apple",
+        "released",
+        "developer",
+        "build"
       ],
       "tambienVistoEn": []
     },
@@ -396,20 +424,28 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/dueno-fate-genneia-3-empresas-adjudican-negocio-almacenamiento-energia-us-750-millones_0_fDbRvLcPRZ.html",
-      "tituloOriginal": "El dueño de FATE, Genneia y otras 3 empresas se adjudican el negocio de almacenamiento de energía por US$ 750 millones",
-      "tituloLimpio": "Empresas se adjudican negocio de almacenamiento de energía por US$ 750 millones en Argentina",
-      "resumen": "El dueño de FATE, Genneia y otras tres empresas se adjudicaron el negocio de almacenamiento de energía por US$ 750 millones. El Gobierno busca evitar cortes de luz y bajar el costo de la electricidad.",
-      "porQueImporta": "Impacta en la infraestructura energética de Argentina, buscando mejorar la estabilidad del suministro eléctrico y reducir costos.",
-      "publicadoEn": "2026-07-07T13:35:03.000Z",
-      "imagen": "https://www.clarin.com/img/2019/06/29/kMwwOmgQb_1200x630__1.jpg",
+      "url": "https://www.clarin.com/economia/fabricante-zapatillas-dass-cierra-ultima-planta-argentina-despedira-150-personas-importara-brasil_0_6BAZ0b9efA.html",
+      "tituloOriginal": "El fabricante de zapatillas Dass cierra su última planta en la Argentina: despedirá a 150 personas e importará desde Brasil",
+      "tituloLimpio": "El fabricante de zapatillas Dass cierra su última planta en la Argentina: despedirá a 150 personas e importará desde Brasil",
+      "resumen": "La planta de Eldorado, en Misiones, cesará sus operaciones en los próximos días. La empresa seguirá comercializando localmente las marcas Umbro, Fila y Asics, pero importará toda la mercadería.",
+      "porQueImporta": "Noticia de alto impacto en Argentina, relevante para entender la situación económica y el mercado laboral local.",
+      "publicadoEn": "2026-07-07T15:37:31.000Z",
+      "imagen": "https://www.clarin.com/img/2026/07/07/8s9pjvXRs_1200x630__1.jpg",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "Argentina",
-        "energía",
-        "inversión",
-        "negocios"
+        "fabricante",
+        "zapatillas",
+        "dass",
+        "cierra",
+        "ultima",
+        "planta",
+        "argentina",
+        "despedira",
+        "personas",
+        "importara",
+        "desde",
+        "brasil"
       ],
       "tambienVistoEn": []
     },
@@ -417,41 +453,28 @@
       "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Politica",
-      "url": "https://www.clarin.com/politica/gobierno-avanza-venta-tierras-estrategicas-armada-ushuaia_0_tKIdHZScgl.html",
-      "tituloOriginal": "El Gobierno avanza en la venta de tierras estratégicas de la Armada en Ushuaia",
-      "tituloLimpio": "El Gobierno avanza en la venta de tierras estratégicas de la Armada en Ushuaia",
-      "resumen": "Se trata de un predio de 3.000 metros cuadrados en el que se buscaba levantar una base integrada.",
-      "porQueImporta": "Es una noticia de política y economía local que puede generar debate sobre el uso de tierras estratégicas y la gestión de activos estatales.",
-      "publicadoEn": "2026-07-07T13:45:42.000Z",
-      "imagen": "https://www.clarin.com/img/2026/07/07/-OZk2oede_1200x630__1.jpg",
+      "url": "https://www.clarin.com/politica/espert-nego-declarar-causa-lavado-dinero-defendio-fondos-recibio-fred-machado_0_scQ9MAyRV0.html",
+      "tituloOriginal": "Espert se negó a declarar en la causa de lavado de dinero y defendió los fondos que recibió de \"Fred\" Machado",
+      "tituloLimpio": "Espert se negó a declarar en la causa de lavado de dinero y defendió los fondos que recibió de 'Fred' Machado",
+      "resumen": "El exdiputado nacional fue indagado este martes en la justicia federal de San Isidro por los 200 mil dólares que le transfirió el empresario condenado en Estados Unidos.",
+      "porQueImporta": "Noticia política de relevancia en Argentina, que puede tener implicaciones en el panorama económico y político del país.",
+      "publicadoEn": "2026-07-07T15:41:37.000Z",
+      "imagen": "https://www.clarin.com/img/2026/07/07/m12wDH2D0_1200x630__1.jpg",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "Argentina",
-        "política",
-        "tierras",
-        "Ushuaia"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
-      "categoria": "Argentina",
-      "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/07/07/mora-record-caputo-aseguro-que-bancos-privados-estan-rescatando-a-sus-clientes-con-prestamos-al-25-anual/",
-      "tituloOriginal": "Mora récord: Caputo aseguró que bancos privados están rescatando a sus clientes con préstamos al 25% anual",
-      "tituloLimpio": "Mora récord: Caputo aseguró que bancos privados están rescatando a sus clientes con préstamos al 25% anual",
-      "resumen": "Casi siete millones de personas no acceden a nuevo crédito bancario y la morosidad familiar alcanzó un máximo histórico.",
-      "porQueImporta": "Refleja la situación económica y financiera de las familias argentinas, con implicaciones para el consumo y la estabilidad bancaria.",
-      "publicadoEn": "2026-07-07T14:34:27.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/7BC74VKDCJCJHCNIVB7W2I4TOE.png?auth=34a8a888be5ff151c1bce0aa1e4c37f9d476a9d61eef277a07116453a2262f98&smart=true&width=856&height=507",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "Argentina",
-        "economía",
-        "crédito",
-        "morosidad"
+        "espert",
+        "nego",
+        "declarar",
+        "causa",
+        "lavado",
+        "dinero",
+        "defendio",
+        "fondos",
+        "recibio",
+        "fred",
+        "machado",
+        "exdiputado"
       ],
       "tambienVistoEn": []
     },
@@ -459,68 +482,34 @@
       "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Politica",
-      "url": "https://www.infobae.com/politica/2026/07/07/el-pro-respaldo-las-reformas-economicas-del-gobierno-nacional-pero-pidio-alivio-fiscal-para-la-produccion/",
-      "tituloOriginal": "El PRO respaldó las reformas económicas del Gobierno nacional, pero pidió alivio fiscal para la producción",
-      "tituloLimpio": "El PRO respaldó las reformas económicas del Gobierno nacional, pero pidió alivio fiscal para la producción",
-      "resumen": "El senador provincial Pablo Petrecca sostuvo que la macroeconomía avanza en la dirección correcta, pero advirtió que ese proceso todavía no se refleja en las familias ni en el sector productivo.",
-      "porQueImporta": "Muestra el debate político y económico en Argentina sobre las reformas del gobierno y su impacto en la producción y las familias.",
-      "publicadoEn": "2026-07-07T14:37:32.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/RLGMVH44NZDV7HMITXBKC5FCRM.jfif?auth=5b0b02ad7430cb67686a2c1d560d7eafefa76e30cc1281e19537ec4d52632deb&smart=true&width=1229&height=691",
-      "globalScore": 98,
-      "personalScore": 100,
-      "tags": [
-        "Argentina",
-        "política",
-        "economía",
-        "reformas"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
-      "categoria": "Argentina",
-      "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/campo/volo-la-soja-el-precio-internacional-subio-us1755-en-medio-de-un-coctel-de-importantes-factores-nid06072026/",
-      "tituloOriginal": "Voló la soja: el precio internacional subió US$17,55 en medio de un cóctel de importantes factores alcistas",
-      "tituloLimpio": "El precio internacional de la soja subió US$17,55 por factores alcistas",
-      "resumen": "El valor aumentó por pronósticos de temperaturas muy elevadas que podrían afectar los cultivos en Estados Unidos y especulaciones acerca de posibles compras de China en ese mercado.",
-      "porQueImporta": "Es una noticia relevante para el sector agropecuario argentino y para quienes siguen los mercados de commodities, ya que la soja es un producto clave para la economía del país.",
-      "publicadoEn": "2026-07-07T14:34:52.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/ZL4KFV4YAJHGRCEQXEKCKVMEFU.jpg?auth=dab455124ab03b78d1cbd5ddaf2e7166e4009dbdaa15a058f8a9a94b5cb0a513&smart=true&width=960&height=640",
-      "globalScore": 90,
-      "personalScore": 100,
-      "tags": [
-        "Argentina",
-        "economía",
-        "soja",
-        "mercado internacional"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
-      "categoria": "Argentina",
-      "fuente": "La Nacion Politica",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-en-cuanto-se-proyecta-la-inflacion-de-junio-y-los-avances-de-la-nid07072026/",
-      "tituloOriginal": "Javier Milei y sus medidas, en vivo: en cuánto se proyecta la inflación de junio y los avances de la reforma electoral",
-      "tituloLimpio": "Javier Milei y sus medidas: se proyecta la inflación de junio y avances de la reforma electoral",
-      "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios.",
-      "porQueImporta": "Mantiene al tanto sobre la agenda política y económica del gobierno argentino, incluyendo temas clave como la inflación y reformas electorales.",
-      "publicadoEn": "2026-07-07T14:27:38.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/WUWOOSXJXJE6ZELZSVV4M6VNCY.jpeg?auth=7c4a7ecf8306d550511bdc2a8fbfba4107893a360f2892d14c77eb1df3d80546&smart=true&width=498&height=332",
+      "url": "https://www.infobae.com/politica/2026/07/07/la-cgt-comenzara-su-plan-de-lucha-el-22-de-este-mes-cual-sera-la-primera-medida-y-que-incluye-la-agenda-de-las-protestas/",
+      "tituloOriginal": "La CGT comenzará su plan de lucha el 22 de este mes: cuál será la primera medida y qué incluye la agenda de las protestas",
+      "tituloLimpio": "La CGT comenzará su plan de lucha el 22 de este mes: cuál será la primera medida y qué incluye la agenda de las protestas",
+      "resumen": "Los líderes cegetistas, de las dos CTA y de las confederaciones sectoriales acordaron un esquema que prioriza las movilizaciones y no contempla paros.",
+      "porQueImporta": "Importante para Guido por su impacto en la vida cotidiana y la economía de Argentina, ya que las protestas pueden afectar el transporte y la actividad comercial.",
+      "publicadoEn": "2026-07-07T18:50:26.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/I5M2I4KETVEBTBB4BWZKBJB3ZQ.jpg?auth=8b343aa80bc169a4b25e54bdb9b2a98b0d08ffaa998bacff4f9ee3cad47bb4bf&smart=true&width=1920&height=1080",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "Argentina",
-        "política",
-        "inflación",
-        "reforma electoral"
+        "comenzara",
+        "plan",
+        "lucha",
+        "este",
+        "cual",
+        "sera",
+        "primera",
+        "medida",
+        "incluye",
+        "agenda",
+        "protestas",
+        "lideres"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-07-07T14:42:47.386Z"
+    "generadoEn": "2026-07-07T19:02:20.959Z"
   }
 }
