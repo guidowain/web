@@ -1,238 +1,183 @@
 {
   "fecha": "2026-07-08",
-  "generadoEn": "2026-07-08T14:20:46.862Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "La inflación en CABA bajó al 1,8% en junio, mientras que el Parlamento Europeo sacó al biodiesel de soja argentino de la lista negra, beneficiando a la industria local. En tecnología, Apple está probando chips de memoria chinos y OpenAI lanzará GPT-5.6 esta semana. Meta presentó un nuevo modelo de IA para imágenes en Instagram y Google expande las capacidades de los agentes gestionados en su API Gemini. En el ámbito de Apple, se rumorea que la versión de bajo costo del Vision Pro podría ser descartada para enfocarse en la IA.",
+  "generadoEn": "2026-07-08T18:17:18.445Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Hoy, la inteligencia artificial avanza con mejoras en los agentes Gemini de Google y el modo de voz de ChatGPT, que ahora interrumpe menos. En Apple, se destacan las 87 nominaciones a los Emmy para Apple TV y el fin de 'Mario Kart Tour'. En el ámbito financiero, SpaceX recibe calificaciones positivas y se observa un crecimiento del trading perpetuo con stablecoins. En Argentina, dos empresas invertirán US$ 500 millones en una planta de soja en Santa Fe, y la Justicia rechazó un pedido de la CGT para frenar la reforma laboral. El sector privado cubano también muestra crecimiento.",
   "radarPersonal": [
     {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "La inflación de CABA quebró la barrera del 2% en junio, con fuerte desaceleración en alimentos",
-      "resumen": "La suba de precios en la Ciudad del mes pasado fue del 1,8%, acumuló en el primer semestre del año una suba del 16% y la interanual se ubicó en 32,6%.",
-      "categoria": "Argentina",
-      "fuentes": [
-        "Ambito"
-      ],
-      "urls": [
-        "https://www.ambito.com/economia/la-inflacion-caba-quebro-la-barrera-del-2-junio-fuerte-desaceleracion-alimentos-n6297509"
-      ],
-      "score": 100,
-      "tags": [
-        "inflacion",
-        "caba",
-        "junio",
-        "alimentos"
-      ]
-    },
-    {
-      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
-      "titulo": "El Parlamento Europeo sacó de la lista negra al biodiesel de soja y la industria argentina respira",
-      "resumen": "Rechazan una norma que impedía el ingreso de aceite de la oleaginosa a la Unión Europea. Todo el producto exportado por Argentina se elabora con ese insumo y tiene como único destino Europa.",
-      "categoria": "Argentina",
-      "fuentes": [
-        "Clarin Economia"
-      ],
-      "urls": [
-        "https://www.clarin.com/rural/medida-inedita-parlamento-europeo-saco-lista-negra-biodiesel-soja-industria-argentina-respira_0_3aFuyFD95E.html"
-      ],
-      "score": 100,
-      "tags": [
-        "biodiesel",
-        "soja",
-        "argentina",
-        "europa"
-      ]
-    },
-    {
-      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "Apple empieza a probar chips de memoria chinos",
-      "resumen": "Apple está probando chips de memoria DRAM de ChangXin Memory Technologies (CXMT), respaldada por el estado chino, según un nuevo informe del Financial Times.",
-      "categoria": "Apple",
-      "fuentes": [
-        "MacRumors"
-      ],
-      "urls": [
-        "https://www.macrumors.com/2026/07/08/apple-begins-testing-controversial-chinese-memory/"
-      ],
-      "score": 100,
-      "tags": [
-        "apple",
-        "chips",
-        "memoria",
-        "china"
-      ]
-    },
-    {
-      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
-      "titulo": "OpenAI publicará este jueves GPT-5.6, su modelo más potente",
-      "resumen": "Con la aprobación del gobierno estadounidense.",
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Google expande los agentes gestionados en la API de Gemini",
+      "resumen": "Se anuncian nuevas capacidades en los agentes gestionados de la API de Gemini para que los desarrolladores puedan crear agentes confiables y listos para producción.",
       "categoria": "AI",
       "fuentes": [
-        "La Nacion Economia"
+        "Google AI Blog"
       ],
       "urls": [
-        "https://www.lanacion.com.ar/tecnologia/openai-lanzara-gpt-56-su-modelo-mas-potente-nid08072026/"
+        "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/"
       ],
       "score": 100,
       "tags": [
-        "openai",
-        "gpt-5.6",
-        "ia"
+        "gemini",
+        "api",
+        "desarrolladores"
       ]
     },
     {
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "titulo": "El nuevo modelo Muse Image de Meta puede incluir a otros usuarios de Instagram en fotos de IA",
-      "resumen": "Meta está lanzando el primer modelo de generación de imágenes de IA creado por su división Superintelligence Labs. El modelo Muse Image ahora impulsa las herramientas de creación de imágenes en la aplicación Meta AI, Instagram y WhatsApp, y pronto llegará a Facebook y Messenger.",
+      "titulo": "El modo de voz de ChatGPT mejoró y ahora interrumpe menos",
+      "resumen": "OpenAI está renovando el modo de voz de ChatGPT con un nuevo modelo que, según la empresa, es más parecido a 'hablar con otra persona'. El nuevo GPT-Live-1 está diseñado para interrumpir menos y también esperará a que el usuario siga hablando si hace una pausa en la conversación.",
       "categoria": "AI",
       "fuentes": [
         "The Verge AI"
       ],
       "urls": [
-        "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram"
+        "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live"
       ],
       "score": 100,
       "tags": [
-        "meta",
-        "ia",
-        "instagram",
-        "fotos"
+        "chatgpt",
+        "voz",
+        "openai"
+      ]
+    },
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "titulo": "SpaceX recibe calificaciones positivas de analistas de Wall Street",
+      "resumen": "Las calificaciones llegan mientras SpaceX se unió al índice Nasdaq 100, una canasta de empresas tecnológicas de referencia que sustenta millones de carteras.",
+      "categoria": "Finance",
+      "fuentes": [
+        "Sherwood"
+      ],
+      "urls": [
+        "https://sherwood.news/markets/spacex-gets-a-wave-of-bullish-ratings-from-wall-street-analysts/"
+      ],
+      "score": 100,
+      "tags": [
+        "spacex",
+        "inversión",
+        "mercados"
+      ]
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "titulo": "Dos empresas invertirán más de US$ 500 millones en una nueva planta de soja en Argentina",
+      "resumen": "El proyecto es en conjunto entre Molinos Agro y la Asociación de Cooperativas Argentinas. Contempla una planta con capacidad de molienda de 15.000 toneladas de soja por día. Molinos Agro ingresará a la asociación con una participación del 65%, mientras que ACA tendrá el 35% restante.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Clarin Economia"
+      ],
+      "urls": [
+        "https://www.clarin.com/rural/baja-retenciones-mayor-demanda-empresas-invertiran-us-500-millones-construir-nueva-planta-crushing-soja_0_Gy7WchCwmG.html"
+      ],
+      "score": 100,
+      "tags": [
+        "inversión",
+        "argentina",
+        "agro"
+      ]
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Logitech lanza un mouse de viaje innovador: el Mobi Fold",
+      "resumen": "No se recuerda la última vez que un mouse generó tanto entusiasmo. Se usa principalmente un trackpad, pero a veces se termina con dolor de muñeca y codo. Por eso se usa un mouse Logitech MX Master 4.",
+      "categoria": "Tools & Automation",
+      "fuentes": [
+        "MacStories"
+      ],
+      "urls": [
+        "https://www.macstories.net/reviews/a-month-with-logitechs-innovative-mobi-fold-travel-mouse/"
+      ],
+      "score": 100,
+      "tags": [
+        "herramientas",
+        "productividad",
+        "logitech"
       ]
     }
   ],
   "loImportante": [
-    "La inflación en CABA desaceleró fuertemente en junio, alcanzando el 1,8%.",
-    "El Parlamento Europeo quitó el biodiesel de soja argentino de la lista negra, lo que es una buena noticia para la industria local.",
-    "Apple está probando chips de memoria de un proveedor chino, lo que podría indicar cambios en su cadena de suministro.",
-    "OpenAI lanzará GPT-5.6 esta semana, su modelo más potente, tras la aprobación del gobierno estadounidense.",
-    "Meta presentó Muse Image, un nuevo modelo de IA que permite integrar a otros usuarios de Instagram en fotos generadas por IA."
+    "La IA sigue mejorando la interacción: ChatGPT ahora interrumpe menos en su modo de voz, buscando una conversación más natural.",
+    "Apple TV+ logró un récord de 87 nominaciones a los Emmy, destacando el éxito de sus producciones originales.",
+    "El sector privado cubano muestra un crecimiento significativo, concentrando más de la mitad del comercio minorista tras la autorización de mipymes en 2021.",
+    "Dos empresas argentinas invertirán US$ 500 millones en una nueva planta de molienda de soja en Santa Fe, impulsado por la baja de retenciones y la demanda.",
+    "El trading perpetuo de finanzas tradicionales (TradFi) liquidado con stablecoins superó los US$ 1.1 billones en 2026, según Binance Research."
   ],
   "oportunidades": [
     {
-      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
-      "titulo": "Google expande los agentes gestionados en la API de Gemini",
-      "detalle": "Google está anunciando nuevas capacidades en los agentes gestionados de la API de Gemini, lo que permite a los desarrolladores construir agentes confiables y listos para producción.",
+      "titulo": "Videojuegos como mejor fuente de datos para entrenar IA",
+      "detalle": "Un CEO cree que los videojuegos son mejores datos de entrenamiento que internet para lograr la inteligencia artificial general (AGI), ya que los modelos de lenguaje grandes son buenos con texto pero menos hábiles para entender el movimiento en el espacio y el tiempo.",
       "acciones": [
-        "Explorar las nuevas capacidades de los agentes gestionados en la API de Gemini para automatización y desarrollo de herramientas.",
-        "Evaluar cómo estas mejoras pueden aplicarse en flujos de trabajo de retoque fotográfico o arte con IA."
+        "Investigar cómo los entornos simulados de videojuegos pueden mejorar la comprensión espacial y temporal de los modelos de IA.",
+        "Explorar herramientas o plataformas que permitan usar datos de videojuegos para el entrenamiento de modelos de IA en proyectos de arte o retoque."
       ]
     },
     {
       "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
       "categoria": "AI",
       "titulo": "Elementos fundamentales de la arquitectura de IA para escalar",
-      "detalle": "Con el rápido progreso de las capacidades de IA y el paso a sistemas de agentes, las organizaciones están expandiendo sus casos de uso. Este artículo aborda los elementos fundamentales de la arquitectura de IA que los líderes de TI necesitan para escalar.",
+      "detalle": "Con el rápido progreso de las capacidades de IA y el paso a sistemas de agentes, las organizaciones están expandiendo sus casos de uso. Es clave volver a los elementos fundamentales de la arquitectura de IA para asegurar inversiones valiosas a futuro.",
       "acciones": [
-        "Revisar los elementos fundamentales de la arquitectura de IA para entender cómo escalar proyectos de IA de manera sostenible.",
-        "Considerar la aplicación de estos principios en el desarrollo de herramientas de IA personalizadas."
+        "Revisar la arquitectura de IA actual para asegurar que sea escalable y adaptable a nuevas capacidades y sistemas de agentes.",
+        "Priorizar inversiones en elementos fundamentales de la arquitectura de IA que ofrezcan valor a largo plazo, más allá de las tendencias inmediatas."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
-      "categoria": "Productivity",
-      "titulo": "Apple podría descartar el Vision Pro de bajo costo para enfocarse en la IA",
-      "detalle": "Un informe sugiere que el trabajo en un componente clave de una versión de bajo costo del Apple Vision Pro está disminuyendo, porque Apple estaría más interesada en la IA.",
-      "mitigacion": "Si bien el Vision Pro no está disponible en Argentina, esta noticia sugiere un posible cambio de enfoque de Apple hacia la IA, lo que podría impactar futuras herramientas y plataformas. Mantenerse al tanto de los anuncios de Apple sobre IA es clave."
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "titulo": "La mayoría de bots en internet exige un reinicio del marketing",
+      "detalle": "Líderes de Human, Reddit, Roku y Tripadvisor analizan una web donde los bots superan en número a las personas, lo que implica un desafío para las estrategias de marketing tradicionales.",
+      "mitigacion": "Reevaluar las estrategias de marketing digital para adaptarse a un entorno con predominio de bots, enfocándose en la autenticidad y la interacción humana genuina. Explorar nuevas métricas y herramientas para identificar y medir el impacto real en audiencias humanas."
     }
   ],
   "conexiones": [
     {
-      "id": "inflacion-argentina-caba",
-      "titulo": "Inflación en CABA y su impacto en la economía personal",
+      "id": "chatgpt-voice-mode-upgrade",
+      "titulo": "Mejoras en el modo de voz de ChatGPT y su impacto en la interacción con IA",
       "historias": [
-        "La inflación de CABA quebró la barrera del 2% en junio, con fuerte desaceleración en alimentos (Ambito)",
-        "La inflación en la Ciudad de Buenos Aires fue del 1,8% en junio y acumula un alza de 32,6% en los últimos doce meses (Infobae Economia)"
+        "ChatGPT’s upgraded voice mode is better at shutting up (The Verge AI)",
+        "OpenAI just upgraded ChatGPT voice mode in a major way, here’s how (9to5Mac)"
       ],
-      "conclusion": "Ambas noticias confirman una desaceleración de la inflación en la Ciudad de Buenos Aires, con el índice de junio en 1,8%. Esto es una señal positiva para el poder adquisitivo y la estabilidad económica local, especialmente en el rubro de alimentos."
+      "conclusion": "Las mejoras en el modo de voz de ChatGPT, que ahora interrumpe menos y espera al usuario, marcan un avance significativo hacia interacciones más naturales y fluidas con la IA. Esto es relevante para Guido, ya que una IA más conversacional puede integrarse mejor en flujos de trabajo de automatización y herramientas, mejorando la experiencia del usuario en aplicaciones de IA."
     },
     {
-      "id": "openai-lanzamientos-ia",
-      "titulo": "Lanzamientos de modelos de IA y su impacto en el mercado",
+      "id": "argentina-agro-investment",
+      "titulo": "Inversión millonaria en el agro argentino y su contexto político-económico",
       "historias": [
-        "OpenAI shares update on GPT-5.6 availability after holding back release (9to5Mac)",
-        "OpenAI publicará este jueves GPT-5.6, su modelo más potente (La Nacion Economia)"
+        "Por la baja de retenciones y una mayor demanda, dos empresas invertirán más de US$ 500 millones para construir una nueva planta de crushing de soja (Clarin Economia)",
+        "Inversión de USD 500 millones: dos gigantes del agro argentino levantarán una nueva planta en Santa Fe (Infobae Economia)"
       ],
-      "conclusion": "Las dos fuentes confirman que OpenAI lanzará GPT-5.6 esta semana, su modelo de IA más potente, después de una revisión gubernamental. Esto es relevante para quienes usan o desarrollan con IA, ya que representa una mejora significativa en las capacidades disponibles."
+      "conclusion": "La inversión de US$ 500 millones en una nueva planta de molienda de soja en Santa Fe por parte de Molinos Agro y ACA, impulsada por la baja de retenciones y la demanda, es una señal positiva para la economía argentina. Esto podría generar nuevas oportunidades de inversión y desarrollo en el sector agroindustrial, un área clave para el país."
     }
   ],
   "noticias": [
     {
-      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "categoria": "AI",
-      "fuente": "Google AI Blog",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-      "tituloOriginal": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
-      "tituloLimpio": "Google expande los agentes gestionados en la API de Gemini",
-      "resumen": "Google está anunciando nuevas capacidades en los agentes gestionados de la API de Gemini para que los desarrolladores puedan construir agentes confiables y listos para producción.",
-      "porQueImporta": "Para Guido, que trabaja con IA aplicada y automatización, la expansión de las capacidades de los agentes gestionados en la API de Gemini significa más herramientas y flexibilidad para desarrollar soluciones de IA robustas y eficientes. Esto podría impactar directamente en sus proyectos de arte con IA o en la automatización de tareas.",
-      "publicadoEn": "2026-07-07T08:54:00.000Z",
-      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "expanding",
-        "managed",
-        "agents",
-        "gemini",
-        "background",
-        "tasks",
-        "remote",
-        "more",
-        "announcing",
-        "capabilities"
-      ],
-      "tambienVistoEn": []
-    },
-    {
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Apple",
       "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/07/08/apple-begins-testing-controversial-chinese-memory/",
-      "tituloOriginal": "Apple Begins Testing Controversial Chinese Memory Chips",
-      "tituloLimpio": "Apple empieza a probar chips de memoria chinos",
-      "resumen": "Apple está probando chips de memoria DRAM de ChangXin Memory Technologies (CXMT), respaldada por el estado chino, según un nuevo informe.",
-      "porQueImporta": "Esta noticia es relevante para Guido por su interés en Apple. La decisión de Apple de probar componentes de proveedores chinos podría indicar un cambio en su estrategia de cadena de suministro y tener implicaciones futuras para la disponibilidad y el costo de sus productos, aunque no directamente en Argentina por ahora.",
-      "publicadoEn": "2026-07-08T14:18:34.000Z",
+      "url": "https://www.macrumors.com/2026/07/08/apple-tv-emmy-nominations-2026/",
+      "tituloOriginal": "Apple TV Earns Record 87 Emmy Nominations for 2026, Led by 'Pluribus' and 'Widow's Bay'",
+      "tituloLimpio": "Apple TV logra un récord de 87 nominaciones a los Emmy en 2026",
+      "resumen": "Apple obtuvo su mayor número de nominaciones a los Emmy hasta la fecha en 2026, con programas populares como Pluribus, Margo's Got Money Troubles, Widow's Bay, Shrinking y Slow Horses obteniendo la mayoría de las nominaciones.",
+      "porQueImporta": "Destaca el éxito de las producciones originales de Apple TV+, lo que refuerza la estrategia de contenido de Apple y su posición en la industria del entretenimiento.",
+      "publicadoEn": "2026-07-08T17:37:10.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "apple",
-        "begins",
-        "testing",
-        "controversial",
-        "chinese",
-        "memory",
-        "chips",
-        "dram"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
-      "categoria": "Finance",
-      "fuente": "Sherwood",
-      "url": "https://sherwood.news/markets/spacex-gets-a-wave-of-bullish-ratings-from-wall-street-analysts/",
-      "tituloOriginal": "SpaceX gets a wave of bullish ratings from Wall Street analysts",
-      "tituloLimpio": "SpaceX recibe calificaciones alcistas de analistas de Wall Street",
-      "resumen": "Las calificaciones llegan mientras SpaceX se unió al índice Nasdaq 100, una canasta de empresas tecnológicas que sustenta millones de carteras.",
-      "porQueImporta": "Como inversor en ETFs y mercados, Guido debería saber que SpaceX está recibiendo una ola de calificaciones alcistas y se unió al Nasdaq 100. Esto puede influir en el rendimiento de ETFs tecnológicos y en la percepción del mercado sobre empresas innovadoras, aunque SpaceX no sea una acción directamente accesible para todos.",
-      "publicadoEn": "2026-07-07T15:56:30.000Z",
-      "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/2195743491_lompoc-ca-spacex-an-american-aerospace-manufacturer-successfully-launches-a-pre-dawn-a-falcon.jpg",
-      "globalScore": 96,
-      "personalScore": 100,
-      "tags": [
-        "spacex",
-        "gets",
-        "wave",
-        "bullish",
-        "ratings",
-        "from",
-        "wall",
-        "street",
-        "analysts",
-        "come"
+        "earns",
+        "record",
+        "emmy",
+        "nominations",
+        "2026",
+        "pluribus",
+        "widow",
+        "earned",
+        "highest",
+        "number"
       ],
       "tambienVistoEn": []
     },
@@ -240,27 +185,28 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/la-inflacion-caba-quebro-la-barrera-del-2-junio-fuerte-desaceleracion-alimentos-n6297509",
-      "tituloOriginal": "La inflación de CABA quebró la barrera del 2% en junio, con fuerte desaceleración en alimentos",
-      "tituloLimpio": "La inflación de CABA quebró la barrera del 2% en junio, con fuerte desaceleración en alimentos",
-      "resumen": "La suba de precios en la Ciudad del mes pasado fue del 1,8%, acumuló en el primer semestre del año una suba del 16% y la interanual se ubicó en 32,6%.",
-      "porQueImporta": "Esta es una noticia clave para Guido, ya que vive en Buenos Aires. La desaceleración de la inflación en CABA, especialmente en alimentos, impacta directamente en su economía personal y en el costo de vida. Es un dato importante para entender el panorama económico local.",
-      "publicadoEn": "2026-07-08T14:01:00.000Z",
-      "globalScore": 90,
+      "url": "https://www.ambito.com/economia/el-sector-privado-cubano-crece-medio-la-crisis-mas-comercios-mas-desigualdad-y-un-pais-que-cambia-n6297624",
+      "tituloOriginal": "El sector privado cubano crece en medio de la crisis: más comercios, más desigualdad y un país que cambia",
+      "tituloLimpio": "El sector privado cubano crece en medio de la crisis",
+      "resumen": "Desde la autorización de las mipymes en 2021, el sector privado cubano pasó a concentrar más de la mitad del comercio minorista del país. Las nuevas reformas del gobierno prometen acelerar ese proceso, pero el acceso sigue siendo desigual.",
+      "porQueImporta": "Muestra un cambio en la economía cubana con un crecimiento del sector privado, lo que podría generar nuevas dinámicas y oportunidades en la región.",
+      "publicadoEn": "2026-07-08T17:50:00.000Z",
+      "imagen": "https://media.ambito.com/p/bf8e0ec2d693231aa2a1ecb094c9da13/adjuntos/239/imagenes/041/747/0041747881/1200x675/250x1019:270x1039/cuba1jpg.jpg",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "inflacion",
-        "caba",
-        "quebro",
-        "barrera",
-        "junio",
-        "fuerte",
-        "desaceleracion",
-        "alimentos",
-        "suba",
-        "precios",
-        "ciudad",
-        "pasado"
+        "sector",
+        "privado",
+        "cubano",
+        "crece",
+        "medio",
+        "crisis",
+        "comercios",
+        "desigualdad",
+        "pais",
+        "cambia",
+        "desde",
+        "autorizacion"
       ],
       "tambienVistoEn": []
     },
@@ -272,7 +218,7 @@
       "tituloOriginal": "Chipotle drives rewards program with ‘PGA Tour 2K25’ integration",
       "tituloLimpio": "Chipotle impulsa su programa de recompensas con integración en 'PGA Tour 2K25'",
       "resumen": "La asociación es parte de una estrategia de golf más amplia de la marca, que se convirtió en patrocinador oficial del PGA Tour a través de un acuerdo multianual anunciado en enero.",
-      "porQueImporta": "Para Guido, interesado en marketing, esta noticia muestra una estrategia de integración de marca innovadora en videojuegos para impulsar un programa de recompensas. Es un ejemplo de cómo las empresas buscan nuevas vías para conectar con los consumidores y fidelizarlos, relevante para entender tendencias de marketing digital y de engagement.",
+      "porQueImporta": "Ejemplo de estrategia de marketing innovadora que integra una marca de alimentos con un videojuego deportivo para impulsar un programa de fidelización.",
       "publicadoEn": "2026-07-08T13:00:00.000Z",
       "globalScore": 96,
       "personalScore": 100,
@@ -293,199 +239,230 @@
       "tambienVistoEn": []
     },
     {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "categoria": "AI",
-      "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
-      "tituloOriginal": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
-      "tituloLimpio": "Ex ejecutivo de OpenAI, Kevin Weil, se une a la junta directiva de Stoke Space",
-      "resumen": "El nuevo rol de Kevin Weil en Stoke Space sugiere que los cohetes reutilizables son la próxima gran novedad en Silicon Valley.",
-      "porQueImporta": "Aunque no es directamente sobre IA, la noticia es relevante por la conexión con un ex ejecutivo de OpenAI. Indica una tendencia de talento de IA moviéndose hacia otros sectores de alta tecnología, como la exploración espacial. Esto puede señalar áreas de inversión o de desarrollo tecnológico emergentes.",
-      "publicadoEn": "2026-07-08T12:00:00.000Z",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "former",
-        "openai",
-        "exec",
-        "kevin",
-        "weil",
-        "board",
-        "stoke",
-        "space",
-        "role"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "categoria": "AI",
-      "fuente": "The Verge AI",
-      "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
-      "tituloOriginal": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
-      "tituloLimpio": "El nuevo modelo Muse Image de Meta puede incluir a otros usuarios de Instagram en fotos de IA",
-      "resumen": "Meta está lanzando el primer modelo de generación de imágenes de IA creado por su división Superintelligence Labs. El modelo Muse Image ahora impulsa las herramientas de creación de imágenes en la aplicación Meta AI, Instagram y WhatsApp.",
-      "porQueImporta": "Para Guido, que trabaja en retoque fotográfico y arte con IA, esta es una noticia muy importante. Un nuevo modelo de IA de Meta que permite integrar usuarios de Instagram en fotos generadas por IA abre nuevas posibilidades creativas y herramientas para la manipulación de imágenes, directamente aplicables a su campo de trabajo.",
-      "publicadoEn": "2026-07-07T20:31:58.000Z",
-      "globalScore": 98,
-      "personalScore": 100,
-      "tags": [
-        "meta",
-        "muse",
-        "image",
-        "model",
-        "pull",
-        "other",
-        "instagram",
-        "users",
-        "into",
-        "photos",
-        "launching"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "categoria": "AI",
-      "fuente": "MIT Technology Review AI",
-      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-      "tituloOriginal": "The foundational elements of AI architecture that IT leaders need to scale",
-      "tituloLimpio": "Los elementos fundamentales de la arquitectura de IA que los líderes de TI necesitan para escalar",
-      "resumen": "Con el rápido progreso de las capacidades de IA y el paso a sistemas de agentes, las organizaciones están expandiendo sus casos de uso. Esa evolución constante también introduce riesgos, dejando a los líderes de TI preguntándose qué inversiones resultarán valiosas.",
-      "porQueImporta": "Esta noticia es útil para Guido por su interés en la IA aplicada y las herramientas. Comprender los elementos fundamentales de la arquitectura de IA es crucial para cualquier persona que busque escalar proyectos de IA o desarrollar herramientas eficientes, ayudándole a tomar decisiones informadas sobre inversiones en tecnología.",
-      "publicadoEn": "2026-07-07T11:10:52.000Z",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "foundational",
-        "elements",
-        "architecture",
-        "that",
-        "leaders",
-        "need",
-        "scale",
-        "with",
-        "rapid",
-        "progress",
-        "capabilities",
-        "move"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
-      "categoria": "Apple",
-      "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/07/08/openai-shares-update-on-gpt-5-6-availability-after-holding-back-release/",
-      "tituloOriginal": "OpenAI shares update on GPT-5.6 availability after holding back release",
-      "tituloLimpio": "OpenAI comparte actualización sobre la disponibilidad de GPT-5.6 después de retrasar su lanzamiento",
-      "resumen": "OpenAI presentó GPT-5.6 a finales de junio, pero el lanzamiento público se retrasó mientras el gobierno de EE. UU. revisaba los nuevos modelos de IA. Ahora la compañía ha compartido una actualización sobre cuándo los clientes podrán usar el modelo mejorado: esta semana.",
-      "porQueImporta": "Para Guido, que sigue de cerca la IA, la disponibilidad de GPT-5.6 es una noticia clave. Un modelo más potente de OpenAI puede significar nuevas capacidades para sus proyectos de arte con IA, automatización o simplemente para mantenerse al día con las últimas herramientas de la industria.",
-      "publicadoEn": "2026-07-08T14:15:57.000Z",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "openai",
-        "shares",
-        "update",
-        "gpt-5",
-        "availability",
-        "after",
-        "holding",
-        "back",
-        "release",
-        "unveiled"
-      ],
-      "tambienVistoEn": []
-    },
-    {
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
       "categoria": "Apple",
       "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/07/08/lower-cost-apple-vision-pro-may-be-dropped-as-apple-focuses-on-ai?utm_source=rss",
-      "tituloOriginal": "Lower cost Apple Vision Pro may be dropped as Apple focuses on AI",
-      "tituloLimpio": "El Apple Vision Pro de bajo costo podría ser descartado mientras Apple se enfoca en la IA",
-      "resumen": "Un informe peculiar afirma que el trabajo en un componente clave de una versión de bajo costo del Apple Vision Pro está disminuyendo, y que es porque Apple está más interesada en la IA.",
-      "porQueImporta": "Esta noticia es relevante para Guido por su interés en Apple y la IA. Sugiere un posible cambio de estrategia de Apple, priorizando la IA sobre el desarrollo de hardware de realidad mixta más accesible. Esto podría influir en el tipo de productos y servicios que Apple lanzará en el futuro, con un mayor énfasis en las capacidades de IA.",
-      "publicadoEn": "2026-07-08T14:20:16.000Z",
+      "url": "https://appleinsider.com/articles/26/07/08/final-lap-for-mario-kart-tour-badly-closes-another-nintendo-mobile-gaming-chapter?utm_source=rss",
+      "tituloOriginal": "Final lap for 'Mario Kart Tour' badly closes another Nintendo mobile gaming chapter",
+      "tituloLimpio": "Nintendo cierra 'Mario Kart Tour', finalizando otro capítulo de juegos móviles",
+      "resumen": "Nintendo cerrará 'Mario Kart Tour' más adelante en 2026, destacando cómo Nintendo sigue sin ofrecer lo que los consumidores quieren en plataformas de hardware que no fabrica.",
+      "porQueImporta": "Indica el fin de un juego móvil popular de Nintendo, lo que puede ser relevante para usuarios de Apple que disfrutan de juegos en sus dispositivos.",
+      "publicadoEn": "2026-07-08T17:40:32.000Z",
       "globalScore": 96,
       "personalScore": 100,
       "tags": [
-        "lower",
-        "cost",
-        "apple",
-        "vision",
-        "dropped",
-        "focuses",
-        "peculiar",
+        "final",
+        "mario",
+        "kart",
+        "tour",
+        "badly",
+        "closes",
+        "another",
+        "nintendo",
+        "mobile",
+        "gaming",
+        "chapter"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/t-mobile-us-inc-tmus-092956640.html",
+      "tituloOriginal": "T-Mobile US, Inc. (TMUS) Is A Top Stock In Billionaire Jeffrey Talpins’ Filings",
+      "tituloLimpio": "T-Mobile US, Inc. (TMUS) es una acción destacada en los registros del multimillonario Jeffrey Talpins",
+      "resumen": "No se proporcionó un resumen para esta noticia.",
+      "porQueImporta": "Menciona una acción de interés para un inversor importante, lo que podría ser una señal para quienes siguen el mercado de valores.",
+      "publicadoEn": "2026-07-07T09:29:56.000Z",
+      "imagen": "https://media.zenfs.com/en/insidermonkey.com/6f397e05100d25ea799a24f996c32db4",
+      "globalScore": 86,
+      "personalScore": 100,
+      "tags": [
+        "t-mobile",
+        "tmus",
+        "stock",
+        "billionaire",
+        "jeffrey",
+        "talpins",
+        "filings"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/08/polymarket-bets-on-u-s-marketing-blitz-to-win-back-trust-after-4-year-ban-report",
+      "tituloOriginal": "Polymarket bets on U.S. marketing blitz to win back trust after 4-year ban: Report",
+      "tituloLimpio": "Polymarket apuesta por una campaña de marketing en EE.UU. tras una prohibición de 4 años",
+      "resumen": "El jefe de operaciones de Polymarket en EE.UU. dice que la empresa está tomando medidas para legitimarse después de años de escrutinio legal.",
+      "porQueImporta": "Muestra cómo una plataforma de mercados de predicción busca recuperar la confianza a través de estrategias de marketing después de problemas regulatorios.",
+      "publicadoEn": "2026-07-08T15:58:40.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/e2044e9db156a586903fe9be090f3f8ee5fb3327-2452x1360.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "polymarket",
+        "bets",
+        "marketing",
+        "blitz",
+        "back",
+        "trust",
+        "after",
+        "4-year",
         "report",
-        "claims",
-        "that",
-        "work"
+        "prediction",
+        "market",
+        "head"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
-      "categoria": "Argentina",
-      "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/rural/medida-inedita-parlamento-europeo-saco-lista-negra-biodiesel-soja-industria-argentina-respira_0_3aFuyFD95E.html",
-      "tituloOriginal": "\"Medida inédita\": el Parlamento Europeo sacó de la lista negra al biodiesel de soja y la industria argentina respira",
-      "tituloLimpio": "El Parlamento Europeo sacó de la lista negra al biodiesel de soja y la industria argentina respira",
-      "resumen": "Rechazan una norma que impedía el ingreso de aceite de la oleaginosa a la Unión Europea. Todo el producto exportado por Argentina se elabora con ese insumo y tiene como único destino Europa.",
-      "porQueImporta": "Esta es una excelente noticia para Argentina y, por ende, para Guido. La eliminación del biodiesel de soja argentino de la lista negra europea es un alivio para una industria exportadora clave, lo que puede tener un impacto positivo en la economía del país y en la estabilidad del mercado local.",
-      "publicadoEn": "2026-07-08T12:50:28.000Z",
-      "imagen": "https://www.clarin.com/img/2018/08/17/rJMq3sNUX_1200x630__1.jpg",
-      "globalScore": 98,
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/tradfi-perpetual-trading-surpasses-11t-in-2026-binance-research-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Stablecoin-settled TradFi perpetual trading tops $1.1T: Binance Research",
+      "tituloLimpio": "El trading perpetuo de TradFi liquidado con stablecoins supera los US$ 1.1 billones",
+      "resumen": "Un nuevo informe de Binance Research dijo que las stablecoins se están convirtiendo rápidamente en una capa de liquidación preferida para los mercados TradFi tokenizados, mientras ganan tracción en pagos y ahorros.",
+      "porQueImporta": "Indica una tendencia importante en el mercado financiero, donde las stablecoins están ganando terreno como medio de liquidación en el trading de finanzas tradicionales.",
+      "publicadoEn": "2026-07-08T17:23:19.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-the-defi-stack-stablecoins-exchanges-synthetics-money-markets-and-insurance-eu.png",
+      "globalScore": 90,
       "personalScore": 100,
       "tags": [
-        "medida",
-        "inedita",
-        "parlamento",
-        "europeo",
-        "saco",
-        "lista",
-        "negra",
-        "biodiesel",
-        "soja",
-        "industria",
-        "argentina",
-        "respira"
+        "stablecoin-settled",
+        "tradfi",
+        "perpetual",
+        "trading",
+        "tops",
+        "binance",
+        "research",
+        "report",
+        "said",
+        "stablecoins"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
-      "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/07/08/la-inflacion-en-la-ciudad-de-buenos-aires-fue-del-18-en-junio-y-acumula-un-alza-de-326-en-los-ultimos-doce-meses/",
-      "tituloOriginal": "La inflación en la Ciudad de Buenos Aires fue del 1,8% en junio y acumula un alza de 32,6% en los últimos doce meses",
-      "tituloLimpio": "La inflación en la Ciudad de Buenos Aires fue del 1,8% en junio y acumula un alza de 32,6% en los últimos doce meses",
-      "resumen": "El registro más reciente del índice de precios al consumidor porteño mostró una nueva desaceleración en el sexto mes del año, aunque con grandes diferencias entre bienes y servicios. Alimentos, vivienda y transporte fueron los rubros de mayor incidencia.",
-      "porQueImporta": "Reafirma la tendencia de desaceleración inflacionaria en CABA, un dato crucial para Guido como residente. La mención de los rubros de mayor incidencia (alimentos, vivienda y transporte) le permite entender mejor dónde se concentran los cambios de precios y cómo esto afecta su presupuesto personal.",
-      "publicadoEn": "2026-07-08T14:10:41.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/E2H554VQ3JFSPIHY6DHHKPRZPY.JPG?auth=2f90a1df4c0d758992eb116e1626e1b5eb58435470ca4648cd90c2ebd83bc369&smart=true&width=5500&height=3574",
-      "globalScore": 98,
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/vigilia-9-julio-tucuman-ciudad-embanderada-patria-fiebre-mundialista-incognita-ubicacion-villarruel-milei_0_FaYEK0AIjo.html",
+      "tituloOriginal": "Vigilia del 9 de Julio en Tucumán: una ciudad embanderada por la patria y la fiebre mundialista y la incógnita por la ubicación de Villarruel y Milei",
+      "tituloLimpio": "Vigilia del 9 de Julio en Tucumán: una ciudad embanderada y la incógnita por la ubicación de Villarruel y Milei",
+      "resumen": "El Presidente llegará por la tarde junto a Diego Santilli y habrá presencia de 12 gobernadores. La vice tendrá agenda propia.",
+      "porQueImporta": "Noticia política local que describe los preparativos para una fecha patria importante en Argentina y la presencia de figuras políticas.",
+      "publicadoEn": "2026-07-08T17:09:29.000Z",
+      "imagen": "https://www.clarin.com/img/2026/07/02/HGMrq51wz_1200x630__1.jpg",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "inflacion",
+        "vigilia",
+        "julio",
+        "tucuman",
         "ciudad",
-        "buenos",
-        "aires",
-        "junio",
-        "acumula",
-        "alza",
-        "ultimos",
-        "doce",
-        "meses",
-        "registro",
-        "reciente"
+        "embanderada",
+        "patria",
+        "fiebre",
+        "mundialista",
+        "incognita",
+        "ubicacion",
+        "villarruel",
+        "milei"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/07/08/la-justicia-rechazo-el-pedido-de-la-cgt-para-frenar-la-aplicacion-de-la-reforma-laboral-impulsada-por-el-gobierno/",
+      "tituloOriginal": "La Justicia rechazó el pedido de la CGT para frenar la aplicación de la reforma laboral impulsada por el Gobierno",
+      "tituloLimpio": "La Justicia rechazó el pedido de la CGT para frenar la reforma laboral del Gobierno",
+      "resumen": "En otro revés para la central obrera, la Cámara Contencioso Administrativo Federal confirmó el rechazo al reclamo sindical de suspender la aplicación de 81 artículos de la Ley de Modernización Laboral.",
+      "porQueImporta": "Un fallo judicial relevante en Argentina que impacta en la aplicación de la reforma laboral, con implicaciones para el ámbito empresarial y de empleo.",
+      "publicadoEn": "2026-07-08T17:58:44.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/ASCERSBMOJBLBFFR6SDJOM4MUU.jpg?auth=0eef84a192946f4ee2ad651e21806cc2beb5cb54edfa39d20a63684a3aeb0eb5&smart=true&width=1920&height=1277",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "justicia",
+        "rechazo",
+        "pedido",
+        "para",
+        "frenar",
+        "aplicacion",
+        "reforma",
+        "laboral",
+        "impulsada",
+        "gobierno",
+        "otro",
+        "reves"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/campo/del-heroe-ante-brasil-al-sueno-rural-haaland-quiere-ser-el-mejor-agricultor-de-noruega-nid06072026/",
+      "tituloOriginal": "Haaland quiere ser “el mejor agricultor” de Noruega",
+      "tituloLimpio": "Haaland quiere ser “el mejor agricultor” de Noruega",
+      "resumen": "Marcó los dos goles para que su equipo avance a los cuartos de final de un Mundial, pero fuera del fútbol el delantero del Manchester City sueña con criar ganado, cultivar la tierra y dedicarse a la producción.",
+      "porQueImporta": "Una curiosidad sobre una figura pública que muestra un interés en el sector agropecuario, lo que puede ser interesante para quienes siguen el ámbito rural.",
+      "publicadoEn": "2026-07-08T18:01:40.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/4BHVEXVFSVDTDKQ6QBO5RHARXM.jpg?auth=6058e8d5080efd6aea0c1c3d16ded5d3738ce24906caa2513958b6f2e967beac&smart=true&width=1170&height=878",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "haaland",
+        "quiere",
+        "mejor",
+        "agricultor",
+        "noruega",
+        "marco",
+        "goles",
+        "para",
+        "equipo",
+        "avance",
+        "cuartos",
+        "final"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Politica",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-movimientos-judiciales-y-repercusiones-de-la-victoria-de-nid08072026/",
+      "tituloOriginal": "Javier Milei y sus medidas, en vivo: movimientos judiciales y repercusiones de la victoria de Argentina en el Mundial",
+      "tituloLimpio": "Javier Milei y sus medidas, en vivo: movimientos judiciales y repercusiones de la victoria de Argentina en el Mundial",
+      "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios.",
+      "porQueImporta": "Cobertura en tiempo real de la política argentina, incluyendo decisiones presidenciales y reacciones, relevante para entender el contexto local.",
+      "publicadoEn": "2026-07-08T18:13:35.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/A4NRG4SND5HUDMXZKDWNRH27JU.jpg?auth=325ba18363d3d080870f77634e7b216d3d140ba65b6ba1814cc4e3112675d02d&smart=true&width=2000&height=1333",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "javier",
+        "milei",
+        "medidas",
+        "vivo",
+        "movimientos",
+        "judiciales",
+        "repercusiones",
+        "victoria",
+        "argentina",
+        "mundial",
+        "minuto"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-07-08T14:20:46.862Z"
+    "generadoEn": "2026-07-08T18:17:18.445Z"
   }
 }
