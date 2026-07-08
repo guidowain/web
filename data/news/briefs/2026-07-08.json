@@ -1,0 +1,491 @@
+{
+  "fecha": "2026-07-08",
+  "generadoEn": "2026-07-08T14:20:46.862Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "La inflación en CABA bajó al 1,8% en junio, mientras que el Parlamento Europeo sacó al biodiesel de soja argentino de la lista negra, beneficiando a la industria local. En tecnología, Apple está probando chips de memoria chinos y OpenAI lanzará GPT-5.6 esta semana. Meta presentó un nuevo modelo de IA para imágenes en Instagram y Google expande las capacidades de los agentes gestionados en su API Gemini. En el ámbito de Apple, se rumorea que la versión de bajo costo del Vision Pro podría ser descartada para enfocarse en la IA.",
+  "radarPersonal": [
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "La inflación de CABA quebró la barrera del 2% en junio, con fuerte desaceleración en alimentos",
+      "resumen": "La suba de precios en la Ciudad del mes pasado fue del 1,8%, acumuló en el primer semestre del año una suba del 16% y la interanual se ubicó en 32,6%.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/la-inflacion-caba-quebro-la-barrera-del-2-junio-fuerte-desaceleracion-alimentos-n6297509"
+      ],
+      "score": 100,
+      "tags": [
+        "inflacion",
+        "caba",
+        "junio",
+        "alimentos"
+      ]
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "titulo": "El Parlamento Europeo sacó de la lista negra al biodiesel de soja y la industria argentina respira",
+      "resumen": "Rechazan una norma que impedía el ingreso de aceite de la oleaginosa a la Unión Europea. Todo el producto exportado por Argentina se elabora con ese insumo y tiene como único destino Europa.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Clarin Economia"
+      ],
+      "urls": [
+        "https://www.clarin.com/rural/medida-inedita-parlamento-europeo-saco-lista-negra-biodiesel-soja-industria-argentina-respira_0_3aFuyFD95E.html"
+      ],
+      "score": 100,
+      "tags": [
+        "biodiesel",
+        "soja",
+        "argentina",
+        "europa"
+      ]
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Apple empieza a probar chips de memoria chinos",
+      "resumen": "Apple está probando chips de memoria DRAM de ChangXin Memory Technologies (CXMT), respaldada por el estado chino, según un nuevo informe del Financial Times.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/07/08/apple-begins-testing-controversial-chinese-memory/"
+      ],
+      "score": 100,
+      "tags": [
+        "apple",
+        "chips",
+        "memoria",
+        "china"
+      ]
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "titulo": "OpenAI publicará este jueves GPT-5.6, su modelo más potente",
+      "resumen": "Con la aprobación del gobierno estadounidense.",
+      "categoria": "AI",
+      "fuentes": [
+        "La Nacion Economia"
+      ],
+      "urls": [
+        "https://www.lanacion.com.ar/tecnologia/openai-lanzara-gpt-56-su-modelo-mas-potente-nid08072026/"
+      ],
+      "score": 100,
+      "tags": [
+        "openai",
+        "gpt-5.6",
+        "ia"
+      ]
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "El nuevo modelo Muse Image de Meta puede incluir a otros usuarios de Instagram en fotos de IA",
+      "resumen": "Meta está lanzando el primer modelo de generación de imágenes de IA creado por su división Superintelligence Labs. El modelo Muse Image ahora impulsa las herramientas de creación de imágenes en la aplicación Meta AI, Instagram y WhatsApp, y pronto llegará a Facebook y Messenger.",
+      "categoria": "AI",
+      "fuentes": [
+        "The Verge AI"
+      ],
+      "urls": [
+        "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram"
+      ],
+      "score": 100,
+      "tags": [
+        "meta",
+        "ia",
+        "instagram",
+        "fotos"
+      ]
+    }
+  ],
+  "loImportante": [
+    "La inflación en CABA desaceleró fuertemente en junio, alcanzando el 1,8%.",
+    "El Parlamento Europeo quitó el biodiesel de soja argentino de la lista negra, lo que es una buena noticia para la industria local.",
+    "Apple está probando chips de memoria de un proveedor chino, lo que podría indicar cambios en su cadena de suministro.",
+    "OpenAI lanzará GPT-5.6 esta semana, su modelo más potente, tras la aprobación del gobierno estadounidense.",
+    "Meta presentó Muse Image, un nuevo modelo de IA que permite integrar a otros usuarios de Instagram en fotos generadas por IA."
+  ],
+  "oportunidades": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "titulo": "Google expande los agentes gestionados en la API de Gemini",
+      "detalle": "Google está anunciando nuevas capacidades en los agentes gestionados de la API de Gemini, lo que permite a los desarrolladores construir agentes confiables y listos para producción.",
+      "acciones": [
+        "Explorar las nuevas capacidades de los agentes gestionados en la API de Gemini para automatización y desarrollo de herramientas.",
+        "Evaluar cómo estas mejoras pueden aplicarse en flujos de trabajo de retoque fotográfico o arte con IA."
+      ]
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "titulo": "Elementos fundamentales de la arquitectura de IA para escalar",
+      "detalle": "Con el rápido progreso de las capacidades de IA y el paso a sistemas de agentes, las organizaciones están expandiendo sus casos de uso. Este artículo aborda los elementos fundamentales de la arquitectura de IA que los líderes de TI necesitan para escalar.",
+      "acciones": [
+        "Revisar los elementos fundamentales de la arquitectura de IA para entender cómo escalar proyectos de IA de manera sostenible.",
+        "Considerar la aplicación de estos principios en el desarrollo de herramientas de IA personalizadas."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Productivity",
+      "titulo": "Apple podría descartar el Vision Pro de bajo costo para enfocarse en la IA",
+      "detalle": "Un informe sugiere que el trabajo en un componente clave de una versión de bajo costo del Apple Vision Pro está disminuyendo, porque Apple estaría más interesada en la IA.",
+      "mitigacion": "Si bien el Vision Pro no está disponible en Argentina, esta noticia sugiere un posible cambio de enfoque de Apple hacia la IA, lo que podría impactar futuras herramientas y plataformas. Mantenerse al tanto de los anuncios de Apple sobre IA es clave."
+    }
+  ],
+  "conexiones": [
+    {
+      "id": "inflacion-argentina-caba",
+      "titulo": "Inflación en CABA y su impacto en la economía personal",
+      "historias": [
+        "La inflación de CABA quebró la barrera del 2% en junio, con fuerte desaceleración en alimentos (Ambito)",
+        "La inflación en la Ciudad de Buenos Aires fue del 1,8% en junio y acumula un alza de 32,6% en los últimos doce meses (Infobae Economia)"
+      ],
+      "conclusion": "Ambas noticias confirman una desaceleración de la inflación en la Ciudad de Buenos Aires, con el índice de junio en 1,8%. Esto es una señal positiva para el poder adquisitivo y la estabilidad económica local, especialmente en el rubro de alimentos."
+    },
+    {
+      "id": "openai-lanzamientos-ia",
+      "titulo": "Lanzamientos de modelos de IA y su impacto en el mercado",
+      "historias": [
+        "OpenAI shares update on GPT-5.6 availability after holding back release (9to5Mac)",
+        "OpenAI publicará este jueves GPT-5.6, su modelo más potente (La Nacion Economia)"
+      ],
+      "conclusion": "Las dos fuentes confirman que OpenAI lanzará GPT-5.6 esta semana, su modelo de IA más potente, después de una revisión gubernamental. Esto es relevante para quienes usan o desarrollan con IA, ya que representa una mejora significativa en las capacidades disponibles."
+    }
+  ],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "tituloOriginal": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
+      "tituloLimpio": "Google expande los agentes gestionados en la API de Gemini",
+      "resumen": "Google está anunciando nuevas capacidades en los agentes gestionados de la API de Gemini para que los desarrolladores puedan construir agentes confiables y listos para producción.",
+      "porQueImporta": "Para Guido, que trabaja con IA aplicada y automatización, la expansión de las capacidades de los agentes gestionados en la API de Gemini significa más herramientas y flexibilidad para desarrollar soluciones de IA robustas y eficientes. Esto podría impactar directamente en sus proyectos de arte con IA o en la automatización de tareas.",
+      "publicadoEn": "2026-07-07T08:54:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "expanding",
+        "managed",
+        "agents",
+        "gemini",
+        "background",
+        "tasks",
+        "remote",
+        "more",
+        "announcing",
+        "capabilities"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/07/08/apple-begins-testing-controversial-chinese-memory/",
+      "tituloOriginal": "Apple Begins Testing Controversial Chinese Memory Chips",
+      "tituloLimpio": "Apple empieza a probar chips de memoria chinos",
+      "resumen": "Apple está probando chips de memoria DRAM de ChangXin Memory Technologies (CXMT), respaldada por el estado chino, según un nuevo informe.",
+      "porQueImporta": "Esta noticia es relevante para Guido por su interés en Apple. La decisión de Apple de probar componentes de proveedores chinos podría indicar un cambio en su estrategia de cadena de suministro y tener implicaciones futuras para la disponibilidad y el costo de sus productos, aunque no directamente en Argentina por ahora.",
+      "publicadoEn": "2026-07-08T14:18:34.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "begins",
+        "testing",
+        "controversial",
+        "chinese",
+        "memory",
+        "chips",
+        "dram"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "categoria": "Finance",
+      "fuente": "Sherwood",
+      "url": "https://sherwood.news/markets/spacex-gets-a-wave-of-bullish-ratings-from-wall-street-analysts/",
+      "tituloOriginal": "SpaceX gets a wave of bullish ratings from Wall Street analysts",
+      "tituloLimpio": "SpaceX recibe calificaciones alcistas de analistas de Wall Street",
+      "resumen": "Las calificaciones llegan mientras SpaceX se unió al índice Nasdaq 100, una canasta de empresas tecnológicas que sustenta millones de carteras.",
+      "porQueImporta": "Como inversor en ETFs y mercados, Guido debería saber que SpaceX está recibiendo una ola de calificaciones alcistas y se unió al Nasdaq 100. Esto puede influir en el rendimiento de ETFs tecnológicos y en la percepción del mercado sobre empresas innovadoras, aunque SpaceX no sea una acción directamente accesible para todos.",
+      "publicadoEn": "2026-07-07T15:56:30.000Z",
+      "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/2195743491_lompoc-ca-spacex-an-american-aerospace-manufacturer-successfully-launches-a-pre-dawn-a-falcon.jpg",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "spacex",
+        "gets",
+        "wave",
+        "bullish",
+        "ratings",
+        "from",
+        "wall",
+        "street",
+        "analysts",
+        "come"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/la-inflacion-caba-quebro-la-barrera-del-2-junio-fuerte-desaceleracion-alimentos-n6297509",
+      "tituloOriginal": "La inflación de CABA quebró la barrera del 2% en junio, con fuerte desaceleración en alimentos",
+      "tituloLimpio": "La inflación de CABA quebró la barrera del 2% en junio, con fuerte desaceleración en alimentos",
+      "resumen": "La suba de precios en la Ciudad del mes pasado fue del 1,8%, acumuló en el primer semestre del año una suba del 16% y la interanual se ubicó en 32,6%.",
+      "porQueImporta": "Esta es una noticia clave para Guido, ya que vive en Buenos Aires. La desaceleración de la inflación en CABA, especialmente en alimentos, impacta directamente en su economía personal y en el costo de vida. Es un dato importante para entender el panorama económico local.",
+      "publicadoEn": "2026-07-08T14:01:00.000Z",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "inflacion",
+        "caba",
+        "quebro",
+        "barrera",
+        "junio",
+        "fuerte",
+        "desaceleracion",
+        "alimentos",
+        "suba",
+        "precios",
+        "ciudad",
+        "pasado"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/chipotle-drives-rewards-program-with-pga-tour-2k25-integration/824619/",
+      "tituloOriginal": "Chipotle drives rewards program with ‘PGA Tour 2K25’ integration",
+      "tituloLimpio": "Chipotle impulsa su programa de recompensas con integración en 'PGA Tour 2K25'",
+      "resumen": "La asociación es parte de una estrategia de golf más amplia de la marca, que se convirtió en patrocinador oficial del PGA Tour a través de un acuerdo multianual anunciado en enero.",
+      "porQueImporta": "Para Guido, interesado en marketing, esta noticia muestra una estrategia de integración de marca innovadora en videojuegos para impulsar un programa de recompensas. Es un ejemplo de cómo las empresas buscan nuevas vías para conectar con los consumidores y fidelizarlos, relevante para entender tendencias de marketing digital y de engagement.",
+      "publicadoEn": "2026-07-08T13:00:00.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "chipotle",
+        "drives",
+        "rewards",
+        "program",
+        "with",
+        "tour",
+        "2k25",
+        "integration",
+        "partnership",
+        "part",
+        "larger",
+        "golf"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+      "tituloOriginal": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+      "tituloLimpio": "Ex ejecutivo de OpenAI, Kevin Weil, se une a la junta directiva de Stoke Space",
+      "resumen": "El nuevo rol de Kevin Weil en Stoke Space sugiere que los cohetes reutilizables son la próxima gran novedad en Silicon Valley.",
+      "porQueImporta": "Aunque no es directamente sobre IA, la noticia es relevante por la conexión con un ex ejecutivo de OpenAI. Indica una tendencia de talento de IA moviéndose hacia otros sectores de alta tecnología, como la exploración espacial. Esto puede señalar áreas de inversión o de desarrollo tecnológico emergentes.",
+      "publicadoEn": "2026-07-08T12:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "former",
+        "openai",
+        "exec",
+        "kevin",
+        "weil",
+        "board",
+        "stoke",
+        "space",
+        "role"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+      "tituloOriginal": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
+      "tituloLimpio": "El nuevo modelo Muse Image de Meta puede incluir a otros usuarios de Instagram en fotos de IA",
+      "resumen": "Meta está lanzando el primer modelo de generación de imágenes de IA creado por su división Superintelligence Labs. El modelo Muse Image ahora impulsa las herramientas de creación de imágenes en la aplicación Meta AI, Instagram y WhatsApp.",
+      "porQueImporta": "Para Guido, que trabaja en retoque fotográfico y arte con IA, esta es una noticia muy importante. Un nuevo modelo de IA de Meta que permite integrar usuarios de Instagram en fotos generadas por IA abre nuevas posibilidades creativas y herramientas para la manipulación de imágenes, directamente aplicables a su campo de trabajo.",
+      "publicadoEn": "2026-07-07T20:31:58.000Z",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "meta",
+        "muse",
+        "image",
+        "model",
+        "pull",
+        "other",
+        "instagram",
+        "users",
+        "into",
+        "photos",
+        "launching"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+      "tituloOriginal": "The foundational elements of AI architecture that IT leaders need to scale",
+      "tituloLimpio": "Los elementos fundamentales de la arquitectura de IA que los líderes de TI necesitan para escalar",
+      "resumen": "Con el rápido progreso de las capacidades de IA y el paso a sistemas de agentes, las organizaciones están expandiendo sus casos de uso. Esa evolución constante también introduce riesgos, dejando a los líderes de TI preguntándose qué inversiones resultarán valiosas.",
+      "porQueImporta": "Esta noticia es útil para Guido por su interés en la IA aplicada y las herramientas. Comprender los elementos fundamentales de la arquitectura de IA es crucial para cualquier persona que busque escalar proyectos de IA o desarrollar herramientas eficientes, ayudándole a tomar decisiones informadas sobre inversiones en tecnología.",
+      "publicadoEn": "2026-07-07T11:10:52.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "foundational",
+        "elements",
+        "architecture",
+        "that",
+        "leaders",
+        "need",
+        "scale",
+        "with",
+        "rapid",
+        "progress",
+        "capabilities",
+        "move"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/08/openai-shares-update-on-gpt-5-6-availability-after-holding-back-release/",
+      "tituloOriginal": "OpenAI shares update on GPT-5.6 availability after holding back release",
+      "tituloLimpio": "OpenAI comparte actualización sobre la disponibilidad de GPT-5.6 después de retrasar su lanzamiento",
+      "resumen": "OpenAI presentó GPT-5.6 a finales de junio, pero el lanzamiento público se retrasó mientras el gobierno de EE. UU. revisaba los nuevos modelos de IA. Ahora la compañía ha compartido una actualización sobre cuándo los clientes podrán usar el modelo mejorado: esta semana.",
+      "porQueImporta": "Para Guido, que sigue de cerca la IA, la disponibilidad de GPT-5.6 es una noticia clave. Un modelo más potente de OpenAI puede significar nuevas capacidades para sus proyectos de arte con IA, automatización o simplemente para mantenerse al día con las últimas herramientas de la industria.",
+      "publicadoEn": "2026-07-08T14:15:57.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "openai",
+        "shares",
+        "update",
+        "gpt-5",
+        "availability",
+        "after",
+        "holding",
+        "back",
+        "release",
+        "unveiled"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/07/08/lower-cost-apple-vision-pro-may-be-dropped-as-apple-focuses-on-ai?utm_source=rss",
+      "tituloOriginal": "Lower cost Apple Vision Pro may be dropped as Apple focuses on AI",
+      "tituloLimpio": "El Apple Vision Pro de bajo costo podría ser descartado mientras Apple se enfoca en la IA",
+      "resumen": "Un informe peculiar afirma que el trabajo en un componente clave de una versión de bajo costo del Apple Vision Pro está disminuyendo, y que es porque Apple está más interesada en la IA.",
+      "porQueImporta": "Esta noticia es relevante para Guido por su interés en Apple y la IA. Sugiere un posible cambio de estrategia de Apple, priorizando la IA sobre el desarrollo de hardware de realidad mixta más accesible. Esto podría influir en el tipo de productos y servicios que Apple lanzará en el futuro, con un mayor énfasis en las capacidades de IA.",
+      "publicadoEn": "2026-07-08T14:20:16.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "lower",
+        "cost",
+        "apple",
+        "vision",
+        "dropped",
+        "focuses",
+        "peculiar",
+        "report",
+        "claims",
+        "that",
+        "work"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/rural/medida-inedita-parlamento-europeo-saco-lista-negra-biodiesel-soja-industria-argentina-respira_0_3aFuyFD95E.html",
+      "tituloOriginal": "\"Medida inédita\": el Parlamento Europeo sacó de la lista negra al biodiesel de soja y la industria argentina respira",
+      "tituloLimpio": "El Parlamento Europeo sacó de la lista negra al biodiesel de soja y la industria argentina respira",
+      "resumen": "Rechazan una norma que impedía el ingreso de aceite de la oleaginosa a la Unión Europea. Todo el producto exportado por Argentina se elabora con ese insumo y tiene como único destino Europa.",
+      "porQueImporta": "Esta es una excelente noticia para Argentina y, por ende, para Guido. La eliminación del biodiesel de soja argentino de la lista negra europea es un alivio para una industria exportadora clave, lo que puede tener un impacto positivo en la economía del país y en la estabilidad del mercado local.",
+      "publicadoEn": "2026-07-08T12:50:28.000Z",
+      "imagen": "https://www.clarin.com/img/2018/08/17/rJMq3sNUX_1200x630__1.jpg",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "medida",
+        "inedita",
+        "parlamento",
+        "europeo",
+        "saco",
+        "lista",
+        "negra",
+        "biodiesel",
+        "soja",
+        "industria",
+        "argentina",
+        "respira"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/07/08/la-inflacion-en-la-ciudad-de-buenos-aires-fue-del-18-en-junio-y-acumula-un-alza-de-326-en-los-ultimos-doce-meses/",
+      "tituloOriginal": "La inflación en la Ciudad de Buenos Aires fue del 1,8% en junio y acumula un alza de 32,6% en los últimos doce meses",
+      "tituloLimpio": "La inflación en la Ciudad de Buenos Aires fue del 1,8% en junio y acumula un alza de 32,6% en los últimos doce meses",
+      "resumen": "El registro más reciente del índice de precios al consumidor porteño mostró una nueva desaceleración en el sexto mes del año, aunque con grandes diferencias entre bienes y servicios. Alimentos, vivienda y transporte fueron los rubros de mayor incidencia.",
+      "porQueImporta": "Reafirma la tendencia de desaceleración inflacionaria en CABA, un dato crucial para Guido como residente. La mención de los rubros de mayor incidencia (alimentos, vivienda y transporte) le permite entender mejor dónde se concentran los cambios de precios y cómo esto afecta su presupuesto personal.",
+      "publicadoEn": "2026-07-08T14:10:41.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/E2H554VQ3JFSPIHY6DHHKPRZPY.JPG?auth=2f90a1df4c0d758992eb116e1626e1b5eb58435470ca4648cd90c2ebd83bc369&smart=true&width=5500&height=3574",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "inflacion",
+        "ciudad",
+        "buenos",
+        "aires",
+        "junio",
+        "acumula",
+        "alza",
+        "ultimos",
+        "doce",
+        "meses",
+        "registro",
+        "reciente"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-07-08T14:20:46.862Z"
+  }
+}
