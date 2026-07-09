@@ -1,0 +1,409 @@
+{
+  "fecha": "2026-07-09",
+  "generadoEn": "2026-07-09T15:16:24.473Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Hoy destacamos novedades en IA con Google expandiendo sus agentes Gemini y Meta compitiendo en codificación. En el ámbito Apple, hay ofertas en accesorios y dispositivos. Para Argentina, se actualizan las tasas de plazos fijos y las asignaciones familiares, además de noticias políticas relevantes. En marketing, Meta introduce etiquetas para anuncios generados por IA. También se reportan movimientos en el mercado de criptomonedas y la muerte del publicista Ramiro Agulla.",
+  "radarPersonal": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Google expande los agentes gestionados en la API de Gemini",
+      "resumen": "Google anuncia nuevas capacidades en los agentes gestionados de la API de Gemini para que los desarrolladores puedan crear agentes fiables y listos para producción.",
+      "categoria": "AI",
+      "fuentes": [
+        "Google AI Blog"
+      ],
+      "urls": [
+        "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/"
+      ],
+      "score": 100,
+      "tags": [
+        "gemini",
+        "api",
+        "desarrolladores",
+        "agentes"
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Plazo fijo: cuánto paga cada banco por invertir $1.000.000 a 30 días y cuáles ofrecen la mejor tasa",
+      "resumen": "Las diferencias entre entidades pueden superar los $5.000 en apenas un mes y el formato digital vuelve a ubicarse por encima de los métodos tradicionales.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/plazo-fijo-cuanto-paga-cada-banco-invertir-1000000-30-dias-y-cuales-ofrecen-la-mejor-tasa-n6297556"
+      ],
+      "score": 100,
+      "tags": [
+        "plazo fijo",
+        "inversión",
+        "bancos",
+        "tasas"
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "titulo": "Meta añade etiquetas de divulgación actualizadas para anuncios generados por IA",
+      "resumen": "Las etiquetas actualizadas proporcionarán más información sobre qué promociones incluyen elementos generados por IA, ya sea de Meta o de herramientas de IA externas.",
+      "categoria": "Marketing",
+      "fuentes": [
+        "Marketing Dive"
+      ],
+      "urls": [
+        "https://www.marketingdive.com/news/sociable-meta-adds-updated-disclosure-tags-for-ai-generated-ads/824833/"
+      ],
+      "score": 100,
+      "tags": [
+        "marketing",
+        "ia",
+        "meta",
+        "publicidad"
+      ]
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "Meta dice que su nuevo modelo de IA está listo para competir en codificación",
+      "resumen": "Meta está abriendo las puertas a los desarrolladores con un nuevo modelo que puede conectarse a software de codificación de IA con la nueva API de Meta Model.",
+      "categoria": "AI",
+      "fuentes": [
+        "The Verge AI"
+      ],
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api"
+      ],
+      "score": 100,
+      "tags": [
+        "meta",
+        "ia",
+        "codificación",
+        "desarrolladores"
+      ]
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Un mes con el innovador mouse de viaje Mobi Fold de Logitech",
+      "resumen": "Un usuario comparte su experiencia con el mouse de viaje Mobi Fold de Logitech, destacando su innovación.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacStories"
+      ],
+      "urls": [
+        "https://www.macstories.net/reviews/a-month-with-logitechs-innovative-mobi-fold-travel-mouse/"
+      ],
+      "score": 100,
+      "tags": [
+        "logitech",
+        "mouse",
+        "accesorios",
+        "productividad"
+      ]
+    }
+  ],
+  "loImportante": [
+    "Google expande las capacidades de sus agentes gestionados en la API de Gemini, facilitando la creación de agentes de IA fiables para desarrolladores.",
+    "Meta introduce nuevas etiquetas de divulgación para anuncios generados por IA, lo que impacta la transparencia en el marketing digital.",
+    "Meta lanza un nuevo modelo de IA para codificación, buscando competir en este sector y ofreciendo una API para desarrolladores.",
+    "En Argentina, se actualizan las tasas de plazos fijos, mostrando diferencias significativas entre bancos y destacando el formato digital.",
+    "El FMI elogió el programa financiero del Gobierno argentino y apoyó la reforma de la Carta Orgánica del BCRA."
+  ],
+  "oportunidades": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "titulo": "Desarrollo de agentes de IA más robustos con la API de Gemini",
+      "detalle": "La expansión de los agentes gestionados en la API de Gemini permite a los desarrolladores construir agentes de IA más fiables y listos para producción, incluyendo tareas en segundo plano y MCP remoto.",
+      "acciones": [
+        "Explorar las nuevas capacidades de la API de Gemini para proyectos de automatización o arte con IA.",
+        "Considerar la integración de estas herramientas en flujos de trabajo existentes para mejorar la eficiencia."
+      ]
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "titulo": "Aprovechar el nuevo modelo de IA de Meta para codificación",
+      "detalle": "Meta está abriendo su nuevo modelo Muse Spark a desarrolladores a través de una API, lo que podría mejorar el software de codificación de IA.",
+      "acciones": [
+        "Investigar la API de Meta Model para integrar capacidades de codificación de IA en herramientas o proyectos personales.",
+        "Evaluar cómo este modelo puede optimizar procesos de desarrollo o creación de arte con IA."
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Investing",
+      "titulo": "Optimizar inversiones en plazos fijos en Argentina",
+      "detalle": "Las diferencias en las tasas de plazos fijos entre bancos en Argentina pueden generar ganancias adicionales significativas en un mes, con el formato digital ofreciendo mejores rendimientos.",
+      "acciones": [
+        "Revisar las tasas actuales de plazos fijos en diferentes bancos para maximizar rendimientos.",
+        "Priorizar el formato digital para inversiones en plazos fijos."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "categoria": "Market",
+      "titulo": "Impacto de conflictos geopolíticos en los mercados",
+      "detalle": "Estados Unidos lanzó otra ronda de ataques sobre Irán, lo que podría generar inestabilidad en los mercados globales.",
+      "mitigacion": "Monitorear la evolución de los conflictos geopolíticos y su posible impacto en los mercados de inversión."
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Market",
+      "titulo": "Riesgos de estafas en criptomonedas",
+      "detalle": "Una operación de Interpol expuso una billetera de criptomonedas vinculada a un fraude romántico que procesó más de $122 millones.",
+      "mitigacion": "Ser extremadamente cauteloso con las inversiones en criptomonedas y verificar la legitimidad de las plataformas y ofertas."
+    }
+  ],
+  "conexiones": [],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "tituloOriginal": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
+      "tituloLimpio": "Google expande los agentes gestionados en la API de Gemini",
+      "resumen": "Google anuncia nuevas capacidades en los agentes gestionados de la API de Gemini para que los desarrolladores puedan crear agentes fiables y listos para producción.",
+      "porQueImporta": "Para Guido, que trabaja con IA, esta noticia es clave porque indica una mejora en las herramientas de desarrollo de agentes de IA, lo que podría abrir nuevas posibilidades para la automatización y la creación de arte con IA.",
+      "publicadoEn": "2026-07-07T08:54:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Google",
+        "API",
+        "Desarrollo"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/plazo-fijo-cuanto-paga-cada-banco-invertir-1000000-30-dias-y-cuales-ofrecen-la-mejor-tasa-n6297556",
+      "tituloOriginal": "Plazo fijo: cuánto paga cada banco por invertir $1.000.000 a 30 días y cuáles ofrecen la mejor tasa",
+      "tituloLimpio": "Plazo fijo: cuánto paga cada banco por invertir $1.000.000 a 30 días y cuáles ofrecen la mejor tasa",
+      "resumen": "Las diferencias entre entidades pueden superar los $5.000 en apenas un mes y el formato digital vuelve a ubicarse por encima de los métodos tradicionales.",
+      "porQueImporta": "Guido, como inversor en Argentina, necesita saber dónde obtener la mejor tasa para sus plazos fijos. Esta noticia le da información concreta para optimizar sus inversiones.",
+      "publicadoEn": "2026-07-09T14:30:00.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Finanzas",
+        "Inversión",
+        "Plazo Fijo"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/sociable-meta-adds-updated-disclosure-tags-for-ai-generated-ads/824833/",
+      "tituloOriginal": "Sociable: Meta adds updated disclosure tags for AI-generated ads",
+      "tituloLimpio": "Meta añade etiquetas de divulgación actualizadas para anuncios generados por IA",
+      "resumen": "Las etiquetas actualizadas proporcionarán más información sobre qué promociones incluyen elementos generados por IA, ya sea de Meta o de herramientas de IA externas.",
+      "porQueImporta": "Para Guido, que trabaja con arte con IA y marketing, es fundamental entender cómo Meta está regulando el contenido generado por IA en la publicidad. Esto afecta la transparencia y las prácticas de marketing digital.",
+      "publicadoEn": "2026-07-09T15:11:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "IA",
+        "Meta",
+        "Publicidad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+      "tituloOriginal": "Anthropic’s new Claude feature is quietly selling you on AI",
+      "tituloLimpio": "La nueva función de Claude de Anthropic te vende la IA de forma sutil",
+      "resumen": "El nuevo panel Reflect de Claude no solo visualiza cómo usas la IA. También refuerza sutilmente cuánto de tu trabajo diario ahora depende del chatbot de Anthropic.",
+      "porQueImporta": "Como usuario y creador con IA, Guido puede estar interesado en cómo las plataformas de IA buscan integrar sus herramientas en el uso diario y cómo esto se presenta a los usuarios.",
+      "publicadoEn": "2026-07-09T14:53:09.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Anthropic",
+        "Herramientas",
+        "Productividad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
+      "tituloOriginal": "Meta says its new AI model is ready to compete on coding",
+      "tituloLimpio": "Meta dice que su nuevo modelo de IA está listo para competir en codificación",
+      "resumen": "Meta está abriendo las puertas a los desarrolladores con un nuevo modelo que puede conectarse a software de codificación de IA con la nueva API de Meta Model.",
+      "porQueImporta": "Esta noticia es relevante para Guido por su interés en la IA aplicada y las herramientas. Un nuevo modelo de IA para codificación podría mejorar la automatización y el desarrollo de proyectos.",
+      "publicadoEn": "2026-07-09T14:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Meta",
+        "Codificación",
+        "Desarrollo"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+      "tituloOriginal": "The foundational elements of AI architecture that IT leaders need to scale",
+      "tituloLimpio": "Los elementos fundamentales de la arquitectura de IA que los líderes de TI necesitan para escalar",
+      "resumen": "Con el rápido progreso de las capacidades de IA y el paso a sistemas de agentes, las organizaciones están expandiendo sus casos de uso a medida que la tecnología sigue creciendo.",
+      "porQueImporta": "Aunque es más estratégica, esta noticia le da a Guido una perspectiva sobre la evolución de la arquitectura de IA, algo útil para entender las tendencias y la dirección de las herramientas que usa.",
+      "publicadoEn": "2026-07-07T11:10:52.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Estrategia",
+        "Tecnología"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/reviews/a-month-with-logitechs-innovative-mobi-fold-travel-mouse/",
+      "tituloOriginal": "A Month with Logitech’s Innovative Mobi Fold Travel Mouse",
+      "tituloLimpio": "Un mes con el innovador mouse de viaje Mobi Fold de Logitech",
+      "resumen": "Un usuario comparte su experiencia con el mouse de viaje Mobi Fold de Logitech, destacando su innovación.",
+      "porQueImporta": "Guido valora las herramientas y la productividad. Un mouse innovador puede ser de interés para su trabajo de retoque fotográfico o simplemente para mejorar su setup.",
+      "publicadoEn": "2026-07-08T16:56:47.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "Herramientas",
+        "Productividad",
+        "Accesorios"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/07/09/ethereum-s-newest-nonprofit-wants-to-become-wall-street-s-guide-to-crypto",
+      "tituloOriginal": "Ethereum's newest nonprofit wants to become Wall Street's guide to crypto",
+      "tituloLimpio": "La nueva organización sin fines de lucro de Ethereum busca ser la guía de Wall Street para las criptomonedas",
+      "resumen": "Ethereum Institutional, una nueva organización sin fines de lucro, tiene como objetivo educar a las instituciones financieras y bancos sobre Ethereum.",
+      "porQueImporta": "Para Guido, interesado en inversiones, la institucionalización de las criptomonedas es una señal importante. Una iniciativa para educar a Wall Street podría indicar una mayor adopción y estabilidad en el futuro.",
+      "publicadoEn": "2026-07-09T14:58:55.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/c3c673f6ba55ed0cd79499681ca46b7a8b5f7e86-5150x3427.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "Criptomonedas",
+        "Ethereum",
+        "Inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/suaf-monto-asignaciones-familiares-julio-2026_0_wooRlyJVJC.html",
+      "tituloOriginal": "SUAF: cuánto es el monto de las Asignaciones Familiares en julio de 2026",
+      "tituloLimpio": "SUAF: cuánto es el monto de las Asignaciones Familiares en julio de 2026",
+      "resumen": "Estas prestaciones están destinadas a trabajadores en relación de dependencia que cumplen con el tope de ingresos establecido. Este mes, los beneficiarios percibirán sus haberes con un 2,1% de aumento.",
+      "porQueImporta": "Noticia relevante para cualquier trabajador en relación de dependencia en Argentina, incluyendo a Guido, para conocer los montos actualizados de las asignaciones familiares.",
+      "publicadoEn": "2026-07-09T14:04:00.000Z",
+      "imagen": "https://www.clarin.com/img/2024/05/05/RvFQXGTOM_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Economía",
+        "Trabajo",
+        "Beneficios"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/anda-pa-alla-bobo-ironica-respuesta-jorge-macri-alcalde-nueva-york-decir-argentina-robo-egipto_0_A2n0pbs0m1.html",
+      "tituloOriginal": "\"Andá pá allá, bobo\": la irónica respuesta de Jorge Macri al alcalde de Nueva York por decir que Argentina le robó a Egipto",
+      "tituloLimpio": "Jorge Macri responde al alcalde de Nueva York por decir que Argentina le robó a Egipto",
+      "resumen": "El jefe de Gobierno porteño cruzó a Zohran Mamdani tras el partido de los octavos de final del Mundial 2026.",
+      "porQueImporta": "Aunque es una noticia política, el tono y la referencia a un evento global como el Mundial la hacen de interés general en Argentina, mostrando una reacción local a una declaración internacional.",
+      "publicadoEn": "2026-07-09T14:10:20.000Z",
+      "imagen": "https://www.clarin.com/img/2026/06/02/aH8s89e7s_1200x630__1.jpg",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Política",
+        "Actualidad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/07/09/el-fmi-elogio-el-programa-financiero-del-gobierno-y-apoyo-la-reforma-de-la-carta-organica-del-bcra/",
+      "tituloOriginal": "El FMI elogió el programa financiero del Gobierno y apoyó la reforma de la Carta Orgánica del BCRA",
+      "tituloLimpio": "El FMI elogió el programa financiero del Gobierno y apoyó la reforma de la Carta Orgánica del BCRA",
+      "resumen": "Durante una conferencia realizada en Washington, la vocera del organismo, Julie Kozack, expuso la postura de la entidad sobre las últimas medidas anunciadas.",
+      "porQueImporta": "Para Guido, como inversor en Argentina, la opinión del FMI sobre la política económica del país es crucial para entender la estabilidad y las perspectivas financieras.",
+      "publicadoEn": "2026-07-09T15:11:51.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/IALGBOI3OFEDBEVTYT55AZ3ECI.jpeg?auth=143b8efcdea12ee2d7b1531a88383582285fc86ad2a4d3765d2c85a192773960&smart=true&width=895&height=503",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Economía",
+        "FMI",
+        "Finanzas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/de-que-murio-ramiro-agulla-el-publicista-que-marco-la-decada-del-90-nid09072026/",
+      "tituloOriginal": "De qué murió Ramiro Agulla, el publicista que marcó la década del 90",
+      "tituloLimpio": "Murió Ramiro Agulla, el publicista que marcó la década del 90",
+      "resumen": "Falleció durante la mañana de este jueves 9 de julio; la noticia fue confirmada a LA NACION por sus allegados.",
+      "porQueImporta": "Como alguien interesado en marketing y arte, Guido podría conocer la figura de Ramiro Agulla, un publicista influyente en Argentina. Es una noticia de interés cultural y profesional local.",
+      "publicadoEn": "2026-07-09T15:03:52.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/FULL66A4IJBVHJQBHZRTELSTVY.jpg?auth=dc2e492d0b97f10260d91fec224cb0195b3ddcfeb8825654bd9a9c0247bc558b&smart=true&width=1360&height=910",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Marketing",
+        "Cultura",
+        "Noticias"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-07-09T15:16:24.473Z"
+  }
+}
