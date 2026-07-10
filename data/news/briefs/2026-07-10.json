@@ -1,0 +1,509 @@
+{
+  "fecha": "2026-07-10",
+  "generadoEn": "2026-07-10T14:33:48.812Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "Hoy tenemos novedades importantes en el ámbito de la inteligencia artificial, con Google expandiendo sus agentes en Gemini API y OpenAI consolidando GPT 5.6 como modelo preferido para Microsoft Copilot. En Apple, se destacan descuentos en MacBooks y la discusión sobre el diseño adictivo de Facebook e Instagram. A nivel local, suben los peajes a la Costa Atlántica y la vicepresidenta Villarruel se compromete a impulsar la Ley de Biocombustibles. También, Milei defendió la reforma del BCRA y se refirió a un posible \"shutdown\" del Estado.",
+  "radarPersonal": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Google expande los agentes gestionados en Gemini API con nuevas capacidades",
+      "resumen": "Google anuncia nuevas capacidades en los agentes gestionados de Gemini API para que los desarrolladores puedan construir agentes confiables y listos para producción.",
+      "categoria": "AI",
+      "fuentes": [
+        "Google AI Blog"
+      ],
+      "urls": [
+        "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/"
+      ],
+      "score": 100,
+      "tags": [
+        "gemini",
+        "api",
+        "desarrolladores",
+        "agentes"
+      ]
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Descuentos en productos Apple: MacBook Pro con $450 de rebaja",
+      "resumen": "Esta semana hay buenos precios en dispositivos Apple, incluyendo $99 de descuento en el Apple Watch Ultra 3, $150 en el M5 MacBook Air y $450 en el M5 Pro MacBook Pro.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/07/10/best-apple-deals-of-the-week-7-10-26/"
+      ],
+      "score": 100,
+      "tags": [
+        "macbook",
+        "apple",
+        "descuentos",
+        "ofertas"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "OpenAI confirma que GPT 5.6 es el modelo preferido para Microsoft Copilot 365",
+      "resumen": "OpenAI afirma que GPT 5.6 es el 'modelo preferido' para Microsoft Copilot 365 en medio de rumores de ruptura. La nueva familia de modelos de OpenAI seguirá potenciando la suite de aplicaciones de productividad de Microsoft.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/"
+      ],
+      "score": 100,
+      "tags": [
+        "openai",
+        "gpt",
+        "microsoft",
+        "copilot"
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Aumentan los peajes para ir a la Costa Atlántica desde las vacaciones de invierno",
+      "resumen": "El Gobierno bonaerense actualizó un 6,71% las tarifas de los peajes del corredor atlántico. El incremento impactará en los viajes hacia Mar del Plata y otros destinos.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/aumentan-los-peajes-ir-la-costa-atlantica-cuanto-cuesta-viajar-las-vacaciones-invierno-n6298162"
+      ],
+      "score": 100,
+      "tags": [
+        "peajes",
+        "costa atlántica",
+        "vacaciones",
+        "argentina"
+      ]
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "titulo": "Con el cierre de ChatGPT Atlas, se destacan los navegadores con IA que la gente realmente usa",
+      "resumen": "OpenAI cierra su navegador web dedicado, ChatGPT Atlas. En lugar de invertir en un navegador de IA con pocos usuarios, la empresa está mejorando las funciones de uso web dentro de la nueva aplicación de escritorio de ChatGPT.",
+      "categoria": "Apple",
+      "fuentes": [
+        "9to5Mac"
+      ],
+      "urls": [
+        "https://9to5mac.com/2026/07/10/with-chatgpt-atlas-shutting-down-here-are-the-ai-browsers-people-actually-use/"
+      ],
+      "score": 100,
+      "tags": [
+        "chatgpt",
+        "navegadores",
+        "ia",
+        "automatización"
+      ]
+    }
+  ],
+  "loImportante": [
+    "Google y OpenAI siguen potenciando sus herramientas de IA para desarrolladores y usuarios, consolidando la integración de la IA en productos existentes.",
+    "Los descuentos en productos Apple pueden ser una oportunidad para renovar equipos, aunque siempre hay que verificar disponibilidad en Argentina.",
+    "El aumento de peajes en la Costa Atlántica impacta directamente en los costos de viaje dentro de Argentina.",
+    "La discusión sobre el diseño adictivo de redes sociales como Facebook e Instagram podría generar cambios regulatorios con impacto global.",
+    "La vicepresidenta Villarruel se compromete a impulsar la Ley de Biocombustibles, lo que podría tener implicancias económicas y energéticas para el país."
+  ],
+  "oportunidades": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "titulo": "Nuevas capacidades en Gemini API para desarrolladores",
+      "detalle": "La expansión de los agentes gestionados en Gemini API permite a los desarrolladores construir agentes de IA más robustos y listos para producción. Esto abre puertas para la creación de herramientas y automatizaciones avanzadas.",
+      "acciones": [
+        "Explorar las nuevas funcionalidades de Gemini API para posibles integraciones en proyectos de IA o automatización.",
+        "Evaluar cómo estas capacidades pueden mejorar el flujo de trabajo en retoque fotográfico o arte con IA."
+      ]
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Productivity",
+      "titulo": "Descuentos en equipos Apple",
+      "detalle": "Hay descuentos significativos en MacBook Pro, MacBook Air y Apple Watch Ultra 3. Aunque la noticia es de EE.UU., es una señal de posibles ofertas futuras o de la depreciación de modelos anteriores que podrían llegar a Argentina.",
+      "acciones": [
+        "Monitorear el mercado local en Argentina para ver si estos descuentos se replican o si aparecen ofertas similares en distribuidores autorizados.",
+        "Considerar la compra de accesorios Anker si están disponibles en Amazon Argentina o con envío internacional viable."
+      ]
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Automation",
+      "titulo": "Consorcio respalda tribunal de resolución de disputas para agentes de IA",
+      "detalle": "Un consorcio de 27 empresas, incluyendo OKX y MetaMask, está impulsando un tribunal de resolución de disputas para agentes de IA. Esto podría sentar las bases para una mayor confianza y adopción de sistemas automatizados en transacciones y contratos.",
+      "acciones": [
+        "Investigar más sobre la Genlayer Foundation y sus iniciativas para entender el futuro de las transacciones automatizadas con IA.",
+        "Considerar cómo la resolución de disputas automatizada podría impactar en la inversión o en la gestión de activos digitales."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Regulatory",
+      "titulo": "Diseño adictivo de Facebook e Instagram podría costar a Meta $12.5 mil millones",
+      "detalle": "El diseño de Facebook e Instagram es considerado adictivo y podría incumplir la Ley de Servicios Digitales de la Unión Europea. La Comisión Europea ya encontró que las apps de Meta para iPhone infringen sus reglas.",
+      "mitigacion": "Estar atento a cómo estas regulaciones europeas podrían influir en futuras normativas globales o en el diseño de plataformas digitales, lo que podría afectar estrategias de marketing y engagement."
+    }
+  ],
+  "conexiones": [
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "OpenAI y Microsoft: ¿una relación consolidada?",
+      "historias": [
+        "OpenAI dice que GPT 5.6 es el 'modelo preferido' para Microsoft Copilot 365 en medio de rumores de ruptura.",
+        "OpenAI cierra su navegador web dedicado, ChatGPT Atlas, para mejorar las funciones de uso web en la aplicación de escritorio de ChatGPT."
+      ],
+      "conclusion": "A pesar de los rumores, la relación entre OpenAI y Microsoft parece consolidarse, con GPT 5.6 afianzándose como el motor de Copilot. El cierre de ChatGPT Atlas sugiere una estrategia de OpenAI para integrar sus capacidades de IA directamente en sus productos principales y en los de sus socios estratégicos, en lugar de desarrollar herramientas separadas con menor tracción."
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "titulo": "El Gobierno argentino y sus desafíos económicos y políticos",
+      "historias": [
+        "Milei defendió la reforma del BCRA, justificó el posible \"shutdown\" del Estado y vaticinó el futuro de la Selección en el Mundial.",
+        "En el Gobierno creen que la interna se aplacó y Milei activa gestos de balance entre las tribus libertarias.",
+        "El documento de Milei que fija el rumbo oficial y explica por qué las economías desaparecen."
+      ],
+      "conclusion": "El gobierno de Milei sigue marcando su rumbo económico con la defensa de la reforma del BCRA y un documento que explica su visión. A nivel político, se percibe un intento de apaciguar las internas y mostrar unidad. Estos movimientos son clave para entender la dirección económica y el clima de inversión en Argentina."
+    }
+  ],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "tituloOriginal": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
+      "tituloLimpio": "Google expande los agentes gestionados en Gemini API con tareas en segundo plano y MCP remoto",
+      "resumen": "Google anuncia nuevas capacidades en los agentes gestionados de Gemini API para que los desarrolladores puedan construir agentes confiables y listos para producción.",
+      "porQueImporta": "Es relevante para Guido por su interés en la IA aplicada y las herramientas. La expansión de capacidades en Gemini API puede ofrecer nuevas posibilidades para la automatización y el desarrollo de arte con IA.",
+      "publicadoEn": "2026-07-07T08:54:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Google",
+        "Gemini",
+        "API",
+        "Desarrollo"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/aumentan-los-peajes-ir-la-costa-atlantica-cuanto-cuesta-viajar-las-vacaciones-invierno-n6298162",
+      "tituloOriginal": "Aumentan los peajes para ir a la Costa Atlántica: cuánto cuesta viajar desde las vacaciones de invierno",
+      "tituloLimpio": "Aumentan los peajes para ir a la Costa Atlántica: cuánto cuesta viajar desde las vacaciones de invierno",
+      "resumen": "El Gobierno bonaerense actualizó un 6,71% las tarifas de los peajes del corredor atlántico. El incremento impactará en los viajes hacia Mar del Plata y otros destinos.",
+      "porQueImporta": "Impacta directamente en la economía personal de Guido y en los costos de vida en Argentina, especialmente si planea viajes internos.",
+      "publicadoEn": "2026-07-10T14:16:38.000Z",
+      "imagen": "https://media.ambito.com/p/66f53293729127a269fff16952bf6557/adjuntos/239/imagenes/042/088/0042088576/peaje-peajes-corredores-viales-telepase-aumento-tarifa-ausa-aubasa.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Economía",
+        "Peajes",
+        "Vacaciones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/heinz-calls-foul-on-small-condiment-packets-in-social-world-cup-effort/824750/",
+      "tituloOriginal": "Heinz calls foul on small condiment packets in social World Cup effort",
+      "tituloLimpio": "Heinz critica los pequeños sobres de condimentos en una campaña social de la Copa del Mundo",
+      "resumen": "Los 'Penalty Packets' de edición limitada aprovechan el interés en las tarjetas rojas y amarillas del fútbol antes de los cuartos de final.",
+      "porQueImporta": "Es un ejemplo de marketing creativo y contextual que puede inspirar ideas para campañas o estrategias de contenido, relevante para el interés de Guido en marketing.",
+      "publicadoEn": "2026-07-09T16:14:00.000Z",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "Campañas",
+        "Heinz",
+        "Redes Sociales"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+      "tituloOriginal": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+      "tituloLimpio": "OpenAI dice que GPT 5.6 es el 'modelo preferido' para Microsoft Copilot 365 en medio de rumores de ruptura",
+      "resumen": "La nueva familia de modelos de OpenAI seguirá potenciando la suite de aplicaciones de productividad y trabajo de Microsoft.",
+      "porQueImporta": "Confirma la dirección de la IA en productos de productividad ampliamente usados, relevante para Guido por su interés en herramientas y automatización.",
+      "publicadoEn": "2026-07-10T00:16:54.000Z",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Microsoft",
+        "Copilot",
+        "Productividad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
+      "tituloOriginal": "Instagram’s Adam Mosseri: If you don’t like AI, ‘then you shouldn’t have it in your feed’",
+      "tituloLimpio": "Adam Mosseri de Instagram: si no te gusta la IA, 'entonces no deberías tenerla en tu feed'",
+      "resumen": "Aunque el director de Instagram, Adam Mosseri, no quiere filtrar el contenido de IA en la plataforma, argumenta que 'no deberías tenerlo en tu feed' si no te gusta.",
+      "porQueImporta": "Refleja la discusión sobre la integración de la IA en plataformas de contenido y el control del usuario, relevante para Guido como creador de arte con IA y usuario de redes sociales.",
+      "publicadoEn": "2026-07-10T13:45:02.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Instagram",
+        "Redes Sociales",
+        "Contenido"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+      "tituloOriginal": "Anthropic found a hidden space where Claude puzzles over concepts",
+      "tituloLimpio": "Anthropic encontró un espacio oculto donde Claude reflexiona sobre conceptos",
+      "resumen": "La empresa de IA Anthropic desarrolló una técnica que le dio la visión más clara hasta ahora de lo que sucede dentro de los grandes modelos de lenguaje mientras responden preguntas o realizan tareas.",
+      "porQueImporta": "Es una noticia de investigación fundamental en IA que puede influir en el desarrollo futuro de modelos, interesante para el perfil de Guido.",
+      "publicadoEn": "2026-07-09T20:22:28.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Investigación",
+        "Anthropic",
+        "LLM"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/10/with-chatgpt-atlas-shutting-down-here-are-the-ai-browsers-people-actually-use/",
+      "tituloOriginal": "With ChatGPT Atlas shutting down, here are the AI browsers people actually use",
+      "tituloLimpio": "Con el cierre de ChatGPT Atlas, se destacan los navegadores con IA que la gente realmente usa",
+      "resumen": "OpenAI cierra su navegador web dedicado, ChatGPT Atlas. En su lugar, la empresa está mejorando las funciones de uso web dentro de la nueva aplicación de escritorio de ChatGPT.",
+      "porQueImporta": "Indica un cambio en la estrategia de OpenAI y resalta la importancia de la IA integrada en herramientas existentes, relevante para Guido por su interés en automatización y herramientas.",
+      "publicadoEn": "2026-07-10T14:19:25.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Navegadores",
+        "Herramientas",
+        "Automatización"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/07/10/facebook-instagrams-addictive-design-could-cost-meta-125-billion?utm_source=rss",
+      "tituloOriginal": "Facebook & Instagram's addictive design could cost Meta $12.5 billion",
+      "tituloLimpio": "El diseño adictivo de Facebook e Instagram podría costarle a Meta $12.5 mil millones",
+      "resumen": "Facebook e Instagram de Meta utilizan un \"diseño adictivo\" que podría incumplir la nueva Ley de Servicios Digitales de la Unión Europea.",
+      "porQueImporta": "Aunque es una noticia de regulación europea, el impacto potencial en Meta y el diseño de plataformas es global, relevante para Guido por su uso de redes sociales y su interés en marketing.",
+      "publicadoEn": "2026-07-10T13:50:22.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "Meta",
+        "Regulación",
+        "Redes Sociales",
+        "Marketing"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/reviews/a-month-with-logitechs-innovative-mobi-fold-travel-mouse/",
+      "tituloOriginal": "A Month with Logitech’s Innovative Mobi Fold Travel Mouse",
+      "tituloLimpio": "Un mes con el innovador mouse de viaje Mobi Fold de Logitech",
+      "resumen": "El autor no recordaba la última vez que le entusiasmó un mouse. Aunque usa principalmente un trackpad, a veces tiene dolor de muñeca y codo, por eso usa un mouse Logitech MX Master 4.",
+      "porQueImporta": "Es una reseña de una herramienta de productividad que podría ser útil para Guido, quien trabaja con retoque fotográfico y arte con IA, donde la ergonomía y precisión son importantes.",
+      "publicadoEn": "2026-07-08T16:56:47.000Z",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "Herramientas",
+        "Productividad",
+        "Logitech"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/07/10/okx-metamask-matter-labs-back-dispute-resolution-court-for-ai-agents",
+      "tituloOriginal": "OKX, MetaMask, Matter Labs back dispute resolution court for AI agents",
+      "tituloLimpio": "OKX, MetaMask, Matter Labs respaldan un tribunal de resolución de disputas para agentes de IA",
+      "resumen": "La Genlayer Foundation lidera el consorcio de 27 empresas que hace interoperables los pagos, el escrow y la resolución de disputas basados en IA.",
+      "porQueImporta": "Muestra la evolución de la IA en el ámbito financiero y legal, con potencial para automatizar y asegurar transacciones, relevante para el interés de Guido en inversión y automatización.",
+      "publicadoEn": "2026-07-10T12:29:08.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/c4b55ff67ef1d065e3e2e556ba0209a416b27d44-2048x1365.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "Finance",
+        "AI",
+        "Blockchain",
+        "Automatización"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/federal-reserve-a16z-co-founder-monetary-policy-task-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "A16z’s Andreessen lands Federal Reserve role as AI reshapes policy debate",
+      "tituloLimpio": "Andreessen de A16z asume un rol en la Reserva Federal mientras la IA redefine el debate político",
+      "resumen": "La Fed nombró a Marc Andreessen, cofundador de a16z, para codirigir un grupo de trabajo sobre productividad y empleo de IA bajo la revisión de políticas del presidente Kevin Warsh.",
+      "porQueImporta": "Destaca la creciente influencia de la IA en la política económica y el mercado laboral, relevante para el interés de Guido en finanzas y el impacto de la IA.",
+      "publicadoEn": "2026-07-10T14:12:53.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/09marcandreessen.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Finance",
+        "AI",
+        "Política",
+        "Economía"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/rural/visita-tucuman-victoria-villarruel-comprometio-impulsar-tratamiento-ley-biocombustibles_0_DlqcTqOfBR.html",
+      "tituloOriginal": "En su visita a Tucumán, Victoria Villarruel se comprometió a impulsar el tratamiento de la Ley de Biocombustibles",
+      "tituloLimpio": "En su visita a Tucumán, Victoria Villarruel se comprometió a impulsar el tratamiento de la Ley de Biocombustibles",
+      "resumen": "La vicepresidenta recorrió las instalaciones del Ingenio La Florida, donde recibió un diagnóstico sobre la situación de la industria azucarera. La funcionaria expresó su compromiso de impulsar el tratamiento de una nueva legislación para los biocombustibles.",
+      "porQueImporta": "Noticia relevante para Argentina que puede tener implicaciones económicas y energéticas a nivel nacional.",
+      "publicadoEn": "2026-07-10T13:23:52.000Z",
+      "imagen": "https://www.clarin.com/img/2026/07/10/sOb1i4dsI_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Política",
+        "Economía",
+        "Biocombustibles"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/milei-defendio-reforma-bcra-justifico-posible-shutdown-estado-vaticino-futuro-seleccion-mundial_0_mmnzdRZve0.html",
+      "tituloOriginal": "Milei defendió la reforma del BCRA, justificó el posible \"shutdown\" del Estado y vaticinó el futuro de la Selección en el Mundial",
+      "tituloLimpio": "Milei defendió la reforma del BCRA, justificó el posible \"shutdown\" del Estado y vaticinó el futuro de la Selección en el Mundial",
+      "resumen": "El mandatario afirmó que \"la carta orgánica del Banco Central que hizo el kirchnerismo es un disparate\". Sobre el partido del equipo liderado por Messi contra Suiza en el Mundial, señaló: \"Mi confianza radica en que Argentina tiene al mejor jugador de fútbol de todos los tiempos\".",
+      "porQueImporta": "Noticia clave sobre la política económica y la visión del gobierno argentino, relevante para el interés de Guido en finanzas y la situación del país.",
+      "publicadoEn": "2026-07-10T13:03:44.000Z",
+      "imagen": "https://www.clarin.com/img/2026/05/30/IMlaBRzGK_1200x630__1.jpg",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Política",
+        "Economía",
+        "BCRA"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/07/10/en-el-gobierno-creen-que-la-interna-se-aplaco-y-milei-activa-gestos-de-balance-entre-las-tribus-libertarias/",
+      "tituloOriginal": "En el Gobierno creen que la interna se aplacó y Milei activa gestos de balance entre las tribus libertarias",
+      "tituloLimpio": "En el Gobierno creen que la interna se aplacó y Milei activa gestos de balance entre las tribus libertarias",
+      "resumen": "El Presidente se mostró en el balcón de la Casa Rosada con representantes de los diversos grupos oficialistas y convalida su nuevo rol de equilibrista. Los cambios en el Gabinete parecen haber apaciguado el revuelo que afectaba a la administración nacional.",
+      "porQueImporta": "Ofrece una perspectiva sobre la estabilidad política interna en Argentina, lo cual puede influir en el clima de negocios y la confianza de los inversores.",
+      "publicadoEn": "2026-07-10T14:26:46.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/4RCYVI2YPZCDTCUBEFLJIEIJNQ.jpeg?auth=09135ef99a6995959b43b89add47b50fb591eeb343e39927ef07ded49cdbb4ea&smart=true&width=3776&height=2354",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Política",
+        "Gobierno"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/el-documento-de-milei-que-fija-el-rumbo-oficial-y-explica-por-que-las-economias-desaparecen-nid09072026/",
+      "tituloOriginal": "El documento de Milei que fija el rumbo oficial y explica por qué las economías desaparecen",
+      "tituloLimpio": "El documento de Milei que fija el rumbo oficial y explica por qué las economías desaparecen",
+      "resumen": "El Presidente escribió junto a Demian Reidel un paper de 30 páginas en el que describió que, para una economía, existe una escala mínima viable; describe a la cultura del trabajo y la desregulación como dos fuerzas imprescindibles.",
+      "porQueImporta": "Proporciona una visión profunda de la ideología económica del gobierno actual, fundamental para entender las decisiones futuras que afectarán el mercado y las inversiones en Argentina.",
+      "publicadoEn": "2026-07-10T13:37:39.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/26D2XKPQPZFHPNEBMGUDWMORBM.jfif?auth=ba4be9db9696b3408f647ba8d085a2d6704c3fe57f7d689ad2288dff01a57990&smart=true&width=1920&height=1280",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Economía",
+        "Política",
+        "Milei"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "fuente": "Adweek",
+      "url": "https://www.adweek.com/commerce/the-maker-of-slim-jim-reddi-wip-and-swiss-miss-has-a-new-commerce-agency/",
+      "tituloOriginal": "The Maker of Slim Jim, Reddi-wip, and Swiss Miss Has a New Commerce Agency",
+      "tituloLimpio": "El fabricante de Slim Jim, Reddi-wip y Swiss Miss tiene una nueva agencia de comercio",
+      "resumen": "Conagra Brands, empresa matriz de un portafolio de más de 100 marcas de bienes de consumo envasados, seleccionó a Barrows, propiedad de WPP, como su nueva agencia de marketing de comercio.",
+      "porQueImporta": "Es una noticia de la industria del marketing que muestra movimientos estratégicos de grandes marcas, relevante para el interés de Guido en marketing y negocios.",
+      "publicadoEn": "2026-07-10T10:00:00.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "Negocios",
+        "Agencias",
+        "Conagra Brands"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-07-10T14:33:48.812Z"
+  }
+}
