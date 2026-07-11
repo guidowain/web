@@ -1,0 +1,511 @@
+{
+  "fecha": "2026-07-11",
+  "generadoEn": "2026-07-11T13:25:43.141Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "Esta semana, Meta retiró una función de IA controvertida en Instagram que permitía generar imágenes a partir de cuentas públicas, tras recibir críticas. En el ámbito de Apple, circulan rumores sobre un posible 'iPhone Ultra' y se anuncian ofertas en productos como AirPods y Apple Watch Ultra 3. En Argentina, el riesgo país alcanzó un nuevo mínimo en más de ocho años, mientras que el gobierno impulsa una reforma electoral y planes para el BCRA. También se advierte sobre la llegada de El Niño y la necesidad de medidas preventivas.",
+  "radarPersonal": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Rumores sobre el 'iPhone Ultra' y Apple TV, y la tercera beta de iOS 27",
+      "resumen": "El evento anual de iPhone está a dos meses, pero aún no hay claridad sobre la disponibilidad del nuevo 'iPhone Ultra' plegable. Podría haber una situación similar a la del iPhone X, con un lanzamiento en septiembre y pedidos anticipados seis semanas después.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/07/11/top-stories-iphone-ultra-apple-tv-rumors/"
+      ],
+      "score": 100,
+      "tags": [
+        "iphone",
+        "ultra",
+        "apple",
+        "rumores",
+        "ios"
+      ]
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "titulo": "Ofertas de fin de semana de Apple: AirPods, Apple Watch Ultra 3, cargadores MagSafe y Magic Mouse",
+      "resumen": "Se destacan ofertas en equipos y accesorios de Apple, incluyendo AirPods, Apple Watch Ultra 3, cargadores MagSafe y Magic Mouse.",
+      "categoria": "Apple",
+      "fuentes": [
+        "9to5Mac"
+      ],
+      "urls": [
+        "https://9to5mac.com/2026/07/11/weekend-apple-deals-airpods/"
+      ],
+      "score": 100,
+      "tags": [
+        "apple",
+        "ofertas",
+        "airpods",
+        "apple watch",
+        "magsafe"
+      ]
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "titulo": "El riesgo país al borde de los 400 puntos, un nuevo mínimo en más de ocho años",
+      "resumen": "El S&P Merval subió 2,4% y el indicador de riesgo país cayó a 402 unidades, un mínimo desde abril de 2018. No hubo operaciones en el mercado de cambios por el feriado parcial.",
+      "categoria": "Finance",
+      "fuentes": [
+        "Infobae Economia"
+      ],
+      "urls": [
+        "https://www.infobae.com/economia/2026/07/10/jornada-financiera-el-riesgo-pais-quedo-al-borde-de-los-400-puntos-y-toco-un-nuevo-minimo-en-mas-de-ocho-anos/"
+      ],
+      "score": 100,
+      "tags": [
+        "riesgo pais",
+        "mercado",
+        "argentina",
+        "finanzas"
+      ]
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "titulo": "Anthropic encontró un espacio oculto donde Claude procesa conceptos",
+      "resumen": "La empresa de IA Anthropic desarrolló una técnica que ofrece una visión más clara de lo que sucede dentro de los modelos de lenguaje grandes cuando responden preguntas o realizan tareas.",
+      "categoria": "AI",
+      "fuentes": [
+        "MIT Technology Review AI"
+      ],
+      "urls": [
+        "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/"
+      ],
+      "score": 100,
+      "tags": [
+        "anthropic",
+        "claude",
+        "ia",
+        "modelos de lenguaje"
+      ]
+    },
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Expansión de los agentes gestionados en la API de Gemini: tareas en segundo plano y más",
+      "resumen": "Se anuncian nuevas capacidades en los agentes gestionados de la API de Gemini para que los desarrolladores puedan construir agentes confiables y listos para producción.",
+      "categoria": "AI",
+      "fuentes": [
+        "Google AI Blog"
+      ],
+      "urls": [
+        "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/"
+      ],
+      "score": 100,
+      "tags": [
+        "gemini",
+        "api",
+        "desarrolladores",
+        "ia"
+      ]
+    }
+  ],
+  "loImportante": [
+    "Meta retiró una función de IA en Instagram que permitía crear imágenes a partir de cuentas públicas, tras recibir críticas.",
+    "El riesgo país en Argentina alcanzó un nuevo mínimo en más de ocho años, situándose cerca de los 400 puntos.",
+    "Apple podría lanzar un 'iPhone Ultra' plegable, aunque su disponibilidad inicial es incierta.",
+    "El gobierno argentino impulsa una reforma electoral y planes para el Banco Central de la República Argentina (BCRA).",
+    "Se advierte sobre la llegada del fenómeno El Niño y la necesidad de medidas preventivas en el campo argentino."
+  ],
+  "oportunidades": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "titulo": "Nuevas capacidades en la API de Gemini para desarrolladores",
+      "detalle": "La expansión de los agentes gestionados en la API de Gemini, incluyendo tareas en segundo plano, ofrece a los desarrolladores herramientas para construir agentes de IA más robustos y listos para producción.",
+      "acciones": [
+        "Explorar las nuevas funcionalidades de la API de Gemini para posibles integraciones en proyectos de IA.",
+        "Evaluar cómo estas capacidades pueden mejorar la automatización y el desarrollo de herramientas."
+      ]
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Productivity",
+      "titulo": "Ofertas de fin de semana en productos Apple",
+      "detalle": "Hay descuentos en AirPods, Apple Watch Ultra 3, cargadores MagSafe y Magic Mouse, lo que representa una oportunidad para adquirir hardware de Apple a precios reducidos.",
+      "acciones": [
+        "Revisar las ofertas disponibles para actualizar equipos o adquirir accesorios de Apple."
+      ]
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Investing",
+      "titulo": "Riesgo país en mínimo histórico en Argentina",
+      "detalle": "El riesgo país en Argentina se acerca a los 400 puntos, un mínimo en más de ocho años, lo que podría indicar una mejora en la percepción de los mercados sobre la economía local.",
+      "acciones": [
+        "Analizar el impacto de la baja del riesgo país en las inversiones locales y en ETFs con exposición a Argentina."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "titulo": "Retiro de función de IA controvertida en Instagram",
+      "detalle": "Meta retiró una función de IA que permitía generar imágenes a partir de contenido público de Instagram debido a la reacción negativa. Esto subraya los riesgos de la implementación de IA sin considerar la privacidad y el consentimiento.",
+      "mitigacion": "Mantenerse al tanto de las regulaciones y la ética en el uso de IA, especialmente en la generación de contenido y el uso de datos públicos."
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "titulo": "Meta desactiva función de 'deepfakes' en Instagram",
+      "detalle": "Meta desactivó la función que permitía a los usuarios crear imágenes de IA basadas en contenido de cuentas públicas de Instagram sin permiso, tras una fuerte reacción. Esto resalta la importancia de la privacidad y el consentimiento en el desarrollo de herramientas de IA.",
+      "mitigacion": "Asegurarse de que cualquier herramienta o proyecto de IA que involucre contenido generado o datos de usuarios respete estrictamente la privacidad y obtenga el consentimiento explícito."
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Market",
+      "titulo": "Pronósticos de El Niño y medidas preventivas",
+      "detalle": "La posible llegada de El Niño con lluvias excesivas en primavera y verano plantea la necesidad de medidas preventivas en el campo, lo que podría afectar la producción agrícola y la economía regional.",
+      "mitigacion": "Monitorear los pronósticos climáticos y sus posibles impactos en la economía local y las inversiones relacionadas con el sector agropecuario."
+    }
+  ],
+  "conexiones": [
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "Meta retira función de IA en Instagram tras críticas",
+      "historias": [
+        "the-verge-ai-aHR0cHM6Ly93d3cudGhl"
+      ],
+      "conclusion": "Ambas noticias confirman que Meta retiró una función de IA en Instagram que permitía generar imágenes a partir de cuentas públicas, debido a la reacción negativa. Esto subraya la sensibilidad en torno al uso de IA y la privacidad del contenido de los usuarios."
+    }
+  ],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "tituloOriginal": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
+      "tituloLimpio": "Google expande los agentes gestionados en la API de Gemini",
+      "resumen": "Se anuncian nuevas capacidades en los agentes gestionados de la API de Gemini para que los desarrolladores puedan construir agentes confiables y listos para producción.",
+      "porQueImporta": "Para Guido, que trabaja con IA, esta noticia es relevante porque indica avances en las herramientas de desarrollo de IA de Google, lo que podría ofrecer nuevas posibilidades para la automatización y la creación de arte con IA.",
+      "publicadoEn": "2026-07-07T08:54:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "gemini",
+        "desarrollo",
+        "automatización"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/07/11/top-stories-iphone-ultra-apple-tv-rumors/",
+      "tituloOriginal": "Top Stories: 'iPhone Ultra' and Apple TV Rumors, iOS 27 Beta 3, and More",
+      "tituloLimpio": "Rumores sobre el 'iPhone Ultra' y Apple TV, y la tercera beta de iOS 27",
+      "resumen": "El evento anual de iPhone está a dos meses, pero aún no hay claridad sobre la disponibilidad del nuevo 'iPhone Ultra' plegable. Podría haber una situación similar a la del iPhone X, con un lanzamiento en septiembre y pedidos anticipados seis semanas después.",
+      "porQueImporta": "Como usuario de Apple, Guido estará interesado en los rumores sobre nuevos productos como el 'iPhone Ultra' y las actualizaciones de iOS, que pueden influir en sus decisiones de compra y uso de tecnología.",
+      "publicadoEn": "2026-07-11T13:00:10.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "iphone",
+        "rumores",
+        "ios"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/plazo-fijo-cuanto-tengo-que-invertir-generar-50000-30-dias-n6297585",
+      "tituloOriginal": "Plazo fijo: cuánto tengo que invertir para generar $50.000 a 30 días",
+      "tituloLimpio": "Plazo fijo: cuánto invertir para generar $50.000 a 30 días",
+      "resumen": "Las tasas bancarias tienen un rendimiento muy bajo y los montos necesarios para alcanzar altas ganancias es muy elevado.",
+      "porQueImporta": "Guido, interesado en inversiones, necesita saber sobre el rendimiento de los plazos fijos en Argentina, especialmente si busca opciones para generar ingresos pasivos. La noticia destaca el bajo rendimiento actual.",
+      "publicadoEn": "2026-07-10T17:00:00.000Z",
+      "imagen": "https://media.ambito.com/p/2f6f426fb169d76427c9a36949d524d0/adjuntos/239/imagenes/042/544/0042544260/inversiones-mercados-finanzas-plazo-fijo.jpg",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "argentina",
+        "inversión",
+        "plazo fijo"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/heinz-calls-foul-on-small-condiment-packets-in-social-world-cup-effort/824750/",
+      "tituloOriginal": "Heinz calls foul on small condiment packets in social World Cup effort",
+      "tituloLimpio": "Heinz critica los paquetes pequeños de condimentos en una campaña social del Mundial",
+      "resumen": "Los paquetes de edición limitada 'Penalty Packets' aprovechan el interés en las tarjetas rojas y amarillas del fútbol antes de los cuartos de final.",
+      "porQueImporta": "Para Guido, interesado en marketing, esta noticia muestra una estrategia creativa de marca que capitaliza eventos deportivos globales, ofreciendo un ejemplo de cómo las empresas utilizan el marketing de contenidos y las ediciones limitadas.",
+      "publicadoEn": "2026-07-09T16:14:00.000Z",
+      "globalScore": 84,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "campaña",
+        "mundial",
+        "heinz"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "tituloOriginal": "Meta removes controversial AI feature on Instagram after backlash",
+      "tituloLimpio": "Meta retira función de IA controvertida en Instagram tras críticas",
+      "resumen": "La compañía dijo que su intención era proporcionar una herramienta creativa útil y dar a las personas control sobre si su contenido público podía ser referenciado de esta manera, pero escucharon que la función no cumplió con las expectativas, por lo que ya no está disponible.",
+      "porQueImporta": "Esta noticia es crucial para Guido, que trabaja con IA, ya que resalta los desafíos éticos y de privacidad en la implementación de funciones de IA, especialmente en plataformas masivas. Es un recordatorio de la importancia de la responsabilidad en el desarrollo de IA.",
+      "publicadoEn": "2026-07-10T23:55:07.000Z",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "meta",
+        "instagram",
+        "privacidad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+      "tituloOriginal": "Anthropic found a hidden space where Claude puzzles over concepts",
+      "tituloLimpio": "Anthropic encontró un espacio oculto donde Claude procesa conceptos",
+      "resumen": "La empresa de IA Anthropic desarrolló una técnica que ofrece una visión más clara de lo que sucede dentro de los modelos de lenguaje grandes cuando responden preguntas o realizan tareas.",
+      "porQueImporta": "Para Guido, interesado en IA aplicada, esta noticia es relevante porque muestra avances en la comprensión del funcionamiento interno de los modelos de lenguaje grandes, lo que podría llevar a mejoras en su desarrollo y aplicación.",
+      "publicadoEn": "2026-07-09T20:22:28.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "anthropic",
+        "claude",
+        "investigación"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/11/weekend-apple-deals-airpods/",
+      "tituloOriginal": "Apple weekend deals: AirPods, Apple Watch Ultra 3, MagSafe chargers, Magic Mouse, more",
+      "tituloLimpio": "Ofertas de fin de semana de Apple: AirPods, Apple Watch Ultra 3, cargadores MagSafe y Magic Mouse",
+      "resumen": "Se destacan ofertas en equipos y accesorios de Apple, incluyendo AirPods, Apple Watch Ultra 3, cargadores MagSafe y Magic Mouse.",
+      "porQueImporta": "Guido, como usuario de Apple, puede aprovechar estas ofertas para adquirir o actualizar sus dispositivos y accesorios, lo que es directamente útil para él.",
+      "publicadoEn": "2026-07-11T12:15:18.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "ofertas",
+        "airpods",
+        "apple watch"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/07/11/apples-100-tariff-exemption-may-have-been-helped-by-intel-supply-deal?utm_source=rss",
+      "tituloOriginal": "Apple's 100% tariff exemption may have been helped by Intel supply deal",
+      "tituloLimpio": "La exención arancelaria del 100% de Apple podría haber sido ayudada por un acuerdo de suministro con Intel",
+      "resumen": "Apple podría haber sido impulsada a un acuerdo para contratar a Intel para la producción de chips, lo que se afirma que persuadió al Presidente Trump para que le diera una exención de aranceles del 100% sobre semiconductores.",
+      "porQueImporta": "Esta noticia es relevante para Guido por su interés en Apple y en el panorama tecnológico global. Muestra cómo las decisiones políticas y los acuerdos de suministro impactan en la cadena de producción de una de las empresas más grandes del mundo.",
+      "publicadoEn": "2026-07-11T12:56:40.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "intel",
+        "aranceles",
+        "negocios"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-sec-settlement-raises-164700167.html",
+      "tituloOriginal": "Elon Musk SEC settlement raises 'red flags,' judge says",
+      "tituloLimpio": "El acuerdo de Elon Musk con la SEC genera 'banderas rojas', según un juez",
+      "resumen": "Un juez señala 'banderas rojas' en el acuerdo de Elon Musk con la SEC.",
+      "porQueImporta": "Para Guido, interesado en finanzas y mercados, esta noticia es relevante por el impacto que las acciones de figuras como Elon Musk y las decisiones regulatorias pueden tener en el mercado y en empresas de alto perfil.",
+      "publicadoEn": "2026-07-10T16:47:00.000Z",
+      "imagen": "https://media.zenfs.com/en/thestreet_881/e5a48170b0370e8abe0943f7587641df",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "elon musk",
+        "sec",
+        "mercado"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-big-earnings-market-sets-up-nvidia-micron-sandisk-robinhood-spacex/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Dow Jones Futures: Watch Nvidia, Micron, Sandisk, Robinhood As Market Sets Up; Big Earnings Due",
+      "tituloLimpio": "Futuros del Dow Jones: atención a Nvidia, Micron, Sandisk, Robinhood; se esperan grandes ganancias",
+      "resumen": "Se espera que el mercado se prepare para grandes ganancias, con atención en Nvidia, Micron, Sandisk y Robinhood.",
+      "porQueImporta": "Guido, interesado en inversiones y ETFs, encontrará útil esta información sobre las empresas a observar en el mercado de futuros, lo que puede influir en sus decisiones de inversión.",
+      "publicadoEn": "2026-07-11T12:49:37.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/5e7ff7b358feaef0efdf2c6d084d69bf",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "mercado",
+        "inversión",
+        "nvidia",
+        "etfs"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/11/bitcoin-treasury-company-empery-digital-sold-about-half-of-btc-stack",
+      "tituloOriginal": "Bitcoin treasury company Empery Digital sold about half of its BTC stack",
+      "tituloLimpio": "La empresa de tesorería de Bitcoin Empery Digital vendió cerca de la mitad de su stack de BTC",
+      "resumen": "Es una señal de los tiempos, ya que la empresa con problemas cambia sus ambiciones de tesorería de bitcoin por centros de datos de IA.",
+      "porQueImporta": "Esta noticia es relevante para Guido por su interés en inversiones y IA. Muestra cómo una empresa está pivotando de Bitcoin a centros de datos de IA, lo que podría indicar una tendencia en el mercado y oportunidades en el sector de la IA.",
+      "publicadoEn": "2026-07-11T12:25:05.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/f4c321fb46fab8f95fc281073bbf1a2544f78eb7-2328x1492.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "bitcoin",
+        "ia",
+        "inversión",
+        "mercado"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/07/10/jornada-financiera-el-riesgo-pais-quedo-al-borde-de-los-400-puntos-y-toco-un-nuevo-minimo-en-mas-de-ocho-anos/",
+      "tituloOriginal": "Jornada financiera: el riesgo país quedó al borde de los 400 puntos y tocó un nuevo mínimo en más de ocho años",
+      "tituloLimpio": "Jornada financiera: el riesgo país al borde de los 400 puntos, un nuevo mínimo en más de ocho años",
+      "resumen": "El S&P Merval subió 2,4% y el indicador de riesgo país cayó a 402 unidades, un mínimo desde abril de 2018. Por el feriado parcial no hubo operaciones en el mercado de cambios. Los títulos bancarios lideraron la tendencia de los activos argentinos.",
+      "porQueImporta": "Esta es una noticia clave para Guido, ya que el riesgo país es un indicador importante de la salud económica de Argentina y puede influir en sus decisiones de inversión, especialmente en ETFs y mercados locales.",
+      "publicadoEn": "2026-07-11T13:15:18.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/EBECYUDEQ5ABLPXZOEWJQLXGCE.JPG?auth=048813b701791de9f038d0822204386c8816838625192f08d66d637cd1a49412&smart=true&width=5400&height=3600",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "finanzas",
+        "riesgo país",
+        "mercado"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/07/11/los-planes-politicos-en-torno-a-la-reforma-del-bcra-tiempos-consensos-y-especulaciones-del-gobierno/",
+      "tituloOriginal": "Los planes políticos en torno a la reforma del BCRA: tiempos, consensos y especulaciones del Gobierno",
+      "tituloLimpio": "Los planes políticos en torno a la reforma del BCRA: tiempos, consensos y especulaciones del Gobierno",
+      "resumen": "Milei pone toda su energía en la iniciativa y define el anuncio como “una reforma estructural”. Ingreso probable por el Senado, el rol de Bullrich y las dudas sobre los apoyos para el “shutdown”.",
+      "porQueImporta": "Para Guido, residente en Argentina, los planes de reforma del BCRA son fundamentales, ya que pueden tener un impacto directo en la economía, la inflación y el valor de la moneda, afectando sus finanzas personales y decisiones de inversión.",
+      "publicadoEn": "2026-07-11T13:07:24.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/QMBE2QOWCVEWDB47FVKWFRPUVU.jpg?auth=a4e49ee7378adedcb9cb633986399fccc26102a870fadfeec64db13e507f0c11&smart=true&width=1280&height=720",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "política",
+        "economía",
+        "bcra"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/campo/ante-pronosticos-de-el-nino-proponen-tomar-medidas-preventivas-nid11072026/",
+      "tituloOriginal": "Preocupación: se viene El Niño y proponen tomar medidas preventivas",
+      "tituloLimpio": "Preocupación: se viene El Niño y proponen tomar medidas preventivas",
+      "resumen": "Las posibles lluvias excesivas en la primavera y el verano plantean la necesidad de arreglar caminos y revisar los planes de siembra.",
+      "porQueImporta": "Esta noticia es importante para Guido por su impacto potencial en la economía argentina, especialmente en el sector agropecuario, que puede influir en la inflación y en el rendimiento de ciertas inversiones.",
+      "publicadoEn": "2026-07-11T10:50:05.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/YBEGK2NUYRAYNB4NCKD2KFKSTQ.jpg?auth=f7bad2b327190aa41df5eb9121f46c3cc4b7f016ab24d0bfcfd2c518982d3a9a&smart=true&width=2000&height=1333",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "clima",
+        "economía",
+        "prevención"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Politica",
+      "url": "https://www.lanacion.com.ar/politica/milei-viaja-para-apoyar-a-flavio-bolsonaro-cuando-su-padre-pelea-por-salir-en-libertad-nid10072026/",
+      "tituloOriginal": "Milei viaja para apoyar a Flávio Bolsonaro cuando su padre pelea por salir en libertad",
+      "tituloLimpio": "Milei viaja para apoyar a Flávio Bolsonaro",
+      "resumen": "El mandatario asistirá el 25 de julio, en San Pablo, a la convención que lanzará la candidatura de su aliado regional; se especula con que se traslade a Brasilia y visite al expresidente, en prisión domiciliaria.",
+      "porQueImporta": "Para Guido, residente en Argentina, las acciones y alianzas internacionales del presidente Milei son relevantes, ya que pueden tener implicaciones políticas y económicas para el país.",
+      "publicadoEn": "2026-07-11T06:41:12.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/IMT6TMY5V5APJBFGQ5MZRZKZVM.jpg?auth=b267c41f013b7009a042b6fdf69452cfb18c46c7e557c71d40c2c1b1e714d186&smart=true&width=2000&height=1333",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "política",
+        "milei",
+        "brasil"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "fuente": "Adweek",
+      "url": "https://www.adweek.com/creativity/anthropic-confronts-the-hard-questions-about-ai-responsibility/",
+      "tituloOriginal": "Anthropic Confronts the Hard Questions About AI Responsibility",
+      "tituloLimpio": "Anthropic aborda las preguntas difíciles sobre la responsabilidad de la IA",
+      "resumen": "Una nueva película es lo último de la campaña 'Keep Thinking' de la compañía.",
+      "porQueImporta": "Para Guido, que trabaja con IA, es importante estar al tanto de cómo las empresas líderes en IA abordan la responsabilidad y la ética, ya que esto influye en el desarrollo y la percepción pública de la tecnología.",
+      "publicadoEn": "2026-07-10T16:54:33.000Z",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "anthropic",
+        "ética",
+        "marketing"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-07-11T13:25:43.141Z"
+  }
+}
