@@ -1,290 +1,254 @@
 {
   "fecha": "2026-07-12",
-  "generadoEn": "2026-07-12T13:26:04.217Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "En el ámbito de la IA, Google expande las capacidades de los agentes gestionados en su API Gemini, mientras OpenAI busca integrar ChatGPT más profundamente en los hogares con un enfoque en familias. Anthropic, por su parte, logró una visión más clara de cómo sus modelos de lenguaje procesan información. En Argentina, se desmiente un mito sobre el impacto negativo del envejecimiento poblacional en la economía, y el gobierno se acerca a una nueva colocación de deuda internacional. Apple presenta novedades en accesorios Anker y se debate sobre la simplificación de la multitarea en iPadOS 27. En finanzas, el mercado de stablecoins se redujo, aunque analistas no ven motivo de alarma.",
+  "generadoEn": "2026-07-12T17:57:53.148Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "El panorama tecnológico se mueve rápido con Apple acelerando su desarrollo de chips M7 enfocados en IA y expandiendo 'Tap to Pay' en sus tiendas. En el ámbito de la IA, Google mejora sus Managed Agents en Gemini API y Meta introduce etiquetas para anuncios generados por IA. OpenAI busca expandirse a hogares y familias con ChatGPT. En Argentina, la economía muestra una paradoja con mejora macro pero aumento de la morosidad, y se anticipa una aceleración de importaciones. La política local sigue con tensiones por las PASO y la visita de Milei a Bolsonaro. El mercado de stablecoins experimenta una contracción, aunque analistas no ven motivo de alarma.",
   "radarPersonal": [
     {
-      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "titulo": "Google expande las capacidades de los agentes gestionados en la API de Gemini",
-      "resumen": "Google anuncia nuevas capacidades en los agentes gestionados de la API de Gemini para que los desarrolladores puedan construir agentes confiables y listos para producción.",
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "titulo": "La era del chip M6 de Apple duraría solo seis meses por el impulso del M7 enfocado en IA",
+      "resumen": "Se rumorea que la era del procesador M6 durará solo seis meses, ya que Apple se enfoca en el M7 con IA.",
+      "categoria": "Apple",
+      "fuentes": [
+        "AppleInsider"
+      ],
+      "urls": [
+        "https://appleinsider.com/articles/26/07/12/m6-era-will-last-just-six-months-as-apple-pushes-for-ai-focused-m7?utm_source=rss"
+      ],
+      "score": 100,
+      "tags": [
+        "Apple",
+        "AI",
+        "Chips"
+      ]
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "titulo": "El chip M7 Ultra podría tener hasta 1.5TB de RAM, igualando al Mac Pro de 2019",
+      "resumen": "Según un informe, el próximo chip M7 Ultra de Apple podría incluir hasta 1.5TB de RAM, igualando la configuración de RAM más alta del Mac Pro de 2019.",
+      "categoria": "Apple",
+      "fuentes": [
+        "9to5Mac"
+      ],
+      "urls": [
+        "https://9to5mac.com/2026/07/12/m7-ultra-mac-studio-to-support-up-to-1-5-tb-unified-memory/"
+      ],
+      "score": 100,
+      "tags": [
+        "Apple",
+        "Hardware",
+        "RAM"
+      ]
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "El programa fallido de autos autónomos de Apple dejó un legado de potentes chips de IA",
+      "resumen": "El programa de autos autónomos de Apple no prosperó, pero pudo haber sido lo que hizo que los chips de la compañía fueran potentes en IA.",
       "categoria": "AI",
       "fuentes": [
-        "Google AI Blog"
+        "The Verge AI"
       ],
       "urls": [
-        "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/"
+        "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra"
       ],
       "score": 100,
       "tags": [
-        "gemini",
-        "api",
-        "desarrolladores",
-        "agentes"
+        "Apple",
+        "AI",
+        "Chips"
       ]
     },
     {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "titulo": "OpenAI apuesta por las familias con ChatGPT",
-      "resumen": "ChatGPT busca un gerente de producto dedicado a crear experiencias para familias, cuidadores y adultos mayores.",
-      "categoria": "AI",
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "titulo": "Meta agrega etiquetas de divulgación actualizadas para anuncios generados por IA",
+      "resumen": "Las etiquetas actualizadas proporcionarán más información sobre qué promociones incluyen elementos generados por IA, ya sea de Meta o de herramientas de IA externas.",
+      "categoria": "Marketing",
       "fuentes": [
-        "TechCrunch AI"
+        "Marketing Dive"
       ],
       "urls": [
-        "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/"
+        "https://www.marketingdive.com/news/sociable-meta-adds-updated-disclosure-tags-for-ai-generated-ads/824833/"
       ],
       "score": 100,
       "tags": [
-        "openai",
-        "chatgpt",
-        "familias",
-        "hogares"
-      ]
-    },
-    {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "titulo": "Anthropic encontró un espacio oculto donde Claude procesa conceptos",
-      "resumen": "La firma de IA Anthropic desarrolló una técnica que le dio una visión más clara de lo que sucede dentro de los grandes modelos de lenguaje al responder preguntas o realizar tareas.",
-      "categoria": "AI",
-      "fuentes": [
-        "MIT Technology Review AI"
-      ],
-      "urls": [
-        "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/"
-      ],
-      "score": 100,
-      "tags": [
-        "anthropic",
-        "claude",
-        "modelos de lenguaje",
-        "investigación"
-      ]
-    },
-    {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "Desmienten un mito sobre el impacto del envejecimiento poblacional en la economía argentina",
-      "resumen": "A pesar de la caída de la natalidad en los últimos 70 años, se registró un aumento en el PBI por cápita. Apuntan al efecto de la tecnología.",
-      "categoria": "Argentina",
-      "fuentes": [
-        "Ambito"
-      ],
-      "urls": [
-        "https://www.ambito.com/economia/envejecimiento-poblacional-desmienten-un-mito-su-impacto-la-n6298525"
-      ],
-      "score": 100,
-      "tags": [
-        "argentina",
-        "economía",
-        "población",
-        "tecnología"
-      ]
-    },
-    {
-      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
-      "titulo": "El Gobierno argentino se acerca a su primera colocación de deuda internacional en 8 años",
-      "resumen": "La posibilidad de salir al mercado internacional se monitorea todo el tiempo en el equipo económico, pero falta que bajen las tasas en Estados Unidos.",
-      "categoria": "Argentina",
-      "fuentes": [
-        "Infobae Economia"
-      ],
-      "urls": [
-        "https://www.infobae.com/economia/2026/07/12/al-ritmo-de-la-baja-del-riesgo-pais-el-gobierno-se-acerca-a-su-primera-colocacion-de-deuda-internacional-en-8-anos/"
-      ],
-      "score": 100,
-      "tags": [
-        "argentina",
-        "deuda",
-        "economía",
-        "mercados"
+        "Marketing",
+        "AI",
+        "Publicidad"
       ]
     }
   ],
   "loImportante": [
-    "Google está mejorando su API de Gemini para desarrolladores, lo que podría significar herramientas de IA más robustas y confiables.",
-    "OpenAI busca expandir ChatGPT a un público familiar, abriendo nuevas posibilidades para la IA en el hogar.",
-    "Investigadores de Anthropic lograron una visión más profunda del funcionamiento interno de los modelos de lenguaje, lo que podría llevar a avances en la comprensión y desarrollo de la IA.",
-    "En Argentina, el impacto del envejecimiento poblacional en la economía podría no ser tan negativo como se pensaba, gracias a la tecnología.",
-    "El gobierno argentino se prepara para una posible colocación de deuda internacional, lo que podría impactar en la economía local."
+    "Apple está acelerando el desarrollo de sus chips M7 con un fuerte enfoque en IA, lo que podría significar una rápida evolución en el hardware de la marca.",
+    "La expansión de 'Tap to Pay' en las tiendas Apple podría indicar una mayor adopción de esta tecnología de pagos sin contacto, relevante para el ecosistema Apple.",
+    "En Argentina, la mejora macroeconómica no se traduce en una mejor capacidad de pago, con un aumento de la morosidad crediticia que los bancos y fintechs monitorean.",
+    "Meta implementa nuevas etiquetas para identificar anuncios generados por IA, lo que impacta en la transparencia y las prácticas de marketing digital.",
+    "OpenAI busca expandir ChatGPT a un público familiar, lo que podría abrir nuevas avenidas para la aplicación de IA en la vida cotidiana."
   ],
   "oportunidades": [
     {
-      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
       "categoria": "AI",
-      "titulo": "Desarrollo de agentes de IA más robustos con la API de Gemini",
-      "detalle": "Las nuevas capacidades en los agentes gestionados de la API de Gemini permiten a los desarrolladores construir agentes de IA más confiables y listos para producción. Esto abre la puerta a la creación de soluciones de automatización más complejas y estables.",
+      "titulo": "Apple acelera el desarrollo de chips M7 enfocados en IA",
+      "detalle": "La rápida transición de Apple hacia el chip M7 con un fuerte enfoque en IA sugiere una inversión significativa en capacidades de procesamiento de IA en sus dispositivos. Esto podría abrir nuevas posibilidades para aplicaciones y flujos de trabajo de IA en el ecosistema Apple.",
       "acciones": [
-        "Explorar las nuevas funcionalidades de la API de Gemini para proyectos de automatización.",
-        "Considerar la aplicación de estos agentes en flujos de trabajo de retoque fotográfico o arte con IA."
+        "Monitorear los anuncios de Apple sobre el M7 y sus capacidades de IA.",
+        "Evaluar cómo las mejoras en el hardware de IA de Apple pueden potenciar herramientas de retoque fotográfico y arte con IA."
       ]
     },
     {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "categoria": "AI",
-      "titulo": "Nuevas oportunidades de mercado para IA en el hogar con ChatGPT",
-      "detalle": "OpenAI está invirtiendo en el desarrollo de experiencias de ChatGPT para familias, cuidadores y adultos mayores. Esto indica una tendencia hacia la integración de la IA en la vida cotidiana y el hogar.",
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "Meta implementa etiquetas de divulgación para anuncios generados por IA",
+      "detalle": "La introducción de etiquetas para anuncios generados por IA por parte de Meta ofrece mayor transparencia. Esto puede ser una oportunidad para los creadores de contenido y publicistas que usan IA para destacar la autenticidad o la naturaleza de sus campañas.",
       "acciones": [
-        "Analizar cómo la IA puede ofrecer soluciones para el hogar o la familia, incluso en el ámbito del arte o la productividad personal.",
-        "Observar el desarrollo de productos y servicios de IA orientados al consumidor final."
+        "Adaptar estrategias de marketing para incorporar las nuevas etiquetas de IA de Meta.",
+        "Explorar cómo la transparencia sobre el uso de IA en anuncios puede generar confianza con la audiencia."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "categoria": "AI",
-      "titulo": "Creciente resistencia a los centros de datos de IA",
-      "detalle": "La construcción de centros de datos de IA enfrenta una creciente oposición, lo que podría generar desafíos en la infraestructura necesaria para el desarrollo y escalado de la inteligencia artificial.",
-      "mitigacion": "Monitorear las noticias sobre regulaciones y aceptación social de la infraestructura de IA, ya que podría afectar la disponibilidad y costos de servicios en la nube para proyectos de IA."
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Market",
+      "titulo": "Aumento de la morosidad crediticia en Argentina a pesar de la mejora macro",
+      "detalle": "La paradoja de una macroeconomía que mejora mientras la morosidad crece indica una debilidad persistente en la capacidad de pago de los consumidores y empresas. Esto podría afectar la estabilidad financiera y el acceso al crédito en el país.",
+      "mitigacion": "Mantener una gestión financiera prudente y monitorear de cerca los indicadores económicos locales. Evaluar el impacto en inversiones y flujos de efectivo."
     },
     {
       "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Market",
       "titulo": "Contracción del mercado de stablecoins",
-      "detalle": "La capitalización de mercado de las stablecoins se redujo en 10 mil millones de dólares desde mayo, con una caída de 7.7 mil millones solo en junio. Aunque un analista no ve motivo de pánico, es una señal de volatilidad en el sector cripto.",
-      "mitigacion": "Mantenerse informado sobre las tendencias del mercado de criptomonedas y stablecoins. Evaluar el riesgo asociado a la inversión en activos digitales y diversificar la cartera."
+      "detalle": "La capitalización de mercado de las stablecoins se redujo en 10 mil millones de dólares desde mayo, con una caída de 7.7 mil millones solo en junio. Aunque un analista no ve motivo de pánico, una contracción sostenida podría indicar volatilidad en el mercado de criptomonedas.",
+      "mitigacion": "Revisar la exposición a activos digitales y stablecoins. Diversificar inversiones y considerar la volatilidad inherente a este tipo de mercados."
     }
   ],
   "conexiones": [
     {
-      "id": "anthropic-ai-responsibility",
-      "titulo": "La responsabilidad de la IA, un tema recurrente",
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "El legado de los chips de IA de Apple y la aceleración del M7",
       "historias": [
-        "Anthropic encontró un espacio oculto donde Claude procesa conceptos",
-        "Anthropic aborda las preguntas difíciles sobre la responsabilidad de la IA"
+        "El programa fallido de autos autónomos de Apple dejó un legado de potentes chips de IA.",
+        "La era del chip M6 de Apple duraría solo seis meses por el impulso del M7 enfocado en IA.",
+        "El chip M7 Ultra podría tener hasta 1.5TB de RAM, igualando al Mac Pro de 2019."
       ],
-      "conclusion": "La investigación de Anthropic sobre el funcionamiento interno de sus modelos de lenguaje (Claude) y su campaña sobre la responsabilidad de la IA demuestran un compromiso creciente de las empresas del sector con la transparencia y la ética en el desarrollo de la inteligencia artificial. Entender cómo piensan las IA es clave para asegurar su uso responsable."
-    },
-    {
-      "id": "argentina-politica-diplomacia",
-      "titulo": "Dichos de vicegobernadora de Mendoza generan conflicto diplomático",
-      "historias": [
-        "La Embajada de Francia declaró “persona no grata” a Hebe Casado, vicegobernadora de Mendoza, por racismo",
-        "La Embajada de Francia repudió los dichos de Hebe Casado contra el equipo galo"
-      ],
-      "conclusion": "Los comentarios de la vicegobernadora de Mendoza sobre el equipo de fútbol francés generaron un repudio oficial de la Embajada de Francia, escalando a un incidente diplomático. Esto subraya la importancia de la comunicación pública y el impacto de las declaraciones de funcionarios en las relaciones internacionales."
+      "conclusion": "El enfoque de Apple en la IA no es nuevo, sino que se remonta a sus esfuerzos en autos autónomos, lo que sentó las bases para sus actuales y potentes chips de IA. La rápida transición al M7 y sus impresionantes capacidades de RAM demuestran una estrategia agresiva para liderar en el procesamiento de IA en hardware, lo que impactará directamente en el rendimiento de herramientas de IA y aplicaciones en el ecosistema Apple."
     }
   ],
   "noticias": [
     {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "tituloOriginal": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
+      "tituloLimpio": "Google expande los Managed Agents en la API de Gemini",
+      "resumen": "Se anuncian nuevas capacidades en los Managed Agents de la API de Gemini para que los desarrolladores puedan crear agentes confiables y listos para producción.",
+      "porQueImporta": "Para Guido, que trabaja con arte e IA, las mejoras en la API de Gemini de Google significan herramientas más robustas y confiables para desarrollar y automatizar proyectos de IA, lo que puede optimizar sus flujos de trabajo.",
+      "publicadoEn": "2026-07-07T08:54:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Desarrollo",
+        "Automatización"
+      ],
+      "tambienVistoEn": []
+    },
+    {
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Apple",
       "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/07/11/summer-anker-accessories-low-prices/",
-      "tituloOriginal": "Score Summer-Ready Anker Accessories at Rare Low Prices This Weekend",
-      "tituloLimpio": "Accesorios Anker con descuentos importantes este fin de semana",
-      "resumen": "La estación de carga inalámbrica 3 en 1 Anker Prime bajó a 99.74 dólares en Amazon, igualando su precio más bajo histórico.",
-      "porQueImporta": "Guido, si estás buscando accesorios para tus dispositivos Apple, esta es una oportunidad para conseguir productos Anker a buen precio. Aunque la oferta es en Amazon, es un producto que se puede conseguir en Argentina a través de importadores o envíos internacionales, y el precio de referencia es útil.",
-      "publicadoEn": "2026-07-11T14:54:47.000Z",
-      "globalScore": 98,
-      "personalScore": 100,
-      "tags": [
-        "anker",
-        "accesorios",
-        "apple",
-        "oferta"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
-      "categoria": "Finance",
-      "fuente": "Sherwood",
-      "url": "https://sherwood.news/world/the-most-watched-soccer-match-in-us-history-got-less-than-a-third-of-the-views-the-super-bowl-did/",
-      "tituloOriginal": "The most watched soccer match in US history got less than a third of the views the Super Bowl did",
-      "tituloLimpio": "El partido de fútbol más visto en la historia de EE.UU. tuvo menos de un tercio de la audiencia del Super Bowl",
-      "resumen": "El partido de la selección de fútbol de EE.UU. contra Bélgica alcanzó 40 millones de espectadores promedio, según estimaciones iniciales.",
-      "porQueImporta": "Interesante para entender las dinámicas de audiencia y marketing deportivo en un mercado clave como EE.UU. Puede dar ideas sobre cómo se valoran los eventos masivos y la penetración de diferentes deportes.",
-      "publicadoEn": "2026-07-10T17:51:27.000Z",
-      "imagen": "https://sherwoodnews.imgix.net/WC%20Viewership.png?w=1600",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "marketing",
-        "audiencia",
-        "deportes",
-        "eeuu"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
-      "categoria": "Marketing",
-      "fuente": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/heinz-calls-foul-on-small-condiment-packets-in-social-world-cup-effort/824750/",
-      "tituloOriginal": "Heinz calls foul on small condiment packets in social World Cup effort",
-      "tituloLimpio": "Heinz critica los paquetes pequeños de condimentos en una campaña social por el Mundial",
-      "resumen": "Los paquetes de edición limitada 'Penalty Packets' aprovechan el interés en las tarjetas rojas y amarillas del fútbol antes de los cuartos de final.",
-      "porQueImporta": "Un ejemplo creativo de marketing de guerrilla y cómo una marca aprovecha un evento global para generar conversación y visibilidad. Puede inspirar ideas para campañas de marketing.",
-      "publicadoEn": "2026-07-09T16:14:00.000Z",
-      "globalScore": 84,
-      "personalScore": 100,
-      "tags": [
-        "marketing",
-        "campaña",
-        "mundial",
-        "heinz"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
-      "categoria": "Apple",
-      "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/07/11/ipad-pro-needs-simpler-multitasking-with-ipados-27/",
-      "tituloOriginal": "iPadOS 27 still needs simpler multitasking, here’s what I’d like to see",
-      "tituloLimpio": "iPadOS 27 necesita una multitarea más simple",
-      "resumen": "Apple reinventó la multitarea en el iPad con la introducción de ventanas en iPadOS 26, lo que inicialmente eliminó versiones más simples como Split View y Slide Over.",
-      "porQueImporta": "Como usuario de Apple, es relevante para Guido conocer las discusiones sobre la usabilidad del iPad. Una multitarea más intuitiva podría mejorar significativamente la productividad en el dispositivo.",
-      "publicadoEn": "2026-07-11T21:05:01.000Z",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "apple",
-        "ipados",
-        "multitarea",
-        "productividad"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
-      "categoria": "Apple",
-      "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/07/12/crime-blotter-stolen-ipad-leads-to-arrest-of-accused-bank-robber?utm_source=rss",
-      "tituloOriginal": "Crime blotter: Stolen iPad leads to arrest of accused bank robber",
-      "tituloLimpio": "iPad robado lleva al arresto de un presunto ladrón de bancos",
-      "resumen": "Una mujer es mordida después de que le roban su iPad, decenas de iPads son robados de una escuela primaria y un hombre es arrestado por vender AirPods falsos a la policía.",
-      "porQueImporta": "Aunque es una noticia policial, destaca la omnipresencia de los productos Apple y cómo la tecnología puede jugar un rol en la resolución de crímenes. Es un dato curioso sobre el impacto de estos dispositivos.",
-      "publicadoEn": "2026-07-12T11:41:31.000Z",
+      "url": "https://www.macrumors.com/2026/07/12/apple-stores-to-expand-tap-to-pay-on-iphone/",
+      "tituloOriginal": "Apple Stores to Expand Use of 'Tap to Pay on iPhone'",
+      "tituloLimpio": "Las tiendas Apple expandirán el uso de 'Tap to Pay en iPhone'",
+      "resumen": "Apple comenzó a implementar 'Tap to Pay en iPhone' en 2022, un sistema que permite a los comerciantes aceptar pagos sin contacto en un iPhone sin hardware de punto de venta.",
+      "porQueImporta": "Aunque es una noticia sobre las tiendas Apple, la expansión de 'Tap to Pay' es relevante porque muestra la consolidación de una tecnología de pagos que podría tener un impacto global y facilitar transacciones, incluso en mercados como el argentino si se adopta más ampliamente.",
+      "publicadoEn": "2026-07-12T16:11:31.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "apple",
-        "ipad",
-        "seguridad",
-        "noticia"
+        "Apple",
+        "Pagos",
+        "Tecnología"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
-      "categoria": "Finance",
-      "fuente": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/big-fast-food-burger-chain-164700124.html",
-      "tituloOriginal": "Big fast-food burger chain franchisee files Chapter 11 bankruptcy",
-      "tituloLimpio": "Franquiciado de una gran cadena de hamburguesas de comida rápida se declara en bancarrota",
-      "resumen": "Un franquiciado de una gran cadena de hamburguesas de comida rápida se declara en bancarrota bajo el Capítulo 11.",
-      "porQueImporta": "Una señal de las dificultades económicas que pueden enfrentar incluso grandes franquicias. Es relevante para entender el clima de negocios y las presiones en el sector de servicios.",
-      "publicadoEn": "2026-07-11T16:47:00.000Z",
-      "imagen": "https://media.zenfs.com/en/thestreet_881/58fc6ddeab6144f5024c84a087678c48",
-      "globalScore": 92,
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/la-paradoja-del-credito-mejora-la-macro-pero-crece-la-morosidad-n6298576",
+      "tituloOriginal": "La paradoja del crédito: mejora la macro, pero crece la morosidad",
+      "tituloLimpio": "La paradoja del crédito en Argentina: mejora la macro, pero crece la morosidad",
+      "resumen": "La desaceleración de la inflación y la estabilidad cambiaria no alcanzan para revertir el deterioro en la capacidad de pago. Bancos y fintechs siguen de cerca la evolución de la mora.",
+      "porQueImporta": "Esta noticia es crucial para Guido por su interés en finanzas e inversión en Argentina. La morosidad creciente, a pesar de la mejora macro, indica riesgos en el sector financiero y puede influir en decisiones de inversión o en la disponibilidad de crédito.",
+      "publicadoEn": "2026-07-12T13:33:00.000Z",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "finanzas",
-        "negocios",
-        "bancarrota",
-        "comida rápida"
+        "Argentina",
+        "Finanzas",
+        "Economía",
+        "Inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "tituloOriginal": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "tituloLimpio": "OpenAI apuesta por las familias a medida que ChatGPT se adentra en los hogares",
+      "resumen": "ChatGPT está contratando un gerente de producto dedicado a crear experiencias para familias, cuidadores y adultos mayores, según una oferta de trabajo.",
+      "porQueImporta": "La expansión de ChatGPT a un público familiar y doméstico muestra una tendencia de la IA hacia la integración en la vida cotidiana, lo que puede generar nuevas oportunidades para aplicaciones y servicios basados en IA.",
+      "publicadoEn": "2026-07-11T14:13:00.000Z",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "ChatGPT",
+        "Hogares"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+      "tituloOriginal": "Anthropic found a hidden space where Claude puzzles over concepts",
+      "tituloLimpio": "Anthropic encontró un espacio oculto donde Claude reflexiona sobre conceptos",
+      "resumen": "La firma de IA Anthropic desarrolló una técnica que le dio la visión más clara hasta ahora de lo que sucede dentro de los grandes modelos de lenguaje mientras responden preguntas o realizan tareas.",
+      "porQueImporta": "Esta noticia es relevante para entender el funcionamiento interno de los modelos de IA, algo fundamental para Guido en su trabajo con arte e IA. Comprender cómo 'piensan' estas herramientas puede inspirar nuevas formas de interacción o desarrollo.",
+      "publicadoEn": "2026-07-09T20:22:28.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Investigación",
+        "Modelos de Lenguaje"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/12/stablecoin-market-cap-has-shrunk-by-usd10-billion-since-may-but-analyst-sees-no-reason-to-panic",
+      "tituloOriginal": "Stablecoin market cap has shrunk by $10 billion since May, but analyst sees no reason to panic",
+      "tituloLimpio": "La capitalización de mercado de las stablecoins se redujo en 10 mil millones de dólares desde mayo",
+      "resumen": "El mercado se redujo en 7.7 mil millones de dólares solo en junio, la mayor cantidad en dólares desde la caída de Terra-Luna en mayo de 2022, pero un analista no ve motivo de pánico.",
+      "porQueImporta": "Para Guido, interesado en inversión y mercados, la contracción del mercado de stablecoins es una señal importante de la dinámica en el espacio de las criptomonedas. Aunque no hay pánico, es un dato a considerar para cualquier estrategia de inversión en activos digitales.",
+      "publicadoEn": "2026-07-12T13:00:00.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/62ae8ce6306c7fdf4b52e0a884495d92c7e20a82-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "Criptomonedas",
+        "Inversión"
       ],
       "tambienVistoEn": []
     },
@@ -294,60 +258,38 @@
       "fuente": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/pakistan-crypto-chief-dialogue-islamic-ruling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "tituloOriginal": "Pakistan crypto chief seeks dialogue after scholar rules against crypto payments",
-      "tituloLimpio": "Jefe de cripto de Pakistán busca diálogo tras fallo islámico contra pagos con criptomonedas",
-      "resumen": "El regulador de activos virtuales de Pakistán pidió un diálogo continuo sobre el tratamiento de los activos digitales después de reunirse con un erudito islámico que respaldó un fallo contra las compras realizadas con criptomonedas.",
-      "porQueImporta": "Muestra cómo las regulaciones y las consideraciones culturales/religiosas pueden impactar el mercado de criptomonedas a nivel global. Es un factor a considerar para la adopción y el futuro de las cripto.",
+      "tituloLimpio": "El jefe de cripto de Pakistán busca diálogo después de que un erudito islámico se pronunciara contra los pagos con cripto",
+      "resumen": "El regulador de activos virtuales de Pakistán pidió un diálogo continuo sobre el tratamiento de los activos digitales después de reunirse con un erudito islámico que respaldó una decisión contra las compras realizadas con cripto.",
+      "porQueImporta": "Esta noticia muestra cómo las regulaciones y las consideraciones culturales pueden impactar el uso y la adopción de criptomonedas a nivel global, un factor relevante para el panorama de inversión en activos digitales.",
       "publicadoEn": "2026-07-12T12:26:09.000Z",
       "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-the-role-of-cryptocurrency-in-islamic-banking-and-finance.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "finanzas",
-        "criptomonedas",
-        "regulación",
-        "pakistán"
+        "Finanzas",
+        "Criptomonedas",
+        "Regulación"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
-      "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/dolar-hoy-en-venezuela-precio-y-cotizacion-de-la-divisa-este-domingo-12-de-julio-de-2026_0_9WpNUGQKCd.html",
-      "tituloOriginal": "Dólar hoy en Venezuela: precio y cotización de la divisa este domingo 12 de julio de 2026",
-      "tituloLimpio": "Dólar hoy en Venezuela: precio y cotización de la divisa este domingo 12 de julio de 2026",
-      "resumen": "Mirá la cotización del dólar en Venezuela, su variación y los valores de referencia.",
-      "porQueImporta": "Aunque es sobre Venezuela, la cotización del dólar en países vecinos puede ser un indicador de tendencias regionales y la inestabilidad económica. Es un dato de contexto para la economía latinoamericana.",
-      "publicadoEn": "2026-07-12T10:40:19.000Z",
-      "imagen": "https://www.clarin.com/img/2019/11/29/W92lPof3_1200x630__1.jpg",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/07/12/importaciones-que-puede-cambiar-en-el-segundo-semestre-y-por-que-el-mercado-sigue-de-cerca-a-la-inversion/",
+      "tituloOriginal": "Importaciones: qué puede cambiar en el segundo semestre y por qué el mercado sigue de cerca a la inversión",
+      "tituloLimpio": "Importaciones en Argentina: qué puede cambiar en el segundo semestre y por qué el mercado sigue de cerca la inversión",
+      "resumen": "Las proyecciones de los analistas apuntan a una aceleración de las compras al exterior tras un comienzo de año atípico, con diferencias sobre la intensidad del repunte y los sectores que liderarán ese proceso.",
+      "porQueImporta": "Para Guido, esta noticia es clave para entender las perspectivas económicas de Argentina. La aceleración de importaciones y el seguimiento de la inversión son indicadores importantes de la actividad económica y pueden influir en el clima de negocios y las oportunidades locales.",
+      "publicadoEn": "2026-07-12T15:43:50.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/S2ATCXVTCNFR5AFG4QY2VNLBFM.png?auth=dee1ab6ce7485ba28c7fee429c78524437a1c754b8d8d8a297b02168078b8631&smart=true&width=768&height=432",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "finanzas",
-        "dólar",
-        "venezuela"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
-      "categoria": "Argentina",
-      "fuente": "Clarin Politica",
-      "url": "https://www.clarin.com/politica/giro-milei-busca-supervivencia-temblor-viene-planeta-macri_0_hFzgzhmURF.html",
-      "tituloOriginal": "El giro de los Milei en busca de supervivencia y el temblor que viene en el planeta de los Macri",
-      "tituloLimpio": "El giro de los Milei en busca de supervivencia y el temblor que viene en el planeta de los Macri",
-      "resumen": "Cómo fue la charla del Presidente con sus ministros, el rol de Santilli y el cambio de estrategia de Karina. La Ciudad provoca roces en el PRO y los primos mantienen diferencias.",
-      "porQueImporta": "Noticia política relevante para entender el panorama actual en Argentina, las dinámicas de poder y las estrategias del gobierno. Es importante para cualquier ciudadano argentino.",
-      "publicadoEn": "2026-07-12T09:25:41.000Z",
-      "imagen": "https://www.clarin.com/img/2026/07/09/FZPASvJvb_1200x630__1.jpg",
-      "globalScore": 98,
-      "personalScore": 100,
-      "tags": [
-        "argentina",
-        "política",
-        "gobierno",
-        "milei"
+        "Argentina",
+        "Economía",
+        "Inversión",
+        "Mercado"
       ],
       "tambienVistoEn": []
     },
@@ -355,26 +297,25 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/calendario-anses-que-prestaciones-sociales-se-cobran-en-la-semana-del-6-al-10-de-julio-nid12072026/",
-      "tituloOriginal": "Calendario Anses: qué prestaciones sociales se cobran en la semana del 6 al 10 de julio",
-      "tituloLimpio": "Calendario Anses: qué prestaciones sociales se cobran en la semana del 6 al 10 de julio",
-      "resumen": "El organismo previsional continúa con la entrega de las jubilaciones, AUH, Asignaciones por Embarazo, entre otros.",
-      "porQueImporta": "Información práctica y relevante para muchos argentinos que dependen de estas prestaciones. Es útil para estar al tanto de los calendarios de pagos.",
-      "publicadoEn": "2026-07-12T13:17:27.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/H7632II4CVBMHJVTNH66ZPOFLY.jpg?auth=a1a928b64137c9b9abed6e8167baaa93340516afe78b7a74a847c631284c7735&smart=true&width=600&height=400",
-      "globalScore": 98,
+      "url": "https://www.lanacion.com.ar/economia/campo/opinion-frigorificos-eliminar-el-director-tecnico-es-como-tener-farmacias-sin-farmaceuticos-nid12072026/",
+      "tituloOriginal": "Opinión. Frigoríficos: eliminar el director técnico es como tener farmacias sin farmacéuticos",
+      "tituloLimpio": "Opinión: Eliminar el director técnico en frigoríficos es como tener farmacias sin farmacéuticos",
+      "resumen": "La sanidad e inocuidad es responsabilidad primaria de las empresas y tener un profesional responsable da mayores garantías al sistema en su conjunto.",
+      "porQueImporta": "Aunque es una opinión, la analogía resalta la importancia de la supervisión profesional en industrias clave. Esto puede ser relevante para entender la calidad y los estándares en sectores productivos, incluso si no es directamente su área de trabajo.",
+      "publicadoEn": "2026-07-12T16:10:47.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/H4AWWHXFJBAAZKYJPFATBXB6VY.jpeg?auth=3e157bc1cc98aed02a4064893b350e001a2b88d9555bd32c07b969c72eb596cf&smart=true&width=1200&height=800",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "economía",
-        "anses",
-        "pagos"
+        "Argentina",
+        "Negocios",
+        "Regulación"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-07-12T13:26:04.217Z"
+    "generadoEn": "2026-07-12T17:57:53.148Z"
   }
 }
