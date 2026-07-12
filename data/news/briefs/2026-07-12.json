@@ -1,0 +1,380 @@
+{
+  "fecha": "2026-07-12",
+  "generadoEn": "2026-07-12T13:26:04.217Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "En el ámbito de la IA, Google expande las capacidades de los agentes gestionados en su API Gemini, mientras OpenAI busca integrar ChatGPT más profundamente en los hogares con un enfoque en familias. Anthropic, por su parte, logró una visión más clara de cómo sus modelos de lenguaje procesan información. En Argentina, se desmiente un mito sobre el impacto negativo del envejecimiento poblacional en la economía, y el gobierno se acerca a una nueva colocación de deuda internacional. Apple presenta novedades en accesorios Anker y se debate sobre la simplificación de la multitarea en iPadOS 27. En finanzas, el mercado de stablecoins se redujo, aunque analistas no ven motivo de alarma.",
+  "radarPersonal": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Google expande las capacidades de los agentes gestionados en la API de Gemini",
+      "resumen": "Google anuncia nuevas capacidades en los agentes gestionados de la API de Gemini para que los desarrolladores puedan construir agentes confiables y listos para producción.",
+      "categoria": "AI",
+      "fuentes": [
+        "Google AI Blog"
+      ],
+      "urls": [
+        "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/"
+      ],
+      "score": 100,
+      "tags": [
+        "gemini",
+        "api",
+        "desarrolladores",
+        "agentes"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "OpenAI apuesta por las familias con ChatGPT",
+      "resumen": "ChatGPT busca un gerente de producto dedicado a crear experiencias para familias, cuidadores y adultos mayores.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/"
+      ],
+      "score": 100,
+      "tags": [
+        "openai",
+        "chatgpt",
+        "familias",
+        "hogares"
+      ]
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "titulo": "Anthropic encontró un espacio oculto donde Claude procesa conceptos",
+      "resumen": "La firma de IA Anthropic desarrolló una técnica que le dio una visión más clara de lo que sucede dentro de los grandes modelos de lenguaje al responder preguntas o realizar tareas.",
+      "categoria": "AI",
+      "fuentes": [
+        "MIT Technology Review AI"
+      ],
+      "urls": [
+        "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/"
+      ],
+      "score": 100,
+      "tags": [
+        "anthropic",
+        "claude",
+        "modelos de lenguaje",
+        "investigación"
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Desmienten un mito sobre el impacto del envejecimiento poblacional en la economía argentina",
+      "resumen": "A pesar de la caída de la natalidad en los últimos 70 años, se registró un aumento en el PBI por cápita. Apuntan al efecto de la tecnología.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/envejecimiento-poblacional-desmienten-un-mito-su-impacto-la-n6298525"
+      ],
+      "score": 100,
+      "tags": [
+        "argentina",
+        "economía",
+        "población",
+        "tecnología"
+      ]
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "titulo": "El Gobierno argentino se acerca a su primera colocación de deuda internacional en 8 años",
+      "resumen": "La posibilidad de salir al mercado internacional se monitorea todo el tiempo en el equipo económico, pero falta que bajen las tasas en Estados Unidos.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Infobae Economia"
+      ],
+      "urls": [
+        "https://www.infobae.com/economia/2026/07/12/al-ritmo-de-la-baja-del-riesgo-pais-el-gobierno-se-acerca-a-su-primera-colocacion-de-deuda-internacional-en-8-anos/"
+      ],
+      "score": 100,
+      "tags": [
+        "argentina",
+        "deuda",
+        "economía",
+        "mercados"
+      ]
+    }
+  ],
+  "loImportante": [
+    "Google está mejorando su API de Gemini para desarrolladores, lo que podría significar herramientas de IA más robustas y confiables.",
+    "OpenAI busca expandir ChatGPT a un público familiar, abriendo nuevas posibilidades para la IA en el hogar.",
+    "Investigadores de Anthropic lograron una visión más profunda del funcionamiento interno de los modelos de lenguaje, lo que podría llevar a avances en la comprensión y desarrollo de la IA.",
+    "En Argentina, el impacto del envejecimiento poblacional en la economía podría no ser tan negativo como se pensaba, gracias a la tecnología.",
+    "El gobierno argentino se prepara para una posible colocación de deuda internacional, lo que podría impactar en la economía local."
+  ],
+  "oportunidades": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "titulo": "Desarrollo de agentes de IA más robustos con la API de Gemini",
+      "detalle": "Las nuevas capacidades en los agentes gestionados de la API de Gemini permiten a los desarrolladores construir agentes de IA más confiables y listos para producción. Esto abre la puerta a la creación de soluciones de automatización más complejas y estables.",
+      "acciones": [
+        "Explorar las nuevas funcionalidades de la API de Gemini para proyectos de automatización.",
+        "Considerar la aplicación de estos agentes en flujos de trabajo de retoque fotográfico o arte con IA."
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "titulo": "Nuevas oportunidades de mercado para IA en el hogar con ChatGPT",
+      "detalle": "OpenAI está invirtiendo en el desarrollo de experiencias de ChatGPT para familias, cuidadores y adultos mayores. Esto indica una tendencia hacia la integración de la IA en la vida cotidiana y el hogar.",
+      "acciones": [
+        "Analizar cómo la IA puede ofrecer soluciones para el hogar o la familia, incluso en el ámbito del arte o la productividad personal.",
+        "Observar el desarrollo de productos y servicios de IA orientados al consumidor final."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "titulo": "Creciente resistencia a los centros de datos de IA",
+      "detalle": "La construcción de centros de datos de IA enfrenta una creciente oposición, lo que podría generar desafíos en la infraestructura necesaria para el desarrollo y escalado de la inteligencia artificial.",
+      "mitigacion": "Monitorear las noticias sobre regulaciones y aceptación social de la infraestructura de IA, ya que podría afectar la disponibilidad y costos de servicios en la nube para proyectos de IA."
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Market",
+      "titulo": "Contracción del mercado de stablecoins",
+      "detalle": "La capitalización de mercado de las stablecoins se redujo en 10 mil millones de dólares desde mayo, con una caída de 7.7 mil millones solo en junio. Aunque un analista no ve motivo de pánico, es una señal de volatilidad en el sector cripto.",
+      "mitigacion": "Mantenerse informado sobre las tendencias del mercado de criptomonedas y stablecoins. Evaluar el riesgo asociado a la inversión en activos digitales y diversificar la cartera."
+    }
+  ],
+  "conexiones": [
+    {
+      "id": "anthropic-ai-responsibility",
+      "titulo": "La responsabilidad de la IA, un tema recurrente",
+      "historias": [
+        "Anthropic encontró un espacio oculto donde Claude procesa conceptos",
+        "Anthropic aborda las preguntas difíciles sobre la responsabilidad de la IA"
+      ],
+      "conclusion": "La investigación de Anthropic sobre el funcionamiento interno de sus modelos de lenguaje (Claude) y su campaña sobre la responsabilidad de la IA demuestran un compromiso creciente de las empresas del sector con la transparencia y la ética en el desarrollo de la inteligencia artificial. Entender cómo piensan las IA es clave para asegurar su uso responsable."
+    },
+    {
+      "id": "argentina-politica-diplomacia",
+      "titulo": "Dichos de vicegobernadora de Mendoza generan conflicto diplomático",
+      "historias": [
+        "La Embajada de Francia declaró “persona no grata” a Hebe Casado, vicegobernadora de Mendoza, por racismo",
+        "La Embajada de Francia repudió los dichos de Hebe Casado contra el equipo galo"
+      ],
+      "conclusion": "Los comentarios de la vicegobernadora de Mendoza sobre el equipo de fútbol francés generaron un repudio oficial de la Embajada de Francia, escalando a un incidente diplomático. Esto subraya la importancia de la comunicación pública y el impacto de las declaraciones de funcionarios en las relaciones internacionales."
+    }
+  ],
+  "noticias": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/07/11/summer-anker-accessories-low-prices/",
+      "tituloOriginal": "Score Summer-Ready Anker Accessories at Rare Low Prices This Weekend",
+      "tituloLimpio": "Accesorios Anker con descuentos importantes este fin de semana",
+      "resumen": "La estación de carga inalámbrica 3 en 1 Anker Prime bajó a 99.74 dólares en Amazon, igualando su precio más bajo histórico.",
+      "porQueImporta": "Guido, si estás buscando accesorios para tus dispositivos Apple, esta es una oportunidad para conseguir productos Anker a buen precio. Aunque la oferta es en Amazon, es un producto que se puede conseguir en Argentina a través de importadores o envíos internacionales, y el precio de referencia es útil.",
+      "publicadoEn": "2026-07-11T14:54:47.000Z",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "anker",
+        "accesorios",
+        "apple",
+        "oferta"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "categoria": "Finance",
+      "fuente": "Sherwood",
+      "url": "https://sherwood.news/world/the-most-watched-soccer-match-in-us-history-got-less-than-a-third-of-the-views-the-super-bowl-did/",
+      "tituloOriginal": "The most watched soccer match in US history got less than a third of the views the Super Bowl did",
+      "tituloLimpio": "El partido de fútbol más visto en la historia de EE.UU. tuvo menos de un tercio de la audiencia del Super Bowl",
+      "resumen": "El partido de la selección de fútbol de EE.UU. contra Bélgica alcanzó 40 millones de espectadores promedio, según estimaciones iniciales.",
+      "porQueImporta": "Interesante para entender las dinámicas de audiencia y marketing deportivo en un mercado clave como EE.UU. Puede dar ideas sobre cómo se valoran los eventos masivos y la penetración de diferentes deportes.",
+      "publicadoEn": "2026-07-10T17:51:27.000Z",
+      "imagen": "https://sherwoodnews.imgix.net/WC%20Viewership.png?w=1600",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "audiencia",
+        "deportes",
+        "eeuu"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/heinz-calls-foul-on-small-condiment-packets-in-social-world-cup-effort/824750/",
+      "tituloOriginal": "Heinz calls foul on small condiment packets in social World Cup effort",
+      "tituloLimpio": "Heinz critica los paquetes pequeños de condimentos en una campaña social por el Mundial",
+      "resumen": "Los paquetes de edición limitada 'Penalty Packets' aprovechan el interés en las tarjetas rojas y amarillas del fútbol antes de los cuartos de final.",
+      "porQueImporta": "Un ejemplo creativo de marketing de guerrilla y cómo una marca aprovecha un evento global para generar conversación y visibilidad. Puede inspirar ideas para campañas de marketing.",
+      "publicadoEn": "2026-07-09T16:14:00.000Z",
+      "globalScore": 84,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "campaña",
+        "mundial",
+        "heinz"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/11/ipad-pro-needs-simpler-multitasking-with-ipados-27/",
+      "tituloOriginal": "iPadOS 27 still needs simpler multitasking, here’s what I’d like to see",
+      "tituloLimpio": "iPadOS 27 necesita una multitarea más simple",
+      "resumen": "Apple reinventó la multitarea en el iPad con la introducción de ventanas en iPadOS 26, lo que inicialmente eliminó versiones más simples como Split View y Slide Over.",
+      "porQueImporta": "Como usuario de Apple, es relevante para Guido conocer las discusiones sobre la usabilidad del iPad. Una multitarea más intuitiva podría mejorar significativamente la productividad en el dispositivo.",
+      "publicadoEn": "2026-07-11T21:05:01.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "ipados",
+        "multitarea",
+        "productividad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/07/12/crime-blotter-stolen-ipad-leads-to-arrest-of-accused-bank-robber?utm_source=rss",
+      "tituloOriginal": "Crime blotter: Stolen iPad leads to arrest of accused bank robber",
+      "tituloLimpio": "iPad robado lleva al arresto de un presunto ladrón de bancos",
+      "resumen": "Una mujer es mordida después de que le roban su iPad, decenas de iPads son robados de una escuela primaria y un hombre es arrestado por vender AirPods falsos a la policía.",
+      "porQueImporta": "Aunque es una noticia policial, destaca la omnipresencia de los productos Apple y cómo la tecnología puede jugar un rol en la resolución de crímenes. Es un dato curioso sobre el impacto de estos dispositivos.",
+      "publicadoEn": "2026-07-12T11:41:31.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "ipad",
+        "seguridad",
+        "noticia"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/small-business/articles/big-fast-food-burger-chain-164700124.html",
+      "tituloOriginal": "Big fast-food burger chain franchisee files Chapter 11 bankruptcy",
+      "tituloLimpio": "Franquiciado de una gran cadena de hamburguesas de comida rápida se declara en bancarrota",
+      "resumen": "Un franquiciado de una gran cadena de hamburguesas de comida rápida se declara en bancarrota bajo el Capítulo 11.",
+      "porQueImporta": "Una señal de las dificultades económicas que pueden enfrentar incluso grandes franquicias. Es relevante para entender el clima de negocios y las presiones en el sector de servicios.",
+      "publicadoEn": "2026-07-11T16:47:00.000Z",
+      "imagen": "https://media.zenfs.com/en/thestreet_881/58fc6ddeab6144f5024c84a087678c48",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "negocios",
+        "bancarrota",
+        "comida rápida"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/pakistan-crypto-chief-dialogue-islamic-ruling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Pakistan crypto chief seeks dialogue after scholar rules against crypto payments",
+      "tituloLimpio": "Jefe de cripto de Pakistán busca diálogo tras fallo islámico contra pagos con criptomonedas",
+      "resumen": "El regulador de activos virtuales de Pakistán pidió un diálogo continuo sobre el tratamiento de los activos digitales después de reunirse con un erudito islámico que respaldó un fallo contra las compras realizadas con criptomonedas.",
+      "porQueImporta": "Muestra cómo las regulaciones y las consideraciones culturales/religiosas pueden impactar el mercado de criptomonedas a nivel global. Es un factor a considerar para la adopción y el futuro de las cripto.",
+      "publicadoEn": "2026-07-12T12:26:09.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-the-role-of-cryptocurrency-in-islamic-banking-and-finance.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "criptomonedas",
+        "regulación",
+        "pakistán"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/dolar-hoy-en-venezuela-precio-y-cotizacion-de-la-divisa-este-domingo-12-de-julio-de-2026_0_9WpNUGQKCd.html",
+      "tituloOriginal": "Dólar hoy en Venezuela: precio y cotización de la divisa este domingo 12 de julio de 2026",
+      "tituloLimpio": "Dólar hoy en Venezuela: precio y cotización de la divisa este domingo 12 de julio de 2026",
+      "resumen": "Mirá la cotización del dólar en Venezuela, su variación y los valores de referencia.",
+      "porQueImporta": "Aunque es sobre Venezuela, la cotización del dólar en países vecinos puede ser un indicador de tendencias regionales y la inestabilidad económica. Es un dato de contexto para la economía latinoamericana.",
+      "publicadoEn": "2026-07-12T10:40:19.000Z",
+      "imagen": "https://www.clarin.com/img/2019/11/29/W92lPof3_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "finanzas",
+        "dólar",
+        "venezuela"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/giro-milei-busca-supervivencia-temblor-viene-planeta-macri_0_hFzgzhmURF.html",
+      "tituloOriginal": "El giro de los Milei en busca de supervivencia y el temblor que viene en el planeta de los Macri",
+      "tituloLimpio": "El giro de los Milei en busca de supervivencia y el temblor que viene en el planeta de los Macri",
+      "resumen": "Cómo fue la charla del Presidente con sus ministros, el rol de Santilli y el cambio de estrategia de Karina. La Ciudad provoca roces en el PRO y los primos mantienen diferencias.",
+      "porQueImporta": "Noticia política relevante para entender el panorama actual en Argentina, las dinámicas de poder y las estrategias del gobierno. Es importante para cualquier ciudadano argentino.",
+      "publicadoEn": "2026-07-12T09:25:41.000Z",
+      "imagen": "https://www.clarin.com/img/2026/07/09/FZPASvJvb_1200x630__1.jpg",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "política",
+        "gobierno",
+        "milei"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/calendario-anses-que-prestaciones-sociales-se-cobran-en-la-semana-del-6-al-10-de-julio-nid12072026/",
+      "tituloOriginal": "Calendario Anses: qué prestaciones sociales se cobran en la semana del 6 al 10 de julio",
+      "tituloLimpio": "Calendario Anses: qué prestaciones sociales se cobran en la semana del 6 al 10 de julio",
+      "resumen": "El organismo previsional continúa con la entrega de las jubilaciones, AUH, Asignaciones por Embarazo, entre otros.",
+      "porQueImporta": "Información práctica y relevante para muchos argentinos que dependen de estas prestaciones. Es útil para estar al tanto de los calendarios de pagos.",
+      "publicadoEn": "2026-07-12T13:17:27.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/H7632II4CVBMHJVTNH66ZPOFLY.jpg?auth=a1a928b64137c9b9abed6e8167baaa93340516afe78b7a74a847c631284c7735&smart=true&width=600&height=400",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "economía",
+        "anses",
+        "pagos"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-07-12T13:26:04.217Z"
+  }
+}
