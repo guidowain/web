@@ -1,0 +1,510 @@
+{
+  "fecha": "2026-07-13",
+  "generadoEn": "2026-07-13T14:40:37.941Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "Hoy, las noticias giran en torno a la expansión de la IA en productos de Google como Gemini y Waze, la adquisición de activos de SigScalr por parte de Apple, y la situación económica y política en Argentina, incluyendo la percepción salarial y la cotización del dólar. También se destaca la demanda de Apple contra OpenAI por robo de secretos comerciales.",
+  "radarPersonal": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Apple adquiere activos de SigScalr",
+      "resumen": "Apple informó a la UE que acordó adquirir ciertos activos y contratar empleados de SigScalr, una plataforma de observabilidad de código abierto.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/07/13/apple-acquires-sigscalr-assets/"
+      ],
+      "score": 100,
+      "tags": [
+        "apple",
+        "adquisición",
+        "sigscalr",
+        "observabilidad"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "Waze incorpora nuevas funciones con IA y actualizaciones de personalización",
+      "resumen": "Waze añade nuevas funciones impulsadas por IA, algunas con el asistente Gemini de Google, buscando integrar Gemini en sus productos y competir con servicios rivales como Apple Maps.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/"
+      ],
+      "score": 100,
+      "tags": [
+        "waze",
+        "ia",
+        "gemini",
+        "google",
+        "personalización"
+      ]
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "Waze recibe nuevas funciones impulsadas por IA",
+      "resumen": "Waze está recibiendo una renovación con IA, integrando el asistente Gemini de Google para permitir a los usuarios personalizar más sus viajes.",
+      "categoria": "AI",
+      "fuentes": [
+        "The Verge AI"
+      ],
+      "urls": [
+        "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty/"
+      ],
+      "score": 100,
+      "tags": [
+        "waze",
+        "ia",
+        "gemini",
+        "google",
+        "personalización"
+      ]
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "titulo": "El cronograma de hardware de OpenAI no cambia tras la demanda de Apple",
+      "resumen": "A pesar de enfrentar una demanda por robo de secretos comerciales de Apple, OpenAI planea presentar su primer producto este año y lanzarlo en 2027.",
+      "categoria": "Apple",
+      "fuentes": [
+        "9to5Mac"
+      ],
+      "urls": [
+        "https://9to5mac.com/2026/07/13/openai-hardware-timeline-reportedly-unchanged-after-apple-trade-secret-theft-lawsuit/"
+      ],
+      "score": 100,
+      "tags": [
+        "openai",
+        "hardware",
+        "apple",
+        "demanda",
+        "secretos comerciales"
+      ]
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "titulo": "La demanda de Apple contra OpenAI no es la primera por espionaje corporativo",
+      "resumen": "Desde su fundación, OpenAI ha estado en el centro de varias controversias, siendo la demanda de Apple por robo de propiedad intelectual la más reciente.",
+      "categoria": "Apple",
+      "fuentes": [
+        "AppleInsider"
+      ],
+      "urls": [
+        "https://appleinsider.com/articles/26/07/13/apples-corporate-espionage-suit-against-openai-isnt-the-first?utm_source=rss"
+      ],
+      "score": 100,
+      "tags": [
+        "apple",
+        "openai",
+        "demanda",
+        "espionaje corporativo",
+        "propiedad intelectual"
+      ]
+    }
+  ],
+  "loImportante": [
+    "La IA de Google, Gemini, se expande a herramientas como Waze, mejorando la personalización y la competencia con Apple Maps.",
+    "Apple está adquiriendo activos de SigScalr, una plataforma de observabilidad de código abierto, lo que podría fortalecer sus capacidades internas.",
+    "OpenAI mantiene su cronograma de lanzamiento de hardware a pesar de la demanda de Apple por robo de secretos comerciales, indicando un enfoque en sus planes a largo plazo.",
+    "En Argentina, la mitad de la población se considera de clase baja y la mayoría siente que perdió contra la inflación, reflejando una situación económica compleja.",
+    "El Reino Unido está explorando la tokenización de activos financieros como bonos y fondos, citando a Ripple como un modelo de convergencia."
+  ],
+  "oportunidades": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "titulo": "Expansión de agentes gestionados en la API de Gemini",
+      "detalle": "Google está anunciando nuevas capacidades en los agentes gestionados de la API de Gemini, permitiendo a los desarrolladores construir agentes confiables y listos para producción.",
+      "acciones": [
+        "Explorar las nuevas capacidades de la API de Gemini para posibles integraciones en proyectos de IA.",
+        "Analizar cómo estas mejoras pueden impactar el desarrollo de herramientas de automatización."
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "Estrategia de Rockstar Energy para convertir valor de marca en cuota de mercado",
+      "detalle": "El CMO de Rockstar Energy explica cómo están activando la marca en deportes y música para conectar con consumidores que prefieren bebidas energéticas tradicionales.",
+      "acciones": [
+        "Estudiar la estrategia de Rockstar Energy para aplicar principios de activación de marca en proyectos de marketing.",
+        "Considerar cómo la conexión con intereses específicos (deportes, música) puede fortalecer el valor de una marca."
+      ]
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Productivity",
+      "titulo": "Río Negro impulsa ley para venta formal de carne de jabalí y guanaco",
+      "detalle": "La iniciativa busca incorporar estas carnes al circuito comercial con controles sanitarios y trazabilidad, aprovechando una proteína alternativa y controlando la sobrepoblación.",
+      "acciones": [
+        "Observar el desarrollo de esta iniciativa para entender cómo la regulación puede abrir nuevos mercados para productos no tradicionales.",
+        "Evaluar el impacto en la cadena de suministro y la economía regional."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Market",
+      "titulo": "La mitad de los argentinos se considera de clase baja y perdió contra la inflación",
+      "detalle": "Un relevamiento indica que el 50,2% de la población se autopercibe de clase baja y el 86,1% afirma que sus ingresos no siguen el ritmo de los precios, con seis de cada diez hogares sin llegar a fin de mes.",
+      "mitigacion": "Monitorear de cerca la situación económica argentina y ajustar las estrategias de inversión y ahorro para proteger el capital de la inflación y la devaluación."
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Regulatory",
+      "titulo": "Demanda de Apple contra OpenAI por espionaje corporativo",
+      "detalle": "Apple demandó a OpenAI por robo de secretos comerciales, lo que podría generar un precedente en la industria de la IA y afectar la percepción de la propiedad intelectual.",
+      "mitigacion": "Mantenerse informado sobre el desarrollo de esta demanda y sus implicaciones legales para la protección de la propiedad intelectual en el ámbito de la IA."
+    }
+  ],
+  "conexiones": [
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "Waze y Gemini: la expansión de la IA de Google",
+      "historias": [
+        "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+        "the-verge-ai-aHR0cHM6Ly93d3cudGhl"
+      ],
+      "conclusion": "La integración de Gemini en Waze y la expansión de sus capacidades en la API demuestran la estrategia de Google de incorporar su IA insignia en sus productos y herramientas, buscando mejorar la experiencia del usuario y competir en el mercado."
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "titulo": "OpenAI y las demandas por secretos comerciales",
+      "historias": [
+        "appleinsider-aHR0cHM6Ly9hcHBsZWlu"
+      ],
+      "conclusion": "Las demandas por robo de secretos comerciales contra OpenAI, incluida la de Apple, resaltan la creciente tensión en la industria de la IA respecto a la propiedad intelectual y la competencia, aunque OpenAI parece mantener sus planes de hardware."
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Situación económica y política en Argentina",
+      "historias": [
+        "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+        "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+        "lanacion-politica-aHR0cHM6Ly93d3cubGFu"
+      ],
+      "conclusion": "La percepción de la clase baja y la pérdida de poder adquisitivo por la inflación, sumado a la cotización del dólar y la reactivación de la agenda parlamentaria, pintan un panorama económico y político complejo en Argentina que requiere atención constante."
+    }
+  ],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "tituloOriginal": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
+      "tituloLimpio": "Google expande los agentes gestionados en la API de Gemini",
+      "resumen": "Google anuncia nuevas capacidades en los agentes gestionados de la API de Gemini para que los desarrolladores puedan construir agentes confiables y listos para producción.",
+      "porQueImporta": "Esta expansión mejora las herramientas disponibles para desarrolladores de IA, permitiendo la creación de agentes más robustos y fiables, lo que es clave para la automatización y la innovación en el sector.",
+      "publicadoEn": "2026-07-07T08:54:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "gemini",
+        "desarrollo",
+        "api",
+        "automatización"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/07/13/apple-acquires-sigscalr-assets/",
+      "tituloOriginal": "Apple Acquiring SigScalr",
+      "tituloLimpio": "Apple adquiere activos de SigScalr",
+      "resumen": "Apple informó a la UE que acordó adquirir ciertos activos y contratar empleados de SigScalr, una plataforma de observabilidad de código abierto.",
+      "porQueImporta": "La adquisición de SigScalr podría fortalecer las capacidades de Apple en el monitoreo y análisis de datos a gran escala, lo que es relevante para la infraestructura tecnológica y el rendimiento de sus servicios.",
+      "publicadoEn": "2026-07-13T14:01:26.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "adquisición",
+        "observabilidad",
+        "tecnología"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/salarios-la-mitad-los-argentinos-se-considera-clase-baja-y-9-cada-10-afirma-que-perdio-contra-la-inflacion-n6298849",
+      "tituloOriginal": "Salarios: la mitad de los argentinos se considera de clase baja y 9 de cada 10 afirma que perdió contra la inflación",
+      "tituloLimpio": "La mitad de los argentinos se considera de clase baja y perdió contra la inflación",
+      "resumen": "Un relevamiento señaló que el 50,2% de la población se autopercibe de clase baja, el 86,1% asegura que sus ingresos no logran seguir el ritmo de los precios y seis de cada diez hogares no llegan con su sueldo hasta fin de mes.",
+      "porQueImporta": "Este dato refleja la difícil situación económica en Argentina, con un impacto directo en el poder adquisitivo y la calidad de vida de la población, lo cual es crucial para entender el contexto local.",
+      "publicadoEn": "2026-07-13T14:15:00.000Z",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "economía",
+        "salarios",
+        "inflación",
+        "clase baja"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/rockstar-energy-cmo-on-turning-latent-brand-value-into-market-share/824917/",
+      "tituloOriginal": "Rockstar Energy’s CMO on turning latent brand value into market share",
+      "tituloLimpio": "El CMO de Rockstar Energy sobre cómo convertir el valor de marca latente en cuota de mercado",
+      "resumen": "La marca está activando en deportes y música para conectar con consumidores que prefieren bebidas energéticas tradicionales.",
+      "porQueImporta": "Ofrece una perspectiva sobre estrategias de marketing para capitalizar el valor de una marca y aumentar su participación en el mercado, relevante para profesionales del marketing.",
+      "publicadoEn": "2026-07-13T14:00:00.000Z",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "marca",
+        "estrategia",
+        "consumidores"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "tituloOriginal": "Waze adds new AI-powered features and customization updates",
+      "tituloLimpio": "Waze añade nuevas funciones impulsadas por IA y actualizaciones de personalización",
+      "resumen": "Algunas de las nuevas funciones están impulsadas por el asistente Gemini de Google, lo que refleja el impulso del gigante tecnológico para integrar Gemini en sus productos y posicionar mejor a Waze frente a servicios rivales como Apple Maps.",
+      "porQueImporta": "La integración de IA en Waze mejora la experiencia del usuario y demuestra la competencia en el mercado de aplicaciones de navegación, con implicaciones para la adopción de IA en productos de consumo.",
+      "publicadoEn": "2026-07-13T14:18:16.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "waze",
+        "google",
+        "gemini",
+        "personalización"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+      "tituloOriginal": "Anthropic found a hidden space where Claude puzzles over concepts",
+      "tituloLimpio": "Anthropic encontró un espacio oculto donde Claude reflexiona sobre conceptos",
+      "resumen": "La firma de IA Anthropic desarrolló una técnica que le dio la visión más clara hasta ahora de lo que sucede dentro de los grandes modelos de lenguaje cuando responden preguntas o realizan tareas.",
+      "porQueImporta": "Este avance en la comprensión de cómo funcionan los modelos de lenguaje grandes es fundamental para el desarrollo futuro de la IA, permitiendo una mayor transparencia y control sobre su comportamiento.",
+      "publicadoEn": "2026-07-09T20:22:28.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "anthropic",
+        "modelos de lenguaje",
+        "investigación"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/13/openai-hardware-timeline-reportedly-unchanged-after-apple-trade-secret-theft-lawsuit/",
+      "tituloOriginal": "OpenAI hardware timeline reportedly unchanged after Apple trade secret theft lawsuit",
+      "tituloLimpio": "El cronograma de hardware de OpenAI no cambia tras la demanda de Apple por robo de secretos comerciales",
+      "resumen": "A pesar de enfrentar su segunda demanda por robo de secretos comerciales en poco más de un año por sus ambiciones de hardware, OpenAI aún planea presentar su primer producto este año y lanzarlo en 2027.",
+      "porQueImporta": "Indica la determinación de OpenAI de avanzar en sus planes de hardware a pesar de los desafíos legales, lo que podría tener un impacto significativo en el mercado de dispositivos de IA.",
+      "publicadoEn": "2026-07-13T14:36:09.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "openai",
+        "hardware",
+        "apple",
+        "demanda",
+        "secretos comerciales"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/07/13/apples-corporate-espionage-suit-against-openai-isnt-the-first?utm_source=rss",
+      "tituloOriginal": "Apple's corporate espionage suit against OpenAI isn't the first",
+      "tituloLimpio": "La demanda de Apple contra OpenAI por espionaje corporativo no es la primera",
+      "resumen": "Desde su fundación, OpenAI ha estado en el centro de múltiples controversias, siendo la demanda de Apple por robo de propiedad intelectual el último capítulo.",
+      "porQueImporta": "Subraya la recurrencia de conflictos legales en torno a la propiedad intelectual en el sector de la IA, un tema crítico para la innovación y la competencia.",
+      "publicadoEn": "2026-07-13T14:14:29.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "openai",
+        "demanda",
+        "espionaje corporativo",
+        "propiedad intelectual"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/07/13/ripple-lands-inside-uk-plan-for-tokenized-repo-bonds-and-funds",
+      "tituloOriginal": "UK Treasury report on tokenization cites Ripple as convergence model",
+      "tituloLimpio": "El informe del Tesoro del Reino Unido sobre tokenización cita a Ripple como modelo de convergencia",
+      "resumen": "Un informe respaldado por el Tesoro apunta a poner repos, gilts y fondos en la cadena dentro de dos años, y se inclina por las redes sin permiso que empresas como Ripple han estado construyendo.",
+      "porQueImporta": "La mención de Ripple y la tokenización de activos financieros en el Reino Unido sugieren una tendencia hacia la digitalización de los mercados, lo que podría abrir nuevas oportunidades de inversión y eficiencia.",
+      "publicadoEn": "2026-07-13T14:06:53.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/7062083f3eac875ac832f0c15d78be2612e57afe-1440x810.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "tokenización",
+        "reino unido",
+        "ripple",
+        "blockchain"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-lunes-13-julio_0_LTyyb7QQPv.html",
+      "tituloOriginal": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este lunes 13 de julio",
+      "tituloLimpio": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este lunes 13 de julio",
+      "resumen": "Desde el oficial hasta el blue y el turista, todos los tipos de cambio. Mirá la cotización minuto a minuto.",
+      "porQueImporta": "La cotización del dólar es un indicador económico clave en Argentina, afectando directamente la economía personal y las decisiones de inversión.",
+      "publicadoEn": "2026-07-13T12:00:03.000Z",
+      "imagen": "https://www.clarin.com/img/2020/05/19/RonC3-q2b_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "dólar",
+        "economía",
+        "finanzas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/plena-investigacion-dolares-vestidor-insaurralde-aparecio-celebrando-triunfo-argentina-suiza-casa-empresario-construccion_0_sgZfChaqmI.html",
+      "tituloOriginal": "En plena investigación por los dólares en el vestidor, Insaurralde apareció celebrando el triunfo de Argentina contra Suiza en la casa de un empresario de la construcción",
+      "tituloLimpio": "En plena investigación por los dólares en el vestidor, Insaurralde apareció celebrando el triunfo de Argentina contra Suiza",
+      "resumen": "El exintendente es investigado por enriquecimiento ilícito y lavado de dinero. Es la primera vez que se ve a Insaurralde desde que aparecieron los videos de los dólares en bolsas entre la ropa.",
+      "porQueImporta": "Esta noticia política resalta la corrupción y las investigaciones en curso en Argentina, un tema de interés público y relevancia para el clima de negocios y la confianza institucional.",
+      "publicadoEn": "2026-07-13T12:37:56.000Z",
+      "imagen": "https://www.clarin.com/img/2026/06/27/21yM1l29K_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "política",
+        "corrupción",
+        "investigación"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/07/13/rio-negro-impulsa-una-ley-para-habilitar-la-venta-de-carne-de-jabali-y-guanaco-en-el-mercado-formal/",
+      "tituloOriginal": "Río Negro impulsa una ley para habilitar la venta de carne de jabalí y guanaco en el mercado formal",
+      "tituloLimpio": "Río Negro impulsa una ley para habilitar la venta de carne de jabalí y guanaco en el mercado formal",
+      "resumen": "La iniciativa busca incorporar estas carnes al circuito comercial con controles sanitarios y trazabilidad. El Gobierno provincial sostiene que permitirá aprovechar una proteína alternativa y controlar la sobrepoblación de estas especies.",
+      "porQueImporta": "Esta medida podría generar nuevas oportunidades económicas y diversificar la oferta de productos cárnicos en Argentina, además de abordar un problema ambiental de sobrepoblación.",
+      "publicadoEn": "2026-07-13T14:12:08.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/SJZOSNFEVVDBVHZAC7CNZFTMRM.png?auth=061f1c1017342dc981111a475de6a052cf92934bbb45240b53ae282d752d8310&smart=true&width=777&height=437",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "economía regional",
+        "alimentos",
+        "regulación"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/premio-visa-la-nacion-a-la-innovacion-cuando-la-tecnologia-se-pone-al-servicio-de-la-inclusion-nid13072026/",
+      "tituloOriginal": "Premio VISA-LA NACION a la innovación: cuando la tecnología se pone al servicio de la inclusión financiera",
+      "tituloLimpio": "Premio VISA-LA NACION a la innovación: cuando la tecnología se pone al servicio de la inclusión financiera",
+      "resumen": "Martín Gutierrez, CISO en Naranja X, y Gonza Ozán, CTO en Naranja X, nos cuentan cuáles son las tecnologías que están transformando el área de los servicios financieros.",
+      "porQueImporta": "Destaca el uso de la tecnología para la inclusión financiera en Argentina, un tema relevante para el desarrollo económico y la accesibilidad a servicios bancarios.",
+      "publicadoEn": "2026-07-13T14:30:01.000Z",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "finanzas",
+        "tecnología",
+        "innovación",
+        "inclusión financiera"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Politica",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-se-reactiva-la-agenda-parlamentaria-y-empiezan-a-delimitarse-las-nid13072026/",
+      "tituloOriginal": "Javier Milei y sus medidas, en vivo: se reactiva la agenda parlamentaria y empiezan a delimitarse las elecciones 2027",
+      "tituloLimpio": "Javier Milei y sus medidas, en vivo: se reactiva la agenda parlamentaria y empiezan a delimitarse las elecciones 2027",
+      "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios.",
+      "porQueImporta": "La actividad política y las decisiones del gobierno de Milei tienen un impacto directo en la economía y la sociedad argentina, siendo fundamental para entender el panorama actual.",
+      "publicadoEn": "2026-07-13T14:33:33.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/ES57WS2LKBARPCU3KYN4226UT4.JPG?auth=c5022842cac78d068a6baa8838667db28a23e2ceee151e2d968018aee256b203&smart=true&width=2000&height=1318",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "política",
+        "gobierno",
+        "milei"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "fuente": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/liquid-iv-weaves-spider-man-into-its-growing-entertainment-strategy/",
+      "tituloOriginal": "Liquid I.V. Weaves Spider-Man Into Its Growing Entertainment Strategy",
+      "tituloLimpio": "Liquid I.V. integra a Spider-Man en su estrategia de entretenimiento",
+      "resumen": "La asociación de la marca Unilever con Spider-Man: Brand New Day combina cine, televisión, retail y experiencias.",
+      "porQueImporta": "Muestra una estrategia de marketing innovadora que utiliza el entretenimiento para conectar con los consumidores, relevante para quienes buscan nuevas formas de promoción de marca.",
+      "publicadoEn": "2026-07-13T09:29:53.000Z",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "entretenimiento",
+        "marca",
+        "estrategia"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-07-13T14:40:37.941Z"
+  }
+}
