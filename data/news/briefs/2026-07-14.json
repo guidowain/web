@@ -1,178 +1,150 @@
 {
   "fecha": "2026-07-14",
-  "generadoEn": "2026-07-14T13:50:26.068Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "Hoy, el mercado laboral argentino muestra que el 90% de los nuevos ocupados necesita más horas para aumentar ingresos. En tecnología, Google expande sus agentes gestionados en la API de Gemini, mientras que Apple se prepara para un iPhone 20 con diseño de vidrio. En finanzas, una empresa respaldada por Bezos que recrea el sol y las estrellas salió a la bolsa. Además, se discute la necesidad de un organismo global de vigilancia de IA liderado por EE.UU.",
+  "generadoEn": "2026-07-14T18:03:02.465Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Hoy destacamos el 25 aniversario de Google Images y la llegada de Madden NFL 27 Arcade Edition a Apple Arcade. En el ámbito de la IA, DeepMind propone un organismo regulador independiente y se confirma que PrismML está en conversaciones con Apple sobre tecnología para reducir modelos de IA. En Argentina, se reporta la unión de un gigante cripto con un banco para ofrecer dólares digitales a empresas, y se analiza el impacto económico del Mundial de Fútbol.",
   "radarPersonal": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "titulo": "Google expande agentes gestionados en la API de Gemini",
-      "resumen": "Google anuncia nuevas capacidades en los agentes gestionados de la API de Gemini para que los desarrolladores puedan construir agentes confiables y listos para producción.",
+      "titulo": "Google Images celebra 25 años de innovación en búsqueda visual",
+      "resumen": "Google Images cumple 25 años. Se repasan hitos importantes y nuevas formas de explorar y crear contenido visual.",
       "categoria": "AI",
       "fuentes": [
         "Google AI Blog"
       ],
       "urls": [
-        "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/"
+        "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/"
       ],
       "score": 100,
       "tags": [
-        "gemini",
-        "api",
-        "desarrolladores",
-        "agentes"
+        "búsqueda visual",
+        "Google Images",
+        "aniversario"
       ]
     },
     {
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "Fábricas listas para el rediseño de vidrio del iPhone 20",
-      "resumen": "Las instalaciones en la cadena de suministro de Apple terminaron las renovaciones antes de la producción del 'iPhone 20', según un filtrador de Weibo que dice que el iPhone del 20º aniversario de Apple tendrá un diseño completamente de vidrio.",
+      "titulo": "Madden NFL 27 Arcade Edition llega a Apple Arcade",
+      "resumen": "Apple anunció que Madden NFL 27 Arcade Edition estará disponible en Apple Arcade el 6 de agosto. Es una nueva entrega de la franquicia diseñada para el servicio, con estructura basada en temporadas y plantillas actuales de la NFL.",
       "categoria": "Apple",
       "fuentes": [
         "MacRumors"
       ],
       "urls": [
-        "https://www.macrumors.com/2026/07/14/factories-ready-for-iphone-20-glass-redesign/"
+        "https://www.macrumors.com/2026/07/14/madden-nfl-27-arcade-edition/"
       ],
       "score": 100,
       "tags": [
-        "iphone",
-        "apple",
-        "diseño",
-        "vidrio"
+        "Apple Arcade",
+        "Madden NFL",
+        "juegos"
       ]
     },
     {
-      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
-      "titulo": "Empresa respaldada por Bezos que recrea el sol y las estrellas sale a la bolsa",
-      "resumen": "El CEO de General Fusion, Greg Twinney, habló con Sherwood News desde el Nasdaq durante el primer día de cotización de la acción.",
-      "categoria": "Finance",
-      "fuentes": [
-        "Sherwood"
-      ],
-      "urls": [
-        "https://sherwood.news/markets/general-fusion-spac-debut-nuclear-fusion-greg-twinney/"
-      ],
-      "score": 100,
-      "tags": [
-        "inversión",
-        "tecnología",
-        "fusión nuclear",
-        "mercado"
-      ]
-    },
-    {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "El 90% de los nuevos ocupados en Argentina necesita trabajar más horas para aumentar ingresos",
-      "resumen": "Un informe advierte que el mercado laboral atraviesa una transformación marcada por la pérdida de empleo formal y el avance de ocupaciones precarias. La mayor participación laboral evita un salto del desempleo, pero no alcanza para recomponer los ingresos de los hogares.",
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "titulo": "Dólares digitales en Argentina: gigante cripto se une a un banco para empresas",
+      "resumen": "Jeremy Allaire, de Circle, visitó Buenos Aires y destacó la solidez macro local para inversiones de empresas globales. La firma se asoció con el Grupo Bind.",
       "categoria": "Argentina",
       "fuentes": [
-        "Ambito"
+        "Clarin Economia"
       ],
       "urls": [
-        "https://www.ambito.com/economia/radiografia-del-empleo-el-90-los-nuevos-ocupados-necesita-trabajar-mas-horas-aumentar-sus-ingresos-n6299272"
+        "https://www.clarin.com/economia/dolares-digitales-argentina-gigante-cripto-une-banco-llegar-empresas_0_bhV6IWy7xC.html"
       ],
       "score": 100,
       "tags": [
-        "empleo",
-        "argentina",
-        "ingresos",
-        "mercado laboral"
+        "dólares digitales",
+        "cripto",
+        "Argentina",
+        "empresas"
       ]
     },
     {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "titulo": "Por qué la última ola de ganadores tecnológicos vuelve a esforzarse",
-      "resumen": "Están volviendo a arremangarse, aparentemente por miedo a perderse el momento definitorio de la IA y, presumiblemente, el atractivo irresistible de ganar aún más dinero, potencialmente mucho más.",
-      "categoria": "AI",
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "titulo": "PrismML confirma conversaciones con Apple sobre tecnología para reducir modelos de IA",
+      "resumen": "Cinco días después de los informes iniciales, PrismML confirmó que está en conversaciones con Apple sobre el uso de su tecnología para reducir modelos de IA.",
+      "categoria": "Apple",
       "fuentes": [
-        "TechCrunch AI"
+        "AppleInsider"
       ],
       "urls": [
-        "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/"
+        "https://appleinsider.com/articles/26/07/14/prismml-confirms-it-is-in-talks-with-apple-about-ai-model-shrinking-tech?utm_source=rss"
       ],
       "score": 100,
       "tags": [
-        "ia",
-        "tecnología",
-        "inversión",
-        "negocios"
+        "Apple",
+        "IA",
+        "modelos de IA",
+        "tecnología"
+      ]
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "titulo": "El futuro de la publicidad es predictivo: el 'deep learning' transforma el marketing",
+      "resumen": "Se destaca cómo el 'deep learning' está transformando el marketing y la importancia de posicionar los medios como el punto intermedio, no el final, del proceso de marketing.",
+      "categoria": "Marketing",
+      "fuentes": [
+        "Adweek"
+      ],
+      "urls": [
+        "https://www.adweek.com/brand-marketing/the-future-of-advertising-is-predictive-how-deep-learning-is-transforming-marketing/"
+      ],
+      "score": 100,
+      "tags": [
+        "publicidad",
+        "marketing",
+        "deep learning",
+        "predictivo"
       ]
     }
   ],
   "loImportante": [
-    "Google expande las capacidades de sus agentes gestionados en la API de Gemini, facilitando la creación de agentes de IA robustos para desarrolladores.",
-    "Apple se prepara para un cambio significativo en el diseño del iPhone 20, que se espera sea completamente de vidrio, según filtraciones.",
-    "Una empresa de fusión nuclear respaldada por Jeff Bezos salió a la bolsa, marcando un hito en la inversión en tecnologías energéticas avanzadas.",
-    "En Argentina, el 90% de los nuevos empleados necesita trabajar más horas para mejorar sus ingresos, reflejando la precariedad laboral actual.",
-    "Demis Hassabis de Google DeepMind propone la creación de un organismo global de vigilancia de IA, liderado por EE.UU., para controlar modelos de IA avanzados."
+    "Google Images cumple 25 años, mostrando la evolución de la búsqueda visual y su impacto en la creación de contenido.",
+    "Apple sigue expandiendo su oferta de juegos con la llegada de Madden NFL 27 Arcade Edition a Apple Arcade.",
+    "La regulación de la IA es un tema central, con el CEO de DeepMind proponiendo un organismo independiente para modelos de IA avanzados.",
+    "En Argentina, la alianza entre un gigante cripto y un banco para ofrecer dólares digitales a empresas marca un avance en la adopción de criptomonedas en el sector corporativo.",
+    "La industria automotriz regional, con Argentina, Brasil y México como protagonistas, enfrenta desafíos y la amenaza de la competencia china."
   ],
   "oportunidades": [
     {
-      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "categoria": "AI",
-      "titulo": "Desarrollo de agentes de IA más robustos con Gemini API",
-      "detalle": "Las nuevas capacidades en los agentes gestionados de la API de Gemini permiten a los desarrolladores construir agentes de IA más confiables y listos para producción, lo que podría abrir nuevas vías para la automatización y la creación de herramientas.",
-      "acciones": [
-        "Explorar las nuevas funcionalidades de la API de Gemini para proyectos de automatización o arte con IA.",
-        "Evaluar la integración de estos agentes en flujos de trabajo existentes para mejorar la eficiencia."
-      ]
-    },
-    {
-      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Investing",
-      "titulo": "Inversión en energía de fusión nuclear",
-      "detalle": "La salida a bolsa de General Fusion, una empresa respaldada por Bezos que trabaja en la recreación del sol y las estrellas, indica un creciente interés y potencial en el sector de la energía de fusión nuclear, una tecnología con impacto a largo plazo.",
+      "titulo": "Inversión en dólares digitales para empresas en Argentina",
+      "detalle": "Un gigante cripto se asocia con un banco local para ofrecer dólares digitales a empresas en Argentina, destacando la solidez macroeconómica local para inversiones globales.",
       "acciones": [
-        "Investigar ETFs o fondos que incluyan empresas de energía limpia o fusión nuclear.",
-        "Monitorear el rendimiento de General Fusion como un indicador del sector de energía avanzada."
+        "Investigar las opciones de dólares digitales disponibles para empresas en Argentina.",
+        "Analizar la asociación entre Circle y Grupo Bind para entender el alcance y los beneficios para el sector corporativo."
       ]
     },
     {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "categoria": "AI",
-      "titulo": "Reactivación de la inversión y desarrollo en IA por parte de líderes tecnológicos",
-      "detalle": "La tendencia de líderes tecnológicos exitosos a volver a invertir y trabajar activamente en IA sugiere que estamos en un momento definitorio para la tecnología, con un potencial de crecimiento y monetización significativo.",
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "titulo": "Aplicación de 'deep learning' en marketing predictivo",
+      "detalle": "El 'deep learning' está transformando la publicidad, haciendo que el futuro del marketing sea predictivo y posicionando los medios como un punto intermedio crucial en el proceso.",
       "acciones": [
-        "Mantenerse actualizado sobre las tendencias y herramientas de IA emergentes.",
-        "Considerar la inversión en empresas o ETFs centrados en la IA, dada la renovada actividad de los grandes jugadores."
+        "Explorar herramientas y plataformas de 'deep learning' para marketing predictivo.",
+        "Evaluar cómo integrar estrategias de medios predictivos en campañas de marketing."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "categoria": "Market",
-      "titulo": "Precariedad laboral en Argentina",
-      "detalle": "El 90% de los nuevos ocupados en Argentina necesita trabajar más horas para aumentar sus ingresos, lo que indica una transformación del mercado laboral hacia empleos más precarios y una dificultad para recomponer los ingresos de los hogares.",
-      "mitigacion": "Diversificar fuentes de ingresos y habilidades. Mantenerse informado sobre las tendencias del mercado laboral local para anticipar cambios y adaptar estrategias profesionales."
-    },
-    {
-      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
-      "categoria": "Technology",
-      "titulo": "Promesa incumplida de Matter en el hogar inteligente de Apple",
-      "detalle": "Matter, el estándar unificador para el hogar inteligente, no ha logrado simplificar la complejidad que prometía, especialmente para los usuarios de Apple Home, debido a la resistencia de los fabricantes a permitir que los usuarios abandonen sus aplicaciones.",
-      "mitigacion": "Investigar a fondo la compatibilidad y las limitaciones de los dispositivos Matter antes de invertir en ellos. Priorizar soluciones de hogar inteligente con ecosistemas cerrados y probados si la simplicidad es clave."
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "titulo": "Demandas legales contra OpenAI",
+      "detalle": "OpenAI enfrenta múltiples demandas, incluyendo una de Apple, lo que pone en juego su apuesta por el hardware y genera incertidumbre sobre su futuro.",
+      "mitigacion": "Monitorear de cerca los desarrollos legales de OpenAI y su impacto en la industria de la IA. Evaluar la estabilidad de las plataformas de IA en función de estos litigios."
     }
   ],
   "conexiones": [
     {
-      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "El futuro diseño de vidrio del iPhone 20 y la visión de Jony Ive",
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "Regulación de IA y el caso OpenAI-Apple",
       "historias": [
-        "macrumors-aHR0cHM6Ly93d3cubWFj",
-        "9to5mac-aHR0cHM6Ly85dG81bWFj"
+        "El CEO de DeepMind propone un organismo independiente para regular la IA de frontera.",
+        "OpenAI enfrenta una demanda de Apple, lo que destaca la necesidad de estándares y regulaciones en la industria de la IA."
       ],
-      "conclusion": "Las noticias sobre el iPhone 20 y su esperado diseño de vidrio, que busca una apariencia de 'una sola losa de vidrio', se conectan directamente con la visión a largo plazo de Jony Ive, exjefe de diseño de Apple. Esto sugiere que, a pesar de su partida, la dirección de diseño de Apple sigue alineada con sus ideas originales para el dispositivo."
-    },
-    {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "titulo": "La necesidad de regulación global de IA y la reactivación de líderes tecnológicos",
-      "historias": [
-        "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-        "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1"
-      ],
-      "conclusion": "La propuesta de Demis Hassabis de Google DeepMind para un organismo global de vigilancia de IA, liderado por EE.UU., subraya la creciente preocupación por los riesgos de los modelos de IA avanzados. Esto se alinea con la observación de que los líderes tecnológicos, ya exitosos, están volviendo a invertir y trabajar intensamente en IA, lo que sugiere que la tecnología está en un punto crítico que requiere tanto innovación como supervisión."
+      "conclusion": "La creciente complejidad y el impacto de la IA, evidenciados por las demandas y las propuestas de regulación, subrayan la urgencia de establecer marcos claros para su desarrollo y uso."
     }
   ],
   "noticias": [
@@ -180,21 +152,20 @@
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
       "categoria": "AI",
       "fuente": "Google AI Blog",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-      "tituloOriginal": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
-      "tituloLimpio": "Google expande agentes gestionados en la API de Gemini",
-      "resumen": "Google anuncia nuevas capacidades en los agentes gestionados de la API de Gemini para que los desarrolladores puedan construir agentes confiables y listos para producción.",
-      "porQueImporta": "Es relevante para Guido por su interés en la IA aplicada y la automatización. Las nuevas capacidades de la API de Gemini pueden ofrecer herramientas más robustas para sus proyectos de arte con IA o para automatizar tareas.",
-      "publicadoEn": "2026-07-07T08:54:00.000Z",
-      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp",
-      "globalScore": 88,
+      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+      "tituloOriginal": "Celebrating 25 years of visual search innovation",
+      "tituloLimpio": "Google Images celebra 25 años de innovación en búsqueda visual",
+      "resumen": "Google Images cumple 25 años. Se repasan hitos importantes y nuevas formas de explorar y crear contenido visual.",
+      "porQueImporta": "Para Guido, que trabaja con retoque fotográfico y arte con IA, la evolución de la búsqueda visual y las nuevas herramientas de contenido visual son directamente relevantes para su campo profesional.",
+      "publicadoEn": "2026-07-14T16:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "ia",
-        "google",
-        "api",
-        "desarrollo",
-        "automatización"
+        "búsqueda visual",
+        "Google Images",
+        "aniversario",
+        "IA"
       ],
       "tambienVistoEn": []
     },
@@ -202,20 +173,19 @@
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Apple",
       "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/07/14/factories-ready-for-iphone-20-glass-redesign/",
-      "tituloOriginal": "Factories Now Ready for iPhone 20's Glass Redesign, Leaker Claims",
-      "tituloLimpio": "Fábricas listas para el rediseño de vidrio del iPhone 20",
-      "resumen": "Las instalaciones en la cadena de suministro de Apple terminaron las renovaciones antes de la producción del 'iPhone 20', según un filtrador de Weibo que dice que el iPhone del 20º aniversario de Apple tendrá un diseño completamente de vidrio.",
-      "porQueImporta": "Directamente relevante para Guido por su interés en Apple. Un rediseño importante del iPhone podría influir en futuras decisiones de compra o en la percepción de la marca.",
-      "publicadoEn": "2026-07-14T12:47:03.000Z",
+      "url": "https://www.macrumors.com/2026/07/14/madden-nfl-27-arcade-edition/",
+      "tituloOriginal": "Madden NFL 27 Arcade Edition Coming to Apple Arcade",
+      "tituloLimpio": "Madden NFL 27 Arcade Edition llega a Apple Arcade",
+      "resumen": "Apple anunció que Madden NFL 27 Arcade Edition estará disponible en Apple Arcade el 6 de agosto. Es una nueva entrega de la franquicia diseñada para el servicio, con estructura basada en temporadas y plantillas actuales de la NFL.",
+      "porQueImporta": "Como usuario de Apple, esta noticia es relevante para Guido por la expansión de la oferta de juegos en Apple Arcade, un servicio al que tiene acceso.",
+      "publicadoEn": "2026-07-14T14:57:28.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "apple",
-        "iphone",
-        "diseño",
-        "hardware",
-        "filtraciones"
+        "Apple Arcade",
+        "Madden NFL",
+        "juegos",
+        "Apple"
       ],
       "tambienVistoEn": []
     },
@@ -225,19 +195,18 @@
       "fuente": "Sherwood",
       "url": "https://sherwood.news/markets/general-fusion-spac-debut-nuclear-fusion-greg-twinney/",
       "tituloOriginal": "Meet the newly public, Bezos-backed company that’s recreating the sun and stars",
-      "tituloLimpio": "Empresa respaldada por Bezos que recrea el sol y las estrellas sale a la bolsa",
+      "tituloLimpio": "Empresa respaldada por Bezos que recrea el sol y las estrellas debuta en bolsa",
       "resumen": "El CEO de General Fusion, Greg Twinney, habló con Sherwood News desde el Nasdaq durante el primer día de cotización de la acción.",
-      "porQueImporta": "Interesante para Guido por su interés en la inversión y las tecnologías disruptivas. La fusión nuclear es un campo de alto potencial a largo plazo.",
+      "porQueImporta": "Esta noticia es relevante para Guido por su interés en inversiones y mercados, ya que se trata del debut en bolsa de una empresa de tecnología avanzada con respaldo importante.",
       "publicadoEn": "2026-07-13T21:42:03.000Z",
       "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/2275681609_british-columbia-canada-14-may-2026-greg-twinney-ceo-general-fusion-during-day-three-of-web.jpg",
       "globalScore": 96,
       "personalScore": 100,
       "tags": [
-        "finanzas",
         "inversión",
+        "mercados",
         "tecnología",
-        "energía",
-        "mercado"
+        "fusión nuclear"
       ],
       "tambienVistoEn": []
     },
@@ -245,21 +214,19 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/radiografia-del-empleo-el-90-los-nuevos-ocupados-necesita-trabajar-mas-horas-aumentar-sus-ingresos-n6299272",
-      "tituloOriginal": "Radiografía del empleo: el 90% de los nuevos ocupados necesita trabajar más horas para aumentar sus ingresos",
-      "tituloLimpio": "El 90% de los nuevos ocupados en Argentina necesita trabajar más horas para aumentar ingresos",
-      "resumen": "Un informe advierte que el mercado laboral atraviesa una transformación marcada por la pérdida de empleo formal y el avance de ocupaciones precarias. La mayor participación laboral evita un salto del desempleo, pero no alcanza para recomponer los ingresos de los hogares.",
-      "porQueImporta": "Es una noticia clave para Guido por su residencia en Argentina. Refleja la realidad económica y laboral del país, impactando directamente en el contexto de sus finanzas personales y profesionales.",
-      "publicadoEn": "2026-07-14T13:28:00.000Z",
-      "imagen": "https://media.ambito.com/p/39d58fa5436619f9594d792b138f2fe5/adjuntos/239/imagenes/043/337/0043337635/1200x675/smart/informalidad1.jpg",
+      "url": "https://www.ambito.com/economia/la-copa-del-mundo-y-la-n6299360",
+      "tituloOriginal": "La Copa del Mundo y la economía",
+      "tituloLimpio": "La Copa del Mundo y la economía",
+      "resumen": "El Mundial de Fútbol tiene múltiples dimensiones, incluyendo la económica. Se plantea la pregunta sobre el impacto real en la realidad de cada persona y del país.",
+      "porQueImporta": "Como residente de Argentina, el análisis del impacto económico de un evento global como el Mundial es relevante para entender el contexto local.",
+      "publicadoEn": "2026-07-14T16:26:00.000Z",
+      "imagen": "https://media.ambito.com/p/af4b38a5af9077d9d3cd346113601c8e/adjuntos/239/imagenes/040/317/0040317413/lionel-messi-qatar-mexico.jpeg",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "argentina",
+        "Argentina",
         "economía",
-        "empleo",
-        "ingresos",
-        "mercado laboral"
+        "Mundial de Fútbol"
       ],
       "tambienVistoEn": []
     },
@@ -269,18 +236,37 @@
       "fuente": "Marketing Dive",
       "url": "https://www.marketingdive.com/news/pizza-hut-serves-up-nostalgia-with-latest-rewards-program-push/825124/",
       "tituloOriginal": "Pizza Hut serves up nostalgia with latest rewards program push",
-      "tituloLimpio": "Pizza Hut apuesta por la nostalgia en su programa de recompensas",
-      "resumen": "La última iteración de “Hut Originals” incluye un menú de valor, una colección de ropa urbana inspirada en los uniformes clásicos de la marca y una experiencia móvil.",
-      "porQueImporta": "Relevante para Guido por su interés en marketing. Muestra una estrategia de marca que utiliza la nostalgia y la diversificación de productos para atraer clientes.",
+      "tituloLimpio": "Pizza Hut apela a la nostalgia con su nuevo programa de recompensas",
+      "resumen": "La última versión de 'Hut Originals' incluye un menú de valor, una colección de ropa inspirada en los uniformes clásicos de la marca y una experiencia móvil.",
+      "porQueImporta": "Para Guido, interesado en marketing, esta noticia muestra una estrategia de marca que utiliza la nostalgia y la experiencia móvil para atraer clientes.",
       "publicadoEn": "2026-07-14T13:24:00.000Z",
       "globalScore": 96,
       "personalScore": 100,
       "tags": [
         "marketing",
-        "estrategia",
-        "marca",
-        "consumo",
-        "nostalgia"
+        "estrategia de marca",
+        "nostalgia",
+        "experiencia móvil"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
+      "tituloOriginal": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+      "tituloLimpio": "El CEO de DeepMind pide un organismo de estándares independiente para regular la IA de frontera",
+      "resumen": "El CEO de DeepMind, Demis Hassabis, propone un 'organismo de estándares' de IA, modelado a partir de FINRA, para probar modelos de frontera y desarrollar mejores prácticas para su lanzamiento.",
+      "porQueImporta": "Para Guido, interesado en IA aplicada, la regulación y los estándares en el desarrollo de IA son cruciales para entender el futuro de la industria y sus implicaciones.",
+      "publicadoEn": "2026-07-14T17:45:55.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "regulación",
+        "DeepMind",
+        "estándares"
       ],
       "tambienVistoEn": []
     },
@@ -288,20 +274,19 @@
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
       "fuente": "The Verge AI",
-      "url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
-      "tituloOriginal": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
-      "tituloLimpio": "Demis Hassabis de Google propone un organismo global de vigilancia de IA liderado por EE.UU.",
-      "resumen": "Demis Hassabis cree que el mundo necesita un organismo de vigilancia de IA con el poder de frenar si los modelos de frontera se vuelven demasiado peligrosos. Escribiendo en una publicación de blog, el CEO y cofundador de Google DeepMind dijo que EE.UU. debería liderar la iniciativa.",
-      "porQueImporta": "Importante para Guido por su interés en la IA. La regulación y supervisión de la IA es un tema crucial que podría afectar el desarrollo y la aplicación de estas tecnologías a nivel global.",
-      "publicadoEn": "2026-07-14T11:43:29.000Z",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
+      "tituloOriginal": "Sam Altman didn’t need another lawsuit",
+      "tituloLimpio": "Sam Altman no necesitaba otra demanda",
+      "resumen": "OpenAI ha pasado gran parte del año involucrada en varias demandas, incluyendo una de Apple. La apuesta de OpenAI por el hardware está en juego.",
+      "porQueImporta": "Esta noticia es importante para Guido por su interés en IA y Apple, ya que una demanda de Apple contra OpenAI puede tener un impacto significativo en el desarrollo de la IA y en la relación entre estas dos grandes empresas.",
+      "publicadoEn": "2026-07-14T14:01:07.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "ia",
-        "regulación",
-        "ética",
-        "google",
-        "política tecnológica"
+        "IA",
+        "OpenAI",
+        "Apple",
+        "demandas"
       ],
       "tambienVistoEn": []
     },
@@ -312,16 +297,15 @@
       "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
       "tituloOriginal": "What Anthropic’s latest AI discovery does—and doesn’t—show",
       "tituloLimpio": "Lo que muestra y no muestra el último descubrimiento de IA de Anthropic",
-      "resumen": "Esta historia apareció originalmente en The Algorithm, nuestro boletín semanal sobre IA. Anthropic, actualmente la empresa de IA más valiosa del mundo, tiene reputación de publicar investigaciones extrañas y complejas.",
-      "porQueImporta": "Interesante para Guido por su interés en la IA y la investigación avanzada. Ofrece una perspectiva sobre los límites y las implicaciones de los últimos avances en el campo.",
+      "resumen": "Esta historia apareció originalmente en The Algorithm, el boletín semanal sobre IA. Anthropic, la empresa de IA más valiosa del mundo, tiene reputación por publicar investigaciones extrañas y complejas.",
+      "porQueImporta": "Para Guido, interesado en IA, entender los avances y las limitaciones de la investigación de empresas líderes como Anthropic es fundamental para su conocimiento del campo.",
       "publicadoEn": "2026-07-13T18:00:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "ia",
+        "IA",
         "investigación",
-        "anthropic",
-        "tecnología"
+        "Anthropic"
       ],
       "tambienVistoEn": []
     },
@@ -329,20 +313,19 @@
       "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Apple",
       "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/07/14/how-the-20th-anniversary-iphone-will-provide-a-single-slab-of-glass-look/",
-      "tituloOriginal": "How the 20th anniversary iPhone will provide a ‘single slab of glass’ look",
-      "tituloLimpio": "Cómo el iPhone del 20º aniversario ofrecerá un aspecto de 'una sola losa de vidrio'",
-      "resumen": "El exjefe de diseño de Apple, Jony Ive, siempre describió su visión a largo plazo para el diseño del iPhone como “una sola losa de vidrio”. Se cree que Apple ha mantenido ese objetivo mucho después de que Ive dejara la compañía.",
-      "porQueImporta": "Complementa la noticia del rediseño del iPhone 20, ofreciendo más detalles sobre la filosofía de diseño de Apple y cómo se materializaría en el nuevo dispositivo. Relevante para su interés en Apple.",
-      "publicadoEn": "2026-07-14T13:39:34.000Z",
+      "url": "https://9to5mac.com/2026/07/14/apple-watch-among-wearables-exempted-from-eu-user-replaceable-battery-rules/",
+      "tituloOriginal": "Apple Watch among wearables exempted from EU user-replaceable battery rules",
+      "tituloLimpio": "Apple Watch entre los wearables exentos de las reglas de baterías reemplazables por el usuario en la UE",
+      "resumen": "La Comisión Europea revisó sus regulaciones de baterías para eximir a dispositivos como el Apple Watch de los requisitos de que las baterías sean extraíbles y reemplazables por los usuarios.",
+      "porQueImporta": "Como usuario de Apple, esta noticia es relevante para Guido porque afecta el diseño y la durabilidad de los productos Apple, aunque la exención sea en la UE, puede influir en tendencias de diseño global.",
+      "publicadoEn": "2026-07-14T17:10:22.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "apple",
-        "iphone",
-        "diseño",
-        "jony ive",
-        "hardware"
+        "Apple Watch",
+        "Apple",
+        "regulaciones",
+        "baterías"
       ],
       "tambienVistoEn": []
     },
@@ -350,41 +333,40 @@
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
       "categoria": "Apple",
       "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/07/14/owning-an-apple-home-the-broken-promise-of-matter?utm_source=rss",
-      "tituloOriginal": "Owning an Apple Home: The broken promise of Matter",
-      "tituloLimpio": "La promesa incumplida de Matter en el hogar inteligente de Apple",
-      "resumen": "Matter ha sido un estándar unificador para el hogar inteligente, pero no ha salvado a los usuarios de la complejidad que prometía solucionar. Aquí es donde se queda corto en algunos de nuestros hogares Apple.",
-      "porQueImporta": "Importante para Guido si considera la automatización del hogar o si ya usa productos Apple Home. Destaca las limitaciones de un estándar que prometía simplificar, pero no lo logró completamente.",
-      "publicadoEn": "2026-07-14T12:20:22.000Z",
-      "globalScore": 96,
+      "url": "https://appleinsider.com/articles/26/07/14/prismml-confirms-it-is-in-talks-with-apple-about-ai-model-shrinking-tech?utm_source=rss",
+      "tituloOriginal": "PrismML confirms it is in talks with Apple about AI model-shrinking tech",
+      "tituloLimpio": "PrismML confirma conversaciones con Apple sobre tecnología para reducir modelos de IA",
+      "resumen": "Cinco días después de los informes iniciales, PrismML confirmó que está en conversaciones con Apple sobre el uso de su tecnología para reducir modelos de IA.",
+      "porQueImporta": "Esta noticia es muy relevante para Guido, ya que combina su interés en Apple y la IA, específicamente en tecnologías que optimizan modelos de IA para dispositivos como iPhones, lo cual es clave para la IA aplicada.",
+      "publicadoEn": "2026-07-14T17:56:30.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "apple",
-        "hogar inteligente",
-        "automatización",
-        "tecnología",
-        "matter"
+        "Apple",
+        "IA",
+        "modelos de IA",
+        "tecnología"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
-      "categoria": "Apple",
-      "fuente": "MacStories",
-      "url": "https://www.macstories.net/stories/visionos-27-the-macstories-beta-preview/",
-      "tituloOriginal": "visionOS 27: The MacStories Beta Preview",
-      "tituloLimpio": "Avance de la beta de visionOS 27",
-      "resumen": "La temporada beta de verano está en pleno apogeo, con una nueva ola de probadores uniéndose a través de las betas públicas de OS 27 recién lanzadas. Aunque visionOS nunca ha sido incluido en el programa beta público, ahora es un buen momento para revisar visionOS 27.",
-      "porQueImporta": "Relevante para Guido por su interés en Apple y las nuevas tecnologías. visionOS es el sistema operativo de las Vision Pro, y conocer sus avances es clave para entender el futuro de la plataforma.",
-      "publicadoEn": "2026-07-13T21:45:03.000Z",
-      "globalScore": 100,
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-banks-see-ai-173528744.html",
+      "tituloOriginal": "Wall Street banks see AI 'super cycle' set to boost deals, financing",
+      "tituloLimpio": "Bancos de Wall Street ven un 'super ciclo' de IA que impulsará acuerdos y financiación",
+      "resumen": "No se proporcionó resumen.",
+      "porQueImporta": "Para Guido, interesado en finanzas e inversiones, la perspectiva de un 'super ciclo' de IA en Wall Street sugiere oportunidades de inversión y un impacto significativo en los mercados.",
+      "publicadoEn": "2026-07-14T17:35:28.000Z",
+      "imagen": "https://media.zenfs.com/en/reuters-finance.com/2e5e9d0f4d9fa287adf2f6548d418d0a",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "apple",
-        "visionos",
-        "beta",
-        "software",
-        "realidad aumentada"
+        "finanzas",
+        "inversión",
+        "IA",
+        "mercados"
       ],
       "tambienVistoEn": []
     },
@@ -392,43 +374,20 @@
       "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
       "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/14/hut-8-price-target-hiked-to-usd165-at-benchmark-as-ai-pivot-reshapes-valuation",
-      "tituloOriginal": "Hut 8 price target hiked to $165 at Benchmark as AI pivot reshapes valuation",
-      "tituloLimpio": "El precio objetivo de Hut 8 sube a $165 en Benchmark por el giro hacia la IA",
-      "resumen": "Mark Palmer dijo que el proyecto Beacon Point de Hut 8 transforma a la compañía en una plataforma de infraestructura de IA con un largo camino de crecimiento.",
-      "porQueImporta": "Interesante para Guido por la intersección de finanzas, inversión y IA. Muestra cómo la adopción de la IA puede revalorizar empresas en otros sectores.",
-      "publicadoEn": "2026-07-14T12:53:05.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/e4ca7bbcf33940ac3a79675ca9923d61aeededd5-1920x1077.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "globalScore": 96,
+      "url": "https://www.coindesk.com/business/2026/07/14/binance-bets-on-becoming-a-crypto-super-app-as-stablecoins-reshape-growth",
+      "tituloOriginal": "Binance bets on becoming a crypto 'super app' as stablecoins reshape growth",
+      "tituloLimpio": "Binance apuesta por convertirse en una 'super app' cripto a medida que las stablecoins redefinen el crecimiento",
+      "resumen": "Shunyet Jan, jefe de trading al contado y derivados de Binance, dijo que el exchange se enfoca más en pagos y servicios financieros que solo en el trading para impulsar su próxima fase de expansión.",
+      "porQueImporta": "Para Guido, interesado en finanzas y criptomonedas, la estrategia de Binance de convertirse en una 'super app' y el rol de las stablecoins son tendencias importantes en el mercado cripto.",
+      "publicadoEn": "2026-07-14T17:33:19.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/fb3faad30a017cf2a7ec33694fc3ee05fd3cc52f-6016x4016.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "finanzas",
-        "inversión",
-        "ia",
         "criptomonedas",
-        "mercado"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
-      "categoria": "Finance",
-      "fuente": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/openai-kalshi-prediction-markets-world-cup-chatgpt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "tituloOriginal": "OpenAI quietly adds Kalshi World Cup odds to ChatGPT: Report",
-      "tituloLimpio": "OpenAI añade discretamente las cuotas de la Copa del Mundo de Kalshi a ChatGPT",
-      "resumen": "ChatGPT de OpenAI ahora muestra las cuotas del mercado de predicción de la Copa del Mundo de Kalshi en los resultados de búsqueda, marcando el primer acuerdo reportado de la firma de IA con una plataforma de mercado de predicción.",
-      "porQueImporta": "Relevante para Guido por su interés en la IA y las herramientas. Muestra una nueva integración de ChatGPT que podría tener implicaciones para la forma en que la IA interactúa con los mercados de predicción y la información en tiempo real.",
-      "publicadoEn": "2026-07-14T13:30:06.000Z",
-      "imagen": "https://s3-images.ctmedia.io/media/article-covers/sam-altman-polymarket.png",
-      "globalScore": 90,
-      "personalScore": 100,
-      "tags": [
-        "ia",
-        "openai",
-        "chatgpt",
-        "mercados de predicción",
-        "integración"
+        "Binance",
+        "stablecoins",
+        "servicios financieros"
       ],
       "tambienVistoEn": []
     },
@@ -436,21 +395,21 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-martes-14-julio_0_u7sXQYUPyn.html",
-      "tituloOriginal": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este martes 14 de julio",
-      "tituloLimpio": "Dólar hoy: cotización del oficial y sus diferentes tipos de cambio este martes 14 de julio",
-      "resumen": "Desde el oficial hasta el blue y el turista, todos los tipos de cambio. Mirá la cotización minuto a minuto.",
-      "porQueImporta": "Es una noticia esencial para Guido por su residencia en Argentina y su interés en finanzas. La cotización del dólar impacta directamente en la economía personal y las decisiones de inversión.",
-      "publicadoEn": "2026-07-14T12:00:02.000Z",
-      "imagen": "https://www.clarin.com/img/2019/11/18/BnZdjOhE_1200x630__1.jpg",
-      "globalScore": 94,
+      "url": "https://www.clarin.com/economia/dolares-digitales-argentina-gigante-cripto-une-banco-llegar-empresas_0_bhV6IWy7xC.html",
+      "tituloOriginal": "Dólares digitales en Argentina: gigante cripto se une a un banco para llegar a las empresas",
+      "tituloLimpio": "Dólares digitales en Argentina: gigante cripto se une a un banco para llegar a las empresas",
+      "resumen": "Jeremy Allaire, de Circle, visitó Buenos Aires y destacó la solidez macro local para inversiones de empresas globales. La firma se asoció con el Grupo Bind.",
+      "porQueImporta": "Esta noticia es muy relevante para Guido por su interés en finanzas y Argentina, ya que muestra el avance de las criptomonedas y los dólares digitales en el ámbito empresarial local.",
+      "publicadoEn": "2026-07-14T16:53:41.000Z",
+      "imagen": "https://www.clarin.com/img/2026/07/14/Q3tj1k3WU_1200x630__1.jpg",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "dólar",
-        "economía",
-        "finanzas",
-        "mercado"
+        "dólares digitales",
+        "cripto",
+        "Argentina",
+        "empresas",
+        "finanzas"
       ],
       "tambienVistoEn": []
     },
@@ -458,21 +417,20 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/07/14/arca-lanzo-un-plan-de-pagos-para-regularizar-deudas-quienes-pueden-acceder-y-cuales-son-las-principales-claves/",
-      "tituloOriginal": "ARCA lanzó un plan de pagos para regularizar deudas: quiénes pueden acceder y cuáles son las principales claves",
-      "tituloLimpio": "ARCA lanzó un plan de pagos para regularizar deudas",
-      "resumen": "La medida permite financiar obligaciones vencidas hasta fines de junio. El esquema fija distintos requisitos según el tipo de contribuyente, establece un plazo para adherirse y define condiciones específicas sobre cuotas, anticipo y caducidad.",
-      "porQueImporta": "Relevante para Guido como residente en Argentina. Un plan de pagos para deudas puede ser una herramienta útil para la gestión financiera personal o de pequeños negocios.",
-      "publicadoEn": "2026-07-14T13:33:55.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/HPKSSJTTN5GHJPEBOOSLIY747I.png?auth=6e9971d8e0ace3dc4d18532ff81960b496aabe30a35b5f12bfff48d994a697cc&smart=true&width=1408&height=768",
-      "globalScore": 94,
+      "url": "https://www.infobae.com/economia/2026/07/14/argentina-brasil-y-mexico-los-tres-modelos-que-hoy-conviven-en-la-industria-automotriz-regional/",
+      "tituloOriginal": "Argentina, Brasil y México: los tres modelos que hoy conviven en la industria automotriz regional",
+      "tituloLimpio": "Argentina, Brasil y México: los tres modelos que hoy conviven en la industria automotriz regional",
+      "resumen": "Los tres países son los principales productores de autos de la región, pero tienen problemáticas diferentes. En todos existe la amenaza china que puede cambiar el escenario.",
+      "porQueImporta": "Para Guido, como residente de Argentina, entender la dinámica de la industria automotriz regional y la competencia global es relevante para el contexto económico del país.",
+      "publicadoEn": "2026-07-14T17:47:51.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/5EIVYMLBH5CYZPSGKVHYAU6IFY.png?auth=c316d37bffbcbbed02e17a82f363a4bee8439592d4ffa9142a786c32bb64dfcf&smart=true&width=1408&height=768",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "finanzas",
-        "deudas",
+        "Argentina",
         "economía",
-        "impuestos"
+        "industria automotriz",
+        "competencia"
       ],
       "tambienVistoEn": []
     },
@@ -482,25 +440,44 @@
       "fuente": "La Nacion Economia",
       "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid14072026/",
       "tituloOriginal": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 14 de julio, minuto a minuto",
-      "tituloLimpio": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 14 de julio",
-      "resumen": "La divisa oficial opera a $1505 para la venta; el dólar blue cotiza a $1510 para esa operación.",
-      "porQueImporta": "Noticia fundamental para Guido por su interés en finanzas y su residencia en Argentina. La cotización del dólar blue es un indicador clave de la economía local.",
-      "publicadoEn": "2026-07-14T13:40:00.000Z",
+      "tituloLimpio": "Dólar hoy y dólar blue, EN VIVO: cotización del oficial y el paralelo este martes 14 de julio",
+      "resumen": "La divisa oficial opera a $1500 para la venta; el dólar blue cotiza a $1525 para esa operación.",
+      "porQueImporta": "Para Guido, como residente de Argentina, la cotización del dólar oficial y el dólar blue es una información económica diaria fundamental.",
+      "publicadoEn": "2026-07-14T17:45:00.000Z",
       "imagen": "https://resizer.glanacion.com/resizer/v2/MFIAOKGT7NEATGMHEPAZ5PHVGU.png?auth=ff87d1d5f6f3ed0629786616d488e1aa6591939eb0982b2f0d2be7dc4d091b5b&smart=true&width=2000&height=1333",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "argentina",
+        "Argentina",
         "dólar",
         "economía",
-        "finanzas",
-        "mercado"
+        "finanzas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "fuente": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/the-future-of-advertising-is-predictive-how-deep-learning-is-transforming-marketing/",
+      "tituloOriginal": "The Future of Advertising Is Predictive: How Deep Learning Is Transforming Marketing",
+      "tituloLimpio": "El futuro de la publicidad es predictivo: el 'deep learning' transforma el marketing",
+      "resumen": "Se destaca cómo el 'deep learning' está transformando el marketing y la importancia de posicionar los medios como el punto intermedio, no el final, del proceso de marketing.",
+      "porQueImporta": "Para Guido, interesado en marketing y IA, esta noticia es clave para entender cómo las tecnologías de 'deep learning' están redefiniendo las estrategias publicitarias y de marketing.",
+      "publicadoEn": "2026-07-14T14:01:25.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "publicidad",
+        "deep learning",
+        "IA"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-07-14T13:50:26.068Z"
+    "generadoEn": "2026-07-14T18:03:02.465Z"
   }
 }
