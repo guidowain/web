@@ -1,0 +1,152 @@
+{
+  "fecha": "2026-07-15",
+  "generadoEn": "2026-07-15T13:49:29.020Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "Hoy, 15 de julio de 2026, el mercado de la IA muestra un giro hacia la implementación y dispositivos, con Anthropic y OpenAI explorando nuevas vías. Apple avanza con Apple Intelligence en China y descuentos en MacBooks. En Argentina, se registran aumentos en el transporte público y movimientos en el dólar y plazos fijos. El mercado bursátil global extiende ganancias impulsado por datos de inflación y resultados de empresas.",
+  "radarPersonal": [
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "Anthropic y Blackstone apuestan a que el próximo negocio de IA de un billón de dólares es la implementación, no los modelos",
+      "resumen": "Anthropic-backed Ode se lanza mientras los laboratorios de IA apuestan a que la integración de ingenieros en las empresas es clave para acelerar la adopción de la IA empresarial.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/"
+      ],
+      "score": 100,
+      "tags": [
+        "ia",
+        "implementacion",
+        "negocios"
+      ]
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "OpenAI podría anunciar un parlante inteligente con ChatGPT este año",
+      "resumen": "El primer dispositivo de OpenAI sería un parlante inteligente que permite hablar con ChatGPT, según un informe. El dispositivo no tendría pantalla, pero usaría una cámara y sensores adicionales para 'entender' el entorno.",
+      "categoria": "AI",
+      "fuentes": [
+        "The Verge AI"
+      ],
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device"
+      ],
+      "score": 100,
+      "tags": [
+        "openai",
+        "chatgpt",
+        "hardware",
+        "ia"
+      ]
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "titulo": "Apple Intelligence finalmente en camino de lanzamiento en China",
+      "resumen": "Una nueva presentación oficial marca la conclusión de otro obstáculo regulatorio que impedía el lanzamiento de Apple Intelligence en el mercado chino de Apple. Apple Intelligence se lanzó brevemente por error en China, pero ahora parece que se lanzará oficialmente pronto.",
+      "categoria": "Apple",
+      "fuentes": [
+        "AppleInsider"
+      ],
+      "urls": [
+        "https://appleinsider.com/articles/26/07/15/apple-intelligence-finally-on-the-road-to-release-in-china?utm_source=rss"
+      ],
+      "score": 100,
+      "tags": [
+        "apple",
+        "ia",
+        "china"
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "titulo": "La IA acelera la brecha de responsabilidad. Así pueden cerrarla los CMOs.",
+      "resumen": "Natalie Bastian, CMO de InMarket, explica lo que los marketers están perdiendo a medida que la IA pasa de la fase piloto a la producción a mayor escala.",
+      "categoria": "Marketing",
+      "fuentes": [
+        "Marketing Dive"
+      ],
+      "urls": [
+        "https://www.marketingdive.com/news/ai-is-accelerating-the-accountability-gap-heres-how-cmos-can-close-it/824338/"
+      ],
+      "score": 100,
+      "tags": [
+        "ia",
+        "marketing",
+        "responsabilidad"
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Nuevo aumento de colectivos en el AMBA: a qué líneas alcanza y cuánto cuesta el boleto desde hoy",
+      "resumen": "El incremento se aplica a 104 líneas de colectivos de jurisdicción nacional y también impacta en tarifas de trenes. El boleto mínimo registrado tiene la menor suba, con incrementos mayores para distancias más largas.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/nuevo-aumento-colectivos-el-amba-que-lineas-alcanza-y-cuanto-cuesta-el-boleto-hoy-n6299716"
+      ],
+      "score": 100,
+      "tags": [
+        "argentina",
+        "transporte",
+        "economia"
+      ]
+    }
+  ],
+  "loImportante": [
+    "La IA está evolucionando de modelos a soluciones implementadas, con empresas como Anthropic enfocándose en la integración empresarial.",
+    "OpenAI podría lanzar un dispositivo de hardware, un parlante inteligente con ChatGPT, marcando una expansión en su oferta de productos.",
+    "Apple Intelligence se prepara para su lanzamiento oficial en China, superando obstáculos regulatorios.",
+    "En Argentina, se registra un aumento en las tarifas de colectivos y trenes en el AMBA, impactando directamente en el costo de vida.",
+    "El mercado bursátil global muestra ganancias, impulsado por datos de inflación y resultados de empresas, lo que podría influir en las decisiones de inversión."
+  ],
+  "oportunidades": [
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "titulo": "Inversión en implementación de IA empresarial",
+      "detalle": "La apuesta de Anthropic y Blackstone por la implementación de IA en empresas sugiere una tendencia de mercado hacia soluciones prácticas y la integración de ingenieros en las organizaciones. Esto podría generar nuevas oportunidades de negocio y demanda de habilidades en IA aplicada.",
+      "acciones": [
+        "Investigar empresas que se especialicen en la implementación de IA o que ofrezcan servicios de consultoría en este ámbito.",
+        "Evaluar la posibilidad de invertir en ETFs o fondos que incluyan empresas con fuerte enfoque en la aplicación de IA en diversos sectores."
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "Cerrar la brecha de responsabilidad en marketing con IA",
+      "detalle": "La aceleración de la IA en marketing presenta una 'brecha de responsabilidad'. Los CMOs que logren cerrarla, entendiendo y aplicando la IA de manera efectiva, podrán obtener una ventaja competitiva. Esto implica una oportunidad para desarrollar estrategias de marketing más precisas y medibles.",
+      "acciones": [
+        "Explorar herramientas de IA que mejoren la medición y atribución en campañas de marketing.",
+        "Capacitarse en la aplicación estratégica de IA en marketing para optimizar resultados y demostrar el retorno de la inversión."
+      ]
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Productivity",
+      "titulo": "Descuentos en MacBook Air M5",
+      "detalle": "Amazon ofrece un descuento de 150 dólares en varios modelos de MacBook Air M5, especialmente en los de 13 pulgadas. Estos precios son de los más bajos vistos después de los aumentos de Apple el mes pasado.",
+      "acciones": [
+        "Considerar la compra de un MacBook Air M5 si se necesita una actualización de hardware, aprovechando el descuento actual."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Market",
+      "titulo": "Aumento del costo del transporte público en AMBA",
+      "detalle": "El nuevo aumento en las tarifas de colectivos y trenes en el AMBA impacta directamente en el presupuesto diario de los residentes de Buenos Aires, aumentando los costos operativos para quienes dependen del transporte público.",
+      "mitigacion": "Evaluar alternativas de transporte o ajustar el presupuesto mensual para absorber el incremento."
+    }
+  ],
+  "conexiones": [],
+  "noticias": [],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-07-15T13:49:29.020Z"
+  }
+}
