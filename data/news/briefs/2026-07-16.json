@@ -1,189 +1,163 @@
 {
   "fecha": "2026-07-16",
-  "generadoEn": "2026-07-16T13:59:36.770Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "Hoy destacamos el avance de Apple en IA con su aprobación en China y la producción de componentes para el iPhone plegable. En Argentina, el Gobierno ajusta el presupuesto y endurece controles a supermercados, mientras se debate la reforma de propiedad privada en el Senado. También hay novedades en el mercado de chips y la fusión nuclear.",
+  "generadoEn": "2026-07-16T18:06:40.463Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Hoy, la integración de la IA con aplicaciones y servicios es el tema central. Google y 1Password están permitiendo que la IA interactúe con otras apps de forma segura, abriendo nuevas posibilidades para la automatización y la productividad. En Apple, se esperan actualizaciones para iOS 27 y visionOS 27, y se posponen los refrescos de iPad y iPad Air hasta 2027. En Argentina, el gobierno tuvo déficit en junio pero cerró el semestre con superávit, y se debaten aranceles de EE.UU. a Brasil que podrían impactar la región. El mercado financiero muestra movimientos en criptomonedas y acciones, con una empresa respaldada por Bezos saliendo a bolsa.",
   "radarPersonal": [
     {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Google permite conectar más apps a su buscador con IA",
+      "resumen": "Se podrán vincular e interactuar de forma segura con servicios directamente en el Modo IA de Google.",
+      "categoria": "AI",
+      "fuentes": [
+        "Google AI Blog",
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://blog.google/products-and-platforms/products/search/connected-apps/",
+        "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/"
+      ],
+      "score": 100,
+      "tags": [
+        "google",
+        "ia",
+        "apps",
+        "integracion"
+      ]
+    },
+    {
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "Apple aumenta pedidos de componentes para iPhone plegable",
-      "resumen": "Apple habría incrementado los pedidos de componentes de refrigeración de cámara de vapor para su próximo iPhone plegable y modelos de iPhone de 20 aniversario.",
-      "categoria": "Apple",
+      "titulo": "1Password para Claude permite que la IA inicie sesión sin ver tus contraseñas",
+      "resumen": "La app de gestión de contraseñas 1Password añadió soporte para Claude, permitiendo que el servicio de IA acceda a credenciales almacenadas para completar tareas en el navegador sin exponer la contraseña real.",
+      "categoria": "AI",
       "fuentes": [
         "MacRumors"
       ],
       "urls": [
-        "https://www.macrumors.com/2026/07/16/apple-vapor-chamber-orders-foldable-iphone/"
+        "https://www.macrumors.com/2026/07/16/1password-claude-integration/"
       ],
       "score": 100,
       "tags": [
-        "apple",
-        "iphone",
-        "plegable",
-        "producción"
-      ]
-    },
-    {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "titulo": "Apple Intelligence aprobada para lanzamiento en China con Alibaba y Baidu",
-      "resumen": "El acuerdo, que se rumoreaba, marca un paso importante para las ambiciones de IA de Apple en un mercado clave.",
-      "categoria": "AI",
-      "fuentes": [
-        "TechCrunch AI"
-      ],
-      "urls": [
-        "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/"
-      ],
-      "score": 100,
-      "tags": [
-        "apple",
-        "ia",
-        "china",
-        "lanzamiento"
-      ]
-    },
-    {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "titulo": "Claude puede usar credenciales de 1Password",
-      "resumen": "1Password lanzó una nueva integración de navegador para Claude que permite al chatbot de Anthropic acceder a credenciales de seguridad almacenadas, como nombres de usuario y contraseñas.",
-      "categoria": "AI",
-      "fuentes": [
-        "The Verge AI"
-      ],
-      "urls": [
-        "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration"
-      ],
-      "score": 100,
-      "tags": [
-        "ia",
-        "automatización",
-        "seguridad",
-        "herramientas"
-      ]
-    },
-    {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "titulo": "OpenAI creó GPT-Red para hacer sus modelos más seguros",
-      "resumen": "OpenAI construyó un 'super-hacker' LLM llamado GPT-Red que usa para ayudar a sus otros modelos a reforzar sus defensas contra ciberataques.",
-      "categoria": "AI",
-      "fuentes": [
-        "MIT Technology Review AI"
-      ],
-      "urls": [
-        "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/"
-      ],
-      "score": 100,
-      "tags": [
+        "1password",
+        "claude",
         "ia",
         "seguridad",
-        "openai",
-        "llm"
+        "automatizacion"
       ]
     },
     {
-      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
-      "titulo": "Ledger busca que agentes de IA gestionen cripto sin tener las claves",
-      "resumen": "Los agentes de IA pueden leer saldos de billeteras y analizar carteras, pero requieren que cada acción sensible sea aprobada en un dispositivo de hardware Ledger antes de ser ejecutada.",
-      "categoria": "Finance",
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Aranceles de Donald Trump a Brasil: ¿cuál es el rol de PIX en la sanción de EEUU?",
+      "resumen": "La medida de Washington contra Brasil busca corregir supuestas prácticas comerciales desleales y en detrimento de las empresas de pago estadounidenses.",
+      "categoria": "Argentina",
       "fuentes": [
-        "CoinDesk"
+        "Ambito"
       ],
       "urls": [
-        "https://www.coindesk.com/tech/2026/07/15/ledger-wants-ai-agents-to-manage-crypto-without-holding-your-keys"
+        "https://www.ambito.com/economia/aranceles-donald-trump-brasil-cual-es-el-rol-pix-la-sancion-eeuu-n6300233"
       ],
       "score": 100,
       "tags": [
-        "ia",
-        "cripto",
-        "seguridad",
-        "finanzas"
-      ]
-    }
-  ],
-  "loImportante": [
-    "Apple avanza en su estrategia de IA con la aprobación de Apple Intelligence en China y el aumento de pedidos para el iPhone plegable.",
-    "El Gobierno argentino reasigna partidas presupuestarias y endurece controles a supermercados para combatir la evasión.",
-    "El Senado argentino debate la reforma de propiedad privada y el pliego de un juez clave.",
-    "La IA sigue evolucionando en seguridad y automatización, con OpenAI creando un 'super-hacker' y 1Password integrando Claude.",
-    "En finanzas, se observa una caída en el Nasdaq y el sector de chips, mientras que la fusión nuclear y la gestión de cripto con IA son tendencias emergentes."
-  ],
-  "oportunidades": [
-    {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "categoria": "Automation",
-      "titulo": "Automatización de tareas con IA y 1Password",
-      "detalle": "La integración de Claude con 1Password permite automatizar tareas multi-paso que requieren credenciales, como reservas de viajes o gestión de cuentas online, sin ingreso manual.",
-      "acciones": [
-        "Explorar cómo esta integración puede optimizar flujos de trabajo personales o profesionales.",
-        "Evaluar la seguridad y conveniencia de delegar tareas sensibles a agentes de IA con acceso a credenciales."
-      ]
-    },
-    {
-      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
-      "categoria": "Investing",
-      "titulo": "Gestión de cripto con IA y seguridad de hardware",
-      "detalle": "Ledger busca que agentes de IA gestionen criptomonedas y analicen carteras, con la seguridad de requerir aprobación física en el dispositivo Ledger para cada acción sensible.",
-      "acciones": [
-        "Investigar herramientas de gestión de cartera de cripto basadas en IA que prioricen la seguridad de hardware.",
-        "Considerar la aplicación de esta tecnología para un monitoreo más eficiente de inversiones en cripto."
+        "aranceles",
+        "brasil",
+        "eeuu",
+        "comercio",
+        "economia"
       ]
     },
     {
       "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
-      "categoria": "Investing",
-      "titulo": "Inversión en fusión nuclear con General Fusion",
-      "detalle": "General Fusion, una empresa respaldada por Bezos que trabaja en recrear el sol y las estrellas, debutó en bolsa.",
+      "titulo": "General Fusion, la empresa respaldada por Bezos que recrea el sol y las estrellas, sale a bolsa",
+      "resumen": "El CEO de General Fusion, Greg Twinney, habló con Sherwood News desde el Nasdaq durante el primer día de cotización de la acción.",
+      "categoria": "Finance",
+      "fuentes": [
+        "Sherwood"
+      ],
+      "urls": [
+        "https://sherwood.news/markets/general-fusion-spac-debut-nuclear-fusion-greg-twinney/"
+      ],
+      "score": 100,
+      "tags": [
+        "inversion",
+        "spac",
+        "energia",
+        "mercado"
+      ]
+    }
+  ],
+  "loImportante": [
+    "La integración de IA con aplicaciones de uso diario avanza, permitiendo automatización y mayor seguridad en el manejo de credenciales.",
+    "Apple sigue actualizando sus sistemas operativos (iOS 27, visionOS 27), aunque los refrescos de hardware para iPad se demoran hasta 2027.",
+    "La situación económica en Argentina muestra un superávit semestral a pesar de un déficit en junio, con debates sobre la ley de propiedad privada en el Senado.",
+    "El mercado de criptomonedas y acciones presenta volatilidad, con inversiones significativas en exchanges y movimientos en el Nasdaq.",
+    "Las tendencias en marketing digital destacan la influencia de creadores de contenido deportivo y la importancia de la seguridad en programas de afiliados."
+  ],
+  "oportunidades": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "Automation",
+      "titulo": "Automatización avanzada con IA en Google Search",
+      "detalle": "La capacidad de vincular e interactuar con servicios directamente en el Modo IA de Google Search abre puertas a la automatización de tareas complejas y a la integración de flujos de trabajo.",
       "acciones": [
-        "Analizar el potencial de inversión en empresas de energía de fusión nuclear como General Fusion.",
-        "Seguir de cerca el desarrollo de esta tecnología y su impacto a largo plazo en el sector energético."
+        "Explorar las nuevas funcionalidades del Modo IA de Google para integrar herramientas de trabajo.",
+        "Evaluar cómo esta integración puede optimizar procesos de retoque fotográfico o gestión de proyectos con IA."
+      ]
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Productivity",
+      "titulo": "Mayor seguridad y eficiencia con 1Password y Claude",
+      "detalle": "La integración de 1Password con Claude permite que la IA realice tareas que requieren credenciales sin exponer las contraseñas, mejorando la seguridad y la eficiencia en la automatización de procesos.",
+      "acciones": [
+        "Investigar cómo esta integración puede aplicarse para automatizar tareas repetitivas que requieren inicio de sesión.",
+        "Considerar la implementación de 1Password si aún no se utiliza, para aprovechar estas nuevas capacidades de IA de forma segura."
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "Marketing con influencers deportivos en YouTube",
+      "detalle": "YouTube destaca la creciente influencia de los creadores de contenido deportivo y ofrece guía sobre cómo conectar con ellos para asociaciones de marca.",
+      "acciones": [
+        "Analizar la posibilidad de colaborar con influencers deportivos para campañas de marketing de productos o servicios relacionados con el arte digital o la tecnología.",
+        "Estudiar las tendencias de contenido en YouTube para identificar nichos y oportunidades de crecimiento."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
-      "categoria": "Market",
-      "titulo": "Caída en el Nasdaq y sector de chips",
-      "detalle": "El Nasdaq experimentó una caída, con desplomes en Sandisk, SK Hynix y TSMC, un chipmaker de Nvidia.",
-      "mitigacion": "Revisar la exposición a acciones tecnológicas y del sector de semiconductores. Considerar diversificación o estrategias de cobertura si se tiene una alta concentración en estos activos."
-    },
-    {
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "categoria": "Regulatory",
-      "titulo": "Tensiones comerciales entre Brasil y EE.UU.",
-      "detalle": "Lula da Silva calificó los aranceles de Donald Trump como 'ilegales' y anticipó represalias, activando la Ley de Reciprocidad y llevando el caso a la OMC.",
-      "mitigacion": "Monitorear el impacto de estas tensiones en el comercio regional y las cadenas de suministro. Evaluar posibles efectos en inversiones o negocios con exposición a ambos mercados."
+      "categoria": "Market",
+      "titulo": "Impacto de aranceles de EE.UU. a Brasil",
+      "detalle": "La imposición de aranceles de Donald Trump a Brasil por supuestas prácticas comerciales desleales podría generar inestabilidad en la región y afectar el comercio internacional, con posibles repercusiones en Argentina.",
+      "mitigacion": "Monitorear de cerca las noticias sobre políticas comerciales entre EE.UU. y países de la región para anticipar posibles impactos en la economía local y en las inversiones."
     },
     {
-      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
-      "categoria": "Marketing",
-      "titulo": "Fraude de afiliados más allá de lo común",
-      "detalle": "El escándalo de Phia se describe como un esquema de fraude de afiliados que va más allá de lo habitual.",
-      "mitigacion": "Revisar y fortalecer los controles internos en programas de marketing de afiliados. Mantenerse informado sobre las últimas tácticas de fraude para proteger las campañas y la reputación."
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Technology",
+      "titulo": "Demora en actualizaciones de iPad y iPad Air",
+      "detalle": "Los refrescos de los modelos de iPad y iPad Air se posponen hasta 2027, lo que podría afectar las decisiones de compra o actualización de hardware para usuarios de Apple.",
+      "mitigacion": "Planificar las compras de hardware de Apple considerando los nuevos plazos anunciados, evaluando si las necesidades actuales justifican esperar por los modelos de 2027."
     }
   ],
   "conexiones": [
     {
-      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "Apple y su estrategia de hardware y software",
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "La IA se integra más profundamente en nuestras herramientas diarias",
       "historias": [
-        "Apple aumenta pedidos de componentes para iPhone plegable",
-        "Apple Intelligence aprobada para lanzamiento en China con Alibaba y Baidu",
-        "WhatsApp añade controles en llamada para Voice Isolation y Wide Spectrum en iPhone",
-        "visionOS 27: la vista previa beta de MacStories"
+        "Google permite conectar más apps a su buscador con IA, ampliando las capacidades de automatización.",
+        "1Password para Claude permite que la IA inicie sesión sin ver tus contraseñas, mejorando la seguridad en la interacción con servicios."
       ],
-      "conclusion": "Apple está invirtiendo fuertemente en innovación de hardware con el iPhone plegable y en expansión de software de IA, como Apple Intelligence en China. Además, sigue mejorando la experiencia de usuario en sus dispositivos con actualizaciones como las de WhatsApp en iPhone y las betas de visionOS, mostrando un ecosistema integrado y en constante evolución."
+      "conclusion": "Estas noticias demuestran una tendencia clara: la inteligencia artificial se está volviendo una parte integral de la interacción con nuestras aplicaciones y servicios, no solo para responder preguntas, sino para ejecutar tareas de forma segura y eficiente. Esto es clave para la automatización y la productividad personal y profesional."
     },
     {
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
-      "titulo": "Medidas económicas y políticas en Argentina",
+      "titulo": "Economía argentina: entre el superávit semestral y el déficit mensual",
       "historias": [
-        "El Gobierno le dio más fondos a la SIDE y universidades y recortó en empresas públicas",
-        "El Gobierno endurece los controles sobre los supermercados: cuál es el plan que prepara para combatir la evasión",
-        "Sesión en el Senado hoy, EN VIVO: el Gobierno busca aprobar la reforma sobre propiedad privada",
-        "Exposición Rural de Palermo: con el tradicional corte de cintas, abrió la muestra y ya se palpita otra gran edición"
+        "El Gobierno tuvo déficit en junio pero terminó el primer semestre con superávit en las cuentas públicas.",
+        "Junio interrumpió la racha de superávits del Gobierno: el rol del pago de aguinaldos y de la postergación del pago de Ganancias."
       ],
-      "conclusion": "El Gobierno argentino está realizando ajustes presupuestarios significativos, priorizando ciertas áreas y recortando otras. Simultáneamente, busca fortalecer el control sobre el sector privado, como los supermercados, para combatir la evasión. A nivel legislativo, se debate una reforma clave sobre propiedad privada en el Senado, mientras la Exposición Rural de Palermo marca un evento importante para el sector agropecuario."
+      "conclusion": "Aunque el gobierno logró un superávit en el primer semestre, el déficit de junio, explicado por el pago de aguinaldos y la postergación de Ganancias, muestra la fragilidad de las cuentas públicas y la importancia de monitorear los indicadores económicos mes a mes."
     }
   ],
   "noticias": [
@@ -191,20 +165,20 @@
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
       "categoria": "AI",
       "fuente": "Google AI Blog",
-      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-      "tituloOriginal": "Celebrating 25 years of visual search innovation",
-      "tituloLimpio": "Google Imágenes celebra 25 años de innovación en búsqueda visual",
-      "resumen": "Google Imágenes cumple 25 años. Se repasan hitos importantes y nuevas formas de explorar y crear contenido visual.",
-      "porQueImporta": "Para Guido, que trabaja con retoque fotográfico y arte con IA, la evolución de la búsqueda visual y las herramientas de Google Imágenes pueden ser relevantes para encontrar inspiración, referencias o incluso nuevas formas de interactuar con contenido visual en su trabajo.",
-      "publicadoEn": "2026-07-14T16:00:00.000Z",
-      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp",
-      "globalScore": 98,
+      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "tituloOriginal": "Connect more of your apps to Search",
+      "tituloLimpio": "Google permite conectar más apps a su buscador con IA",
+      "resumen": "Se podrán vincular e interactuar de forma segura con servicios directamente en el Modo IA.",
+      "porQueImporta": "Esta integración de la IA con aplicaciones de uso diario es clave para la automatización y la eficiencia, permitiendo a Guido optimizar sus flujos de trabajo en retoque fotográfico y arte con IA.",
+      "publicadoEn": "2026-07-16T16:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
+        "ia",
         "google",
-        "imágenes",
-        "búsqueda",
-        "innovación"
+        "automatizacion",
+        "herramientas"
       ],
       "tambienVistoEn": []
     },
@@ -212,19 +186,19 @@
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Apple",
       "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/07/16/apple-vapor-chamber-orders-foldable-iphone/",
-      "tituloOriginal": "Apple Reportedly Ramps Up Vapor Chamber Orders for Foldable iPhone",
-      "tituloLimpio": "Apple aumenta pedidos de componentes de refrigeración para iPhone plegable",
-      "resumen": "Apple habría incrementado los pedidos de componentes de refrigeración de cámara de vapor para su próximo iPhone plegable y modelos de iPhone de 20 aniversario.",
-      "porQueImporta": "Esta noticia es clave para Guido por su interés en Apple. Indica un avance concreto en el desarrollo del iPhone plegable, un producto que podría cambiar el mercado y ofrecer nuevas posibilidades de diseño y uso, relevantes para alguien en arte digital.",
-      "publicadoEn": "2026-07-16T10:59:05.000Z",
+      "url": "https://www.macrumors.com/2026/07/16/1password-claude-integration/",
+      "tituloOriginal": "1Password for Claude Lets AI Log In Without Seeing Your Passwords",
+      "tituloLimpio": "1Password para Claude permite que la IA inicie sesión sin ver tus contraseñas",
+      "resumen": "La app de gestión de contraseñas 1Password añadió soporte para Claude, permitiendo que el servicio de IA acceda a credenciales almacenadas para completar tareas en el navegador sin exponer la contraseña real.",
+      "porQueImporta": "Mejora la seguridad y la eficiencia al usar IA para tareas que requieren credenciales, algo fundamental para Guido en su trabajo con IA y automatización.",
+      "publicadoEn": "2026-07-16T15:05:30.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "apple",
-        "iphone",
-        "plegable",
-        "hardware"
+        "ia",
+        "seguridad",
+        "automatizacion",
+        "herramientas"
       ],
       "tambienVistoEn": []
     },
@@ -234,18 +208,17 @@
       "fuente": "Sherwood",
       "url": "https://sherwood.news/markets/general-fusion-spac-debut-nuclear-fusion-greg-twinney/",
       "tituloOriginal": "Meet the newly public, Bezos-backed company that’s recreating the sun and stars",
-      "tituloLimpio": "General Fusion, empresa respaldada por Bezos, debuta en bolsa",
+      "tituloLimpio": "General Fusion, la empresa respaldada por Bezos que recrea el sol y las estrellas, sale a bolsa",
       "resumen": "El CEO de General Fusion, Greg Twinney, habló con Sherwood News desde el Nasdaq durante el primer día de cotización de la acción.",
-      "porQueImporta": "Para Guido, interesado en inversiones y tecnología, el debut en bolsa de una empresa de fusión nuclear respaldada por figuras como Bezos es una señal de una tendencia tecnológica y de inversión a largo plazo, potencialmente disruptiva.",
+      "porQueImporta": "Una nueva empresa de tecnología con respaldo importante sale a bolsa, lo que puede ser una oportunidad de inversión interesante para Guido, dado su interés en ETFs y mercados.",
       "publicadoEn": "2026-07-13T21:42:03.000Z",
       "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/2275681609_british-columbia-canada-14-may-2026-greg-twinney-ceo-general-fusion-during-day-three-of-web.jpg",
       "globalScore": 90,
       "personalScore": 100,
       "tags": [
         "finanzas",
-        "inversión",
-        "tecnología",
-        "fusión nuclear"
+        "inversion",
+        "mercado"
       ],
       "tambienVistoEn": []
     },
@@ -253,20 +226,18 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/dura-respuesta-lula-da-silva-califico-los-aranceles-donald-trump-como-ilegales-y-anticipo-que-habra-represalias-n6300175",
-      "tituloOriginal": "Dura respuesta de Lula da Silva: calificó a los aranceles de Donald Trump como \"ilegales\" y anticipó que habrá represalias",
-      "tituloLimpio": "Lula da Silva califica de 'ilegales' los aranceles de Trump y anuncia represalias",
-      "resumen": "Lula calificó el 15 de julio de 'hito lamentable' y rechazó los aranceles, argumentando que EEUU acumuló un superávit comercial con Brasil. El gobierno brasileño anunció que activará la Ley de Reciprocidad e irá a la OMC.",
-      "porQueImporta": "Como residente en Argentina, las tensiones comerciales en la región son relevantes. Esto podría afectar la economía regional, las relaciones comerciales y, potencialmente, los mercados financieros en los que Guido invierte.",
-      "publicadoEn": "2026-07-16T13:47:00.000Z",
-      "imagen": "https://media.ambito.com/p/64815ac3c5b0fecceb54d4c3ee514451/adjuntos/239/imagenes/042/930/0042930036/1200x675/smart/lula-da-silva-cop30-belem-brasil-cumbre-climatica.png",
+      "url": "https://www.ambito.com/economia/aranceles-donald-trump-brasil-cual-es-el-rol-pix-la-sancion-eeuu-n6300233",
+      "tituloOriginal": "Aranceles de Donald Trump a Brasil: ¿cuál es el rol de PIX en la sanción de EEUU?",
+      "tituloLimpio": "Aranceles de Donald Trump a Brasil: ¿cuál es el rol de PIX en la sanción de EEUU?",
+      "resumen": "La medida de Washington contra Brasil busca corregir supuestas prácticas comerciales desleales y en detrimento de las empresas de pago estadounidenses.",
+      "porQueImporta": "Aunque es sobre Brasil, las políticas comerciales de EE.UU. en la región pueden tener un impacto indirecto en la economía argentina y en las decisiones de inversión de Guido.",
+      "publicadoEn": "2026-07-16T15:08:00.000Z",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "economía",
-        "política",
-        "comercio"
+        "finanzas",
+        "negocios"
       ],
       "tambienVistoEn": []
     },
@@ -274,39 +245,18 @@
       "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
       "categoria": "Marketing",
       "fuente": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/liquid-iv-samsung-spider-man-to-spotlight-new-products/825212/",
-      "tituloOriginal": "Liquid I.V., Samsung swing into ‘Spider-Man’ to spotlight new products",
-      "tituloLimpio": "Liquid I.V. y Samsung se asocian con 'Spider-Man' para destacar nuevos productos",
-      "resumen": "La asociación de la marca de hidratación de Unilever incluye anuncios, dos sabores co-brandeados y marketing experiencial.",
-      "porQueImporta": "Para Guido, que le interesa el marketing, esta noticia muestra una estrategia de marketing de entretenimiento a gran escala, con co-branding y experiencias, que puede servir como ejemplo o inspiración para campañas creativas.",
-      "publicadoEn": "2026-07-15T14:00:00.000Z",
-      "globalScore": 98,
-      "personalScore": 100,
-      "tags": [
-        "marketing",
-        "publicidad",
-        "marcas",
-        "entretenimiento"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "categoria": "AI",
-      "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "tituloOriginal": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
-      "tituloLimpio": "Apple Intelligence aprobada para lanzamiento en China con Alibaba y Baidu",
-      "resumen": "El acuerdo, que se rumoreaba, marca un paso importante para las ambiciones de IA de Apple en un mercado clave.",
-      "porQueImporta": "Esta es una noticia muy importante para Guido por su interés en Apple y la IA. La aprobación en China abre un mercado enorme para Apple Intelligence y valida la estrategia de Apple en IA, lo que podría influir en el desarrollo futuro de sus productos y servicios.",
-      "publicadoEn": "2026-07-16T13:17:59.000Z",
+      "url": "https://www.marketingdive.com/news/youtube-highlights-brand-partnerships-with-sports-creators/825428/",
+      "tituloOriginal": "Sociable: YouTube highlights brand partnerships with sports creators",
+      "tituloLimpio": "YouTube destaca asociaciones de marca con creadores de contenido deportivo",
+      "resumen": "El último informe de la plataforma examinó la creciente influencia de los influencers atléticos y ofreció orientación sobre cómo conectar con ellos.",
+      "porQueImporta": "Relevante para Guido por su interés en marketing, ya que muestra nuevas tendencias en colaboraciones con influencers y estrategias de contenido en plataformas como YouTube.",
+      "publicadoEn": "2026-07-16T16:14:00.000Z",
       "globalScore": 96,
       "personalScore": 100,
       "tags": [
-        "apple",
-        "ia",
-        "china",
-        "negocios"
+        "marketing",
+        "youtube",
+        "influencers"
       ],
       "tambienVistoEn": []
     },
@@ -314,19 +264,17 @@
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
       "fuente": "The Verge AI",
-      "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
-      "tituloOriginal": "Claude can now use your 1Password credentials for you",
-      "tituloLimpio": "Claude puede usar credenciales de 1Password",
-      "resumen": "1Password lanzó una nueva integración de navegador para Claude que permite al chatbot de Anthropic acceder a credenciales de seguridad almacenadas, como nombres de usuario y contraseñas.",
-      "porQueImporta": "Para Guido, interesado en automatización y herramientas, esta integración es un avance significativo. Permite a la IA realizar tareas complejas que requieren acceso seguro, mejorando la productividad y abriendo nuevas posibilidades de automatización.",
-      "publicadoEn": "2026-07-16T13:00:00.000Z",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+      "tituloOriginal": "New York governor says she’s using AI to analyze ‘every single rule’ in the state",
+      "tituloLimpio": "La gobernadora de Nueva York dice que usa IA para analizar 'cada regla' del estado",
+      "resumen": "La gobernadora de Nueva York, Kathy Hochul, dijo que su equipo está usando IA para analizar 'cada regla, regulación y política' para buscar las desactualizadas.",
+      "porQueImporta": "Muestra un uso práctico y a gran escala de la IA en la gestión pública, lo que puede inspirar a Guido sobre aplicaciones de la IA más allá de su campo directo.",
+      "publicadoEn": "2026-07-16T17:58:37.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "ia",
-        "automatización",
-        "herramientas",
-        "seguridad"
+        "general"
       ],
       "tambienVistoEn": []
     },
@@ -336,17 +284,15 @@
       "fuente": "MIT Technology Review AI",
       "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
       "tituloOriginal": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-      "tituloLimpio": "OpenAI creó GPT-Red para hacer sus modelos más seguros",
-      "resumen": "OpenAI construyó un 'super-hacker' LLM llamado GPT-Red que usa para ayudar a sus otros modelos a reforzar sus defensas contra ciberataques.",
-      "porQueImporta": "La seguridad en IA es crucial. Esta noticia muestra cómo OpenAI está abordando proactivamente las vulnerabilidades, lo cual es relevante para Guido, que trabaja con IA, ya que impacta la confianza y la robustez de las herramientas que podría usar.",
+      "tituloLimpio": "OpenAI creó GPT-Red, un 'super-hacker' LLM para hacer sus modelos más seguros",
+      "resumen": "OpenAI construyó un 'super-hacker' LLM llamado GPT-Red que usa como sparring para ayudar a sus otros modelos a reforzar sus defensas contra ciberataques.",
+      "porQueImporta": "Destaca la importancia de la seguridad en el desarrollo de IA y cómo las empresas están innovando para proteger sus modelos, un tema relevante para cualquier usuario o desarrollador de IA.",
       "publicadoEn": "2026-07-15T17:09:37.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "ia",
-        "seguridad",
-        "openai",
-        "llm"
+        "seguridad"
       ],
       "tambienVistoEn": []
     },
@@ -354,18 +300,36 @@
       "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Apple",
       "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/07/16/whatsapp-adds-in-call-controls-for-voice-isolation-and-wide-spectrum-on-iphone/",
-      "tituloOriginal": "WhatsApp adds in-call controls for Voice Isolation and Wide Spectrum on iPhone",
-      "tituloLimpio": "WhatsApp añade controles en llamada para Voice Isolation y Wide Spectrum en iPhone",
-      "resumen": "WhatsApp está implementando configuraciones en llamada que permiten a los usuarios cambiar entre los diferentes modos de micrófono del iPhone.",
-      "porQueImporta": "Una mejora práctica para usuarios de iPhone. Para Guido, que valora las herramientas y la productividad, esta función puede mejorar la calidad de las comunicaciones y la experiencia de usuario en una aplicación de uso diario.",
-      "publicadoEn": "2026-07-16T13:26:05.000Z",
+      "url": "https://9to5mac.com/2026/07/16/ios-27-makes-one-of-my-favorite-apple-music-features-even-better/",
+      "tituloOriginal": "iOS 27 makes one of my favorite Apple Music features even better",
+      "tituloLimpio": "iOS 27 mejora una función de Apple Music",
+      "resumen": "Apple Music mejora la función AutoMix con transiciones mucho mejores que antes en iOS 27.",
+      "porQueImporta": "Una actualización de software de Apple que mejora la experiencia de usuario en una de sus aplicaciones principales, relevante para Guido como usuario de Apple.",
+      "publicadoEn": "2026-07-16T17:58:02.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "apple",
-        "whatsapp",
-        "iphone",
+        "ios",
+        "musica"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81Z29v",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5google.com/2026/07/16/notebooklm-gemini-notebook/",
+      "tituloOriginal": "NotebookLM is now Gemini Notebook, with 3.5 + Antigravity upgrade coming to AI Pro",
+      "tituloLimpio": "NotebookLM ahora es Gemini Notebook y tendrá una actualización",
+      "resumen": "Google anunció que NotebookLM ahora se llama 'Gemini Notebook' y adelantó próximas funciones.",
+      "porQueImporta": "Un cambio de marca y futuras actualizaciones en una herramienta de Google, relevante para Guido por su interés en herramientas y automatización, especialmente si usa o considera usar esta plataforma.",
+      "publicadoEn": "2026-07-16T16:04:18.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "google",
+        "ia",
         "herramientas"
       ],
       "tambienVistoEn": []
@@ -374,40 +338,37 @@
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
       "categoria": "Apple",
       "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/07/16/mass-production-of-folding-iphone-vapor-cooling-system-has-begun?utm_source=rss",
-      "tituloOriginal": "Mass production of folding iPhone vapor cooling system has begun",
-      "tituloLimpio": "Comienza la producción masiva del sistema de refrigeración por vapor del iPhone plegable",
-      "resumen": "Apple habría aumentado el número de enfriadores de cámara de vapor que ha pedido a sus proveedores, probablemente para su primer iPhone plegable y el modelo de celebración del 20 aniversario.",
-      "porQueImporta": "Confirma y refuerza la noticia anterior sobre el iPhone plegable. La producción masiva indica que el lanzamiento está cada vez más cerca, lo que es de gran interés para Guido por su perfil de usuario de Apple.",
-      "publicadoEn": "2026-07-16T11:46:58.000Z",
-      "globalScore": 96,
+      "url": "https://appleinsider.com/articles/26/07/16/ipad-ipad-air-refreshes-are-coming-but-not-until-2027?utm_source=rss",
+      "tituloOriginal": "iPad & iPad Air refreshes are coming, but not until 2027",
+      "tituloLimpio": "Los refrescos de iPad y iPad Air llegarán recién en 2027",
+      "resumen": "Mientras que se espera un nuevo iPad mini antes de fin de 2026, un nuevo informe dice que habrá que esperar más para las actualizaciones del iPad de entrada, iPad Air y iPad Pro.",
+      "porQueImporta": "Información clave para Guido si está pensando en actualizar su iPad, ya que le permite planificar sus compras de hardware de Apple.",
+      "publicadoEn": "2026-07-16T14:28:44.000Z",
+      "globalScore": 88,
       "personalScore": 100,
       "tags": [
         "apple",
-        "iphone",
-        "plegable",
-        "producción"
+        "ipad",
+        "hardware"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
-      "categoria": "Finance",
-      "fuente": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-sandisk-sk-khynix-tsmc-earnings/?src=A00220&yptr=yahoo",
-      "tituloOriginal": "Stock Market Today: Nasdaq Slides As Sandisk, SK Hynix Plunge; Nvidia Chipmaker TSMC Falls (Live Coverage)",
-      "tituloLimpio": "El Nasdaq cae mientras Sandisk, SK Hynix y TSMC se desploman",
-      "resumen": "El Nasdaq se desliza mientras Sandisk, SK Hynix se desploman y el fabricante de chips de Nvidia, TSMC, cae.",
-      "porQueImporta": "Para Guido, interesado en inversiones y mercados, esta noticia es crucial. Indica una posible corrección o volatilidad en el sector tecnológico y de semiconductores, lo que podría afectar sus inversiones en ETFs o acciones relacionadas.",
-      "publicadoEn": "2026-07-16T13:38:50.000Z",
-      "imagen": "https://media.zenfs.com/en/ibd.com/f84dddde254e978a0083114ec56c1e2b",
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/stories/visionos-27-the-macstories-beta-preview/",
+      "tituloOriginal": "visionOS 27: The MacStories Beta Preview",
+      "tituloLimpio": "visionOS 27: la vista previa beta de MacStories",
+      "resumen": "La temporada beta de verano está en pleno apogeo, con una nueva ola de testers uniéndose a través de las betas públicas de OS 27 recién lanzadas. Aunque visionOS nunca ha sido incluido en el programa beta público, ahora es un buen momento para revisar visionOS 27.",
+      "porQueImporta": "Guido, como usuario de Apple, se beneficia de conocer las novedades en los sistemas operativos, especialmente si considera el ecosistema de realidad mixta de Apple.",
+      "publicadoEn": "2026-07-13T21:45:03.000Z",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "finanzas",
-        "mercado",
-        "inversión",
-        "tecnología"
+        "apple",
+        "visionos",
+        "software"
       ],
       "tambienVistoEn": []
     },
@@ -415,20 +376,39 @@
       "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
       "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/07/15/ledger-wants-ai-agents-to-manage-crypto-without-holding-your-keys",
-      "tituloOriginal": "Ledger wants AI agents to manage crypto without holding your keys",
-      "tituloLimpio": "Ledger busca que agentes de IA gestionen cripto sin tener las claves",
-      "resumen": "Los agentes de IA pueden leer saldos de billeteras y analizar carteras, pero requieren que cada acción sensible sea aprobada en un dispositivo de hardware Ledger antes de ser ejecutada.",
-      "porQueImporta": "Combina el interés de Guido en IA y finanzas/inversión. Ofrece una visión de cómo la IA puede mejorar la gestión de activos cripto, manteniendo la seguridad a través de la aprobación física, lo cual es un equilibrio importante.",
-      "publicadoEn": "2026-07-16T13:00:00.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/14457616350fd3b13d4c4075bbd999434c3633ce-1280x960.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "globalScore": 96,
+      "url": "https://www.coindesk.com/business/2026/07/16/citadel-securities-invests-usd400-million-in-crypto-com-valuing-exchange-at-usd20-billion",
+      "tituloOriginal": "Citadel Securities invests $400 million in Crypto.com, valuing exchange at $20 billion",
+      "tituloLimpio": "Citadel Securities invierte $400 millones en Crypto.com, valorando el exchange en $20 mil millones",
+      "resumen": "La primera ronda de financiación institucional del exchange lo valora en $20 mil millones y financiará la expansión en valores tokenizados y derivados.",
+      "porQueImporta": "Una inversión significativa en el espacio cripto, relevante para Guido por su interés en finanzas y mercados, mostrando el crecimiento y la institucionalización de las criptomonedas.",
+      "publicadoEn": "2026-07-16T18:00:00.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/e5299ecc154fdbe24a248c1ed8a93c29d1a1a3b6-7093x4731.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 92,
       "personalScore": 100,
       "tags": [
-        "ia",
-        "cripto",
         "finanzas",
-        "seguridad"
+        "criptomonedas",
+        "inversion"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-dips-with-us-stocks-as-tech-sell-off-as-micron-losses-pass-30?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Bitcoin price dips on US stocks sell-off as Micron losses pass 30%",
+      "tituloLimpio": "El precio de Bitcoin cae con la venta de acciones de EE.UU. mientras las pérdidas de Micron superan el 30%",
+      "resumen": "Bitcoin cayó 1.5% desde máximos locales en medio de una reversión en las acciones de EE.UU. mientras los mercados pasaban de señales alcistas de inflación a toma de ganancias minorista.",
+      "porQueImporta": "Informa sobre la volatilidad del mercado de criptomonedas y su correlación con las acciones de EE.UU., información útil para Guido en sus decisiones de inversión.",
+      "publicadoEn": "2026-07-16T16:58:02.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/market-red-graph-falling-danger-stones-bitcoin-2.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "bitcoin",
+        "mercado"
       ],
       "tambienVistoEn": []
     },
@@ -436,20 +416,19 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/horas-partido-inglaterra-gobierno-dio-fondos-side-universidades-recorto-empresas-publicas_0_YjA8zdBbzT.html",
-      "tituloOriginal": "Horas antes del partido contra Inglaterra, el Gobierno le dio más fondos a la SIDE y universidades y recortó en empresas públicas",
-      "tituloLimpio": "El Gobierno amplía fondos para la SIDE y universidades, y recorta en empresas públicas",
-      "resumen": "A través del Boletín Oficial, el Gobierno amplió el gasto por $4,5 billones. El decreto fue firmado casi seis horas antes de la semifinal del Mundial. Hubo 91 partidas presupuestarias elegidas para tener más presupuesto y 16 con ajustes.",
-      "porQueImporta": "Noticia directa de Argentina. Los ajustes presupuestarios y la reasignación de fondos impactan la economía del país, lo que puede tener efectos en el día a día de Guido y en el clima de inversión local.",
-      "publicadoEn": "2026-07-16T13:09:17.000Z",
-      "imagen": "https://www.clarin.com/img/2026/07/16/SL-8Xnt7-_1200x630__1.jpg",
-      "globalScore": 94,
+      "url": "https://www.clarin.com/economia/gobierno-deficit-junio-termino-primer-semestre-superavit-cuentas-publicas_0_GNEl7I25hC.html",
+      "tituloOriginal": "El Gobierno tuvo déficit en junio pero terminó el primer semestre con superávit en las cuentas públicas",
+      "tituloLimpio": "El Gobierno tuvo déficit en junio pero terminó el primer semestre con superávit en las cuentas públicas",
+      "resumen": "Por pagos de aguinaldos y menor recaudación, las cuentas públicas tuvieron desequilibrio fiscal por 1 billón de pesos. En los primeros seis meses del año el excedente acumulado es 0,6% del PBI.",
+      "porQueImporta": "Información económica clave sobre Argentina, relevante para Guido por su impacto en el clima de negocios y las decisiones de inversión en el país.",
+      "publicadoEn": "2026-07-16T16:57:44.000Z",
+      "imagen": "https://www.clarin.com/img/2024/09/16/Pc1nv4kzA_1200x630__1.jpg",
+      "globalScore": 90,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "economía",
-        "gobierno",
-        "presupuesto"
+        "economia",
+        "finanzas"
       ],
       "tambienVistoEn": []
     },
@@ -457,20 +436,19 @@
       "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Politica",
-      "url": "https://www.clarin.com/politica/sesion-senado-vivo-gobierno-busca-aprobar-hoy-reforma-propiedad-privada_0_HJkPubSvQa.html",
-      "tituloOriginal": "Sesión en el Senado hoy, EN VIVO: el Gobierno busca aprobar la reforma sobre propiedad privada",
-      "tituloLimpio": "El Senado debate la reforma sobre propiedad privada",
-      "resumen": "El inicio del debate está previsto para el mediodía, y también se tratará el pliego del juez que le quitó el freno a la reforma laboral.",
-      "porQueImporta": "Una noticia política clave en Argentina. La reforma de la propiedad privada puede tener implicaciones significativas para la seguridad jurídica y el clima de negocios en el país, afectando potencialmente inversiones y la economía general.",
-      "publicadoEn": "2026-07-16T11:55:58.000Z",
-      "imagen": "https://www.clarin.com/img/2026/06/25/Vg-SMRpyH_1200x630__1.jpg",
+      "url": "https://www.clarin.com/politica/caso-cuadernos-varios-empresarios-pagaban-coimas-kirchner-2016-acogieron-blanqueo_0_9E9uhzp7WN.html",
+      "tituloOriginal": "Caso Cuadernos: varios empresarios que pagaban coimas a los Kirchner, en 2016 se acogieron al blanqueo",
+      "tituloLimpio": "Caso Cuadernos: empresarios que pagaban coimas a los Kirchner se acogieron al blanqueo en 2016",
+      "resumen": "Más funcionarios de la exAFIP confirmaron que, además de mover millones de dólares ilegales en efectivo, también los acumularon en bienes y cuentas que luego admitieron.",
+      "porQueImporta": "Noticia política y económica de alto impacto en Argentina, que refleja la corrupción y sus consecuencias, relevante para entender el contexto del país.",
+      "publicadoEn": "2026-07-16T15:33:29.000Z",
+      "imagen": "https://www.clarin.com/img/2025/09/16/3vyEV_TUs_1200x630__1.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "política",
-        "legislación",
-        "propiedad"
+        "politica",
+        "corrupcion"
       ],
       "tambienVistoEn": []
     },
@@ -478,20 +456,39 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/07/16/el-gobierno-endurece-los-controles-sobre-los-supermercados-cual-es-el-plan-que-prepara-para-combatir-la-evasion/",
-      "tituloOriginal": "El Gobierno endurece los controles sobre los supermercados: cuál es el plan que prepara para combatir la evasión",
-      "tituloLimpio": "El Gobierno endurece controles sobre supermercados para combatir la evasión",
-      "resumen": "En el Ministerio de Economía y ARCA trabajan para avanzar con una prueba piloto sobre distribuidores, autoservicios y cadenas regionales. Es un histórico reclamo de los grandes retails.",
-      "porQueImporta": "Noticia económica relevante para Argentina. Los controles sobre supermercados y la lucha contra la evasión pueden influir en los precios, la competencia y la transparencia del mercado, afectando el consumo y el entorno empresarial.",
-      "publicadoEn": "2026-07-16T13:39:43.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/2SVJ3JDXTRHMHMGL5YJ277Z6RI.png?auth=dc65d3d0f665a06ee762a3159070a574222f2755c33ddb011ddd6228485c7dfd&smart=true&width=1408&height=768",
+      "url": "https://www.infobae.com/economia/2026/07/16/junio-interrumpio-la-racha-de-superavits-del-gobierno-el-rol-del-pago-de-aguinaldos-y-de-la-postergacion-del-pago-de-ganancias/",
+      "tituloOriginal": "Junio interrumpió la racha de superávits del Gobierno: el rol del pago de aguinaldos y de la postergación del pago de Ganancias",
+      "tituloLimpio": "Junio interrumpió la racha de superávits del Gobierno: el rol del pago de aguinaldos y de la postergación del pago de Ganancias",
+      "resumen": "En el acumulado del primer semestre, el Sector Público Nacional (SPN) registró un superávit primario de 0,6% del PIB y un superávit financiero de 0,1% del PIB.",
+      "porQueImporta": "Complementa la noticia anterior sobre la economía argentina, brindando más detalles sobre las causas del déficit de junio y el balance semestral, crucial para el análisis financiero de Guido.",
+      "publicadoEn": "2026-07-16T17:53:19.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/VDLYKRHZTNFHDLCK64KIQ4QV7U.jpg?auth=22230d1252f35f4bc7c1647048a7a420f04f84f51df2ed627af7a95311dbd5a0&smart=true&width=2200&height=1467",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "economia",
+        "finanzas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/07/16/senado-en-vivo-las-ultimas-noticias-sobre-la-votacion-del-proyecto-de-inviolabilidad-de-la-propiedad-privada/",
+      "tituloOriginal": "Senado, en vivo: los legisladores aplaudieron a la selección argentina en plena sesión por la ley de propiedad privada",
+      "tituloLimpio": "Senado: legisladores aplaudieron a la selección argentina en plena sesión por la ley de propiedad privada",
+      "resumen": "La discusión se puso en marcha minutos antes de las 12:30, cuando se logró el número de legisladores necesario para iniciar el debate.",
+      "porQueImporta": "Una noticia que combina política y un evento cultural importante para Argentina, mostrando el contexto social y político mientras se discuten leyes relevantes como la de propiedad privada.",
+      "publicadoEn": "2026-07-16T18:03:08.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/5N7ICEVHNFEFPNKZEYKQFKOGII.jpg?auth=f7e4404fc1e751b1234eb59a01612441079fb46a88ded7de779e78eb4f4e282f&smart=true&width=2560&height=1707",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "economía",
-        "gobierno",
-        "supermercados"
+        "politica",
+        "sociedad"
       ],
       "tambienVistoEn": []
     },
@@ -499,46 +496,25 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/campo/exposicion-rural-de-palermo-con-el-tradicional-corte-de-cintas-abrio-la-muestra-y-ya-se-palpita-otra-nid16072026/",
-      "tituloOriginal": "Exposición Rural de Palermo: con el tradicional corte de cintas, abrió la muestra y ya se palpita otra gran edición",
-      "tituloLimpio": "Abrió la Exposición Rural de Palermo con el tradicional corte de cintas",
-      "resumen": "Nicolás Pino, presidente de la Sociedad Rural Argentina (SRA); Diego Santilli, jefe de Gabinete del gobierno nacional; Jorge Macri, jefe de Gobierno de la Ciudad Autónoma de Buenos Aires, y Sergio Iraeta, secretario de Agricultura, encabezaron el acto.",
-      "porQueImporta": "La Exposición Rural es un evento económico y social importante en Argentina, que refleja el estado y las tendencias del sector agropecuario, un pilar de la economía del país. Es relevante para entender el contexto económico local.",
-      "publicadoEn": "2026-07-16T13:00:07.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/ZP3LQIXGQJGD3GE7VZJP7LKD7Y.jpeg?auth=b470a47ab9e241068057d21604bf5bbaf306bb9405bd4487fb4cdce81c94d9b9&smart=true&width=1280&height=854",
-      "globalScore": 100,
+      "url": "https://www.lanacion.com.ar/economia/negocios/el-outlet-de-los-outlets-vuelve-con-record-de-marcas-y-nueva-sede-nid16072026/",
+      "tituloOriginal": "El “outlet de los outlets” vuelve con récord de marcas y nueva sede",
+      "tituloLimpio": "El “outlet de los outlets” vuelve con récord de marcas y nueva sede",
+      "resumen": "El Luxury Outlet reunirá más de 50 marcas con descuentos de hasta el 70%, en una edición que duplica superficie y busca aprovechar las primeras señales de reactivación del consumo.",
+      "porQueImporta": "Una noticia de negocios en Argentina que indica una posible reactivación del consumo, relevante para Guido por su interés en el mercado local y las tendencias económicas.",
+      "publicadoEn": "2026-07-16T17:44:26.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/4FRJY67BERCXRANMZJ7N7XNMGI.jpeg?auth=9debecf0cd6b59a2ffb84c9f6550404e04fb6e04ca92d615b71b45015446bdb3&smart=true&width=1280&height=960",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "economía",
-        "campo",
-        "evento"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
-      "categoria": "Marketing",
-      "fuente": "Adweek",
-      "url": "https://www.adweek.com/commerce/phias-alleged-scheme-goes-beyond-ordinary-affiliate-fraud/",
-      "tituloOriginal": "Phia’s Alleged Scheme Goes Beyond Ordinary Affiliate Fraud",
-      "tituloLimpio": "El supuesto esquema de Phia va más allá del fraude de afiliados común",
-      "resumen": "Muchos en el mundo del marketing y la tecnología han descartado el escándalo de Phia como otra historia de fraude de afiliados. Pero no lo es.",
-      "porQueImporta": "Para Guido, interesado en marketing, esta noticia es una advertencia sobre la complejidad y evolución del fraude en el marketing de afiliados. Es crucial estar al tanto de estas tendencias para proteger campañas y entender los riesgos del sector.",
-      "publicadoEn": "2026-07-16T07:00:00.000Z",
-      "globalScore": 98,
-      "personalScore": 100,
-      "tags": [
-        "marketing",
-        "fraude",
         "negocios",
-        "publicidad"
+        "consumo"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-07-16T13:59:36.770Z"
+    "generadoEn": "2026-07-16T18:06:40.463Z"
   }
 }
