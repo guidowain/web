@@ -1,0 +1,431 @@
+{
+  "fecha": "2026-07-17",
+  "generadoEn": "2026-07-17T13:44:38.571Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "Hoy, Google anunció la posibilidad de conectar más apps a su buscador en Modo IA. En el ámbito de Apple, se destacan las actualizaciones de Apple TV y Apple Music para Android con widgets, y la discusión sobre la funcionalidad de 'Ocultar mi correo'. En Argentina, la inflación de la zona euro retrocedió, y se debaten temas de infraestructura y exportaciones. El sector de la IA sigue en movimiento con inversiones en chips de inferencia y el uso de IA por parte de la gobernadora de Nueva York para analizar regulaciones. En finanzas, Bitcoin enfrenta desafíos por un nuevo modelo de IA chino que superó a Claude y GPT en codificación.",
+  "radarPersonal": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Google permitirá conectar más apps a su buscador en Modo IA",
+      "resumen": "Se podrán vincular e interactuar de forma segura con servicios directamente en el Modo IA del buscador.",
+      "categoria": "AI",
+      "fuentes": [
+        "Google AI Blog"
+      ],
+      "urls": [
+        "https://blog.google/products-and-platforms/products/search/connected-apps/"
+      ],
+      "score": 100,
+      "tags": [
+        "Google",
+        "IA",
+        "apps",
+        "automatización"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "Inversores de GPU se vuelcan a chips de inferencia en un acuerdo de 400 millones de dólares",
+      "resumen": "Un préstamo de 400 millones de dólares respaldado por chips señala la próxima ola de acuerdos de infraestructura de IA.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/"
+      ],
+      "score": 100,
+      "tags": [
+        "IA",
+        "inversión",
+        "chips",
+        "hardware"
+      ]
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "Gobernadora de Nueva York usa IA para analizar 'cada regla' del estado",
+      "resumen": "La gobernadora de Nueva York, Kathy Hochul, dijo que su equipo está usando IA para analizar cada regla, regulación y política para buscar las que estén desactualizadas.",
+      "categoria": "AI",
+      "fuentes": [
+        "The Verge AI"
+      ],
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies"
+      ],
+      "score": 100,
+      "tags": [
+        "IA",
+        "gobierno",
+        "automatización"
+      ]
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81Z29v",
+      "titulo": "Apple TV para Android agrega widgets y Apple Music permite compartir en WhatsApp",
+      "resumen": "Apple TV y Apple Music para Android están lanzando actualizaciones importantes con widgets en la pantalla de inicio como tema compartido.",
+      "categoria": "Apple",
+      "fuentes": [
+        "9to5Mac"
+      ],
+      "urls": [
+        "https://9to5google.com/2026/07/16/apple-tv-widgets/"
+      ],
+      "score": 100,
+      "tags": [
+        "Apple",
+        "Android",
+        "apps",
+        "actualizaciones"
+      ]
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "titulo": "Bitcoin enfrenta desafíos mientras Kimi de China supera a Claude y GPT en codificación",
+      "resumen": "Kimi K3 de Moonshot ocupó el primer lugar en codificación frontend, superando a Claude y OpenAI, y es gratis. Las acciones de semiconductores cayeron, y las criptomonedas también.",
+      "categoria": "Finance",
+      "fuentes": [
+        "CoinDesk"
+      ],
+      "urls": [
+        "https://www.coindesk.com/markets/2026/07/17/bitcoin-faces-fresh-headwinds-as-china-s-kimi-beats-claude-gpt-in-coding-benchmark/"
+      ],
+      "score": 100,
+      "tags": [
+        "Bitcoin",
+        "IA",
+        "finanzas",
+        "competencia"
+      ]
+    }
+  ],
+  "loImportante": [
+    "Google está integrando más apps en su buscador con Modo IA, lo que podría cambiar la forma en que interactuamos con los servicios online.",
+    "La inversión en chips de inferencia para IA está creciendo, señalando una nueva fase en la infraestructura de la inteligencia artificial.",
+    "La gobernadora de Nueva York utiliza IA para revisar regulaciones estatales, mostrando un uso práctico de la tecnología en la gestión pública.",
+    "Apple TV y Apple Music para Android se actualizan con widgets, mejorando la experiencia de usuario en plataformas no-Apple.",
+    "Un nuevo modelo de IA chino, Kimi, superó a Claude y GPT en codificación, lo que podría impactar el mercado de criptomonedas y semiconductores."
+  ],
+  "oportunidades": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "Automation",
+      "titulo": "Integración de apps en el buscador de Google con IA",
+      "detalle": "La posibilidad de vincular e interactuar con servicios directamente en el Modo IA del buscador de Google podría simplificar flujos de trabajo y automatizar tareas.",
+      "acciones": [
+        "Explorar cómo esta integración puede aplicarse a herramientas de retoque o gestión de proyectos.",
+        "Monitorear los servicios que se integran para identificar oportunidades de automatización."
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "Investing",
+      "titulo": "Inversión en chips de inferencia para IA",
+      "detalle": "El fuerte interés en los chips de inferencia, evidenciado por un préstamo de 400 millones de dólares, sugiere un crecimiento en este sector de la infraestructura de IA.",
+      "acciones": [
+        "Investigar ETFs o empresas que se centren en el desarrollo o producción de chips de inferencia.",
+        "Evaluar el impacto de esta tendencia en el mercado de semiconductores en general."
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "Colaboraciones con creadores deportivos en YouTube",
+      "detalle": "YouTube destaca el crecimiento de la influencia de los influencers deportivos y ofrece guías para conectar con ellos, lo que puede ser relevante para estrategias de marketing.",
+      "acciones": [
+        "Analizar la posibilidad de aplicar estrategias de marketing de influencers a proyectos de arte con IA o retoque fotográfico.",
+        "Estudiar cómo otras marcas están utilizando estos creadores para generar engagement."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "titulo": "Riesgo creciente de sabotaje de datos meteorológicos",
+      "detalle": "Las decisiones en muchas industrias dependen de los pronósticos meteorológicos, y el riesgo de sabotaje de estos datos está aumentando, lo que podría tener consecuencias económicas y de seguridad.",
+      "mitigacion": "Mantenerse informado sobre la seguridad de los datos y las fuentes de información críticas para decisiones empresariales."
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Market",
+      "titulo": "Impacto de la competencia en IA en el mercado de criptomonedas y semiconductores",
+      "detalle": "El surgimiento de un nuevo modelo de IA chino que supera a los líderes en codificación, y su disponibilidad gratuita, generó una caída en las acciones de semiconductores y criptomonedas.",
+      "mitigacion": "Monitorear de cerca la evolución de los modelos de IA y su impacto en los mercados financieros, especialmente en inversiones relacionadas con tecnología y cripto."
+    }
+  ],
+  "conexiones": [],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "tituloOriginal": "Connect more of your apps to Search",
+      "tituloLimpio": "Google permitirá conectar más apps a su buscador en Modo IA",
+      "resumen": "Se podrán vincular e interactuar de forma segura con servicios directamente en el Modo IA del buscador.",
+      "porQueImporta": "Esta novedad de Google podría simplificar la interacción con distintas herramientas y servicios, ofreciendo nuevas posibilidades de automatización y eficiencia en el trabajo diario con IA y retoque fotográfico.",
+      "publicadoEn": "2026-07-16T16:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "Google",
+        "automatización",
+        "herramientas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/la-inflacion-la-zona-euro-retrocedio-un-01-mensual-junio-y-cumplio-las-expectativas-del-mercado-n6300590",
+      "tituloOriginal": "La inflación de la zona euro retrocedió un 0,1% mensual en junio y cumplió las expectativas del mercado",
+      "tituloLimpio": "La inflación de la zona euro retrocedió un 0,1% mensual en junio",
+      "resumen": "El dato de IPC se moderó en junio con una caída mensual del 0,1% y una suba interanual del 2,8%, impulsada por la desaceleración de los costos energéticos y de alimentos frescos.",
+      "porQueImporta": "Aunque es una noticia de la zona euro, la desaceleración de la inflación en economías grandes puede influir en las tendencias globales y en la política monetaria, afectando indirectamente los mercados de inversión.",
+      "publicadoEn": "2026-07-17T12:29:00.000Z",
+      "imagen": "https://media.ambito.com/p/88571cb478faef7272c10abea8fb49ad/adjuntos/239/imagenes/043/483/0043483022/1200x675/1262x466:1282x486/inflacion-zona-euro.png",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "economía",
+        "inflación",
+        "mercados"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/youtube-highlights-brand-partnerships-with-sports-creators/825428/",
+      "tituloOriginal": "Sociable: YouTube highlights brand partnerships with sports creators",
+      "tituloLimpio": "YouTube destaca asociaciones de marcas con creadores deportivos",
+      "resumen": "El último informe de la plataforma examinó la creciente influencia de los influencers atléticos y ofreció orientación sobre cómo conectar con ellos.",
+      "porQueImporta": "Para estrategias de marketing, entender la influencia de los creadores de contenido y cómo las marcas se asocian con ellos es clave. Esto puede inspirar nuevas formas de promocionar proyectos de arte con IA o retoque.",
+      "publicadoEn": "2026-07-16T16:14:00.000Z",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "influencers",
+        "YouTube",
+        "negocios"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+      "tituloOriginal": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+      "tituloLimpio": "Inversores de GPU se vuelcan a chips de inferencia en un acuerdo de 400 millones de dólares",
+      "resumen": "Un préstamo de 400 millones de dólares respaldado por chips señala la próxima ola de acuerdos de infraestructura de IA.",
+      "porQueImporta": "Esta inversión masiva en chips de inferencia indica una tendencia importante en el hardware de IA, relevante para entender hacia dónde se dirige la tecnología y posibles oportunidades de inversión en el sector.",
+      "publicadoEn": "2026-07-17T12:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "inversión",
+        "hardware",
+        "tecnología"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+      "tituloOriginal": "New York governor says she’s using AI to analyze ‘every single rule’ in the state",
+      "tituloLimpio": "Gobernadora de Nueva York usa IA para analizar 'cada regla' del estado",
+      "resumen": "La gobernadora de Nueva York, Kathy Hochul, dijo que su equipo está usando IA para analizar cada regla, regulación y política para buscar las que estén desactualizadas.",
+      "porQueImporta": "Es un ejemplo concreto de cómo la IA se aplica en la gestión pública para la automatización y optimización de procesos, lo que puede inspirar usos similares en otros ámbitos o herramientas.",
+      "publicadoEn": "2026-07-16T17:58:37.000Z",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "automatización",
+        "gobierno",
+        "herramientas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+      "tituloOriginal": "The risk of weather data sabotage is rising",
+      "tituloLimpio": "El riesgo de sabotaje de datos meteorológicos está aumentando",
+      "resumen": "Las decisiones en muchas industrias dependen de los pronósticos meteorológicos, y el riesgo de sabotaje de estos datos está aumentando.",
+      "porQueImporta": "Aunque no es directamente sobre IA, resalta la importancia de la seguridad de los datos en sistemas críticos. En un mundo cada vez más automatizado y dependiente de datos, la integridad de la información es fundamental.",
+      "publicadoEn": "2026-07-17T08:57:32.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "seguridad",
+        "datos",
+        "tecnología"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81Z29v",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5google.com/2026/07/16/apple-tv-widgets/",
+      "tituloOriginal": "Apple TV for Android adds widgets, Apple Music gets WhatsApp sharing",
+      "tituloLimpio": "Apple TV para Android agrega widgets y Apple Music permite compartir en WhatsApp",
+      "resumen": "Apple TV y Apple Music para Android están lanzando actualizaciones importantes con widgets en la pantalla de inicio como tema compartido.",
+      "porQueImporta": "Muestra la estrategia de Apple de expandir sus servicios a plataformas Android, lo que puede ser relevante para usuarios que combinan ecosistemas o para entender la dirección de la empresa.",
+      "publicadoEn": "2026-07-16T22:47:21.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "Android",
+        "apps",
+        "actualizaciones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/07/17/its-easy-to-find-a-real-email-address-behind-hide-my-email-but-it-doesnt-really-matter?utm_source=rss",
+      "tituloOriginal": "It's easy to find a real email address behind Hide My Email, but it doesn't really matter",
+      "tituloLimpio": "Es fácil encontrar un correo electrónico real detrás de 'Ocultar mi correo', pero no importa",
+      "resumen": "AppleInsider puede confirmar que es bastante fácil obtener el correo electrónico real de alguien de 'Ocultar mi correo', pero tampoco es una gran preocupación. Si se usa la función como filtro de spam, no hay problema.",
+      "porQueImporta": "Aclara una funcionalidad de privacidad de Apple, importante para usuarios que valoran la seguridad y la gestión de su información personal. Es útil para entender las limitaciones y el propósito de la herramienta.",
+      "publicadoEn": "2026-07-17T13:42:13.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "privacidad",
+        "seguridad",
+        "herramientas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/17/bitcoin-faces-fresh-headwinds-as-china-s-kimi-beats-claude-gpt-in-coding-benchmark",
+      "tituloOriginal": "Bitcoin faces fresh headwinds as China’s Kimi beats Claude, GPT in coding benchmark",
+      "tituloLimpio": "Bitcoin enfrenta desafíos mientras Kimi de China supera a Claude y GPT en codificación",
+      "resumen": "Kimi K3 de Moonshot ocupó el primer lugar en codificación frontend, superando a Claude y OpenAI, y es gratis. Las acciones de semiconductores cayeron, y las criptomonedas también.",
+      "porQueImporta": "La aparición de un nuevo modelo de IA superior y gratuito puede tener un impacto significativo en el desarrollo de software, la competencia en IA y los mercados financieros, especialmente en criptomonedas y tecnología.",
+      "publicadoEn": "2026-07-17T12:45:11.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/2d5d3339e6f49e40f4fbaf1d54d98fc286fe6d34-1707x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Bitcoin",
+        "IA",
+        "finanzas",
+        "competencia",
+        "mercados"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/rural/falta-diagnostico-hechos-campo-industria-gremios-retomaron-pedido-mayor-inversion-infraestructura_0_RbK4j5YWI1.html",
+      "tituloOriginal": "“Nos falta menos diagnóstico y más hechos”: el campo, la industria y los gremios retomaron su pedido de mayor inversión en infraestructura",
+      "tituloLimpio": "El campo, la industria y los gremios piden mayor inversión en infraestructura",
+      "resumen": "El Consejo de Políticas de Infraestructura (CPI) remarcó la necesidad del desarrollo de una infraestructura acorde para el crecimiento y de la interacción público-privada al respecto.",
+      "porQueImporta": "La inversión en infraestructura es crucial para el desarrollo económico de Argentina, afectando la logística, la producción y la competitividad. Es un tema relevante para el panorama de negocios local.",
+      "publicadoEn": "2026-07-17T12:56:07.000Z",
+      "imagen": "https://www.clarin.com/img/2026/07/17/2kYElW2wU_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "negocios",
+        "infraestructura"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/07/17/aerolineas-argentinas-hara-descuentos-a-empresas-que-viajen-al-exterior-para-promover-exportaciones/",
+      "tituloOriginal": "Aerolíneas Argentinas hará descuentos a empresas que viajen al exterior para promover exportaciones",
+      "tituloLimpio": "Aerolíneas Argentinas hará descuentos a empresas que viajen al exterior para promover exportaciones",
+      "resumen": "La línea aérea y la agencia PromArgentina sellaron un acuerdo para otorgar beneficios a las compañías que busquen insertarse en el exterior.",
+      "porQueImporta": "Una medida que busca fomentar las exportaciones argentinas, lo que puede generar oportunidades para empresas locales y fortalecer la economía del país.",
+      "publicadoEn": "2026-07-17T13:17:13.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/LBQ3CMEOD5C4VDSPFQ3PIBEDZM.JPG?auth=216891c27457712b27cf1a1f62fdad2fcbf2085d1c6f458898a1519abd76fd1c&smart=true&width=5500&height=3620",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "negocios",
+        "exportaciones",
+        "economía"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/campo/estamos-hartos-revuelo-en-una-provincia-por-la-creacion-de-un-registro-de-infractores-ambientales-nid17072026/",
+      "tituloOriginal": "“Estamos hartos”: revuelo en una provincia por la creación de un registro de infractores ambientales",
+      "tituloLimpio": "Revuelo en una provincia por la creación de un registro de infractores ambientales",
+      "resumen": "Productores y empresarios criticaron una medida del Ministerio de Ecología de Misiones; consideran que pone 'palos en la rueda de la producción'.",
+      "porQueImporta": "Refleja tensiones entre la regulación ambiental y el sector productivo en Argentina, un tema importante para entender el clima de negocios y las políticas locales.",
+      "publicadoEn": "2026-07-17T13:13:28.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/PLFACW2XYNA2FGP4APHA2BRWD4.png?auth=b451f9dd980e2130a13f0dc461994e8417803e0e5180a7010ee4200570928f9e&smart=true&width=2000&height=1333",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "negocios",
+        "regulación",
+        "economía"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "fuente": "Adweek",
+      "url": "https://www.adweek.com/agencies/legacy-tuna-brand-starkist-picks-tombras-to-make-its-mascot-a-viral-hit/",
+      "tituloOriginal": "Legacy Tuna Brand StarKist Picks Tombras to Make Its Mascot a Viral Hit",
+      "tituloLimpio": "StarKist elige a Tombras para hacer viral a su mascota",
+      "resumen": "StarKist apuesta por la nueva asociación para llevar su marca al espíritu de la época.",
+      "porQueImporta": "Un ejemplo de estrategia de marketing de una marca tradicional que busca relevancia viral. Interesante para analizar tácticas de branding y cómo las empresas intentan conectar con audiencias modernas.",
+      "publicadoEn": "2026-07-17T08:47:16.000Z",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "branding",
+        "viral",
+        "negocios"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-07-17T13:44:38.571Z"
+  }
+}
