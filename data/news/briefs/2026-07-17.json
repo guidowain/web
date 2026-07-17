@@ -1,13 +1,13 @@
 {
   "fecha": "2026-07-17",
-  "generadoEn": "2026-07-17T13:44:38.571Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "Hoy, Google anunció la posibilidad de conectar más apps a su buscador en Modo IA. En el ámbito de Apple, se destacan las actualizaciones de Apple TV y Apple Music para Android con widgets, y la discusión sobre la funcionalidad de 'Ocultar mi correo'. En Argentina, la inflación de la zona euro retrocedió, y se debaten temas de infraestructura y exportaciones. El sector de la IA sigue en movimiento con inversiones en chips de inferencia y el uso de IA por parte de la gobernadora de Nueva York para analizar regulaciones. En finanzas, Bitcoin enfrenta desafíos por un nuevo modelo de IA chino que superó a Claude y GPT en codificación.",
+  "generadoEn": "2026-07-17T18:06:15.214Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Hoy, el Gobierno argentino incorporó utilidades del BCRA al Presupuesto y se reunió con contadores por el pago de Ganancias. En el ámbito tecnológico, Apple y el Departamento de Justicia de EE.UU. están en conversaciones para un posible acuerdo en el caso antimonopolio del iPhone. Google anunció que permitirá conectar más aplicaciones a su modo IA en Search, mientras que OpenAI solucionó el acceso al chat en su app de ChatGPT para Mac. Además, se reporta que la demanda de Apple contra OpenAI podría afectar los planes de IPO de esta última. En el mercado, se observa una recuperación en el sector de chips y se analizan las tendencias de ingresos de Adobe y Autodesk.",
   "radarPersonal": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "titulo": "Google permitirá conectar más apps a su buscador en Modo IA",
-      "resumen": "Se podrán vincular e interactuar de forma segura con servicios directamente en el Modo IA del buscador.",
+      "titulo": "Google permitirá conectar más aplicaciones a su modo IA en Search",
+      "resumen": "Se podrán vincular e interactuar de forma segura con los servicios habituales directamente en el modo IA de Search.",
       "categoria": "AI",
       "fuentes": [
         "Google AI Blog"
@@ -19,139 +19,140 @@
       "tags": [
         "Google",
         "IA",
-        "apps",
-        "automatización"
+        "Search",
+        "integración"
       ]
     },
     {
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "titulo": "Inversores de GPU se vuelcan a chips de inferencia en un acuerdo de 400 millones de dólares",
-      "resumen": "Un préstamo de 400 millones de dólares respaldado por chips señala la próxima ola de acuerdos de infraestructura de IA.",
+      "titulo": "La demanda de Apple podría afectar los planes de IPO de OpenAI",
+      "resumen": "Apple presentó una demanda por secretos comerciales contra OpenAI, lo que podría interrumpir los planes de salida a bolsa de OpenAI.",
       "categoria": "AI",
       "fuentes": [
         "TechCrunch AI"
       ],
       "urls": [
-        "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/"
-      ],
-      "score": 100,
-      "tags": [
-        "IA",
-        "inversión",
-        "chips",
-        "hardware"
-      ]
-    },
-    {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "titulo": "Gobernadora de Nueva York usa IA para analizar 'cada regla' del estado",
-      "resumen": "La gobernadora de Nueva York, Kathy Hochul, dijo que su equipo está usando IA para analizar cada regla, regulación y política para buscar las que estén desactualizadas.",
-      "categoria": "AI",
-      "fuentes": [
-        "The Verge AI"
-      ],
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies"
-      ],
-      "score": 100,
-      "tags": [
-        "IA",
-        "gobierno",
-        "automatización"
-      ]
-    },
-    {
-      "id": "9to5mac-aHR0cHM6Ly85dG81Z29v",
-      "titulo": "Apple TV para Android agrega widgets y Apple Music permite compartir en WhatsApp",
-      "resumen": "Apple TV y Apple Music para Android están lanzando actualizaciones importantes con widgets en la pantalla de inicio como tema compartido.",
-      "categoria": "Apple",
-      "fuentes": [
-        "9to5Mac"
-      ],
-      "urls": [
-        "https://9to5google.com/2026/07/16/apple-tv-widgets/"
+        "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/"
       ],
       "score": 100,
       "tags": [
         "Apple",
-        "Android",
-        "apps",
-        "actualizaciones"
+        "OpenAI",
+        "demanda",
+        "IPO"
       ]
     },
     {
-      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
-      "titulo": "Bitcoin enfrenta desafíos mientras Kimi de China supera a Claude y GPT en codificación",
-      "resumen": "Kimi K3 de Moonshot ocupó el primer lugar en codificación frontend, superando a Claude y OpenAI, y es gratis. Las acciones de semiconductores cayeron, y las criptomonedas también.",
-      "categoria": "Finance",
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Apple y el Departamento de Justicia de EE.UU. en conversaciones para un acuerdo antimonopolio",
+      "resumen": "Apple está trabajando para llegar a un acuerdo en la demanda antimonopolio del iPhone con el Departamento de Justicia de EE.UU.",
+      "categoria": "Apple",
       "fuentes": [
-        "CoinDesk"
+        "MacRumors"
       ],
       "urls": [
-        "https://www.coindesk.com/markets/2026/07/17/bitcoin-faces-fresh-headwinds-as-china-s-kimi-beats-claude-gpt-in-coding-benchmark/"
+        "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/"
       ],
       "score": 100,
       "tags": [
-        "Bitcoin",
-        "IA",
-        "finanzas",
-        "competencia"
+        "Apple",
+        "DOJ",
+        "antimonopolio",
+        "iPhone",
+        "acuerdo"
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "El Gobierno incorporó utilidades del BCRA al Presupuesto, pero pide al Congreso que limite esa herramienta",
+      "resumen": "En mayo, el Gobierno tomó $24,4 billones y esta semana lo sumó al Presupuesto mediante un DNU. Ahora los ingresos previstos para el año subieron a $173,1 billones, mientras que los gastos ascendieron a $147,2 billones.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/el-gobierno-incorporo-utilidades-del-bcra-al-presupuesto-pero-le-pide-al-congreso-que-limite-esa-herramienta-n6300683"
+      ],
+      "score": 100,
+      "tags": [
+        "Argentina",
+        "Economía",
+        "BCRA",
+        "Presupuesto"
+      ]
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "titulo": "Caputo se reúne con contadores por los dólares del colchón y piden postergar el pago de Ganancias a agosto",
+      "resumen": "Buscan que el fisco estire el plazo que empieza el 27 de julio, pero el Gobierno por el momento lo descarta. La norma que impulsa el Ejecutivo tiene un cambio decisivo en Ganancias.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Clarin Economia"
+      ],
+      "urls": [
+        "https://www.clarin.com/economia/ganancias-caputo-reune-contadores-dolares-colchon-piden-postergar-pago-impuesto-agosto_0_CUQDYgFkvT.html"
+      ],
+      "score": 100,
+      "tags": [
+        "Argentina",
+        "Economía",
+        "Impuestos",
+        "Ganancias"
       ]
     }
   ],
   "loImportante": [
-    "Google está integrando más apps en su buscador con Modo IA, lo que podría cambiar la forma en que interactuamos con los servicios online.",
-    "La inversión en chips de inferencia para IA está creciendo, señalando una nueva fase en la infraestructura de la inteligencia artificial.",
-    "La gobernadora de Nueva York utiliza IA para revisar regulaciones estatales, mostrando un uso práctico de la tecnología en la gestión pública.",
-    "Apple TV y Apple Music para Android se actualizan con widgets, mejorando la experiencia de usuario en plataformas no-Apple.",
-    "Un nuevo modelo de IA chino, Kimi, superó a Claude y GPT en codificación, lo que podría impactar el mercado de criptomonedas y semiconductores."
+    "Google expande la integración de IA en su buscador, permitiendo interactuar con más apps directamente.",
+    "Apple y el Departamento de Justicia de EE.UU. negocian un posible acuerdo en el caso antimonopolio del iPhone.",
+    "La demanda de Apple contra OpenAI por secretos comerciales podría impactar los planes de IPO de OpenAI.",
+    "El Gobierno argentino incorporó utilidades del BCRA al Presupuesto y discute con contadores la postergación del pago de Ganancias.",
+    "El sector de chips muestra signos de recuperación tras una caída, según el índice SOX."
   ],
   "oportunidades": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "categoria": "Automation",
-      "titulo": "Integración de apps en el buscador de Google con IA",
-      "detalle": "La posibilidad de vincular e interactuar con servicios directamente en el Modo IA del buscador de Google podría simplificar flujos de trabajo y automatizar tareas.",
+      "categoria": "AI",
+      "titulo": "Mayor integración de apps en Google Search con IA",
+      "detalle": "La posibilidad de conectar y usar servicios directamente desde el modo IA de Google Search puede simplificar flujos de trabajo y la búsqueda de información, mejorando la productividad.",
       "acciones": [
-        "Explorar cómo esta integración puede aplicarse a herramientas de retoque o gestión de proyectos.",
-        "Monitorear los servicios que se integran para identificar oportunidades de automatización."
+        "Explorar las nuevas integraciones de apps en Google Search AI Mode para optimizar búsquedas y tareas.",
+        "Evaluar cómo esta funcionalidad puede aplicarse en el retoque fotográfico o la creación de arte con IA para acceder a herramientas o recursos más rápido."
       ]
     },
     {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuYmFy",
       "categoria": "Investing",
-      "titulo": "Inversión en chips de inferencia para IA",
-      "detalle": "El fuerte interés en los chips de inferencia, evidenciado por un préstamo de 400 millones de dólares, sugiere un crecimiento en este sector de la infraestructura de IA.",
+      "titulo": "Recuperación en el sector de chips",
+      "detalle": "El índice SOX, que agrupa a las empresas de semiconductores, ha vuelto a terreno positivo, sugiriendo que la venta masiva de chips podría haber sido excesiva.",
       "acciones": [
-        "Investigar ETFs o empresas que se centren en el desarrollo o producción de chips de inferencia.",
-        "Evaluar el impacto de esta tendencia en el mercado de semiconductores en general."
+        "Analizar el rendimiento de ETFs relacionados con semiconductores para identificar posibles oportunidades de inversión.",
+        "Monitorear las noticias y reportes financieros de empresas clave en el sector de chips para entender la tendencia a mediano plazo."
       ]
     },
     {
-      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
-      "categoria": "Marketing",
-      "titulo": "Colaboraciones con creadores deportivos en YouTube",
-      "detalle": "YouTube destaca el crecimiento de la influencia de los influencers deportivos y ofrece guías para conectar con ellos, lo que puede ser relevante para estrategias de marketing.",
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Productivity",
+      "titulo": "Seguro multirriesgo para el maíz en Entre Ríos",
+      "detalle": "Se presentó un seguro multirriesgo con un fondo de USD 1 millón para explotaciones de maíz de hasta 200 hectáreas en Entre Ríos, cubriendo sequías e inundaciones.",
       "acciones": [
-        "Analizar la posibilidad de aplicar estrategias de marketing de influencers a proyectos de arte con IA o retoque fotográfico.",
-        "Estudiar cómo otras marcas están utilizando estos creadores para generar engagement."
+        "Investigar si existen iniciativas similares o la posibilidad de replicar modelos de seguros para otros sectores o actividades productivas en Argentina."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
-      "titulo": "Riesgo creciente de sabotaje de datos meteorológicos",
-      "detalle": "Las decisiones en muchas industrias dependen de los pronósticos meteorológicos, y el riesgo de sabotaje de estos datos está aumentando, lo que podría tener consecuencias económicas y de seguridad.",
-      "mitigacion": "Mantenerse informado sobre la seguridad de los datos y las fuentes de información críticas para decisiones empresariales."
+      "titulo": "Demanda de Apple contra OpenAI y su impacto en la IPO",
+      "detalle": "La demanda por secretos comerciales de Apple contra OpenAI podría generar incertidumbre y afectar los planes de salida a bolsa de OpenAI, lo que podría influir en el panorama general de la IA.",
+      "mitigacion": "Monitorear de cerca el desarrollo de la demanda y sus posibles implicaciones para el mercado de IA y las valoraciones de empresas del sector."
     },
     {
-      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
-      "categoria": "Market",
-      "titulo": "Impacto de la competencia en IA en el mercado de criptomonedas y semiconductores",
-      "detalle": "El surgimiento de un nuevo modelo de IA chino que supera a los líderes en codificación, y su disponibilidad gratuita, generó una caída en las acciones de semiconductores y criptomonedas.",
-      "mitigacion": "Monitorear de cerca la evolución de los modelos de IA y su impacto en los mercados financieros, especialmente en inversiones relacionadas con tecnología y cripto."
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "Technology",
+      "titulo": "Riesgo creciente de sabotaje de datos meteorológicos",
+      "detalle": "El riesgo de sabotaje de datos meteorológicos está aumentando, lo que podría afectar decisiones críticas en diversas industrias, incluyendo la aviación y la agricultura.",
+      "mitigacion": "Estar atento a las noticias sobre ciberseguridad y la integridad de los datos, especialmente en sistemas que dependen de información crítica como la meteorológica."
     }
   ],
   "conexiones": [],
@@ -162,18 +163,39 @@
       "fuente": "Google AI Blog",
       "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
       "tituloOriginal": "Connect more of your apps to Search",
-      "tituloLimpio": "Google permitirá conectar más apps a su buscador en Modo IA",
-      "resumen": "Se podrán vincular e interactuar de forma segura con servicios directamente en el Modo IA del buscador.",
-      "porQueImporta": "Esta novedad de Google podría simplificar la interacción con distintas herramientas y servicios, ofreciendo nuevas posibilidades de automatización y eficiencia en el trabajo diario con IA y retoque fotográfico.",
+      "tituloLimpio": "Google permitirá conectar más aplicaciones a su modo IA en Search",
+      "resumen": "Se podrán vincular e interactuar de forma segura con los servicios habituales directamente en el modo IA de Search.",
+      "porQueImporta": "Esta mejora de Google Search con IA puede simplificar la interacción con diversas herramientas y servicios, mejorando la eficiencia en la búsqueda de información y la ejecución de tareas para Guido.",
       "publicadoEn": "2026-07-16T16:00:00.000Z",
       "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "IA",
         "Google",
-        "automatización",
-        "herramientas"
+        "IA",
+        "Search",
+        "integración"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
+      "tituloOriginal": "Apple and DOJ Hold Early Settlement Talks in iPhone Antitrust Case",
+      "tituloLimpio": "Apple y el Departamento de Justicia de EE.UU. en conversaciones para un acuerdo antimonopolio",
+      "resumen": "Apple está trabajando para llegar a un acuerdo en la demanda antimonopolio del iPhone con el Departamento de Justicia de EE.UU.",
+      "porQueImporta": "Un posible acuerdo en este caso antimonopolio podría influir en las políticas futuras de Apple respecto a su ecosistema y la competencia, lo que podría afectar a los usuarios de sus productos.",
+      "publicadoEn": "2026-07-17T15:05:23.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "DOJ",
+        "antimonopolio",
+        "iPhone",
+        "acuerdo"
       ],
       "tambienVistoEn": []
     },
@@ -181,20 +203,20 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/la-inflacion-la-zona-euro-retrocedio-un-01-mensual-junio-y-cumplio-las-expectativas-del-mercado-n6300590",
-      "tituloOriginal": "La inflación de la zona euro retrocedió un 0,1% mensual en junio y cumplió las expectativas del mercado",
-      "tituloLimpio": "La inflación de la zona euro retrocedió un 0,1% mensual en junio",
-      "resumen": "El dato de IPC se moderó en junio con una caída mensual del 0,1% y una suba interanual del 2,8%, impulsada por la desaceleración de los costos energéticos y de alimentos frescos.",
-      "porQueImporta": "Aunque es una noticia de la zona euro, la desaceleración de la inflación en economías grandes puede influir en las tendencias globales y en la política monetaria, afectando indirectamente los mercados de inversión.",
-      "publicadoEn": "2026-07-17T12:29:00.000Z",
-      "imagen": "https://media.ambito.com/p/88571cb478faef7272c10abea8fb49ad/adjuntos/239/imagenes/043/483/0043483022/1200x675/1262x466:1282x486/inflacion-zona-euro.png",
+      "url": "https://www.ambito.com/economia/el-gobierno-incorporo-utilidades-del-bcra-al-presupuesto-pero-le-pide-al-congreso-que-limite-esa-herramienta-n6300683",
+      "tituloOriginal": "El Gobierno incorporó utilidades del BCRA al Presupuesto, pero le pide al Congreso que limite esa herramienta",
+      "tituloLimpio": "El Gobierno incorporó utilidades del BCRA al Presupuesto, pero pide al Congreso que limite esa herramienta",
+      "resumen": "En mayo, el Gobierno tomó $24,4 billones y esta semana lo sumó al Presupuesto mediante un DNU. Ahora los ingresos previstos para el año subieron a $173,1 billones, mientras que los gastos ascendieron a $147,2 billones.",
+      "porQueImporta": "Esta medida tiene un impacto directo en la economía argentina y en la gestión fiscal del país, relevante para entender el contexto económico local.",
+      "publicadoEn": "2026-07-17T16:06:00.000Z",
+      "imagen": "https://media.ambito.com/p/1c44044dba3d3d1bb038252744e674ff/adjuntos/239/imagenes/041/922/0041922228/bcra-banco-central.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "finanzas",
-        "economía",
-        "inflación",
-        "mercados"
+        "Argentina",
+        "Economía",
+        "BCRA",
+        "Presupuesto"
       ],
       "tambienVistoEn": []
     },
@@ -202,19 +224,18 @@
       "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
       "categoria": "Marketing",
       "fuente": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/youtube-highlights-brand-partnerships-with-sports-creators/825428/",
-      "tituloOriginal": "Sociable: YouTube highlights brand partnerships with sports creators",
-      "tituloLimpio": "YouTube destaca asociaciones de marcas con creadores deportivos",
-      "resumen": "El último informe de la plataforma examinó la creciente influencia de los influencers atléticos y ofreció orientación sobre cómo conectar con ellos.",
-      "porQueImporta": "Para estrategias de marketing, entender la influencia de los creadores de contenido y cómo las marcas se asocian con ellos es clave. Esto puede inspirar nuevas formas de promocionar proyectos de arte con IA o retoque.",
-      "publicadoEn": "2026-07-16T16:14:00.000Z",
-      "globalScore": 90,
+      "url": "https://www.marketingdive.com/news/kate-spade-names-chief-marketing-officer-allison-badea/825558/",
+      "tituloOriginal": "Kate Spade focused on ‘reigniting the magic’ with new chief marketer",
+      "tituloLimpio": "Kate Spade busca 'reavivar la magia' con nueva jefa de marketing",
+      "resumen": "Allison Badea, veterana de L'Oréal, fue elegida para el puesto mientras la marca enfrenta una caída en las ventas y un largo camino de recuperación.",
+      "porQueImporta": "Es un ejemplo de estrategia de marketing en una marca de consumo, mostrando cómo las empresas buscan revitalizarse a través de nuevos liderazgos en marketing.",
+      "publicadoEn": "2026-07-17T16:00:00.000Z",
+      "globalScore": 92,
       "personalScore": 100,
       "tags": [
-        "marketing",
-        "influencers",
-        "YouTube",
-        "negocios"
+        "Marketing",
+        "Estrategia",
+        "Marcas"
       ],
       "tambienVistoEn": []
     },
@@ -222,19 +243,20 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-      "tituloOriginal": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-      "tituloLimpio": "Inversores de GPU se vuelcan a chips de inferencia en un acuerdo de 400 millones de dólares",
-      "resumen": "Un préstamo de 400 millones de dólares respaldado por chips señala la próxima ola de acuerdos de infraestructura de IA.",
-      "porQueImporta": "Esta inversión masiva en chips de inferencia indica una tendencia importante en el hardware de IA, relevante para entender hacia dónde se dirige la tecnología y posibles oportunidades de inversión en el sector.",
-      "publicadoEn": "2026-07-17T12:00:00.000Z",
+      "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "tituloOriginal": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+      "tituloLimpio": "La demanda de Apple podría afectar los planes de IPO de OpenAI",
+      "resumen": "Apple presentó una demanda por secretos comerciales contra OpenAI, lo que podría interrumpir los planes de salida a bolsa de OpenAI.",
+      "porQueImporta": "Este conflicto entre dos gigantes tecnológicos es clave para el futuro de la IA y el mercado, con posibles repercusiones en la innovación y la competencia.",
+      "publicadoEn": "2026-07-17T17:45:46.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "IA",
-        "inversión",
-        "hardware",
-        "tecnología"
+        "Apple",
+        "OpenAI",
+        "demanda",
+        "IPO",
+        "IA"
       ],
       "tambienVistoEn": []
     },
@@ -244,17 +266,17 @@
       "fuente": "The Verge AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
       "tituloOriginal": "New York governor says she’s using AI to analyze ‘every single rule’ in the state",
-      "tituloLimpio": "Gobernadora de Nueva York usa IA para analizar 'cada regla' del estado",
-      "resumen": "La gobernadora de Nueva York, Kathy Hochul, dijo que su equipo está usando IA para analizar cada regla, regulación y política para buscar las que estén desactualizadas.",
-      "porQueImporta": "Es un ejemplo concreto de cómo la IA se aplica en la gestión pública para la automatización y optimización de procesos, lo que puede inspirar usos similares en otros ámbitos o herramientas.",
+      "tituloLimpio": "La gobernadora de Nueva York dice que usa IA para analizar 'cada regla' del estado",
+      "resumen": "La gobernadora de Nueva York, Kathy Hochul, dijo que su equipo está usando IA para analizar 'cada regla, regulación y política' para verificar si están desactualizadas.",
+      "porQueImporta": "Muestra un uso práctico y a gran escala de la IA en la administración pública para optimizar procesos y políticas, relevante para la aplicación de IA en diversos campos.",
       "publicadoEn": "2026-07-16T17:58:37.000Z",
-      "globalScore": 98,
+      "globalScore": 92,
       "personalScore": 100,
       "tags": [
         "IA",
-        "automatización",
-        "gobierno",
-        "herramientas"
+        "Gobierno",
+        "Automatización",
+        "Políticas"
       ],
       "tambienVistoEn": []
     },
@@ -264,17 +286,38 @@
       "fuente": "MIT Technology Review AI",
       "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
       "tituloOriginal": "The risk of weather data sabotage is rising",
-      "tituloLimpio": "El riesgo de sabotaje de datos meteorológicos está aumentando",
-      "resumen": "Las decisiones en muchas industrias dependen de los pronósticos meteorológicos, y el riesgo de sabotaje de estos datos está aumentando.",
-      "porQueImporta": "Aunque no es directamente sobre IA, resalta la importancia de la seguridad de los datos en sistemas críticos. En un mundo cada vez más automatizado y dependiente de datos, la integridad de la información es fundamental.",
+      "tituloLimpio": "Aumenta el riesgo de sabotaje de datos meteorológicos",
+      "resumen": "Cada mañana, los despachadores de aerolíneas, operadores de redes eléctricas y agricultores de todo el mundo toman decisiones basadas en el pronóstico del tiempo.",
+      "porQueImporta": "Destaca un riesgo creciente en la integridad de datos críticos, lo que puede tener implicaciones en diversas industrias y la toma de decisiones basada en información.",
       "publicadoEn": "2026-07-17T08:57:32.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "IA",
-        "seguridad",
-        "datos",
-        "tecnología"
+        "Ciberseguridad",
+        "Datos",
+        "Riesgos",
+        "Tecnología"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/17/openai-fixes-chat-access-in-the-chatgpt-app-for-mac/",
+      "tituloOriginal": "OpenAI fixes chat access in the ChatGPT app for Mac",
+      "tituloLimpio": "OpenAI corrige el acceso al chat en la aplicación ChatGPT para Mac",
+      "resumen": "OpenAI actualizó su aplicación ChatGPT para Mac, rediseñada recientemente, para facilitar nuevamente el acceso a los chats.",
+      "porQueImporta": "Una mejora de usabilidad en una herramienta de IA clave como ChatGPT para Mac es relevante para la productividad de usuarios de Apple que trabajan con IA.",
+      "publicadoEn": "2026-07-17T18:01:27.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "Mac",
+        "Herramientas",
+        "IA"
       ],
       "tambienVistoEn": []
     },
@@ -285,16 +328,16 @@
       "url": "https://9to5google.com/2026/07/16/apple-tv-widgets/",
       "tituloOriginal": "Apple TV for Android adds widgets, Apple Music gets WhatsApp sharing",
       "tituloLimpio": "Apple TV para Android agrega widgets y Apple Music permite compartir en WhatsApp",
-      "resumen": "Apple TV y Apple Music para Android están lanzando actualizaciones importantes con widgets en la pantalla de inicio como tema compartido.",
-      "porQueImporta": "Muestra la estrategia de Apple de expandir sus servicios a plataformas Android, lo que puede ser relevante para usuarios que combinan ecosistemas o para entender la dirección de la empresa.",
+      "resumen": "Apple TV y Apple Music para Android están lanzando actualizaciones importantes hoy, con widgets en la pantalla de inicio como tema compartido.",
+      "porQueImporta": "Muestra la expansión de los servicios de Apple a otras plataformas y la mejora de la experiencia de usuario, relevante para el ecosistema de Apple.",
       "publicadoEn": "2026-07-16T22:47:21.000Z",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Apple",
         "Android",
-        "apps",
-        "actualizaciones"
+        "Apps",
+        "Actualizaciones"
       ],
       "tambienVistoEn": []
     },
@@ -302,41 +345,105 @@
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
       "categoria": "Apple",
       "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/07/17/its-easy-to-find-a-real-email-address-behind-hide-my-email-but-it-doesnt-really-matter?utm_source=rss",
-      "tituloOriginal": "It's easy to find a real email address behind Hide My Email, but it doesn't really matter",
-      "tituloLimpio": "Es fácil encontrar un correo electrónico real detrás de 'Ocultar mi correo', pero no importa",
-      "resumen": "AppleInsider puede confirmar que es bastante fácil obtener el correo electrónico real de alguien de 'Ocultar mi correo', pero tampoco es una gran preocupación. Si se usa la función como filtro de spam, no hay problema.",
-      "porQueImporta": "Aclara una funcionalidad de privacidad de Apple, importante para usuarios que valoran la seguridad y la gestión de su información personal. Es útil para entender las limitaciones y el propósito de la herramienta.",
-      "publicadoEn": "2026-07-17T13:42:13.000Z",
-      "globalScore": 100,
+      "url": "https://appleinsider.com/articles/26/07/17/apples-long-running-doj-antitrust-case-may-not-make-it-to-trial?utm_source=rss",
+      "tituloOriginal": "Apple's long-running DOJ antitrust case may not make it to trial",
+      "tituloLimpio": "El caso antimonopolio de Apple con el Departamento de Justicia podría no llegar a juicio",
+      "resumen": "Apple y el Departamento de Justicia de EE.UU. están en conversaciones iniciales sobre un posible acuerdo anticipado en una demanda antimonopolio de iPhone de 2024.",
+      "porQueImporta": "Refuerza la noticia anterior sobre las negociaciones, indicando una posible resolución extrajudicial que podría definir el futuro de las regulaciones antimonopolio en el sector tecnológico.",
+      "publicadoEn": "2026-07-17T17:42:30.000Z",
+      "globalScore": 96,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "privacidad",
-        "seguridad",
-        "herramientas"
+        "DOJ",
+        "Antimonopolio",
+        "Juicio"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
-      "categoria": "Finance",
-      "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/17/bitcoin-faces-fresh-headwinds-as-china-s-kimi-beats-claude-gpt-in-coding-benchmark",
-      "tituloOriginal": "Bitcoin faces fresh headwinds as China’s Kimi beats Claude, GPT in coding benchmark",
-      "tituloLimpio": "Bitcoin enfrenta desafíos mientras Kimi de China supera a Claude y GPT en codificación",
-      "resumen": "Kimi K3 de Moonshot ocupó el primer lugar en codificación frontend, superando a Claude y OpenAI, y es gratis. Las acciones de semiconductores cayeron, y las criptomonedas también.",
-      "porQueImporta": "La aparición de un nuevo modelo de IA superior y gratuito puede tener un impacto significativo en el desarrollo de software, la competencia en IA y los mercados financieros, especialmente en criptomonedas y tecnología.",
-      "publicadoEn": "2026-07-17T12:45:11.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/2d5d3339e6f49e40f4fbaf1d54d98fc286fe6d34-1707x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/news/podcast-rewind-fable-steamos-on-android-and-voice-created-shortcuts/",
+      "tituloOriginal": "Podcast Rewind: Fable, SteamOS on Android, and Voice-Created Shortcuts",
+      "tituloLimpio": "Podcast Rewind: Fable, SteamOS en Android y atajos creados por voz",
+      "resumen": "Disfrute de los últimos episodios de la familia de podcasts de MacStories: AppStories. Esta semana, Federico y John analizan sus experiencias con Claude Fable 5 y cómo difiere de otros modelos y desglosan los cambios controvertidos realizados por OpenAI en su aplicación ChatGPT para Mac.",
+      "porQueImporta": "Ofrece una perspectiva sobre nuevas herramientas de IA (Claude Fable 5) y discusiones sobre la evolución de aplicaciones como ChatGPT para Mac, relevante para usuarios interesados en IA y Apple.",
+      "publicadoEn": "2026-07-17T17:55:48.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "Bitcoin",
+        "Podcast",
         "IA",
-        "finanzas",
-        "competencia",
-        "mercados"
+        "Apple",
+        "ChatGPT",
+        "Herramientas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-vs-autodesk-revenue-trends-174801681.html",
+      "tituloOriginal": "Adobe vs. Autodesk: What Revenue Trends Reveal About These Software Stocks",
+      "tituloLimpio": "Adobe vs. Autodesk: Tendencias de ingresos revelan sobre estas acciones de software",
+      "resumen": "",
+      "porQueImporta": "Un análisis comparativo de empresas de software como Adobe y Autodesk es relevante para inversores interesados en el sector tecnológico y para entender el rendimiento de estas compañías.",
+      "publicadoEn": "2026-07-17T17:48:01.000Z",
+      "imagen": "https://media.zenfs.com/en/motleyfool.com/69f1042652ab124ed5f99769b5d292f7",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "Inversión",
+        "Software",
+        "Adobe",
+        "Autodesk"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/news/technology/meta-stock-anthropic-cloud-negotations/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Meta Stock Trims Losses After Report Of Potential Anthropic Cloud Deal",
+      "tituloLimpio": "Meta recorta pérdidas tras informe de posible acuerdo con Anthropic Cloud",
+      "resumen": "",
+      "porQueImporta": "Un posible acuerdo entre Meta y Anthropic Cloud podría tener implicaciones en el mercado de la IA y en el rendimiento de las acciones de Meta.",
+      "publicadoEn": "2026-07-17T17:39:34.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/6f53487afd0a5f558db44544e01ce784",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "Inversión",
+        "Meta",
+        "Anthropic",
+        "IA"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuYmFy",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-071726/card/the-chip-selloff-has-gone-too-far-the-sox-index-turns-positive--dXKMv5ZY1UywY4rjITbc?siteid=yhoof2&yptr=yahoo",
+      "tituloOriginal": "The Chip Selloff Has 'Gone Too Far.' The SOX Index Turns Positive.",
+      "tituloLimpio": "La venta de chips ha 'ido demasiado lejos'. El índice SOX se vuelve positivo.",
+      "resumen": "",
+      "porQueImporta": "Indica una posible recuperación en el sector de semiconductores, lo que es relevante para inversores y para entender las tendencias en la industria tecnológica.",
+      "publicadoEn": "2026-07-17T17:40:42.000Z",
+      "imagen": "https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "Inversión",
+        "Chips",
+        "Mercado"
       ],
       "tambienVistoEn": []
     },
@@ -344,20 +451,20 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/rural/falta-diagnostico-hechos-campo-industria-gremios-retomaron-pedido-mayor-inversion-infraestructura_0_RbK4j5YWI1.html",
-      "tituloOriginal": "“Nos falta menos diagnóstico y más hechos”: el campo, la industria y los gremios retomaron su pedido de mayor inversión en infraestructura",
-      "tituloLimpio": "El campo, la industria y los gremios piden mayor inversión en infraestructura",
-      "resumen": "El Consejo de Políticas de Infraestructura (CPI) remarcó la necesidad del desarrollo de una infraestructura acorde para el crecimiento y de la interacción público-privada al respecto.",
-      "porQueImporta": "La inversión en infraestructura es crucial para el desarrollo económico de Argentina, afectando la logística, la producción y la competitividad. Es un tema relevante para el panorama de negocios local.",
-      "publicadoEn": "2026-07-17T12:56:07.000Z",
-      "imagen": "https://www.clarin.com/img/2026/07/17/2kYElW2wU_1200x630__1.jpg",
+      "url": "https://www.clarin.com/economia/ganancias-caputo-reune-contadores-dolares-colchon-piden-postergar-pago-impuesto-agosto_0_CUQDYgFkvT.html",
+      "tituloOriginal": "Ganancias: Caputo se reúne con contadores por los dólares del colchón y piden postergar el pago del impuesto a agosto",
+      "tituloLimpio": "Caputo se reúne con contadores por los dólares del colchón y piden postergar el pago de Ganancias a agosto",
+      "resumen": "Buscan que el fisco estire el plazo que empieza el 27 de julio, pero el Gobierno por el momento lo descarta. La norma que impulsa el Ejecutivo tiene un cambio decisivo en Ganancias.",
+      "porQueImporta": "Noticia de alto impacto local que afecta directamente a contribuyentes y la política fiscal argentina.",
+      "publicadoEn": "2026-07-17T15:44:26.000Z",
+      "imagen": "https://www.clarin.com/img/2026/05/21/MGJEEQ2_T_1200x630__1.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "economía",
-        "negocios",
-        "infraestructura"
+        "Economía",
+        "Impuestos",
+        "Ganancias"
       ],
       "tambienVistoEn": []
     },
@@ -365,20 +472,20 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/07/17/aerolineas-argentinas-hara-descuentos-a-empresas-que-viajen-al-exterior-para-promover-exportaciones/",
-      "tituloOriginal": "Aerolíneas Argentinas hará descuentos a empresas que viajen al exterior para promover exportaciones",
-      "tituloLimpio": "Aerolíneas Argentinas hará descuentos a empresas que viajen al exterior para promover exportaciones",
-      "resumen": "La línea aérea y la agencia PromArgentina sellaron un acuerdo para otorgar beneficios a las compañías que busquen insertarse en el exterior.",
-      "porQueImporta": "Una medida que busca fomentar las exportaciones argentinas, lo que puede generar oportunidades para empresas locales y fortalecer la economía del país.",
-      "publicadoEn": "2026-07-17T13:17:13.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/LBQ3CMEOD5C4VDSPFQ3PIBEDZM.JPG?auth=216891c27457712b27cf1a1f62fdad2fcbf2085d1c6f458898a1519abd76fd1c&smart=true&width=5500&height=3620",
+      "url": "https://www.infobae.com/economia/2026/07/17/rogelio-frigerio-presento-un-seguro-multirriesgo-con-un-fondo-de-usd-1-millon-para-el-maiz-en-entre-rios/",
+      "tituloOriginal": "Rogelio Frigerio presentó un seguro multirriesgo con un fondo de USD 1 millón para el maíz en Entre Ríos",
+      "tituloLimpio": "Rogelio Frigerio presentó un seguro multirriesgo con un fondo de USD 1 millón para el maíz en Entre Ríos",
+      "resumen": "La herramienta, lanzada en la Exposición Rural de Palermo junto al Iapser, estará dirigida a explotaciones de hasta 200 hectáreas ante sequías e inundaciones.",
+      "porQueImporta": "Muestra una iniciativa de apoyo al sector agropecuario en Argentina, relevante para la economía regional y las políticas de gestión de riesgos.",
+      "publicadoEn": "2026-07-17T17:28:48.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/LN2VVI4G7FD6DID4FJXE6OYJKY.jpeg?auth=bf6a9325e40352ac575b8b2fe749645db5c0d9a95900140135ee0eb452679b83&smart=true&width=1920&height=1080",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "negocios",
-        "exportaciones",
-        "economía"
+        "Economía",
+        "Agricultura",
+        "Seguros"
       ],
       "tambienVistoEn": []
     },
@@ -386,20 +493,20 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/campo/estamos-hartos-revuelo-en-una-provincia-por-la-creacion-de-un-registro-de-infractores-ambientales-nid17072026/",
-      "tituloOriginal": "“Estamos hartos”: revuelo en una provincia por la creación de un registro de infractores ambientales",
-      "tituloLimpio": "Revuelo en una provincia por la creación de un registro de infractores ambientales",
-      "resumen": "Productores y empresarios criticaron una medida del Ministerio de Ecología de Misiones; consideran que pone 'palos en la rueda de la producción'.",
-      "porQueImporta": "Refleja tensiones entre la regulación ambiental y el sector productivo en Argentina, un tema importante para entender el clima de negocios y las políticas locales.",
-      "publicadoEn": "2026-07-17T13:13:28.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/PLFACW2XYNA2FGP4APHA2BRWD4.png?auth=b451f9dd980e2130a13f0dc461994e8417803e0e5180a7010ee4200570928f9e&smart=true&width=2000&height=1333",
+      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid17072026/",
+      "tituloOriginal": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 17 de julio, minuto a minuto",
+      "tituloLimpio": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 17 de julio",
+      "resumen": "La divisa oficial opera a $1500 para la venta; el dólar blue cotiza a $1525 para esa operación.",
+      "porQueImporta": "Información esencial sobre la cotización del dólar en Argentina, fundamental para la toma de decisiones económicas y financieras en el país.",
+      "publicadoEn": "2026-07-17T18:00:00.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/RIXF5FYGWRDCJI5DEY2FV4NBWE.png?auth=4c484207044b08a445131ed2bc0f086433cc2ed17da5c5481e24da6159eaefcc&smart=true&width=2000&height=1333",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "negocios",
-        "regulación",
-        "economía"
+        "Economía",
+        "Dólar",
+        "Mercado"
       ],
       "tambienVistoEn": []
     },
@@ -407,25 +514,24 @@
       "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
       "categoria": "Marketing",
       "fuente": "Adweek",
-      "url": "https://www.adweek.com/agencies/legacy-tuna-brand-starkist-picks-tombras-to-make-its-mascot-a-viral-hit/",
-      "tituloOriginal": "Legacy Tuna Brand StarKist Picks Tombras to Make Its Mascot a Viral Hit",
-      "tituloLimpio": "StarKist elige a Tombras para hacer viral a su mascota",
-      "resumen": "StarKist apuesta por la nueva asociación para llevar su marca al espíritu de la época.",
-      "porQueImporta": "Un ejemplo de estrategia de marketing de una marca tradicional que busca relevancia viral. Interesante para analizar tácticas de branding y cómo las empresas intentan conectar con audiencias modernas.",
-      "publicadoEn": "2026-07-17T08:47:16.000Z",
-      "globalScore": 90,
+      "url": "https://www.adweek.com/brand-marketing/marketers-at-the-adweek-house-sports-summit-speak-on-the-value-of-preparation/",
+      "tituloOriginal": "Preparation Spreads the Value of the World Cup Across the Entire Sports Marketing World",
+      "tituloLimpio": "La preparación extiende el valor del Mundial a todo el mundo del marketing deportivo",
+      "resumen": "El torneo de fútbol demostró cómo estar preparado lleva al éxito.",
+      "porQueImporta": "Ofrece una lección de marketing sobre la importancia de la planificación y la preparación en grandes eventos, aplicable a estrategias de marketing en general.",
+      "publicadoEn": "2026-07-17T11:54:30.000Z",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "marketing",
-        "branding",
-        "viral",
-        "negocios"
+        "Marketing",
+        "Deportes",
+        "Estrategia"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-07-17T13:44:38.571Z"
+    "generadoEn": "2026-07-17T18:06:15.214Z"
   }
 }
