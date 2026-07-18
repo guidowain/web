@@ -1,0 +1,386 @@
+{
+  "fecha": "2026-07-18",
+  "generadoEn": "2026-07-18T13:21:29.325Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "Esta semana se destacan las betas públicas de iOS 27 y macOS Golden Gate de Apple, el aumento de precios de iCloud+ en algunos países y la integración de más apps con el modo IA de Google Search. En Argentina, un \"Súper Niño\" podría impactar el agro y la economía, mientras que el precio de la nafta sigue siendo un tema relevante. También hay noticias sobre el mercado de inversión en IA y el marketing de eventos en vivo de Netflix.",
+  "radarPersonal": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Google Search integrará más apps con su modo IA",
+      "resumen": "Se podrán vincular e interactuar de forma segura con los servicios habituales directamente en el modo IA de Google Search.",
+      "categoria": "AI",
+      "fuentes": [
+        "Google AI Blog"
+      ],
+      "urls": [
+        "https://blog.google/products-and-platforms/products/search/connected-apps/"
+      ],
+      "score": 100,
+      "tags": [
+        "IA",
+        "Google",
+        "integración",
+        "apps"
+      ]
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Apple lanzó las betas públicas de iOS 27 y macOS Golden Gate",
+      "resumen": "Apple cumplió su promesa de lanzamiento en julio y entregó las primeras betas públicas de iOS 27, macOS Golden Gate y más esta semana, abriendo las pruebas a una audiencia más amplia.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/07/18/top-stories-ios-27-macos-golden-gate-public-betas/"
+      ],
+      "score": 100,
+      "tags": [
+        "Apple",
+        "iOS",
+        "macOS",
+        "betas"
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Alerta por un \"Súper Niño\" y su impacto en la economía argentina",
+      "resumen": "El fenómeno climático ya se confirmó en el país y podría intensificarse durante los meses decisivos para la campaña agrícola, alterando los dólares del agro, los commodities y la inflación.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/alerta-un-super-nino-el-fenomeno-climatico-podria-alterar-los-dolares-del-agro-los-commodities-y-la-inflacion-n6300744"
+      ],
+      "score": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "clima",
+        "inflación"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "Un capitalista de riesgo cree que el dinero de la IA está retrocediendo",
+      "resumen": "Neil Rimer, el capitalista de riesgo que cofundó Index Ventures, predice que la riqueza histórica que la IA está generando en Silicon Valley tendrá que ser redistribuida, voluntaria o involuntariamente.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/"
+      ],
+      "score": 100,
+      "tags": [
+        "IA",
+        "inversión",
+        "capital de riesgo"
+      ]
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "titulo": "Apple aumentó el costo de iCloud+ en 8 países",
+      "resumen": "Apple continuó subiendo los precios de sus servicios en línea, con iCloud+ aumentando su costo en varios territorios.",
+      "categoria": "Apple",
+      "fuentes": [
+        "AppleInsider"
+      ],
+      "urls": [
+        "https://appleinsider.com/articles/26/07/18/apple-bumps-up-the-cost-of-icloud-in-8-countries?utm_source=rss"
+      ],
+      "score": 100,
+      "tags": [
+        "Apple",
+        "iCloud+",
+        "precios",
+        "servicios"
+      ]
+    }
+  ],
+  "loImportante": [
+    "Google Search integrará más aplicaciones con su modo IA, permitiendo una interacción más directa con los servicios habituales.",
+    "Apple lanzó las primeras betas públicas de iOS 27 y macOS Golden Gate, abriendo las pruebas a una audiencia más amplia.",
+    "El fenómeno climático \"Súper Niño\" se confirmó en Argentina y podría impactar la producción agrícola, las exportaciones y la inflación.",
+    "Un capitalista de riesgo predice que la riqueza generada por la IA en Silicon Valley podría ser redistribuida.",
+    "Apple aumentó los precios de iCloud+ en varios países."
+  ],
+  "oportunidades": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "titulo": "Mayor integración de apps con Google Search AI",
+      "detalle": "La posibilidad de vincular e interactuar de forma segura con servicios habituales directamente en el modo IA de Google Search podría simplificar flujos de trabajo y automatizaciones.",
+      "acciones": [
+        "Explorar nuevas integraciones para herramientas de retoque o gestión de proyectos.",
+        "Evaluar cómo esta integración puede mejorar la eficiencia en la búsqueda de información o recursos."
+      ]
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Productivity",
+      "titulo": "Acceso anticipado a iOS 27 y macOS Golden Gate",
+      "detalle": "Las betas públicas de los nuevos sistemas operativos de Apple permiten probar nuevas funciones y mejoras antes de su lanzamiento oficial.",
+      "acciones": [
+        "Considerar la instalación de las betas en dispositivos secundarios para explorar nuevas herramientas o mejoras de rendimiento.",
+        "Identificar posibles nuevas funcionalidades que puedan impactar el flujo de trabajo en retoque o arte con IA."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "Technology",
+      "titulo": "Aumento del riesgo de sabotaje de datos meteorológicos",
+      "detalle": "Las predicciones meteorológicas influyen en decisiones estratégicas en muchas industrias, con dinero, medios de vida y vidas en juego. El riesgo de sabotaje de estos datos está aumentando.",
+      "mitigacion": "Monitorear la confiabilidad de las fuentes de datos para decisiones críticas que dependan de pronósticos, aunque no impacte directamente en el día a día, es una tendencia a observar en la infraestructura de datos global."
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Market",
+      "titulo": "Impacto económico del \"Súper Niño\" en Argentina",
+      "detalle": "El fenómeno climático podría alterar los dólares del agro, los commodities y la inflación en Argentina, con posibles efectos en la producción y las exportaciones, así como en los rindes y la logística.",
+      "mitigacion": "Mantenerse informado sobre las proyecciones económicas y agrícolas para anticipar posibles fluctuaciones en el mercado local y su impacto en el poder adquisitivo o la inversión."
+    }
+  ],
+  "conexiones": [],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "tituloOriginal": "Connect more of your apps to Search",
+      "tituloLimpio": "Google Search permitirá conectar más aplicaciones al modo IA",
+      "resumen": "Se podrán vincular e interactuar de forma segura con los servicios habituales directamente en el modo IA.",
+      "porQueImporta": "Para Guido, que trabaja con IA aplicada y automatización, esta noticia es relevante porque sugiere una mayor integración y eficiencia en el uso de herramientas, potencialmente simplificando flujos de trabajo y acceso a información.",
+      "publicadoEn": "2026-07-16T16:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "Google",
+        "integración",
+        "apps",
+        "automatización"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/07/18/top-stories-ios-27-macos-golden-gate-public-betas/",
+      "tituloOriginal": "Top Stories: iOS 27 and macOS Golden Gate Public Betas, Apple Back to School Promo, and More",
+      "tituloLimpio": "Apple lanzó las betas públicas de iOS 27 y macOS Golden Gate",
+      "resumen": "Apple entregó las primeras betas públicas de iOS 27, macOS Golden Gate y más esta semana, abriendo las pruebas a una audiencia más amplia.",
+      "porQueImporta": "Como usuario de Apple, Guido puede estar interesado en probar las nuevas funcionalidades y mejoras de los sistemas operativos antes de su lanzamiento oficial, lo que podría impactar su trabajo diario.",
+      "publicadoEn": "2026-07-18T10:21:08.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "iOS",
+        "macOS",
+        "betas",
+        "novedades"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/alerta-un-super-nino-el-fenomeno-climatico-podria-alterar-los-dolares-del-agro-los-commodities-y-la-inflacion-n6300744",
+      "tituloOriginal": "Alerta por un \"Súper Niño\": el fenómeno climático podría alterar los dólares del agro, los commodities y la inflación",
+      "tituloLimpio": "Alerta por un \"Súper Niño\": podría afectar los dólares del agro, commodities e inflación en Argentina",
+      "resumen": "El fenómeno climático ya se confirmó en el país y podría intensificarse durante los meses decisivos para la campaña agrícola. Para la Argentina, mayores precipitaciones podrían elevar la producción y las exportaciones, aunque los excesos también podrían afectar los rindes, la logística y la oferta de divisas.",
+      "porQueImporta": "Esta noticia es crucial para Guido por su impacto directo en la economía argentina, afectando la inflación, el valor del dólar y, en consecuencia, su poder adquisitivo y decisiones de inversión.",
+      "publicadoEn": "2026-07-18T00:08:00.000Z",
+      "imagen": "https://media.ambito.com/p/8075d14b47da2006a5d1d81d13eeaf59/adjuntos/239/imagenes/043/522/0043522885/1200x675/smart/super-nino-argentina.png",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "clima",
+        "inflación",
+        "agro"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/netflix-says-live-events-bolster-ads-but-affect-viewer-engagement/825515/",
+      "tituloOriginal": "Netflix says live events bolster ads but affect viewer engagement",
+      "tituloLimpio": "Netflix afirma que los eventos en vivo impulsan la publicidad, pero afectan la participación del espectador",
+      "resumen": "El formato, un foco de sus actuales conversaciones de upfront, puede generar ingresos publicitarios y fidelidad, pero suele resultar en menos horas de visualización.",
+      "porQueImporta": "Para Guido, interesado en marketing, esta noticia ofrece una perspectiva sobre las estrategias de contenido y monetización en plataformas de streaming, y cómo los eventos en vivo impactan el engagement de la audiencia.",
+      "publicadoEn": "2026-07-17T14:32:00.000Z",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "Netflix",
+        "publicidad",
+        "eventos en vivo",
+        "engagement"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "tituloOriginal": "Neil Rimer thinks the AI money is coming back out",
+      "tituloLimpio": "Neil Rimer cree que el dinero de la IA está retrocediendo",
+      "resumen": "Neil Rimer, el capitalista de riesgo que cofundó Index Ventures, predice que la riqueza histórica que la IA está generando en Silicon Valley tendrá que ser redistribuida, voluntaria o involuntariamente.",
+      "porQueImporta": "Guido, interesado en IA y finanzas, encontrará relevante esta perspectiva sobre la inversión en IA y las posibles tendencias de redistribución de riqueza en el sector tecnológico.",
+      "publicadoEn": "2026-07-18T04:47:25.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "inversión",
+        "capital de riesgo",
+        "mercado"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+      "tituloOriginal": "The risk of weather data sabotage is rising",
+      "tituloLimpio": "El riesgo de sabotaje de datos meteorológicos está aumentando",
+      "resumen": "Las predicciones meteorológicas influyen en decisiones estratégicas en muchas industrias, con dinero, medios de vida y vidas en juego.",
+      "porQueImporta": "Aunque no sea un impacto directo, la seguridad de los datos es un tema relevante en el contexto de la IA y la automatización. Un riesgo en datos tan fundamentales como los meteorológicos puede tener consecuencias amplias.",
+      "publicadoEn": "2026-07-17T08:57:32.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "seguridad de datos",
+        "riesgos",
+        "tecnología"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81Z29v",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5google.com/2026/07/16/apple-tv-widgets/",
+      "tituloOriginal": "Apple TV for Android adds widgets, Apple Music gets WhatsApp sharing",
+      "tituloLimpio": "Apple TV para Android agrega widgets, Apple Music permite compartir en WhatsApp",
+      "resumen": "Apple TV y Apple Music para Android están lanzando actualizaciones importantes hoy, con widgets de pantalla de inicio como tema compartido.",
+      "porQueImporta": "Para Guido, como usuario de Apple, es interesante ver cómo la compañía expande funcionalidades a otras plataformas, lo que puede indicar tendencias en la integración de servicios.",
+      "publicadoEn": "2026-07-16T22:47:21.000Z",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "Android",
+        "Apple TV",
+        "Apple Music",
+        "widgets"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/07/18/apple-bumps-up-the-cost-of-icloud-in-8-countries?utm_source=rss",
+      "tituloOriginal": "Apple bumps up the cost of iCloud+ in 8 countries",
+      "tituloLimpio": "Apple aumentó el costo de iCloud+ en 8 países",
+      "resumen": "Apple continuó subiendo los precios de sus servicios en línea, con iCloud+ aumentando su costo en varios territorios.",
+      "porQueImporta": "Como usuario de Apple, Guido se ve directamente afectado por los cambios de precios en los servicios de la marca, lo que puede influir en sus decisiones de suscripción.",
+      "publicadoEn": "2026-07-18T12:11:01.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "iCloud+",
+        "precios",
+        "servicios"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-google-tesla-amd-ai-stock-sell-off/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Dow Jones Futures: Google, Tesla, AMD Loom After AI Stock Sell-Off",
+      "tituloLimpio": "Futuros del Dow Jones: Google, Tesla, AMD en el foco tras la venta masiva de acciones de IA",
+      "resumen": "No se proporcionó un resumen explícito en el texto original.",
+      "porQueImporta": "Guido, interesado en inversión y mercados, encontrará relevante el movimiento de acciones de grandes empresas tecnológicas y de IA, lo que puede influir en sus estrategias de inversión.",
+      "publicadoEn": "2026-07-18T12:43:44.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/2dc23d177054799afd413b73b997d967",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "inversión",
+        "acciones",
+        "IA",
+        "mercado"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/07/18/precio-de-la-nafta-los-sueldos-compran-casi-10-tanques-menos-y-la-baja-todavia-no-tiene-fecha/",
+      "tituloOriginal": "El precio de la nafta: los sueldos compran casi 10 tanques menos y la baja todavía no tiene fecha",
+      "tituloLimpio": "El precio de la nafta: los sueldos compran casi 10 tanques menos y la baja aún no tiene fecha",
+      "resumen": "El buffer de precios evitó que el conflicto de Medio Oriente golpeara de lleno en los surtidores, pero la deuda acumulada con las petroleras aleja cualquier rebaja antes de septiembre.",
+      "porQueImporta": "Esta noticia tiene un impacto directo en la economía personal de Guido en Argentina, afectando sus gastos diarios y el costo de vida.",
+      "publicadoEn": "2026-07-18T12:02:29.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/BAW7UV2NB5CYVFMRVZUK6KZ2NM.png?auth=806e598aecf2a54173cccccd8a5b4843c5b328f207e038147e8c3dd513a4965c&smart=true&width=1408&height=768",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "nafta",
+        "inflación",
+        "costo de vida"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/campo/la-mejor-del-planeta-el-mayor-exportador-mundial-de-carne-eligio-a-una-empresa-argentina-para-nid17072026/",
+      "tituloOriginal": "“La mejor del planeta”: el mayor exportador mundial de carne eligió a una empresa argentina para resguardar su seguridad sanitaria",
+      "tituloLimpio": "El mayor exportador mundial de carne eligió a una empresa argentina para su seguridad sanitaria",
+      "resumen": "Si bien dejó de vacunar contra la fiebre aftosa, Brasil tendrá un banco de emergencia con la firma Biogénesis Bagó; el ministro de Agricultura del vecino país visitó la planta.",
+      "porQueImporta": "Esta noticia destaca el reconocimiento internacional a una empresa argentina, lo que puede ser un indicador de la calidad y capacidad de la industria local, relevante para el contexto económico del país.",
+      "publicadoEn": "2026-07-18T13:17:13.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/QVPOHHIXOJAIFGVPISICR5TOYI.jpeg?auth=3125cf5aa2e825afbd8ee89f9b18dc562bddca3d2d1eb0a07e90d3654207133e&smart=true&width=850&height=638",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "negocios",
+        "exportación",
+        "industria"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-07-18T13:21:29.325Z"
+  }
+}
