@@ -1,13 +1,13 @@
 {
   "fecha": "2026-07-19",
-  "generadoEn": "2026-07-19T13:22:58.754Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "Esta edición destaca la creciente integración de la IA en productos y servicios, con Google permitiendo conectar más apps a su modo IA y grandes bancos ligando sus ganancias a esta tecnología. Apple, por su parte, enfrenta aumentos de precios en sus productos y servicios, aunque se ven descuentos en MacBooks. En Argentina, el foco está en la política post-Mundial, con el gobierno apostando a la construcción y la posibilidad de un feriado por la Selección. También se observa el impacto del Mundial en las apuestas y la preocupación por el fenómeno climático 'El Niño'.",
+  "generadoEn": "2026-07-19T17:58:02.617Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Esta semana, Google busca integrar más aplicaciones a su búsqueda con IA, mientras que Apple sube precios en varios productos y servicios. En Argentina, se coordina un operativo de seguridad por la final del Mundial y se alerta sobre una posible crisis energética global por el estrecho de Ormuz. En el ámbito de las finanzas, Michael Saylor critica una propuesta para limpiar la blockchain de Bitcoin.",
   "radarPersonal": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "titulo": "Google permitirá conectar más aplicaciones a su modo IA",
-      "resumen": "Se podrán vincular e interactuar de forma segura con los servicios habituales directamente en el modo IA.",
+      "titulo": "Google permitirá conectar más aplicaciones a su búsqueda con IA",
+      "resumen": "Se podrán vincular e interactuar de forma segura con los servicios habituales directamente en el modo IA de la búsqueda.",
       "categoria": "AI",
       "fuentes": [
         "Google AI Blog"
@@ -19,111 +19,125 @@
       "tags": [
         "Google",
         "IA",
-        "integración"
+        "aplicaciones",
+        "búsqueda"
+      ]
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Apple habría trabajado en dos chips 'Extreme' para Mac Pro que no lanzó",
+      "resumen": "Apple desarrolló chips 'M2 Extreme' y 'M3 Extreme' para la Mac Pro, pero decidió no lanzarlos. Estos chips habrían tenido el doble de núcleos de CPU y GPU que los chips 'Ultra' de Apple.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/07/19/apple-worked-on-two-extreme-chips/"
+      ],
+      "score": 100,
+      "tags": [
+        "Apple",
+        "chips",
+        "Mac Pro"
+      ]
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "titulo": "Apple está subiendo los precios de más productos y servicios",
+      "resumen": "Los aumentos de precios de hardware de Apple en junio fueron solo el comienzo de una ola de precios más altos en productos y servicios de Apple. En las últimas semanas, Apple ha estado subiendo los precios en todas las áreas por diferentes razones.",
+      "categoria": "Apple",
+      "fuentes": [
+        "9to5Mac"
+      ],
+      "urls": [
+        "https://9to5mac.com/2026/07/18/here-are-all-the-ways-apple-is-raising-prices-and-why/"
+      ],
+      "score": 100,
+      "tags": [
+        "Apple",
+        "precios",
+        "hardware",
+        "servicios"
       ]
     },
     {
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "Javier Milei apuesta a la construcción tras el Mundial 2026",
-      "resumen": "El Presidente busca la reelección y, con la economía real estancada, aparece una apuesta a reactivar la construcción de cara al 2027.",
+      "titulo": "La AIE alerta que el bloqueo del estrecho de Ormuz amenaza con reactivar la crisis energética global",
+      "resumen": "El organismo sostuvo que una interrupción prolongada del tránsito por el principal corredor petrolero del mundo podría afectar el suministro energético, impulsar los precios del crudo y los combustibles y volver a presionar sobre la inflación global.",
       "categoria": "Argentina",
       "fuentes": [
         "Ambito"
       ],
       "urls": [
-        "https://www.ambito.com/economia/termina-el-mundial-y-javier-milei-apuesta-un-sector-clave-disputar-su-final-n6301071"
+        "https://www.ambito.com/economia/la-aie-encendio-una-alarma-el-estrecho-ormuz-el-bloqueo-amenaza-reactivar-la-crisis-energetica-global-n6301239"
       ],
       "score": 100,
       "tags": [
         "Argentina",
-        "economía",
-        "política"
+        "crisis energética",
+        "Ormuz",
+        "inflación"
       ]
     },
     {
-      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
-      "titulo": "Las ganancias récord de los grandes bancos de Wall Street están cada vez más ligadas a la IA",
-      "resumen": "No se proporcionó un resumen explícito en el material original.",
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "titulo": "Michael Saylor, defensor de Bitcoin, considera 'mala idea' un nuevo plan para limpiar la blockchain",
+      "resumen": "Michael Saylor argumenta que una nueva propuesta, BIP-110, para bloquear temporalmente datos de 'spam' de la blockchain de Bitcoin socavaría la neutralidad de la red y crearía un precedente peligroso para la censura.",
       "categoria": "Finance",
       "fuentes": [
-        "Yahoo Finance"
+        "CoinDesk"
       ],
       "urls": [
-        "https://finance.yahoo.com/markets/article/big-banks-record-wall-street-profits-are-increasingly-tied-to-ai-115540382.html"
+        "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-biggest-advocate-michael-saylor-says-new-plan-to-clean-up-the-blockchain-is-a-bad-idea"
       ],
       "score": 100,
       "tags": [
-        "finanzas",
-        "IA",
-        "bancos"
-      ]
-    },
-    {
-      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
-      "titulo": "B&H lanza importantes descuentos en MacBook Pro de hasta 400 dólares",
-      "resumen": "B&H lanzó nuevas rebajas en varias laptops MacBook Pro de 14 y 16 pulgadas esta semana, con ahorros de hasta 400 dólares en modelos M5, M5 Pro y M5 Max.",
-      "categoria": "Apple",
-      "fuentes": [
-        "AppleInsider"
-      ],
-      "urls": [
-        "https://appleinsider.com/articles/26/07/19/bh-launches-steep-macbook-pro-discounts-at-up-to-400-off?utm_source=rss"
-      ],
-      "score": 100,
-      "tags": [
-        "Apple",
-        "MacBook Pro",
-        "descuentos"
+        "Bitcoin",
+        "blockchain",
+        "Michael Saylor"
       ]
     }
   ],
   "loImportante": [
-    "La IA sigue integrándose en servicios clave, como la búsqueda de Google y las operaciones bancarias.",
-    "Apple está aumentando los precios de sus productos y servicios, pero hay oportunidades de descuento en hardware.",
-    "En Argentina, el gobierno busca reactivar la construcción y se evalúa un posible feriado por el Mundial.",
-    "El fenómeno climático 'El Niño' genera preocupación en la Casa Rosada por su posible impacto en el campo."
+    "Google busca integrar más aplicaciones a su búsqueda con IA, permitiendo una interacción más segura y directa.",
+    "Apple está implementando aumentos de precios en una variedad de sus productos y servicios, no solo Macs y iPads.",
+    "La AIE advierte sobre el riesgo de una crisis energética global si se interrumpe el tránsito por el estrecho de Ormuz, lo que impactaría en los precios y la inflación.",
+    "Michael Saylor, figura clave en Bitcoin, se opone a una propuesta para limpiar la blockchain, argumentando que afectaría la neutralidad de la red.",
+    "En Argentina, se coordina un amplio operativo de seguridad en Buenos Aires y la Provincia para la final del Mundial."
   ],
   "oportunidades": [
     {
-      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
-      "categoria": "Productivity",
-      "titulo": "Descuentos en MacBook Pro",
-      "detalle": "B&H ofrece hasta 400 dólares de descuento en modelos M5, M5 Pro y M5 Max de MacBook Pro de 14 y 16 pulgadas.",
-      "acciones": [
-        "Evaluar si es un buen momento para actualizar equipos Apple."
-      ]
-    },
-    {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
       "categoria": "AI",
-      "titulo": "Conectar más apps a la búsqueda con IA de Google",
-      "detalle": "La posibilidad de vincular e interactuar de forma segura con servicios habituales directamente en el modo IA de Google Search.",
+      "titulo": "Integración de aplicaciones en la búsqueda con IA de Google",
+      "detalle": "La posibilidad de vincular e interactuar con servicios directamente en el modo IA de Google Search podría simplificar flujos de trabajo y la gestión de información.",
       "acciones": [
-        "Explorar cómo esta integración puede optimizar flujos de trabajo y automatización."
+        "Explorar cómo esta integración puede optimizar el uso de herramientas de retoque o automatización.",
+        "Evaluar si hay APIs o integraciones futuras que permitan conectar herramientas de arte con IA."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "categoria": "Technology",
-      "titulo": "Riesgo creciente de sabotaje de datos meteorológicos",
-      "detalle": "Las decisiones en muchas industrias dependen de pronósticos meteorológicos, y el riesgo de sabotaje está aumentando.",
-      "mitigacion": "Considerar la diversificación de fuentes de datos o la implementación de sistemas de verificación para información crítica."
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Market",
+      "titulo": "Riesgo de crisis energética global por el estrecho de Ormuz",
+      "detalle": "Una interrupción prolongada del tránsito petrolero podría afectar el suministro energético, subir los precios del crudo y los combustibles, y presionar la inflación global.",
+      "mitigacion": "Monitorear la situación geopolítica y sus posibles impactos en los mercados de energía y la economía global, que podrían influir en las inversiones."
     },
     {
       "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
-      "categoria": "Market",
-      "titulo": "Aumento generalizado de precios en Apple",
-      "detalle": "Apple está subiendo los precios de hardware y servicios por diversas razones.",
-      "mitigacion": "Planificar compras y suscripciones de Apple con anticipación, buscando ofertas o evaluando alternativas."
+      "categoria": "Product",
+      "titulo": "Aumento generalizado de precios en productos y servicios de Apple",
+      "detalle": "Apple está subiendo los precios en varias áreas, lo que podría impactar el costo de adquisición y mantenimiento de equipos y suscripciones.",
+      "mitigacion": "Revisar el presupuesto para equipos y servicios de Apple, y considerar alternativas o planificar compras estratégicamente."
     },
     {
-      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
-      "categoria": "Regulatory",
-      "titulo": "Tether USDT en riesgo en plataformas de criptomonedas de EE.UU.",
-      "detalle": "La ley GENIUS ha cumplido un año sin que los reguladores de EE.UU. cumplan los plazos para redactar regulaciones, lo que amenaza la posición de USDT en plataformas estadounidenses para julio de 2028.",
-      "mitigacion": "Monitorear la evolución regulatoria de las stablecoins y evaluar la exposición a USDT en plataformas de EE.UU."
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "titulo": "Aumento del riesgo de sabotaje de datos meteorológicos",
+      "detalle": "Las decisiones en muchas industrias dependen de pronósticos meteorológicos, y el sabotaje de estos datos podría tener consecuencias económicas y de seguridad.",
+      "mitigacion": "Ser consciente de la vulnerabilidad de los datos y sistemas que dependen de información externa, y considerar la resiliencia de las herramientas y plataformas utilizadas."
     }
   ],
   "conexiones": [],
@@ -134,18 +148,39 @@
       "fuente": "Google AI Blog",
       "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
       "tituloOriginal": "Connect more of your apps to Search",
-      "tituloLimpio": "Google permitirá conectar más aplicaciones a su modo IA",
-      "resumen": "Se podrán vincular e interactuar de forma segura con los servicios habituales directamente en el modo IA.",
-      "porQueImporta": "Esta noticia es relevante para Guido porque indica una mayor integración de la IA en herramientas cotidianas, lo que podría simplificar flujos de trabajo y automatización.",
+      "tituloLimpio": "Google permitirá conectar más aplicaciones a su búsqueda con IA",
+      "resumen": "Se podrán vincular e interactuar de forma segura con los servicios habituales directamente en el modo IA de la búsqueda.",
+      "porQueImporta": "Esta mejora en la búsqueda con IA de Google podría simplificar la forma en que interactuamos con nuestras aplicaciones diarias, mejorando la productividad y la eficiencia al centralizar tareas.",
       "publicadoEn": "2026-07-16T16:00:00.000Z",
       "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "Google",
+        "IA",
+        "aplicaciones",
+        "búsqueda",
+        "automatización"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/07/19/apple-worked-on-two-extreme-chips/",
+      "tituloOriginal": "Apple Reportedly Worked on Two 'Extreme' Chips",
+      "tituloLimpio": "Apple habría trabajado en dos chips 'Extreme' para Mac Pro que no lanzó",
+      "resumen": "Apple desarrolló chips 'M2 Extreme' y 'M3 Extreme' para la Mac Pro, pero decidió no lanzarlos. Estos chips habrían tenido el doble de núcleos de CPU y GPU que los chips 'Ultra' de Apple.",
+      "porQueImporta": "Aunque no se lanzaron, esta noticia muestra la capacidad de ingeniería de Apple y su enfoque en el rendimiento extremo, lo que podría indicar futuras direcciones para sus procesadores de alta gama.",
+      "publicadoEn": "2026-07-19T14:57:02.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "IA",
-        "Google",
-        "automatización",
-        "herramientas"
+        "Apple",
+        "chips",
+        "Mac Pro",
+        "hardware"
       ],
       "tambienVistoEn": []
     },
@@ -153,19 +188,21 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/termina-el-mundial-y-javier-milei-apuesta-un-sector-clave-disputar-su-final-n6301071",
-      "tituloOriginal": "Termina el Mundial 2026 y Javier Milei apuesta a un sector clave para disputar su final",
-      "tituloLimpio": "Javier Milei apuesta a la construcción tras el Mundial 2026",
-      "resumen": "El Presidente busca la reelección. Con la economía real estancada, aparece una apuesta a reactivar la construcción de cara al 2027.",
-      "porQueImporta": "Esta noticia es clave para Guido por su interés en Argentina y la economía local, ya que un impulso a la construcción podría tener efectos en el mercado y la inversión.",
-      "publicadoEn": "2026-07-19T03:00:00.000Z",
-      "globalScore": 88,
+      "url": "https://www.ambito.com/economia/la-aie-encendio-una-alarma-el-estrecho-ormuz-el-bloqueo-amenaza-reactivar-la-crisis-energetica-global-n6301239",
+      "tituloOriginal": "La AIE encendió una alarma por el estrecho de Ormuz: el bloqueo amenaza con reactivar la crisis energética global",
+      "tituloLimpio": "La AIE alerta que el bloqueo del estrecho de Ormuz amenaza con reactivar la crisis energética global",
+      "resumen": "El organismo sostuvo que una interrupción prolongada del tránsito por el principal corredor petrolero del mundo podría afectar el suministro energético, impulsar los precios del crudo y los combustibles y volver a presionar sobre la inflación global.",
+      "porQueImporta": "Una crisis energética global impactaría directamente en la economía argentina a través de los precios de los combustibles y la inflación, afectando tanto el costo de vida como las inversiones.",
+      "publicadoEn": "2026-07-19T17:05:00.000Z",
+      "imagen": "https://media.ambito.com/p/6b847e5308c9d1ea04f393a6fe4b2f99/adjuntos/239/imagenes/043/524/0043524356/1200x675/smart/ormuz-mercados-baja.png",
+      "globalScore": 90,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "economía",
-        "política",
-        "inversión"
+        "crisis energética",
+        "inflación",
+        "mercados",
+        "geopolítica"
       ],
       "tambienVistoEn": []
     },
@@ -175,9 +212,9 @@
       "fuente": "Marketing Dive",
       "url": "https://www.marketingdive.com/news/netflix-says-live-events-bolster-ads-but-affect-viewer-engagement/825515/",
       "tituloOriginal": "Netflix says live events bolster ads but affect viewer engagement",
-      "tituloLimpio": "Netflix indica que los eventos en vivo impulsan la publicidad pero afectan la interacción del espectador",
-      "resumen": "El formato, un foco de sus actuales conversaciones, puede generar ingresos publicitarios y fidelidad, pero generalmente resulta en menos horas de visualización.",
-      "porQueImporta": "Para Guido, interesado en marketing, esta noticia ofrece una perspectiva sobre las estrategias de contenido y monetización en plataformas de streaming, y cómo los eventos en vivo impactan en la publicidad y el engagement.",
+      "tituloLimpio": "Netflix dice que los eventos en vivo impulsan la publicidad pero afectan la interacción del espectador",
+      "resumen": "El formato, un foco de sus conversaciones actuales, puede generar ingresos publicitarios y fidelidad, pero generalmente resulta en menos horas de visualización.",
+      "porQueImporta": "Para alguien interesado en marketing, esto revela una dinámica importante en la publicidad digital y el consumo de contenido, mostrando un equilibrio entre ingresos y engagement en plataformas de streaming.",
       "publicadoEn": "2026-07-17T14:32:00.000Z",
       "globalScore": 84,
       "personalScore": 100,
@@ -185,7 +222,8 @@
         "Marketing",
         "Netflix",
         "publicidad",
-        "contenido"
+        "engagement",
+        "streaming"
       ],
       "tambienVistoEn": []
     },
@@ -193,18 +231,19 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-      "tituloOriginal": "Kimi: Threat or menace?",
-      "tituloLimpio": "Kimi: ¿Amenaza o peligro?",
-      "resumen": "La empresa china Moonshot AI lanzó una nueva versión de su modelo Kimi esta semana, generando preocupación.",
-      "porQueImporta": "Guido, interesado en IA aplicada, debería conocer los desarrollos de nuevos modelos de IA y las preocupaciones que generan en la industria.",
-      "publicadoEn": "2026-07-18T18:51:07.000Z",
-      "globalScore": 94,
+      "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "tituloOriginal": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+      "tituloLimpio": "El director Christopher Nolan califica a la IA como un 'caballo de Troya' obvio",
+      "resumen": "El director Christopher Nolan se refirió a la IA como un 'caballo de Troya' obvio.",
+      "porQueImporta": "La perspectiva de figuras influyentes como Nolan sobre la IA es relevante para entender las preocupaciones éticas y creativas en el campo, especialmente para alguien que trabaja con arte e IA.",
+      "publicadoEn": "2026-07-19T14:52:08.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "IA",
-        "modelos de lenguaje",
-        "China"
+        "AI",
+        "ética",
+        "arte",
+        "cine"
       ],
       "tambienVistoEn": []
     },
@@ -212,19 +251,19 @@
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
       "fuente": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-      "tituloOriginal": "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’",
-      "tituloLimpio": "Dave Eggers dijo al personal de OpenAI que ChatGPT estaba 'silenciando a toda una generación'",
-      "resumen": "El año pasado, Sam Altman invitó al autor Dave Eggers a dar una charla a unos 200 empleados de OpenAI.",
-      "porQueImporta": "Esta noticia es relevante para Guido por su interés en IA y arte, ya que plantea una crítica sobre el impacto cultural de ChatGPT desde la perspectiva de un autor.",
-      "publicadoEn": "2026-07-18T20:54:42.000Z",
-      "globalScore": 98,
+      "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+      "tituloOriginal": "I hate that I don’t hate this song made with Suno",
+      "tituloLimpio": "Una canción hecha con Suno genera una reacción inesperada",
+      "resumen": "El autor expresa que, a pesar de su aversión general a la música generada por IA, especialmente la de Suno, le cuesta procesar el hecho de no odiar esta canción.",
+      "porQueImporta": "Esta noticia explora la evolución de la música generada por IA y cómo puede desafiar las percepciones, siendo relevante para alguien que experimenta con arte e IA.",
+      "publicadoEn": "2026-07-19T17:35:54.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "IA",
-        "ChatGPT",
+        "AI",
+        "música",
         "arte",
-        "cultura"
+        "Suno"
       ],
       "tambienVistoEn": []
     },
@@ -234,17 +273,17 @@
       "fuente": "MIT Technology Review AI",
       "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
       "tituloOriginal": "The risk of weather data sabotage is rising",
-      "tituloLimpio": "El riesgo de sabotaje de datos meteorológicos está aumentando",
-      "resumen": "Cada mañana, los despachadores de aerolíneas, operadores de redes y agricultores de todo el mundo toman decisiones basadas en lo mismo: un pronóstico del tiempo. Si bien la mayoría de la gente mira estos pronósticos por dos segundos, las predicciones meteorológicas influyen en decisiones estratégicas importantes en muchas industrias, con dinero real, medios de vida e incluso vidas en juego.",
-      "porQueImporta": "Aunque no es directamente de su área, el riesgo de sabotaje de datos es una preocupación de seguridad tecnológica que puede tener un impacto global en diversas industrias, incluyendo aquellas que usan IA para predicciones.",
+      "tituloLimpio": "Aumenta el riesgo de sabotaje de datos meteorológicos",
+      "resumen": "Las decisiones en muchas industrias dependen de pronósticos meteorológicos, y el sabotaje de estos datos podría tener consecuencias económicas y de seguridad.",
+      "porQueImporta": "La integridad de los datos es crucial en muchos campos. Este riesgo subraya la importancia de la ciberseguridad y la fiabilidad de la información en sistemas automatizados y de toma de decisiones.",
       "publicadoEn": "2026-07-17T08:57:32.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
+        "AI",
         "seguridad",
         "datos",
-        "tecnología",
-        "riesgos"
+        "automatización"
       ],
       "tambienVistoEn": []
     },
@@ -253,16 +292,17 @@
       "categoria": "Apple",
       "fuente": "9to5Mac",
       "url": "https://9to5mac.com/2026/07/18/here-are-all-the-ways-apple-is-raising-prices-and-why/",
-      "tituloOriginal": "Here are all the ways Apple is raising prices and why",
-      "tituloLimpio": "Apple está aumentando los precios de sus productos y servicios",
-      "resumen": "Los aumentos de precios de hardware de Apple en junio fueron costosos y no deseados. Fueron solo el comienzo de una ola de precios más altos en productos y servicios de Apple. En las últimas semanas, Apple ha estado subiendo los precios en todas las áreas por diferentes razones.",
-      "porQueImporta": "Guido, como usuario de Apple, debe estar al tanto de los aumentos de precios que afectan tanto al hardware como a los servicios, para planificar sus compras y suscripciones.",
+      "tituloOriginal": "Apple is raising prices on more than just Macs and iPads",
+      "tituloLimpio": "Apple está subiendo los precios de más productos y servicios",
+      "resumen": "Los aumentos de precios de hardware de Apple en junio fueron solo el comienzo de una ola de precios más altos en productos y servicios de Apple. En las últimas semanas, Apple ha estado subiendo los precios en todas las áreas por diferentes razones.",
+      "porQueImporta": "Es importante para Guido estar al tanto de los aumentos de precios de Apple, ya que impactan directamente en el costo de adquirir y mantener equipos y servicios de la marca.",
       "publicadoEn": "2026-07-19T03:37:48.000Z",
-      "globalScore": 98,
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
         "precios",
+        "hardware",
         "servicios"
       ],
       "tambienVistoEn": []
@@ -274,16 +314,17 @@
       "url": "https://9to5google.com/2026/07/18/youtube-pip-broken/",
       "tituloOriginal": "YouTube picture-in-picture (PiP) mode is broken on iPhone, Android",
       "tituloLimpio": "El modo 'picture-in-picture' de YouTube no funciona en iPhone y Android",
-      "resumen": "YouTube está al tanto de un problema en Android y iPhone donde el modo 'picture-in-picture' no se activa al cerrar la aplicación.",
-      "porQueImporta": "Como usuario de Apple, Guido podría verse afectado por este error en una funcionalidad común de YouTube en sus dispositivos móviles.",
+      "resumen": "YouTube es consciente de un problema en Android y iPhone donde el modo 'picture-in-picture' (PiP) no se activa al cerrar la aplicación.",
+      "porQueImporta": "Un fallo en una función de productividad tan usada como el PiP en YouTube puede afectar la experiencia de usuario y la eficiencia al consumir contenido en dispositivos móviles de Apple.",
       "publicadoEn": "2026-07-18T20:03:48.000Z",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "iPhone",
         "YouTube",
-        "aplicaciones"
+        "iPhone",
+        "Android",
+        "herramientas"
       ],
       "tambienVistoEn": []
     },
@@ -291,40 +332,62 @@
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
       "categoria": "Apple",
       "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/07/19/bh-launches-steep-macbook-pro-discounts-at-up-to-400-off?utm_source=rss",
-      "tituloOriginal": "B&H launches steep MacBook Pro discounts at up to $400 off",
-      "tituloLimpio": "B&H lanza importantes descuentos en MacBook Pro de hasta 400 dólares",
-      "resumen": "B&H lanzó nuevas rebajas en varias laptops MacBook Pro de 14 y 16 pulgadas esta semana, con ahorros de hasta 400 dólares en modelos M5, M5 Pro y M5 Max.",
-      "porQueImporta": "Esta es una oportunidad para Guido, si está considerando una actualización de su equipo Apple, de aprovechar descuentos significativos en MacBook Pro.",
-      "publicadoEn": "2026-07-19T07:26:26.000Z",
-      "globalScore": 96,
+      "url": "https://appleinsider.com/articles/26/07/19/apple-probably-wont-add-jony-ive-to-openai-trade-secret-theft-suit?utm_source=rss",
+      "tituloOriginal": "Apple probably won't add Jony Ive to OpenAI trade secret theft suit",
+      "tituloLimpio": "Apple probablemente no incluirá a Jony Ive en la demanda por robo de secretos comerciales contra OpenAI",
+      "resumen": "Jony Ive dejó Apple hace cuatro años y se unió a OpenAI, pero no está nombrado en la demanda por robo de propiedad intelectual. Las razones son variadas, desde personales hasta prácticas.",
+      "porQueImporta": "Esta noticia es relevante por la conexión entre Apple, OpenAI y una figura clave como Jony Ive, mostrando las complejidades legales y personales en el ámbito de la tecnología y la IA.",
+      "publicadoEn": "2026-07-19T14:57:13.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "MacBook Pro",
-        "descuentos",
-        "hardware"
+        "OpenAI",
+        "Jony Ive",
+        "legal",
+        "AI"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
       "categoria": "Finance",
       "fuente": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/big-banks-record-wall-street-profits-are-increasingly-tied-to-ai-115540382.html",
-      "tituloOriginal": "Big banks' record Wall Street profits are increasingly tied to AI",
-      "tituloLimpio": "Las ganancias récord de los grandes bancos de Wall Street están cada vez más ligadas a la IA",
-      "resumen": "No se proporcionó un resumen explícito en el material original.",
-      "porQueImporta": "Para Guido, interesado en finanzas e inversión, esta noticia destaca la creciente influencia de la IA en el sector bancario y los mercados, lo que podría influir en decisiones de inversión.",
-      "publicadoEn": "2026-07-18T11:55:40.000Z",
-      "imagen": "https://s.yimg.com/uu/api/res/1.2/Gucp3iuEiqcveGlEViJ9TA--~B/aD00OTY0O3c9NzI4NDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/3343031c-e7fb-4bb0-944a-22e643dd174b",
-      "globalScore": 86,
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Dow Jones Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead",
+      "tituloLimpio": "Los futuros del Dow Jones se ven afectados por la escalada de ataques entre EE.UU. e Irán",
+      "resumen": "Los futuros del Dow Jones se ven afectados por la escalada de ataques entre EE.UU. e Irán.",
+      "porQueImporta": "La tensión geopolítica puede impactar la estabilidad de los mercados financieros globales, lo cual es relevante para las decisiones de inversión en ETFs y otros activos.",
+      "publicadoEn": "2026-07-19T16:04:39.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/9a0dafc988b664e85c21c2c25cf4f7ec",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "Finanzas",
-        "IA",
-        "bancos",
-        "inversión"
+        "Finance",
+        "mercados",
+        "inversión",
+        "geopolítica"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cud3Nq",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.wsj.com/business/energy-oil/the-key-to-solar-and-wind-power-is-battery-storage-and-china-is-dominating-ed4a2caf?siteid=yhoof2&yptr=yahoo",
+      "tituloOriginal": "The Key to Solar and Wind Power Is Battery Storage, and China Is Dominating",
+      "tituloLimpio": "La clave para la energía solar y eólica es el almacenamiento en baterías, y China domina el sector",
+      "resumen": "La clave para la energía solar y eólica es el almacenamiento en baterías, y China domina el sector.",
+      "porQueImporta": "Esta noticia destaca una tendencia importante en el sector energético y tecnológico, con implicaciones para inversiones en energías renovables y la cadena de suministro global.",
+      "publicadoEn": "2026-07-19T16:02:00.000Z",
+      "imagen": "https://media.zenfs.com/en/wsj.com/143fd52a3a3a6561e4bf0a00e3ce172a",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Finance",
+        "energía",
+        "inversión",
+        "tecnología"
       ],
       "tambienVistoEn": []
     },
@@ -332,41 +395,40 @@
       "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
       "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/news-analysis/2026/07/17/tether-s-usdt-hits-2-year-countdown-threatening-its-position-on-u-s-crypto-platforms",
-      "tituloOriginal": "Tether's USDT hits 2-year countdown threatening its position on U.S. crypto platforms",
-      "tituloLimpio": "Tether USDT enfrenta una cuenta regresiva de 2 años que amenaza su posición en plataformas de criptomonedas de EE.UU.",
-      "resumen": "La ley GENIUS ha cumplido su primer aniversario sin que los reguladores de EE.UU. cumplan los plazos para redactar regulaciones, aunque las reglas estarán en pleno efecto para julio de 2028.",
-      "porQueImporta": "Guido, interesado en inversión, debe estar al tanto de los desarrollos regulatorios que podrían afectar a las criptomonedas y stablecoins, especialmente si tiene exposición a ellas.",
-      "publicadoEn": "2026-07-19T13:00:00.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/54596c79d7b42f98aafbe2f421c7c7531529e5fd-4032x2268.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "globalScore": 92,
+      "url": "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-biggest-advocate-michael-saylor-says-new-plan-to-clean-up-the-blockchain-is-a-bad-idea",
+      "tituloOriginal": "Bitcoin's biggest advocate, Michael Saylor, says new plan to clean up the blockchain is 'a bad idea'",
+      "tituloLimpio": "Michael Saylor, defensor de Bitcoin, considera 'mala idea' un nuevo plan para limpiar la blockchain",
+      "resumen": "Michael Saylor argumenta que una nueva propuesta, BIP-110, para bloquear temporalmente datos de 'spam' de la blockchain de Bitcoin socavaría la neutralidad de la red y crearía un precedente peligroso para la censura.",
+      "porQueImporta": "Para un inversor interesado en ETFs y mercados, la discusión sobre la neutralidad y la censura en Bitcoin es crucial, ya que afecta la filosofía y el futuro de una de las principales criptomonedas.",
+      "publicadoEn": "2026-07-19T15:19:21.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/c699235ed95e1b0156170533701eb1a612679fa9-3712x2088.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 96,
       "personalScore": 100,
       "tags": [
-        "Finanzas",
-        "criptomonedas",
-        "regulación",
-        "Tether"
+        "Finance",
+        "Bitcoin",
+        "blockchain",
+        "inversión"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
-      "categoria": "Finance",
-      "fuente": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/federal-agencies-miss-genius-act-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "tituloOriginal": "US agencies miss GENIUS Act deadline for final stablecoin rules",
-      "tituloLimpio": "Agencias de EE.UU. incumplen el plazo de la ley GENIUS para las reglas finales de stablecoins",
-      "resumen": "Los reguladores de EE.UU. no lograron finalizar las regulaciones de implementación para el plazo de un año de la ley GENIUS, emitiendo 10 reglas propuestas en su lugar.",
-      "porQueImporta": "Complementa la noticia anterior, reforzando la incertidumbre regulatoria en el espacio de las stablecoins, lo cual es relevante para cualquier inversor en criptoactivos.",
-      "publicadoEn": "2026-07-19T12:53:12.000Z",
-      "imagen": "https://s3-images.ctmedia.io/media/article-covers/crowd-angry-on-genius-act.jpg",
-      "globalScore": 90,
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/murio-77-anos-empresario-carlos-miguens_0_JIbj7zVvPB.html",
+      "tituloOriginal": "Murió a los 77 años Carlos Miguens, el empresario que lideró la expansión de Quilmes",
+      "tituloLimpio": "Falleció a los 77 años Carlos Miguens, empresario que lideró la expansión de Quilmes",
+      "resumen": "Durante más de una década comandó el crecimiento de la cervecería que había fundado su tatarabuelo en 1860. Como presidente se opuso a su venta a capitales extranjeros y sostuvo que fue 'algo traumático'.",
+      "porQueImporta": "Esta noticia es relevante para el contexto empresarial argentino, destacando la historia de una figura importante en una de las empresas más icónicas del país.",
+      "publicadoEn": "2026-07-19T14:12:32.000Z",
+      "imagen": "https://www.clarin.com/img/2026/07/19/H8TVnv3oi_1200x630__1.jpg",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "Finanzas",
-        "criptomonedas",
-        "regulación",
-        "stablecoins"
+        "Argentina",
+        "negocios",
+        "empresarios"
       ],
       "tambienVistoEn": []
     },
@@ -374,20 +436,20 @@
       "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Politica",
-      "url": "https://www.clarin.com/politica/javier-milei-medidas-vivo-vera-presidente-final-mundial-2026_0_xKRGC322bG.html",
-      "tituloOriginal": "Javier Milei y sus medidas, EN VIVO: dónde y con quién verá el Presidente la final del Mundial 2026",
-      "tituloLimpio": "Javier Milei y sus medidas, EN VIVO: dónde y con quién verá el Presidente la final del Mundial 2026",
-      "resumen": "El mandatario mantendrá su cábala para el partido definitorio entre Argentina y España. La particular indumentaria que utilizará para no romper la racha. Tras el partido, el Gobierno definirá si decreta asueto para este lunes.",
-      "porQueImporta": "Esta noticia es de interés general en Argentina, y la posibilidad de un asueto podría afectar la planificación de Guido para el lunes.",
-      "publicadoEn": "2026-07-19T11:49:39.000Z",
-      "imagen": "https://www.clarin.com/img/2026/07/10/BHNfkuHzj_1200x630__1.jpg",
+      "url": "https://www.clarin.com/politica/final-mundial-fuerte-operativo-contingencia-embajada-argentina-madrid-mensaje-antigrieta-embajador_0_QVSy7rWXG7.html",
+      "tituloOriginal": "Final del Mundial: fuerte operativo de contingencia de la Embajada argentina en Madrid y mensaje antigrieta del embajador",
+      "tituloLimpio": "Final del Mundial: la Embajada argentina en Madrid realiza un fuerte operativo de contingencia",
+      "resumen": "Wenceslao Bunge Saravia publicó un video junto a Jorge Valdano en el que apeló a la hermandad de los dos pueblos. La sede trabaja en medidas de seguridad con las autoridades locales para después del partido.",
+      "porQueImporta": "La final del Mundial es un evento de gran relevancia social y cultural para Argentina, y la coordinación de seguridad en el exterior muestra la magnitud del impacto del evento.",
+      "publicadoEn": "2026-07-19T17:19:02.000Z",
+      "imagen": "https://www.clarin.com/img/2026/07/19/mJNNApr4I_1200x630__1.jpg",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "política",
         "Mundial",
-        "actualidad"
+        "seguridad",
+        "política"
       ],
       "tambienVistoEn": []
     },
@@ -395,20 +457,20 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/07/19/el-mundial-de-las-apuestas-durante-el-torneo-los-mercados-de-prediccion-movilizaron-mas-de-usd-50-mil-millones/",
-      "tituloOriginal": "El Mundial de las apuestas: durante el torneo, los “mercados de predicción” movilizaron más de USD 50 mil millones",
-      "tituloLimpio": "El Mundial de las apuestas: durante el torneo, los 'mercados de predicción' movilizaron más de USD 50 mil millones",
-      "resumen": "Kalshi, Polymarket y Rothera concentraron enormes sumas en operaciones ligadas al torneo, disputando terreno a las casas de juego tradicionales, que también reportaron cifras récord.",
-      "porQueImporta": "Para Guido, interesado en finanzas e inversión, esta noticia muestra el volumen y el crecimiento de los mercados de predicción y apuestas, un sector que puede ser relevante para entender tendencias de inversión y comportamiento del mercado.",
-      "publicadoEn": "2026-07-19T13:02:27.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/KYXHSGJHSJDXNFMRCIOK3IXMGU.png?auth=b66efe5cfb744b52bb0146aefe0d640da0b120490b31f4a54d504cdb69858352&smart=true&width=2752&height=1536",
-      "globalScore": 94,
+      "url": "https://www.infobae.com/economia/2026/07/19/ese-dorado-objeto-de-deseo-historia-materiales-y-diseno-de-la-copa-del-mundo-que-gane-quien-gane-seguira-en-zurich/",
+      "tituloOriginal": "Ese dorado objeto de deseo: historia, materiales y diseño de la Copa del Mundo, que gane quien gane seguirá en Zurich",
+      "tituloLimpio": "Historia, materiales y diseño de la Copa del Mundo, que seguirá en Zurich gane quien gane",
+      "resumen": "Escultores, robos, amenazas y réplicas atraviesan la historia de un trofeo que es mucho más que una pieza de oro y malaquita, y cuya custodia final nunca abandona Suiza.",
+      "porQueImporta": "Esta nota ofrece un dato de color interesante sobre un símbolo global como la Copa del Mundo, relevante por el contexto del Mundial y su impacto en Argentina.",
+      "publicadoEn": "2026-07-19T16:18:14.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/QOD2LJFWENEZ3JBMCQY5FTJGWI?auth=c147d56a81e12521d085998e881421fda95833e2aacf39537566b3657f581e34&smart=true&width=1961&height=1103",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "Finanzas",
-        "apuestas",
-        "mercados",
-        "Mundial"
+        "Argentina",
+        "Mundial",
+        "cultura",
+        "historia"
       ],
       "tambienVistoEn": []
     },
@@ -416,20 +478,20 @@
       "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Politica",
-      "url": "https://www.infobae.com/politica/2026/07/19/el-fenomeno-climatico-que-preocupa-a-la-casa-rosada-y-la-posibilidad-de-que-se-declare-un-feriado-por-la-seleccion/",
-      "tituloOriginal": "El fenómeno climático que preocupa a la Casa Rosada y la posibilidad de que se declare un feriado por la Selección",
-      "tituloLimpio": "El fenómeno climático que preocupa a la Casa Rosada y la posibilidad de que se declare un feriado por la Selección",
-      "resumen": "Karina Milei y Diego Santilli se preparan para una cumbre con gobernadores, inquietos por los alcances de “El Niño”, dado que podría afectar a más de 5 millones de hectáreas distribuidas en distintas provincias. Aunque no hablarán antes de la final, la eventual victoria del combinado nacional deja abierta la chance de una decisión del Presidente.",
-      "porQueImporta": "Esta noticia combina la actualidad política argentina con un tema de impacto económico y social como el fenómeno climático 'El Niño', relevante para entender el contexto del país.",
-      "publicadoEn": "2026-07-19T12:18:03.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/JL5BWAZJVVF27FKK5BK47RWEWQ.jpg?auth=89a3164e3de160fbfc1cf032cdc6ddf8e7ada490e22f731fc4b12fe6c6af335c&smart=true&width=1429&height=804",
-      "globalScore": 86,
+      "url": "https://www.infobae.com/politica/2026/07/19/nacion-coordina-con-la-ciudad-de-buenos-aires-y-la-provincia-el-operativo-de-seguridad-para-cuando-termine-la-final-del-mundial/",
+      "tituloOriginal": "Nación coordina con la Ciudad de Buenos Aires y la Provincia el operativo de seguridad para cuando termine la final del Mundial",
+      "tituloLimpio": "Nación coordina con la Ciudad de Buenos Aires y la Provincia el operativo de seguridad para la final del Mundial",
+      "resumen": "Fuentes del gobierno nacional confirmaron que la planificación de los operativos se está realizando entre las tres jurisdicciones con criterio 'apolítico y no partidario'. Incluyen medidas excepcionales durante al menos dos días.",
+      "porQueImporta": "La coordinación de un operativo de seguridad de esta magnitud es crucial para garantizar el orden público en un evento de gran convocatoria como la final del Mundial en Argentina.",
+      "publicadoEn": "2026-07-19T17:31:58.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/DHUN3BWCXJAM7EE75IQTHDQR4A.jpg?auth=41cfadb6a12abc0284231025b534e60308dbb95f7ccd0a1df1e6f1e8b46efd41&smart=true&width=1920&height=1080",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "política",
-        "clima",
-        "economía"
+        "Mundial",
+        "seguridad",
+        "política"
       ],
       "tambienVistoEn": []
     },
@@ -437,46 +499,26 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/campo/razones-para-poner-en-valor-el-sistema-mixto-argentino-nid19072026/",
-      "tituloOriginal": "Razones para poner en valor el sistema mixto argentino",
-      "tituloLimpio": "Razones para poner en valor el sistema mixto argentino",
-      "resumen": "La certificación de los esquemas agrícola-ganaderos que predominaron en la llanura pampeana puede generar un criterio diferencial para la producción.",
-      "porQueImporta": "Esta noticia es relevante para Guido por su interés en Argentina y la economía, ya que aborda un aspecto clave del sector agropecuario y su potencial de diferenciación.",
-      "publicadoEn": "2026-07-19T12:00:00.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/Y22MIR4XDJCUZLT4UDJWI3IJK4.jpg?auth=2698e847fb2fbe32e733f885ca2c43aa244f0580dd346437a1c25274237ba54d&smart=true&width=1024&height=768",
+      "url": "https://www.lanacion.com.ar/economia/campo/emprendedora-quedo-viuda-y-una-frase-de-sus-dos-hijos-pequenos-fue-clave-para-apostar-todo-por-un-nid18072026/",
+      "tituloOriginal": "Emprendedora: quedó viuda y una frase de sus dos hijos pequeños fue clave para apostar todo por un proyecto",
+      "tituloLimpio": "Emprendedora quedó viuda y apostó todo por un proyecto de miel nativa",
+      "resumen": "Mónica Alonso convirtió el dolor en una iniciativa premiada: Miel Nativa; por años viajó sola en colectivo de Entre Ríos a Santiago del Estero para cuidar sus abejas.",
+      "porQueImporta": "Esta historia de emprendimiento y resiliencia en Argentina puede ser inspiradora y muestra el potencial de las iniciativas locales, relevante para alguien interesado en negocios y el contexto argentino.",
+      "publicadoEn": "2026-07-19T16:57:06.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/BDAEUU3H55H7VGD77GHDPHJ5OU.jpeg?auth=4e7b90546f1487c6abc7b984383235222cfdc0b15eeba7985251a6475135b419&smart=true&width=1600&height=1067",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "economía",
-        "campo",
-        "producción"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
-      "categoria": "Argentina",
-      "fuente": "La Nacion Politica",
-      "url": "https://www.lanacion.com.ar/politica/milei-vuelve-a-desafiar-a-lula-y-visita-a-tres-presidentes-sudamericanos-para-consolidar-su-nid19072026/",
-      "tituloOriginal": "Milei vuelve a desafiar a Lula y visita a tres presidentes sudamericanos para consolidar su “liderazgo” en la región",
-      "tituloLimpio": "Milei vuelve a desafiar a Lula y visita a tres presidentes sudamericanos para consolidar su 'liderazgo' en la región",
-      "resumen": "En las próximas dos semanas, el Presidente verá a Flávio Bolsonaro, que competirá en octubre contra el mandatario brasileño; estará en las juras de Fujimori y De la Espriella y verá a Noboa.",
-      "porQueImporta": "Esta noticia es importante para Guido por su interés en Argentina y la política regional, ya que muestra la estrategia diplomática del presidente Milei y sus implicaciones en Sudamérica.",
-      "publicadoEn": "2026-07-19T10:42:07.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/CRKUAFCPOFBDJDE3NWMZNIA7NA.jpg?auth=2ac5c45a337992ed7cb9e968bfe2a7c2f8c7ddebbea507c5b445f293b2a22a1b&smart=true&width=2000&height=1333",
-      "globalScore": 98,
-      "personalScore": 100,
-      "tags": [
-        "Argentina",
-        "política",
-        "relaciones internacionales"
+        "emprendimiento",
+        "negocios",
+        "inspiración"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-07-19T13:22:58.754Z"
+    "generadoEn": "2026-07-19T17:58:02.617Z"
   }
 }
