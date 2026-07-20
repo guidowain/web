@@ -1,0 +1,456 @@
+{
+  "fecha": "2026-07-20",
+  "generadoEn": "2026-07-20T14:11:33.868Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "Hoy se destaca la creciente competencia de China en IA, con nuevos modelos que desafían a los líderes de Silicon Valley. En Apple, hay novedades sobre problemas con funciones de Wallet y YouTube PiP, y una oferta de AirPods Max 2. A nivel local, el consumo de carne vacuna cayó, mientras que las exportaciones crecieron. También hay noticias sobre la reforma laboral y la cotización del dólar.",
+  "radarPersonal": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Google Search permitirá conectar más aplicaciones en su modo IA",
+      "resumen": "Se podrán vincular e interactuar de forma segura con servicios habituales directamente en el modo IA de Google Search.",
+      "categoria": "AI",
+      "fuentes": [
+        "Google AI Blog"
+      ],
+      "urls": [
+        "https://blog.google/products-and-platforms/products/search/connected-apps/"
+      ],
+      "score": 100,
+      "tags": [
+        "IA",
+        "Google",
+        "automatización",
+        "herramientas"
+      ]
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "China desafía el dominio de EE.UU. en IA con nuevos modelos",
+      "resumen": "Empresas líderes de IA chinas lanzaron modelos que, según afirman, compiten con los de OpenAI y Anthropic a menor costo.",
+      "categoria": "AI",
+      "fuentes": [
+        "The Verge AI"
+      ],
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen"
+      ],
+      "score": 100,
+      "tags": [
+        "IA",
+        "competencia",
+        "mercado"
+      ]
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "titulo": "La IA es más propensa que los humanos a generar sesgos en la contratación",
+      "resumen": "Una nueva investigación sugiere que los modelos de lenguaje grandes pueden desarrollar sus propios sesgos, además de los que adquieren de los datos de entrenamiento.",
+      "categoria": "AI",
+      "fuentes": [
+        "MIT Technology Review AI"
+      ],
+      "urls": [
+        "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/"
+      ],
+      "score": 100,
+      "tags": [
+        "IA",
+        "sesgos",
+        "ética"
+      ]
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "titulo": "Amazon afectó una función de seguimiento de pedidos de Apple Wallet",
+      "resumen": "Una nueva modificación de Amazon ha degradado la función de seguimiento de pedidos de Apple Wallet para los compradores de Amazon.",
+      "categoria": "Apple",
+      "fuentes": [
+        "9to5Mac"
+      ],
+      "urls": [
+        "https://9to5mac.com/2026/07/20/amazon-just-broke-one-of-apple-wallets-best-recent-features/"
+      ],
+      "score": 100,
+      "tags": [
+        "Apple",
+        "Wallet",
+        "Amazon",
+        "funcionalidad"
+      ]
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "titulo": "Hermanos dueños de MasTec y del Inter Miami ganaron obra energética en Argentina",
+      "resumen": "Jorge y José Mas, a través de su subsidiaria Pumpco, lograron la adjudicación de una obra de US$1200 millones para el proyecto de GNL de YPF, ENI y XRG.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "La Nacion Economia"
+      ],
+      "urls": [
+        "https://www.lanacion.com.ar/economia/de-la-cuba-de-castro-a-vaca-muerta-la-historia-de-los-hermanos-que-ganaron-la-obra-energetica-mas-nid20072026/"
+      ],
+      "score": 100,
+      "tags": [
+        "Argentina",
+        "inversión",
+        "energía",
+        "negocios"
+      ]
+    }
+  ],
+  "loImportante": [
+    "La competencia en IA se intensifica con la entrada de modelos chinos de bajo costo, lo que podría impactar el mercado global de herramientas de IA.",
+    "Problemas de compatibilidad entre Apple Wallet y Amazon, y con YouTube PiP, sugieren desafíos en la integración de servicios y la experiencia del usuario.",
+    "El consumo de carne vacuna en Argentina cayó más del 11% en el primer semestre de 2026, mientras que las exportaciones crecieron, impulsadas por la demanda de Estados Unidos.",
+    "El Gobierno argentino modificó por decreto una restricción que afectaba la caja sindical, a pedido de la CGT, tras semanas de negociaciones.",
+    "La cotización del dólar y las tasas de plazo fijo en Argentina siguen siendo temas clave para la inversión local."
+  ],
+  "oportunidades": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "Automation",
+      "titulo": "Integración de aplicaciones con Google Search AI",
+      "detalle": "La capacidad de vincular e interactuar con servicios directamente en el modo IA de Google Search podría simplificar flujos de trabajo y automatizar tareas.",
+      "acciones": [
+        "Explorar las posibilidades de integración de herramientas de retoque o IA con Google Search AI.",
+        "Evaluar cómo esta función puede mejorar la productividad en la gestión de proyectos o la búsqueda de información."
+      ]
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "titulo": "Nuevos modelos de IA chinos a bajo costo",
+      "detalle": "La aparición de modelos de IA chinos que compiten con los líderes del mercado a una fracción del costo podría abrir nuevas opciones para el desarrollo y uso de IA.",
+      "acciones": [
+        "Investigar estos nuevos modelos de IA para evaluar su rendimiento y costo-beneficio.",
+        "Considerar la posibilidad de integrar estas herramientas en proyectos de arte con IA o retoque fotográfico si son accesibles desde Argentina."
+      ]
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Investing",
+      "titulo": "Inversión en infraestructura energética en Argentina",
+      "detalle": "La adjudicación de una obra de US$1200 millones para el proyecto de GNL en Vaca Muerta indica un flujo de inversión significativo en el sector energético argentino.",
+      "acciones": [
+        "Monitorear el impacto de estas inversiones en la economía local y las oportunidades de inversión indirectas.",
+        "Evaluar ETFs o fondos relacionados con el sector energético argentino si están disponibles."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "titulo": "Sesgos inherentes en la IA para contratación",
+      "detalle": "La IA es más propensa que los humanos a formar sesgos en la contratación, lo que plantea preocupaciones sobre la equidad y la discriminación en procesos automatizados.",
+      "mitigacion": "Mantenerse informado sobre las mejores prácticas y regulaciones para el uso ético de la IA. Considerar la supervisión humana en decisiones críticas asistidas por IA para mitigar sesgos."
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Platform",
+      "titulo": "Problemas de compatibilidad entre plataformas (Apple Wallet y Amazon)",
+      "detalle": "Una actualización de Amazon afectó la funcionalidad de seguimiento de pedidos en Apple Wallet, lo que puede generar frustración en los usuarios de Apple.",
+      "mitigacion": "Estar atento a las actualizaciones de ambas plataformas y buscar soluciones o alternativas si la funcionalidad es crítica. Considerar la diversificación de herramientas y servicios para evitar la dependencia de una única integración."
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81Z29v",
+      "categoria": "Platform",
+      "titulo": "Fallo en el modo Picture-in-Picture de YouTube en iOS y Android",
+      "detalle": "YouTube tiene un problema conocido donde el modo PiP no se activa al cerrar la aplicación en iPhone y Android.",
+      "mitigacion": "Monitorear las actualizaciones de YouTube y del sistema operativo para la resolución del problema. Buscar alternativas temporales si el modo PiP es esencial para el consumo de contenido."
+    }
+  ],
+  "conexiones": [],
+  "noticias": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/07/20/airpods-max-2-amazons-sale/",
+      "tituloOriginal": "Get $100 Off AirPods Max 2 With Amazon's New Sale",
+      "tituloLimpio": "AirPods Max 2 con $100 de descuento en Amazon",
+      "resumen": "Los AirPods Max 2 de Apple alcanzaron los $449.00 en Amazon hoy, bajando de $549.00. Esta oferta está disponible en cuatro colores.",
+      "porQueImporta": "Aunque es una oferta de EE.UU., la noticia de un descuento significativo en un producto Apple reciente puede indicar tendencias de precios o disponibilidad futura en otros mercados.",
+      "publicadoEn": "2026-07-20T13:37:35.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "ofertas",
+        "hardware"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/el-consumo-carne-vacuna-cayo-mas-11-el-primer-semestre-2026-y-las-exportaciones-ganan-impulso-n6301456",
+      "tituloOriginal": "El consumo de carne vacuna cayó más de 11% en el primer semestre de 2026 y las exportaciones ganan impulso",
+      "tituloLimpio": "El consumo de carne vacuna cayó más del 11% en el primer semestre de 2026",
+      "resumen": "La menor oferta de hacienda redujo la producción de carne, mientras las ventas al exterior crecieron más del 10%, impulsadas por la demanda de Estados Unidos.",
+      "porQueImporta": "Refleja cambios en los hábitos de consumo y la dinámica del mercado exportador argentino, relevante para entender la economía local.",
+      "publicadoEn": "2026-07-20T13:16:00.000Z",
+      "imagen": "https://media.ambito.com/p/16e978bc83347509e6a6460f91bc7b0a/adjuntos/239/imagenes/038/530/0038530247/1200x675/smart/carne-vacuna.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "consumo",
+        "exportaciones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/burger-king-rolls-out-whopper-guarantee-as-part-of-turnaround-effort/825562/",
+      "tituloOriginal": "Burger King rolls out Whopper Guarantee as part of turnaround effort",
+      "tituloLimpio": "Burger King lanza la 'Garantía Whopper' como parte de su estrategia de cambio",
+      "resumen": "La marca de comida rápida está innovando en una campaña de mejora de marca que impulsó un crecimiento de ventas comparables del 5.8% en el primer trimestre.",
+      "porQueImporta": "Ejemplo de estrategia de marketing y reposicionamiento de marca en el sector de comida rápida, útil para entender tácticas de crecimiento.",
+      "publicadoEn": "2026-07-20T13:00:00.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "estrategia",
+        "negocios"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "fuente": "Adweek",
+      "url": "https://www.adweek.com/creativity/michelob-ultra-tallies-lionel-messis-20-year-world-cup-legacy/",
+      "tituloOriginal": "Michelob Ultra Tallies Lionel Messi’s 20-Year World Cup Legacy",
+      "tituloLimpio": "Michelob Ultra destaca el legado de 20 años de Lionel Messi en la Copa del Mundo",
+      "resumen": "El anuncio de Michelob Ultra detalla la carrera de 20 años de Lionel Messi en la Copa del Mundo tras la derrota de Argentina ante España.",
+      "porQueImporta": "Muestra cómo las marcas utilizan figuras públicas y eventos deportivos para campañas de marketing, relevante para estrategias de contenido y branding.",
+      "publicadoEn": "2026-07-20T10:08:32.000Z",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "publicidad",
+        "deportes",
+        "Argentina"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+      "tituloOriginal": "What to watch for after Jensen Huang’s Japan visit",
+      "tituloLimpio": "Jensen Huang de Nvidia cerró acuerdos en Japón tras su visita",
+      "resumen": "Jensen Huang dejó Tokio con acuerdos que abarcan todo el ecosistema tecnológico de Japón.",
+      "porQueImporta": "Indica el crecimiento y la expansión de la influencia de Nvidia en el sector tecnológico global, especialmente en IA y hardware.",
+      "publicadoEn": "2026-07-19T21:16:07.000Z",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "negocios",
+        "tecnología",
+        "inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/sponsored/homesnap-a-private-read-only-window-into-your-homekit-home-sponsor/",
+      "tituloOriginal": "HomeSnap: A Private, Read-Only Window Into Your HomeKit Home [Sponsor]",
+      "tituloLimpio": "HomeSnap: una ventana privada y de solo lectura para tu hogar HomeKit",
+      "resumen": "HomeSnap recuerda todo lo que hace tu hogar HomeKit, muestra su estado en vivo y avisa cuando algo necesita atención, desde tu iPhone, iPad o Mac.",
+      "porQueImporta": "Una herramienta de automatización y monitoreo para el ecosistema Apple HomeKit, útil para usuarios interesados en el hogar inteligente y la privacidad.",
+      "publicadoEn": "2026-07-20T12:19:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "automatización",
+        "herramientas",
+        "privacidad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/article/after-ibms-epic-stock-crash-wall-street-chatter-is-big-blue-should-break-up-135450235.html",
+      "tituloOriginal": "After IBM's epic stock crash, Wall Street chatter is Big Blue should break up",
+      "tituloLimpio": "Tras la caída de IBM, en Wall Street se habla de una posible división",
+      "resumen": "No se proporcionó un resumen explícito en el material original.",
+      "porQueImporta": "Noticia relevante para inversores, ya que una posible división de IBM podría generar movimientos en el mercado y oportunidades de inversión.",
+      "publicadoEn": "2026-07-20T13:54:50.000Z",
+      "imagen": "https://s.yimg.com/uu/api/res/1.2/YlSL7AdHRFuHtJ5IR7Rd_Q--~B/aD00MDAwO3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/0de11bef-8fc8-4bfc-8567-e6b91d777e5f",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Finance",
+        "inversión",
+        "mercado",
+        "acciones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-nvidia-micron-sandisk-2/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Stock Market Today: Dow Rises On Peace Hopes; Nvidia, Micron, Sandisk Rebound (Live Coverage)",
+      "tituloLimpio": "El mercado de valores hoy: Dow sube por esperanzas de paz; Nvidia, Micron, Sandisk se recuperan",
+      "resumen": "No se proporcionó un resumen explícito en el material original.",
+      "porQueImporta": "Panorama general del mercado de valores, con mención de empresas tecnológicas clave como Nvidia, relevante para inversores en ETFs y acciones.",
+      "publicadoEn": "2026-07-20T13:42:22.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/4f1fa106a49c603c17f0aadb20cc8971",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Finance",
+        "mercado",
+        "inversión",
+        "tecnología"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/07/20/exodus-to-cut-25-of-global-workforce-in-payments-shift",
+      "tituloOriginal": "Exodus to cut 25% of global workforce in payments shift",
+      "tituloLimpio": "Exodus recortará el 25% de su fuerza laboral global por cambio en pagos",
+      "resumen": "Esta reestructuración es parte de una estrategia para construir una plataforma de pagos completa tras las adquisiciones de Monavate y Baanx.",
+      "porQueImporta": "Indica movimientos en el sector de pagos y criptomonedas, con impacto en el empleo y la estrategia de negocio de una empresa relevante.",
+      "publicadoEn": "2026-07-20T13:53:08.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/74628ba1025563f8405217663b020438302f7bec-1920x1198.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "Finance",
+        "negocios",
+        "cripto",
+        "empleo"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/magazine/peter-brandt-says-bitcoins-bear-market-isnt-over-predicts-final-bottom-in-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Peter Brandt predicts the exact day Bitcoin’s bear market will be over",
+      "tituloLimpio": "Peter Brandt predice el fin del mercado bajista de Bitcoin",
+      "resumen": "El reconocido analista de trading Peter Brandt afirma que invertir en Bitcoin hoy rendirá mucho más en dos o tres años que comprar acciones de IA a precios actuales.",
+      "porQueImporta": "Perspectiva de un analista sobre el futuro de Bitcoin y una comparación con las acciones de IA, relevante para decisiones de inversión.",
+      "publicadoEn": "2026-07-20T13:30:00.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/brandt-101.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Finance",
+        "cripto",
+        "inversión",
+        "AI"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-lunes-20-julio_0_GlNnWPwTIl.html",
+      "tituloOriginal": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este lunes 20 de julio",
+      "tituloLimpio": "Dólar hoy: cotización del oficial y sus diferentes tipos de cambio este lunes 20 de julio",
+      "resumen": "Desde el oficial hasta el blue y el turista, todos los tipos de cambio. Mirá la cotización minuto a minuto.",
+      "porQueImporta": "Información esencial para la planificación financiera y las decisiones de inversión en Argentina.",
+      "publicadoEn": "2026-07-20T12:00:01.000Z",
+      "imagen": "https://www.clarin.com/img/2020/05/12/K71HaG3_h_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "dólar",
+        "finanzas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/gobierno-busca-destrabar-reforma-electoral-desconfianza-gobernadores-tironeos-pro_0_hXkTj7MGqZ.html",
+      "tituloOriginal": "El Gobierno busca destrabar la reforma electoral, entre la desconfianza de los gobernadores y los tironeos con el PRO",
+      "tituloLimpio": "El Gobierno busca destrabar la reforma electoral, entre la desconfianza de gobernadores y tironeos con el PRO",
+      "resumen": "En la Casa Rosada consideran clave que no haya PASO para encauzar la reelección de Milei y aceptan solo suspenderlas.",
+      "porQueImporta": "Refleja la dinámica política actual en Argentina y cómo las decisiones gubernamentales pueden afectar el panorama general del país.",
+      "publicadoEn": "2026-07-20T12:21:34.000Z",
+      "imagen": "https://www.clarin.com/img/2026/07/09/6ouMhnK2a_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "política",
+        "gobierno"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/07/20/plazo-fijo-cuanto-pagan-los-principales-bancos-por-depositos-de-1-millon-a-30-dias/",
+      "tituloOriginal": "Plazo fijo: cuánto pagan los principales bancos por depósitos de $1 millón a 30 días",
+      "tituloLimpio": "Plazo fijo: cuánto pagan los principales bancos por depósitos de $1 millón a 30 días",
+      "resumen": "Actualizaciones recientes en tasas de interés permiten comparar los rendimientos de las entidades que operan en el país, con diferencias notables entre bancos tradicionales y digitales.",
+      "porQueImporta": "Información clave para la gestión de inversiones y ahorros en pesos en Argentina.",
+      "publicadoEn": "2026-07-20T13:54:09.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/QEJYIZLILFAPTF2OAOFICSM3VM.JPG?auth=f3f762da99e10f35bb146670dff07b8956878469e28c60f4563d17eb609a6e34&smart=true&width=5500&height=3666",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "finanzas",
+        "inversión",
+        "bancos"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/07/20/reforma-laboral-a-pedido-de-la-cgt-el-gobierno-modifico-por-decreto-una-restriccion-que-afectaba-la-caja-sindical/",
+      "tituloOriginal": "Reforma laboral: a pedido de la CGT, el Gobierno modificó por decreto una restricción que afectaba la caja sindical",
+      "tituloLimpio": "Reforma laboral: el Gobierno modificó por decreto una restricción que afectaba la caja sindical a pedido de la CGT",
+      "resumen": "Tras semanas de negociaciones reservadas, la Casa Rosada aceptó cambios en la reglamentación de la Ley de Modernización Laboral.",
+      "porQueImporta": "Impacta en el ámbito laboral y sindical de Argentina, con posibles consecuencias para el clima de negocios y las relaciones laborales.",
+      "publicadoEn": "2026-07-20T13:58:57.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/5JJFJT2DDFHHPARGIDTWSG4N4M.jpg?auth=58566c1e4fff0832fa09a4d827e262e6b93733ae7dce0226affa79ff86727521&smart=true&width=1920&height=1080",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "política",
+        "laboral",
+        "gobierno"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-07-20T14:11:33.868Z"
+  }
+}
