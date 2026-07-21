@@ -1,0 +1,555 @@
+{
+  "fecha": "2026-07-21",
+  "generadoEn": "2026-07-21T13:58:23.326Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "Hoy, las noticias giran en torno a la evolución de la IA, con Google conectando apps a su modo IA y Deezer reportando que más del 50% de sus subidas diarias son generadas por IA. En Apple, iOS 26.6 se prepara para iOS 27 y se anticipa un aumento en el costo de los iPhones 2027 debido a TSMC. A nivel local, se oficializa una inversión de USD 4.500 millones de Pampa Energía en Vaca Muerta y se sigue de cerca la cotización del dólar.",
+  "radarPersonal": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Google permitirá conectar más aplicaciones a su modo IA en Search",
+      "resumen": "Se podrán vincular e interactuar de forma segura con los servicios habituales directamente en el modo IA de Search.",
+      "categoria": "AI",
+      "fuentes": [
+        "Google AI Blog"
+      ],
+      "urls": [
+        "https://blog.google/products-and-platforms/products/search/connected-apps/"
+      ],
+      "score": 100,
+      "tags": [
+        "Google",
+        "IA",
+        "Search",
+        "integración"
+      ]
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "iOS 26.6 prepara tu iPhone para iOS 27",
+      "resumen": "iOS 27 incluye una arquitectura de búsqueda de Siri IA reconstruida. iOS 26.6 optimiza el índice de Spotlight para preparar el dispositivo para iOS 27.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/07/21/ios-26-6-prepares-for-ios-27/"
+      ],
+      "score": 100,
+      "tags": [
+        "Apple",
+        "iOS",
+        "Siri",
+        "IA",
+        "actualización"
+      ]
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "titulo": "Se espera que los iPhones de 2027 cuesten más por el aumento de precios de chips de TSMC",
+      "resumen": "Apple deberá pagar más por sus chips de iPhone y Mac a partir de 2027, ya que TSMC aumenta sus precios base hasta un 10%.",
+      "categoria": "Apple",
+      "fuentes": [
+        "AppleInsider"
+      ],
+      "urls": [
+        "https://appleinsider.com/articles/26/07/21/expect-2027-iphones-to-cost-more-as-tsmc-increases-chip-prices?utm_source=rss"
+      ],
+      "score": 100,
+      "tags": [
+        "Apple",
+        "iPhone",
+        "precios",
+        "chips",
+        "TSMC"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "Deezer reporta que más del 50% de las subidas diarias son generadas por IA",
+      "resumen": "Deezer dijo que más de 90.000 pistas generadas por IA se subieron diariamente a la plataforma en junio.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/"
+      ],
+      "score": 100,
+      "tags": [
+        "IA",
+        "música",
+        "Deezer",
+        "contenido"
+      ]
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "titulo": "Oficializan el ingreso al RIGI de un proyecto de Pampa Energía en Vaca Muerta con una inversión de USD 4.500 millones",
+      "resumen": "Rincón de Aranda generará USD 17.000 millones de exportaciones a lo largo de 30 años. El ministerio de Economía formalizó la aprobación del Comité Evaluador.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Infobae Economia"
+      ],
+      "urls": [
+        "https://www.infobae.com/economia/2026/07/21/oficializan-el-ingreso-al-rigi-de-un-proyecto-de-pampa-energia-en-vaca-muerta-con-una-inversion-de-usd-4500-millones/"
+      ],
+      "score": 100,
+      "tags": [
+        "Argentina",
+        "inversión",
+        "Vaca Muerta",
+        "Pampa Energía",
+        "RIGI"
+      ]
+    }
+  ],
+  "loImportante": [
+    "La integración de IA en plataformas como Google Search y Siri sigue avanzando, mejorando la interacción con aplicaciones y la búsqueda de información.",
+    "El costo de los componentes, como los chips de TSMC, podría impactar el precio final de productos tecnológicos como los iPhones en el futuro.",
+    "La generación de contenido por IA está creciendo exponencialmente, con plataformas como Deezer reportando que más de la mitad de sus subidas diarias son creadas por IA.",
+    "En Argentina, se oficializó una inversión significativa en Vaca Muerta, lo que podría tener un impacto económico a largo plazo.",
+    "La evolución de la IA no solo se centra en algoritmos, sino también en la innovación en ciencia de materiales para soportar las demandas de procesamiento."
+  ],
+  "oportunidades": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "titulo": "Integración de aplicaciones con IA en Google Search",
+      "detalle": "La posibilidad de vincular e interactuar con servicios directamente en el modo IA de Google Search podría simplificar flujos de trabajo y automatización.",
+      "acciones": [
+        "Explorar cómo esta integración puede aplicarse a herramientas de retoque fotográfico o gestión de proyectos.",
+        "Evaluar el potencial de automatización de tareas repetitivas a través de esta funcionalidad."
+      ]
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "titulo": "Avances en IA impulsados por ciencia de materiales",
+      "detalle": "La innovación en materiales es clave para el desarrollo de la próxima generación de IA, lo que podría abrir nuevas posibilidades en hardware y rendimiento.",
+      "acciones": [
+        "Monitorear las tendencias en hardware y materiales que impactan el rendimiento de la IA.",
+        "Considerar cómo estos avances podrían influir en las capacidades de las herramientas de IA para arte y retoque."
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "Marketing de nostalgia en marcas",
+      "detalle": "El éxito de Spangler con marcas de dulces construidas sobre la nostalgia demuestra el poder de esta estrategia de marketing.",
+      "acciones": [
+        "Analizar cómo el concepto de nostalgia puede aplicarse en campañas de marketing digital o branding personal.",
+        "Investigar ejemplos de marcas que utilizan la nostalgia de manera efectiva en el sector de arte o tecnología."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Market",
+      "titulo": "Aumento de precios en iPhones por costos de chips",
+      "detalle": "El incremento de precios de los chips de TSMC podría llevar a un aumento en el costo de los iPhones a partir de 2027, afectando el poder adquisitivo.",
+      "mitigacion": "Considerar el ciclo de actualización de dispositivos Apple y evaluar el impacto de posibles aumentos de precios en futuras compras."
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "titulo": "Proliferación de contenido generado por IA",
+      "detalle": "Más del 50% de las subidas diarias en Deezer son generadas por IA, lo que plantea desafíos en la autenticidad y originalidad del contenido digital.",
+      "mitigacion": "Mantenerse informado sobre herramientas y métodos para identificar contenido generado por IA, especialmente en el ámbito del arte y retoque fotográfico."
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "titulo": "Competencia de modelos de IA chinos",
+      "detalle": "Empresas chinas de IA están presentando modelos que compiten con los mejores sistemas de OpenAI y Anthropic, lo que podría cambiar el panorama global de la IA.",
+      "mitigacion": "Seguir de cerca los desarrollos en IA a nivel global para entender la evolución del mercado y las nuevas herramientas disponibles."
+    }
+  ],
+  "conexiones": [
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "titulo": "Aumento de precios de chips y su impacto en Apple",
+      "historias": [
+        "TSMC, proveedor clave de chips para Apple, planea aumentar sus precios hasta un 10% a partir de 2027.",
+        "Este aumento podría traducirse en iPhones más caros para los consumidores en 2027."
+      ],
+      "conclusion": "La cadena de suministro y los costos de producción de componentes tecnológicos tienen un impacto directo en el precio final de los dispositivos, lo que es relevante para la planificación de compras de equipos Apple."
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Preparación de iOS para la IA de Siri",
+      "historias": [
+        "iOS 26.6 optimiza el índice de Spotlight para preparar los iPhones para iOS 27.",
+        "iOS 27 incluirá una arquitectura de búsqueda de Siri IA reconstruida."
+      ],
+      "conclusion": "Apple está sentando las bases para una Siri más avanzada y basada en IA, lo que sugiere una mejora significativa en la interacción y funcionalidad de los dispositivos iOS en el futuro cercano."
+    }
+  ],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "tituloOriginal": "Connect more of your apps to Search",
+      "tituloLimpio": "Google permitirá conectar más aplicaciones a su modo IA en Search",
+      "resumen": "Se podrán vincular e interactuar de forma segura con los servicios habituales directamente en el modo IA de Search.",
+      "porQueImporta": "Esta mejora en Google Search podría simplificar la interacción con diversas herramientas y servicios, potenciando la automatización y la eficiencia en el trabajo diario con IA.",
+      "publicadoEn": "2026-07-16T16:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "Google",
+        "IA",
+        "Search",
+        "integración",
+        "automatización"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/07/21/ios-26-6-prepares-for-ios-27/",
+      "tituloOriginal": "iOS 26.6 Prepares Your iPhone for iOS 27",
+      "tituloLimpio": "iOS 26.6 prepara tu iPhone para iOS 27",
+      "resumen": "iOS 27 incluye una arquitectura de búsqueda de Siri IA reconstruida. iOS 26.6 optimiza el índice de Spotlight para preparar el dispositivo para iOS 27.",
+      "porQueImporta": "Es una actualización clave para usuarios de iPhone, ya que prepara el sistema para las mejoras de IA en Siri que llegarán con iOS 27, lo que podría impactar la forma en que se interactúa con el dispositivo.",
+      "publicadoEn": "2026-07-21T13:19:01.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "iOS",
+        "Siri",
+        "IA",
+        "actualización",
+        "iPhone"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/andy-burnham-anuncia-sus-primeras-medidas-reino-unido-eliminara-el-iva-las-facturas-luz-n6301821",
+      "tituloOriginal": "Andy Burnham anuncia sus primeras medidas en Reino Unido: eliminará el IVA de las facturas de luz",
+      "tituloLimpio": "Andy Burnham anuncia sus primeras medidas en Reino Unido: eliminará el IVA de las facturas de luz",
+      "resumen": "La medida se extenderá hasta abril, con un ahorro promedio de 45 libras por hogar. Busca ser el inicio de un punto de inflexión dónde se conjuga la política y la economía en un nuevo modelo.",
+      "porQueImporta": "Aunque es una medida en Reino Unido, muestra una tendencia global de intervención estatal en la economía para aliviar costos, lo que puede ser relevante para entender políticas económicas en otros mercados.",
+      "publicadoEn": "2026-07-21T12:30:00.000Z",
+      "imagen": "https://media.ambito.com/p/d9fc1b4410ad8933d707f7ed87c0947a/adjuntos/239/imagenes/043/528/0043528933/1200x675/1311x481:1331x501/burnham.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "economía",
+        "política",
+        "Reino Unido",
+        "IVA"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/Spangler-nostalgia-candy-dum-dums-sweethearts/825762/",
+      "tituloOriginal": "How Dum Dums owner Spangler created a candy empire built on nostalgia",
+      "tituloLimpio": "Cómo Spangler, dueño de Dum Dums, creó un imperio de dulces basado en la nostalgia",
+      "resumen": "El fabricante de dulces se ha hecho un hueco en el espacio de los dulces con una colección de marcas con historias, dijo el Vicepresidente de Marketing Evan Brock.",
+      "porQueImporta": "Es un caso de estudio interesante sobre marketing y branding, mostrando cómo la nostalgia puede ser una estrategia efectiva para construir y mantener un negocio, aplicable a otros sectores.",
+      "publicadoEn": "2026-07-21T13:45:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "branding",
+        "nostalgia",
+        "negocios"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
+      "tituloOriginal": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
+      "tituloLimpio": "Deezer reporta que más del 50% de las subidas diarias son generadas por IA",
+      "resumen": "Deezer dijo que más de 90.000 pistas generadas por IA se subieron diariamente a la plataforma en junio.",
+      "porQueImporta": "Destaca la rápida proliferación de contenido generado por IA, lo que tiene implicaciones para la industria creativa, el arte con IA y la autenticidad del contenido digital.",
+      "publicadoEn": "2026-07-21T13:27:42.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "música",
+        "contenido",
+        "tendencia",
+        "arte con IA"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
+      "tituloOriginal": "America needs to stop getting shocked by Chinese AI",
+      "tituloLimpio": "América necesita dejar de sorprenderse por la IA china",
+      "resumen": "Dos empresas chinas de IA presentaron modelos que, según dicen, pueden competir con los mejores sistemas de OpenAI y Anthropic. La respuesta fue rápida y predecible.",
+      "porQueImporta": "Subraya la creciente competencia global en el campo de la IA, con actores chinos emergiendo como fuertes contendientes, lo que puede influir en el desarrollo y acceso a nuevas herramientas de IA.",
+      "publicadoEn": "2026-07-21T11:08:56.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "China",
+        "competencia",
+        "mercado"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+      "tituloOriginal": "Advancing next-gen AI with materials science innovation",
+      "tituloLimpio": "Avance de la IA de próxima generación con innovación en ciencia de materiales",
+      "resumen": "La conversación sobre IA a menudo se centra en algoritmos, potencia de cálculo o grandes inversiones. Pero debajo de cada uno de estos avances hay otra capa de innovación que los hace posibles: materiales avanzados.",
+      "porQueImporta": "Resalta la importancia de la ciencia de materiales en el avance de la IA, un aspecto menos visible pero fundamental para el rendimiento y las capacidades futuras de las herramientas de IA.",
+      "publicadoEn": "2026-07-21T10:37:34.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "innovación",
+        "materiales",
+        "tecnología"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/21/hbo-max-and-paramount-may-not-merge-after-all/",
+      "tituloOriginal": "HBO Max and Paramount+ may not merge after all",
+      "tituloLimpio": "HBO Max y Paramount+ podrían no fusionarse después de todo",
+      "resumen": "Una fusión planeada de dos plataformas de streaming importantes, HBO Max y Paramount+, podría no concretarse. Un juez federal impuso una orden de restricción.",
+      "porQueImporta": "Aunque no es directamente sobre Apple, es una noticia relevante en el sector del entretenimiento y los medios, que puede afectar el panorama de los servicios de streaming y el consumo de contenido.",
+      "publicadoEn": "2026-07-21T11:52:40.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "streaming",
+        "negocios",
+        "fusión",
+        "entretenimiento"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/07/21/expect-2027-iphones-to-cost-more-as-tsmc-increases-chip-prices?utm_source=rss",
+      "tituloOriginal": "Expect 2027 iPhones to cost more as TSMC increases chip prices",
+      "tituloLimpio": "Se espera que los iPhones de 2027 cuesten más por el aumento de precios de chips de TSMC",
+      "resumen": "Apple deberá pagar más por sus chips de iPhone y Mac a partir de 2027, ya que TSMC aumenta sus precios base hasta un 10%.",
+      "porQueImporta": "Impacta directamente en los usuarios de Apple, ya que anticipa un posible aumento en el costo de los futuros iPhones, algo a considerar en la planificación de inversiones en tecnología.",
+      "publicadoEn": "2026-07-21T12:10:23.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "iPhone",
+        "precios",
+        "chips",
+        "TSMC",
+        "inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/reviews/open-minis-is-the-ios-agent-i-wish-siri-ai-could-be/",
+      "tituloOriginal": "Open Minis Is the iOS Agent I Wish Siri AI Could Be",
+      "tituloLimpio": "Open Minis es el agente de iOS que me gustaría que Siri IA fuera",
+      "resumen": "Open Minis para iOS. De vez en cuando, me encuentro con una aplicación de terceros que redefine mis expectativas para un nicho particular de software en iOS o crea una categoría completamente nueva.",
+      "porQueImporta": "Sugiere el potencial de aplicaciones de terceros para superar las capacidades actuales de Siri, lo que es relevante para quienes buscan herramientas de automatización y productividad en iOS.",
+      "publicadoEn": "2026-07-20T15:25:53.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "iOS",
+        "Siri",
+        "IA",
+        "aplicaciones",
+        "productividad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/the-bulls-are-circling-meta-again-but-investors-should-keep-one-thing-in-mind-135007703.html",
+      "tituloOriginal": "The bulls are circling Meta again, but investors should keep one thing in mind",
+      "tituloLimpio": "Los alcistas vuelven a rodear a Meta, pero los inversores deben tener algo en cuenta",
+      "resumen": "",
+      "porQueImporta": "Noticia relevante para inversores, especialmente aquellos interesados en el sector tecnológico y las grandes empresas como Meta. Sugiere un análisis más profundo antes de tomar decisiones de inversión.",
+      "publicadoEn": "2026-07-21T13:50:07.000Z",
+      "imagen": "https://s.yimg.com/uu/api/res/1.2/a11p6UXj1XvJff5uL8eV9w--~B/aD0zMzMzO3c9NTAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/0711d3c2-e0f6-4c95-a8e6-eb74daac672f",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "inversión",
+        "Meta",
+        "mercado"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/news/technology/tsmc-stock-taiwan-semi-tsm-raise-prices/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "TSMC Plans To Raise Prices, Says Report. Stock Jumps.",
+      "tituloLimpio": "TSMC planea subir los precios, dice un informe. Las acciones suben.",
+      "resumen": "",
+      "porQueImporta": "Importante para inversores en el sector de semiconductores y tecnología, ya que el aumento de precios de TSMC puede impactar a toda la cadena de suministro y el valor de las acciones.",
+      "publicadoEn": "2026-07-21T13:32:55.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/b14797c329956828239cba2fd4b2f3bc",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "inversión",
+        "TSMC",
+        "chips",
+        "mercado"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/coinshares-debuts-bitcoin-mining-ucits-etf-in-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "CoinShares debuts Bitcoin mining ETF in Europe entrance",
+      "tituloLimpio": "CoinShares lanza un ETF de minería de Bitcoin en Europa",
+      "resumen": "El ETF UCITS, el primero de CoinShares en Europa, comenzó a cotizar en Deutsche Börse Xetra, siguiendo un índice basado en reglas de mineros de BTC que cotizan en bolsa.",
+      "porQueImporta": "Aunque es un lanzamiento en Europa, la creación de nuevos ETFs relacionados con criptomonedas es una tendencia global que puede influir en el mercado de inversiones y la diversificación de carteras.",
+      "publicadoEn": "2026-07-21T13:34:26.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-dormant-bitcoin-wallets-are-now-the-biggest-quantum-risk-heres-why-1.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "inversión",
+        "ETFs",
+        "Bitcoin",
+        "criptomonedas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-martes-21-julio_0_eey445sdBm.html",
+      "tituloOriginal": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este martes 21 de julio",
+      "tituloLimpio": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este martes 21 de julio",
+      "resumen": "Desde el oficial hasta el blue y el turista, todos los tipos de cambio. Mirá la cotización minuto a minuto.",
+      "porQueImporta": "Información esencial para cualquier residente en Argentina, ya que la cotización del dólar impacta directamente en la economía personal y las decisiones de inversión.",
+      "publicadoEn": "2026-07-21T12:00:01.000Z",
+      "imagen": "https://www.clarin.com/img/2017/09/30/ryWILzajb_1200x630.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "dólar",
+        "economía",
+        "finanzas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/javier-milei-medidas-vivo-polemica-bloque-lla-senado-anuncio-donara-aumento-dietas_0_QjXOWINsGS.html",
+      "tituloOriginal": "Javier Milei y sus medidas, EN VIVO: tras la polémica y las críticas, el bloque de LLA en el Senado anunció que donará el aumento de sus dietas",
+      "tituloLimpio": "Javier Milei y sus medidas, EN VIVO: el bloque de LLA en el Senado anunció que donará el aumento de sus dietas",
+      "resumen": "La medida de los integrantes de la bancada libertaria en la Cámara alta será llevada a cabo a partir de agosto.",
+      "porQueImporta": "Noticia política relevante en Argentina que muestra la reacción a la polémica por el aumento de dietas y la postura del partido gobernante.",
+      "publicadoEn": "2026-07-21T12:01:31.000Z",
+      "imagen": "https://www.clarin.com/img/2026/07/16/3IPUNDrEA_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "política",
+        "Javier Milei",
+        "Senado"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/07/21/oficializan-el-ingreso-al-rigi-de-un-proyecto-de-pampa-energia-en-vaca-muerta-con-una-inversion-de-usd-4500-millones/",
+      "tituloOriginal": "Oficializan el ingreso al RIGI de un proyecto de Pampa Energía en Vaca Muerta con una inversión de USD 4.500 millones",
+      "tituloLimpio": "Oficializan el ingreso al RIGI de un proyecto de Pampa Energía en Vaca Muerta con una inversión de USD 4.500 millones",
+      "resumen": "Rincón de Aranda generará USD 17.000 millones de exportaciones a lo largo de 30 años. El ministerio de Economía formalizó la aprobación del Comité Evaluador.",
+      "porQueImporta": "Una inversión significativa en Vaca Muerta es una noticia económica muy importante para Argentina, con potencial impacto en la generación de divisas y el desarrollo energético del país.",
+      "publicadoEn": "2026-07-21T13:26:24.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/FVS5Q747AZA7RF7KUY5JEIYQJA.jpeg?auth=8158dca02b8d349bd18f44e24300276d4d365bf9825cf804bbc89a2a6dabfe38&smart=true&width=1600&height=1066",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "inversión",
+        "Vaca Muerta",
+        "Pampa Energía",
+        "RIGI"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/juan-battaglia-lo-de-la-enfermedad-holandesa-es-un-sinsentido-para-no-decir-una-pavada-absoluta-nid19072026/",
+      "tituloOriginal": "Juan Battaglia: “Lo de la enfermedad holandesa es un sinsentido, para no decir una pavada absoluta”",
+      "tituloLimpio": "Juan Battaglia: “Lo de la enfermedad holandesa es un sinsentido, para no decir una pavada absoluta”",
+      "resumen": "Juan Battaglia, economista jefe de Cucchiara y Cía., elogió el esquema cambiario y monetario, pero advirtió que la macro consistente todavía no logra traducirse en empleo y actividad.",
+      "porQueImporta": "Ofrece una perspectiva económica sobre la situación actual de Argentina, relevante para entender el contexto macroeconómico y sus implicaciones para el empleo y la actividad.",
+      "publicadoEn": "2026-07-21T13:49:29.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/NXCBST7XYNHFTOXBO3TLK4BAUA.JPG?auth=ed33fedbedd19cfe8b696a8965de99ba09ff359c271d8f6c10df2da334f51443&smart=true&width=2000&height=1298",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "análisis",
+        "empleo"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-07-21T13:58:23.326Z"
+  }
+}
