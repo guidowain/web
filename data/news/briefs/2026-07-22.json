@@ -1,13 +1,13 @@
 {
   "fecha": "2026-07-22",
-  "generadoEn": "2026-07-22T14:02:06.797Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "Hoy se destacan novedades en el ecosistema Apple con mejoras en WhatsApp para iPad y la posibilidad de compartir Apple Music. En el ámbito de la IA, Google y Meta presentan sus avances, mientras que se discute el futuro de los navegadores. La economía argentina muestra señales positivas con la mejora de calificación de Moody's y la caída del riesgo país, aunque persisten las protestas. También hay noticias sobre marketing y finanzas, incluyendo el uso de IA en blockchain.",
+  "generadoEn": "2026-07-22T18:07:35.538Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Hoy se destacan las actualizaciones de software de Apple con las segundas betas públicas de iOS 27, iPadOS 27 y macOS 27. En el ámbito de la IA, Google anunció novedades para Samsung, AMD invertirá hasta 5 mil millones en Anthropic, y se debate la seguridad de los modelos de IA chinos. En Argentina, el salario mínimo cayó un 40% real desde 2023, el Gobierno realizó un canje de deuda para descomprimir vencimientos y se discuten cambios en la Ley de Desregulación. También hubo protestas con incidentes por la baja de un plan social.",
   "radarPersonal": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
       "titulo": "Google presenta novedades para usuarios de Samsung en Galaxy Unpacked 2026",
-      "resumen": "Se compartieron actualizaciones para que los usuarios de Samsung aumenten la productividad en nuevos dispositivos plegables, relojes y gafas.",
+      "resumen": "Google compartió cómo los usuarios de Samsung pueden mejorar la productividad y ahorrar tiempo con nuevos dispositivos plegables, relojes y gafas.",
       "categoria": "AI",
       "fuentes": [
         "Google AI Blog"
@@ -20,116 +20,150 @@
         "google",
         "samsung",
         "productividad",
-        "galaxy unpacked"
+        "novedades"
       ]
     },
     {
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "Primeras impresiones del Samsung Galaxy Z Fold8, lo más parecido a un iPhone plegable",
-      "resumen": "Samsung presentó sus últimos dispositivos plegables, incluyendo el Galaxy Z Fold8, con un diseño similar al esperado iPhone plegable de septiembre.",
+      "titulo": "Disponibles las segundas betas públicas de iOS 27 y iPadOS 27",
+      "resumen": "Apple lanzó las segundas betas públicas de iOS 27 y iPadOS 27, permitiendo a quienes tengan un dispositivo compatible descargar y probar el nuevo software.",
       "categoria": "Apple",
       "fuentes": [
         "MacRumors"
       ],
       "urls": [
-        "https://www.macrumors.com/2026/07/22/samsung-galaxy-z-fold8/"
+        "https://www.macrumors.com/2026/07/22/apple-seeds-ios-27-public-beta-2/"
       ],
       "score": 100,
       "tags": [
-        "samsung",
-        "galaxy z fold8",
-        "iphone plegable",
-        "dispositivos plegables"
+        "apple",
+        "ios",
+        "ipados",
+        "beta"
       ]
     },
     {
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "José Luis Daza celebra la mejora de calificación de Moody's: 'Ya hay brotes verdes'",
-      "resumen": "El viceministro de Economía destacó la evaluación positiva de Moody’s, señalando que los desequilibrios macroeconómicos, no las elecciones, generan crisis.",
+      "titulo": "El salario mínimo cayó un 40% real desde 2023 en Argentina",
+      "resumen": "Un informe se enfoca en la caída del salario mínimo y cómo ese deterioro se refleja en la capacidad de compra de alimentos básicos y servicios.",
       "categoria": "Argentina",
       "fuentes": [
         "Ambito"
       ],
       "urls": [
-        "https://www.ambito.com/economia/jose-daza-celebro-la-mejora-la-calificacion-moodys-ya-hay-brotes-verdes-n6302330"
+        "https://www.ambito.com/economia/el-salario-minimo-cayo-40-real-2023-cuanto-poder-compra-perdio-los-alimentos-basicos-n6302445"
       ],
       "score": 100,
       "tags": [
         "argentina",
-        "economía",
-        "moody's",
-        "brotes verdes"
+        "salario",
+        "inflación",
+        "economía"
       ]
     },
     {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "titulo": "Las guerras de navegadores ya no son por la búsqueda: alternativas a Chrome y Safari",
-      "resumen": "Se presenta un resumen de los principales navegadores alternativos disponibles hoy que buscan desafiar a Chrome y Safari.",
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "AMD se compromete a invertir hasta 5 mil millones en Anthropic",
+      "resumen": "AMD dice que invertirá hasta 5 mil millones en Anthropic, mientras ayuda a expandir la capacidad de computación de la empresa de IA.",
       "categoria": "AI",
       "fuentes": [
-        "TechCrunch AI"
+        "The Verge AI"
       ],
       "urls": [
-        "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/"
+        "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal"
       ],
       "score": 100,
       "tags": [
-        "navegadores",
-        "chrome",
-        "safari",
-        "alternativas"
+        "amd",
+        "anthropic",
+        "inversión",
+        "ia"
       ]
     },
     {
-      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
-      "titulo": "WhatsApp lanza la función para compartir Apple Music y más",
-      "resumen": "WhatsApp anunció nuevas funciones, incluyendo el soporte para compartir actividad de Apple Music y Spotify en el Estado de WhatsApp, y un cambio de cuenta enfocado en iPad.",
-      "categoria": "Apple",
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "titulo": "El Gobierno argentino descomprimió un vencimiento clave de deuda",
+      "resumen": "El Gobierno canjeó el 45% de una letra atada al tipo de cambio oficial que vencía el 31 de julio y redujo los compromisos de fin de mes.",
+      "categoria": "Argentina",
       "fuentes": [
-        "9to5Mac"
+        "La Nacion Economia"
       ],
       "urls": [
-        "https://9to5mac.com/2026/07/22/whatsapp-launches-apple-music-sharing-plus-more/"
+        "https://www.lanacion.com.ar/economia/canje-de-deuda-el-gobierno-descomprimio-un-vencimiento-clave-y-apuesta-a-quitarle-presion-al-dolar-nid22072026/"
       ],
       "score": 100,
       "tags": [
-        "whatsapp",
-        "apple music",
-        "spotify",
-        "ipad",
-        "nuevas funciones"
+        "argentina",
+        "deuda",
+        "economía",
+        "dólar"
       ]
     }
   ],
   "loImportante": [
-    "La economía argentina muestra signos de mejora con la calificación de Moody's y la caída del riesgo país.",
-    "WhatsApp introduce nuevas funciones, incluyendo la posibilidad de compartir Apple Music y una mejor experiencia para iPad.",
-    "Se intensifica la competencia en el mercado de navegadores, con alternativas a Chrome y Safari ganando terreno.",
-    "Google y Meta avanzan en IA, con Google presentando actualizaciones para Samsung y Meta desarrollando su propio sistema de detección de IA.",
-    "La innovación en ciencia de materiales es clave para el avance de la próxima generación de IA."
+    "Apple lanzó las segundas betas públicas de iOS 27, iPadOS 27 y macOS 27, permitiendo a los usuarios probar las nuevas versiones.",
+    "El salario mínimo en Argentina cayó un 40% real desde 2023, afectando el poder de compra de alimentos y servicios básicos.",
+    "AMD anunció una inversión de hasta 5 mil millones de dólares en Anthropic para expandir su capacidad de computación de IA.",
+    "El Gobierno argentino realizó un canje de deuda para aliviar un vencimiento importante y reducir la presión sobre el dólar.",
+    "Se discute en Argentina un borrador de la Ley de Desregulación que propone cambios para farmacias, inmobiliarias y otros sectores."
   ],
   "oportunidades": [
     {
-      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
-      "categoria": "AI",
-      "titulo": "Franklin Templeton ve la IA agéntica como el próximo 'caso de uso asesino' para blockchain",
-      "detalle": "El líder de activos digitales de Franklin Templeton sugiere que la economía de agentes de IA autónomos aumentará la demanda de protocolos blockchain para micropagos máquina a máquina.",
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "Investing",
+      "titulo": "Inversión de AMD en Anthropic impulsa el sector de IA",
+      "detalle": "La inversión de AMD en Anthropic, una empresa de IA, sugiere un crecimiento continuo en el sector de la inteligencia artificial y la infraestructura de computación.",
       "acciones": [
-        "Investigar el potencial de la IA agéntica y blockchain para automatización y micropagos.",
-        "Explorar cómo esta tendencia podría impactar en la inversión en ETFs relacionados con IA y blockchain."
+        "Monitorear el rendimiento de AMD y Anthropic.",
+        "Evaluar oportunidades de inversión en empresas de infraestructura de IA."
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "Hanes adopta marketing arriesgado para su marca",
+      "detalle": "Hanes está implementando una estrategia de marketing más audaz y arriesgada para su marca de productos básicos, lo que podría indicar una tendencia en la publicidad para captar la atención.",
+      "acciones": [
+        "Analizar la efectividad de campañas de marketing disruptivas.",
+        "Considerar la aplicación de enfoques creativos en proyectos de marketing con IA."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Market",
-      "titulo": "EE.UU. busca confiscar 25 millones de dólares en criptomonedas vinculadas a estafas",
-      "detalle": "Las autoridades federales han recuperado más de 800 millones de dólares en casos de estafas de romance e inversión con criptomonedas.",
-      "mitigacion": "Mantenerse informado sobre las regulaciones y riesgos en el mercado de criptomonedas. Priorizar inversiones en activos regulados y con historial probado."
+      "titulo": "Caída del salario mínimo en Argentina",
+      "detalle": "La caída del 40% real del salario mínimo desde 2023 en Argentina impacta directamente en el poder de compra de los ciudadanos, afectando el consumo y la estabilidad económica general.",
+      "mitigacion": "Monitorear de cerca los indicadores económicos argentinos y ajustar estrategias de inversión o ahorro según la evolución del poder adquisitivo."
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Regulatory",
+      "titulo": "Legisladores de EE.UU. preocupados por la Ley de Mercados Digitales de la UE",
+      "detalle": "Legisladores de EE.UU. buscan que se investigue la Ley de Mercados Digitales de la UE, que consideran 'anti-estadounidense' y que afecta a grandes empresas tecnológicas como Apple. Esto podría generar tensiones comerciales y regulatorias.",
+      "mitigacion": "Mantenerse informado sobre las regulaciones tecnológicas globales y su impacto en las empresas de tecnología, especialmente aquellas en las que se invierte."
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "AI",
+      "titulo": "Caos en la App Store por aplicaciones de IA",
+      "detalle": "La App Store está siendo inundada por aplicaciones creadas con la ayuda de agentes de IA, lo que genera dudas sobre la calidad y utilidad de estas aplicaciones.",
+      "mitigacion": "Ser selectivo al elegir herramientas de IA y aplicaciones, priorizando aquellas con reputación y funcionalidad probada, y evitar el 'FOBO' (Fear Of Better Options) en este sector."
     }
   ],
-  "conexiones": [],
+  "conexiones": [
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "titulo": "Innovación en ciencia de materiales para la próxima generación de IA",
+      "historias": [
+        "La conversación sobre IA a menudo se centra en algoritmos o inversiones en plantas de fabricación de semiconductores.",
+        "Debajo de cada avance en IA hay otra capa de innovación que los hace posibles: los materiales avanzados.",
+        "Cada nueva generación de tecnología de IA exige más potencia de procesamiento y más memoria."
+      ],
+      "conclusion": "La evolución de la IA no solo depende del software y los algoritmos, sino también de los avances en la ciencia de materiales, que son fundamentales para el hardware que soporta estas tecnologías. Esto subraya la importancia de una visión integral en el desarrollo de la IA, desde la base material hasta la aplicación final."
+    }
+  ],
   "noticias": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
@@ -138,8 +172,8 @@
       "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
       "tituloOriginal": "3 Google updates from Galaxy Unpacked 2026",
       "tituloLimpio": "Google presenta novedades para usuarios de Samsung en Galaxy Unpacked 2026",
-      "resumen": "Se compartieron actualizaciones para que los usuarios de Samsung aumenten la productividad en nuevos dispositivos plegables, relojes y gafas.",
-      "porQueImporta": "Guido, como usuario de tecnología y entusiasta de la IA, podría interesarle cómo Google integra sus avances en dispositivos de la competencia, especialmente si estas mejoras de productividad llegan a otros ecosistemas o marcan tendencias en la industria.",
+      "resumen": "Google compartió cómo los usuarios de Samsung pueden mejorar la productividad y ahorrar tiempo con nuevos dispositivos plegables, relojes y gafas que saldrán pronto.",
+      "porQueImporta": "Guido usa Android y le interesa la IA aplicada y la productividad. Estas novedades de Google para Samsung podrían ofrecerle nuevas herramientas o funcionalidades para su trabajo o vida diaria.",
       "publicadoEn": "2026-07-22T13:00:00.000Z",
       "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp",
       "globalScore": 100,
@@ -148,8 +182,8 @@
         "google",
         "samsung",
         "productividad",
-        "galaxy unpacked",
-        "ia"
+        "ia",
+        "herramientas"
       ],
       "tambienVistoEn": []
     },
@@ -157,20 +191,20 @@
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Apple",
       "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/07/22/samsung-galaxy-z-fold8/",
-      "tituloOriginal": "Hands-On With Samsung's Galaxy Z Fold8, the Closest Thing Yet to a Foldable iPhone",
-      "tituloLimpio": "Primeras impresiones del Samsung Galaxy Z Fold8, lo más parecido a un iPhone plegable",
-      "resumen": "Samsung presentó sus últimos dispositivos plegables, incluyendo el Galaxy Z Fold8, con un diseño similar al esperado iPhone plegable de septiembre.",
-      "porQueImporta": "Para Guido, fan de Apple, es relevante ver cómo la competencia directa de Samsung avanza en el segmento de plegables, especialmente si su diseño se asemeja a lo que se espera del futuro iPhone plegable. Esto da una idea de las tendencias en hardware.",
-      "publicadoEn": "2026-07-22T13:01:00.000Z",
+      "url": "https://www.macrumors.com/2026/07/22/apple-seeds-ios-27-public-beta-2/",
+      "tituloOriginal": "Second iOS 27 and iPadOS 27 Public Betas Now Available",
+      "tituloLimpio": "Disponibles las segundas betas públicas de iOS 27 y iPadOS 27",
+      "resumen": "Apple lanzó las segundas betas públicas de iOS 27 y iPadOS 27, permitiendo a quienes tengan un dispositivo compatible descargar y probar el nuevo software.",
+      "porQueImporta": "Guido es usuario de Apple. Estar al tanto de las betas le permite conocer las próximas funcionalidades y prepararse para las actualizaciones finales, que podrían impactar su flujo de trabajo o el uso de sus dispositivos.",
+      "publicadoEn": "2026-07-22T17:40:10.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "samsung",
-        "galaxy z fold8",
-        "iphone plegable",
         "apple",
-        "hardware"
+        "ios",
+        "ipados",
+        "beta",
+        "actualizaciones"
       ],
       "tambienVistoEn": []
     },
@@ -178,20 +212,19 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/jose-daza-celebro-la-mejora-la-calificacion-moodys-ya-hay-brotes-verdes-n6302330",
-      "tituloOriginal": "José Luis Daza celebró la mejora en la calificación de Moody's: \"Ya hay brotes verdes\"",
-      "tituloLimpio": "José Luis Daza celebra la mejora de calificación de Moody's: 'Ya hay brotes verdes'",
-      "resumen": "El viceministro de Economía destacó la evaluación positiva de Moody’s, señalando que los desequilibrios macroeconómicos, no las elecciones, generan crisis.",
-      "porQueImporta": "Como inversor en Argentina, Guido necesita estar al tanto de las señales económicas. La mejora de calificación de Moody's y las declaraciones del viceministro son indicadores importantes sobre la percepción del riesgo país y el clima de inversión.",
-      "publicadoEn": "2026-07-22T13:40:00.000Z",
-      "globalScore": 98,
+      "url": "https://www.ambito.com/economia/el-salario-minimo-cayo-40-real-2023-cuanto-poder-compra-perdio-los-alimentos-basicos-n6302445",
+      "tituloOriginal": "El salario mínimo cayó 40% real desde 2023: cuánto poder de compra perdió sobre los alimentos básicos",
+      "tituloLimpio": "El salario mínimo cayó un 40% real desde 2023 en Argentina",
+      "resumen": "Un informe se enfoca en la caída del salario mínimo y cómo ese deterioro se refleja en la capacidad de compra de productos de la canasta básica o servicios.",
+      "porQueImporta": "Guido vive en Argentina. Esta noticia es crucial para entender el contexto económico local y cómo afecta el poder adquisitivo de la población, lo cual tiene implicaciones en el consumo y la economía general del país.",
+      "publicadoEn": "2026-07-22T17:05:00.000Z",
+      "globalScore": 90,
       "personalScore": 100,
       "tags": [
         "argentina",
+        "salario",
         "economía",
-        "moody's",
-        "inversión",
-        "brotes verdes"
+        "inflación"
       ],
       "tambienVistoEn": []
     },
@@ -199,19 +232,18 @@
       "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
       "categoria": "Marketing",
       "fuente": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/from-yamal-to-the-mall-how-american-eagle-is-going-back-to-school/825708/",
-      "tituloOriginal": "From Yamal to the mall: How American Eagle is going back to school",
-      "tituloLimpio": "American Eagle vuelve a clases con una estrategia de marketing renovada",
-      "resumen": "El CMO Craig Brommers detalla la extensa campaña de marketing del minorista para la temporada crucial, que comienza días después de que su embajador global Lamine Yamal y su equipo ganaran el oro en la Copa del Mundo.",
-      "porQueImporta": "Guido, interesado en marketing, puede analizar cómo una marca grande adapta su estrategia para una temporada clave, utilizando embajadores globales y eventos de alto perfil como la Copa del Mundo para conectar con su público objetivo.",
-      "publicadoEn": "2026-07-22T12:00:00.000Z",
-      "globalScore": 100,
+      "url": "https://www.marketingdive.com/news/hanes-embraces-risque-marketing-in-creative-shakeup-for-basics-brand/825871/",
+      "tituloOriginal": "Hanes embraces risqué marketing in creative shakeup for basics brand",
+      "tituloLimpio": "Hanes adopta marketing arriesgado en un cambio creativo para su marca",
+      "resumen": "Quedarse con los pantalones bajos se vuelve 'cool' en una serie de nuevos anuncios audaces de la marca con más de 125 años.",
+      "porQueImporta": "Guido se interesa en marketing. Esta noticia muestra una estrategia de marketing audaz y creativa de una marca establecida, lo que puede ofrecerle ideas o perspectivas sobre cómo las empresas buscan diferenciarse y captar la atención en el mercado actual.",
+      "publicadoEn": "2026-07-22T14:32:00.000Z",
+      "globalScore": 96,
       "personalScore": 100,
       "tags": [
         "marketing",
-        "american eagle",
-        "campaña",
-        "gen z",
+        "creatividad",
+        "publicidad",
         "estrategia"
       ],
       "tambienVistoEn": []
@@ -220,20 +252,20 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "tituloOriginal": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
-      "tituloLimpio": "Las guerras de navegadores ya no son por la búsqueda: alternativas a Chrome y Safari",
-      "resumen": "Se presenta un resumen de los principales navegadores alternativos disponibles hoy que buscan desafiar a Chrome y Safari.",
-      "porQueImporta": "Para Guido, que usa herramientas y automatización, es útil conocer las alternativas a los navegadores dominantes. Esto puede ofrecer nuevas funcionalidades, privacidad o rendimiento que mejoren su flujo de trabajo.",
-      "publicadoEn": "2026-07-22T13:20:35.000Z",
+      "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+      "tituloOriginal": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+      "tituloLimpio": "Laboratorio de IA de EE.UU. dice que los modelos de IA chinos no son inherentemente peligrosos",
+      "resumen": "Mientras los modelos de IA chinos crecen en capacidad y popularidad entre las empresas de EE.UU., la discusión sobre qué hacer con ellos ha llegado a un punto álgido.",
+      "porQueImporta": "Guido trabaja con IA. Esta noticia aborda un debate importante sobre la seguridad y el uso de modelos de IA de diferentes orígenes, lo cual es relevante para entender el panorama global de la IA y las posibles implicaciones éticas o de seguridad en su campo.",
+      "publicadoEn": "2026-07-22T16:24:08.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "navegadores",
-        "chrome",
-        "safari",
-        "alternativas",
-        "herramientas"
+        "ia",
+        "seguridad",
+        "modelos",
+        "china",
+        "eeuu"
       ],
       "tambienVistoEn": []
     },
@@ -241,20 +273,20 @@
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
       "fuente": "The Verge AI",
-      "url": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
-      "tituloOriginal": "Meta made its own AI detection system. It should have just used Google’s",
-      "tituloLimpio": "Meta creó su propio sistema de detección de IA",
-      "resumen": "Meta introdujo Content Seal, una tecnología de marca de agua invisible que etiqueta imágenes generadas por su nuevo modelo de IA, respondiendo a un llamado a emplear sus propias herramientas para frenar la difusión de contenido de IA engañoso.",
-      "porQueImporta": "Guido, que trabaja con arte e IA, debe estar al tanto de las herramientas de detección de IA. Esto es crucial para entender cómo las plataformas manejan el contenido generado por IA y cómo podría afectar su trabajo o la autenticidad de las imágenes.",
-      "publicadoEn": "2026-07-22T11:00:00.000Z",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
+      "tituloOriginal": "AMD commits up to $5 billion to Anthropic",
+      "tituloLimpio": "AMD se compromete a invertir hasta 5 mil millones en Anthropic",
+      "resumen": "AMD dice que invertirá hasta 5 mil millones en Anthropic, mientras ayuda a expandir la capacidad de computación de la empresa de IA.",
+      "porQueImporta": "Guido se interesa en IA y finanzas. Esta inversión masiva de AMD en una empresa de IA como Anthropic es una señal fuerte del crecimiento y la importancia del sector de la inteligencia artificial, lo que podría influir en sus decisiones de inversión o en la dirección de la industria.",
+      "publicadoEn": "2026-07-22T14:44:27.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "meta",
         "ia",
-        "detección de ia",
-        "content seal",
-        "arte con ia"
+        "inversión",
+        "amd",
+        "anthropic",
+        "finanzas"
       ],
       "tambienVistoEn": []
     },
@@ -264,17 +296,16 @@
       "fuente": "MIT Technology Review AI",
       "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
       "tituloOriginal": "Advancing next-gen AI with materials science innovation",
-      "tituloLimpio": "Avances en IA de próxima generación con innovación en ciencia de materiales",
-      "resumen": "La conversación sobre IA a menudo se centra en algoritmos o potencia informática, pero la innovación en materiales avanzados es fundamental para cada avance tecnológico de IA.",
-      "porQueImporta": "Para Guido, interesado en la IA aplicada, esta noticia destaca un aspecto menos visible pero fundamental: la ciencia de materiales. Entender que los avances en hardware son tan importantes como el software puede darle una perspectiva más completa del futuro de la IA.",
+      "tituloLimpio": "Avance de la IA de próxima generación con innovación en ciencia de materiales",
+      "resumen": "La conversación sobre IA a menudo se centra en algoritmos o inversiones en plantas de fabricación de semiconductores. Pero debajo de cada uno de estos avances hay otra capa de innovación que los hace posibles: los materiales avanzados.",
+      "porQueImporta": "Guido trabaja con IA. Esta noticia destaca la importancia de la ciencia de materiales en el desarrollo de la IA, un aspecto menos visible pero fundamental para la potencia de procesamiento y la memoria. Le da una perspectiva más profunda sobre los fundamentos tecnológicos de la IA.",
       "publicadoEn": "2026-07-21T10:37:34.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "ia",
-        "ciencia de materiales",
+        "materiales",
         "innovación",
-        "hardware",
         "tecnología"
       ],
       "tambienVistoEn": []
@@ -283,21 +314,19 @@
       "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Apple",
       "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/07/22/whatsapp-launches-apple-music-sharing-plus-more/",
-      "tituloOriginal": "WhatsApp launches Apple Music sharing, plus more",
-      "tituloLimpio": "WhatsApp lanza la función para compartir Apple Music y más",
-      "resumen": "WhatsApp anunció nuevas funciones, incluyendo el soporte para compartir actividad de Apple Music y Spotify en el Estado de WhatsApp, y un cambio de cuenta enfocado en iPad.",
-      "porQueImporta": "Como usuario de Apple, Guido encontrará útil la integración de Apple Music en WhatsApp y las mejoras para iPad, que facilitan el uso de la aplicación en su ecosistema.",
-      "publicadoEn": "2026-07-22T13:59:22.000Z",
+      "url": "https://9to5mac.com/2026/07/22/macos-27-public-beta-2-now-available-heres-how-to-install-it/",
+      "tituloOriginal": "macOS 27 public beta 2 now available, here’s how to install it",
+      "tituloLimpio": "macOS 27 beta pública 2 ya disponible",
+      "resumen": "Apple está lanzando la segunda beta pública de macOS 27. Aquí se explica cómo instalarla.",
+      "porQueImporta": "Guido es usuario de Apple. Conocer la disponibilidad de la beta pública de macOS 27 le permite explorar las nuevas características y mejoras del sistema operativo antes de su lanzamiento oficial, lo cual es relevante para su trabajo y uso personal.",
+      "publicadoEn": "2026-07-22T17:49:07.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "whatsapp",
-        "apple music",
-        "spotify",
-        "ipad",
         "apple",
-        "herramientas"
+        "macos",
+        "beta",
+        "actualizaciones"
       ],
       "tambienVistoEn": []
     },
@@ -305,43 +334,61 @@
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
       "categoria": "Apple",
       "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/07/22/at-last-whatsapp-for-ipad-can-be-set-up-without-another-device?utm_source=rss",
-      "tituloOriginal": "At last, WhatsApp for iPad can be set up without another device",
-      "tituloLimpio": "WhatsApp para iPad se puede configurar sin otro dispositivo",
-      "resumen": "WhatsApp está haciendo que su aplicación para iPad funcione más como un servicio independiente, permitiendo a los usuarios crear una cuenta sin configurarla primero en un teléfono.",
-      "porQueImporta": "Esta es una mejora significativa para los usuarios de iPad, como Guido, que buscan una experiencia más autónoma. Simplifica el uso de WhatsApp en el iPad, eliminando una dependencia previa del iPhone.",
-      "publicadoEn": "2026-07-22T13:31:45.000Z",
-      "globalScore": 92,
+      "url": "https://appleinsider.com/articles/26/07/22/lawmakers-want-trump-to-investigate-eus-anti-american-digital-markets-act?utm_source=rss",
+      "tituloOriginal": "Lawmakers want Trump to investigate EU's 'anti-American' Digital Markets Act",
+      "tituloLimpio": "Legisladores de EE.UU. quieren que se investigue la Ley de Mercados Digitales de la UE",
+      "resumen": "Legisladores de EE.UU. le escribieron al presidente Donald Trump, esperando que haga algo para ayudar a las grandes empresas tecnológicas afectadas por la Ley de Mercados Digitales de la UE.",
+      "porQueImporta": "Guido es usuario de Apple y le interesa el impacto global. Aunque es una cuestión regulatoria, afecta a grandes empresas tecnológicas como Apple y podría tener implicaciones en cómo operan estas compañías a nivel global, incluyendo la disponibilidad de servicios o productos.",
+      "publicadoEn": "2026-07-22T16:36:02.000Z",
+      "globalScore": 96,
       "personalScore": 100,
       "tags": [
-        "whatsapp",
-        "ipad",
         "apple",
-        "herramientas",
-        "productividad"
+        "regulación",
+        "ue",
+        "eeuu",
+        "negocios"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
-      "categoria": "Finance",
-      "fuente": "Yahoo Finance",
-      "url": "https://www.investors.com/news/technology/super-micro-soars-booming-margins-orders-dell-hp-enterprise/?src=A00220&yptr=yahoo",
-      "tituloOriginal": "Super Micro Soars On Booming Margins, Orders; Dell, HP Enterprise Also Rally",
-      "tituloLimpio": "Super Micro sube por márgenes y pedidos; Dell y HP Enterprise también repuntan",
-      "resumen": "Super Micro experimenta un aumento en sus acciones debido a márgenes y pedidos en auge; Dell y HP Enterprise también muestran un repunte.",
-      "porQueImporta": "Para Guido, interesado en inversiones, el rendimiento de estas empresas tecnológicas puede ser un indicador del estado del sector o de oportunidades de inversión en ETFs relacionados con tecnología y hardware.",
-      "publicadoEn": "2026-07-22T13:32:00.000Z",
-      "imagen": "https://media.zenfs.com/en/ibd.com/d2b3dd02680a114714d1d1d3704d9fd2",
-      "globalScore": 94,
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/linked/app-store-chaos/",
+      "tituloOriginal": "App Store Chaos",
+      "tituloLimpio": "Caos en la App Store por aplicaciones de IA",
+      "resumen": "Kalley Huang, escribiendo para The New York Times, habla sobre las aplicaciones creadas con la ayuda de agentes de IA que están inundando la App Store.",
+      "porQueImporta": "Guido trabaja con IA y usa productos Apple. La proliferación de apps de IA en la App Store es un tema relevante para entender la evolución del mercado de aplicaciones y la calidad de las herramientas de IA disponibles, lo cual puede influir en sus elecciones de software.",
+      "publicadoEn": "2026-07-22T15:54:17.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "inversión",
+        "ia",
+        "apple",
+        "app store",
+        "aplicaciones",
+        "tendencias"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/07/22/new-clarity-act-emerges-that-s-a-start-on-the-final-draft-makes-ethics-rule-temporary",
+      "tituloOriginal": "New Clarity Act emerges that's a start on the final draft, makes ethics rule temporary",
+      "tituloLimpio": "Nueva Ley de Claridad emerge como inicio del borrador final",
+      "resumen": "Legisladores han circulado el texto del último borrador que será impulsado hacia la meta en el Senado, pero aún debaten una pieza central de ética gubernamental.",
+      "porQueImporta": "Guido se interesa en finanzas. Aunque el resumen es limitado, una 'Ley de Claridad' en el ámbito financiero podría tener implicaciones para los mercados y la regulación, lo cual es relevante para sus intereses en inversión.",
+      "publicadoEn": "2026-07-22T16:15:55.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/6e4532d237786704984596878a883a023b94ba32-4540x2554.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
         "finanzas",
-        "tecnología",
-        "super micro",
-        "dell",
-        "hp enterprise"
+        "regulación",
+        "leyes"
       ],
       "tambienVistoEn": []
     },
@@ -349,21 +396,20 @@
       "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
       "categoria": "Finance",
       "fuente": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/agentic-ai-killer-use-case-blockchain-franklin-templeton?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "tituloOriginal": "Franklin Templeton calls agentic AI next ‘killer’ use case for blockchain",
-      "tituloLimpio": "Franklin Templeton ve la IA agéntica como el próximo 'caso de uso asesino' para blockchain",
-      "resumen": "El líder de activos digitales de Franklin Templeton sugiere que la economía de agentes de IA autónomos aumentará la demanda de protocolos blockchain para micropagos máquina a máquina.",
-      "porQueImporta": "Esta noticia conecta dos áreas de interés de Guido: IA y finanzas/inversión. La visión de Franklin Templeton sobre la IA agéntica y blockchain podría señalar futuras tendencias de inversión y desarrollo tecnológico.",
-      "publicadoEn": "2026-07-22T13:18:50.000Z",
-      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-develop-an-ai-agent-for-crypto-trading.jpg",
-      "globalScore": 94,
+      "url": "https://cointelegraph.com/news/anthropic-joins-uk-fcas-ai-regulatory-sandbox-as-second-cohort-launches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Anthropic joins UK FCA’s AI regulatory sandbox as second cohort launches",
+      "tituloLimpio": "Anthropic se une al 'sandbox' regulatorio de IA de la FCA del Reino Unido",
+      "resumen": "Anthropic proporcionará modelos de IA Claude a empresas que participen en el próximo grupo del 'Supercharged Sandbox' de la Autoridad de Conducta Financiera del Reino Unido.",
+      "porQueImporta": "Guido se interesa en IA y finanzas. La participación de Anthropic en un 'sandbox' regulatorio indica un esfuerzo por integrar la IA de manera segura en los servicios financieros, lo cual es una tendencia importante para el futuro de la IA aplicada y la inversión.",
+      "publicadoEn": "2026-07-22T17:57:11.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-trade-crypto-in-uk-fca-ai.png",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "ia",
-        "blockchain",
         "finanzas",
-        "inversión",
-        "automatización"
+        "regulación",
+        "anthropic"
       ],
       "tambienVistoEn": []
     },
@@ -371,43 +417,20 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/euro-hoy-en-uruguay-precio-y-cotizacion-de-la-divisa-este-miercoles-22-de-julio-de-2026_0_L2alJaq6jd.html",
-      "tituloOriginal": "Euro hoy en Uruguay: precio y cotización de la divisa este miércoles 22 de julio de 2026",
-      "tituloLimpio": "Euro hoy en Uruguay: precio y cotización de la divisa este miércoles 22 de julio de 2026",
-      "resumen": "Mirá la cotización del euro en Uruguay, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
-      "porQueImporta": "Aunque es sobre Uruguay, la cotización de divisas en países vecinos puede ser un indicador de tendencias regionales o tener un impacto indirecto en la economía argentina, relevante para un inversor como Guido.",
-      "publicadoEn": "2026-07-22T12:58:12.000Z",
-      "imagen": "https://www.clarin.com/img/2011/04/11/BklX7NkNe_1200x630.jpg",
+      "url": "https://www.clarin.com/economia/reforma-inocencia-fiscal-amplia-alcance-da-beneficios-mantiene-inseguridad-juridica_0_etY6whl9CN.html",
+      "tituloOriginal": "Reforma de la inocencia fiscal: amplía el alcance y da más beneficios, pero mantiene la inseguridad jurídica",
+      "tituloLimpio": "Reforma de la inocencia fiscal: amplía el alcance y da más beneficios, pero mantiene la inseguridad jurídica",
+      "resumen": "El nuevo proyecto de ley amplía el universo de contribuyentes alcanzados, reduce los riesgos de exclusión automática, fortalece ciertas garantías y busca generar condiciones más atractivas para la formalización de fondos.",
+      "porQueImporta": "Guido vive en Argentina y le interesa la inversión. Esta reforma fiscal podría tener un impacto directo en sus finanzas personales o en las oportunidades de inversión, así como en el clima de negocios del país.",
+      "publicadoEn": "2026-07-22T15:55:16.000Z",
+      "imagen": "https://www.clarin.com/img/2026/01/15/fmMMwaBl5_1200x630__1.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "argentina",
         "finanzas",
-        "euro",
-        "uruguay",
-        "divisas"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
-      "categoria": "Argentina",
-      "fuente": "Clarin Politica",
-      "url": "https://www.clarin.com/politica/primera-vez-gobierno-cede-administracion-ruta-nacional-provincia_0_HDXZsLX555.html",
-      "tituloOriginal": "Por primera vez, el Gobierno le cede la administración de una ruta nacional a una provincial",
-      "tituloLimpio": "El Gobierno cede la administración de una ruta nacional a una provincia por primera vez",
-      "resumen": "Se trata de la Ruta Nacional A012, que será traspasada a Santa Fe para que se haga cargo y la repare con fondos provinciales. Es una ruta clave para las exportaciones.",
-      "porQueImporta": "Esta noticia es relevante para Guido por su impacto en la infraestructura y la economía argentina, especialmente en las exportaciones. Refleja un cambio en la gestión de recursos y responsabilidades a nivel provincial.",
-      "publicadoEn": "2026-07-22T12:31:10.000Z",
-      "imagen": "https://www.clarin.com/img/2026/07/08/RufWLAlWI_1200x630__1.jpg",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "argentina",
-        "política",
-        "economía",
-        "infraestructura",
-        "exportaciones"
+        "impuestos",
+        "leyes"
       ],
       "tambienVistoEn": []
     },
@@ -415,43 +438,20 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/07/22/el-riesgo-pais-cae-despues-de-la-mejora-de-calificacion-de-moodys-y-se-vuelve-a-acercar-a-los-400-puntos/",
-      "tituloOriginal": "El riesgo país cae después de la mejora de calificación de Moody’s y se vuelve a acercar a los 400 puntos",
-      "tituloLimpio": "El riesgo país cae después de la mejora de calificación de Moody’s y se acerca a los 400 puntos",
-      "resumen": "Los bonos públicos ganan 0,5% en promedio y el indicador cede a 410 puntos, cerca de su nivel mínimo en ocho años.",
-      "porQueImporta": "Para Guido, inversor en Argentina, la caída del riesgo país es una señal muy positiva. Indica una mejora en la percepción de la economía y puede influir en sus decisiones de inversión en bonos o ETFs relacionados con el mercado local.",
-      "publicadoEn": "2026-07-22T13:47:52.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/4STEFNLM2VDTJL7RHBMHDXALRE.png?auth=77d601091d4176cd4fcba667fea7aeb16c70874607958b6d6820550e6ba07502&smart=true&width=1536&height=1024",
-      "globalScore": 94,
+      "url": "https://www.infobae.com/economia/2026/07/22/cambios-para-farmacias-inmobiliarias-navegacion-y-otros-sectores-que-dice-el-borrador-del-proyecto-de-ley-de-desregulacion/",
+      "tituloOriginal": "Cambios para farmacias, inmobiliarias, navegación y otros sectores: qué dice el borrador del proyecto de Ley de Desregulación",
+      "tituloLimpio": "Cambios para farmacias, inmobiliarias, navegación y otros sectores: qué dice el borrador del proyecto de Ley de Desregulación",
+      "resumen": "Infobae pudo acceder al anteproyecto en el que trabajan los equipos del ministro de Desregulación y Transformación del Estado, Federico Sturzenegger.",
+      "porQueImporta": "Guido vive en Argentina. Un proyecto de Ley de Desregulación con cambios en múltiples sectores puede generar nuevas oportunidades de negocio, afectar la economía general y el costo de vida, lo cual es relevante para sus intereses financieros y empresariales.",
+      "publicadoEn": "2026-07-22T18:02:55.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/TCJXXO6WANETVE66J6E6RN3MNE.jpg?auth=e636c4065ec0129c60a71befaabb3edc35540efd27110ba0f04a2541bfa7a934&smart=true&width=3000&height=2000",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "finanzas",
-        "riesgo país",
-        "moody's",
-        "inversión"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
-      "categoria": "Argentina",
-      "fuente": "Infobae Politica",
-      "url": "https://www.infobae.com/politica/2026/07/22/protestas-de-la-cgt-en-vivo-las-ultimas-noticias-sobre-los-cortes-y-acciones-hoy-22-de-julio/",
-      "tituloOriginal": "Protestas de la CGT, en vivo: la Infantería intenta despejar un piquete de agrupaciones de izquierda en Avellaneda",
-      "tituloLimpio": "Protestas de la CGT: la Infantería intenta despejar un piquete en Avellaneda",
-      "resumen": "Manifestantes y efectivos policiales se enfrentan en Avenida Hipólito Yrigoyen, en una jornada marcada por protestas de movimientos sociales.",
-      "porQueImporta": "Como residente en Buenos Aires, Guido debe estar al tanto de las protestas y cortes que pueden afectar su movilidad y la situación social del país. Es una noticia de actualidad relevante para su día a día.",
-      "publicadoEn": "2026-07-22T13:58:01.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/RKA5HCCZRZFNND2KAS2N42PB4Y.png?auth=e3836cdc8f883ceb292cad155c6e8f0a55c7a1cf5d2b924a867f981177d5ae63&smart=true&width=495&height=282",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "argentina",
-        "política",
-        "protestas",
-        "cgt",
-        "actualidad"
+        "economía",
+        "leyes",
+        "negocios"
       ],
       "tambienVistoEn": []
     },
@@ -459,21 +459,21 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/martin-caparros-reacciono-a-las-criticas-de-la-ola-antiargentina-tras-el-mundial-2026-nid22072026/",
-      "tituloOriginal": "Martín Caparrós reaccionó a las críticas de la “ola antiargentina” tras el Mundial 2026",
-      "tituloLimpio": "Martín Caparrós reaccionó a las críticas de la 'ola antiargentina' tras el Mundial 2026",
-      "resumen": "El escritor, que vive en España, publicó una columna en redes sociales en la que hizo un repaso por la historia del país.",
-      "porQueImporta": "Aunque no es directamente de finanzas o tecnología, esta noticia refleja un debate cultural y social relevante para un argentino como Guido, especialmente después de un evento global como el Mundial. Puede generar reflexión sobre la identidad y percepción del país.",
-      "publicadoEn": "2026-07-22T13:56:26.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/WWNO3L3R45FB3MPTNLQT5OZZXY.JPEG?auth=da0d3c657e1a5943555fd490ab7f78f664d5265446e60f55de8c737a3b635fd1&smart=true&width=2500&height=1668",
-      "globalScore": 100,
+      "url": "https://www.lanacion.com.ar/economia/canje-de-deuda-el-gobierno-descomprimio-un-vencimiento-clave-y-apuesta-a-quitarle-presion-al-dolar-nid22072026/",
+      "tituloOriginal": "Canje de deuda: el Gobierno descomprimió un vencimiento clave y apuesta a quitarle presión al dólar",
+      "tituloLimpio": "Canje de deuda: el Gobierno descomprimió un vencimiento clave y apuesta a quitarle presión al dólar",
+      "resumen": "Canjeó el 45% de una letra atada al tipo de cambio oficial que vencía el 31 de julio y redujo los compromisos de fin de mes de $11,2 billones a $8,4 billones.",
+      "porQueImporta": "Guido vive en Argentina y le interesa la inversión. El canje de deuda es una medida económica importante que puede influir en la estabilidad del tipo de cambio y en la percepción de riesgo del país, afectando sus decisiones de inversión.",
+      "publicadoEn": "2026-07-22T17:50:57.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/SRLNX7XLGZDUHGQ7NDE3S7QMM4.jpg?auth=0fb77991755c4ebc8093acc4f47082058106589c88fd57cec0e09b4d110e7755&smart=true&width=2000&height=1333",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "cultura",
-        "sociedad",
-        "mundial 2026",
-        "martín caparrós"
+        "deuda",
+        "economía",
+        "dólar",
+        "inversión"
       ],
       "tambienVistoEn": []
     },
@@ -481,27 +481,26 @@
       "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Politica",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-movimientos-en-el-oficialismo-y-reactivacion-de-la-agenda-nid22072026/",
-      "tituloOriginal": "Javier Milei y sus medidas, en vivo: movimientos en el oficialismo y reactivación de la agenda parlamentaria",
-      "tituloLimpio": "Javier Milei y sus medidas: movimientos en el oficialismo y reactivación de la agenda parlamentaria",
-      "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios.",
-      "porQueImporta": "Para Guido, como ciudadano argentino, es fundamental seguir la agenda política y las decisiones del gobierno, ya que impactan directamente en la economía, las regulaciones y el clima general del país.",
-      "publicadoEn": "2026-07-22T13:46:51.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/N7EFDB4SLRCANBIIOWKJ67DDPQ.JPG?auth=301d6b196b109dd5f3276b08b19fc4515b15bc71e2a8e187e8b44cdac851a918&smart=true&width=3333&height=2222",
+      "url": "https://www.lanacion.com.ar/politica/violento-enfrentamiento-entre-piqueteros-y-las-fuerzas-de-seguridad-en-protestas-contra-el-gobierno-nid22072026/",
+      "tituloOriginal": "Violento enfrentamiento entre piqueteros y las fuerzas de seguridad en protestas contra el Gobierno por la baja de un plan social",
+      "tituloLimpio": "Violento enfrentamiento entre piqueteros y fuerzas de seguridad en protestas contra el Gobierno",
+      "resumen": "Organizaciones como la UTEP y el Polo Obrero intentaron bloquear accesos a la Capital Federal; se registraron incidentes en el Puente Pueyrredón y en Rosario.",
+      "porQueImporta": "Guido vive en Argentina. Los conflictos sociales y las protestas pueden generar inestabilidad y afectar la vida cotidiana, el transporte y el clima de negocios, lo cual es relevante para su contexto personal y profesional.",
+      "publicadoEn": "2026-07-22T18:00:03.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/AASRRFNT5VFBZN6LHC3QIQV2UA.JPG?auth=ae8da75197bc8523b97877a87f4734725f5839c3025fca37ce283401fdadedd8&smart=true&width=2000&height=1333",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "argentina",
         "política",
-        "javier milei",
-        "gobierno",
-        "agenda parlamentaria"
+        "protestas",
+        "sociedad"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-07-22T14:02:06.797Z"
+    "generadoEn": "2026-07-22T18:07:35.538Z"
   }
 }
