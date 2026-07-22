@@ -1,0 +1,507 @@
+{
+  "fecha": "2026-07-22",
+  "generadoEn": "2026-07-22T14:02:06.797Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "Hoy se destacan novedades en el ecosistema Apple con mejoras en WhatsApp para iPad y la posibilidad de compartir Apple Music. En el ámbito de la IA, Google y Meta presentan sus avances, mientras que se discute el futuro de los navegadores. La economía argentina muestra señales positivas con la mejora de calificación de Moody's y la caída del riesgo país, aunque persisten las protestas. También hay noticias sobre marketing y finanzas, incluyendo el uso de IA en blockchain.",
+  "radarPersonal": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Google presenta novedades para usuarios de Samsung en Galaxy Unpacked 2026",
+      "resumen": "Se compartieron actualizaciones para que los usuarios de Samsung aumenten la productividad en nuevos dispositivos plegables, relojes y gafas.",
+      "categoria": "AI",
+      "fuentes": [
+        "Google AI Blog"
+      ],
+      "urls": [
+        "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/"
+      ],
+      "score": 100,
+      "tags": [
+        "google",
+        "samsung",
+        "productividad",
+        "galaxy unpacked"
+      ]
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Primeras impresiones del Samsung Galaxy Z Fold8, lo más parecido a un iPhone plegable",
+      "resumen": "Samsung presentó sus últimos dispositivos plegables, incluyendo el Galaxy Z Fold8, con un diseño similar al esperado iPhone plegable de septiembre.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/07/22/samsung-galaxy-z-fold8/"
+      ],
+      "score": 100,
+      "tags": [
+        "samsung",
+        "galaxy z fold8",
+        "iphone plegable",
+        "dispositivos plegables"
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "José Luis Daza celebra la mejora de calificación de Moody's: 'Ya hay brotes verdes'",
+      "resumen": "El viceministro de Economía destacó la evaluación positiva de Moody’s, señalando que los desequilibrios macroeconómicos, no las elecciones, generan crisis.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/jose-daza-celebro-la-mejora-la-calificacion-moodys-ya-hay-brotes-verdes-n6302330"
+      ],
+      "score": 100,
+      "tags": [
+        "argentina",
+        "economía",
+        "moody's",
+        "brotes verdes"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "Las guerras de navegadores ya no son por la búsqueda: alternativas a Chrome y Safari",
+      "resumen": "Se presenta un resumen de los principales navegadores alternativos disponibles hoy que buscan desafiar a Chrome y Safari.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/"
+      ],
+      "score": 100,
+      "tags": [
+        "navegadores",
+        "chrome",
+        "safari",
+        "alternativas"
+      ]
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "titulo": "WhatsApp lanza la función para compartir Apple Music y más",
+      "resumen": "WhatsApp anunció nuevas funciones, incluyendo el soporte para compartir actividad de Apple Music y Spotify en el Estado de WhatsApp, y un cambio de cuenta enfocado en iPad.",
+      "categoria": "Apple",
+      "fuentes": [
+        "9to5Mac"
+      ],
+      "urls": [
+        "https://9to5mac.com/2026/07/22/whatsapp-launches-apple-music-sharing-plus-more/"
+      ],
+      "score": 100,
+      "tags": [
+        "whatsapp",
+        "apple music",
+        "spotify",
+        "ipad",
+        "nuevas funciones"
+      ]
+    }
+  ],
+  "loImportante": [
+    "La economía argentina muestra signos de mejora con la calificación de Moody's y la caída del riesgo país.",
+    "WhatsApp introduce nuevas funciones, incluyendo la posibilidad de compartir Apple Music y una mejor experiencia para iPad.",
+    "Se intensifica la competencia en el mercado de navegadores, con alternativas a Chrome y Safari ganando terreno.",
+    "Google y Meta avanzan en IA, con Google presentando actualizaciones para Samsung y Meta desarrollando su propio sistema de detección de IA.",
+    "La innovación en ciencia de materiales es clave para el avance de la próxima generación de IA."
+  ],
+  "oportunidades": [
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "AI",
+      "titulo": "Franklin Templeton ve la IA agéntica como el próximo 'caso de uso asesino' para blockchain",
+      "detalle": "El líder de activos digitales de Franklin Templeton sugiere que la economía de agentes de IA autónomos aumentará la demanda de protocolos blockchain para micropagos máquina a máquina.",
+      "acciones": [
+        "Investigar el potencial de la IA agéntica y blockchain para automatización y micropagos.",
+        "Explorar cómo esta tendencia podría impactar en la inversión en ETFs relacionados con IA y blockchain."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Market",
+      "titulo": "EE.UU. busca confiscar 25 millones de dólares en criptomonedas vinculadas a estafas",
+      "detalle": "Las autoridades federales han recuperado más de 800 millones de dólares en casos de estafas de romance e inversión con criptomonedas.",
+      "mitigacion": "Mantenerse informado sobre las regulaciones y riesgos en el mercado de criptomonedas. Priorizar inversiones en activos regulados y con historial probado."
+    }
+  ],
+  "conexiones": [],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+      "tituloOriginal": "3 Google updates from Galaxy Unpacked 2026",
+      "tituloLimpio": "Google presenta novedades para usuarios de Samsung en Galaxy Unpacked 2026",
+      "resumen": "Se compartieron actualizaciones para que los usuarios de Samsung aumenten la productividad en nuevos dispositivos plegables, relojes y gafas.",
+      "porQueImporta": "Guido, como usuario de tecnología y entusiasta de la IA, podría interesarle cómo Google integra sus avances en dispositivos de la competencia, especialmente si estas mejoras de productividad llegan a otros ecosistemas o marcan tendencias en la industria.",
+      "publicadoEn": "2026-07-22T13:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "google",
+        "samsung",
+        "productividad",
+        "galaxy unpacked",
+        "ia"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/07/22/samsung-galaxy-z-fold8/",
+      "tituloOriginal": "Hands-On With Samsung's Galaxy Z Fold8, the Closest Thing Yet to a Foldable iPhone",
+      "tituloLimpio": "Primeras impresiones del Samsung Galaxy Z Fold8, lo más parecido a un iPhone plegable",
+      "resumen": "Samsung presentó sus últimos dispositivos plegables, incluyendo el Galaxy Z Fold8, con un diseño similar al esperado iPhone plegable de septiembre.",
+      "porQueImporta": "Para Guido, fan de Apple, es relevante ver cómo la competencia directa de Samsung avanza en el segmento de plegables, especialmente si su diseño se asemeja a lo que se espera del futuro iPhone plegable. Esto da una idea de las tendencias en hardware.",
+      "publicadoEn": "2026-07-22T13:01:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "samsung",
+        "galaxy z fold8",
+        "iphone plegable",
+        "apple",
+        "hardware"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/jose-daza-celebro-la-mejora-la-calificacion-moodys-ya-hay-brotes-verdes-n6302330",
+      "tituloOriginal": "José Luis Daza celebró la mejora en la calificación de Moody's: \"Ya hay brotes verdes\"",
+      "tituloLimpio": "José Luis Daza celebra la mejora de calificación de Moody's: 'Ya hay brotes verdes'",
+      "resumen": "El viceministro de Economía destacó la evaluación positiva de Moody’s, señalando que los desequilibrios macroeconómicos, no las elecciones, generan crisis.",
+      "porQueImporta": "Como inversor en Argentina, Guido necesita estar al tanto de las señales económicas. La mejora de calificación de Moody's y las declaraciones del viceministro son indicadores importantes sobre la percepción del riesgo país y el clima de inversión.",
+      "publicadoEn": "2026-07-22T13:40:00.000Z",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "economía",
+        "moody's",
+        "inversión",
+        "brotes verdes"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/from-yamal-to-the-mall-how-american-eagle-is-going-back-to-school/825708/",
+      "tituloOriginal": "From Yamal to the mall: How American Eagle is going back to school",
+      "tituloLimpio": "American Eagle vuelve a clases con una estrategia de marketing renovada",
+      "resumen": "El CMO Craig Brommers detalla la extensa campaña de marketing del minorista para la temporada crucial, que comienza días después de que su embajador global Lamine Yamal y su equipo ganaran el oro en la Copa del Mundo.",
+      "porQueImporta": "Guido, interesado en marketing, puede analizar cómo una marca grande adapta su estrategia para una temporada clave, utilizando embajadores globales y eventos de alto perfil como la Copa del Mundo para conectar con su público objetivo.",
+      "publicadoEn": "2026-07-22T12:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "american eagle",
+        "campaña",
+        "gen z",
+        "estrategia"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "tituloOriginal": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+      "tituloLimpio": "Las guerras de navegadores ya no son por la búsqueda: alternativas a Chrome y Safari",
+      "resumen": "Se presenta un resumen de los principales navegadores alternativos disponibles hoy que buscan desafiar a Chrome y Safari.",
+      "porQueImporta": "Para Guido, que usa herramientas y automatización, es útil conocer las alternativas a los navegadores dominantes. Esto puede ofrecer nuevas funcionalidades, privacidad o rendimiento que mejoren su flujo de trabajo.",
+      "publicadoEn": "2026-07-22T13:20:35.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "navegadores",
+        "chrome",
+        "safari",
+        "alternativas",
+        "herramientas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
+      "tituloOriginal": "Meta made its own AI detection system. It should have just used Google’s",
+      "tituloLimpio": "Meta creó su propio sistema de detección de IA",
+      "resumen": "Meta introdujo Content Seal, una tecnología de marca de agua invisible que etiqueta imágenes generadas por su nuevo modelo de IA, respondiendo a un llamado a emplear sus propias herramientas para frenar la difusión de contenido de IA engañoso.",
+      "porQueImporta": "Guido, que trabaja con arte e IA, debe estar al tanto de las herramientas de detección de IA. Esto es crucial para entender cómo las plataformas manejan el contenido generado por IA y cómo podría afectar su trabajo o la autenticidad de las imágenes.",
+      "publicadoEn": "2026-07-22T11:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "meta",
+        "ia",
+        "detección de ia",
+        "content seal",
+        "arte con ia"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+      "tituloOriginal": "Advancing next-gen AI with materials science innovation",
+      "tituloLimpio": "Avances en IA de próxima generación con innovación en ciencia de materiales",
+      "resumen": "La conversación sobre IA a menudo se centra en algoritmos o potencia informática, pero la innovación en materiales avanzados es fundamental para cada avance tecnológico de IA.",
+      "porQueImporta": "Para Guido, interesado en la IA aplicada, esta noticia destaca un aspecto menos visible pero fundamental: la ciencia de materiales. Entender que los avances en hardware son tan importantes como el software puede darle una perspectiva más completa del futuro de la IA.",
+      "publicadoEn": "2026-07-21T10:37:34.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "ciencia de materiales",
+        "innovación",
+        "hardware",
+        "tecnología"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/22/whatsapp-launches-apple-music-sharing-plus-more/",
+      "tituloOriginal": "WhatsApp launches Apple Music sharing, plus more",
+      "tituloLimpio": "WhatsApp lanza la función para compartir Apple Music y más",
+      "resumen": "WhatsApp anunció nuevas funciones, incluyendo el soporte para compartir actividad de Apple Music y Spotify en el Estado de WhatsApp, y un cambio de cuenta enfocado en iPad.",
+      "porQueImporta": "Como usuario de Apple, Guido encontrará útil la integración de Apple Music en WhatsApp y las mejoras para iPad, que facilitan el uso de la aplicación en su ecosistema.",
+      "publicadoEn": "2026-07-22T13:59:22.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "whatsapp",
+        "apple music",
+        "spotify",
+        "ipad",
+        "apple",
+        "herramientas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/07/22/at-last-whatsapp-for-ipad-can-be-set-up-without-another-device?utm_source=rss",
+      "tituloOriginal": "At last, WhatsApp for iPad can be set up without another device",
+      "tituloLimpio": "WhatsApp para iPad se puede configurar sin otro dispositivo",
+      "resumen": "WhatsApp está haciendo que su aplicación para iPad funcione más como un servicio independiente, permitiendo a los usuarios crear una cuenta sin configurarla primero en un teléfono.",
+      "porQueImporta": "Esta es una mejora significativa para los usuarios de iPad, como Guido, que buscan una experiencia más autónoma. Simplifica el uso de WhatsApp en el iPad, eliminando una dependencia previa del iPhone.",
+      "publicadoEn": "2026-07-22T13:31:45.000Z",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "whatsapp",
+        "ipad",
+        "apple",
+        "herramientas",
+        "productividad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/news/technology/super-micro-soars-booming-margins-orders-dell-hp-enterprise/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Super Micro Soars On Booming Margins, Orders; Dell, HP Enterprise Also Rally",
+      "tituloLimpio": "Super Micro sube por márgenes y pedidos; Dell y HP Enterprise también repuntan",
+      "resumen": "Super Micro experimenta un aumento en sus acciones debido a márgenes y pedidos en auge; Dell y HP Enterprise también muestran un repunte.",
+      "porQueImporta": "Para Guido, interesado en inversiones, el rendimiento de estas empresas tecnológicas puede ser un indicador del estado del sector o de oportunidades de inversión en ETFs relacionados con tecnología y hardware.",
+      "publicadoEn": "2026-07-22T13:32:00.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/d2b3dd02680a114714d1d1d3704d9fd2",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "inversión",
+        "finanzas",
+        "tecnología",
+        "super micro",
+        "dell",
+        "hp enterprise"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/agentic-ai-killer-use-case-blockchain-franklin-templeton?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Franklin Templeton calls agentic AI next ‘killer’ use case for blockchain",
+      "tituloLimpio": "Franklin Templeton ve la IA agéntica como el próximo 'caso de uso asesino' para blockchain",
+      "resumen": "El líder de activos digitales de Franklin Templeton sugiere que la economía de agentes de IA autónomos aumentará la demanda de protocolos blockchain para micropagos máquina a máquina.",
+      "porQueImporta": "Esta noticia conecta dos áreas de interés de Guido: IA y finanzas/inversión. La visión de Franklin Templeton sobre la IA agéntica y blockchain podría señalar futuras tendencias de inversión y desarrollo tecnológico.",
+      "publicadoEn": "2026-07-22T13:18:50.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-develop-an-ai-agent-for-crypto-trading.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "blockchain",
+        "finanzas",
+        "inversión",
+        "automatización"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/euro-hoy-en-uruguay-precio-y-cotizacion-de-la-divisa-este-miercoles-22-de-julio-de-2026_0_L2alJaq6jd.html",
+      "tituloOriginal": "Euro hoy en Uruguay: precio y cotización de la divisa este miércoles 22 de julio de 2026",
+      "tituloLimpio": "Euro hoy en Uruguay: precio y cotización de la divisa este miércoles 22 de julio de 2026",
+      "resumen": "Mirá la cotización del euro en Uruguay, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
+      "porQueImporta": "Aunque es sobre Uruguay, la cotización de divisas en países vecinos puede ser un indicador de tendencias regionales o tener un impacto indirecto en la economía argentina, relevante para un inversor como Guido.",
+      "publicadoEn": "2026-07-22T12:58:12.000Z",
+      "imagen": "https://www.clarin.com/img/2011/04/11/BklX7NkNe_1200x630.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "finanzas",
+        "euro",
+        "uruguay",
+        "divisas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/primera-vez-gobierno-cede-administracion-ruta-nacional-provincia_0_HDXZsLX555.html",
+      "tituloOriginal": "Por primera vez, el Gobierno le cede la administración de una ruta nacional a una provincial",
+      "tituloLimpio": "El Gobierno cede la administración de una ruta nacional a una provincia por primera vez",
+      "resumen": "Se trata de la Ruta Nacional A012, que será traspasada a Santa Fe para que se haga cargo y la repare con fondos provinciales. Es una ruta clave para las exportaciones.",
+      "porQueImporta": "Esta noticia es relevante para Guido por su impacto en la infraestructura y la economía argentina, especialmente en las exportaciones. Refleja un cambio en la gestión de recursos y responsabilidades a nivel provincial.",
+      "publicadoEn": "2026-07-22T12:31:10.000Z",
+      "imagen": "https://www.clarin.com/img/2026/07/08/RufWLAlWI_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "política",
+        "economía",
+        "infraestructura",
+        "exportaciones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/07/22/el-riesgo-pais-cae-despues-de-la-mejora-de-calificacion-de-moodys-y-se-vuelve-a-acercar-a-los-400-puntos/",
+      "tituloOriginal": "El riesgo país cae después de la mejora de calificación de Moody’s y se vuelve a acercar a los 400 puntos",
+      "tituloLimpio": "El riesgo país cae después de la mejora de calificación de Moody’s y se acerca a los 400 puntos",
+      "resumen": "Los bonos públicos ganan 0,5% en promedio y el indicador cede a 410 puntos, cerca de su nivel mínimo en ocho años.",
+      "porQueImporta": "Para Guido, inversor en Argentina, la caída del riesgo país es una señal muy positiva. Indica una mejora en la percepción de la economía y puede influir en sus decisiones de inversión en bonos o ETFs relacionados con el mercado local.",
+      "publicadoEn": "2026-07-22T13:47:52.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/4STEFNLM2VDTJL7RHBMHDXALRE.png?auth=77d601091d4176cd4fcba667fea7aeb16c70874607958b6d6820550e6ba07502&smart=true&width=1536&height=1024",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "finanzas",
+        "riesgo país",
+        "moody's",
+        "inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/07/22/protestas-de-la-cgt-en-vivo-las-ultimas-noticias-sobre-los-cortes-y-acciones-hoy-22-de-julio/",
+      "tituloOriginal": "Protestas de la CGT, en vivo: la Infantería intenta despejar un piquete de agrupaciones de izquierda en Avellaneda",
+      "tituloLimpio": "Protestas de la CGT: la Infantería intenta despejar un piquete en Avellaneda",
+      "resumen": "Manifestantes y efectivos policiales se enfrentan en Avenida Hipólito Yrigoyen, en una jornada marcada por protestas de movimientos sociales.",
+      "porQueImporta": "Como residente en Buenos Aires, Guido debe estar al tanto de las protestas y cortes que pueden afectar su movilidad y la situación social del país. Es una noticia de actualidad relevante para su día a día.",
+      "publicadoEn": "2026-07-22T13:58:01.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/RKA5HCCZRZFNND2KAS2N42PB4Y.png?auth=e3836cdc8f883ceb292cad155c6e8f0a55c7a1cf5d2b924a867f981177d5ae63&smart=true&width=495&height=282",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "política",
+        "protestas",
+        "cgt",
+        "actualidad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/martin-caparros-reacciono-a-las-criticas-de-la-ola-antiargentina-tras-el-mundial-2026-nid22072026/",
+      "tituloOriginal": "Martín Caparrós reaccionó a las críticas de la “ola antiargentina” tras el Mundial 2026",
+      "tituloLimpio": "Martín Caparrós reaccionó a las críticas de la 'ola antiargentina' tras el Mundial 2026",
+      "resumen": "El escritor, que vive en España, publicó una columna en redes sociales en la que hizo un repaso por la historia del país.",
+      "porQueImporta": "Aunque no es directamente de finanzas o tecnología, esta noticia refleja un debate cultural y social relevante para un argentino como Guido, especialmente después de un evento global como el Mundial. Puede generar reflexión sobre la identidad y percepción del país.",
+      "publicadoEn": "2026-07-22T13:56:26.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/WWNO3L3R45FB3MPTNLQT5OZZXY.JPEG?auth=da0d3c657e1a5943555fd490ab7f78f664d5265446e60f55de8c737a3b635fd1&smart=true&width=2500&height=1668",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "cultura",
+        "sociedad",
+        "mundial 2026",
+        "martín caparrós"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Politica",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-movimientos-en-el-oficialismo-y-reactivacion-de-la-agenda-nid22072026/",
+      "tituloOriginal": "Javier Milei y sus medidas, en vivo: movimientos en el oficialismo y reactivación de la agenda parlamentaria",
+      "tituloLimpio": "Javier Milei y sus medidas: movimientos en el oficialismo y reactivación de la agenda parlamentaria",
+      "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios.",
+      "porQueImporta": "Para Guido, como ciudadano argentino, es fundamental seguir la agenda política y las decisiones del gobierno, ya que impactan directamente en la economía, las regulaciones y el clima general del país.",
+      "publicadoEn": "2026-07-22T13:46:51.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/N7EFDB4SLRCANBIIOWKJ67DDPQ.JPG?auth=301d6b196b109dd5f3276b08b19fc4515b15bc71e2a8e187e8b44cdac851a918&smart=true&width=3333&height=2222",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "política",
+        "javier milei",
+        "gobierno",
+        "agenda parlamentaria"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-07-22T14:02:06.797Z"
+  }
+}
