@@ -1,144 +1,151 @@
 {
   "fecha": "2026-07-23",
-  "generadoEn": "2026-07-23T14:07:20.647Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "En el panorama tecnológico, Google anunció novedades para usuarios de Samsung, mientras que Apple enfrenta una demanda de OpenAI y la incertidumbre sobre el lanzamiento del iPhone Ultra. En Argentina, el gobierno creó un sistema para la trazabilidad animal y se observa una caída en el consumo y la actividad industrial. El dólar mantiene sus cotizaciones y se reporta una estafa en el gremio de Camioneros. En marketing, Ugg lanzó una campaña de regreso a clases y se publicó un informe sobre fusiones y adquisiciones. En finanzas, Uniswap avanza en activos tokenizados y se analiza el crecimiento de dividendos de Costco.",
+  "generadoEn": "2026-07-23T18:12:24.225Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Hoy, las novedades giran en torno a la integración de ChatGPT con Apple Health, la presentación de las gafas inteligentes de Samsung y Google, y actualizaciones importantes de Google para dispositivos Samsung. En Argentina, se observa una caída en la producción industrial y el consumo masivo, mientras que un emprendedor local lleva su startup de IA al mundo. También hay noticias sobre litigios de holdouts y el avance de un proyecto de propiedad privada.",
   "radarPersonal": [
     {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Integración de ChatGPT con Apple Health se lanza para usuarios en EE.UU.",
+      "resumen": "La función Health in ChatGPT, que integra registros médicos y datos de Apple Health, se está implementando para usuarios de ChatGPT en Estados Unidos.",
+      "categoria": "AI",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/07/23/chatgpt-apple-health-integration/"
+      ],
+      "score": 100,
+      "tags": [
+        "chatgpt",
+        "apple",
+        "health",
+        "integración"
+      ]
+    },
+    {
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "titulo": "Demanda de Apple a OpenAI: la disputa por el futuro post-smartphone",
-      "resumen": "La demanda de Apple contra OpenAI por secretos comerciales podría definir quién lidera la era post-smartphone.",
+      "titulo": "Así son las gafas inteligentes de Samsung y Google",
+      "resumen": "Samsung mostró sus próximas gafas inteligentes, revelando dos diseños nuevos y las primeras especificaciones, incluyendo una batería de 9 horas. Las gafas, desarrolladas con Google, se lanzarán este otoño.",
       "categoria": "AI",
       "fuentes": [
         "The Verge AI"
       ],
       "urls": [
-        "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive"
+        "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker"
       ],
       "score": 100,
       "tags": [
-        "apple",
-        "openai",
-        "demanda",
-        "post-smartphone"
+        "samsung",
+        "google",
+        "gafas inteligentes",
+        "lanzamiento"
       ]
     },
     {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "El Gobierno argentino creó un sistema para la trazabilidad animal",
-      "resumen": "Se lanzó TRAZA, una herramienta informática optativa para centralizar la información ganadera y facilitar el uso de ganado como garantía.",
-      "categoria": "Argentina",
-      "fuentes": [
-        "Ambito"
-      ],
-      "urls": [
-        "https://www.ambito.com/economia/el-gobierno-creo-un-sistema-informatico-centralizar-la-trazabilidad-animal-y-facilitar-el-uso-ganado-como-garantia-n6302660"
-      ],
-      "score": 100,
-      "tags": [
-        "gobierno",
-        "sistema",
-        "trazabilidad",
-        "ganado",
-        "garantía"
-      ]
-    },
-    {
-      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
-      "titulo": "El lanzamiento del iPhone Ultra sigue sin fecha clara por ajustes de producción",
-      "resumen": "El momento exacto del lanzamiento del iPhone Ultra no está claro debido a los 'ajustes finales de producción' que está haciendo Foxconn.",
-      "categoria": "Apple",
-      "fuentes": [
-        "9to5Mac"
-      ],
-      "urls": [
-        "https://9to5mac.com/2026/07/23/iphone-ultra-timing-remains-unclear-as-final-production-adjustments-made/"
-      ],
-      "score": 100,
-      "tags": [
-        "iphone",
-        "ultra",
-        "lanzamiento",
-        "producción"
-      ]
-    },
-    {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "titulo": "La IA ayuda a los científicos a diseñar la próxima generación de medicamentos",
-      "resumen": "La IA contribuye al diseño y desarrollo de nuevos medicamentos, un proceso costoso y propenso a fallas.",
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Tres actualizaciones de Google desde Galaxy Unpacked 2026",
+      "resumen": "Se compartieron novedades sobre cómo los usuarios de Samsung pueden mejorar la productividad en los nuevos plegables, relojes y gafas que saldrán pronto.",
       "categoria": "AI",
       "fuentes": [
-        "MIT Technology Review AI"
+        "Google AI Blog"
       ],
       "urls": [
-        "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/"
+        "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/"
       ],
       "score": 100,
       "tags": [
+        "google",
+        "samsung",
+        "productividad",
+        "dispositivos"
+      ]
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "titulo": "Emprendedor argentino lleva su startup de IA al mundo",
+      "resumen": "Bruno Ruyú fundó Teramot, una compañía que resuelve un problema clave para que la inteligencia artificial funcione dentro de las organizaciones.",
+      "categoria": "AI",
+      "fuentes": [
+        "La Nacion Economia"
+      ],
+      "urls": [
+        "https://www.lanacion.com.ar/economia/IA/dejo-la-investigacion-en-fisica-aposto-por-la-ia-y-hoy-lleva-su-startup-de-la-argentina-al-mundo-nid23072026/"
+      ],
+      "score": 100,
+      "tags": [
+        "argentina",
         "ia",
-        "medicamentos",
-        "ciencia",
-        "desarrollo"
+        "startup",
+        "emprendimiento"
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "titulo": "Cómo construir una presencia de marca en Reddit en 2026",
+      "resumen": "Para construir una presencia de marca orgánica en Reddit, se deben seguir pasos clave.",
+      "categoria": "Marketing",
+      "fuentes": [
+        "Marketing Dive"
+      ],
+      "urls": [
+        "https://www.marketingdive.com/news/how-to-build-a-brand-presence-on-reddit-in-2026/826020/"
+      ],
+      "score": 100,
+      "tags": [
+        "marketing",
+        "reddit",
+        "marca",
+        "presencia online"
       ]
     }
   ],
   "loImportante": [
-    "La demanda de Apple a OpenAI podría redefinir el futuro de la IA y los dispositivos post-smartphone.",
-    "El gobierno argentino implementó un sistema para la trazabilidad animal, relevante para el sector ganadero.",
-    "El consumo y la actividad industrial en Argentina siguen en baja, impactando la economía local.",
-    "La IA está transformando el desarrollo de medicamentos, haciendo el proceso más eficiente.",
-    "La incertidumbre sobre el lanzamiento del iPhone Ultra sugiere desafíos en la cadena de producción de Apple."
+    "La integración de ChatGPT con Apple Health se está expandiendo, lo que podría cambiar cómo se gestionan los datos de salud con IA.",
+    "Samsung y Google presentaron sus gafas inteligentes, un avance en dispositivos wearables con IA.",
+    "La producción industrial y el consumo masivo en Argentina siguen en caída, señal de un contexto económico desafiante.",
+    "Un emprendedor argentino logró llevar su startup de IA al ámbito global, destacando el potencial local en tecnología.",
+    "Se reavivan los litigios de holdouts contra la provincia de Buenos Aires, generando incertidumbre financiera."
   ],
   "oportunidades": [
     {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "categoria": "Automation",
-      "titulo": "Nuevo sistema de trazabilidad animal en Argentina",
-      "detalle": "El sistema TRAZA centraliza la información ganadera y facilita el uso de ganado como garantía, lo que podría simplificar procesos y mejorar la transparencia en el sector.",
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "AI",
+      "titulo": "Emprendimiento argentino de IA con alcance global",
+      "detalle": "La startup Teramot, fundada por Bruno Ruyú, resuelve un problema clave para la implementación de IA en organizaciones, demostrando que es posible escalar desde Argentina.",
       "acciones": [
-        "Investigar cómo este sistema puede integrarse con herramientas de gestión o automatización para productores ganaderos.",
-        "Analizar posibles oportunidades de negocio en el desarrollo de software o servicios complementarios para TRAZA."
+        "Investigar el modelo de negocio de Teramot.",
+        "Explorar oportunidades de colaboración o inversión en startups de IA locales."
       ]
     },
     {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "categoria": "AI",
-      "titulo": "Avances en el diseño de medicamentos con IA",
-      "detalle": "La IA está acelerando y haciendo más eficiente el costoso y complejo proceso de desarrollo de nuevos medicamentos.",
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "Estrategias para construir marca en Reddit",
+      "detalle": "La guía sobre cómo construir una presencia de marca orgánica en Reddit en 2026 ofrece pasos clave para aprovechar esta plataforma.",
       "acciones": [
-        "Explorar las metodologías y herramientas de IA utilizadas en este campo para identificar posibles aplicaciones en otros sectores de investigación o desarrollo.",
-        "Considerar la inversión en empresas que aplican IA para optimizar procesos de I+D."
+        "Analizar la viabilidad de Reddit para la promoción de proyectos de IA o retoque fotográfico.",
+        "Implementar estrategias de contenido orgánico en Reddit."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "categoria": "AI",
-      "titulo": "Demanda de Apple a OpenAI por secretos comerciales",
-      "detalle": "La disputa legal entre Apple y OpenAI podría tener implicaciones significativas para el futuro de la IA y la competencia en el mercado tecnológico.",
-      "mitigacion": "Monitorear de cerca el desarrollo de esta demanda, ya que podría sentar precedentes sobre la propiedad intelectual en IA y el movimiento de talento entre empresas."
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Market",
+      "titulo": "Caída de la producción industrial y consumo masivo en Argentina",
+      "detalle": "La producción industrial cayó un 0,7% en el primer semestre y el consumo masivo bajó casi un 3% en junio, lo que indica una desaceleración económica y menor poder adquisitivo.",
+      "mitigacion": "Monitorear de cerca los indicadores económicos locales. Ajustar estrategias de inversión y marketing considerando la contracción del mercado interno."
     },
     {
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Market",
-      "titulo": "Caída de un sector clave de la industria argentina",
-      "detalle": "Un sector industrial importante en Argentina sigue en retroceso, con una caída del 5,7% en el primer semestre y operando al 40% de su capacidad, lo que indica una contracción económica general.",
-      "mitigacion": "Evaluar el impacto de esta contracción en la demanda de servicios de retoque fotográfico y arte con IA. Diversificar clientes o explorar mercados externos si la tendencia persiste."
+      "titulo": "Nuevos litigios de holdouts contra la provincia de Buenos Aires",
+      "detalle": "La firma alemana Daniels Invest inició una nueva demanda en EE.UU. por el canje de deuda de 2021, lo que podría generar inestabilidad financiera y legal.",
+      "mitigacion": "Estar atento a las novedades sobre este litigio y su posible impacto en la percepción de riesgo de la deuda argentina."
     }
   ],
-  "conexiones": [
-    {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "titulo": "Apple vs. OpenAI y el futuro de la IA",
-      "historias": [
-        "La demanda de Apple a OpenAI por secretos comerciales plantea preguntas sobre quién definirá la próxima era tecnológica.",
-        "Mientras tanto, Google anuncia actualizaciones para usuarios de Samsung, mostrando la competencia en el ecosistema móvil.",
-        "La IA también está siendo clave en el diseño de nuevos medicamentos, demostrando su impacto en diversas industrias."
-      ],
-      "conclusion": "La batalla legal entre gigantes tecnológicos por la IA subraya la importancia estratégica de esta tecnología, que no solo impulsa la innovación en dispositivos, sino que también revoluciona campos como la medicina."
-    }
-  ],
+  "conexiones": [],
   "noticias": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
@@ -146,26 +153,38 @@
       "fuente": "Google AI Blog",
       "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
       "tituloOriginal": "3 Google updates from Galaxy Unpacked 2026",
-      "tituloLimpio": "Google anuncia tres actualizaciones en el Galaxy Unpacked 2026",
-      "resumen": "Se compartieron novedades para que los usuarios de Samsung mejoren su productividad y ahorren tiempo en los próximos dispositivos plegables, relojes y gafas.",
-      "porQueImporta": "Guido, como usuario de tecnología y entusiasta de la productividad, podría interesarle cómo estas actualizaciones de Google en dispositivos Samsung buscan mejorar la eficiencia, aunque no sean productos de Apple directamente.",
+      "tituloLimpio": "Google presenta tres actualizaciones en Galaxy Unpacked 2026",
+      "resumen": "Google compartió cómo los usuarios de Samsung pueden mejorar la productividad y ahorrar tiempo en los nuevos dispositivos plegables, relojes y gafas que saldrán pronto.",
+      "porQueImporta": "Guido, como usuario de tecnología y entusiasta de la productividad, estas actualizaciones podrían ofrecer nuevas herramientas y mejoras para su flujo de trabajo, especialmente si considera dispositivos Samsung en el futuro.",
       "publicadoEn": "2026-07-22T13:00:00.000Z",
       "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "google",
-        "updates",
-        "from",
-        "galaxy",
-        "unpacked",
-        "2026",
-        "shared",
         "samsung",
-        "users",
-        "boost",
-        "productivity",
-        "time"
+        "productividad",
+        "dispositivos"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/07/23/chatgpt-apple-health-integration/",
+      "tituloOriginal": "ChatGPT's Apple Health Integration Now Rolling Out to U.S. Users",
+      "tituloLimpio": "La integración de ChatGPT con Apple Health se lanza en EE.UU.",
+      "resumen": "La función Health in ChatGPT, que integra registros médicos y datos de Apple Health, se está implementando para usuarios de ChatGPT en Estados Unidos.",
+      "porQueImporta": "Aunque es para EE.UU., esta noticia es relevante por la tendencia de integración de IA con datos de salud en el ecosistema Apple, lo que podría tener un impacto global a futuro en cómo se gestiona la información personal y médica con IA.",
+      "publicadoEn": "2026-07-23T17:54:05.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "chatgpt",
+        "apple",
+        "health",
+        "ia"
       ],
       "tambienVistoEn": []
     },
@@ -173,28 +192,19 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/el-gobierno-creo-un-sistema-informatico-centralizar-la-trazabilidad-animal-y-facilitar-el-uso-ganado-como-garantia-n6302660",
-      "tituloOriginal": "El Gobierno creó un sistema informático para centralizar la trazabilidad animal y facilitar el uso de ganado como garantía",
-      "tituloLimpio": "El Gobierno argentino creó un sistema informático para la trazabilidad animal",
-      "resumen": "La herramienta, llamada TRAZA, será de uso optativo para los actores de la cadena ganadera y centralizará información de distintos registros estatales.",
-      "porQueImporta": "Esta es una noticia relevante para Argentina, que muestra una iniciativa gubernamental para modernizar y centralizar datos en un sector clave. Podría generar oportunidades de automatización o análisis de datos.",
-      "publicadoEn": "2026-07-23T13:51:00.000Z",
-      "imagen": "https://media.ambito.com/p/abbb4e2ea6c9427b57aa59b080d5682c/adjuntos/239/imagenes/043/502/0043502241/1200x675/843x388:863x408/vacas-sumatoria-3.jpg",
-      "globalScore": 98,
+      "url": "https://www.ambito.com/economia/produccion-industrial-anticipan-que-cayo-07-el-primer-semestre-y-la-recuperacion-pierde-impulso-n6302897",
+      "tituloOriginal": "Producción industrial: anticipan que cayó 0,7% en el primer semestre y la recuperación pierde impulso",
+      "tituloLimpio": "La producción industrial cayó un 0,7% en el primer semestre y la recuperación pierde impulso",
+      "resumen": "La actividad manufacturera se mantuvo prácticamente sin cambios en junio frente a un año atrás, pero registró una baja mensual desestacionalizada del 1,7%. La industria automotriz profundizó su retroceso, mientras que alimentos marcó un récord.",
+      "porQueImporta": "Como inversor, es clave entender el panorama económico local. La caída de la producción industrial y la pérdida de impulso en la recuperación son señales de un contexto desafiante que puede influir en decisiones de inversión.",
+      "publicadoEn": "2026-07-23T17:04:44.000Z",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "gobierno",
-        "creo",
-        "sistema",
-        "informatico",
-        "para",
-        "centralizar",
-        "trazabilidad",
-        "animal",
-        "facilitar",
-        "ganado",
-        "como",
-        "garantia"
+        "argentina",
+        "economía",
+        "producción",
+        "inversión"
       ],
       "tambienVistoEn": []
     },
@@ -202,27 +212,19 @@
       "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
       "categoria": "Marketing",
       "fuente": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/ugg-teams-with-buzzy-pop-band-muna-for-back-to-school-campaign/825977/",
-      "tituloOriginal": "Ugg teams with buzzy pop band Muna for back-to-school campaign",
-      "tituloLimpio": "Ugg se asocia con la banda Muna para una campaña de regreso a clases",
-      "resumen": "La campaña incluye estudiantes de todas las edades, un programa de embajadores universitarios y alianzas que celebran el arte y la autoexpresión.",
-      "porQueImporta": "Como profesional del marketing, Guido podría analizar esta estrategia de Ugg para conectar con audiencias jóvenes y su enfoque en la expresión artística, lo cual resuena con su trabajo en arte con IA.",
-      "publicadoEn": "2026-07-23T13:02:00.000Z",
+      "url": "https://www.marketingdive.com/news/how-to-build-a-brand-presence-on-reddit-in-2026/826020/",
+      "tituloOriginal": "Sociable: How to build a brand presence on Reddit in 2026",
+      "tituloLimpio": "Cómo construir una presencia de marca en Reddit en 2026",
+      "resumen": "Para construir una presencia de marca orgánica en Reddit, se deben seguir pasos clave.",
+      "porQueImporta": "Guido, en su rol de artista con IA y retoque fotográfico, podría encontrar en Reddit una plataforma valiosa para promocionar su trabajo y construir una comunidad. Esta guía ofrece pasos prácticos para lograrlo.",
+      "publicadoEn": "2026-07-23T15:05:00.000Z",
       "globalScore": 96,
       "personalScore": 100,
       "tags": [
-        "teams",
-        "with",
-        "buzzy",
-        "band",
-        "muna",
-        "back-to-school",
-        "campaign",
-        "students",
-        "ages",
-        "feature",
-        "effort",
-        "which"
+        "marketing",
+        "reddit",
+        "marca",
+        "presencia online"
       ],
       "tambienVistoEn": []
     },
@@ -230,26 +232,39 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
-      "tituloOriginal": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
-      "tituloLimpio": "Expertos dicen que Kimi K3 no mejoró por explotar Fable de Anthropic",
-      "resumen": "Un experto afirmó que no cree que un modelo se vuelva tan fuerte y rápido después de Fable solo con destilación.",
-      "porQueImporta": "Esta noticia es relevante para Guido por su interés en la IA aplicada, ya que aborda el debate sobre cómo los modelos de IA logran sus capacidades, un tema clave en el desarrollo y la ética de la inteligencia artificial.",
-      "publicadoEn": "2026-07-23T11:00:00.000Z",
-      "globalScore": 96,
+      "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+      "tituloOriginal": "Runway launches AI model router as generative media gets crowded",
+      "tituloLimpio": "Runway lanza un enrutador de modelos de IA ante la saturación de medios generativos",
+      "resumen": "El Media Router es una herramienta que selecciona automáticamente el mejor modelo de generación de imagen, video o audio para una solicitud, basándose en si un desarrollador prioriza calidad, velocidad o costo.",
+      "porQueImporta": "Para Guido, que trabaja con arte e IA, una herramienta que optimiza la selección de modelos generativos es muy útil. Podría mejorar la eficiencia y calidad de sus proyectos, eligiendo el modelo más adecuado para cada necesidad.",
+      "publicadoEn": "2026-07-23T17:07:35.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "experts",
-        "exploiting",
-        "anthropic",
-        "fable",
-        "kimi",
-        "good",
-        "think",
-        "model",
-        "this",
-        "strong",
-        "quickly"
+        "ia",
+        "herramientas",
+        "generación de medios",
+        "productividad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker",
+      "tituloOriginal": "Here’s what Samsung’s smart glasses actually look like",
+      "tituloLimpio": "Así son las gafas inteligentes de Samsung y Google",
+      "resumen": "Samsung mostró sus próximas gafas inteligentes, revelando dos diseños nuevos y las primeras especificaciones, incluyendo una batería de 9 horas. Las gafas, desarrolladas con Google, se lanzarán este otoño.",
+      "porQueImporta": "Este es un avance importante en el hardware de IA y los wearables. Guido, interesado en la IA aplicada, debería estar al tanto de estos desarrollos que podrían cambiar la interacción con la tecnología en el futuro.",
+      "publicadoEn": "2026-07-22T16:35:34.000Z",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "samsung",
+        "google",
+        "gafas inteligentes",
+        "ia"
       ],
       "tambienVistoEn": []
     },
@@ -260,108 +275,57 @@
       "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
       "tituloOriginal": "How AI helps scientists design the next generation of medicines",
       "tituloLimpio": "Cómo la IA ayuda a los científicos a diseñar la próxima generación de medicamentos",
-      "resumen": "Diseñar y desarrollar un nuevo medicamento es un desafío científico costoso y propenso a fallas. La IA ayuda en este proceso.",
-      "porQueImporta": "Guido, interesado en la IA aplicada, encontrará valioso ver cómo esta tecnología está revolucionando un campo tan complejo como la medicina, mejorando la eficiencia y reduciendo costos en la investigación y desarrollo.",
+      "resumen": "Diseñar y desarrollar un nuevo medicamento es un desafío científico costoso y propenso a fallas. Un nuevo fármaco puede tardar muchos años en desarrollarse, con un costo de inversión significativo. Y aun así, la mayoría de los posibles candidatos nunca llegan al paciente.",
+      "porQueImporta": "Aunque no es su campo directo, esta noticia muestra el impacto transformador de la IA en industrias complejas. Es un ejemplo de cómo la IA puede optimizar procesos costosos y fallidos, algo que Guido podría aplicar conceptualmente a sus propios proyectos o entender como una tendencia de inversión.",
       "publicadoEn": "2026-07-23T12:00:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "helps",
-        "scientists",
-        "design",
-        "next",
-        "generation",
-        "medicines",
-        "designing",
-        "developing",
-        "medicine",
-        "expensive",
-        "failure-prone",
-        "scientific"
+        "ia",
+        "ciencia",
+        "innovación",
+        "tecnología"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Apple",
-      "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/07/23/an-airpod-powered-frisbee-tracker-makes-backyard-throws-scientific?utm_source=rss",
-      "tituloOriginal": "An AirPod-powered Frisbee tracker makes backyard throws scientific",
-      "tituloLimpio": "Un rastreador de Frisbee con AirPods hace que los lanzamientos sean científicos",
-      "resumen": "Un desarrollador convirtió los AirPods en un rastreador de estadísticas de discos voladores, usando sensores de movimiento para medir lanzamientos.",
-      "porQueImporta": "Esta es una aplicación creativa y práctica de la tecnología de Apple, mostrando cómo los dispositivos existentes pueden ser usados de formas innovadoras, lo que podría inspirar a Guido en su trabajo con IA y arte.",
-      "publicadoEn": "2026-07-23T13:48:42.000Z",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/23/openai-relaunches-apple-health-connected-chatgpt-feature-with-expanded-access/",
+      "tituloOriginal": "OpenAI relaunches Apple Health-connected ChatGPT feature with expanded access",
+      "tituloLimpio": "OpenAI relanza la función de ChatGPT conectada a Apple Health con acceso ampliado",
+      "resumen": "OpenAI está relanzando Health in ChatGPT, la función impulsada por IA que se conecta a Apple Health en iPhone. El relanzamiento viene con acceso ampliado y un gran avance en los resultados.",
+      "porQueImporta": "Esta es una noticia clave para Guido, ya que refuerza la tendencia de integración de IA con el ecosistema Apple. Aunque el acceso ampliado es para EE.UU., la evolución de esta función es un indicador de cómo la IA personal podría desarrollarse globalmente.",
+      "publicadoEn": "2026-07-23T17:28:30.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "airpod-powered",
-        "frisbee",
-        "tracker",
-        "makes",
-        "backyard",
-        "throws",
-        "scientific",
-        "developer",
-        "turned",
-        "airpods",
-        "into"
+        "openai",
+        "apple",
+        "chatgpt",
+        "health",
+        "ia"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "id": "9to5mac-aHR0cHM6Ly85dG81Z29v",
       "categoria": "Apple",
-      "fuente": "MacStories",
-      "url": "https://www.macstories.net/linked/app-store-chaos/",
-      "tituloOriginal": "App Store Chaos",
-      "tituloLimpio": "Caos en la App Store por aplicaciones creadas con IA",
-      "resumen": "Kalley Huang, del New York Times, escribe sobre la proliferación de aplicaciones hechas con la ayuda de agentes de IA en la App Store.",
-      "porQueImporta": "Guido, como usuario de Apple y creador de arte con IA, debería estar al tanto de cómo la IA está impactando la App Store, tanto en la creación de contenido como en la saturación del mercado.",
-      "publicadoEn": "2026-07-22T15:54:17.000Z",
-      "globalScore": 96,
+      "fuente": "9to5Mac",
+      "url": "https://9to5google.com/2026/07/23/google-account-selfie-video/",
+      "tituloOriginal": "Google introduces new ‘selfie video’ sign-in method",
+      "tituloLimpio": "Google introduce un nuevo método de inicio de sesión con 'video selfie'",
+      "resumen": "Las Cuentas de Google están incorporando un nuevo método de inicio de sesión con 'video selfie' que puede ser útil si se pierde el teléfono o las passkeys.",
+      "porQueImporta": "Como usuario de tecnología y preocupado por la seguridad, Guido debería conocer esta nueva opción de autenticación. Podría ser una alternativa más segura y conveniente para acceder a sus cuentas, especialmente si usa muchos servicios de Google.",
+      "publicadoEn": "2026-07-23T15:15:00.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "store",
-        "chaos",
-        "kalley",
-        "huang",
-        "writing",
-        "york",
-        "times",
-        "about",
-        "apps",
-        "written",
-        "with",
-        "help"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
-      "categoria": "Finance",
-      "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/22/uniswap-pushes-deeper-into-tokenized-assets-with-permissioned-trading-pools",
-      "tituloOriginal": "Uniswap pushes deeper into tokenized assets with permissioned trading pools",
-      "tituloLimpio": "Uniswap avanza en activos tokenizados con pools de trading permisionados",
-      "resumen": "El marco, desarrollado con Superstate, Securitize y Dowgo, permite que fondos y valores regulados operen en Uniswap, aplicando reglas de cumplimiento necesarias para instituciones.",
-      "porQueImporta": "Guido, interesado en inversiones, podría ver esto como una evolución en el mercado de activos tokenizados y cómo las finanzas descentralizadas (DeFi) se están adaptando a la regulación institucional.",
-      "publicadoEn": "2026-07-23T14:00:00.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/360fef2ec03b8a5acf252fa76d45c375526936f8-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "globalScore": 96,
-      "personalScore": 100,
-      "tags": [
-        "uniswap",
-        "pushes",
-        "deeper",
-        "into",
-        "tokenized",
-        "assets",
-        "with",
-        "permissioned",
-        "trading",
-        "pools",
-        "framework",
-        "developed"
+        "google",
+        "seguridad",
+        "autenticación",
+        "herramientas"
       ],
       "tambienVistoEn": []
     },
@@ -369,56 +333,20 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-jueves-23-julio_0_YPs5mxKUBQ.html",
-      "tituloOriginal": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este jueves 23 de julio",
-      "tituloLimpio": "Cotización del dólar hoy: oficial y otros tipos de cambio este jueves 23 de julio",
-      "resumen": "Desde el oficial hasta el blue y el turista, todas las cotizaciones del dólar minuto a minuto.",
-      "porQueImporta": "Como residente en Argentina, Guido necesita estar al tanto de la cotización del dólar, ya que impacta directamente en su economía personal y en el costo de herramientas o servicios internacionales.",
-      "publicadoEn": "2026-07-23T12:00:01.000Z",
-      "imagen": "https://www.clarin.com/img/2020/04/23/UIgMX6Usc_1200x630__1.jpg",
-      "globalScore": 94,
+      "url": "https://www.clarin.com/economia/consumo-masivo-suma-meses-caida-junio-3_0_IZx0Sc3Hmv.html",
+      "tituloOriginal": "El consumo masivo suma siete meses de caída: en junio bajó casi 3%",
+      "tituloLimpio": "El consumo masivo suma siete meses de caída: en junio bajó casi 3%",
+      "resumen": "Son datos de la consultora Scentia, que releva las compras básicas todos los meses. La contracción fue tanto contra el año pasado como contra mayo. La única categoría que subió fue la de bebidas con y sin alcohol.",
+      "porQueImporta": "Esta noticia complementa la de producción industrial, mostrando un panorama económico argentino con contracción del consumo. Es fundamental para Guido como inversor y ciudadano para entender el contexto económico general.",
+      "publicadoEn": "2026-07-23T16:50:28.000Z",
+      "imagen": "https://www.clarin.com/img/2026/04/16/-qLy6_kGC_1200x630__1.jpg",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "dolar",
-        "cuanto",
-        "cotizan",
-        "oficial",
-        "diferentes",
-        "tipos",
-        "cambio",
-        "este",
-        "jueves",
-        "julio",
-        "desde"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
-      "categoria": "Argentina",
-      "fuente": "Clarin Politica",
-      "url": "https://www.clarin.com/politica/estafa-us-10-millones-camioneros-moyano-llamo-asamblea-extraordinaria-remover-dirigente_0_NOx51UImsU.html",
-      "tituloOriginal": "Estafa por US$ 10 millones a Camioneros: Moyano llamó a asamblea extraordinaria para remover a un dirigente",
-      "tituloLimpio": "Estafa por US$ 10 millones a Camioneros: Moyano llamó a asamblea para remover a un dirigente",
-      "resumen": "Claudio Balazic, ex secretario Administrativo del sindicato, será sometido a votación para la revocación de su mandato.",
-      "porQueImporta": "Esta noticia de política y economía local es relevante por el impacto de la corrupción en un gremio importante y sus implicaciones en el panorama social y económico de Argentina.",
-      "publicadoEn": "2026-07-23T09:00:40.000Z",
-      "imagen": "https://www.clarin.com/img/2026/07/22/jlW_8TvDE_1200x630__1.jpg",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "estafa",
-        "millones",
-        "camioneros",
-        "moyano",
-        "llamo",
-        "asamblea",
-        "extraordinaria",
-        "para",
-        "remover",
-        "dirigente",
-        "claudio",
-        "balazic"
+        "argentina",
+        "economía",
+        "consumo",
+        "inversión"
       ],
       "tambienVistoEn": []
     },
@@ -426,28 +354,20 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/07/23/un-sector-clave-de-la-industria-no-encuentra-piso-volvio-a-caer-en-junio-y-opera-con-apenas-el-40-de-su-capacidad/",
-      "tituloOriginal": "Un sector clave de la industria no encuentra piso: volvió a caer en junio y opera con apenas el 40% de su capacidad",
-      "tituloLimpio": "Un sector clave de la industria argentina cayó en junio y opera al 40% de su capacidad",
-      "resumen": "La actividad acumuló una contracción del 5,7% en el primer semestre, con la utilización de instalaciones en niveles bajos y el empleo en retroceso.",
-      "porQueImporta": "Esta información es crucial para Guido, ya que refleja la situación económica de Argentina. Una contracción industrial puede afectar el poder adquisitivo y el mercado de servicios en el país.",
-      "publicadoEn": "2026-07-23T13:58:38.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/7CUSH4K7JFHODFVZTWSKU5HXYI.jpg?auth=f9da672674ddbb665f723ede3870432b546bf9dbc31984e4d813954592408e83&smart=true&width=1920&height=1080",
-      "globalScore": 94,
+      "url": "https://www.infobae.com/economia/2026/07/23/vuelven-los-litigios-de-holdouts-nueva-demanda-en-eeuu-contra-la-provincia-de-buenos-aires-por-el-canje-2021/",
+      "tituloOriginal": "Vuelven los litigios de holdouts: nueva demanda en EEUU contra la provincia de Buenos Aires por el canje 2021",
+      "tituloLimpio": "Vuelven los litigios de holdouts: nueva demanda en EE.UU. contra la provincia de Buenos Aires por el canje 2021",
+      "resumen": "La firma alemana Daniels Invest, que no ingresó en la reestructuración de 2021, inició un juicio en el Tribunal del Distrito Sur neoyorquino.",
+      "porQueImporta": "Los litigios de holdouts son un tema recurrente en la economía argentina que genera incertidumbre. Guido, como inversor, debe estar al tanto de estos desarrollos que pueden afectar la percepción de riesgo del país y el valor de los activos locales.",
+      "publicadoEn": "2026-07-23T17:58:59.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/WEV3RMJ6DNGQTN4GZZQJFALLUY.jpg?auth=85585fa68f3d96b2c98abb33f3d76e2e3801642da8ca68a51ce7571387284b8a&smart=true&width=1920&height=1280",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "sector",
-        "clave",
-        "industria",
-        "encuentra",
-        "piso",
-        "volvio",
-        "caer",
-        "junio",
-        "opera",
-        "apenas",
-        "capacidad",
-        "actividad"
+        "argentina",
+        "finanzas",
+        "deuda",
+        "inversión"
       ],
       "tambienVistoEn": []
     },
@@ -455,56 +375,20 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/negocios/el-consumo-no-repunta-y-cayo-27-en-junio-nid23072026/",
-      "tituloOriginal": "El consumo no repunta y cayó 2,7% en junio",
-      "tituloLimpio": "El consumo no repunta y cayó 2,7% en junio en Argentina",
-      "resumen": "Las ventas de productos de la canasta básica cerraron el primer semestre con una baja de casi el 3%.",
-      "porQueImporta": "La caída del consumo es un indicador económico importante en Argentina. Guido debería estar al tanto de estas tendencias, ya que afectan el clima de negocios y la economía general del país.",
-      "publicadoEn": "2026-07-23T13:57:05.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/KJFMMYLGX5AXNLCX2C2TGPCLVI.jpeg?auth=215878251bda763141ded8c6490fb4d7458a7a39164fba38e7d2b118823b9864&smart=true&width=2000&height=1333",
-      "globalScore": 94,
+      "url": "https://www.lanacion.com.ar/economia/IA/dejo-la-investigacion-en-fisica-aposto-por-la-ia-y-hoy-lleva-su-startup-de-la-argentina-al-mundo-nid23072026/",
+      "tituloOriginal": "Dejó la investigación en física, apostó por la IA y hoy lleva su startup de la Argentina al mundo",
+      "tituloLimpio": "Dejó la investigación en física, apostó por la IA y hoy lleva su startup de la Argentina al mundo",
+      "resumen": "Bruno Ruyú fundó Teramot, una compañía que resuelve un problema clave para que la inteligencia artificial realmente funcione dentro de las organizaciones.",
+      "porQueImporta": "Esta historia de éxito local es muy relevante para Guido. Muestra cómo la IA aplicada puede generar valor y cómo un emprendedor argentino puede escalar globalmente, lo que puede ser inspirador y ofrecer ideas para sus propios proyectos.",
+      "publicadoEn": "2026-07-23T18:00:06.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/OYTHMHLG3NGQXGRIXMUWRIYSYY.jpg?auth=75ae60815d2c1029a00155cff7560a2d3d7d946858cc40aa61ab4a48d7d97c43&smart=true&width=6000&height=4000",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "consumo",
-        "repunta",
-        "cayo",
-        "junio",
-        "ventas",
-        "productos",
-        "canasta",
-        "basica",
-        "cerraron",
-        "primer",
-        "semestre",
-        "baja"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
-      "categoria": "Argentina",
-      "fuente": "La Nacion Politica",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-movimientos-sindicales-y-repercusiones-del-mundial-nid23072026/",
-      "tituloOriginal": "Javier Milei y sus medidas, en vivo: movimientos sindicales y repercusiones del Mundial",
-      "tituloLimpio": "Javier Milei y sus medidas, en vivo: movimientos sindicales y repercusiones del Mundial",
-      "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios.",
-      "porQueImporta": "Como residente en Argentina, Guido debe seguir la actualidad política y económica del país, ya que las decisiones del gobierno y los movimientos sindicales tienen un impacto directo en la vida cotidiana y los negocios.",
-      "publicadoEn": "2026-07-23T13:57:18.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/N7EFDB4SLRCANBIIOWKJ67DDPQ.JPG?auth=301d6b196b109dd5f3276b08b19fc4515b15bc71e2a8e187e8b44cdac851a918&smart=true&width=3333&height=2222",
-      "globalScore": 98,
-      "personalScore": 100,
-      "tags": [
-        "javier",
-        "milei",
-        "medidas",
-        "vivo",
-        "movimientos",
-        "sindicales",
-        "repercusiones",
-        "mundial",
-        "minuto",
-        "decisiones",
-        "presidente"
+        "argentina",
+        "ia",
+        "emprendimiento",
+        "startup"
       ],
       "tambienVistoEn": []
     },
@@ -512,33 +396,25 @@
       "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
       "categoria": "Marketing",
       "fuente": "Adweek",
-      "url": "https://www.adweek.com/dealroom/read-adweek-and-evros-groups-exclusive-2026-ma-sentiment-report/",
-      "tituloOriginal": "Read ADWEEK and Evros Group’s Exclusive 2026 M&A Sentiment Report",
-      "tituloLimpio": "Informe exclusivo de ADWEEK y Evros Group sobre fusiones y adquisiciones en 2026",
-      "resumen": "El informe analiza cómo dueños, compradores e inversores ven el mercado de 2026, dónde coinciden y difieren sus expectativas.",
-      "porQueImporta": "Guido, interesado en marketing y negocios, podría encontrar útil este informe para entender las tendencias en fusiones y adquisiciones, lo que puede influir en el panorama de agencias y servicios de marketing.",
-      "publicadoEn": "2026-07-23T06:00:00.000Z",
-      "globalScore": 88,
+      "url": "https://www.adweek.com/brand-marketing/john-solomon-on-building-brand-momentum-when-markets-turn-against-you/",
+      "tituloOriginal": "John Solomon on Building Brand Momentum When Markets Turn Against You",
+      "tituloLimpio": "John Solomon sobre cómo construir impulso de marca cuando los mercados están en contra",
+      "resumen": "Desde navegar aranceles y interrupciones en la cadena de suministro hasta hacer apuestas asimétricas en innovación.",
+      "porQueImporta": "Para Guido, que trabaja en un campo creativo y potencialmente volátil como el arte con IA, entender cómo mantener el impulso de una marca en mercados difíciles es crucial. Ofrece perspectivas sobre resiliencia y estrategia en marketing.",
+      "publicadoEn": "2026-07-23T14:05:55.000Z",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "read",
-        "adweek",
-        "evros",
-        "group",
-        "exclusive",
-        "2026",
-        "sentiment",
-        "report",
-        "owners",
-        "buyers",
-        "investors",
-        "view"
+        "marketing",
+        "negocios",
+        "marca",
+        "estrategia"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-07-23T14:07:20.647Z"
+    "generadoEn": "2026-07-23T18:12:24.225Z"
   }
 }
