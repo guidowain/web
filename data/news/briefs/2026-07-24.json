@@ -1,182 +1,149 @@
 {
   "fecha": "2026-07-24",
-  "generadoEn": "2026-07-24T13:50:18.623Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "Hoy tenemos novedades importantes en el ámbito de la inteligencia artificial, con actualizaciones de Google, OpenAI y Amazon que mejoran la productividad y la interacción. En el mundo Apple, se reportó un incendio cerca de Apple Park y se anunciaron novedades para Apple TV. También hay noticias relevantes para Argentina, como el aumento salarial para empleados de comercio y la cotización del dólar. En finanzas, se destaca el crecimiento de Dell por la demanda de servidores de IA y cambios en la estrategia de Bitcoin de Saylor. El marketing digital muestra una mayor aceptación de los anuncios en streaming.",
+  "generadoEn": "2026-07-24T18:17:39.865Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Hoy se destaca el lanzamiento de Claude Opus 5 de Anthropic, que ofrece un rendimiento similar a Fable 5 a mitad de precio, y la adquisición de Poke por Cognition, señalando la importancia de la personalidad en la IA. En Argentina, el riesgo país subió por el clima internacional y se debate un nuevo proyecto de inocencia fiscal. También hay novedades de Apple y Google, y la política argentina se mueve con la disputa por la sucesión de Kicillof.",
   "radarPersonal": [
     {
-      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "titulo": "Google presenta novedades para usuarios de Samsung en Galaxy Unpacked 2026",
-      "resumen": "Google compartió cómo los usuarios de Samsung pueden mejorar la productividad y ahorrar tiempo con los nuevos dispositivos plegables, relojes y gafas que saldrán pronto.",
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Claude Opus 5 de Anthropic casi iguala a Fable 5 por la mitad del costo",
+      "resumen": "Anthropic lanzó Claude Opus 5, una mejora de Opus 4.8, que ofrece un rendimiento cercano a Fable 5 a mitad de precio. Opus 5 supera a Opus 4.8 en varias tareas de referencia.",
       "categoria": "AI",
       "fuentes": [
-        "Google AI Blog"
+        "MacRumors"
       ],
       "urls": [
-        "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/"
+        "https://www.macrumors.com/2026/07/24/anthropic-opus-5/"
       ],
       "score": 100,
       "tags": [
-        "google",
-        "samsung",
-        "productividad",
-        "galaxy unpacked"
+        "anthropic",
+        "claude",
+        "opus",
+        "fable",
+        "costo"
       ]
     },
     {
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "titulo": "El nuevo modo de voz de OpenAI llega a la aplicación de escritorio de ChatGPT",
-      "resumen": "El modo de voz de ChatGPT en escritorio puede funcionar con ChatGPT Work y Codex para completar tareas y controlar agentes.",
+      "titulo": "Cognition compró Poke: la personalidad de la IA se vuelve una ventaja competitiva",
+      "resumen": "La startup de codificación de IA Cognition adquirió Poke, un asistente de IA conversacional. Esta compra integra el estilo de interacción de Poke en el agente de codificación Devin de Cognition.",
       "categoria": "AI",
       "fuentes": [
         "TechCrunch AI"
       ],
       "urls": [
-        "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/"
+        "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/"
       ],
       "score": 100,
       "tags": [
-        "openai",
-        "chatgpt",
-        "voz",
-        "escritorio",
-        "productividad"
-      ]
-    },
-    {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "titulo": "Alexa Plus recibe una actualización de IA para manejar instrucciones más complejas",
-      "resumen": "Amazon está lanzando una actualización para su asistente Alexa Plus que le permitirá conectarse con dispositivos de hogar inteligente de nuevas maneras.",
-      "categoria": "AI",
-      "fuentes": [
-        "The Verge AI"
-      ],
-      "urls": [
-        "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices"
-      ],
-      "score": 100,
-      "tags": [
-        "amazon",
-        "alexa",
+        "cognition",
+        "poke",
         "ia",
-        "hogar inteligente",
-        "automatización"
+        "personalidad",
+        "ventaja competitiva"
       ]
     },
     {
-      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
-      "titulo": "Los consumidores se muestran más receptivos a los anuncios en streaming",
-      "resumen": "Dos tercios de los espectadores dicen que no les molesta tanto ver anuncios como antes, según datos de Hub Entertainment Research.",
-      "categoria": "Marketing",
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "titulo": "El clima internacional golpea a los activos argentinos y el riesgo país sube",
+      "resumen": "Wall Street negocia con resultados mixtos por la tensión en Oriente Medio y dudas en el sector tecnológico. El s&P Merval pierde 0,7% y los títulos públicos caen 0,3%. El riesgo país sube a 442 unidades.",
+      "categoria": "Argentina",
       "fuentes": [
-        "Marketing Dive"
+        "Infobae Economia"
       ],
       "urls": [
-        "https://www.marketingdive.com/news/consumers-warm-up-to-streaming-ads-heres-what-the-numbers-say/826069/"
+        "https://www.infobae.com/economia/2026/07/24/mercados-con-caida-de-bonos-y-acciones-el-riesgo-pais-rebota-al-nivel-mas-alto-en-seis-semanas/"
       ],
       "score": 100,
       "tags": [
-        "marketing",
-        "streaming",
-        "publicidad",
-        "consumidores"
-      ]
-    },
-    {
-      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
-      "titulo": "Dell Technologies sube un 9.3% por la fuerte demanda de servidores de IA con Nvidia",
-      "resumen": "Dell Technologies (DELL) sube un 9.3% por la fuerte demanda de servidores de IA con Nvidia.",
-      "categoria": "Finance",
-      "fuentes": [
-        "Yahoo Finance"
-      ],
-      "urls": [
-        "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-dell-climbs-9-022911228.html"
-      ],
-      "score": 100,
-      "tags": [
-        "inversión",
-        "acciones",
-        "dell",
-        "nvidia",
-        "ia",
-        "mercados"
+        "argentina",
+        "mercados",
+        "riesgo país",
+        "bonos",
+        "acciones"
       ]
     }
   ],
   "loImportante": [
-    "La IA sigue avanzando en productividad y automatización, con Google, OpenAI y Amazon lanzando actualizaciones significativas.",
-    "El mercado laboral argentino ve un aumento salarial para empleados de comercio y un bono adicional.",
-    "El dólar en Argentina sigue siendo un tema central, con proyecciones de posibles aumentos.",
-    "La demanda de servidores de IA impulsa el crecimiento de empresas como Dell, mostrando el impacto económico de la inteligencia artificial.",
-    "La aceptación de la publicidad en streaming por parte de los consumidores abre nuevas oportunidades en marketing digital."
+    "Anthropic lanzó Claude Opus 5, que ofrece un rendimiento similar a Fable 5 a la mitad del costo, un avance significativo en la relación costo-beneficio de modelos de IA.",
+    "La adquisición de Poke por Cognition subraya la creciente importancia de la 'personalidad' y la interacción conversacional en los asistentes de IA, más allá de la capacidad del modelo.",
+    "El riesgo país argentino subió a 442 unidades, reflejando el impacto del clima internacional en los activos locales.",
+    "El Gobierno argentino presentó un nuevo proyecto de 'Inocencia Fiscal' para usar 'dólares del colchón', con un plazo de pago hasta el 27 de julio.",
+    "La administración Trump anunció los primeros subsidios 'Genesis Mission' por 5 mil millones de dólares para proyectos de ciencia impulsados por IA."
   ],
   "oportunidades": [
     {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "AI",
+      "titulo": "IA de alto rendimiento a menor costo con Claude Opus 5",
+      "detalle": "El lanzamiento de Claude Opus 5 por Anthropic ofrece un rendimiento casi igual al de Fable 5, su modelo más potente, pero a la mitad del precio. Esto democratiza el acceso a capacidades avanzadas de IA.",
+      "acciones": [
+        "Explorar la integración de Claude Opus 5 en flujos de trabajo de retoque fotográfico o automatización para reducir costos operativos.",
+        "Evaluar el potencial de Opus 5 para tareas de arte con IA que requieran alta capacidad a un presupuesto más ajustado."
+      ]
+    },
+    {
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "categoria": "Automation",
-      "titulo": "Automatización de tareas con el modo de voz de ChatGPT en escritorio",
-      "detalle": "El nuevo modo de voz de ChatGPT en su aplicación de escritorio permite controlar agentes y completar tareas, lo que podría optimizar flujos de trabajo en retoque fotográfico o arte con IA.",
+      "categoria": "AI",
+      "titulo": "La personalidad en la IA como ventaja competitiva",
+      "detalle": "La adquisición de Poke por Cognition destaca que la forma en que los asistentes de IA interactúan con los usuarios es tan crucial como su capacidad técnica. La personalidad se convierte en un diferenciador.",
       "acciones": [
-        "Explorar la integración de ChatGPT Voice con herramientas de diseño y edición.",
-        "Evaluar cómo esta función puede automatizar tareas repetitivas en proyectos de IA y retoque."
+        "Considerar cómo la 'personalidad' de la IA puede mejorar la experiencia de usuario en herramientas o servicios que Guido desarrolle o utilice.",
+        "Investigar herramientas de IA que permitan personalizar la interacción para generar mayor engagement."
       ]
     },
     {
-      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
-      "categoria": "Marketing",
-      "titulo": "Mayor receptividad a la publicidad en streaming",
-      "detalle": "Los consumidores están más abiertos a ver anuncios en plataformas de streaming, lo que sugiere nuevas vías para estrategias de marketing y monetización de contenido.",
-      "acciones": [
-        "Investigar plataformas de streaming relevantes para campañas publicitarias.",
-        "Considerar la creación de contenido publicitario adaptado a este formato."
-      ]
-    },
-    {
-      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Investing",
-      "titulo": "Inversión en empresas beneficiadas por la demanda de IA",
-      "detalle": "El aumento en la demanda de servidores de IA, como los de Dell con tecnología Nvidia, indica un sector en crecimiento con potencial de inversión.",
+      "titulo": "Oportunidad de 'Inocencia Fiscal' para 'dólares del colchón'",
+      "detalle": "El Gobierno presentó un proyecto de 'Inocencia Fiscal' para quienes quieran blanquear 'dólares del colchón', con un plazo de pago hasta el 27 de julio.",
       "acciones": [
-        "Analizar ETFs o acciones de empresas que proveen infraestructura para IA (ej. Dell, Nvidia).",
-        "Monitorear el rendimiento de estas empresas en el mercado."
+        "Consultar a un tributarista para evaluar la conveniencia de adherirse a la 'Inocencia Fiscal' si aplica a la situación personal."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Market",
-      "titulo": "Posible aumento del dólar a $1.800 en los próximos meses",
-      "detalle": "Un vocero vaticinó que el dólar podría llegar a $1.800 en los próximos meses, lo que podría impactar en costos de importación y poder adquisitivo.",
-      "mitigacion": "Evaluar el impacto en costos de herramientas y servicios dolarizados. Considerar estrategias de cobertura o diversificación de inversiones."
+      "titulo": "Impacto del clima internacional en activos argentinos",
+      "detalle": "El mal clima internacional, con tensiones en Oriente Medio y dudas en el sector tecnológico, está golpeando a los activos argentinos, llevando el riesgo país al borde de los 450 puntos.",
+      "mitigacion": "Monitorear de cerca la evolución del riesgo país y los mercados internacionales para ajustar estrategias de inversión en ETFs y otros activos."
     },
     {
-      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
-      "categoria": "Market",
-      "titulo": "Riesgo país estancado cerca de los 400 puntos",
-      "detalle": "El riesgo país no logra bajar de los 400 puntos, lo que indica incertidumbre económica y puede afectar la inversión y el acceso a financiamiento.",
-      "mitigacion": "Mantenerse informado sobre la evolución económica y política del país. Priorizar inversiones en activos con menor exposición al riesgo local."
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Regulatory",
+      "titulo": "Rechazo global a nuevos aranceles de Donald Trump",
+      "detalle": "Los nuevos aranceles de entre el 10% y el 12,5% impuestos por Donald Trump generaron un rechazo global, con países como Brasil y Japón anticipando negociaciones.",
+      "mitigacion": "Evaluar el impacto potencial de estas tensiones comerciales en la cadena de suministro de herramientas o componentes tecnológicos que Guido utilice, y en la economía global que afecta a las inversiones."
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Platform",
+      "titulo": "Caos en la App Store por apps de IA",
+      "detalle": "La App Store está siendo inundada por aplicaciones creadas con la ayuda de agentes de IA, lo que genera un 'caos' y dudas sobre su utilidad real y la saturación del mercado.",
+      "mitigacion": "Si se considera desarrollar apps, tener en cuenta la saturación del mercado de IA y la necesidad de diferenciación clara. Monitorear las políticas de la App Store respecto a apps generadas por IA."
     }
   ],
   "conexiones": [
     {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "titulo": "La IA en el diseño de medicamentos y su impacto en la investigación",
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Avances en IA: rendimiento y personalidad",
       "historias": [
-        "La IA ayuda a los científicos a diseñar la próxima generación de medicamentos, reduciendo costos y fallas en el desarrollo.",
-        "Esto demuestra el potencial de la IA para optimizar procesos complejos y costosos en diversas industrias."
+        "Anthropic lanzó Claude Opus 5, que ofrece un rendimiento similar a Fable 5 a mitad de precio, lo que indica una mejora en la eficiencia de los modelos de IA.",
+        "Cognition adquirió Poke, destacando que la personalidad y la interacción conversacional de la IA son cada vez más importantes como ventaja competitiva."
       ],
-      "conclusion": "Así como la IA revoluciona la medicina, sus principios de optimización y eficiencia pueden aplicarse a la automatización y mejora de procesos en el retoque fotográfico y el arte con IA, buscando reducir tiempos y mejorar resultados."
+      "conclusion": "Estos dos puntos muestran una doble evolución en la IA: por un lado, se busca mayor capacidad y eficiencia (Opus 5); por otro, se valora la forma en que la IA interactúa, buscando una experiencia más humana y efectiva (adquisición de Poke). Para Guido, esto significa que las herramientas de IA no solo deben ser potentes, sino también intuitivas y 'amigables' para el usuario."
     },
     {
-      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "Caos en la App Store por aplicaciones generadas con IA",
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "titulo": "Economía argentina: impacto global y medidas locales",
       "historias": [
-        "La App Store está siendo inundada por aplicaciones creadas con la ayuda de agentes de IA.",
-        "Se cuestiona si esta facilidad de creación se traduce en utilidad real para los usuarios."
+        "El mal clima internacional, con tensiones geopolíticas y dudas tecnológicas, golpea a los activos argentinos y eleva el riesgo país.",
+        "El Gobierno presentó un proyecto de 'Inocencia Fiscal' para blanquear 'dólares del colchón', buscando movilizar capitales internos."
       ],
-      "conclusion": "Esto resalta la importancia de la calidad y la utilidad real en el desarrollo de productos con IA. No basta con generar algo fácilmente; debe aportar valor. En el arte con IA, la curación y la visión artística siguen siendo clave para diferenciar el trabajo de calidad del 'ruido'."
+      "conclusion": "La economía argentina sigue sensible a los vaivenes globales, como lo demuestra el aumento del riesgo país. A la vez, el gobierno busca soluciones internas con iniciativas como la 'Inocencia Fiscal' para estabilizar la situación. Para Guido, esto subraya la importancia de diversificar inversiones y estar atento tanto a las tendencias globales como a las políticas económicas locales."
     }
   ],
   "noticias": [
@@ -184,17 +151,19 @@
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Apple",
       "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/07/24/fire-reported-near-apple-park/",
-      "tituloOriginal": "Fire Reported Near Apple Park",
-      "tituloLimpio": "Reportan un incendio cerca de Apple Park",
-      "resumen": "Se reportó un incendio al aire libre en un edificio alquilado por Apple, adyacente a Apple Park en Cupertino, California.",
-      "porQueImporta": "Es una noticia menor sobre un incidente en las cercanías de las instalaciones de Apple, sin impacto directo en productos o servicios para Guido.",
-      "publicadoEn": "2026-07-24T13:30:29.000Z",
+      "url": "https://www.macrumors.com/2026/07/24/anthropic-opus-5/",
+      "tituloOriginal": "Anthropic's New Claude Opus 5 Nearly Matches Flagship Fable 5 at Half the Cost",
+      "tituloLimpio": "Anthropic lanzó Claude Opus 5, casi iguala a Fable 5 por la mitad del costo",
+      "resumen": "Anthropic presentó Claude Opus 5, una mejora de Opus 4.8. Opus 5 ofrece un rendimiento cercano a Fable 5 a mitad de precio. Fable 5 es el modelo más capaz de Anthropic disponible públicamente.",
+      "porQueImporta": "Este lanzamiento es relevante para Guido porque ofrece un modelo de IA de alto rendimiento a un costo significativamente menor, lo que podría impactar la eficiencia y el presupuesto en sus proyectos de arte con IA y automatización.",
+      "publicadoEn": "2026-07-24T17:43:35.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "apple",
-        "incidente"
+        "AI",
+        "Anthropic",
+        "Claude Opus 5",
+        "Costo-efectividad"
       ],
       "tambienVistoEn": []
     },
@@ -202,19 +171,61 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/empleados-comercio-cuanto-cobran-julio-y-agosto-el-aumento-del-57-y-el-bono-n6303221",
-      "tituloOriginal": "Empleados de Comercio: cuánto cobran en julio y agosto con el aumento del 5,7% y el bono",
-      "tituloLimpio": "Empleados de Comercio: cuánto cobran en julio y agosto con el aumento del 5,7% y el bono",
-      "resumen": "El acuerdo salarial incluye un extra no remunerativo de $50.000, que se liquidará en dos cuotas de $25.000 junto con los haberes de julio y agosto.",
-      "porQueImporta": "Es una noticia relevante para el ámbito laboral en Argentina, que afecta a un sector importante de trabajadores y puede influir en el consumo general.",
-      "publicadoEn": "2026-07-24T13:41:00.000Z",
-      "globalScore": 94,
+      "url": "https://www.ambito.com/economia/de-brasil-japon-la-ola-rechazo-global-los-nuevos-aranceles-donald-trump-n6303294",
+      "tituloOriginal": "De Brasil a Japón: la ola de rechazo global a los nuevos aranceles de Donald Trump",
+      "tituloLimpio": "Rechazo global a los nuevos aranceles de Donald Trump",
+      "resumen": "Los nuevos gravámenes de entre el 10% y el 12,5% entraron en vigor. Distintos países rechazaron los argumentos de trabajo forzoso y anticiparon negociaciones.",
+      "porQueImporta": "Aunque no es directo, las tensiones comerciales globales pueden afectar la economía y los mercados, impactando las inversiones de Guido. Es una señal de inestabilidad económica global.",
+      "publicadoEn": "2026-07-24T16:04:00.000Z",
+      "imagen": "https://media.ambito.com/p/86d2a7a170fa050f828c67a0770b8e94/adjuntos/239/imagenes/042/316/0042316064/aranceles-trump-abril-2025.jpg",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "economia",
-        "salarios",
-        "empleados de comercio"
+        "Argentina",
+        "Economía Global",
+        "Aranceles",
+        "Comercio"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "tituloOriginal": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+      "tituloLimpio": "Cognition compró Poke: la personalidad de la IA se vuelve una ventaja competitiva",
+      "resumen": "La startup de codificación de IA Cognition adquirió Poke, un asistente de IA conversacional. Esta adquisición integra el estilo conversacional de Poke en el agente de codificación Devin de Cognition.",
+      "porQueImporta": "Destaca una tendencia clave en IA: la importancia de la interacción y la 'personalidad' de los asistentes. Para Guido, esto puede influir en cómo se diseñan o eligen herramientas de IA, priorizando la experiencia de usuario.",
+      "publicadoEn": "2026-07-24T18:07:32.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Cognition",
+        "Poke",
+        "Experiencia de Usuario",
+        "Personalidad IA"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
+      "tituloOriginal": "The tech-broification of American science has officially begun",
+      "tituloLimpio": "La administración Trump anunció los primeros subsidios 'Genesis Mission' para ciencia con IA",
+      "resumen": "La administración Trump reveló los primeros subsidios 'Genesis Mission', destinando 5 mil millones de dólares a cientos de proyectos científicos impulsados por IA.",
+      "porQueImporta": "Indica una inversión masiva en investigación y desarrollo de IA a nivel gubernamental, lo que podría acelerar avances tecnológicos y generar nuevas herramientas o tendencias en el campo de la IA aplicada.",
+      "publicadoEn": "2026-07-24T14:43:55.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Inversión",
+        "Ciencia",
+        "Gobierno"
       ],
       "tambienVistoEn": []
     },
@@ -225,35 +236,16 @@
       "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
       "tituloOriginal": "How AI helps scientists design the next generation of medicines",
       "tituloLimpio": "Cómo la IA ayuda a los científicos a diseñar la próxima generación de medicamentos",
-      "resumen": "Diseñar y desarrollar un nuevo medicamento es un desafío científico costoso y propenso a fallas. La IA ayuda en este proceso.",
-      "porQueImporta": "Muestra un uso avanzado de la IA en un campo complejo, lo que puede inspirar aplicaciones similares en otros dominios, incluyendo el arte y retoque fotográfico para optimizar procesos.",
+      "resumen": "Diseñar y desarrollar un nuevo medicamento es un desafío científico costoso y propenso a fallas. Un nuevo fármaco puede tardar muchos años en desarrollarse, con un costo de inversión significativo.",
+      "porQueImporta": "Muestra el potencial transformador de la IA en campos complejos, lo que puede inspirar a Guido a pensar en aplicaciones innovadoras de IA en su propio campo o en la automatización de procesos creativos.",
       "publicadoEn": "2026-07-23T12:00:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "ai",
-        "ciencia",
-        "medicina",
-        "innovacion"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
-      "categoria": "Apple",
-      "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/07/24/heres-everything-new-apple-tv-has-coming-in-august-2026/",
-      "tituloOriginal": "Here’s everything new Apple TV has coming in August",
-      "tituloLimpio": "Novedades de Apple TV para agosto",
-      "resumen": "Los suscriptores de Apple TV disfrutarán del regreso de Ted Lasso en agosto, junto con una nueva temporada de la serie de ciencia ficción Dark Matter, más episodios de Silo y otras series que regresan.",
-      "porQueImporta": "Guido es usuario de Apple, y esta noticia detalla el contenido que estará disponible en una de sus plataformas, lo que puede ser de su interés personal.",
-      "publicadoEn": "2026-07-24T13:44:51.000Z",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "apple",
-        "apple tv",
-        "entretenimiento"
+        "AI",
+        "Innovación",
+        "Medicina",
+        "Diseño"
       ],
       "tambienVistoEn": []
     },
@@ -265,14 +257,15 @@
       "tituloOriginal": "Google introduces new ‘selfie video’ sign-in method",
       "tituloLimpio": "Google introduce un nuevo método de inicio de sesión con 'video selfie'",
       "resumen": "Las Cuentas de Google están incorporando un nuevo método de inicio de sesión con 'video selfie' que puede ser útil si se pierde el teléfono o las passkeys.",
-      "porQueImporta": "Es una mejora en la seguridad y accesibilidad de las cuentas de Google, relevante para cualquier usuario de tecnología, incluyendo Guido.",
+      "porQueImporta": "Es una novedad en seguridad y acceso a cuentas, relevante para la gestión de herramientas y la protección de datos personales de Guido. Podría ser una tendencia en la autenticación.",
       "publicadoEn": "2026-07-23T15:15:00.000Z",
-      "globalScore": 94,
+      "globalScore": 88,
       "personalScore": 100,
       "tags": [
-        "google",
-        "seguridad",
-        "tecnologia"
+        "Google",
+        "Seguridad",
+        "Autenticación",
+        "Herramientas"
       ],
       "tambienVistoEn": []
     },
@@ -280,19 +273,19 @@
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
       "categoria": "Apple",
       "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/07/24/hide-my-email-apple-upgrade-and-mass-iphone-18-pro-production-on-the-appleinsider-podcast?utm_source=rss",
-      "tituloOriginal": "Hide My Email, Apple Upgrade, and mass iPhone 18 Pro production, on the AppleInsider Podcast",
-      "tituloLimpio": "Problemas con 'Ocultar mi correo', aumento de precios de Apple y producción masiva de iPhone 18 Pro",
-      "resumen": "El fallo de 'Ocultar mi correo' es real pero no tan significativo como se presenta, Apple está subiendo muchos precios pero busca formas de hacerlo aceptable, y Foxconn comenzó su campaña anual de reclutamiento para producir millones de nuevos iPhones.",
-      "porQueImporta": "Noticias variadas de Apple que tocan temas de privacidad, estrategia de precios y producción, relevantes para un usuario de Apple como Guido.",
-      "publicadoEn": "2026-07-24T13:03:59.000Z",
+      "url": "https://appleinsider.com/articles/26/07/24/iphone-exploit-legal-fight-is-really-about-who-owns-security-research?utm_source=rss",
+      "tituloOriginal": "iPhone exploit legal fight is really about who owns security research",
+      "tituloLimpio": "La disputa legal por un exploit de iPhone se centra en la propiedad de la investigación de seguridad",
+      "resumen": "Un juez federal ordenó retirar un exploit público de iPhone después de que Magnet Forensics argumentara que no era investigación de seguridad independiente, sino un secreto comercial robado.",
+      "porQueImporta": "Aunque específico de Apple, resalta la importancia de la propiedad intelectual y la seguridad en el ámbito tecnológico, temas relevantes para cualquier creador o desarrollador.",
+      "publicadoEn": "2026-07-24T16:40:13.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "apple",
-        "iphone",
-        "privacidad",
-        "precios"
+        "Apple",
+        "iPhone",
+        "Seguridad",
+        "Propiedad Intelectual"
       ],
       "tambienVistoEn": []
     },
@@ -302,17 +295,39 @@
       "fuente": "MacStories",
       "url": "https://www.macstories.net/linked/app-store-chaos/",
       "tituloOriginal": "App Store Chaos",
-      "tituloLimpio": "Caos en la App Store por aplicaciones creadas con IA",
-      "resumen": "Kalley Huang, escribiendo para The New York Times, habla sobre las aplicaciones creadas con la ayuda de agentes de IA que están inundando la App Store.",
-      "porQueImporta": "Refleja una tendencia importante en el desarrollo de software y el impacto de la IA en la creación de aplicaciones, relevante para alguien interesado en IA aplicada y herramientas.",
+      "tituloLimpio": "Caos en la App Store por la inundación de apps creadas con IA",
+      "resumen": "Kalley Huang, escribiendo para The New York Times, describe cómo las apps creadas con la ayuda de agentes de IA están inundando la App Store.",
+      "porQueImporta": "Refleja una saturación del mercado de aplicaciones con IA, lo que podría afectar la visibilidad y el éxito de nuevas herramientas. Es un punto a considerar si Guido piensa en desarrollar o lanzar algo.",
       "publicadoEn": "2026-07-22T15:54:17.000Z",
       "globalScore": 90,
       "personalScore": 100,
       "tags": [
-        "apple",
-        "app store",
-        "ia",
-        "desarrollo"
+        "Apple",
+        "App Store",
+        "AI",
+        "Mercado de Apps"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/article/techs-ai-debt-boom-in-one-chart-143849995.html",
+      "tituloOriginal": "Tech's AI debt boom, in one chart",
+      "tituloLimpio": "El auge de la deuda de IA en tecnología, en un gráfico",
+      "resumen": "Un gráfico muestra el auge de la deuda de IA en el sector tecnológico.",
+      "porQueImporta": "Indica una tendencia de inversión y financiamiento en el sector de la IA, lo que puede ser relevante para entender el panorama financiero de las empresas tecnológicas y sus implicaciones para el mercado de ETFs.",
+      "publicadoEn": "2026-07-22T14:38:49.000Z",
+      "imagen": "https://s.yimg.com/os/creatr-uploaded-images/2026-02/0b82c910-037a-11f1-bfff-64481a7e8c60",
+      "globalScore": 86,
+      "personalScore": 100,
+      "tags": [
+        "Finance",
+        "AI",
+        "Deuda",
+        "Tecnología",
+        "Inversión"
       ],
       "tambienVistoEn": []
     },
@@ -320,41 +335,20 @@
       "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
       "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/24/saylor-and-team-overhaul-strategy-s-bitcoin-metrics-as-bear-market-persists",
-      "tituloOriginal": "Saylor and team overhaul Strategy's bitcoin metrics as bear market persists",
-      "tituloLimpio": "Saylor y su equipo revisan las métricas de Bitcoin de Strategy mientras persiste el mercado bajista",
-      "resumen": "El nuevo marco brinda a los accionistas comunes una visión más clara de la exposición neta a Bitcoin después de las obligaciones de acciones preferentes y deuda convertible.",
-      "porQueImporta": "Es relevante para inversores en criptomonedas, ya que muestra cómo una empresa importante ajusta su estrategia en un mercado bajista, ofreciendo una visión sobre la gestión de inversiones en activos volátiles.",
-      "publicadoEn": "2026-07-24T13:15:15.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/d00d58cb37e792985dd1a2d7a5b976dca32d84c0-720x406.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "globalScore": 92,
+      "url": "https://www.coindesk.com/policy/2026/07/24/senate-dems-should-accept-the-victory-they-won-on-trump-s-crypto-limits-white-house",
+      "tituloOriginal": "Senate Dems should accept the victory they won on Trump's crypto limits: White House",
+      "tituloLimpio": "La Casa Blanca dice que los demócratas del Senado deberían aceptar su victoria en los límites cripto de Trump",
+      "resumen": "Los demócratas del Senado de EE.UU. lograron que el presidente Donald Trump aceptara posibles límites a sus lucrativos negocios con criptomonedas.",
+      "porQueImporta": "Aunque es una noticia política de EE.UU., el impacto en la regulación de criptomonedas puede tener efectos globales en el mercado de activos digitales, relevante para inversores.",
+      "publicadoEn": "2026-07-24T15:01:46.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/aefcf277cef626f81400c28bb3aab27f340fe892-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 96,
       "personalScore": 100,
       "tags": [
-        "finanzas",
-        "bitcoin",
-        "inversion",
-        "criptomonedas"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
-      "categoria": "Finance",
-      "fuente": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitkub-criminal-complaint-thailand-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "tituloOriginal": "Thailand SEC files complaint against Bitkub over alleged false disclosures",
-      "tituloLimpio": "La SEC de Tailandia presenta una denuncia contra Bitkub por presuntas divulgaciones falsas",
-      "resumen": "La SEC de Tailandia presentó una denuncia penal contra Bitkub y dos exdirectores por presuntas divulgaciones falsas relacionadas con un ciberataque de 2021 que involucró $50 millones en activos.",
-      "porQueImporta": "Destaca riesgos regulatorios y de seguridad en el espacio de las criptomonedas, importante para cualquier inversor o interesado en el sector.",
-      "publicadoEn": "2026-07-24T12:46:27.000Z",
-      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-reporting-failures-can-be-expensive-even-criminal-ftx.png",
-      "globalScore": 90,
-      "personalScore": 100,
-      "tags": [
-        "finanzas",
-        "criptomonedas",
-        "regulacion",
-        "seguridad"
+        "Finance",
+        "Criptomonedas",
+        "Regulación",
+        "Política"
       ],
       "tambienVistoEn": []
     },
@@ -362,20 +356,20 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-viernes-24-julio_0_iTfpgQaDWz.html",
-      "tituloOriginal": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este viernes 24 de julio",
-      "tituloLimpio": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este viernes 24 de julio",
-      "resumen": "Desde el oficial hasta el blue y el turista, todos los tipos de cambio. Mirá la cotización minuto a minuto.",
-      "porQueImporta": "Información esencial sobre la economía argentina y la cotización del dólar, de interés diario para cualquier residente en el país.",
-      "publicadoEn": "2026-07-24T12:00:01.000Z",
-      "imagen": "https://www.clarin.com/img/2020/05/20/oIMi6C78n_1200x630__1.jpg",
+      "url": "https://www.clarin.com/economia/despues-neuquen-santa-cruz-busca-emitir-deuda-mercados-internacionales_0_TeGLxbX0KM.html",
+      "tituloOriginal": "Después de Neuquén, Santa Cruz busca emitir deuda en los mercados internacionales",
+      "tituloLimpio": "Después de Neuquén, Santa Cruz busca emitir deuda en mercados internacionales",
+      "resumen": "El gobernador Vidal busca financiamiento por US$ 600 millones para infraestructura. El plan está frenado por falta de apoyo político en la legislatura.",
+      "porQueImporta": "Muestra el interés de las provincias argentinas en buscar financiamiento externo, lo que puede influir en la percepción de riesgo del país y en las oportunidades de inversión a nivel local.",
+      "publicadoEn": "2026-07-24T17:40:02.000Z",
+      "imagen": "https://www.clarin.com/img/2025/05/31/krv3BxmpO_1200x630__1.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "economia",
-        "dolar",
-        "finanzas"
+        "Argentina",
+        "Finanzas",
+        "Deuda",
+        "Inversión"
       ],
       "tambienVistoEn": []
     },
@@ -383,20 +377,19 @@
       "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Politica",
-      "url": "https://www.clarin.com/politica/javier-milei-medidas-vivo-posible-dolar-llegue-1800-proximos-meses-vaticino-vocero-adrian-ravier_0_Rfy1h3S59h.html",
-      "tituloOriginal": "Javier Milei y sus medidas, EN VIVO: \"Es posible que el dólar llegue a $ 1.800 en los próximos meses\", vaticinó el vocero Adrián Ravier con una crítica a Mauricio Macri",
-      "tituloLimpio": "Javier Milei y sus medidas: 'Es posible que el dólar llegue a $1.800 en los próximos meses', vaticinó el vocero Adrián Ravier",
-      "resumen": "Además recordó lo sucedido con el mercado cambiario en el gobierno de Cambiemos, y señaló que 'ellos estaban con un tipo de cambio de 15 pesos y se les fue a 60'.",
-      "porQueImporta": "Una proyección económica importante para Argentina que puede influir en decisiones financieras y de inversión de Guido.",
-      "publicadoEn": "2026-07-24T11:35:41.000Z",
-      "imagen": "https://www.clarin.com/img/2026/07/14/S3T7mQ78w_1200x630__1.jpg",
-      "globalScore": 98,
+      "url": "https://www.clarin.com/politica/cristina-kirchner-contrato-abogado-lula-cuestionar-tribunales-internacionales-condena-causa-vialidad_0_rWBE43Fdjt.html",
+      "tituloOriginal": "Cristina Kirchner contrató a un abogado de Lula para cuestionar ante tribunales internacionales su condena en la causa Vialidad",
+      "tituloLimpio": "Cristina Kirchner contrató a un abogado de Lula para cuestionar su condena en la causa Vialidad ante tribunales internacionales",
+      "resumen": "Se trata de Rafael Valim, que se sumará al equipo que diseña la estrategia judicial de la expresidenta para presentar ante distintos organismos internacionales.",
+      "porQueImporta": "Es una noticia política de alto impacto en Argentina, que puede generar inestabilidad o cambios en el panorama político y judicial, afectando el clima de negocios y las inversiones.",
+      "publicadoEn": "2026-07-24T17:49:03.000Z",
+      "imagen": "https://www.clarin.com/img/2025/11/18/sjr-t4Mkg_1200x630__1.jpg",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "politica",
-        "economia",
-        "dolar"
+        "Argentina",
+        "Política",
+        "Justicia"
       ],
       "tambienVistoEn": []
     },
@@ -404,20 +397,20 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/07/24/cuanto-cobraran-los-empleados-de-comercio-en-julio-tras-el-ultimo-aumento-y-cual-es-el-bono-acordado/",
-      "tituloOriginal": "Cuánto cobrarán los empleados de comercio en julio tras el último aumento y cuál es el bono acordado",
-      "tituloLimpio": "Cuánto cobrarán los empleados de comercio en julio tras el último aumento y cuál es el bono acordado",
-      "resumen": "El acuerdo paritario anunciado este jueves definió los nuevos ingresos para este mes, el esquema de pagos adicionales y el cronograma de incrementos previsto hasta septiembre.",
-      "porQueImporta": "Detalla los ingresos y bonos para un sector laboral clave en Argentina, relevante para entender el panorama económico local.",
-      "publicadoEn": "2026-07-24T13:36:42.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/35QGI5E76NHYNBFXTKXTLMMHSM.jpg?auth=567853dcbf21c0636d62e49cdcb09d923d599cee2b6c12f262066cc162ca5253&smart=true&width=1456&height=816",
-      "globalScore": 94,
+      "url": "https://www.infobae.com/economia/2026/07/24/mercados-con-caida-de-bonos-y-acciones-el-riesgo-pais-rebota-al-nivel-mas-alto-en-seis-semanas/",
+      "tituloOriginal": "El mal clima internacional golpea a los activos argentinos y empuja al riesgo país al borde de los 450 puntos",
+      "tituloLimpio": "El mal clima internacional golpea a los activos argentinos y empuja al riesgo país al borde de los 450 puntos",
+      "resumen": "Wall Street negocia dispar por la tensión en Oriente Medio y las dudas sobre el sector tecnológico. El s&P Merval pierde 0,7% y los títulos públicos caen 0,3%. El indicador de JP Morgan sube a 442 unidades.",
+      "porQueImporta": "Impacto directo en las inversiones de Guido en Argentina. El aumento del riesgo país es una señal de cautela para el mercado local y los ETFs que invierten en la región.",
+      "publicadoEn": "2026-07-24T18:03:28.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/SHLVSVNGKFGRFJTFOH37U7ATVM.JPG?auth=d6a6c40ea36b784da29bcba98750512056b3734730f68d7119848ffc6b49ee97&smart=true&width=4878&height=3252",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "economia",
-        "salarios",
-        "empleados de comercio"
+        "Argentina",
+        "Finanzas",
+        "Riesgo País",
+        "Mercados"
       ],
       "tambienVistoEn": []
     },
@@ -425,19 +418,19 @@
       "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Politica",
-      "url": "https://www.infobae.com/politica/2026/07/24/designaron-a-fernando-subirats-como-subsecretario-de-comunicacion-y-medios-publicos-para-profundizar-la-reorganizacion-del-area/",
-      "tituloOriginal": "Designaron a Fernando Subirats como subsecretario de Comunicación y Medios Públicos para profundizar la reorganización del área",
-      "tituloLimpio": "Designaron a Fernando Subirats como subsecretario de Comunicación y Medios Públicos para profundizar la reorganización del área",
-      "resumen": "El actual director de Radio Nacional asumirá el 1° de agosto bajo la órbita del secretario Fabián Fernández. Tendrá a su cargo la administración, reducción de gasto y privatización de medios estatales.",
-      "porQueImporta": "Cambios en la estructura de comunicación del gobierno argentino, que pueden tener implicaciones en la política y la economía del país.",
-      "publicadoEn": "2026-07-24T13:36:06.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/OV4KXENF6ZBCZAPWHQ5NEN54WA.jpg?auth=6a1084231e41f8584c3dc16c8d293ca64d596d1d314a2b580a753366453a29b6&smart=true&width=1280&height=853",
-      "globalScore": 98,
+      "url": "https://www.infobae.com/politica/2026/07/24/se-activo-la-disputa-por-la-sucesion-de-axel-kicillof-en-el-peronismo-recorridas-y-actos-en-la-agenda-hacia-2027/",
+      "tituloOriginal": "Se activó la disputa por la sucesión de Axel Kicillof en el peronismo: recorridas y actos en la agenda hacia 2027",
+      "tituloLimpio": "Se activó la disputa por la sucesión de Axel Kicillof en el peronismo",
+      "resumen": "A la espera de señales del gobernador, intendentes y dirigentes bonaerenses ya perfilan una campaña de instalación para discutir la candidatura por el PJ al ejecutivo provincial.",
+      "porQueImporta": "Noticia política relevante para Argentina, que puede generar incertidumbre o cambios en la provincia de Buenos Aires, afectando el clima de negocios y las decisiones de inversión a largo plazo.",
+      "publicadoEn": "2026-07-24T17:39:28.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/UNODTARZL5AHJC2J7TG2BYKCFA.jpg?auth=5516699cdad37db44a93a3eb6c860f720d87849f5eca54671774f159f3f1e7c4&smart=true&width=1920&height=1080",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "politica",
-        "gobierno"
+        "Argentina",
+        "Política",
+        "Buenos Aires"
       ],
       "tambienVistoEn": []
     },
@@ -445,20 +438,20 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/riesgo-pais-los-motivos-economicos-y-externos-por-los-que-no-logra-perforar-los-400-puntos-nid24072026/",
-      "tituloOriginal": "Riesgo país: los motivos económicos y externos por los que no logra perforar los 400 puntos",
-      "tituloLimpio": "Riesgo país: los motivos económicos y externos por los que no logra perforar los 400 puntos",
-      "resumen": "Los analistas advirtieron que el indicador elaborado por JP Morgan llegó a un 'piso' y que la compresión hacia los 300 puntos dependerá tanto del pulso de la actividad interna y la confianza electoral de cara a 2027 como de la presión de las tasas de interés internacionales.",
-      "porQueImporta": "Análisis sobre un indicador económico clave para Argentina, que afecta la percepción de riesgo y las oportunidades de inversión.",
-      "publicadoEn": "2026-07-24T13:36:38.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/PDZZTZDFLRENROYHJZQU3QHWE4.JPG?auth=565c2e3c486d0346716bafa8ae060313c2371c326022461722b43ef2d142b1c4&smart=true&width=2000&height=1333",
-      "globalScore": 100,
+      "url": "https://www.lanacion.com.ar/economia/conviene-adherirse-en-que-casos-recomiendan-los-tributaristas-sumarse-a-la-iniciativa-para-usar-los-nid24072026/",
+      "tituloOriginal": "¿Conviene adherirse?: en qué casos recomiendan los tributaristas sumarse a la iniciativa para usar los “dólares del colchón”",
+      "tituloLimpio": "Conviene adherirse: en qué casos recomiendan los tributaristas sumarse a la iniciativa para usar los 'dólares del colchón'",
+      "resumen": "El Gobierno presentó ante el Congreso el nuevo proyecto de Inocencia Fiscal; el pago deberá realizarse antes del 27 de julio.",
+      "porQueImporta": "Oportunidad directa para Guido si tiene 'dólares del colchón'. Es crucial entender los beneficios y riesgos de esta iniciativa fiscal para tomar una decisión informada.",
+      "publicadoEn": "2026-07-24T18:05:37.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/GHSZNGFV4FBN7D6V3AYV4H6RTU.jpg?auth=d9c8fd22de8f9f8455c0d6610ecd246b61fdc09688eb4385a24c4611144e9133&smart=true&width=2000&height=1333",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "economia",
-        "riesgo pais",
-        "inversion"
+        "Argentina",
+        "Finanzas",
+        "Inocencia Fiscal",
+        "Dólares"
       ],
       "tambienVistoEn": []
     },
@@ -470,41 +463,22 @@
       "tituloOriginal": "Javier Milei y sus medidas, en vivo: el proyecto de “inocencia fiscal 2″ y las propuestas en al Congreso",
       "tituloLimpio": "Javier Milei y sus medidas, en vivo: el proyecto de 'inocencia fiscal 2' y las propuestas en el Congreso",
       "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios.",
-      "porQueImporta": "Seguimiento de la agenda política y económica del gobierno argentino, relevante para entender el contexto del país.",
-      "publicadoEn": "2026-07-24T13:35:00.000Z",
+      "porQueImporta": "Seguimiento de las políticas económicas y fiscales del gobierno argentino, que tienen un impacto directo en el clima de negocios, las inversiones y la vida cotidiana en Argentina.",
+      "publicadoEn": "2026-07-24T18:10:00.000Z",
       "imagen": "https://resizer.glanacion.com/resizer/v2/CLCJVG4YR5CCRIYMP77RSQQYDY.JPG?auth=27de19c8562b6ecbef309638d1003a9313cb8b849a493e6b081c57f377ba53a3&smart=true&width=1280&height=833",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "politica",
-        "gobierno"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
-      "categoria": "Marketing",
-      "fuente": "Adweek",
-      "url": "https://www.adweek.com/brand-marketing/after-world-cup-brands-look-to-la28-with-a-new-sports-marketing-game-plan/",
-      "tituloOriginal": "After World Cup, Brands Look to LA28 With a New Sports Marketing Game Plan",
-      "tituloLimpio": "Después del Mundial, las marcas miran a LA28 con un nuevo plan de marketing deportivo",
-      "resumen": "Después del éxito del Mundial 2026, que generó más de $15 mil millones en ingresos para la FIFA y un récord de 38.9 millones de espectadores promedio para el partido final.",
-      "porQueImporta": "Muestra cómo las grandes marcas planifican sus estrategias de marketing a largo plazo en eventos deportivos, relevante para entender tendencias en marketing.",
-      "publicadoEn": "2026-07-24T09:00:00.000Z",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "marketing",
-        "deportes",
-        "marcas",
-        "estrategia"
+        "Argentina",
+        "Política",
+        "Economía",
+        "Inocencia Fiscal"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-07-24T13:50:18.623Z"
+    "generadoEn": "2026-07-24T18:17:39.865Z"
   }
 }
