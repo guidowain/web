@@ -1,0 +1,510 @@
+{
+  "fecha": "2026-07-24",
+  "generadoEn": "2026-07-24T13:50:18.623Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "Hoy tenemos novedades importantes en el ámbito de la inteligencia artificial, con actualizaciones de Google, OpenAI y Amazon que mejoran la productividad y la interacción. En el mundo Apple, se reportó un incendio cerca de Apple Park y se anunciaron novedades para Apple TV. También hay noticias relevantes para Argentina, como el aumento salarial para empleados de comercio y la cotización del dólar. En finanzas, se destaca el crecimiento de Dell por la demanda de servidores de IA y cambios en la estrategia de Bitcoin de Saylor. El marketing digital muestra una mayor aceptación de los anuncios en streaming.",
+  "radarPersonal": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Google presenta novedades para usuarios de Samsung en Galaxy Unpacked 2026",
+      "resumen": "Google compartió cómo los usuarios de Samsung pueden mejorar la productividad y ahorrar tiempo con los nuevos dispositivos plegables, relojes y gafas que saldrán pronto.",
+      "categoria": "AI",
+      "fuentes": [
+        "Google AI Blog"
+      ],
+      "urls": [
+        "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/"
+      ],
+      "score": 100,
+      "tags": [
+        "google",
+        "samsung",
+        "productividad",
+        "galaxy unpacked"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "El nuevo modo de voz de OpenAI llega a la aplicación de escritorio de ChatGPT",
+      "resumen": "El modo de voz de ChatGPT en escritorio puede funcionar con ChatGPT Work y Codex para completar tareas y controlar agentes.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/"
+      ],
+      "score": 100,
+      "tags": [
+        "openai",
+        "chatgpt",
+        "voz",
+        "escritorio",
+        "productividad"
+      ]
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "Alexa Plus recibe una actualización de IA para manejar instrucciones más complejas",
+      "resumen": "Amazon está lanzando una actualización para su asistente Alexa Plus que le permitirá conectarse con dispositivos de hogar inteligente de nuevas maneras.",
+      "categoria": "AI",
+      "fuentes": [
+        "The Verge AI"
+      ],
+      "urls": [
+        "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices"
+      ],
+      "score": 100,
+      "tags": [
+        "amazon",
+        "alexa",
+        "ia",
+        "hogar inteligente",
+        "automatización"
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "titulo": "Los consumidores se muestran más receptivos a los anuncios en streaming",
+      "resumen": "Dos tercios de los espectadores dicen que no les molesta tanto ver anuncios como antes, según datos de Hub Entertainment Research.",
+      "categoria": "Marketing",
+      "fuentes": [
+        "Marketing Dive"
+      ],
+      "urls": [
+        "https://www.marketingdive.com/news/consumers-warm-up-to-streaming-ads-heres-what-the-numbers-say/826069/"
+      ],
+      "score": 100,
+      "tags": [
+        "marketing",
+        "streaming",
+        "publicidad",
+        "consumidores"
+      ]
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "titulo": "Dell Technologies sube un 9.3% por la fuerte demanda de servidores de IA con Nvidia",
+      "resumen": "Dell Technologies (DELL) sube un 9.3% por la fuerte demanda de servidores de IA con Nvidia.",
+      "categoria": "Finance",
+      "fuentes": [
+        "Yahoo Finance"
+      ],
+      "urls": [
+        "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-dell-climbs-9-022911228.html"
+      ],
+      "score": 100,
+      "tags": [
+        "inversión",
+        "acciones",
+        "dell",
+        "nvidia",
+        "ia",
+        "mercados"
+      ]
+    }
+  ],
+  "loImportante": [
+    "La IA sigue avanzando en productividad y automatización, con Google, OpenAI y Amazon lanzando actualizaciones significativas.",
+    "El mercado laboral argentino ve un aumento salarial para empleados de comercio y un bono adicional.",
+    "El dólar en Argentina sigue siendo un tema central, con proyecciones de posibles aumentos.",
+    "La demanda de servidores de IA impulsa el crecimiento de empresas como Dell, mostrando el impacto económico de la inteligencia artificial.",
+    "La aceptación de la publicidad en streaming por parte de los consumidores abre nuevas oportunidades en marketing digital."
+  ],
+  "oportunidades": [
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "Automation",
+      "titulo": "Automatización de tareas con el modo de voz de ChatGPT en escritorio",
+      "detalle": "El nuevo modo de voz de ChatGPT en su aplicación de escritorio permite controlar agentes y completar tareas, lo que podría optimizar flujos de trabajo en retoque fotográfico o arte con IA.",
+      "acciones": [
+        "Explorar la integración de ChatGPT Voice con herramientas de diseño y edición.",
+        "Evaluar cómo esta función puede automatizar tareas repetitivas en proyectos de IA y retoque."
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "Mayor receptividad a la publicidad en streaming",
+      "detalle": "Los consumidores están más abiertos a ver anuncios en plataformas de streaming, lo que sugiere nuevas vías para estrategias de marketing y monetización de contenido.",
+      "acciones": [
+        "Investigar plataformas de streaming relevantes para campañas publicitarias.",
+        "Considerar la creación de contenido publicitario adaptado a este formato."
+      ]
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Investing",
+      "titulo": "Inversión en empresas beneficiadas por la demanda de IA",
+      "detalle": "El aumento en la demanda de servidores de IA, como los de Dell con tecnología Nvidia, indica un sector en crecimiento con potencial de inversión.",
+      "acciones": [
+        "Analizar ETFs o acciones de empresas que proveen infraestructura para IA (ej. Dell, Nvidia).",
+        "Monitorear el rendimiento de estas empresas en el mercado."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Market",
+      "titulo": "Posible aumento del dólar a $1.800 en los próximos meses",
+      "detalle": "Un vocero vaticinó que el dólar podría llegar a $1.800 en los próximos meses, lo que podría impactar en costos de importación y poder adquisitivo.",
+      "mitigacion": "Evaluar el impacto en costos de herramientas y servicios dolarizados. Considerar estrategias de cobertura o diversificación de inversiones."
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Market",
+      "titulo": "Riesgo país estancado cerca de los 400 puntos",
+      "detalle": "El riesgo país no logra bajar de los 400 puntos, lo que indica incertidumbre económica y puede afectar la inversión y el acceso a financiamiento.",
+      "mitigacion": "Mantenerse informado sobre la evolución económica y política del país. Priorizar inversiones en activos con menor exposición al riesgo local."
+    }
+  ],
+  "conexiones": [
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "titulo": "La IA en el diseño de medicamentos y su impacto en la investigación",
+      "historias": [
+        "La IA ayuda a los científicos a diseñar la próxima generación de medicamentos, reduciendo costos y fallas en el desarrollo.",
+        "Esto demuestra el potencial de la IA para optimizar procesos complejos y costosos en diversas industrias."
+      ],
+      "conclusion": "Así como la IA revoluciona la medicina, sus principios de optimización y eficiencia pueden aplicarse a la automatización y mejora de procesos en el retoque fotográfico y el arte con IA, buscando reducir tiempos y mejorar resultados."
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Caos en la App Store por aplicaciones generadas con IA",
+      "historias": [
+        "La App Store está siendo inundada por aplicaciones creadas con la ayuda de agentes de IA.",
+        "Se cuestiona si esta facilidad de creación se traduce en utilidad real para los usuarios."
+      ],
+      "conclusion": "Esto resalta la importancia de la calidad y la utilidad real en el desarrollo de productos con IA. No basta con generar algo fácilmente; debe aportar valor. En el arte con IA, la curación y la visión artística siguen siendo clave para diferenciar el trabajo de calidad del 'ruido'."
+    }
+  ],
+  "noticias": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/07/24/fire-reported-near-apple-park/",
+      "tituloOriginal": "Fire Reported Near Apple Park",
+      "tituloLimpio": "Reportan un incendio cerca de Apple Park",
+      "resumen": "Se reportó un incendio al aire libre en un edificio alquilado por Apple, adyacente a Apple Park en Cupertino, California.",
+      "porQueImporta": "Es una noticia menor sobre un incidente en las cercanías de las instalaciones de Apple, sin impacto directo en productos o servicios para Guido.",
+      "publicadoEn": "2026-07-24T13:30:29.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "incidente"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/empleados-comercio-cuanto-cobran-julio-y-agosto-el-aumento-del-57-y-el-bono-n6303221",
+      "tituloOriginal": "Empleados de Comercio: cuánto cobran en julio y agosto con el aumento del 5,7% y el bono",
+      "tituloLimpio": "Empleados de Comercio: cuánto cobran en julio y agosto con el aumento del 5,7% y el bono",
+      "resumen": "El acuerdo salarial incluye un extra no remunerativo de $50.000, que se liquidará en dos cuotas de $25.000 junto con los haberes de julio y agosto.",
+      "porQueImporta": "Es una noticia relevante para el ámbito laboral en Argentina, que afecta a un sector importante de trabajadores y puede influir en el consumo general.",
+      "publicadoEn": "2026-07-24T13:41:00.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "economia",
+        "salarios",
+        "empleados de comercio"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "tituloOriginal": "How AI helps scientists design the next generation of medicines",
+      "tituloLimpio": "Cómo la IA ayuda a los científicos a diseñar la próxima generación de medicamentos",
+      "resumen": "Diseñar y desarrollar un nuevo medicamento es un desafío científico costoso y propenso a fallas. La IA ayuda en este proceso.",
+      "porQueImporta": "Muestra un uso avanzado de la IA en un campo complejo, lo que puede inspirar aplicaciones similares en otros dominios, incluyendo el arte y retoque fotográfico para optimizar procesos.",
+      "publicadoEn": "2026-07-23T12:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "ai",
+        "ciencia",
+        "medicina",
+        "innovacion"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/24/heres-everything-new-apple-tv-has-coming-in-august-2026/",
+      "tituloOriginal": "Here’s everything new Apple TV has coming in August",
+      "tituloLimpio": "Novedades de Apple TV para agosto",
+      "resumen": "Los suscriptores de Apple TV disfrutarán del regreso de Ted Lasso en agosto, junto con una nueva temporada de la serie de ciencia ficción Dark Matter, más episodios de Silo y otras series que regresan.",
+      "porQueImporta": "Guido es usuario de Apple, y esta noticia detalla el contenido que estará disponible en una de sus plataformas, lo que puede ser de su interés personal.",
+      "publicadoEn": "2026-07-24T13:44:51.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "apple tv",
+        "entretenimiento"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81Z29v",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5google.com/2026/07/23/google-account-selfie-video/",
+      "tituloOriginal": "Google introduces new ‘selfie video’ sign-in method",
+      "tituloLimpio": "Google introduce un nuevo método de inicio de sesión con 'video selfie'",
+      "resumen": "Las Cuentas de Google están incorporando un nuevo método de inicio de sesión con 'video selfie' que puede ser útil si se pierde el teléfono o las passkeys.",
+      "porQueImporta": "Es una mejora en la seguridad y accesibilidad de las cuentas de Google, relevante para cualquier usuario de tecnología, incluyendo Guido.",
+      "publicadoEn": "2026-07-23T15:15:00.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "google",
+        "seguridad",
+        "tecnologia"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/07/24/hide-my-email-apple-upgrade-and-mass-iphone-18-pro-production-on-the-appleinsider-podcast?utm_source=rss",
+      "tituloOriginal": "Hide My Email, Apple Upgrade, and mass iPhone 18 Pro production, on the AppleInsider Podcast",
+      "tituloLimpio": "Problemas con 'Ocultar mi correo', aumento de precios de Apple y producción masiva de iPhone 18 Pro",
+      "resumen": "El fallo de 'Ocultar mi correo' es real pero no tan significativo como se presenta, Apple está subiendo muchos precios pero busca formas de hacerlo aceptable, y Foxconn comenzó su campaña anual de reclutamiento para producir millones de nuevos iPhones.",
+      "porQueImporta": "Noticias variadas de Apple que tocan temas de privacidad, estrategia de precios y producción, relevantes para un usuario de Apple como Guido.",
+      "publicadoEn": "2026-07-24T13:03:59.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "iphone",
+        "privacidad",
+        "precios"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/linked/app-store-chaos/",
+      "tituloOriginal": "App Store Chaos",
+      "tituloLimpio": "Caos en la App Store por aplicaciones creadas con IA",
+      "resumen": "Kalley Huang, escribiendo para The New York Times, habla sobre las aplicaciones creadas con la ayuda de agentes de IA que están inundando la App Store.",
+      "porQueImporta": "Refleja una tendencia importante en el desarrollo de software y el impacto de la IA en la creación de aplicaciones, relevante para alguien interesado en IA aplicada y herramientas.",
+      "publicadoEn": "2026-07-22T15:54:17.000Z",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "app store",
+        "ia",
+        "desarrollo"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/24/saylor-and-team-overhaul-strategy-s-bitcoin-metrics-as-bear-market-persists",
+      "tituloOriginal": "Saylor and team overhaul Strategy's bitcoin metrics as bear market persists",
+      "tituloLimpio": "Saylor y su equipo revisan las métricas de Bitcoin de Strategy mientras persiste el mercado bajista",
+      "resumen": "El nuevo marco brinda a los accionistas comunes una visión más clara de la exposición neta a Bitcoin después de las obligaciones de acciones preferentes y deuda convertible.",
+      "porQueImporta": "Es relevante para inversores en criptomonedas, ya que muestra cómo una empresa importante ajusta su estrategia en un mercado bajista, ofreciendo una visión sobre la gestión de inversiones en activos volátiles.",
+      "publicadoEn": "2026-07-24T13:15:15.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/d00d58cb37e792985dd1a2d7a5b976dca32d84c0-720x406.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "bitcoin",
+        "inversion",
+        "criptomonedas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/bitkub-criminal-complaint-thailand-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Thailand SEC files complaint against Bitkub over alleged false disclosures",
+      "tituloLimpio": "La SEC de Tailandia presenta una denuncia contra Bitkub por presuntas divulgaciones falsas",
+      "resumen": "La SEC de Tailandia presentó una denuncia penal contra Bitkub y dos exdirectores por presuntas divulgaciones falsas relacionadas con un ciberataque de 2021 que involucró $50 millones en activos.",
+      "porQueImporta": "Destaca riesgos regulatorios y de seguridad en el espacio de las criptomonedas, importante para cualquier inversor o interesado en el sector.",
+      "publicadoEn": "2026-07-24T12:46:27.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-reporting-failures-can-be-expensive-even-criminal-ftx.png",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "criptomonedas",
+        "regulacion",
+        "seguridad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-viernes-24-julio_0_iTfpgQaDWz.html",
+      "tituloOriginal": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este viernes 24 de julio",
+      "tituloLimpio": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este viernes 24 de julio",
+      "resumen": "Desde el oficial hasta el blue y el turista, todos los tipos de cambio. Mirá la cotización minuto a minuto.",
+      "porQueImporta": "Información esencial sobre la economía argentina y la cotización del dólar, de interés diario para cualquier residente en el país.",
+      "publicadoEn": "2026-07-24T12:00:01.000Z",
+      "imagen": "https://www.clarin.com/img/2020/05/20/oIMi6C78n_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "economia",
+        "dolar",
+        "finanzas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/javier-milei-medidas-vivo-posible-dolar-llegue-1800-proximos-meses-vaticino-vocero-adrian-ravier_0_Rfy1h3S59h.html",
+      "tituloOriginal": "Javier Milei y sus medidas, EN VIVO: \"Es posible que el dólar llegue a $ 1.800 en los próximos meses\", vaticinó el vocero Adrián Ravier con una crítica a Mauricio Macri",
+      "tituloLimpio": "Javier Milei y sus medidas: 'Es posible que el dólar llegue a $1.800 en los próximos meses', vaticinó el vocero Adrián Ravier",
+      "resumen": "Además recordó lo sucedido con el mercado cambiario en el gobierno de Cambiemos, y señaló que 'ellos estaban con un tipo de cambio de 15 pesos y se les fue a 60'.",
+      "porQueImporta": "Una proyección económica importante para Argentina que puede influir en decisiones financieras y de inversión de Guido.",
+      "publicadoEn": "2026-07-24T11:35:41.000Z",
+      "imagen": "https://www.clarin.com/img/2026/07/14/S3T7mQ78w_1200x630__1.jpg",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "politica",
+        "economia",
+        "dolar"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/07/24/cuanto-cobraran-los-empleados-de-comercio-en-julio-tras-el-ultimo-aumento-y-cual-es-el-bono-acordado/",
+      "tituloOriginal": "Cuánto cobrarán los empleados de comercio en julio tras el último aumento y cuál es el bono acordado",
+      "tituloLimpio": "Cuánto cobrarán los empleados de comercio en julio tras el último aumento y cuál es el bono acordado",
+      "resumen": "El acuerdo paritario anunciado este jueves definió los nuevos ingresos para este mes, el esquema de pagos adicionales y el cronograma de incrementos previsto hasta septiembre.",
+      "porQueImporta": "Detalla los ingresos y bonos para un sector laboral clave en Argentina, relevante para entender el panorama económico local.",
+      "publicadoEn": "2026-07-24T13:36:42.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/35QGI5E76NHYNBFXTKXTLMMHSM.jpg?auth=567853dcbf21c0636d62e49cdcb09d923d599cee2b6c12f262066cc162ca5253&smart=true&width=1456&height=816",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "economia",
+        "salarios",
+        "empleados de comercio"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/07/24/designaron-a-fernando-subirats-como-subsecretario-de-comunicacion-y-medios-publicos-para-profundizar-la-reorganizacion-del-area/",
+      "tituloOriginal": "Designaron a Fernando Subirats como subsecretario de Comunicación y Medios Públicos para profundizar la reorganización del área",
+      "tituloLimpio": "Designaron a Fernando Subirats como subsecretario de Comunicación y Medios Públicos para profundizar la reorganización del área",
+      "resumen": "El actual director de Radio Nacional asumirá el 1° de agosto bajo la órbita del secretario Fabián Fernández. Tendrá a su cargo la administración, reducción de gasto y privatización de medios estatales.",
+      "porQueImporta": "Cambios en la estructura de comunicación del gobierno argentino, que pueden tener implicaciones en la política y la economía del país.",
+      "publicadoEn": "2026-07-24T13:36:06.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/OV4KXENF6ZBCZAPWHQ5NEN54WA.jpg?auth=6a1084231e41f8584c3dc16c8d293ca64d596d1d314a2b580a753366453a29b6&smart=true&width=1280&height=853",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "politica",
+        "gobierno"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/riesgo-pais-los-motivos-economicos-y-externos-por-los-que-no-logra-perforar-los-400-puntos-nid24072026/",
+      "tituloOriginal": "Riesgo país: los motivos económicos y externos por los que no logra perforar los 400 puntos",
+      "tituloLimpio": "Riesgo país: los motivos económicos y externos por los que no logra perforar los 400 puntos",
+      "resumen": "Los analistas advirtieron que el indicador elaborado por JP Morgan llegó a un 'piso' y que la compresión hacia los 300 puntos dependerá tanto del pulso de la actividad interna y la confianza electoral de cara a 2027 como de la presión de las tasas de interés internacionales.",
+      "porQueImporta": "Análisis sobre un indicador económico clave para Argentina, que afecta la percepción de riesgo y las oportunidades de inversión.",
+      "publicadoEn": "2026-07-24T13:36:38.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/PDZZTZDFLRENROYHJZQU3QHWE4.JPG?auth=565c2e3c486d0346716bafa8ae060313c2371c326022461722b43ef2d142b1c4&smart=true&width=2000&height=1333",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "economia",
+        "riesgo pais",
+        "inversion"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Politica",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-proyecto-de-inocencia-fiscal-2-y-las-propuestas-en-al-congreso-nid24072026/",
+      "tituloOriginal": "Javier Milei y sus medidas, en vivo: el proyecto de “inocencia fiscal 2″ y las propuestas en al Congreso",
+      "tituloLimpio": "Javier Milei y sus medidas, en vivo: el proyecto de 'inocencia fiscal 2' y las propuestas en el Congreso",
+      "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios.",
+      "porQueImporta": "Seguimiento de la agenda política y económica del gobierno argentino, relevante para entender el contexto del país.",
+      "publicadoEn": "2026-07-24T13:35:00.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/CLCJVG4YR5CCRIYMP77RSQQYDY.JPG?auth=27de19c8562b6ecbef309638d1003a9313cb8b849a493e6b081c57f377ba53a3&smart=true&width=1280&height=833",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "politica",
+        "gobierno"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "fuente": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/after-world-cup-brands-look-to-la28-with-a-new-sports-marketing-game-plan/",
+      "tituloOriginal": "After World Cup, Brands Look to LA28 With a New Sports Marketing Game Plan",
+      "tituloLimpio": "Después del Mundial, las marcas miran a LA28 con un nuevo plan de marketing deportivo",
+      "resumen": "Después del éxito del Mundial 2026, que generó más de $15 mil millones en ingresos para la FIFA y un récord de 38.9 millones de espectadores promedio para el partido final.",
+      "porQueImporta": "Muestra cómo las grandes marcas planifican sus estrategias de marketing a largo plazo en eventos deportivos, relevante para entender tendencias en marketing.",
+      "publicadoEn": "2026-07-24T09:00:00.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "deportes",
+        "marcas",
+        "estrategia"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-07-24T13:50:18.623Z"
+  }
+}
