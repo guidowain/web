@@ -1,0 +1,504 @@
+{
+  "fecha": "2026-07-25",
+  "generadoEn": "2026-07-25T13:40:23.135Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "Esta semana, Apple está preparando un nuevo programa de leasing y financiación de dispositivos, mientras que Google introduce un método de inicio de sesión por video selfie. En el ámbito de la IA, Midjourney adquirió una app de astrología y se destaca cómo la IA ayuda a diseñar nuevas medicinas. En Argentina, el riesgo país volvió a subir y se detectaron inconsistencias millonarias en los balances de la AFA.",
+  "radarPersonal": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Apple prepara un programa de leasing y financiación de dispositivos",
+      "resumen": "Apple estaría por lanzar un nuevo programa de leasing y financiación de dispositivos, además de haber subido algunos precios, incluyendo las suscripciones de Apple Music.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/07/25/top-stories-apple-upgrade-program/"
+      ],
+      "score": 100,
+      "tags": [
+        "apple",
+        "leasing",
+        "financiación",
+        "precios"
+      ]
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "Midjourney compró la aplicación de astrología Co-Star",
+      "resumen": "Midjourney, conocida por generar imágenes con IA, se expande a un nuevo campo con la adquisición de la aplicación de astrología personalizada Co-Star.",
+      "categoria": "AI",
+      "fuentes": [
+        "The Verge AI"
+      ],
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition"
+      ],
+      "score": 100,
+      "tags": [
+        "midjourney",
+        "astrología",
+        "adquisición",
+        "ia"
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Análisis sobre la rentabilidad del plazo fijo en Argentina",
+      "resumen": "La rentabilidad de un plazo fijo en Argentina depende de la tasa ofrecida por cada entidad y del canal utilizado para constituir el depósito.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/sigue-valiendo-la-pena-el-plazo-fijo-cuanto-rinden-5000000-un-mes-n6303227"
+      ],
+      "score": 100,
+      "tags": [
+        "plazo fijo",
+        "rentabilidad",
+        "argentina",
+        "inversión"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "Un problema de centros de datos de IA expuesto por una línea eléctrica caída",
+      "resumen": "Un incidente en Virginia del Norte reveló cómo los centros de datos responden a las interrupciones de la red eléctrica y cómo solucionar el problema.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/"
+      ],
+      "score": 100,
+      "tags": [
+        "ia",
+        "centros de datos",
+        "problemas",
+        "infraestructura"
+      ]
+    }
+  ],
+  "loImportante": [
+    "Apple está explorando nuevos modelos de negocio con programas de leasing y financiación de dispositivos.",
+    "La IA sigue expandiéndose a nuevos mercados, como la adquisición de una app de astrología por parte de Midjourney.",
+    "En Argentina, la inversión en plazos fijos sigue siendo un tema relevante, con la rentabilidad dependiendo de las tasas bancarias.",
+    "La infraestructura de los centros de datos de IA enfrenta desafíos en su respuesta a interrupciones de la red eléctrica."
+  ],
+  "oportunidades": [
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "titulo": "La IA ayuda a diseñar la próxima generación de medicinas",
+      "detalle": "La IA está siendo utilizada para diseñar y desarrollar nuevas medicinas, lo que puede reducir costos y tiempos en un proceso que suele ser caro y propenso a fallas.",
+      "acciones": [
+        "Explorar aplicaciones de IA en otros campos de investigación y desarrollo."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "Technology",
+      "titulo": "Vulnerabilidad de centros de datos de IA ante fallas eléctricas",
+      "detalle": "Un incidente en Virginia del Norte expuso la deficiente respuesta de los centros de datos de IA a las interrupciones de la red eléctrica, lo que podría afectar la continuidad de servicios.",
+      "mitigacion": "Evaluar la resiliencia de la infraestructura de IA y buscar soluciones para mejorar la respuesta a fallas eléctricas."
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Market",
+      "titulo": "Suba del riesgo país en Argentina por tensiones globales",
+      "detalle": "El riesgo país en Argentina volvió a subir, impulsado por la tensión en Medio Oriente y la volatilidad de los mercados globales, a pesar de mejoras en la calificación de la deuda.",
+      "mitigacion": "Monitorear la situación geopolítica y su impacto en los mercados financieros locales e internacionales."
+    }
+  ],
+  "conexiones": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Apple y sus movimientos financieros",
+      "historias": [
+        "Apple prepara un programa de leasing y financiación de dispositivos.",
+        "Micron insta a la Casa Blanca a rechazar el plan de Apple para comprar memoria de un proveedor en la lista negra.",
+        "Apple tiene ofertas de fin de semana en MacBook Pro, AirPods Pro 3 y AirTag 2."
+      ],
+      "conclusion": "Apple está activamente buscando nuevas formas de monetización y gestión de su cadena de suministro, lo que genera tanto oportunidades de compra como tensiones con proveedores y reguladores."
+    }
+  ],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+      "tituloOriginal": "3 Google updates from Galaxy Unpacked 2026",
+      "tituloLimpio": "Google anuncia actualizaciones para usuarios de Samsung en Galaxy Unpacked 2026",
+      "resumen": "Google compartió cómo los usuarios de Samsung pueden mejorar la productividad y ahorrar tiempo con los nuevos dispositivos plegables, relojes y gafas que se lanzarán pronto.",
+      "porQueImporta": "Guido usa Android y Samsung, por lo que las mejoras de productividad y las novedades en dispositivos son relevantes para su ecosistema de herramientas.",
+      "publicadoEn": "2026-07-22T13:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "google",
+        "samsung",
+        "productividad",
+        "dispositivos"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/07/25/top-stories-apple-upgrade-program/",
+      "tituloOriginal": "Top Stories: 'Apple Upgrade' Program, Apple Music Price Hike, and More",
+      "tituloLimpio": "Apple prepara un programa de leasing y financiación de dispositivos",
+      "resumen": "Se informó que Apple está preparando el lanzamiento de un nuevo programa de leasing y financiación de dispositivos, y que ha subido algunos precios, incluyendo las suscripciones de Apple Music.",
+      "porQueImporta": "Guido es usuario de Apple y le interesa cómo la empresa innova en modelos de negocio y afecta los precios de sus servicios.",
+      "publicadoEn": "2026-07-25T13:00:11.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "leasing",
+        "financiación",
+        "apple music"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/sigue-valiendo-la-pena-el-plazo-fijo-cuanto-rinden-5000000-un-mes-n6303227",
+      "tituloOriginal": "¿Sigue valiendo la pena el plazo fijo? Cuánto rinden $5.000.000 en un mes",
+      "tituloLimpio": "Análisis sobre la rentabilidad del plazo fijo en Argentina",
+      "resumen": "La rentabilidad de un plazo fijo en Argentina depende de la tasa ofrecida por cada entidad y del canal utilizado para constituir el depósito.",
+      "porQueImporta": "Guido vive en Argentina y le interesa la inversión, por lo que la información sobre plazos fijos es directamente aplicable a sus finanzas personales.",
+      "publicadoEn": "2026-07-25T11:30:00.000Z",
+      "imagen": "https://media.ambito.com/p/cd2b5a2ef3516a847fd1c179e52c6576/adjuntos/239/imagenes/043/520/0043520365/1200x675/smart/plazo-fijo-1500-x-1000.png",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "plazo fijo",
+        "inversión",
+        "finanzas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/under-armour-heated-rivalry-francois-arnaud-global-ambassador/826165/",
+      "tituloOriginal": "Under Armour teams with ‘Heated Rivalry’ star for new campaign",
+      "tituloLimpio": "Under Armour lanza nueva campaña con estrella de 'Heated Rivalry'",
+      "resumen": "François Arnaud es el nuevo embajador de la marca y presenta su franquicia HeatGear en la campaña “For When It’s Hot”.",
+      "porQueImporta": "Guido se interesa en marketing, y esta noticia muestra una estrategia de campaña con embajadores de marca.",
+      "publicadoEn": "2026-07-24T17:00:00.000Z",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "campaña",
+        "embajador de marca",
+        "under armour"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "tituloOriginal": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+      "tituloLimpio": "Una línea eléctrica caída expuso un problema creciente en centros de datos de IA",
+      "resumen": "Un incidente en Virginia del Norte reveló la deficiente respuesta de los centros de datos a las interrupciones de la red eléctrica y cómo solucionar el problema.",
+      "porQueImporta": "Guido trabaja con IA y le interesa la infraestructura que la soporta, incluyendo los desafíos y soluciones en la gestión de centros de datos.",
+      "publicadoEn": "2026-07-25T13:05:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "centros de datos",
+        "infraestructura",
+        "problemas técnicos"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+      "tituloOriginal": "Midjourney bought the astrology app Co-Star",
+      "tituloLimpio": "Midjourney compró la aplicación de astrología Co-Star",
+      "resumen": "Midjourney, que genera imágenes con IA, se está adentrando en un nuevo campo con la adquisición de la aplicación de astrología personalizada Co-Star.",
+      "porQueImporta": "Guido trabaja con arte e IA, y esta noticia muestra la expansión de las empresas de IA a nuevos y variados mercados.",
+      "publicadoEn": "2026-07-24T19:06:58.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "midjourney",
+        "ia",
+        "adquisición",
+        "astrología"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "tituloOriginal": "How AI helps scientists design the next generation of medicines",
+      "tituloLimpio": "Cómo la IA ayuda a los científicos a diseñar la próxima generación de medicinas",
+      "resumen": "Diseñar y desarrollar una nueva medicina es un desafío científico costoso y propenso a fallas. La IA ayuda en este proceso.",
+      "porQueImporta": "Guido se interesa en la IA aplicada, y esta noticia destaca un uso innovador y de alto impacto en la ciencia y la medicina.",
+      "publicadoEn": "2026-07-23T12:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "medicina",
+        "ciencia",
+        "desarrollo"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/25/apple-weekend-deals-macbook-pro-airpods-airtag-2/",
+      "tituloOriginal": "Apple weekend deals: MacBook Pro $500 off, AirPods Pro 3, AirTag 2, iPhone Air, Series 11, more",
+      "tituloLimpio": "Ofertas de fin de semana de Apple: MacBook Pro, AirPods Pro 3, AirTag 2 y más",
+      "resumen": "Hay ofertas de fin de semana en productos Apple, incluyendo descuentos en MacBook Pro, AirPods Pro 3 y AirTag 2.",
+      "porQueImporta": "Guido es usuario de Apple y estas ofertas pueden ser relevantes si está buscando actualizar o adquirir nuevos dispositivos.",
+      "publicadoEn": "2026-07-25T12:10:03.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "ofertas",
+        "macbook pro",
+        "airpods"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81Z29v",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5google.com/2026/07/23/google-account-selfie-video/",
+      "tituloOriginal": "Google introduces new ‘selfie video’ sign-in method",
+      "tituloLimpio": "Google introduce un nuevo método de inicio de sesión con 'selfie video'",
+      "resumen": "Las cuentas de Google están incorporando un nuevo método de inicio de sesión con 'selfie video', útil si se pierde el teléfono o las passkeys.",
+      "porQueImporta": "Guido usa herramientas y automatización, y las nuevas formas de seguridad y acceso a cuentas son relevantes para su gestión digital.",
+      "publicadoEn": "2026-07-23T15:15:00.000Z",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "google",
+        "seguridad",
+        "inicio de sesión",
+        "herramientas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/07/25/micron-urges-white-house-to-reject-apples-blacklist-memory-plan?utm_source=rss",
+      "tituloOriginal": "Micron urges White House to reject Apple's blacklist memory plan",
+      "tituloLimpio": "Micron insta a la Casa Blanca a rechazar el plan de Apple sobre memoria",
+      "resumen": "El plan de Apple de comprar memoria de un proveedor en la lista negra está recibiendo resistencia de Micron, que afirma que desestabilizará la industria tecnológica de EE.UU.",
+      "porQueImporta": "Guido es usuario de Apple y le interesa la cadena de suministro y las decisiones estratégicas de la empresa, que pueden afectar la disponibilidad o el costo de los productos.",
+      "publicadoEn": "2026-07-25T12:48:35.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "micron",
+        "cadena de suministro",
+        "tecnología"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/news/podcast-rewind-siri-ai-the-game-boy-advance-returns-and-smart-ceiling-fans/",
+      "tituloOriginal": "Podcast Rewind: Siri AI, the Game Boy Advance Returns, and Smart Ceiling Fans",
+      "tituloLimpio": "Podcast Rewind: Siri AI, el regreso de Game Boy Advance y ventiladores de techo inteligentes",
+      "resumen": "Los últimos episodios de los podcasts de MacStories analizan las capacidades de Siri AI, dónde necesita mejorar y hacia dónde podría dirigirse.",
+      "porQueImporta": "Guido se interesa en Apple y la IA, por lo que un análisis sobre Siri AI es relevante para entender el futuro de los asistentes inteligentes.",
+      "publicadoEn": "2026-07-24T19:35:38.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "siri",
+        "ia",
+        "podcast"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/small-business/articles/outdoor-giant-now-closing-91-161700671.html",
+      "tituloOriginal": "Outdoor giant now closing 91 stores in Chapter 11 bankruptcy",
+      "tituloLimpio": "Gigante del sector outdoor cierra 91 tiendas por bancarrota",
+      "resumen": "Un gigante del sector outdoor está cerrando 91 tiendas debido a la bancarrota bajo el Capítulo 11.",
+      "porQueImporta": "Guido se interesa en negocios y finanzas, y el cierre de tiendas de una empresa grande es una señal de tendencias económicas o problemas de mercado.",
+      "publicadoEn": "2026-07-24T16:17:00.000Z",
+      "imagen": "https://media.zenfs.com/en/thestreet_881/d15e3c54fe4f86b0f751940df86e6089",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "negocios",
+        "finanzas",
+        "bancarrota",
+        "retail"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Dow Jones Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus",
+      "tituloLimpio": "Dow Jones Futures: Señal de venta en el mercado; ganancias de Apple y reunión de la Fed en foco",
+      "resumen": "El mercado activó una señal de venta; las ganancias de Apple, las noticias de Irán y la reunión de la Fed están en foco.",
+      "porQueImporta": "Guido invierte en ETFs y mercados, por lo que las señales de venta y los factores macroeconómicos como las ganancias de Apple y las decisiones de la Fed son cruciales.",
+      "publicadoEn": "2026-07-25T12:24:40.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/ec8365e261a0dfa9375d79fafac86ffa",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "mercados",
+        "apple",
+        "fed"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/opinion/2026/07/25/democratizing-weather-derivatives-through-tokenization-could-be-crypto-s-most-important-real-world-use-case",
+      "tituloOriginal": "Democratizing weather derivatives through tokenization could be crypto's most important real-world use case",
+      "tituloLimpio": "La tokenización de derivados climáticos podría ser un caso de uso importante para las criptomonedas",
+      "resumen": "La tokenización de derivados climáticos podría ser el caso de uso más importante de las criptomonedas en el mundo real, permitiendo a la gente común cubrir riesgos relacionados con el clima.",
+      "porQueImporta": "Guido se interesa en inversión y nuevas tecnologías, y la tokenización como herramienta financiera es un área de interés emergente.",
+      "publicadoEn": "2026-07-25T13:00:00.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/498275a8ec5e7df835f47c58778db26eb7a40a00-6240x4160.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "criptomonedas",
+        "tokenización",
+        "riesgo climático"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/north-korea-bank-hacking-ring-crypto-laundering-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "North Korea arrests bank hacking ring tied to crypto laundering: Report",
+      "tituloLimpio": "Corea del Norte arresta a una red de hackers bancarios vinculada al lavado de criptomonedas",
+      "resumen": "Se informó que Corea del Norte arrestó a exoperadores cibernéticos estatales acusados de hackear dos bancos estatales y lavar fondos a través de criptomonedas.",
+      "porQueImporta": "Guido se interesa en finanzas y seguridad, y esta noticia destaca los riesgos y la actividad ilícita en el espacio de las criptomonedas.",
+      "publicadoEn": "2026-07-25T13:14:18.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-north-korea-crypto-relationship2.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "criptomonedas",
+        "seguridad",
+        "hacking",
+        "lavado de dinero"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/ciberataque-provincia-hackearon-pagina-senado-pusieron-foto-chiqui-tapia_0_UeSquixmhs.html",
+      "tituloOriginal": "Ciberataque en una provincia: hackearon la página del Senado y pusieron un foto de Chiqui Tapia",
+      "tituloLimpio": "Ciberataque en una provincia argentina: hackearon la página del Senado y pusieron una foto de Chiqui Tapia",
+      "resumen": "Ocurrió en Mendoza durante el mediodía del viernes. Quince días antes hubo otro ataque a los mails de la AFA.",
+      "porQueImporta": "Guido vive en Argentina y se interesa en la seguridad digital, por lo que los ciberataques a instituciones locales son relevantes.",
+      "publicadoEn": "2026-07-25T11:55:04.000Z",
+      "imagen": "https://www.clarin.com/img/2026/07/25/E3NUwayXF_1200x630__1.jpg",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "ciberseguridad",
+        "hackeo",
+        "mendoza"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/07/25/por-que-volvio-a-subir-el-riesgo-pais-pese-a-la-mejora-de-la-calificacion-de-la-deuda-argentina/",
+      "tituloOriginal": "Por qué volvió a subir el riesgo país, pese a la mejora de la calificación de la deuda argentina",
+      "tituloLimpio": "El riesgo país volvió a subir pese a la mejora de la calificación de la deuda argentina",
+      "resumen": "La suba del indicador hasta 437 puntos básicos responde a la tensión en Medio Oriente y la volatilidad de los mercados globales, que contrarrestaron las mejoras recientes del rating crediticio.",
+      "porQueImporta": "Guido invierte y vive en Argentina, por lo que el riesgo país es un indicador clave de la salud económica del país y afecta sus decisiones de inversión.",
+      "publicadoEn": "2026-07-25T13:33:21.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/OXO73LANPZHSXFXTD4AGDTYLRI.jpg?auth=4869a8325cfafd395509d1e1154c6a7ee4f754fc4c650bf6919c980a0eaa9069&smart=true&width=1920&height=1080",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "riesgo país",
+        "economía",
+        "inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/07/25/el-ex-titular-de-la-igj-dio-detalles-del-inicio-de-la-causa-contra-la-afa-detectaron-mas-de-500-millones-de-dolares-de-inconsistencia-en-los-balances/",
+      "tituloOriginal": "El ex titular de la IGJ dio detalles del inicio de la causa contra la AFA: detectaron más de 500 millones de dólares sin explicar",
+      "tituloLimpio": "El ex titular de la IGJ dio detalles del inicio de la causa contra la AFA: detectaron más de 500 millones de dólares sin explicar",
+      "resumen": "Daniel Vítolo dijo que halló unos US$111 millones sin respaldo contable en la entidad y unos US$400 millones en la Superliga. Afirmó que la entidad evitó dar precisiones durante su gestión.",
+      "porQueImporta": "Guido vive en Argentina y se interesa en la transparencia y las finanzas, por lo que las irregularidades en una entidad importante como la AFA son de interés público.",
+      "publicadoEn": "2026-07-25T13:29:31.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/PNUYOPHXBRD75M4I7G4DPPIGTY.jpg?auth=5cb525c86a06e83f58515c866ca715a4c9ea147aadfe59cc3fc578b9f4f149e7&smart=true&width=3780&height=1890",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "afa",
+        "finanzas",
+        "corrupción"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-07-25T13:40:23.135Z"
+  }
+}
