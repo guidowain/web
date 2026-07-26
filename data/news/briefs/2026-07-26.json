@@ -1,0 +1,415 @@
+{
+  "fecha": "2026-07-26",
+  "generadoEn": "2026-07-26T13:29:15.629Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "Hoy tenemos novedades importantes sobre Apple, con el primer iPad resistente al agua y un aumento de precios en MacBooks. En el ámbito de la IA, se destaca la adquisición de Co-Star por Midjourney y cómo la IA está impactando en los despidos tecnológicos. A nivel local, el Presidente Milei se refirió a la inflación y las retenciones al campo, mientras que el consumo sigue siendo una preocupación. También hay noticias sobre la cotización del euro en Venezuela y la investigación de la Justicia de EE.UU. sobre la AFA.",
+  "radarPersonal": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "El primer iPad resistente al agua de Apple se lanzaría este año",
+      "resumen": "El próximo iPad mini sería el primer iPad con diseño resistente al agua y se espera que llegue en octubre.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/07/25/first-water-resistant-ipad/"
+      ],
+      "score": 100,
+      "tags": [
+        "apple",
+        "ipad",
+        "resistente al agua"
+      ]
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "Midjourney compró la aplicación de astrología Co-Star",
+      "resumen": "Midjourney, que pasó de generar imágenes de gatos con IA a ecografías de cuerpo completo, se mete en un nuevo campo: la astrología. La startup de IA anunció la adquisición de la aplicación de astrología personalizada Co-Star.",
+      "categoria": "AI",
+      "fuentes": [
+        "The Verge AI"
+      ],
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition"
+      ],
+      "score": 100,
+      "tags": [
+        "midjourney",
+        "astrología",
+        "adquisición",
+        "ia"
+      ]
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "titulo": "Aumentan los precios de las MacBooks en julio de 2026",
+      "resumen": "En los últimos años, las Mac se habían vuelto más accesibles. Lamentablemente, Apple aumentó drásticamente sus precios debido a la escasez de memoria.",
+      "categoria": "Apple",
+      "fuentes": [
+        "9to5Mac"
+      ],
+      "urls": [
+        "https://9to5mac.com/2026/07/25/best-macbook-deals-currently-july-2026/"
+      ],
+      "score": 100,
+      "tags": [
+        "macbook",
+        "precios",
+        "apple"
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Javier Milei diagnosticó la inflación, criticó al BCRA y propuso cambios para la economía",
+      "resumen": "A través de una columna, el Presidente volvió a cuestionar el rol histórico del Banco Central. Además, defendió un esquema que busca impedir el financiamiento monetario del Estado.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/javier-milei-dio-un-duro-diagnostico-la-inflacion-cargo-contra-el-bcra-y-propuso-cinco-cambios-blindar-la-n6303661"
+      ],
+      "score": 100,
+      "tags": [
+        "milei",
+        "inflación",
+        "bcra",
+        "economía",
+        "argentina"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "Monday.com es la última empresa tecnológica en culpar a la IA por despidos",
+      "resumen": "Un listado de las grandes empresas tecnológicas que anunciaron despidos significativos este año, citando a la IA como factor.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
+      ],
+      "score": 100,
+      "tags": [
+        "ia",
+        "despidos",
+        "tech"
+      ]
+    }
+  ],
+  "loImportante": [
+    "Apple lanzará su primer iPad resistente al agua, el iPad mini, en octubre.",
+    "Midjourney, la empresa de IA, adquirió la aplicación de astrología Co-Star, expandiendo su alcance.",
+    "Los precios de las MacBooks aumentaron debido a la escasez de memoria.",
+    "El Presidente Milei se pronunció sobre la inflación y el rol del Banco Central en Argentina.",
+    "Varias empresas tecnológicas, incluyendo Monday.com, atribuyen despidos a la IA."
+  ],
+  "oportunidades": [
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "titulo": "Midjourney se expande al sector de la astrología con la compra de Co-Star",
+      "detalle": "La adquisición de Co-Star por Midjourney muestra una expansión de la IA a nuevos mercados, como la astrología personalizada. Esto podría indicar nuevas oportunidades para aplicar la IA en nichos inesperados.",
+      "acciones": [
+        "Investigar otras aplicaciones de IA en mercados no tradicionales.",
+        "Analizar el modelo de negocio de Co-Star y su integración con IA."
+      ]
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "titulo": "La IA ayuda a diseñar la próxima generación de medicamentos",
+      "detalle": "La IA está siendo utilizada para acelerar y mejorar el diseño y desarrollo de nuevos medicamentos, un proceso costoso y propenso a fallas. Esto abre un campo de aplicación de IA con alto impacto.",
+      "acciones": [
+        "Explorar herramientas y plataformas de IA aplicadas al diseño molecular o farmacéutico.",
+        "Seguir de cerca las tendencias de inversión en biotecnología y IA."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Market",
+      "titulo": "Aumento de precios en MacBooks por escasez de memoria",
+      "detalle": "Apple aumentó drásticamente los precios de sus MacBooks debido a la escasez de memoria. Esto podría impactar en el costo de las herramientas de trabajo y la inversión en hardware.",
+      "mitigacion": "Evaluar la necesidad de actualizar equipos Apple a corto plazo, considerar alternativas o buscar ofertas en modelos anteriores antes de que el impacto sea mayor."
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "titulo": "Empresas tecnológicas culpan a la IA por despidos",
+      "detalle": "Varias empresas tecnológicas, incluyendo Monday.com, anunciaron despidos significativos atribuyéndolos a la IA. Esto sugiere una posible reestructuración del mercado laboral impulsada por la automatización.",
+      "mitigacion": "Mantenerse actualizado sobre las habilidades demandadas en el mercado de IA y automatización, y considerar la capacitación en nuevas herramientas y tecnologías."
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Market",
+      "titulo": "El consumo no despega en Argentina a pesar de la desinflación",
+      "detalle": "Aunque el proceso de desinflación se mantuvo en julio, la actividad económica y el consumo no logran repuntar en Argentina. Esto puede afectar el poder adquisitivo y las oportunidades de inversión local.",
+      "mitigacion": "Monitorear de cerca los indicadores económicos locales y ajustar las estrategias de inversión y gasto en consecuencia."
+    }
+  ],
+  "conexiones": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Actualizaciones de Google en Galaxy Unpacked 2026",
+      "historias": [
+        "Google compartió cómo los usuarios de Samsung pueden mejorar la productividad en nuevos dispositivos plegables, relojes y gafas."
+      ],
+      "conclusion": "Las actualizaciones de Google en dispositivos Samsung, junto con las novedades de Apple (iPad resistente al agua, aumento de precios en MacBooks), muestran una constante evolución en el hardware y software, buscando mejorar la productividad y la experiencia del usuario. Es clave seguir de cerca estas innovaciones para entender cómo impactan en el ecosistema de herramientas y automatización."
+    }
+  ],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+      "tituloOriginal": "3 Google updates from Galaxy Unpacked 2026",
+      "tituloLimpio": "Google presenta novedades en Galaxy Unpacked 2026",
+      "resumen": "Se compartió cómo los usuarios de Samsung pueden mejorar la productividad y ahorrar tiempo en nuevos dispositivos plegables, relojes y gafas.",
+      "porQueImporta": "Guido usa Android y le interesa la productividad. Estas novedades podrían traer herramientas o mejoras útiles para su día a día.",
+      "publicadoEn": "2026-07-22T13:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "google",
+        "samsung",
+        "productividad",
+        "android"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/07/25/first-water-resistant-ipad/",
+      "tituloOriginal": "Apple's First Water-Resistant iPad to Launch Later This Year",
+      "tituloLimpio": "Apple lanzaría el primer iPad resistente al agua este año",
+      "resumen": "El próximo iPad mini sería el primer iPad con un diseño resistente al agua y se espera que llegue en octubre.",
+      "porQueImporta": "Guido es usuario de Apple. Un iPad resistente al agua podría ser una mejora significativa en durabilidad y uso, especialmente para un profesional que trabaja con tecnología.",
+      "publicadoEn": "2026-07-26T01:00:11.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "ipad",
+        "novedad",
+        "hardware"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/javier-milei-dio-un-duro-diagnostico-la-inflacion-cargo-contra-el-bcra-y-propuso-cinco-cambios-blindar-la-n6303661",
+      "tituloOriginal": "Javier Milei dio un duro diagnóstico sobre la inflación, cargó contra el BCRA y propuso cinco cambios para blindar la economía",
+      "tituloLimpio": "Javier Milei analizó la inflación, criticó al BCRA y propuso cambios económicos",
+      "resumen": "El Presidente cuestionó el rol histórico del Banco Central y defendió un esquema para impedir el financiamiento monetario del Estado.",
+      "porQueImporta": "Noticia relevante para Guido por su interés en la economía argentina y las decisiones que impactan en el mercado local.",
+      "publicadoEn": "2026-07-26T12:34:38.000Z",
+      "imagen": "https://media.ambito.com/p/082a12d85091e046f1b88577deffab86/adjuntos/239/imagenes/042/770/0042770569/milei-bcra-motosierra.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "economía",
+        "inflación",
+        "milei"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "tituloOriginal": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+      "tituloLimpio": "Monday.com y otras empresas tecnológicas atribuyen despidos a la IA",
+      "resumen": "Un listado de las grandes empresas tecnológicas que anunciaron despidos significativos este año, citando a la IA como factor.",
+      "porQueImporta": "Guido trabaja con IA y automatización. Es importante entender cómo la IA está impactando el mercado laboral y las decisiones corporativas.",
+      "publicadoEn": "2026-07-26T01:30:00.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "despidos",
+        "tecnología",
+        "mercado laboral"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+      "tituloOriginal": "Midjourney bought the astrology app Co-Star",
+      "tituloLimpio": "Midjourney adquirió la aplicación de astrología Co-Star",
+      "resumen": "Midjourney, que pasó de generar imágenes de IA a ecografías, se mete en un nuevo campo: la astrología. La startup de IA anunció la adquisición de la aplicación de astrología personalizada Co-Star.",
+      "porQueImporta": "Muestra una expansión inesperada de la IA a nuevos nichos de mercado, lo que puede generar ideas para Guido en su trabajo con IA y arte.",
+      "publicadoEn": "2026-07-24T19:06:58.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "midjourney",
+        "adquisición",
+        "aplicaciones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "tituloOriginal": "How AI helps scientists design the next generation of medicines",
+      "tituloLimpio": "La IA ayuda a científicos a diseñar la próxima generación de medicamentos",
+      "resumen": "Diseñar y desarrollar un nuevo medicamento es un desafío científico costoso y propenso a fallas. Un nuevo fármaco puede tardar muchos años en desarrollarse, con un costo de inversión significativo.",
+      "porQueImporta": "Ejemplo de aplicación práctica y de alto impacto de la IA en un campo complejo, relevante para el interés de Guido en la IA aplicada.",
+      "publicadoEn": "2026-07-23T12:00:00.000Z",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "medicina",
+        "ciencia",
+        "innovación"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/25/best-macbook-deals-currently-july-2026/",
+      "tituloOriginal": "Here are the best MacBook deals right now: July 2026 Buyer’s Guide",
+      "tituloLimpio": "Aumentan los precios de las MacBooks en julio de 2026",
+      "resumen": "En los últimos años, las Mac se habían vuelto más accesibles. Lamentablemente, Apple aumentó drásticamente sus precios debido a la escasez de memoria.",
+      "porQueImporta": "Impacta directamente en Guido como usuario de Apple y potencial comprador de hardware, afectando su presupuesto y decisiones de inversión en herramientas.",
+      "publicadoEn": "2026-07-26T02:13:31.000Z",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "macbook",
+        "precios",
+        "hardware"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/07/26/apple-tv-teases-new-trailers-for-matchbox-neuromancer-dark-matter?utm_source=rss",
+      "tituloOriginal": "Apple TV shares new trailers for 'Matchbox,' 'Neuromancer,' 'Dark Matter'",
+      "tituloLimpio": "Apple TV comparte nuevos tráilers de 'Matchbox', 'Neuromancer' y 'Dark Matter'",
+      "resumen": "Apple TV visitó la San Diego Comic-Con, presentando un panel de dos horas y revelando nuevos tráilers de \"Dark Matter\", \"Neuromancer\" y \"Matchbox The Movie\".",
+      "porQueImporta": "Guido es usuario de Apple y esto muestra el contenido que ofrece la plataforma, relevante para su consumo de medios.",
+      "publicadoEn": "2026-07-26T13:01:28.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "apple tv",
+        "entretenimiento",
+        "contenido"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/07/24/u-s-regulator-warns-prediction-markets-against-cutting-corners-in-event-contracts",
+      "tituloOriginal": "U.S. regulator warns prediction markets against cutting corners in event contracts",
+      "tituloLimpio": "Regulador de EE.UU. advierte a mercados de predicción sobre contratos de eventos",
+      "resumen": "La Commodity Futures Trading Commission emitió una advertencia que señala que las empresas han estado recurriendo a la autocertificación estándar.",
+      "porQueImporta": "Aunque es de EE.UU., las regulaciones en mercados financieros pueden sentar precedentes o indicar tendencias globales que afecten a inversores en ETFs o criptomonedas.",
+      "publicadoEn": "2026-07-26T13:00:00.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/ba52f7bccf2ae307a3c4c7efe5945ed295f5380d-4032x2268.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "regulación",
+        "mercados",
+        "eeuu"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/07/26/el-blooper-del-vocero-presidencial-volvio-a-poner-al-dolar-en-escena-pero-lo-que-preocupa-es-que-el-consumo-no-despega/",
+      "tituloOriginal": "El vocero presidencial volvió a poner al dólar en escena, pero lo que preocupa es que el consumo no despega",
+      "tituloLimpio": "El vocero presidencial volvió a mencionar al dólar, pero preocupa que el consumo no despega",
+      "resumen": "Según el Gobierno, el tipo de cambio flota, pero hay funcionarios que insisten en proyectar precios. En julio se mantuvo el proceso de desinflación, aunque a la actividad le cuesta despegar.",
+      "porQueImporta": "Noticia económica clave para Argentina, que afecta el poder adquisitivo y el panorama de inversión local de Guido.",
+      "publicadoEn": "2026-07-26T13:11:05.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/BGU7PASG55FOHNKR5UOSFQ25XA.jpg?auth=f19d1a4b455d59bc0f1f05fa38c42c2372024eb524def108f1db2ac06606ff3c&smart=true&width=1920&height=1381",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "economía",
+        "dólar",
+        "consumo"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/campo/milei-en-la-rural-expectativa-del-campo-por-los-anuncios-del-presidente-sobre-las-retenciones-nid26072026/",
+      "tituloOriginal": "Milei en la Rural: expectativa del campo por los anuncios del Presidente sobre las retenciones",
+      "tituloLimpio": "Milei en la Rural: expectativa del campo por anuncios sobre retenciones",
+      "resumen": "El jefe de Estado participa del acto de inauguración de la exposición; el sector espera la eliminación del cobro de los derechos de exportación a la carne de novillo.",
+      "porQueImporta": "Decisiones económicas importantes para Argentina que pueden impactar en la estabilidad económica y el mercado, relevante para el interés de Guido en finanzas.",
+      "publicadoEn": "2026-07-26T12:57:09.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/YJB3WGWYG5A6PERF5IGFMDFHVE.jpeg?auth=11a7411f64582c6187cd80950e9d32742d44acd1d2ce1201f3b5f7b361aee1be&smart=true&width=2560&height=1706",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "economía",
+        "campo",
+        "retenciones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Politica",
+      "url": "https://www.lanacion.com.ar/politica/la-justicia-de-eeuu-da-un-paso-clave-en-la-investigacion-sobre-la-afa-que-podria-demorar-meses-antes-nid26072026/",
+      "tituloOriginal": "La Justicia de EE.UU. da un paso clave en la investigación sobre la AFA, que podría demorar meses antes de presentar cargos",
+      "tituloLimpio": "La Justicia de EE.UU. avanza en la investigación sobre la AFA",
+      "resumen": "Los fiscales exigen “confidencialidad extrema”, mientras que la primera ronda de citaciones podría abarcar seis personas.",
+      "porQueImporta": "Noticia de impacto internacional que involucra a una institución argentina, relevante para el interés de Guido en Argentina y eventos globales.",
+      "publicadoEn": "2026-07-26T11:34:42.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/KWTBUNUDJVFZPDO5DXZN4ZWTZU.jpg?auth=2257e4b51606b3f2e3caeddc8d7be903dec6b6c88c016e071d5edd3cb6b773e2&smart=true&width=2000&height=1333",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "justicia",
+        "eeuu",
+        "afa"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-07-26T13:29:15.629Z"
+  }
+}
