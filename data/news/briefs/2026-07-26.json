@@ -1,31 +1,51 @@
 {
   "fecha": "2026-07-26",
-  "generadoEn": "2026-07-26T13:29:15.629Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "Hoy tenemos novedades importantes sobre Apple, con el primer iPad resistente al agua y un aumento de precios en MacBooks. En el ámbito de la IA, se destaca la adquisición de Co-Star por Midjourney y cómo la IA está impactando en los despidos tecnológicos. A nivel local, el Presidente Milei se refirió a la inflación y las retenciones al campo, mientras que el consumo sigue siendo una preocupación. También hay noticias sobre la cotización del euro en Venezuela y la investigación de la Justicia de EE.UU. sobre la AFA.",
+  "generadoEn": "2026-07-26T18:02:31.195Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Hoy, las noticias giran en torno a la ratificación de Javier Milei sobre la eliminación de retenciones al campo, aunque sin anuncios concretos, y la visita de la titular del FMI a Argentina. En el ámbito tecnológico, Apple planea lanzar gafas inteligentes con foco en la privacidad en 2027, mientras que Google presenta actualizaciones para Samsung y un nuevo método de inicio de sesión con video selfie. La seguridad en IA es un tema central tras un hackeo a OpenAI, y Midjourney adquiere una app de astrología. También se destacan movimientos en el mercado de valores y el lanzamiento de infraestructura de trading de criptomonedas en Rusia.",
   "radarPersonal": [
     {
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "El primer iPad resistente al agua de Apple se lanzaría este año",
-      "resumen": "El próximo iPad mini sería el primer iPad con diseño resistente al agua y se espera que llegue en octubre.",
+      "titulo": "Apple planea presentar gafas inteligentes con foco en la privacidad en 2027",
+      "resumen": "Apple tiene previsto presentar sus primeras gafas inteligentes en la WWDC 2027, con un énfasis en la privacidad y nuevas funciones de hardware y software.",
       "categoria": "Apple",
       "fuentes": [
         "MacRumors"
       ],
       "urls": [
-        "https://www.macrumors.com/2026/07/25/first-water-resistant-ipad/"
+        "https://www.macrumors.com/2026/07/26/apple-smart-glasses-wwdc-2027-report/"
       ],
       "score": 100,
       "tags": [
         "apple",
-        "ipad",
-        "resistente al agua"
+        "gafas inteligentes",
+        "privacidad",
+        "wwdc 2027"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "El CEO de Hugging Face pide 'transparencia radical' tras un hackeo a OpenAI",
+      "resumen": "El CEO de Hugging Face solicita una 'respuesta sin precedentes' ante el 'ataque cibernético de agente autónomo' a OpenAI.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/"
+      ],
+      "score": 100,
+      "tags": [
+        "hugging face",
+        "openai",
+        "hackeo",
+        "seguridad ia"
       ]
     },
     {
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "titulo": "Midjourney compró la aplicación de astrología Co-Star",
-      "resumen": "Midjourney, que pasó de generar imágenes de gatos con IA a ecografías de cuerpo completo, se mete en un nuevo campo: la astrología. La startup de IA anunció la adquisición de la aplicación de astrología personalizada Co-Star.",
+      "resumen": "Midjourney, conocida por generar imágenes de IA, se expande al campo de la astrología con la adquisición de la aplicación Co-Star.",
       "categoria": "AI",
       "fuentes": [
         "The Verge AI"
@@ -42,122 +62,117 @@
       ]
     },
     {
-      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
-      "titulo": "Aumentan los precios de las MacBooks en julio de 2026",
-      "resumen": "En los últimos años, las Mac se habían vuelto más accesibles. Lamentablemente, Apple aumentó drásticamente sus precios debido a la escasez de memoria.",
-      "categoria": "Apple",
-      "fuentes": [
-        "9to5Mac"
-      ],
-      "urls": [
-        "https://9to5mac.com/2026/07/25/best-macbook-deals-currently-july-2026/"
-      ],
-      "score": 100,
-      "tags": [
-        "macbook",
-        "precios",
-        "apple"
-      ]
-    },
-    {
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "Javier Milei diagnosticó la inflación, criticó al BCRA y propuso cambios para la economía",
-      "resumen": "A través de una columna, el Presidente volvió a cuestionar el rol histórico del Banco Central. Además, defendió un esquema que busca impedir el financiamiento monetario del Estado.",
+      "titulo": "Javier Milei ratificó que eliminará las retenciones al campo, pero evitó anunciar nuevas medidas",
+      "resumen": "El Presidente aseguró que la quita de los derechos de exportación sigue siendo un objetivo de su gestión, aunque no anunció nuevas medidas en la Rural.",
       "categoria": "Argentina",
       "fuentes": [
         "Ambito"
       ],
       "urls": [
-        "https://www.ambito.com/economia/javier-milei-dio-un-duro-diagnostico-la-inflacion-cargo-contra-el-bcra-y-propuso-cinco-cambios-blindar-la-n6303661"
+        "https://www.ambito.com/economia/javier-milei-ratifico-que-eliminara-las-retenciones-al-campo-pero-evito-anunciar-nuevas-medidas-la-rural-n6303730"
       ],
       "score": 100,
       "tags": [
         "milei",
-        "inflación",
-        "bcra",
-        "economía",
+        "retenciones",
+        "campo",
         "argentina"
       ]
     },
     {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "titulo": "Monday.com es la última empresa tecnológica en culpar a la IA por despidos",
-      "resumen": "Un listado de las grandes empresas tecnológicas que anunciaron despidos significativos este año, citando a la IA como factor.",
-      "categoria": "AI",
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "titulo": "Reservas, meta fiscal y el desafío de 2027: las claves de la visita de la titular del FMI a la Argentina",
+      "resumen": "Kristalina Georgieva llega el lunes para reunirse con Javier Milei y Luis Caputo, con foco en las reservas, la meta fiscal y el vínculo con el organismo.",
+      "categoria": "Argentina",
       "fuentes": [
-        "TechCrunch AI"
+        "Infobae Economia"
       ],
       "urls": [
-        "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
+        "https://www.infobae.com/economia/2026/07/26/reservas-meta-fiscal-y-el-desafio-de-2027-las-claves-de-la-visita-de-la-titular-del-fmi-a-la-argentina/"
       ],
       "score": 100,
       "tags": [
-        "ia",
-        "despidos",
-        "tech"
+        "fmi",
+        "argentina",
+        "reservas",
+        "meta fiscal"
       ]
     }
   ],
   "loImportante": [
-    "Apple lanzará su primer iPad resistente al agua, el iPad mini, en octubre.",
-    "Midjourney, la empresa de IA, adquirió la aplicación de astrología Co-Star, expandiendo su alcance.",
-    "Los precios de las MacBooks aumentaron debido a la escasez de memoria.",
-    "El Presidente Milei se pronunció sobre la inflación y el rol del Banco Central en Argentina.",
-    "Varias empresas tecnológicas, incluyendo Monday.com, atribuyen despidos a la IA."
+    "Apple planea lanzar gafas inteligentes con foco en la privacidad en 2027, lo que podría marcar una nueva era en la interacción con la tecnología.",
+    "Un hackeo a OpenAI genera un llamado a la 'transparencia radical' por parte del CEO de Hugging Face, destacando la creciente preocupación por la seguridad en la IA.",
+    "Midjourney, una herramienta clave en arte con IA, adquiere una aplicación de astrología, señalando una posible expansión hacia nuevos mercados y usos de la IA.",
+    "Javier Milei ratificó su intención de eliminar las retenciones al campo en Argentina, aunque sin anuncios inmediatos, manteniendo la expectativa en el sector.",
+    "La visita de la titular del FMI a Argentina subraya la importancia de las reservas y la meta fiscal para el país, con implicaciones para la economía local."
   ],
   "oportunidades": [
     {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Productivity",
+      "titulo": "Anticipar el impacto de las gafas inteligentes de Apple",
+      "detalle": "Las gafas inteligentes de Apple, con foco en la privacidad, podrían cambiar la forma en que interactuamos con la información y las herramientas digitales. Estar atento a su desarrollo puede ofrecer ventajas en la integración de nuevas tecnologías en el flujo de trabajo.",
+      "acciones": [
+        "Seguir de cerca las novedades sobre las gafas inteligentes de Apple.",
+        "Evaluar posibles aplicaciones en retoque fotográfico y arte con IA una vez que se conozcan más detalles."
+      ]
+    },
+    {
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
-      "titulo": "Midjourney se expande al sector de la astrología con la compra de Co-Star",
-      "detalle": "La adquisición de Co-Star por Midjourney muestra una expansión de la IA a nuevos mercados, como la astrología personalizada. Esto podría indicar nuevas oportunidades para aplicar la IA en nichos inesperados.",
+      "titulo": "Explorar la diversificación de la IA con Midjourney",
+      "detalle": "La adquisición de una app de astrología por parte de Midjourney sugiere que las aplicaciones de IA se están expandiendo a campos inesperados. Esto podría inspirar nuevas ideas para la aplicación de IA en áreas no tradicionales o para la creación de experiencias de usuario innovadoras.",
       "acciones": [
-        "Investigar otras aplicaciones de IA en mercados no tradicionales.",
-        "Analizar el modelo de negocio de Co-Star y su integración con IA."
+        "Investigar cómo Midjourney planea integrar la astrología con sus capacidades de IA.",
+        "Considerar cómo la IA generativa podría aplicarse a nichos de mercado menos explorados."
       ]
     },
     {
       "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
       "categoria": "AI",
-      "titulo": "La IA ayuda a diseñar la próxima generación de medicamentos",
-      "detalle": "La IA está siendo utilizada para acelerar y mejorar el diseño y desarrollo de nuevos medicamentos, un proceso costoso y propenso a fallas. Esto abre un campo de aplicación de IA con alto impacto.",
+      "titulo": "Aplicaciones de IA en diseño de medicamentos",
+      "detalle": "La IA está demostrando ser una herramienta valiosa para acelerar el diseño y desarrollo de medicamentos. Aunque es un campo distinto, el principio de usar IA para optimizar procesos complejos y costosos es aplicable a otras industrias, incluyendo el arte y el retoque fotográfico.",
       "acciones": [
-        "Explorar herramientas y plataformas de IA aplicadas al diseño molecular o farmacéutico.",
-        "Seguir de cerca las tendencias de inversión en biotecnología y IA."
+        "Analizar las metodologías de IA utilizadas en el diseño de medicamentos para identificar principios aplicables a la optimización de flujos de trabajo en arte con IA.",
+        "Buscar herramientas de IA que puedan automatizar o mejorar etapas del proceso creativo o de retoque."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
-      "categoria": "Market",
-      "titulo": "Aumento de precios en MacBooks por escasez de memoria",
-      "detalle": "Apple aumentó drásticamente los precios de sus MacBooks debido a la escasez de memoria. Esto podría impactar en el costo de las herramientas de trabajo y la inversión en hardware.",
-      "mitigacion": "Evaluar la necesidad de actualizar equipos Apple a corto plazo, considerar alternativas o buscar ofertas en modelos anteriores antes de que el impacto sea mayor."
-    },
-    {
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
-      "titulo": "Empresas tecnológicas culpan a la IA por despidos",
-      "detalle": "Varias empresas tecnológicas, incluyendo Monday.com, anunciaron despidos significativos atribuyéndolos a la IA. Esto sugiere una posible reestructuración del mercado laboral impulsada por la automatización.",
-      "mitigacion": "Mantenerse actualizado sobre las habilidades demandadas en el mercado de IA y automatización, y considerar la capacitación en nuevas herramientas y tecnologías."
+      "titulo": "Riesgos de seguridad en plataformas de IA",
+      "detalle": "El hackeo a OpenAI y el llamado a la 'transparencia radical' resaltan la vulnerabilidad de las plataformas de IA. Esto implica un riesgo para la integridad de los datos y la seguridad de los proyectos que dependen de estas herramientas.",
+      "mitigacion": "Mantenerse informado sobre las prácticas de seguridad de las plataformas de IA utilizadas. Considerar la diversificación de herramientas y la implementación de medidas de seguridad adicionales para proteger datos y proyectos sensibles."
     },
     {
-      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Market",
-      "titulo": "El consumo no despega en Argentina a pesar de la desinflación",
-      "detalle": "Aunque el proceso de desinflación se mantuvo en julio, la actividad económica y el consumo no logran repuntar en Argentina. Esto puede afectar el poder adquisitivo y las oportunidades de inversión local.",
-      "mitigacion": "Monitorear de cerca los indicadores económicos locales y ajustar las estrategias de inversión y gasto en consecuencia."
+      "titulo": "Aumento de precios de MacBook por escasez de memoria",
+      "detalle": "Apple aumentó drásticamente los precios de sus MacBooks debido a la escasez de memoria. Esto impacta directamente en el costo de las herramientas de trabajo para Guido, quien depende de equipos potentes para retoque fotográfico y arte con IA.",
+      "mitigacion": "Evaluar la necesidad de actualizaciones de hardware a corto plazo. Considerar opciones de reacondicionamiento o buscar alternativas si los precios se mantienen altos. Planificar las compras de equipos con anticipación, monitoreando las tendencias de precios y disponibilidad."
     }
   ],
   "conexiones": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "titulo": "Actualizaciones de Google en Galaxy Unpacked 2026",
+      "titulo": "Actualizaciones de Google para Samsung y el futuro de Apple con gafas inteligentes",
       "historias": [
-        "Google compartió cómo los usuarios de Samsung pueden mejorar la productividad en nuevos dispositivos plegables, relojes y gafas."
+        "Google compartió actualizaciones para usuarios de Samsung en nuevos plegables, relojes y gafas.",
+        "Apple planea presentar gafas inteligentes con foco en la privacidad en 2027."
       ],
-      "conclusion": "Las actualizaciones de Google en dispositivos Samsung, junto con las novedades de Apple (iPad resistente al agua, aumento de precios en MacBooks), muestran una constante evolución en el hardware y software, buscando mejorar la productividad y la experiencia del usuario. Es clave seguir de cerca estas innovaciones para entender cómo impactan en el ecosistema de herramientas y automatización."
+      "conclusion": "Ambas noticias muestran un avance hacia dispositivos portátiles más integrados y personales. Google ya está trabajando con Samsung en gafas, mientras que Apple se prepara para su propio lanzamiento, lo que indica una tendencia clara hacia la computación espacial y la interacción con la IA a través de nuevos formatos de hardware."
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Retenciones al campo: ratificación presidencial y reclamo del sector",
+      "historias": [
+        "Javier Milei ratificó que eliminará las retenciones al campo, pero evitó anunciar nuevas medidas en la Rural.",
+        "La Rural reclamó que las retenciones para el campo 'deben dejar de existir, por ley y para siempre'."
+      ],
+      "conclusion": "Existe una clara sintonía entre la intención declarada del gobierno de eliminar las retenciones y el reclamo histórico del sector agropecuario. Sin embargo, la falta de anuncios concretos genera incertidumbre sobre los plazos y la implementación de esta medida clave para la economía argentina."
     }
   ],
   "noticias": [
@@ -167,9 +182,9 @@
       "fuente": "Google AI Blog",
       "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
       "tituloOriginal": "3 Google updates from Galaxy Unpacked 2026",
-      "tituloLimpio": "Google presenta novedades en Galaxy Unpacked 2026",
-      "resumen": "Se compartió cómo los usuarios de Samsung pueden mejorar la productividad y ahorrar tiempo en nuevos dispositivos plegables, relojes y gafas.",
-      "porQueImporta": "Guido usa Android y le interesa la productividad. Estas novedades podrían traer herramientas o mejoras útiles para su día a día.",
+      "tituloLimpio": "Google anuncia tres actualizaciones desde el Galaxy Unpacked 2026",
+      "resumen": "Se compartieron novedades sobre cómo los usuarios de Samsung pueden mejorar la productividad y ahorrar tiempo en nuevos plegables, relojes y gafas.",
+      "porQueImporta": "Guido, como usuario de tecnología y entusiasta de la productividad, podría beneficiarse de estas actualizaciones en dispositivos Samsung, especialmente si usa o considera usar estos productos para su trabajo o vida personal.",
       "publicadoEn": "2026-07-22T13:00:00.000Z",
       "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp",
       "globalScore": 88,
@@ -178,7 +193,7 @@
         "google",
         "samsung",
         "productividad",
-        "android"
+        "actualizaciones"
       ],
       "tambienVistoEn": []
     },
@@ -186,19 +201,19 @@
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Apple",
       "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/07/25/first-water-resistant-ipad/",
-      "tituloOriginal": "Apple's First Water-Resistant iPad to Launch Later This Year",
-      "tituloLimpio": "Apple lanzaría el primer iPad resistente al agua este año",
-      "resumen": "El próximo iPad mini sería el primer iPad con un diseño resistente al agua y se espera que llegue en octubre.",
-      "porQueImporta": "Guido es usuario de Apple. Un iPad resistente al agua podría ser una mejora significativa en durabilidad y uso, especialmente para un profesional que trabaja con tecnología.",
-      "publicadoEn": "2026-07-26T01:00:11.000Z",
+      "url": "https://www.macrumors.com/2026/07/26/apple-smart-glasses-wwdc-2027-report/",
+      "tituloOriginal": "Apple Planning to Unveil Privacy-Focused Smart Glasses at WWDC 2027",
+      "tituloLimpio": "Apple planea presentar gafas inteligentes con foco en la privacidad en WWDC 2027",
+      "resumen": "Apple planea presentar sus primeras gafas inteligentes en la WWDC 2027, con un énfasis en la privacidad y nuevas funciones de hardware y software.",
+      "porQueImporta": "Esta noticia es muy relevante para Guido, dado su interés en Apple y la IA aplicada. Las gafas inteligentes podrían ser una nueva plataforma para el arte con IA y el retoque fotográfico, y el enfoque en la privacidad es un punto clave.",
+      "publicadoEn": "2026-07-26T16:26:47.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "apple",
-        "ipad",
-        "novedad",
-        "hardware"
+        "gafas inteligentes",
+        "privacidad",
+        "wwdc 2027"
       ],
       "tambienVistoEn": []
     },
@@ -206,20 +221,20 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/javier-milei-dio-un-duro-diagnostico-la-inflacion-cargo-contra-el-bcra-y-propuso-cinco-cambios-blindar-la-n6303661",
-      "tituloOriginal": "Javier Milei dio un duro diagnóstico sobre la inflación, cargó contra el BCRA y propuso cinco cambios para blindar la economía",
-      "tituloLimpio": "Javier Milei analizó la inflación, criticó al BCRA y propuso cambios económicos",
-      "resumen": "El Presidente cuestionó el rol histórico del Banco Central y defendió un esquema para impedir el financiamiento monetario del Estado.",
-      "porQueImporta": "Noticia relevante para Guido por su interés en la economía argentina y las decisiones que impactan en el mercado local.",
-      "publicadoEn": "2026-07-26T12:34:38.000Z",
-      "imagen": "https://media.ambito.com/p/082a12d85091e046f1b88577deffab86/adjuntos/239/imagenes/042/770/0042770569/milei-bcra-motosierra.jpg",
+      "url": "https://www.ambito.com/economia/javier-milei-ratifico-que-eliminara-las-retenciones-al-campo-pero-evito-anunciar-nuevas-medidas-la-rural-n6303730",
+      "tituloOriginal": "Javier Milei ratificó que eliminará las retenciones al campo, pero evitó anunciar nuevas medidas en la Rural",
+      "tituloLimpio": "Javier Milei ratificó que eliminará las retenciones al campo, pero evitó anunciar nuevas medidas en la Rural",
+      "resumen": "El Presidente aseguró que la quita de los derechos de exportación sigue siendo un objetivo de su gestión, aunque no anunció nuevas medidas.",
+      "porQueImporta": "Como residente en Argentina, las políticas económicas del gobierno tienen un impacto directo en el día a día de Guido. La eliminación de retenciones es una medida importante que puede influir en la economía general del país.",
+      "publicadoEn": "2026-07-26T17:39:00.000Z",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
+        "milei",
+        "retenciones",
+        "campo",
         "argentina",
-        "economía",
-        "inflación",
-        "milei"
+        "economía"
       ],
       "tambienVistoEn": []
     },
@@ -227,19 +242,19 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "tituloOriginal": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
-      "tituloLimpio": "Monday.com y otras empresas tecnológicas atribuyen despidos a la IA",
-      "resumen": "Un listado de las grandes empresas tecnológicas que anunciaron despidos significativos este año, citando a la IA como factor.",
-      "porQueImporta": "Guido trabaja con IA y automatización. Es importante entender cómo la IA está impactando el mercado laboral y las decisiones corporativas.",
-      "publicadoEn": "2026-07-26T01:30:00.000Z",
-      "globalScore": 94,
+      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "tituloOriginal": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "tituloLimpio": "El CEO de Hugging Face pide 'transparencia radical' tras un hackeo a OpenAI",
+      "resumen": "El CEO de Hugging Face solicita una 'respuesta sin precedentes' ante el 'ataque cibernético de agente autónomo' a OpenAI.",
+      "porQueImporta": "Guido trabaja con arte con IA, por lo que la seguridad de las plataformas de IA es crucial. Un hackeo a OpenAI resalta la importancia de la transparencia y la seguridad en el ecosistema de la inteligencia artificial.",
+      "publicadoEn": "2026-07-26T16:33:13.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "ia",
-        "despidos",
-        "tecnología",
-        "mercado laboral"
+        "hugging face",
+        "openai",
+        "hackeo",
+        "seguridad ia"
       ],
       "tambienVistoEn": []
     },
@@ -249,17 +264,17 @@
       "fuente": "The Verge AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
       "tituloOriginal": "Midjourney bought the astrology app Co-Star",
-      "tituloLimpio": "Midjourney adquirió la aplicación de astrología Co-Star",
-      "resumen": "Midjourney, que pasó de generar imágenes de IA a ecografías, se mete en un nuevo campo: la astrología. La startup de IA anunció la adquisición de la aplicación de astrología personalizada Co-Star.",
-      "porQueImporta": "Muestra una expansión inesperada de la IA a nuevos nichos de mercado, lo que puede generar ideas para Guido en su trabajo con IA y arte.",
+      "tituloLimpio": "Midjourney compró la aplicación de astrología Co-Star",
+      "resumen": "Midjourney, que genera imágenes de IA, se expande al campo de la astrología con la adquisición de la aplicación Co-Star.",
+      "porQueImporta": "Midjourney es una herramienta relevante para Guido en su trabajo con arte con IA. Esta adquisición muestra una diversificación en las aplicaciones de la IA, lo que podría inspirar nuevas ideas o tendencias en el uso de la IA generativa.",
       "publicadoEn": "2026-07-24T19:06:58.000Z",
       "globalScore": 96,
       "personalScore": 100,
       "tags": [
-        "ia",
         "midjourney",
+        "astrología",
         "adquisición",
-        "aplicaciones"
+        "ia"
       ],
       "tambienVistoEn": []
     },
@@ -269,17 +284,17 @@
       "fuente": "MIT Technology Review AI",
       "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
       "tituloOriginal": "How AI helps scientists design the next generation of medicines",
-      "tituloLimpio": "La IA ayuda a científicos a diseñar la próxima generación de medicamentos",
-      "resumen": "Diseñar y desarrollar un nuevo medicamento es un desafío científico costoso y propenso a fallas. Un nuevo fármaco puede tardar muchos años en desarrollarse, con un costo de inversión significativo.",
-      "porQueImporta": "Ejemplo de aplicación práctica y de alto impacto de la IA en un campo complejo, relevante para el interés de Guido en la IA aplicada.",
+      "tituloLimpio": "Cómo la IA ayuda a los científicos a diseñar la próxima generación de medicamentos",
+      "resumen": "Diseñar y desarrollar un nuevo medicamento es un desafío científico costoso y propenso a fallas. La IA ayuda en este proceso.",
+      "porQueImporta": "Aunque no es directamente su campo, esta noticia ilustra el poder de la IA para optimizar procesos complejos y costosos, un principio que Guido puede aplicar a la automatización y mejora de sus propios flujos de trabajo en retoque y arte con IA.",
       "publicadoEn": "2026-07-23T12:00:00.000Z",
       "globalScore": 90,
       "personalScore": 100,
       "tags": [
         "ia",
-        "medicina",
         "ciencia",
-        "innovación"
+        "medicamentos",
+        "optimización"
       ],
       "tambienVistoEn": []
     },
@@ -289,9 +304,9 @@
       "fuente": "9to5Mac",
       "url": "https://9to5mac.com/2026/07/25/best-macbook-deals-currently-july-2026/",
       "tituloOriginal": "Here are the best MacBook deals right now: July 2026 Buyer’s Guide",
-      "tituloLimpio": "Aumentan los precios de las MacBooks en julio de 2026",
-      "resumen": "En los últimos años, las Mac se habían vuelto más accesibles. Lamentablemente, Apple aumentó drásticamente sus precios debido a la escasez de memoria.",
-      "porQueImporta": "Impacta directamente en Guido como usuario de Apple y potencial comprador de hardware, afectando su presupuesto y decisiones de inversión en herramientas.",
+      "tituloLimpio": "Los precios de MacBook aumentaron drásticamente por escasez de memoria",
+      "resumen": "Apple aumentó drásticamente sus precios debido a la escasez de memoria, afectando el valor de los Macs.",
+      "porQueImporta": "Guido utiliza productos Apple para su trabajo. Un aumento de precios en MacBooks es una noticia importante para su planificación de inversiones en hardware y presupuesto de herramientas.",
       "publicadoEn": "2026-07-26T02:13:31.000Z",
       "globalScore": 98,
       "personalScore": 100,
@@ -299,6 +314,7 @@
         "apple",
         "macbook",
         "precios",
+        "escasez",
         "hardware"
       ],
       "tambienVistoEn": []
@@ -307,40 +323,147 @@
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
       "categoria": "Apple",
       "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/07/26/apple-tv-teases-new-trailers-for-matchbox-neuromancer-dark-matter?utm_source=rss",
-      "tituloOriginal": "Apple TV shares new trailers for 'Matchbox,' 'Neuromancer,' 'Dark Matter'",
-      "tituloLimpio": "Apple TV comparte nuevos tráilers de 'Matchbox', 'Neuromancer' y 'Dark Matter'",
-      "resumen": "Apple TV visitó la San Diego Comic-Con, presentando un panel de dos horas y revelando nuevos tráilers de \"Dark Matter\", \"Neuromancer\" y \"Matchbox The Movie\".",
-      "porQueImporta": "Guido es usuario de Apple y esto muestra el contenido que ofrece la plataforma, relevante para su consumo de medios.",
-      "publicadoEn": "2026-07-26T13:01:28.000Z",
+      "url": "https://appleinsider.com/articles/26/07/26/apple-upgrade-installment-program-set-to-go-live-on-tuesday?utm_source=rss",
+      "tituloOriginal": "Apple Upgrade installment program set to go live on Tuesday",
+      "tituloLimpio": "El programa de cuotas Apple Upgrade se lanzará el martes",
+      "resumen": "Apple Upgrade, el nuevo programa de cuotas de la compañía, se lanzará el 28 de julio, coincidiendo con el fin de las inscripciones para el iPhone Upgrade Program.",
+      "porQueImporta": "Aunque es un programa de cuotas, si está disponible en Argentina o si marca una tendencia global en la financiación de productos Apple, podría ser relevante para Guido. Es importante verificar la disponibilidad regional.",
+      "publicadoEn": "2026-07-26T16:44:40.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "apple",
-        "apple tv",
-        "entretenimiento",
-        "contenido"
+        "financiamiento",
+        "programa de cuotas"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
-      "categoria": "Finance",
-      "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/07/24/u-s-regulator-warns-prediction-markets-against-cutting-corners-in-event-contracts",
-      "tituloOriginal": "U.S. regulator warns prediction markets against cutting corners in event contracts",
-      "tituloLimpio": "Regulador de EE.UU. advierte a mercados de predicción sobre contratos de eventos",
-      "resumen": "La Commodity Futures Trading Commission emitió una advertencia que señala que las empresas han estado recurriendo a la autocertificación estándar.",
-      "porQueImporta": "Aunque es de EE.UU., las regulaciones en mercados financieros pueden sentar precedentes o indicar tendencias globales que afecten a inversores en ETFs o criptomonedas.",
-      "publicadoEn": "2026-07-26T13:00:00.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/ba52f7bccf2ae307a3c4c7efe5945ed295f5380d-4032x2268.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "globalScore": 96,
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/news/podcast-rewind-siri-ai-the-game-boy-advance-returns-and-smart-ceiling-fans/",
+      "tituloOriginal": "Podcast Rewind: Siri AI, the Game Boy Advance Returns, and Smart Ceiling Fans",
+      "tituloLimpio": "Podcast Rewind: Siri AI, el regreso de Game Boy Advance y ventiladores de techo inteligentes",
+      "resumen": "Federico y John analizan las capacidades de Siri AI, sus mejoras necesarias y su futuro, además de experiencias con las betas de macOS Golden Gate, iOS 27 y iPadOS 27.",
+      "porQueImporta": "Guido, como usuario de Apple y con interés en la IA, se beneficia de discusiones sobre Siri AI y las betas de los sistemas operativos de Apple, que pueden influir en sus herramientas y flujos de trabajo.",
+      "publicadoEn": "2026-07-24T19:35:38.000Z",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "finanzas",
-        "regulación",
-        "mercados",
-        "eeuu"
+        "siri ai",
+        "apple",
+        "ia",
+        "macos",
+        "ios"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-vs-sandisk-stock-better-174300734.html",
+      "tituloOriginal": "Micron vs. Sandisk: Which Stock Is the Better Buy for the Memory Boom?",
+      "tituloLimpio": "Micron vs. Sandisk: ¿Qué acción es la mejor compra para el auge de la memoria?",
+      "resumen": "Análisis comparativo entre Micron y Sandisk en el contexto del auge de la memoria.",
+      "porQueImporta": "Guido invierte en ETFs y mercados. Un análisis sobre acciones de empresas de memoria es relevante para sus decisiones de inversión, especialmente si considera invertir en el sector tecnológico.",
+      "publicadoEn": "2026-07-26T17:43:00.000Z",
+      "imagen": "https://media.zenfs.com/en/motleyfool.com/b9facf03ec305a9e0ecca4f1f3047c63",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "inversión",
+        "acciones",
+        "memoria",
+        "micron",
+        "sandisk"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Dow Jones Futures: U.S., Iran Seek Deal; Apple Leads Earnings Wave, Fed Meeting Ahead",
+      "tituloLimpio": "Dow Jones Futures: EE.UU. e Irán buscan acuerdo; Apple lidera ola de ganancias, reunión de la Fed próxima",
+      "resumen": "Noticias sobre Dow Jones Futures, negociaciones entre EE.UU. e Irán, resultados de Apple y la próxima reunión de la Fed.",
+      "porQueImporta": "Esta noticia ofrece un panorama general del mercado financiero global, con mención de Apple y la Fed, factores que pueden influir en las inversiones de Guido.",
+      "publicadoEn": "2026-07-26T16:13:52.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/ec8365e261a0dfa9375d79fafac86ffa",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "mercado",
+        "inversión",
+        "apple",
+        "fed",
+        "dow jones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/russias-sberbank-to-launch-crypto-trading-infrastructure-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Russia’s Sberbank to launch crypto trading infrastructure this year",
+      "tituloLimpio": "Sberbank de Rusia lanzará infraestructura de trading de criptomonedas este año",
+      "resumen": "El banco más grande de Rusia planea crear infraestructura de trading de criptomonedas para el 1 de diciembre.",
+      "porQueImporta": "Aunque no invierte directamente en cripto, el desarrollo de infraestructura de trading en un país grande como Rusia puede indicar una tendencia global hacia la adopción y regulación de criptoactivos, lo que podría afectar el panorama financiero general.",
+      "publicadoEn": "2026-07-26T16:07:11.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/russia-bitcoin.png",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "criptomonedas",
+        "rusia",
+        "trading",
+        "finanzas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/rural/rural-reclamo-retenciones-campo-deben-dejar-existir-ley-siempre_0_FfPV3lKq40.html",
+      "tituloOriginal": "La Rural reclamó que las retenciones para el campo \"deben dejar de existir, por ley y para siempre\"",
+      "tituloLimpio": "La Rural reclamó que las retenciones para el campo 'deben dejar de existir, por ley y para siempre'",
+      "resumen": "Nicolás Pino centró su discurso en el reclamo del campo por el fin de los derechos de exportación durante el acto inaugural de la 138° Exposición Rural.",
+      "porQueImporta": "Complementa la noticia sobre Milei y las retenciones, mostrando la perspectiva del sector afectado. Es relevante para entender el contexto económico y político de Argentina.",
+      "publicadoEn": "2026-07-26T15:19:52.000Z",
+      "imagen": "https://www.clarin.com/img/2026/07/26/JJzzWUjlo_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "rural",
+        "retenciones",
+        "campo",
+        "argentina",
+        "economía"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/vos-ladron-vos-arruinaste-pais-milei-reconocio-ex-funcionario-peronista-entrevista-acuso-vivo_0_0MT1JgbaN7.html",
+      "tituloOriginal": "\"Vos, ladrón, vos arruinaste el país\", Milei reconoció a un ex funcionario peronista durante una entrevista y lo acusó en vivo",
+      "tituloLimpio": "Milei reconoció a un ex funcionario peronista durante una entrevista y lo acusó en vivo",
+      "resumen": "El mandatario apuntó contra José Ignacio de Mendiguren, ex ministro de Producción, y cuestionó a los responsables de la 'decadencia inmunda'.",
+      "porQueImporta": "Esta noticia política es relevante para Guido por su impacto en el clima social y político de Argentina, que puede influir en el entorno de negocios y la estabilidad económica.",
+      "publicadoEn": "2026-07-26T17:02:40.000Z",
+      "imagen": "https://www.clarin.com/img/2026/07/26/NNWTmo2jm_1200x630__1.jpg",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "milei",
+        "política",
+        "argentina",
+        "gobierno"
       ],
       "tambienVistoEn": []
     },
@@ -348,20 +471,42 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/07/26/el-blooper-del-vocero-presidencial-volvio-a-poner-al-dolar-en-escena-pero-lo-que-preocupa-es-que-el-consumo-no-despega/",
-      "tituloOriginal": "El vocero presidencial volvió a poner al dólar en escena, pero lo que preocupa es que el consumo no despega",
-      "tituloLimpio": "El vocero presidencial volvió a mencionar al dólar, pero preocupa que el consumo no despega",
-      "resumen": "Según el Gobierno, el tipo de cambio flota, pero hay funcionarios que insisten en proyectar precios. En julio se mantuvo el proceso de desinflación, aunque a la actividad le cuesta despegar.",
-      "porQueImporta": "Noticia económica clave para Argentina, que afecta el poder adquisitivo y el panorama de inversión local de Guido.",
-      "publicadoEn": "2026-07-26T13:11:05.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/BGU7PASG55FOHNKR5UOSFQ25XA.jpg?auth=f19d1a4b455d59bc0f1f05fa38c42c2372024eb524def108f1db2ac06606ff3c&smart=true&width=1920&height=1381",
-      "globalScore": 98,
+      "url": "https://www.infobae.com/economia/2026/07/26/reservas-meta-fiscal-y-el-desafio-de-2027-las-claves-de-la-visita-de-la-titular-del-fmi-a-la-argentina/",
+      "tituloOriginal": "Reservas, meta fiscal y el desafío de 2027: las claves de la visita de la titular del FMI a la Argentina",
+      "tituloLimpio": "Reservas, meta fiscal y el desafío de 2027: las claves de la visita de la titular del FMI a la Argentina",
+      "resumen": "Kristalina Georgieva llega el lunes y mantendrá reuniones con Javier Milei y Luis Caputo. Se detallan los puntos centrales del vínculo con el organismo.",
+      "porQueImporta": "La visita del FMI es un evento económico crucial para Argentina, con implicaciones directas en la estabilidad financiera y las políticas económicas del país, lo cual afecta a todos los residentes, incluyendo a Guido.",
+      "publicadoEn": "2026-07-26T17:24:49.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/27YGPP6IYRHVLJ5B4FWK4X5NFY.JPG?auth=a005361b9802dc1877d8dede51c41e78d1c6f735bfcde975237d4dba69cef92e&smart=true&width=3945&height=2630",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
+        "fmi",
         "argentina",
-        "economía",
-        "dólar",
-        "consumo"
+        "reservas",
+        "meta fiscal",
+        "economía"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/07/26/javier-milei-acuso-a-brasil-de-financiar-la-campana-antiargentina/",
+      "tituloOriginal": "Javier Milei acusó a Brasil de financiar la campaña antiargentina",
+      "tituloLimpio": "Javier Milei acusó a Brasil de financiar la campaña antiargentina",
+      "resumen": "El presidente volvió a apuntar contra el gobierno de Lula en medio de la escalada diplomática tras sus dichos en el acto de lanzamiento de campaña de Flávio Bolsonaro.",
+      "porQueImporta": "Las tensiones diplomáticas con Brasil, un socio comercial clave, pueden tener repercusiones económicas y políticas para Argentina, lo que es relevante para Guido como residente y para el clima de negocios.",
+      "publicadoEn": "2026-07-26T17:30:02.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/MY2H5JOKFNELBKY6KSJDYEFBIQ.JPG?auth=727d17602a64965d4584f97c755c64a7b79b3de6f2821f5fc19c525041693af7&smart=true&width=3732&height=2488",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "milei",
+        "brasil",
+        "política exterior",
+        "argentina"
       ],
       "tambienVistoEn": []
     },
@@ -370,46 +515,46 @@
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
       "url": "https://www.lanacion.com.ar/economia/campo/milei-en-la-rural-expectativa-del-campo-por-los-anuncios-del-presidente-sobre-las-retenciones-nid26072026/",
-      "tituloOriginal": "Milei en la Rural: expectativa del campo por los anuncios del Presidente sobre las retenciones",
-      "tituloLimpio": "Milei en la Rural: expectativa del campo por anuncios sobre retenciones",
-      "resumen": "El jefe de Estado participa del acto de inauguración de la exposición; el sector espera la eliminación del cobro de los derechos de exportación a la carne de novillo.",
-      "porQueImporta": "Decisiones económicas importantes para Argentina que pueden impactar en la estabilidad económica y el mercado, relevante para el interés de Guido en finanzas.",
-      "publicadoEn": "2026-07-26T12:57:09.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/YJB3WGWYG5A6PERF5IGFMDFHVE.jpeg?auth=11a7411f64582c6187cd80950e9d32742d44acd1d2ce1201f3b5f7b361aee1be&smart=true&width=2560&height=1706",
-      "globalScore": 94,
+      "tituloOriginal": "Milei, en la Rural: “El crecimiento del sector energético y minería financiará la quita de retenciones”",
+      "tituloLimpio": "Milei en la Rural: 'El crecimiento del sector energético y minería financiará la quita de retenciones'",
+      "resumen": "El jefe de Estado participó del acto de inauguración de la exposición y mencionó cómo se financiará la eliminación de los derechos de exportación.",
+      "porQueImporta": "Esta noticia ofrece un detalle sobre la estrategia del gobierno para financiar la eliminación de retenciones, lo cual es importante para entender la dirección económica del país y sus posibles impactos.",
+      "publicadoEn": "2026-07-26T15:52:04.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/MMIVB52LVRCWFMGCWDZTRZWJD4.jpeg?auth=395f1b2a94e7f6ca9daaebce62d99ca712038c17defb0df20f755bb78baf1e9e&smart=true&width=1280&height=854",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "economía",
-        "campo",
-        "retenciones"
+        "milei",
+        "retenciones",
+        "energía",
+        "minería",
+        "argentina"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
-      "categoria": "Argentina",
-      "fuente": "La Nacion Politica",
-      "url": "https://www.lanacion.com.ar/politica/la-justicia-de-eeuu-da-un-paso-clave-en-la-investigacion-sobre-la-afa-que-podria-demorar-meses-antes-nid26072026/",
-      "tituloOriginal": "La Justicia de EE.UU. da un paso clave en la investigación sobre la AFA, que podría demorar meses antes de presentar cargos",
-      "tituloLimpio": "La Justicia de EE.UU. avanza en la investigación sobre la AFA",
-      "resumen": "Los fiscales exigen “confidencialidad extrema”, mientras que la primera ronda de citaciones podría abarcar seis personas.",
-      "porQueImporta": "Noticia de impacto internacional que involucra a una institución argentina, relevante para el interés de Guido en Argentina y eventos globales.",
-      "publicadoEn": "2026-07-26T11:34:42.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/KWTBUNUDJVFZPDO5DXZN4ZWTZU.jpg?auth=2257e4b51606b3f2e3caeddc8d7be903dec6b6c88c016e071d5edd3cb6b773e2&smart=true&width=2000&height=1333",
-      "globalScore": 90,
-      "personalScore": 100,
+      "id": "9to5mac-aHR0cHM6Ly85dG81Z29v",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5google.com/2026/07/23/google-account-selfie-video/",
+      "tituloOriginal": "Google introduces new ‘selfie video’ sign-in method",
+      "tituloLimpio": "Google introduce un nuevo método de inicio de sesión con 'video selfie'",
+      "resumen": "Las Cuentas de Google incorporan un nuevo método de inicio de sesión con 'video selfie', útil si se pierden el teléfono o las passkeys.",
+      "porQueImporta": "Como usuario de herramientas y automatización, Guido podría encontrar este nuevo método de seguridad de Google relevante para la gestión de sus cuentas y la protección de su información.",
+      "publicadoEn": "2026-07-23T15:15:00.000Z",
+      "globalScore": 74,
+      "personalScore": 95,
       "tags": [
-        "argentina",
-        "justicia",
-        "eeuu",
-        "afa"
+        "google",
+        "seguridad",
+        "autenticación",
+        "herramientas"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-07-26T13:29:15.629Z"
+    "generadoEn": "2026-07-26T18:02:31.195Z"
   }
 }
