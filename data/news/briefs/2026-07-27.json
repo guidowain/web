@@ -1,174 +1,187 @@
 {
   "fecha": "2026-07-27",
-  "generadoEn": "2026-07-27T14:41:39.081Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "Hoy, 27 de julio de 2026, el mercado de la IA sigue en expansión con inversiones significativas y nuevas aplicaciones, mientras que Apple recupera su posición como la empresa más valiosa. En Argentina, la llegada de Kristalina Georgieva del FMI y la suba de precios de trigo y soja por conflictos internacionales marcan la agenda económica. También se destacan novedades en marketing y herramientas para iOS.",
+  "generadoEn": "2026-07-27T18:24:32.737Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Hoy se destaca la actualización de macOS Tahoe 26.6 de Apple y el lanzamiento de Pastebot 3 con nuevas opciones de automatización. En el ámbito de la IA, se reaviva el debate sobre la alineación y el control tras una brecha de OpenAI en Hugging Face, mientras China libera sus modelos de IA más avanzados. En Argentina, la jefa del FMI, Kristalina Georgieva, se reunió con el presidente Milei y señaló que el país no necesita otro préstamo, aunque remarcó la falta de crecimiento equilibrado. Además, Máximo Kirchner presentó un proyecto para que los acuerdos con el FMI sean aprobados por el Congreso. El mercado de fusiones y adquisiciones en Argentina tuvo uno de sus mejores semestres de la última década.",
   "radarPersonal": [
     {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "Los precios del trigo y la soja alcanzan máximos de más de dos años por el impacto de la guerra de Medio Oriente",
-      "resumen": "La escalada del conflicto en Medio Oriente y el recrudecimiento de la guerra entre Rusia y Ucrania volvieron a tensionar los mercados agrícolas. El trigo y la soja alcanzaron sus precios más altos de los últimos años, mientras el maíz también ganó impulso por problemas climáticos y logísticos.",
-      "categoria": "Finance",
-      "fuentes": [
-        "Ambito"
-      ],
-      "urls": [
-        "https://www.ambito.com/economia/los-precios-del-trigo-y-la-soja-alcanzan-maximos-mas-dos-anos-el-impacto-la-guerra-medio-oriente-n6303920"
-      ],
-      "score": 100,
-      "tags": [
-        "inversión",
-        "mercados",
-        "commodities",
-        "argentina"
-      ]
-    },
-    {
-      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
-      "titulo": "Apple supera a Nvidia como la empresa más valiosa del mundo y se acerca a los 5 billones de dólares",
-      "resumen": "Apple y Nvidia han vuelto a intercambiar posiciones, con Apple superando a Nvidia. Apple aún no ha cruzado el umbral de los 5 billones de dólares de capitalización de mercado, aunque las operaciones intradía sitúan a la empresa en torno a los 4,944 billones de dólares. Apple ha recuperado oficialmente el título de la empresa más valiosa del mundo por capitalización de mercado.",
-      "categoria": "Apple",
-      "fuentes": [
-        "9to5Mac"
-      ],
-      "urls": [
-        "https://9to5mac.com/2026/07/27/apple-reclaims-most-valuable-company-title-from-nvidia-as-it-barrels-toward-5t/"
-      ],
-      "score": 100,
-      "tags": [
-        "apple",
-        "inversión",
-        "mercados"
-      ]
-    },
-    {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "titulo": "Enigma recauda 70 millones de dólares para facilitar el control de robots",
-      "resumen": "La ronda de financiación inicial fue liderada por Index Ventures y Ribbit Capital, con la participación de Conviction Partners de Sarah Guo.",
-      "categoria": "AI",
-      "fuentes": [
-        "TechCrunch AI"
-      ],
-      "urls": [
-        "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/"
-      ],
-      "score": 100,
-      "tags": [
-        "ia",
-        "robótica",
-        "inversión"
-      ]
-    },
-    {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "titulo": "El camino hacia la superinteligencia artificial",
-      "resumen": "Imagine un sistema de salud compuesto por múltiples agentes de IA: uno que gestiona la evaluación de síntomas, otro la programación, un tercero los seguros y un cuarto la farmacia. Cada uno es un experto en su dominio. Pero todos tienen sus propios conocimientos y objetivos distintos. Hoy pueden intercambiar datos, pero aún no son capaces de coordinarse realmente.",
-      "categoria": "AI",
-      "fuentes": [
-        "MIT Technology Review AI"
-      ],
-      "urls": [
-        "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/"
-      ],
-      "score": 100,
-      "tags": [
-        "ia",
-        "futuro",
-        "aplicaciones"
-      ]
-    },
-    {
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "MacBook Pro 2026 con hasta 500 dólares de descuento en Amazon tras reciente aumento de precio",
-      "resumen": "Los precios de Amazon en el MacBook Pro 2026 se han sumado a las recientes subidas de precios de Apple, lo que significa que ya no estamos rastreando las rebajas anteriores a la subida de precios en estos dispositivos. Sin embargo, todavía se pueden encontrar ofertas notables si está comprando un MacBook Pro este mes, con hasta 500 dólares de descuento sobre los nuevos precios disponibles ahora mismo en Amazon.",
+      "titulo": "Apple lanza macOS Tahoe 26.6",
+      "resumen": "Apple lanzó macOS Tahoe 26.6, una pequeña actualización del sistema operativo macOS Tahoe.",
       "categoria": "Apple",
       "fuentes": [
         "MacRumors"
       ],
       "urls": [
-        "https://www.macrumors.com/2026/07/27/macbook-pro-prices-up-to-500/"
+        "https://www.macrumors.com/2026/07/27/apple-releases-macos-tahoe-26-6/"
       ],
       "score": 100,
       "tags": [
         "apple",
-        "macbook",
-        "ofertas"
+        "macos",
+        "actualización"
+      ]
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "titulo": "macOS 26.6 ya está disponible, con cambios mínimos de funciones",
+      "resumen": "Apple lanzó macOS 26.6 al público, pero no se esperan grandes cambios en las funciones.",
+      "categoria": "Apple",
+      "fuentes": [
+        "AppleInsider"
+      ],
+      "urls": [
+        "https://appleinsider.com/articles/26/07/27/macos-266-is-out-but-expect-minimal-feature-changes-with-macos-27-looming?utm_source=rss"
+      ],
+      "score": 100,
+      "tags": [
+        "macos",
+        "actualización",
+        "funciones"
+      ]
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Pastebot 3 mejora la automatización del portapapeles en Mac e introduce nuevos modelos de negocio",
+      "resumen": "Tapbots lanzó Pastebot 3, una reescritura del gestor de portapapeles de Mac que incluye opciones de automatización y personalización, junto con dos nuevos modelos de precios.",
+      "categoria": "Tools & Automation",
+      "fuentes": [
+        "MacStories"
+      ],
+      "urls": [
+        "https://www.macstories.net/reviews/pastebot-3-doubles-down-on-mac-clipboard-automation-and-introduces-two-new-business-models/"
+      ],
+      "score": 100,
+      "tags": [
+        "mac",
+        "automatización",
+        "herramientas",
+        "productividad"
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "¿Sigue rindiendo el plazo fijo? Cuánto generan $3.000.000 a 30 días",
+      "resumen": "Con las tasas actuales, el rendimiento de un depósito continúa dependiendo de la entidad elegida y del canal utilizado.",
+      "categoria": "Finance",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/sigue-rindiendo-el-plazo-fijo-cuanto-generan-3000000-30-dias-n6304001"
+      ],
+      "score": 100,
+      "tags": [
+        "plazo fijo",
+        "inversión",
+        "argentina"
+      ]
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "titulo": "Fusiones y adquisiciones: la actividad registra uno de los mejores semestres de la última década",
+      "resumen": "Durante el primer semestre se concretaron 56 operaciones por unos US$5700 millones, según un informe.",
+      "categoria": "Business",
+      "fuentes": [
+        "La Nacion Economia"
+      ],
+      "urls": [
+        "https://www.lanacion.com.ar/economia/negocios/fusiones-y-adquisiciones-la-actividad-registra-uno-de-los-mejores-semestres-de-la-ultima-decada-nid27072026/"
+      ],
+      "score": 100,
+      "tags": [
+        "negocios",
+        "inversión",
+        "argentina"
       ]
     }
   ],
   "loImportante": [
-    "Apple recupera el liderazgo como la empresa más valiosa del mundo, superando a Nvidia y acercándose a los 5 billones de dólares.",
-    "La directora del FMI, Kristalina Georgieva, visita Argentina para reunirse con el presidente Milei y recorrer Vaca Muerta, en un momento clave para la economía del país.",
-    "Los precios del trigo y la soja alcanzan máximos de más de dos años debido a la escalada de conflictos en Medio Oriente y la guerra en Ucrania, impactando los mercados agrícolas.",
-    "Se invierten 70 millones de dólares en Enigma para simplificar el control de robots, lo que podría acelerar la adopción de la robótica en diversas industrias.",
-    "Midjourney, conocida por la generación de imágenes con IA, adquiere la aplicación de astrología Co-Star, mostrando una expansión inesperada en el uso de la IA."
+    "Apple lanzó macOS Tahoe 26.6, una actualización menor del sistema operativo.",
+    "Pastebot 3 fue lanzado, mejorando la automatización del portapapeles en Mac y presentando nuevos modelos de negocio.",
+    "El debate sobre la alineación y el control de la IA se reavivó tras una brecha de OpenAI en Hugging Face.",
+    "China está liberando sus modelos de IA más avanzados, lo que impacta a las empresas estadounidenses.",
+    "La jefa del FMI, Kristalina Georgieva, se reunió con el presidente Milei en Argentina y afirmó que el país no necesita otro préstamo, aunque destacó la falta de crecimiento equilibrado."
   ],
   "oportunidades": [
     {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "categoria": "Investing",
-      "titulo": "Suba de precios de trigo y soja por conflictos globales",
-      "detalle": "La escalada de conflictos en Medio Oriente y la guerra en Ucrania impulsan los precios de los commodities agrícolas, como el trigo y la soja, a máximos de más de dos años. El maíz también muestra un alza.",
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Automation",
+      "titulo": "Pastebot 3: Automatización avanzada del portapapeles en Mac",
+      "detalle": "La nueva versión de Pastebot ofrece opciones de automatización y personalización para gestionar texto e imágenes copiadas, lo que puede mejorar la productividad en el flujo de trabajo de Guido.",
       "acciones": [
-        "Evaluar ETFs o fondos de inversión ligados a commodities agrícolas.",
-        "Monitorear el impacto en la inflación local y global."
+        "Explorar las nuevas funciones de automatización de Pastebot 3 para optimizar el manejo del portapapeles en Mac.",
+        "Analizar los nuevos modelos de negocio para ver si ofrecen ventajas o flexibilidad."
       ]
     },
     {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
-      "titulo": "Inversión en IA para control de robots",
-      "detalle": "Enigma recauda 70 millones de dólares para simplificar el control de robots, buscando hacerlo tan fácil como ajustar el volumen. Esto podría democratizar el acceso a la robótica.",
+      "titulo": "Modelos de IA chinos de código abierto",
+      "detalle": "China está liberando sus modelos de IA más avanzados, lo que podría ofrecer alternativas de menor costo y alto rendimiento para proyectos de IA.",
       "acciones": [
-        "Investigar nuevas herramientas de automatización y robótica con IA.",
-        "Explorar posibles aplicaciones de control de robots en retoque fotográfico o arte con IA."
+        "Investigar los modelos de IA chinos, como Kimi K3, para evaluar su rendimiento y costo en comparación con las opciones occidentales.",
+        "Considerar la integración de estos modelos en proyectos de arte con IA o retoque fotográfico si son accesibles y eficientes."
       ]
     },
     {
-      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
-      "categoria": "Marketing",
-      "titulo": "Campaña global de Rare Beauty inspirada en mitología griega",
-      "detalle": "La marca de cosméticos Rare Beauty, fundada por Selena Gomez, lanza una campaña global para su segunda fragancia, inspirada en la mitología griega, abarcando redes sociales, publicidad exterior, retail y digital pago.",
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Investing",
+      "titulo": "Crecimiento en fusiones y adquisiciones en Argentina",
+      "detalle": "El mercado de fusiones y adquisiciones en Argentina tuvo uno de sus mejores semestres de la última década, con actividad liderada por energía y agro.",
       "acciones": [
-        "Analizar la estrategia de marketing de Rare Beauty para extraer ideas aplicables a proyectos de arte con IA.",
-        "Observar cómo las narrativas culturales se utilizan en campañas de marketing global."
+        "Monitorear el sector de fusiones y adquisiciones en Argentina para identificar posibles oportunidades de inversión en empresas o sectores en crecimiento.",
+        "Analizar el impacto de este crecimiento en el mercado de ETFs locales o empresas cotizantes."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
-      "categoria": "Technology",
-      "titulo": "Falla de seguridad en Claude Cowork permite acceso a archivos de Mac",
-      "detalle": "Una vulnerabilidad en Claude Cowork de Anthropic permite que su agente de IA escape de su máquina virtual y acceda a archivos sensibles en una Mac, exponiendo una brecha en las protecciones de sandbox.",
-      "mitigacion": "Revisar y asegurar las configuraciones de seguridad de las herramientas de IA utilizadas. Mantener el software actualizado y ser cauteloso con los permisos otorgados a las aplicaciones de IA."
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "titulo": "Debate sobre alineación y control de la IA tras brecha de OpenAI",
+      "detalle": "Una brecha de OpenAI en Hugging Face reavivó el debate sobre la alineación y el control de la IA, exponiendo visiones contrapuestas sobre si la IA debe ser mejor alineada, mejor contenida, o ambas.",
+      "mitigacion": "Mantenerse informado sobre las discusiones y desarrollos en seguridad y ética de la IA. Evaluar las implicaciones de seguridad al utilizar modelos de IA de terceros en proyectos personales o profesionales."
     },
     {
-      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
-      "categoria": "Platform",
-      "titulo": "Apple evalúa nuevo modelo de compra de iPhone (solo en EE.UU.)",
-      "detalle": "Apple evalúa un nuevo servicio de suscripción para iPhone que debutaría en Estados Unidos, reemplazando los planes de financiación actuales y buscando impulsar la renovación de equipos. Este modelo, similar al leasing de autos, no estaría disponible en Argentina.",
-      "mitigacion": "Considerar que las estrategias de Apple para otros mercados no siempre aplican a Argentina. No depender de modelos de financiación o servicios exclusivos de EE.UU. para la adquisición de equipos Apple."
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Market",
+      "titulo": "Actuación del presidente Milei en Brasil \"perjudica a la Argentina\"",
+      "detalle": "Una fundación radical advirtió que los discursos hostiles del presidente Milei debilitan la posición de Argentina en el escenario global, generando costos diplomáticos y económicos.",
+      "mitigacion": "Monitorear el impacto de las relaciones exteriores en la economía argentina y en los mercados locales. Considerar la diversificación de inversiones para mitigar riesgos geopolíticos."
     }
   ],
   "conexiones": [
     {
-      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
-      "titulo": "Cruces entre Milei y De Mendiguren: insultos y posible demanda",
+      "id": "fmi-argentina-aHR0cHM6Ly93d3cuaW5m",
+      "titulo": "Relación FMI-Argentina: Declaraciones y propuestas legislativas",
       "historias": [
-        "\"Si me está ofreciendo un ministerio, ya le digo que no\": con una chicana, De Mendiguren contestó a los agravios de Milei y reveló que demandará al Presidente",
-        "Javier Milei insultó a De Mendiguren en La Rural y el ex funcionario anunció que evalúa demandarlo"
+        "La jefa del FMI dijo que Argentina no necesita otro préstamo y reconoció que falta un crecimiento \"equilibrado\" (Clarin Economia)",
+        "El presidente Javier Milei recibió a la titular del FMI en Casa Rosada (Infobae Economia)",
+        "Máximo Kirchner presentó un proyecto para que los acuerdos con el FMI deban ser aprobados por el Congreso (Infobae Politica)",
+        "Máximo Kirchner propuso limitar el endeudamiento con el FMI y renegociar parte del préstamo de 2018 (La Nacion Politica)"
       ],
-      "conclusion": "Las noticias de Clarín e Infobae reportan el mismo incidente donde el presidente Milei insultó a De Mendiguren en La Rural, lo que llevó al ex funcionario a considerar acciones legales. Ambos medios cubren la misma controversia política."
+      "conclusion": "La visita de Kristalina Georgieva a Argentina generó un cruce de declaraciones y acciones políticas. Mientras el FMI evalúa la situación económica del país, la oposición busca limitar el poder ejecutivo en futuros acuerdos de deuda, lo que podría influir en la estabilidad económica y la percepción de riesgo para inversores."
     },
     {
-      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
-      "titulo": "Visita de Kristalina Georgieva a Argentina",
+      "id": "macos-updates-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Actualizaciones de macOS: Mantenimiento y novedades en automatización",
       "historias": [
-        "Llegó al país Kristalina Georgieva, directora del FMI: se reunirá con Milei y visitará Vaca Muerta",
-        "Kristalina Georgieva en la Argentina, en vivo: reunión con Milei, Caputo y visita a Vaca Muerta"
+        "Apple lanza macOS Tahoe 26.6 (MacRumors)",
+        "macOS 26.6 ya está disponible, con cambios mínimos de funciones (AppleInsider)",
+        "Pastebot 3 mejora la automatización del portapapeles en Mac e introduce nuevos modelos de negocio (MacStories)"
       ],
-      "conclusion": "Infobae y La Nación informan sobre la llegada de Kristalina Georgieva, directora del FMI, a Argentina. Ambas fuentes destacan su reunión con el presidente Milei y la visita a Vaca Muerta, subrayando la importancia de este encuentro para el país."
+      "conclusion": "Apple lanzó una actualización menor para macOS Tahoe, enfocada en mantenimiento. En paralelo, una aplicación clave como Pastebot 3 se actualiza con mejoras significativas en automatización y nuevos modelos de negocio, lo que indica que, aunque las actualizaciones del sistema operativo sean modestas, el ecosistema de aplicaciones sigue evolucionando para mejorar la productividad de los usuarios de Mac."
+    },
+    {
+      "id": "ai-control-debate-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "El debate sobre el control de la IA se intensifica con nuevos incidentes y competencia global",
+      "historias": [
+        "La brecha de OpenAI en Hugging Face reavivó el debate sobre la alineación y el control de la IA (TechCrunch AI)",
+        "OpenAI calificó el ataque a Hugging Face como sin precedentes. Pero ya hemos estado aquí antes (MIT Technology Review AI)",
+        "Por qué China está regalando sus mejores modelos de IA (The Verge AI)"
+      ],
+      "conclusion": "Los recientes incidentes de seguridad y la competencia global, especialmente con China liberando modelos de IA avanzados, están intensificando el debate sobre cómo controlar y alinear la inteligencia artificial. Esto subraya la necesidad de un enfoque cauteloso y bien informado al trabajar con tecnologías de IA, tanto por seguridad como por estrategia competitiva."
     }
   ],
   "noticias": [
@@ -178,18 +191,37 @@
       "fuente": "Google AI Blog",
       "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
       "tituloOriginal": "3 Google updates from Galaxy Unpacked 2026",
-      "tituloLimpio": "Google anuncia tres actualizaciones en Galaxy Unpacked 2026",
-      "resumen": "Se compartieron novedades sobre cómo los usuarios de Samsung pueden mejorar la productividad y ahorrar tiempo en los nuevos dispositivos plegables, relojes y gafas que saldrán pronto.",
-      "porQueImporta": "Interesa por las novedades de Google en dispositivos móviles y wearables, que podrían impactar en la productividad y el uso de herramientas, relevantes para el trabajo con IA y retoque fotográfico.",
+      "tituloLimpio": "Tres actualizaciones de Google desde Galaxy Unpacked 2026",
+      "resumen": "Se compartió cómo los usuarios de Samsung pueden aumentar la productividad y recuperar tiempo en nuevos plegables, relojes y gafas que saldrán pronto.",
+      "porQueImporta": "Aunque es un evento de Samsung, las actualizaciones de Google pueden indicar tendencias en IA aplicada y productividad en dispositivos móviles, relevantes para el trabajo con IA y automatización. Es importante ver si estas novedades llegan a Argentina.",
       "publicadoEn": "2026-07-22T13:00:00.000Z",
       "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp",
       "globalScore": 88,
       "personalScore": 100,
       "tags": [
         "google",
-        "ia",
+        "samsung",
         "productividad",
-        "herramientas"
+        "ia"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/07/27/apple-releases-macos-tahoe-26-6/",
+      "tituloOriginal": "Apple Releases macOS Tahoe 26.6",
+      "tituloLimpio": "Apple lanza macOS Tahoe 26.6",
+      "resumen": "Apple lanzó macOS Tahoe 26.6, una pequeña actualización del sistema operativo macOS Tahoe.",
+      "porQueImporta": "Es una actualización de mantenimiento para el sistema operativo principal de Apple, importante para la estabilidad y seguridad del equipo de Guido.",
+      "publicadoEn": "2026-07-27T17:48:57.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "macos",
+        "actualización"
       ],
       "tambienVistoEn": []
     },
@@ -197,19 +229,19 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/los-precios-del-trigo-y-la-soja-alcanzan-maximos-mas-dos-anos-el-impacto-la-guerra-medio-oriente-n6303920",
-      "tituloOriginal": "Los precios del trigo y la soja alcanzan máximos de más de dos años por el impacto de la guerra de Medio Oriente",
-      "tituloLimpio": "Los precios del trigo y la soja alcanzan máximos de más de dos años por el impacto de la guerra de Medio Oriente",
-      "resumen": "La escalada del conflicto en Medio Oriente y el recrudecimiento de la guerra entre Rusia y Ucrania volvieron a tensionar los mercados agrícolas. El trigo y la soja alcanzaron sus precios más altos de los últimos años, mientras el maíz también ganó impulso por problemas climáticos y logísticos.",
-      "porQueImporta": "Es relevante para la inversión, ya que la suba de commodities agrícolas puede influir en ETFs y mercados. También afecta la economía argentina, un país productor de granos.",
-      "publicadoEn": "2026-07-27T13:35:00.000Z",
-      "globalScore": 98,
+      "url": "https://www.ambito.com/economia/sigue-rindiendo-el-plazo-fijo-cuanto-generan-3000000-30-dias-n6304001",
+      "tituloOriginal": "¿Sigue rindiendo el plazo fijo? Cuánto generan $3.000.000 a 30 días",
+      "tituloLimpio": "¿Sigue rindiendo el plazo fijo? Cuánto generan $3.000.000 a 30 días",
+      "resumen": "Con las tasas actuales, el rendimiento de un depósito continúa dependiendo de la entidad elegida y del canal utilizado.",
+      "porQueImporta": "Noticia relevante para las decisiones de inversión en Argentina, especialmente para quienes consideran el plazo fijo como opción.",
+      "publicadoEn": "2026-07-27T18:00:00.000Z",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
+        "argentina",
         "finanzas",
         "inversión",
-        "argentina",
-        "mercados"
+        "plazo fijo"
       ],
       "tambienVistoEn": []
     },
@@ -217,18 +249,18 @@
       "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
       "categoria": "Marketing",
       "fuente": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/rare-beauty-draws-inspiration-from-greek-mythology-for-global-campaign/826225/",
-      "tituloOriginal": "Rare Beauty draws inspiration from Greek mythology for global campaign",
-      "tituloLimpio": "Rare Beauty se inspira en la mitología griega para su campaña global",
-      "resumen": "La nueva iniciativa de la marca de cosméticos fundada por Selena Gomez, centrada en su segunda fragancia, abarca redes sociales, publicidad exterior, retail y digital pago.",
-      "porQueImporta": "Ofrece un ejemplo de estrategia de marketing global y creatividad, útil para entender tendencias en la industria y aplicar conceptos en proyectos de arte con IA.",
-      "publicadoEn": "2026-07-27T14:25:00.000Z",
-      "globalScore": 100,
+      "url": "https://www.marketingdive.com/news/how-marketers-can-tackle-a-new-creative-paradigm-with-connected-content/826236/",
+      "tituloOriginal": "How marketers can tackle a new creative paradigm with connected content",
+      "tituloLimpio": "Cómo los especialistas en marketing pueden abordar un nuevo paradigma creativo con contenido conectado",
+      "resumen": "La aversión a los anuncios sigue siendo un problema, pero entregar anuncios con el contexto y el momento adecuados puede aumentar la intención de compra, según una nueva investigación de Omnicom.",
+      "porQueImporta": "Ofrece insights sobre estrategias de marketing digital y cómo la personalización y el contexto pueden mejorar la efectividad de los anuncios, útil para entender tendencias en el sector.",
+      "publicadoEn": "2026-07-27T14:30:54.000Z",
+      "globalScore": 96,
       "personalScore": 100,
       "tags": [
         "marketing",
-        "campañas",
-        "creatividad"
+        "publicidad",
+        "contenido"
       ],
       "tambienVistoEn": []
     },
@@ -236,19 +268,19 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
-      "tituloOriginal": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
-      "tituloLimpio": "Enigma recauda 70 millones de dólares para facilitar el control de robots",
-      "resumen": "La ronda de financiación inicial fue liderada por Index Ventures y Ribbit Capital, con la participación de Conviction Partners de Sarah Guo.",
-      "porQueImporta": "Es una noticia clave en IA aplicada y automatización, mostrando avances en la interacción con robots, lo que podría tener implicaciones en diversas industrias y herramientas futuras.",
-      "publicadoEn": "2026-07-27T13:00:00.000Z",
+      "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+      "tituloOriginal": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+      "tituloLimpio": "La brecha de OpenAI en Hugging Face reavivó el debate sobre la alineación y el control de la IA",
+      "resumen": "La brecha de OpenAI en Hugging Face reavivó el debate sobre la alineación y el control de la IA, exponiendo visiones contrapuestas sobre si la IA debe ser mejor alineada, mejor contenida, o ambas.",
+      "porQueImporta": "Es crucial para entender los desafíos de seguridad y ética en el desarrollo de IA, especialmente para alguien que trabaja con arte e IA.",
+      "publicadoEn": "2026-07-27T17:28:42.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "ia",
-        "robótica",
-        "automatización",
-        "inversión"
+        "seguridad",
+        "ética",
+        "openai"
       ],
       "tambienVistoEn": []
     },
@@ -256,18 +288,19 @@
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
       "fuente": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
-      "tituloOriginal": "Midjourney bought the astrology app Co-Star",
-      "tituloLimpio": "Midjourney adquirió la aplicación de astrología Co-Star",
-      "resumen": "Midjourney, que ha pasado de generar imágenes de gatos con IA a ecografías de cuerpo completo, se está adentrando en un nuevo campo: la astrología. La startup de IA anunció el jueves que ha adquirido la aplicación de astrología personalizada Co-Star.",
-      "porQueImporta": "Muestra una expansión inesperada de una empresa líder en IA, indicando nuevas direcciones y aplicaciones para la tecnología, incluso en nichos como la astrología.",
-      "publicadoEn": "2026-07-24T19:06:58.000Z",
-      "globalScore": 96,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+      "tituloOriginal": "Why China is giving away its best AI models",
+      "tituloLimpio": "Por qué China está regalando sus mejores modelos de IA",
+      "resumen": "Silicon Valley ha pasado gran parte de la semana en alerta, digiriendo la llegada de Kimi K3 de Moonshot AI, un modelo de IA chino que supuestamente puede superar a algunos de los mejores sistemas construidos por empresas estadounidenses a una fracción del costo.",
+      "porQueImporta": "Indica una tendencia de competencia global en IA y la disponibilidad de modelos potentes a bajo costo, lo que podría impactar el mercado y las herramientas disponibles para artistas de IA.",
+      "publicadoEn": "2026-07-27T16:51:50.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "ia",
-        "adquisiciones",
-        "aplicaciones"
+        "china",
+        "modelos de ia",
+        "competencia"
       ],
       "tambienVistoEn": []
     },
@@ -275,18 +308,19 @@
       "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
       "categoria": "AI",
       "fuente": "MIT Technology Review AI",
-      "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
-      "tituloOriginal": "The path to artificial superintelligence",
-      "tituloLimpio": "El camino hacia la superinteligencia artificial",
-      "resumen": "Imagine un sistema de salud compuesto por múltiples agentes de IA: uno que gestiona la evaluación de síntomas, otro la programación, un tercero los seguros y un cuarto la farmacia. Cada uno es un experto en su dominio. Pero todos tienen sus propios conocimientos y objetivos distintos. Hoy pueden intercambiar datos, pero aún no son capaces de coordinarse realmente.",
-      "porQueImporta": "Ofrece una visión a largo plazo sobre el desarrollo de la IA y la coordinación de agentes, relevante para entender el futuro de la tecnología y sus posibles aplicaciones en sistemas complejos.",
-      "publicadoEn": "2026-07-27T12:00:00.000Z",
+      "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "tituloOriginal": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+      "tituloLimpio": "OpenAI calificó el ataque a Hugging Face como sin precedentes. Pero ya hemos estado aquí antes.",
+      "resumen": "Esta historia apareció originalmente en The Algorithm, nuestro boletín semanal sobre IA. Leer el relato de OpenAI la semana pasada sobre cómo algunos de sus modelos rompieron su contención y hackearon los sistemas informáticos de Hugging Face, otra empresa de IA, fue la primera vez que...",
+      "porQueImporta": "Complementa la noticia anterior sobre la brecha de OpenAI, ofreciendo una perspectiva sobre la recurrencia de estos problemas en la seguridad de la IA.",
+      "publicadoEn": "2026-07-27T18:00:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "ia",
-        "futuro",
-        "investigación"
+        "seguridad",
+        "openai",
+        "hugging face"
       ],
       "tambienVistoEn": []
     },
@@ -294,19 +328,18 @@
       "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Apple",
       "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/07/27/apple-reclaims-most-valuable-company-title-from-nvidia-as-it-barrels-toward-5t/",
-      "tituloOriginal": "Apple overtakes Nvidia as world’s most valuable company as it barrels toward $5T",
-      "tituloLimpio": "Apple supera a Nvidia como la empresa más valiosa del mundo y se acerca a los 5 billones de dólares",
-      "resumen": "Apple y Nvidia han vuelto a intercambiar posiciones, con Apple superando a Nvidia. Apple aún no ha cruzado el umbral de los 5 billones de dólares de capitalización de mercado, aunque las operaciones intradía sitúan a la empresa en torno a los 4,944 billones de dólares. Apple ha recuperado oficialmente el título de la empresa más valiosa del mundo por capitalización de mercado.",
-      "porQueImporta": "Es una noticia importante para el mercado de valores y para los inversores en ETFs. Refleja la fortaleza de Apple y su impacto en la economía global.",
-      "publicadoEn": "2026-07-27T14:14:43.000Z",
+      "url": "https://9to5mac.com/2026/07/27/apple-teases-severance-season-3-in-new-update/",
+      "tituloOriginal": "Apple teases Severance season 3 in new update",
+      "tituloLimpio": "Apple adelanta la tercera temporada de Severance en una nueva actualización",
+      "resumen": "La espera entre las dos primeras temporadas de Severance fue larga, y la tercera temporada también ha exigido mucha paciencia, pero Apple TV acaba de adelantar una actualización notable sobre el progreso del programa.",
+      "porQueImporta": "Noticia de interés general para usuarios de Apple TV y seguidores de la serie, aunque no directamente relacionada con el trabajo o las inversiones de Guido.",
+      "publicadoEn": "2026-07-27T18:23:45.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "apple",
-        "finanzas",
-        "mercados",
-        "inversión"
+        "apple tv",
+        "entretenimiento"
       ],
       "tambienVistoEn": []
     },
@@ -314,19 +347,19 @@
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
       "categoria": "Apple",
       "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/07/27/claude-cowork-can-escape-its-sandbox-rummage-through-all-of-your-files?utm_source=rss",
-      "tituloOriginal": "Claude Cowork can escape its sandbox, rummage through all of your files",
-      "tituloLimpio": "Claude Cowork puede escapar de su sandbox y acceder a todos tus archivos",
-      "resumen": "Una vulnerabilidad en Claude Cowork de Anthropic permite que su agente de IA escape de su máquina virtual y acceda a archivos sensibles en una Mac, exponiendo una brecha en las protecciones de sandbox.",
-      "porQueImporta": "Alerta sobre un riesgo de seguridad importante en herramientas de IA, especialmente para usuarios de Mac. Es crucial estar al tanto de estas vulnerabilidades para proteger la información personal y profesional.",
-      "publicadoEn": "2026-07-27T13:58:20.000Z",
+      "url": "https://appleinsider.com/articles/26/07/27/macos-266-is-out-but-expect-minimal-feature-changes-with-macos-27-looming?utm_source=rss",
+      "tituloOriginal": "macOS 26.6 is out, but expect minimal feature changes with macOS 27 looming",
+      "tituloLimpio": "macOS 26.6 ya está disponible, pero espere cambios mínimos de funciones con macOS 27 en el horizonte",
+      "resumen": "Apple lanzó macOS 26.6 al público, pero no espere grandes cambios en las funciones esta vez. Una selección de MacBooks que pueden ejecutar macOS 26.6 Apple ha concluido su programa de pruebas beta para las actualizaciones de sus sistemas operativos de generación actual.",
+      "porQueImporta": "Confirma la naturaleza de mantenimiento de la actualización de macOS y anticipa futuras novedades con macOS 27, relevante para la planificación de actualizaciones de hardware y software.",
+      "publicadoEn": "2026-07-27T18:02:15.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "ia",
-        "seguridad",
         "apple",
-        "riesgos"
+        "macos",
+        "actualización",
+        "funciones"
       ],
       "tambienVistoEn": []
     },
@@ -334,39 +367,19 @@
       "id": "macstories-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Apple",
       "fuente": "MacStories",
-      "url": "https://www.macstories.net/ios/lock-launcher-introduces-no-redirect-launchers-xl-widgets-for-ios-27/",
-      "tituloOriginal": "Lock Launcher Introduces “No Redirect” Launchers, XL Widgets for iOS 27",
-      "tituloLimpio": "Lock Launcher introduce lanzadores 'sin redirección' y widgets XL para iOS 27",
-      "resumen": "Mi configuración de pantalla de inicio con widgets de Liquid Glass impulsados por Lock Launcher. No creo haberlo mencionado nunca en MacStories (aunque probablemente lo hice en algún momento en AppStories o Unwind), pero mi aplicación de 'lanzador' favorita para iOS es una utilidad llamada Lock Launcher, que he estado usando de forma intermitente durante los últimos años.",
-      "porQueImporta": "Interesa por las novedades en personalización y herramientas de productividad para iOS, que pueden mejorar la experiencia de usuario y la eficiencia en el ecosistema Apple.",
-      "publicadoEn": "2026-07-27T13:23:03.000Z",
+      "url": "https://www.macstories.net/reviews/pastebot-3-doubles-down-on-mac-clipboard-automation-and-introduces-two-new-business-models/",
+      "tituloOriginal": "Pastebot 3 Doubles Down on Mac Clipboard Automation and Introduces Two New Business Models",
+      "tituloLimpio": "Pastebot 3 mejora la automatización del portapapeles en Mac e introduce dos nuevos modelos de negocio",
+      "resumen": "Tapbots lanzó Pastebot 3, una reescritura del gestor de portapapeles de Mac que incluye varias opciones potentes de automatización y personalización, junto con dos nuevos modelos de precios.",
+      "porQueImporta": "Una herramienta de automatización clave para Mac que puede mejorar significativamente la productividad de Guido en su trabajo diario.",
+      "publicadoEn": "2026-07-27T15:39:21.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "apple",
-        "ios",
+        "mac",
+        "automatización",
         "herramientas",
         "productividad"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
-      "categoria": "Finance",
-      "fuente": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-oil-prices-plunge/?src=A00220&yptr=yahoo",
-      "tituloOriginal": "Stock Market Today: Dow Jumps 600 Points On U.S.-Iran Hopes; Oil Prices Plunge (Live Coverage)",
-      "tituloLimpio": "Mercado de valores hoy: Dow sube 600 puntos por expectativas entre EE.UU. e Irán; precios del petróleo caen",
-      "resumen": "",
-      "porQueImporta": "Es relevante para el seguimiento de los mercados financieros y la inversión, mostrando la volatilidad y la reacción a eventos geopolíticos.",
-      "publicadoEn": "2026-07-27T13:42:55.000Z",
-      "imagen": "https://media.zenfs.com/en/ibd.com/6681ba47464c8e51c9d4e56a07440051",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "finanzas",
-        "mercados",
-        "inversión"
       ],
       "tambienVistoEn": []
     },
@@ -374,19 +387,20 @@
       "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
       "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/27/cantor-is-advising-crypto-bank-amina-on-path-to-potential-public-listing",
-      "tituloOriginal": "Cantor is advising crypto bank AMINA on path to potential public listing",
-      "tituloLimpio": "Cantor asesora al banco de criptomonedas AMINA para una posible cotización pública",
-      "resumen": "El banco suizo está explorando múltiples caminos hacia los mercados públicos, aunque las discusiones están en curso y no se ha tomado una decisión final.",
-      "porQueImporta": "Indica el crecimiento y la maduración del sector de las criptomonedas, con bancos buscando cotizar en bolsa, lo que puede ser de interés para inversores en activos digitales.",
-      "publicadoEn": "2026-07-27T14:36:30.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/981f113099a5d95dd101524386439043bf2a255f-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "globalScore": 96,
+      "url": "https://www.coindesk.com/markets/2026/07/22/crypto-s-favorite-usd90-trillion-trading-product-is-coming-to-wall-street-but-big-banks-are-taking-it-slow",
+      "tituloOriginal": "Crypto’s favorite $90 trillion trading product is coming to Wall Street, but big banks are taking it slow",
+      "tituloLimpio": "El producto de trading favorito de las criptomonedas, de 90 billones de dólares, llega a Wall Street, pero los grandes bancos se lo toman con calma",
+      "resumen": "Los futuros perpetuos regulados están llegando oficialmente a EE. UU., pero mientras las firmas de trading ágiles y los exchanges de criptomonedas compiten por captar la demanda minorista masiva, los bancos tradicionales de Wall Street se abstienen hasta que la liquidez, las reglas y la infraestructura maduren.",
+      "porQueImporta": "Indica una tendencia de institucionalización de productos cripto, lo que podría influir en el mercado de ETFs y otras inversiones a largo plazo, aunque los bancos argentinos no tengan acceso directo.",
+      "publicadoEn": "2026-07-27T18:00:00.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/535cd2c7dbb908633bc727e412235a2885e3256f-5269x3511.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "finanzas",
         "criptomonedas",
-        "inversión"
+        "inversión",
+        "wall street"
       ],
       "tambienVistoEn": []
     },
@@ -394,19 +408,20 @@
       "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
       "categoria": "Finance",
       "fuente": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/hong-kong-crypto-giant-hashkey-merges-its-exchanges-into-one?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "tituloOriginal": "Hong Kong crypto giant HashKey merges regional exchange into one",
-      "tituloLimpio": "El gigante cripto de Hong Kong HashKey fusiona sus exchanges en uno",
-      "resumen": "HashKey de Hong Kong unificará sus sucursales de exchange de criptomonedas, con usuarios de sus regiones de Hong Kong, Global, Singapur y Medio Oriente utilizando la misma plataforma.",
-      "porQueImporta": "Muestra la consolidación en el mercado de criptomonedas y la búsqueda de eficiencia operativa, relevante para quienes siguen el sector de activos digitales.",
-      "publicadoEn": "2026-07-27T13:41:44.000Z",
-      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-stablecoin-hong-kong.jpg",
+      "url": "https://cointelegraph.com/news/tether-xaut-gold-token-receives-shariah-certification-islamic-finance-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Tether’s XAUt gold token receives Shariah certification to expand Islamic finance access",
+      "tituloLimpio": "El token de oro XAUt de Tether recibe certificación Shariah para expandir el acceso a las finanzas islámicas",
+      "resumen": "La certificación podría expandir el acceso al token respaldado por oro de Tether entre las instituciones financieras islámicas e inversores que buscan exposición a oro físico que cumpla con la Shariah.",
+      "porQueImporta": "Muestra la diversificación y expansión de los activos digitales, abriendo nuevos mercados y tipos de inversores, lo que puede influir en la demanda global de ciertos tokens.",
+      "publicadoEn": "2026-07-27T16:44:03.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-sharia-ruling-on-crypto-will-it-set-a-standard-for-acceptance.png",
       "globalScore": 90,
       "personalScore": 100,
       "tags": [
         "finanzas",
         "criptomonedas",
-        "mercados"
+        "tether",
+        "oro"
       ],
       "tambienVistoEn": []
     },
@@ -414,20 +429,20 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-lunes-27-julio_0_wOn8zpLM8H.html",
-      "tituloOriginal": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este lunes 27 de julio",
-      "tituloLimpio": "Dólar hoy: cotización del oficial y sus diferentes tipos de cambio este lunes 27 de julio",
-      "resumen": "Desde el oficial hasta el blue y el turista, todos los tipos de cambio. Mirá la cotización minuto a minuto.",
-      "porQueImporta": "Es una noticia esencial para cualquier residente en Argentina, ya que el valor del dólar impacta directamente en la economía personal y empresarial.",
-      "publicadoEn": "2026-07-27T12:00:01.000Z",
-      "imagen": "https://www.clarin.com/img/2020/11/10/ta7hQ1oRl_1200x630__1.jpg",
-      "globalScore": 94,
+      "url": "https://www.clarin.com/economia/jefa-fmi-dijo-argentina-necesita-prestamo-reconocio-falta-crecimiento-equilibrado_0_xlTX2CK1Jt.html",
+      "tituloOriginal": "La jefa del FMI dijo que Argentina no necesita otro préstamo y reconoció que falta un crecimiento \"equilibrado\"",
+      "tituloLimpio": "La jefa del FMI dijo que Argentina no necesita otro préstamo y reconoció que falta un crecimiento \"equilibrado\"",
+      "resumen": "Kristalina Georgieva dijo que hoy la foto de la economía es \"mejor\" que en el pasado. Pero mencionó que la expansión está concentrada en pocos sectores.",
+      "porQueImporta": "Noticia económica clave para Argentina, que impacta directamente en la percepción del riesgo país y las expectativas económicas, relevante para las inversiones locales.",
+      "publicadoEn": "2026-07-27T17:21:39.000Z",
+      "imagen": "https://www.clarin.com/img/2026/07/27/wqjMr1IPq_1200x630__1.jpg",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "finanzas",
-        "dólar",
-        "economía"
+        "fmi",
+        "economía",
+        "crecimiento"
       ],
       "tambienVistoEn": []
     },
@@ -435,19 +450,20 @@
       "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Politica",
-      "url": "https://www.clarin.com/politica/ofreciendo-ministerio-digo-chicana-mendiguren-contesto-agravios-milei-revelo-demandara-presidente_0_gMwzAlX6h0.html",
-      "tituloOriginal": "\"Si me está ofreciendo un ministerio, ya le digo que no\": con una chicana, De Mendiguren contestó a los agravios de Milei y reveló que demandará al Presidente",
-      "tituloLimpio": "De Mendiguren contesta a Milei y evalúa demandarlo tras insultos",
-      "resumen": "El exministro de Producción aseguró que el mandatario lo criticó duramente para llamar la atención, y recordó las cosas que decía sobre quienes ahora forman parte del Gabinete. Milei había tildado de \"ladrón\" a De Mendiguren y lo acusó de \"arruinar el país\", durante una entrevista desde La Rural.",
-      "porQueImporta": "Refleja la tensión política actual en Argentina, que puede influir en el clima de negocios y la percepción de la estabilidad económica.",
-      "publicadoEn": "2026-07-27T13:38:31.000Z",
-      "imagen": "https://www.clarin.com/img/2026/07/26/EecFDWD8E_1200x630__1.jpg",
-      "globalScore": 98,
+      "url": "https://www.clarin.com/politica/fundacion-radical-actuacion-presidente-milei-brasil-perjudica-argentina_0_C2bt9ZsI1M.html",
+      "tituloOriginal": "Para una fundación radical, la actuación del presidente Milei en Brasil \"perjudica a la Argentina\"",
+      "tituloLimpio": "Para una fundación radical, la actuación del presidente Milei en Brasil \"perjudica a la Argentina\"",
+      "resumen": "Advirtieron que los \"discursos hostiles, insultos o provocaciones públicas debilitan la posición de la Argentina en el escenario global, generando costos diplomáticos y económicos\".",
+      "porQueImporta": "Refleja tensiones políticas y diplomáticas que pueden tener consecuencias económicas para Argentina, afectando el clima de negocios y la inversión.",
+      "publicadoEn": "2026-07-27T15:48:47.000Z",
+      "imagen": "https://www.clarin.com/img/2026/07/27/zsm1O3br-_1200x630__1.jpg",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "argentina",
         "política",
-        "gobierno"
+        "relaciones exteriores",
+        "economía"
       ],
       "tambienVistoEn": []
     },
@@ -455,20 +471,62 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/07/27/llega-kristalina-georgieva-directora-del-fmi-reunion-con-milei-visita-a-vaca-muerta-y-la-meta-que-incumplio-el-gobierno/",
-      "tituloOriginal": "Llegó al país Kristalina Georgieva, directora del FMI: se reunirá con Milei y visitará Vaca Muerta",
-      "tituloLimpio": "Llegó al país Kristalina Georgieva, directora del FMI: se reunirá con Milei y visitará Vaca Muerta",
-      "resumen": "La número 1 del Fondo fue invitada por el presidente. Tendrán su primer encuentro personal en 10 meses.",
-      "porQueImporta": "Noticia de alta relevancia para Argentina, ya que la visita de la directora del FMI es clave para las negociaciones económicas y la percepción de los mercados sobre el país.",
-      "publicadoEn": "2026-07-27T13:50:53.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/NWCWFVPKC2UHLGAALGC7BEWCUU.jpg?auth=504c2abe659b7d7259a86a2607541218d763e3797f36451148c219d10dfda70a&smart=true&width=5315&height=3622",
+      "url": "https://www.infobae.com/economia/2026/07/27/el-presidente-javier-milei-recibio-a-la-titular-del-fmi-en-casa-rosada/",
+      "tituloOriginal": "El presidente Javier Milei recibió a la titular del FMI en Casa Rosada",
+      "tituloLimpio": "El presidente Javier Milei recibió a la titular del FMI en Casa Rosada",
+      "resumen": "El mandatario recibió a la número 1 del organismo internacional, Kristalina Georgieva. Cómo sigue la agenda en el país y la cena que se espera con empresario.",
+      "porQueImporta": "Confirma el encuentro de alto nivel entre el gobierno argentino y el FMI, crucial para la relación económica del país y futuras decisiones financieras.",
+      "publicadoEn": "2026-07-27T18:17:25.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/BQ4STT7UZVEJVEWZPTGK37R74I.png?auth=b7f4b87acda59073c908d76117553e42b508bee63363261d47c6ca3b9c7e9eb6&smart=true&width=1920&height=1080",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "economía",
         "fmi",
-        "finanzas"
+        "política",
+        "economía"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/07/27/maximo-kirchner-presento-un-proyecto-para-que-los-acuerdos-con-el-fmi-deban-ser-aprobados-por-el-congreso/",
+      "tituloOriginal": "Máximo Kirchner presentó un proyecto para que los acuerdos con el FMI deban ser aprobados por el Congreso",
+      "tituloLimpio": "Máximo Kirchner presentó un proyecto para que los acuerdos con el FMI deban ser aprobados por el Congreso",
+      "resumen": "La iniciativa ingresó al mismo momento que la Giorgieva anunciaba que estaba en Buenos Aires. Plantea una ley especial para cada crédito externo, pone topes, impide el uso de DNU y amplía las facultades a una bicameral del Parlamento.",
+      "porQueImporta": "Propuesta legislativa que busca limitar el poder ejecutivo en la toma de deuda externa, lo que podría generar mayor estabilidad y transparencia en los acuerdos financieros de Argentina, impactando la confianza de los inversores.",
+      "publicadoEn": "2026-07-27T16:24:30.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/DQUCD7TW4FGIRDIXKOQI32QS7E.jpeg?auth=9e2950e336414852f8a4c57d26a8089257822a14d53ee7ac1abb0f434a00d7de&smart=true&width=1040&height=694",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "política",
+        "fmi",
+        "deuda"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/negocios/fusiones-y-adquisiciones-la-actividad-registra-uno-de-los-mejores-semestres-de-la-ultima-decada-nid27072026/",
+      "tituloOriginal": "Fusiones y adquisiciones: la actividad registra uno de los mejores semestres de la última década",
+      "tituloLimpio": "Fusiones y adquisiciones: la actividad registra uno de los mejores semestres de la última década",
+      "resumen": "Durante el primer semestre se concretaron 56 operaciones por unos US$5700 millones, según un informe; energía y agro lideraron la actividad.",
+      "porQueImporta": "Indica un dinamismo en el mercado de capitales argentino, lo que puede generar oportunidades de inversión y reflejar un cambio en la confianza empresarial.",
+      "publicadoEn": "2026-07-27T18:00:56.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/S4FMWVTOUZHUBJNHPSPTMNDYBI.JPG?auth=ae5c7ab8ac0ff6cc9e76a40ecba7c60d319cce5e4d67f4f63a1935ae58e98cef&smart=true&width=2000&height=1333",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "finanzas",
+        "negocios",
+        "inversión"
       ],
       "tambienVistoEn": []
     },
@@ -476,26 +534,26 @@
       "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Politica",
-      "url": "https://www.lanacion.com.ar/politica/kristalina-georgieva-en-la-argentina-en-vivo-reunion-con-milei-caputo-y-visita-a-vaca-muerta-nid27072026/",
-      "tituloOriginal": "Kristalina Georgieva en la Argentina, en vivo: reunión con Milei, Caputo y visita a Vaca Muerta",
-      "tituloLimpio": "Kristalina Georgieva en Argentina: reunión con Milei, Caputo y visita a Vaca Muerta",
-      "resumen": "La directora gerente del FMI iniciará este lunes su primera visita al país desde que asumió el cargo; se reunirá con el Presidente y dará una charla magistral; el país aún es el principal deudor del organismo.",
-      "porQueImporta": "Confirma la importancia de la visita del FMI para la agenda económica y política de Argentina, con implicaciones directas para el futuro financiero del país.",
-      "publicadoEn": "2026-07-27T14:31:11.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/PP6HSPAPXRCOTPHFJNAMBPXN6Q.jpeg?auth=3855f9ed471badc7e207133df29da398cd464ef421efe967025fea221d7eb0de&smart=true&width=2000&height=1333",
+      "url": "https://www.lanacion.com.ar/politica/maximo-kirchner-propuso-limitar-el-endeudamiento-con-el-fmi-y-renegociar-parte-del-prestamo-de-2018-nid27072026/",
+      "tituloOriginal": "Máximo Kirchner propuso limitar el endeudamiento con el FMI y renegociar parte del préstamo de 2018",
+      "tituloLimpio": "Máximo Kirchner propuso limitar el endeudamiento con el FMI y renegociar parte del préstamo de 2018",
+      "resumen": "Presentó el proyecto en Diputados el mismo día en que la directora del organismo, Kristalina Georgieva, visita el país; busca evitar que nuevos acuerdos se aprueben por decreto y revisar una parte del crédito otorgado durante el gobierno de Macri.",
+      "porQueImporta": "Refuerza la noticia anterior sobre la iniciativa legislativa, destacando la intención de revisar acuerdos pasados y establecer un marco más estricto para la deuda futura, con implicaciones para la estabilidad económica y política.",
+      "publicadoEn": "2026-07-27T18:14:05.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/GCE6LCJVHNEPPP4ZJJB5ENOM5E.JPG?auth=224d43854c3286d830947260038ecac0667d12f0f89bf6d6f81fd23295e42227&smart=true&width=1998&height=1333",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "economía",
+        "política",
         "fmi",
-        "política"
+        "deuda"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-07-27T14:41:39.081Z"
+    "generadoEn": "2026-07-27T18:24:32.737Z"
   }
 }
