@@ -1,0 +1,501 @@
+{
+  "fecha": "2026-07-27",
+  "generadoEn": "2026-07-27T14:41:39.081Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "Hoy, 27 de julio de 2026, el mercado de la IA sigue en expansión con inversiones significativas y nuevas aplicaciones, mientras que Apple recupera su posición como la empresa más valiosa. En Argentina, la llegada de Kristalina Georgieva del FMI y la suba de precios de trigo y soja por conflictos internacionales marcan la agenda económica. También se destacan novedades en marketing y herramientas para iOS.",
+  "radarPersonal": [
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Los precios del trigo y la soja alcanzan máximos de más de dos años por el impacto de la guerra de Medio Oriente",
+      "resumen": "La escalada del conflicto en Medio Oriente y el recrudecimiento de la guerra entre Rusia y Ucrania volvieron a tensionar los mercados agrícolas. El trigo y la soja alcanzaron sus precios más altos de los últimos años, mientras el maíz también ganó impulso por problemas climáticos y logísticos.",
+      "categoria": "Finance",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/los-precios-del-trigo-y-la-soja-alcanzan-maximos-mas-dos-anos-el-impacto-la-guerra-medio-oriente-n6303920"
+      ],
+      "score": 100,
+      "tags": [
+        "inversión",
+        "mercados",
+        "commodities",
+        "argentina"
+      ]
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "titulo": "Apple supera a Nvidia como la empresa más valiosa del mundo y se acerca a los 5 billones de dólares",
+      "resumen": "Apple y Nvidia han vuelto a intercambiar posiciones, con Apple superando a Nvidia. Apple aún no ha cruzado el umbral de los 5 billones de dólares de capitalización de mercado, aunque las operaciones intradía sitúan a la empresa en torno a los 4,944 billones de dólares. Apple ha recuperado oficialmente el título de la empresa más valiosa del mundo por capitalización de mercado.",
+      "categoria": "Apple",
+      "fuentes": [
+        "9to5Mac"
+      ],
+      "urls": [
+        "https://9to5mac.com/2026/07/27/apple-reclaims-most-valuable-company-title-from-nvidia-as-it-barrels-toward-5t/"
+      ],
+      "score": 100,
+      "tags": [
+        "apple",
+        "inversión",
+        "mercados"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "Enigma recauda 70 millones de dólares para facilitar el control de robots",
+      "resumen": "La ronda de financiación inicial fue liderada por Index Ventures y Ribbit Capital, con la participación de Conviction Partners de Sarah Guo.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/"
+      ],
+      "score": 100,
+      "tags": [
+        "ia",
+        "robótica",
+        "inversión"
+      ]
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "titulo": "El camino hacia la superinteligencia artificial",
+      "resumen": "Imagine un sistema de salud compuesto por múltiples agentes de IA: uno que gestiona la evaluación de síntomas, otro la programación, un tercero los seguros y un cuarto la farmacia. Cada uno es un experto en su dominio. Pero todos tienen sus propios conocimientos y objetivos distintos. Hoy pueden intercambiar datos, pero aún no son capaces de coordinarse realmente.",
+      "categoria": "AI",
+      "fuentes": [
+        "MIT Technology Review AI"
+      ],
+      "urls": [
+        "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/"
+      ],
+      "score": 100,
+      "tags": [
+        "ia",
+        "futuro",
+        "aplicaciones"
+      ]
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "MacBook Pro 2026 con hasta 500 dólares de descuento en Amazon tras reciente aumento de precio",
+      "resumen": "Los precios de Amazon en el MacBook Pro 2026 se han sumado a las recientes subidas de precios de Apple, lo que significa que ya no estamos rastreando las rebajas anteriores a la subida de precios en estos dispositivos. Sin embargo, todavía se pueden encontrar ofertas notables si está comprando un MacBook Pro este mes, con hasta 500 dólares de descuento sobre los nuevos precios disponibles ahora mismo en Amazon.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/07/27/macbook-pro-prices-up-to-500/"
+      ],
+      "score": 100,
+      "tags": [
+        "apple",
+        "macbook",
+        "ofertas"
+      ]
+    }
+  ],
+  "loImportante": [
+    "Apple recupera el liderazgo como la empresa más valiosa del mundo, superando a Nvidia y acercándose a los 5 billones de dólares.",
+    "La directora del FMI, Kristalina Georgieva, visita Argentina para reunirse con el presidente Milei y recorrer Vaca Muerta, en un momento clave para la economía del país.",
+    "Los precios del trigo y la soja alcanzan máximos de más de dos años debido a la escalada de conflictos en Medio Oriente y la guerra en Ucrania, impactando los mercados agrícolas.",
+    "Se invierten 70 millones de dólares en Enigma para simplificar el control de robots, lo que podría acelerar la adopción de la robótica en diversas industrias.",
+    "Midjourney, conocida por la generación de imágenes con IA, adquiere la aplicación de astrología Co-Star, mostrando una expansión inesperada en el uso de la IA."
+  ],
+  "oportunidades": [
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Investing",
+      "titulo": "Suba de precios de trigo y soja por conflictos globales",
+      "detalle": "La escalada de conflictos en Medio Oriente y la guerra en Ucrania impulsan los precios de los commodities agrícolas, como el trigo y la soja, a máximos de más de dos años. El maíz también muestra un alza.",
+      "acciones": [
+        "Evaluar ETFs o fondos de inversión ligados a commodities agrícolas.",
+        "Monitorear el impacto en la inflación local y global."
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "titulo": "Inversión en IA para control de robots",
+      "detalle": "Enigma recauda 70 millones de dólares para simplificar el control de robots, buscando hacerlo tan fácil como ajustar el volumen. Esto podría democratizar el acceso a la robótica.",
+      "acciones": [
+        "Investigar nuevas herramientas de automatización y robótica con IA.",
+        "Explorar posibles aplicaciones de control de robots en retoque fotográfico o arte con IA."
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "Campaña global de Rare Beauty inspirada en mitología griega",
+      "detalle": "La marca de cosméticos Rare Beauty, fundada por Selena Gomez, lanza una campaña global para su segunda fragancia, inspirada en la mitología griega, abarcando redes sociales, publicidad exterior, retail y digital pago.",
+      "acciones": [
+        "Analizar la estrategia de marketing de Rare Beauty para extraer ideas aplicables a proyectos de arte con IA.",
+        "Observar cómo las narrativas culturales se utilizan en campañas de marketing global."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Technology",
+      "titulo": "Falla de seguridad en Claude Cowork permite acceso a archivos de Mac",
+      "detalle": "Una vulnerabilidad en Claude Cowork de Anthropic permite que su agente de IA escape de su máquina virtual y acceda a archivos sensibles en una Mac, exponiendo una brecha en las protecciones de sandbox.",
+      "mitigacion": "Revisar y asegurar las configuraciones de seguridad de las herramientas de IA utilizadas. Mantener el software actualizado y ser cauteloso con los permisos otorgados a las aplicaciones de IA."
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Platform",
+      "titulo": "Apple evalúa nuevo modelo de compra de iPhone (solo en EE.UU.)",
+      "detalle": "Apple evalúa un nuevo servicio de suscripción para iPhone que debutaría en Estados Unidos, reemplazando los planes de financiación actuales y buscando impulsar la renovación de equipos. Este modelo, similar al leasing de autos, no estaría disponible en Argentina.",
+      "mitigacion": "Considerar que las estrategias de Apple para otros mercados no siempre aplican a Argentina. No depender de modelos de financiación o servicios exclusivos de EE.UU. para la adquisición de equipos Apple."
+    }
+  ],
+  "conexiones": [
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "titulo": "Cruces entre Milei y De Mendiguren: insultos y posible demanda",
+      "historias": [
+        "\"Si me está ofreciendo un ministerio, ya le digo que no\": con una chicana, De Mendiguren contestó a los agravios de Milei y reveló que demandará al Presidente",
+        "Javier Milei insultó a De Mendiguren en La Rural y el ex funcionario anunció que evalúa demandarlo"
+      ],
+      "conclusion": "Las noticias de Clarín e Infobae reportan el mismo incidente donde el presidente Milei insultó a De Mendiguren en La Rural, lo que llevó al ex funcionario a considerar acciones legales. Ambos medios cubren la misma controversia política."
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "titulo": "Visita de Kristalina Georgieva a Argentina",
+      "historias": [
+        "Llegó al país Kristalina Georgieva, directora del FMI: se reunirá con Milei y visitará Vaca Muerta",
+        "Kristalina Georgieva en la Argentina, en vivo: reunión con Milei, Caputo y visita a Vaca Muerta"
+      ],
+      "conclusion": "Infobae y La Nación informan sobre la llegada de Kristalina Georgieva, directora del FMI, a Argentina. Ambas fuentes destacan su reunión con el presidente Milei y la visita a Vaca Muerta, subrayando la importancia de este encuentro para el país."
+    }
+  ],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+      "tituloOriginal": "3 Google updates from Galaxy Unpacked 2026",
+      "tituloLimpio": "Google anuncia tres actualizaciones en Galaxy Unpacked 2026",
+      "resumen": "Se compartieron novedades sobre cómo los usuarios de Samsung pueden mejorar la productividad y ahorrar tiempo en los nuevos dispositivos plegables, relojes y gafas que saldrán pronto.",
+      "porQueImporta": "Interesa por las novedades de Google en dispositivos móviles y wearables, que podrían impactar en la productividad y el uso de herramientas, relevantes para el trabajo con IA y retoque fotográfico.",
+      "publicadoEn": "2026-07-22T13:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "google",
+        "ia",
+        "productividad",
+        "herramientas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/los-precios-del-trigo-y-la-soja-alcanzan-maximos-mas-dos-anos-el-impacto-la-guerra-medio-oriente-n6303920",
+      "tituloOriginal": "Los precios del trigo y la soja alcanzan máximos de más de dos años por el impacto de la guerra de Medio Oriente",
+      "tituloLimpio": "Los precios del trigo y la soja alcanzan máximos de más de dos años por el impacto de la guerra de Medio Oriente",
+      "resumen": "La escalada del conflicto en Medio Oriente y el recrudecimiento de la guerra entre Rusia y Ucrania volvieron a tensionar los mercados agrícolas. El trigo y la soja alcanzaron sus precios más altos de los últimos años, mientras el maíz también ganó impulso por problemas climáticos y logísticos.",
+      "porQueImporta": "Es relevante para la inversión, ya que la suba de commodities agrícolas puede influir en ETFs y mercados. También afecta la economía argentina, un país productor de granos.",
+      "publicadoEn": "2026-07-27T13:35:00.000Z",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "inversión",
+        "argentina",
+        "mercados"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/rare-beauty-draws-inspiration-from-greek-mythology-for-global-campaign/826225/",
+      "tituloOriginal": "Rare Beauty draws inspiration from Greek mythology for global campaign",
+      "tituloLimpio": "Rare Beauty se inspira en la mitología griega para su campaña global",
+      "resumen": "La nueva iniciativa de la marca de cosméticos fundada por Selena Gomez, centrada en su segunda fragancia, abarca redes sociales, publicidad exterior, retail y digital pago.",
+      "porQueImporta": "Ofrece un ejemplo de estrategia de marketing global y creatividad, útil para entender tendencias en la industria y aplicar conceptos en proyectos de arte con IA.",
+      "publicadoEn": "2026-07-27T14:25:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "campañas",
+        "creatividad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+      "tituloOriginal": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+      "tituloLimpio": "Enigma recauda 70 millones de dólares para facilitar el control de robots",
+      "resumen": "La ronda de financiación inicial fue liderada por Index Ventures y Ribbit Capital, con la participación de Conviction Partners de Sarah Guo.",
+      "porQueImporta": "Es una noticia clave en IA aplicada y automatización, mostrando avances en la interacción con robots, lo que podría tener implicaciones en diversas industrias y herramientas futuras.",
+      "publicadoEn": "2026-07-27T13:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "robótica",
+        "automatización",
+        "inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+      "tituloOriginal": "Midjourney bought the astrology app Co-Star",
+      "tituloLimpio": "Midjourney adquirió la aplicación de astrología Co-Star",
+      "resumen": "Midjourney, que ha pasado de generar imágenes de gatos con IA a ecografías de cuerpo completo, se está adentrando en un nuevo campo: la astrología. La startup de IA anunció el jueves que ha adquirido la aplicación de astrología personalizada Co-Star.",
+      "porQueImporta": "Muestra una expansión inesperada de una empresa líder en IA, indicando nuevas direcciones y aplicaciones para la tecnología, incluso en nichos como la astrología.",
+      "publicadoEn": "2026-07-24T19:06:58.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "adquisiciones",
+        "aplicaciones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+      "tituloOriginal": "The path to artificial superintelligence",
+      "tituloLimpio": "El camino hacia la superinteligencia artificial",
+      "resumen": "Imagine un sistema de salud compuesto por múltiples agentes de IA: uno que gestiona la evaluación de síntomas, otro la programación, un tercero los seguros y un cuarto la farmacia. Cada uno es un experto en su dominio. Pero todos tienen sus propios conocimientos y objetivos distintos. Hoy pueden intercambiar datos, pero aún no son capaces de coordinarse realmente.",
+      "porQueImporta": "Ofrece una visión a largo plazo sobre el desarrollo de la IA y la coordinación de agentes, relevante para entender el futuro de la tecnología y sus posibles aplicaciones en sistemas complejos.",
+      "publicadoEn": "2026-07-27T12:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "futuro",
+        "investigación"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/27/apple-reclaims-most-valuable-company-title-from-nvidia-as-it-barrels-toward-5t/",
+      "tituloOriginal": "Apple overtakes Nvidia as world’s most valuable company as it barrels toward $5T",
+      "tituloLimpio": "Apple supera a Nvidia como la empresa más valiosa del mundo y se acerca a los 5 billones de dólares",
+      "resumen": "Apple y Nvidia han vuelto a intercambiar posiciones, con Apple superando a Nvidia. Apple aún no ha cruzado el umbral de los 5 billones de dólares de capitalización de mercado, aunque las operaciones intradía sitúan a la empresa en torno a los 4,944 billones de dólares. Apple ha recuperado oficialmente el título de la empresa más valiosa del mundo por capitalización de mercado.",
+      "porQueImporta": "Es una noticia importante para el mercado de valores y para los inversores en ETFs. Refleja la fortaleza de Apple y su impacto en la economía global.",
+      "publicadoEn": "2026-07-27T14:14:43.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "finanzas",
+        "mercados",
+        "inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/07/27/claude-cowork-can-escape-its-sandbox-rummage-through-all-of-your-files?utm_source=rss",
+      "tituloOriginal": "Claude Cowork can escape its sandbox, rummage through all of your files",
+      "tituloLimpio": "Claude Cowork puede escapar de su sandbox y acceder a todos tus archivos",
+      "resumen": "Una vulnerabilidad en Claude Cowork de Anthropic permite que su agente de IA escape de su máquina virtual y acceda a archivos sensibles en una Mac, exponiendo una brecha en las protecciones de sandbox.",
+      "porQueImporta": "Alerta sobre un riesgo de seguridad importante en herramientas de IA, especialmente para usuarios de Mac. Es crucial estar al tanto de estas vulnerabilidades para proteger la información personal y profesional.",
+      "publicadoEn": "2026-07-27T13:58:20.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "seguridad",
+        "apple",
+        "riesgos"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/ios/lock-launcher-introduces-no-redirect-launchers-xl-widgets-for-ios-27/",
+      "tituloOriginal": "Lock Launcher Introduces “No Redirect” Launchers, XL Widgets for iOS 27",
+      "tituloLimpio": "Lock Launcher introduce lanzadores 'sin redirección' y widgets XL para iOS 27",
+      "resumen": "Mi configuración de pantalla de inicio con widgets de Liquid Glass impulsados por Lock Launcher. No creo haberlo mencionado nunca en MacStories (aunque probablemente lo hice en algún momento en AppStories o Unwind), pero mi aplicación de 'lanzador' favorita para iOS es una utilidad llamada Lock Launcher, que he estado usando de forma intermitente durante los últimos años.",
+      "porQueImporta": "Interesa por las novedades en personalización y herramientas de productividad para iOS, que pueden mejorar la experiencia de usuario y la eficiencia en el ecosistema Apple.",
+      "publicadoEn": "2026-07-27T13:23:03.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "ios",
+        "herramientas",
+        "productividad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-oil-prices-plunge/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Stock Market Today: Dow Jumps 600 Points On U.S.-Iran Hopes; Oil Prices Plunge (Live Coverage)",
+      "tituloLimpio": "Mercado de valores hoy: Dow sube 600 puntos por expectativas entre EE.UU. e Irán; precios del petróleo caen",
+      "resumen": "",
+      "porQueImporta": "Es relevante para el seguimiento de los mercados financieros y la inversión, mostrando la volatilidad y la reacción a eventos geopolíticos.",
+      "publicadoEn": "2026-07-27T13:42:55.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/6681ba47464c8e51c9d4e56a07440051",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "mercados",
+        "inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/07/27/cantor-is-advising-crypto-bank-amina-on-path-to-potential-public-listing",
+      "tituloOriginal": "Cantor is advising crypto bank AMINA on path to potential public listing",
+      "tituloLimpio": "Cantor asesora al banco de criptomonedas AMINA para una posible cotización pública",
+      "resumen": "El banco suizo está explorando múltiples caminos hacia los mercados públicos, aunque las discusiones están en curso y no se ha tomado una decisión final.",
+      "porQueImporta": "Indica el crecimiento y la maduración del sector de las criptomonedas, con bancos buscando cotizar en bolsa, lo que puede ser de interés para inversores en activos digitales.",
+      "publicadoEn": "2026-07-27T14:36:30.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/981f113099a5d95dd101524386439043bf2a255f-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "criptomonedas",
+        "inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/hong-kong-crypto-giant-hashkey-merges-its-exchanges-into-one?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Hong Kong crypto giant HashKey merges regional exchange into one",
+      "tituloLimpio": "El gigante cripto de Hong Kong HashKey fusiona sus exchanges en uno",
+      "resumen": "HashKey de Hong Kong unificará sus sucursales de exchange de criptomonedas, con usuarios de sus regiones de Hong Kong, Global, Singapur y Medio Oriente utilizando la misma plataforma.",
+      "porQueImporta": "Muestra la consolidación en el mercado de criptomonedas y la búsqueda de eficiencia operativa, relevante para quienes siguen el sector de activos digitales.",
+      "publicadoEn": "2026-07-27T13:41:44.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-stablecoin-hong-kong.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "criptomonedas",
+        "mercados"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-lunes-27-julio_0_wOn8zpLM8H.html",
+      "tituloOriginal": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este lunes 27 de julio",
+      "tituloLimpio": "Dólar hoy: cotización del oficial y sus diferentes tipos de cambio este lunes 27 de julio",
+      "resumen": "Desde el oficial hasta el blue y el turista, todos los tipos de cambio. Mirá la cotización minuto a minuto.",
+      "porQueImporta": "Es una noticia esencial para cualquier residente en Argentina, ya que el valor del dólar impacta directamente en la economía personal y empresarial.",
+      "publicadoEn": "2026-07-27T12:00:01.000Z",
+      "imagen": "https://www.clarin.com/img/2020/11/10/ta7hQ1oRl_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "finanzas",
+        "dólar",
+        "economía"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/ofreciendo-ministerio-digo-chicana-mendiguren-contesto-agravios-milei-revelo-demandara-presidente_0_gMwzAlX6h0.html",
+      "tituloOriginal": "\"Si me está ofreciendo un ministerio, ya le digo que no\": con una chicana, De Mendiguren contestó a los agravios de Milei y reveló que demandará al Presidente",
+      "tituloLimpio": "De Mendiguren contesta a Milei y evalúa demandarlo tras insultos",
+      "resumen": "El exministro de Producción aseguró que el mandatario lo criticó duramente para llamar la atención, y recordó las cosas que decía sobre quienes ahora forman parte del Gabinete. Milei había tildado de \"ladrón\" a De Mendiguren y lo acusó de \"arruinar el país\", durante una entrevista desde La Rural.",
+      "porQueImporta": "Refleja la tensión política actual en Argentina, que puede influir en el clima de negocios y la percepción de la estabilidad económica.",
+      "publicadoEn": "2026-07-27T13:38:31.000Z",
+      "imagen": "https://www.clarin.com/img/2026/07/26/EecFDWD8E_1200x630__1.jpg",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "política",
+        "gobierno"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/07/27/llega-kristalina-georgieva-directora-del-fmi-reunion-con-milei-visita-a-vaca-muerta-y-la-meta-que-incumplio-el-gobierno/",
+      "tituloOriginal": "Llegó al país Kristalina Georgieva, directora del FMI: se reunirá con Milei y visitará Vaca Muerta",
+      "tituloLimpio": "Llegó al país Kristalina Georgieva, directora del FMI: se reunirá con Milei y visitará Vaca Muerta",
+      "resumen": "La número 1 del Fondo fue invitada por el presidente. Tendrán su primer encuentro personal en 10 meses.",
+      "porQueImporta": "Noticia de alta relevancia para Argentina, ya que la visita de la directora del FMI es clave para las negociaciones económicas y la percepción de los mercados sobre el país.",
+      "publicadoEn": "2026-07-27T13:50:53.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/NWCWFVPKC2UHLGAALGC7BEWCUU.jpg?auth=504c2abe659b7d7259a86a2607541218d763e3797f36451148c219d10dfda70a&smart=true&width=5315&height=3622",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "economía",
+        "fmi",
+        "finanzas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Politica",
+      "url": "https://www.lanacion.com.ar/politica/kristalina-georgieva-en-la-argentina-en-vivo-reunion-con-milei-caputo-y-visita-a-vaca-muerta-nid27072026/",
+      "tituloOriginal": "Kristalina Georgieva en la Argentina, en vivo: reunión con Milei, Caputo y visita a Vaca Muerta",
+      "tituloLimpio": "Kristalina Georgieva en Argentina: reunión con Milei, Caputo y visita a Vaca Muerta",
+      "resumen": "La directora gerente del FMI iniciará este lunes su primera visita al país desde que asumió el cargo; se reunirá con el Presidente y dará una charla magistral; el país aún es el principal deudor del organismo.",
+      "porQueImporta": "Confirma la importancia de la visita del FMI para la agenda económica y política de Argentina, con implicaciones directas para el futuro financiero del país.",
+      "publicadoEn": "2026-07-27T14:31:11.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/PP6HSPAPXRCOTPHFJNAMBPXN6Q.jpeg?auth=3855f9ed471badc7e207133df29da398cd464ef421efe967025fea221d7eb0de&smart=true&width=2000&height=1333",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "economía",
+        "fmi",
+        "política"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-07-27T14:41:39.081Z"
+  }
+}
