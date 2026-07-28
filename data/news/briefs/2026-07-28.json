@@ -1,0 +1,541 @@
+{
+  "fecha": "2026-07-28",
+  "generadoEn": "2026-07-28T14:13:21.859Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "Apple alcanzó brevemente una valuación de 5 billones de dólares, impulsada por la demanda de iPhone y el crecimiento de servicios. En el ámbito de la IA, Perplexity expandió su herramienta 'Personal Computer' a Windows, convirtiendo PCs en agentes de IA, y Google destacó cómo sus herramientas de IA en la búsqueda pueden ayudar en el mundo real. En Argentina, el consumo en supermercados sigue en baja, con caídas en bebidas y lácteos, mientras que el dólar mantiene sus cotizaciones. El presidente Milei explicará por cadena nacional la reforma de la Carta Orgánica del Banco Central. En el mercado financiero, Core Scientific cerró un acuerdo de IA con AMD, alejándose de la minería de Bitcoin.",
+  "radarPersonal": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Apple alcanzó brevemente una valuación de 5 billones de dólares",
+      "resumen": "Apple se convirtió brevemente en una empresa de 5 billones de dólares por capitalización de mercado, superando los 340 dólares por acción en la jornada.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/07/28/apple-just-became-a-5-trillion-company/"
+      ],
+      "score": 100,
+      "tags": [
+        "Apple",
+        "valuación",
+        "mercado"
+      ]
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "Perplexity convierte PCs con Windows en agentes de IA",
+      "resumen": "Perplexity expandió su herramienta 'Personal Computer' a Windows, permitiendo que las computadoras con este sistema operativo funcionen como un sistema de IA local.",
+      "categoria": "AI",
+      "fuentes": [
+        "The Verge AI"
+      ],
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents"
+      ],
+      "score": 100,
+      "tags": [
+        "IA",
+        "Windows",
+        "Perplexity",
+        "herramientas"
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "El consumo en supermercados argentinos sigue en baja",
+      "resumen": "Las ventas en supermercados volvieron a caer en mayo, acumulando la quinta baja interanual consecutiva, con mayores retrocesos en bebidas y lácteos.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/consumo-supermercados-que-productos-dejaron-comprar-los-argentinos-y-que-n6304350"
+      ],
+      "score": 100,
+      "tags": [
+        "Argentina",
+        "consumo",
+        "economía"
+      ]
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "titulo": "Granola, el bloc de notas con IA, llega al Apple Watch",
+      "resumen": "Granola, el bloc de notas para reuniones con IA, conocido por su aplicación para Mac, se expande hoy al Apple Watch.",
+      "categoria": "Apple",
+      "fuentes": [
+        "9to5Mac"
+      ],
+      "urls": [
+        "https://9to5mac.com/2026/07/28/granola-meeting-notepad-comes-to-watchos-as-apple-watch-becomes-an-ai-device/"
+      ],
+      "score": 100,
+      "tags": [
+        "Apple Watch",
+        "IA",
+        "productividad",
+        "herramientas"
+      ]
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "titulo": "Core Scientific cierra acuerdo de IA con AMD y se aleja de la minería de Bitcoin",
+      "resumen": "El acuerdo acelera el giro de Core Scientific de la minería de Bitcoin hacia centros de datos de IA.",
+      "categoria": "Finance",
+      "fuentes": [
+        "CoinDesk"
+      ],
+      "urls": [
+        "https://www.coindesk.com/business/2026/07/28/core-scientific-lands-amd-ai-deal-as-bitcoin-mining-operation-winds-down"
+      ],
+      "score": 100,
+      "tags": [
+        "IA",
+        "inversión",
+        "cripto",
+        "negocios"
+      ]
+    }
+  ],
+  "loImportante": [
+    "Apple alcanzó una valuación de 5 billones de dólares, mostrando un fuerte desempeño en el mercado.",
+    "La IA sigue expandiéndose a nivel de usuario con Perplexity en Windows y Granola en Apple Watch, mejorando la productividad.",
+    "El consumo en supermercados en Argentina continúa en descenso, reflejando la situación económica local.",
+    "El presidente Milei anunciará reformas clave para el Banco Central, lo que podría impactar la economía argentina.",
+    "Empresas como Core Scientific están pivotando hacia la IA, mostrando una tendencia de inversión en este sector."
+  ],
+  "oportunidades": [
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "titulo": "Convertir PCs con Windows en agentes de IA",
+      "detalle": "La expansión de Perplexity a Windows permite usar PCs como sistemas de IA locales, abriendo posibilidades para la automatización y el trabajo digital general.",
+      "acciones": [
+        "Explorar las capacidades de Perplexity Personal Computer para automatizar tareas en Windows.",
+        "Investigar cómo esta tecnología puede integrarse en flujos de trabajo de retoque o arte con IA."
+      ]
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Productivity",
+      "titulo": "Automatización de reuniones con IA en Apple Watch",
+      "detalle": "La llegada de Granola al Apple Watch ofrece una herramienta de IA para la toma de notas en reuniones, mejorando la productividad y la gestión de información.",
+      "acciones": [
+        "Probar Granola en el Apple Watch para optimizar la captura de información en reuniones.",
+        "Evaluar cómo esta integración puede complementar otras herramientas de automatización."
+      ]
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Investing",
+      "titulo": "Inversión en empresas que pivotan hacia la IA",
+      "detalle": "El acuerdo de Core Scientific con AMD para enfocarse en centros de datos de IA, dejando la minería de Bitcoin, señala una tendencia de inversión en infraestructura de IA.",
+      "acciones": [
+        "Analizar el desempeño de empresas que están haciendo una transición similar hacia la IA.",
+        "Considerar ETFs o fondos que inviertan en infraestructura de IA o empresas con este tipo de pivote estratégico."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Market",
+      "titulo": "Caída sostenida del consumo en Argentina",
+      "detalle": "La quinta baja interanual consecutiva en el consumo de supermercados en Argentina indica una contracción económica que podría afectar diversos sectores.",
+      "mitigacion": "Monitorear de cerca los indicadores económicos locales y ajustar estrategias de inversión o gastos personales según la evolución del mercado interno."
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Regulatory",
+      "titulo": "Reforma de la Carta Orgánica del Banco Central en Argentina",
+      "detalle": "Los cambios en la misión del Banco Central y las barreras para desplazar autoridades podrían generar incertidumbre o nuevas dinámicas en el mercado financiero argentino.",
+      "mitigacion": "Mantenerse informado sobre los detalles de la reforma y sus implicaciones para la estabilidad monetaria y las políticas económicas del país."
+    }
+  ],
+  "conexiones": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Apple alcanza los 5 billones de dólares",
+      "historias": [
+        "appleinsider-aHR0cHM6Ly9hcHBsZWlu: La fuerte demanda de iPhone impulsa el repunte de Apple a los 5 billones de dólares."
+      ],
+      "conclusion": "Ambas noticias confirman el hito de Apple al alcanzar los 5 billones de dólares de valuación, destacando la demanda del iPhone y el crecimiento de los servicios como factores clave de este éxito."
+    }
+  ],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "tituloOriginal": "5 ways AI Mode in Search helps you enjoy the real world",
+      "tituloLimpio": "Cinco formas en que la IA de Google Search ayuda a disfrutar el mundo real",
+      "resumen": "Las herramientas de IA de Google Search pueden ayudar a aprovechar el tiempo fuera de línea, ya sea para reservar entradas para conciertos o encontrar el lugar perfecto.",
+      "porQueImporta": "Muestra aplicaciones prácticas de la IA en la vida cotidiana, lo que puede inspirar ideas para el uso de IA en proyectos personales o profesionales.",
+      "publicadoEn": "2026-07-28T13:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "Google",
+        "herramientas",
+        "productividad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/07/28/apple-just-became-a-5-trillion-company/",
+      "tituloOriginal": "Apple Just Became a $5 Trillion Company",
+      "tituloLimpio": "Apple alcanzó brevemente una valuación de 5 billones de dólares",
+      "resumen": "Apple se convirtió brevemente en una empresa de 5 billones de dólares por capitalización de mercado, superando los 340 dólares por acción en la jornada.",
+      "porQueImporta": "Es un hito importante para Apple y un indicador de su fortaleza en el mercado, relevante para inversores y entusiastas de la marca.",
+      "publicadoEn": "2026-07-28T13:39:52.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "finanzas",
+        "mercado",
+        "inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/consumo-supermercados-que-productos-dejaron-comprar-los-argentinos-y-que-n6304350",
+      "tituloOriginal": "Consumo en supermercados: qué productos dejaron de comprar los argentinos y por qué",
+      "tituloLimpio": "Consumo en supermercados: qué productos dejaron de comprar los argentinos",
+      "resumen": "Las ventas volvieron a caer durante mayo y acumularon su quinta baja interanual consecutiva. Los mayores retrocesos se concentraron en bebidas, lácteos y otros rubros de consumo cotidiano.",
+      "porQueImporta": "Refleja la situación económica actual en Argentina y cómo afecta el poder adquisitivo de los consumidores, relevante para entender el contexto local.",
+      "publicadoEn": "2026-07-28T13:58:00.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "consumo",
+        "mercado"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/hilton-cmo-on-why-brand-marketing-is-an-irrational-affinity-business/826246/",
+      "tituloOriginal": "Hilton’s CMO on why brand marketing is an ‘irrational affinity business’",
+      "tituloLimpio": "El CMO de Hilton explica por qué el marketing de marca es un 'negocio de afinidad irracional'",
+      "resumen": "El CMO global Mark Weinstein explica cómo el gigante de la hospitalidad utiliza creadores, IA y lealtad en un panorama publicitario en evolución.",
+      "porQueImporta": "Ofrece una perspectiva de marketing de una gran empresa sobre el uso de IA y creadores, útil para entender tendencias en la industria.",
+      "publicadoEn": "2026-07-28T12:53:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "IA",
+        "negocios",
+        "tendencias"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+      "tituloOriginal": "Fish Audio raises $50M seed to build AI voice models for creators and enterprises",
+      "tituloLimpio": "Fish Audio recauda 50 millones de dólares para modelos de voz con IA",
+      "resumen": "Desde su lanzamiento el año pasado, la startup tiene más de 8 millones de personas usando la versión de código abierto o alojada de sus modelos, y ahora genera ingresos anuales recurrentes de 21 millones de dólares.",
+      "porQueImporta": "Destaca la inversión y el crecimiento en el sector de la IA de voz, un área con potencial para creadores y empresas.",
+      "publicadoEn": "2026-07-28T14:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "startups",
+        "inversión",
+        "tecnología"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+      "tituloOriginal": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
+      "tituloLimpio": "Perplexity’s Personal Computer convierte PCs con Windows en agentes de IA",
+      "resumen": "Perplexity expandió su herramienta 'Personal Computer' a Windows, permitiendo que las computadoras con este sistema operativo funcionen como un sistema de IA local.",
+      "porQueImporta": "Es una herramienta de IA aplicada que puede transformar la forma en que se interactúa con las computadoras, relevante para la automatización y productividad.",
+      "publicadoEn": "2026-07-28T12:30:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "Windows",
+        "herramientas",
+        "automatización"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+      "tituloOriginal": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+      "tituloLimpio": "Trabajadores de chips de Samsung se van a la competencia SK Hynix",
+      "resumen": "Un ingeniero de la división de semiconductores de Samsung ahora se va a casa para trabajar en su solicitud de empleo para el rival surcoreano SK Hynix, compartiendo consejos con sus compañeros de trabajo.",
+      "porQueImporta": "Indica movimientos de talento en la industria de semiconductores, un sector clave para el desarrollo de hardware de IA.",
+      "publicadoEn": "2026-07-28T09:18:57.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "tecnología",
+        "industria",
+        "chips",
+        "negocios"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/28/granola-meeting-notepad-comes-to-watchos-as-apple-watch-becomes-an-ai-device/",
+      "tituloOriginal": "Granola meeting notepad comes to watchOS as Apple Watch becomes an AI device",
+      "tituloLimpio": "Granola, el bloc de notas con IA, llega al Apple Watch",
+      "resumen": "Granola, el bloc de notas para reuniones con IA, conocido por su aplicación para Mac, se expande hoy al Apple Watch.",
+      "porQueImporta": "Muestra la integración de la IA en dispositivos Apple para mejorar la productividad personal, útil para usuarios de Apple.",
+      "publicadoEn": "2026-07-28T14:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "IA",
+        "productividad",
+        "herramientas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/07/28/strong-iphone-demand-turns-apples-rebound-into-a-5-trillion-run?utm_source=rss",
+      "tituloOriginal": "Strong iPhone demand turns Apple's rebound into a $5 trillion run",
+      "tituloLimpio": "La fuerte demanda de iPhone impulsa el repunte de Apple a los 5 billones de dólares",
+      "resumen": "Al inicio de la jornada del martes, Apple alcanzó los 5 billones de dólares en valuación, extendiendo una racha histórica construida sobre ingresos récord del iPhone, un repunte en China y un crecimiento continuo de los Servicios.",
+      "porQueImporta": "Confirma la solidez financiera de Apple y la importancia del iPhone y los servicios en su crecimiento, relevante para inversores.",
+      "publicadoEn": "2026-07-28T13:53:06.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "finanzas",
+        "iPhone",
+        "mercado"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/reviews/pastebot-3-doubles-down-on-mac-clipboard-automation-and-introduces-two-new-business-models/",
+      "tituloOriginal": "Pastebot 3 Doubles Down on Mac Clipboard Automation and Introduces Two New Business Models",
+      "tituloLimpio": "Pastebot 3 duplica la automatización del portapapeles en Mac y presenta nuevos modelos de negocio",
+      "resumen": "Tapbots lanzó Pastebot 3, una reescritura desde cero del gestor de portapapeles de Mac que incluye opciones de automatización y personalización, junto con dos nuevos modelos de precios.",
+      "porQueImporta": "Una actualización importante para una herramienta de automatización en Mac, útil para mejorar la productividad en el ecosistema Apple.",
+      "publicadoEn": "2026-07-27T15:39:21.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "Mac",
+        "automatización",
+        "herramientas",
+        "productividad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/small-business/articles/52-old-international-restaurant-chain-145707525.html",
+      "tituloOriginal": "52-year-old international restaurant chain closing all locations",
+      "tituloLimpio": "Cadena internacional de restaurantes de 52 años cierra todas sus ubicaciones",
+      "resumen": "",
+      "porQueImporta": "Aunque el resumen es breve, el cierre de una cadena internacional de larga trayectoria puede indicar tendencias económicas o cambios en el sector de la restauración.",
+      "publicadoEn": "2026-07-27T14:57:07.000Z",
+      "imagen": "https://media.zenfs.com/en/thestreet_881/960e684726db56732f7203dcd298d088",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "negocios",
+        "economía",
+        "tendencias"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-sandisk-coca-cola-earnings/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Stock Market Today: Dow Rises, Nasdaq Sinks As Chipmakers Dive; Coca-Cola Surges (Live Coverage)",
+      "tituloLimpio": "Mercado de valores hoy: Dow sube, Nasdaq cae mientras los fabricantes de chips se hunden; Coca-Cola sube",
+      "resumen": "",
+      "porQueImporta": "Ofrece un panorama rápido del mercado de valores, con movimientos importantes en sectores como chips y bebidas, relevante para inversores.",
+      "publicadoEn": "2026-07-28T13:46:07.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/8e3f0f90c622d76c522be98b9f3975ee",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "mercado",
+        "inversión",
+        "acciones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/07/28/core-scientific-lands-amd-ai-deal-as-bitcoin-mining-operation-winds-down",
+      "tituloOriginal": "Core Scientific lands AMD AI deal as bitcoin mining operation winds down",
+      "tituloLimpio": "Core Scientific cierra acuerdo de IA con AMD mientras la operación de minería de Bitcoin disminuye",
+      "resumen": "El acuerdo acelera el giro de Core Scientific de la minería de Bitcoin hacia centros de datos de IA.",
+      "porQueImporta": "Muestra una tendencia de empresas de criptominería pivotando hacia la IA, lo que puede ser una señal de nuevas oportunidades de inversión.",
+      "publicadoEn": "2026-07-28T12:46:05.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/e4ca7bbcf33940ac3a79675ca9923d61aeededd5-1920x1077.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "finanzas",
+        "cripto",
+        "negocios",
+        "inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-martes-28-julio_0_gYPkYZlg0p.html",
+      "tituloOriginal": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este martes 28 de julio",
+      "tituloLimpio": "Dólar hoy: cotización del oficial y otros tipos de cambio este martes 28 de julio",
+      "resumen": "Desde el oficial hasta el blue y el turista, todos los tipos de cambio. Mirá la cotización minuto a minuto.",
+      "porQueImporta": "Información esencial para cualquier persona en Argentina, dado el impacto del dólar en la economía local.",
+      "publicadoEn": "2026-07-28T12:00:01.000Z",
+      "imagen": "https://www.clarin.com/img/2017/09/30/ryWILzajb_1200x630.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "dólar",
+        "economía",
+        "finanzas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/javier-milei-medidas-vivo-medio-conflicto-diplomatico-brasil-presidente-asistira-hoy-asuncion-keiko-fujimori-peru_0_ENhBGTHbx0.html",
+      "tituloOriginal": "Javier Milei y sus medidas, EN VIVO: la jefa del FMI llegó a Neuquén con Luis Caputo para visitar Vaca Muerta",
+      "tituloLimpio": "La jefa del FMI llegó a Neuquén con Luis Caputo para visitar Vaca Muerta",
+      "resumen": "Javier Milei cumple su agenda en Lima, para la asunción de la nueva presidenta de Perú, donde además recibirá el Doctorado Honoris Causa de una universidad.",
+      "porQueImporta": "La visita de la jefa del FMI a Vaca Muerta es un evento económico y político relevante para Argentina, señalando posibles inversiones o acuerdos.",
+      "publicadoEn": "2026-07-28T11:14:19.000Z",
+      "imagen": "https://www.clarin.com/img/2026/07/28/bOzS71VqK_1200x630__1.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "política",
+        "economía",
+        "FMI"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/07/28/la-definicion-de-un-arquitecto-del-1-a-1-sin-incertidumbre-cambiaria-las-tasas-de-interes-se-desploman-y-la-actividad-repunta/",
+      "tituloOriginal": "La definición de un arquitecto del 1 a 1: “Sin incertidumbre cambiaria, las tasas de interés se desploman y la actividad repunta”",
+      "tituloLimpio": "Un arquitecto del 1 a 1: 'Sin incertidumbre cambiaria, las tasas de interés se desploman y la actividad repunta'",
+      "resumen": "El especialista analizó cómo la ausencia de controles y la estabilidad monetaria pueden modificar la dinámica económica y financiera local. Dijo que no alcanza con salir del cepo, sino que hay que liberar plenamente los controles de cambio.",
+      "porQueImporta": "Ofrece una perspectiva sobre la economía argentina y las condiciones para la recuperación, relevante para entender el panorama financiero local.",
+      "publicadoEn": "2026-07-28T13:58:28.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/NOBCVUZNM5HQZK7V6FWHZBVIBY.jpg?auth=5d10f8efb9f4a69b8dd8317965f5a4c7c50883598ddfcce57a57c6b13114a4e7&smart=true&width=1280&height=720",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "finanzas",
+        "política"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/07/28/el-presidente-javier-milei-explicara-por-cadena-nacional-la-reforma-de-la-carta-organica-del-banco-central/",
+      "tituloOriginal": "El presidente Javier Milei explicará por cadena nacional la reforma de la Carta Orgánica del Banco Central",
+      "tituloLimpio": "El presidente Javier Milei explicará por cadena nacional la reforma de la Carta Orgánica del Banco Central",
+      "resumen": "El mensaje, previsto para el jueves por la noche, detallará cambios en la misión del organismo, el freno al auxilio al Tesoro con impresión de pesos y nuevas barreras para desplazar autoridades.",
+      "porQueImporta": "Anuncio importante que podría tener un impacto significativo en la política monetaria y la economía argentina.",
+      "publicadoEn": "2026-07-28T14:06:42.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/2B6WODSTVFCGTPPBNFKRZ4HVEE.jpg?auth=b05be6a16123d7b3ecea2098190edbecb73635b9257ae1691c4cf1ac925522c2&smart=true&width=1920&height=1080",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "política",
+        "economía",
+        "Banco Central"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "fuente": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/the-nfl-merch-designer-for-stars-like-taylor-swift-is-making-a-chair-for-la-z-boy/",
+      "tituloOriginal": "The NFL Merch Designer for Stars Like Taylor Swift Is Making a Chair for La-Z-Boy",
+      "tituloLimpio": "La diseñadora de merchandising de la NFL para estrellas como Taylor Swift crea una silla para La-Z-Boy",
+      "resumen": "Kristin Juszczyk está diseñando una silla personalizada para la empresa de sillones reclinables, con el objetivo de llegar a clientes más jóvenes.",
+      "porQueImporta": "Ejemplo de marketing y colaboración de marca para alcanzar nuevos segmentos de mercado, relevante para estrategias de marketing.",
+      "publicadoEn": "2026-07-28T09:07:00.000Z",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "negocios",
+        "diseño",
+        "tendencias"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-07-28T14:13:21.859Z"
+  }
+}
