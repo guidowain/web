@@ -1,31 +1,31 @@
 {
   "fecha": "2026-07-28",
-  "generadoEn": "2026-07-28T14:13:21.859Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "Apple alcanzó brevemente una valuación de 5 billones de dólares, impulsada por la demanda de iPhone y el crecimiento de servicios. En el ámbito de la IA, Perplexity expandió su herramienta 'Personal Computer' a Windows, convirtiendo PCs en agentes de IA, y Google destacó cómo sus herramientas de IA en la búsqueda pueden ayudar en el mundo real. En Argentina, el consumo en supermercados sigue en baja, con caídas en bebidas y lácteos, mientras que el dólar mantiene sus cotizaciones. El presidente Milei explicará por cadena nacional la reforma de la Carta Orgánica del Banco Central. En el mercado financiero, Core Scientific cerró un acuerdo de IA con AMD, alejándose de la minería de Bitcoin.",
+  "generadoEn": "2026-07-28T18:14:02.278Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Hoy se destacan novedades en IA con la expansión de agentes gestionados de Gemini y la herramienta Personal Computer de Perplexity para Windows. En Apple, se lanzó el tráiler de la cuarta temporada de Ted Lasso y se habla de un posible Apple Ring. A nivel local, la titular del FMI, Kristalina Georgieva, visitó Vaca Muerta y un economista del Citi advirtió sobre el riesgo de suba de tasas en Argentina.",
   "radarPersonal": [
     {
-      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "Apple alcanzó brevemente una valuación de 5 billones de dólares",
-      "resumen": "Apple se convirtió brevemente en una empresa de 5 billones de dólares por capitalización de mercado, superando los 340 dólares por acción en la jornada.",
-      "categoria": "Apple",
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Google expande las capacidades de los agentes gestionados en la API de Gemini",
+      "resumen": "Google anunció nuevas capacidades en los agentes gestionados de la API de Gemini para que los desarrolladores puedan crear agentes confiables y listos para producción.",
+      "categoria": "AI",
       "fuentes": [
-        "MacRumors"
+        "Google AI Blog"
       ],
       "urls": [
-        "https://www.macrumors.com/2026/07/28/apple-just-became-a-5-trillion-company/"
+        "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/"
       ],
       "score": 100,
       "tags": [
-        "Apple",
-        "valuación",
-        "mercado"
+        "gemini",
+        "agentes",
+        "desarrolladores"
       ]
     },
     {
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "titulo": "Perplexity convierte PCs con Windows en agentes de IA",
-      "resumen": "Perplexity expandió su herramienta 'Personal Computer' a Windows, permitiendo que las computadoras con este sistema operativo funcionen como un sistema de IA local.",
+      "titulo": "Perplexity lanza Personal Computer para Windows, convirtiendo PCs en agentes de IA",
+      "resumen": "Perplexity expandió su herramienta Personal Computer a Windows, permitiendo que las computadoras con este sistema operativo se usen como un sistema de IA local. Funciona como un 'trabajador digital de propósito general' que accede a archivos y aplicaciones locales.",
       "categoria": "AI",
       "fuentes": [
         "The Verge AI"
@@ -35,105 +35,105 @@
       ],
       "score": 100,
       "tags": [
-        "IA",
-        "Windows",
-        "Perplexity",
-        "herramientas"
+        "perplexity",
+        "windows",
+        "ia",
+        "agentes"
       ]
     },
     {
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "El consumo en supermercados argentinos sigue en baja",
-      "resumen": "Las ventas en supermercados volvieron a caer en mayo, acumulando la quinta baja interanual consecutiva, con mayores retrocesos en bebidas y lácteos.",
+      "titulo": "Ricardo Dessy del Citi advierte que el mayor riesgo del programa económico es la suba de la tasa de interés",
+      "resumen": "El economista dijo que la situación fiscal de Argentina está consolidada, a pesar de la baja de la recaudación, y que el PBI crecerá entre el 2,9% y el 3% este año.",
       "categoria": "Argentina",
       "fuentes": [
         "Ambito"
       ],
       "urls": [
-        "https://www.ambito.com/economia/consumo-supermercados-que-productos-dejaron-comprar-los-argentinos-y-que-n6304350"
+        "https://www.ambito.com/economia/ricardo-dessy-del-citi-el-mayor-riesgo-del-programa-economico-es-que-suba-la-tasa-interes-n6304410"
       ],
       "score": 100,
       "tags": [
-        "Argentina",
-        "consumo",
-        "economía"
+        "argentina",
+        "economia",
+        "tasa de interes",
+        "riesgo"
       ]
     },
     {
-      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
-      "titulo": "Granola, el bloc de notas con IA, llega al Apple Watch",
-      "resumen": "Granola, el bloc de notas para reuniones con IA, conocido por su aplicación para Mac, se expande hoy al Apple Watch.",
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "titulo": "Un nuevo patentamiento de Apple muestra cómo un Apple Ring podría controlar todos los dispositivos",
+      "resumen": "Apple ha obtenido innumerables patentes sobre tecnología de anillos inteligentes, y una nueva muestra cómo un Apple Ring podría controlar todos los dispositivos.",
       "categoria": "Apple",
       "fuentes": [
-        "9to5Mac"
+        "AppleInsider"
       ],
       "urls": [
-        "https://9to5mac.com/2026/07/28/granola-meeting-notepad-comes-to-watchos-as-apple-watch-becomes-an-ai-device/"
+        "https://appleinsider.com/articles/26/07/28/got-a-lot-of-apple-hardware-heres-how-an-apple-ring-can-bind-them-all?utm_source=rss"
       ],
       "score": 100,
       "tags": [
-        "Apple Watch",
-        "IA",
-        "productividad",
-        "herramientas"
+        "apple",
+        "hardware",
+        "apple ring",
+        "patentes"
       ]
     },
     {
-      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
-      "titulo": "Core Scientific cierra acuerdo de IA con AMD y se aleja de la minería de Bitcoin",
-      "resumen": "El acuerdo acelera el giro de Core Scientific de la minería de Bitcoin hacia centros de datos de IA.",
-      "categoria": "Finance",
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Comienza un evento de ventas de aplicaciones independientes con más de 200 apps",
+      "resumen": "Un desarrollador organizó un evento de ventas de desarrolladores independientes que se extiende del 28 al 30 de julio. La venta incluye más de 200 aplicaciones con descuento.",
+      "categoria": "Apple",
       "fuentes": [
-        "CoinDesk"
+        "MacStories"
       ],
       "urls": [
-        "https://www.coindesk.com/business/2026/07/28/core-scientific-lands-amd-ai-deal-as-bitcoin-mining-operation-winds-down"
+        "https://www.macstories.net/news/indie-app-sales-event-begins-today-with-over-200-apps/"
       ],
       "score": 100,
       "tags": [
-        "IA",
-        "inversión",
-        "cripto",
-        "negocios"
+        "apps",
+        "descuentos",
+        "indie"
       ]
     }
   ],
   "loImportante": [
-    "Apple alcanzó una valuación de 5 billones de dólares, mostrando un fuerte desempeño en el mercado.",
-    "La IA sigue expandiéndose a nivel de usuario con Perplexity en Windows y Granola en Apple Watch, mejorando la productividad.",
-    "El consumo en supermercados en Argentina continúa en descenso, reflejando la situación económica local.",
-    "El presidente Milei anunciará reformas clave para el Banco Central, lo que podría impactar la economía argentina.",
-    "Empresas como Core Scientific están pivotando hacia la IA, mostrando una tendencia de inversión en este sector."
+    "La expansión de agentes gestionados en la API de Gemini y la herramienta Personal Computer de Perplexity para Windows marcan avances significativos en la IA aplicada.",
+    "Un economista del Citi advierte sobre el riesgo de suba de tasas de interés para el programa económico argentino, a pesar de la consolidación fiscal.",
+    "Apple lanzó el tráiler de la cuarta temporada de Ted Lasso y se especula sobre un posible Apple Ring para controlar dispositivos.",
+    "La titular del FMI, Kristalina Georgieva, visitó el yacimiento de Vaca Muerta en Neuquén, destacando la importancia energética de Argentina.",
+    "Un evento de ventas de aplicaciones independientes ofrece descuentos en más de 200 apps, una buena oportunidad para descubrir herramientas."
   ],
   "oportunidades": [
     {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "titulo": "Explorar las nuevas capacidades de los agentes gestionados en la API de Gemini",
+      "detalle": "Las nuevas capacidades en los agentes gestionados de la API de Gemini permiten construir agentes de IA más confiables y listos para producción. Esto podría ser útil para automatización y desarrollo de herramientas.",
+      "acciones": [
+        "Revisar la documentación de la API de Gemini para entender las nuevas funcionalidades.",
+        "Considerar la aplicación de estos agentes en proyectos de automatización o retoque fotográfico."
+      ]
+    },
+    {
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
-      "titulo": "Convertir PCs con Windows en agentes de IA",
-      "detalle": "La expansión de Perplexity a Windows permite usar PCs como sistemas de IA locales, abriendo posibilidades para la automatización y el trabajo digital general.",
+      "titulo": "Probar Perplexity Personal Computer para convertir PCs Windows en agentes de IA",
+      "detalle": "La herramienta Personal Computer de Perplexity ahora está disponible para Windows, permitiendo que las PCs actúen como 'trabajadores digitales de propósito general' que acceden a archivos y aplicaciones locales.",
       "acciones": [
-        "Explorar las capacidades de Perplexity Personal Computer para automatizar tareas en Windows.",
-        "Investigar cómo esta tecnología puede integrarse en flujos de trabajo de retoque o arte con IA."
+        "Investigar cómo funciona Perplexity Personal Computer y sus posibles usos.",
+        "Evaluar si esta herramienta puede optimizar flujos de trabajo en retoque fotográfico o arte con IA."
       ]
     },
     {
-      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Productivity",
-      "titulo": "Automatización de reuniones con IA en Apple Watch",
-      "detalle": "La llegada de Granola al Apple Watch ofrece una herramienta de IA para la toma de notas en reuniones, mejorando la productividad y la gestión de información.",
+      "titulo": "Aprovechar el evento de ventas de aplicaciones independientes",
+      "detalle": "Un evento de ventas ofrece descuentos en más de 200 aplicaciones independientes, lo que representa una oportunidad para adquirir nuevas herramientas a menor costo.",
       "acciones": [
-        "Probar Granola en el Apple Watch para optimizar la captura de información en reuniones.",
-        "Evaluar cómo esta integración puede complementar otras herramientas de automatización."
-      ]
-    },
-    {
-      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
-      "categoria": "Investing",
-      "titulo": "Inversión en empresas que pivotan hacia la IA",
-      "detalle": "El acuerdo de Core Scientific con AMD para enfocarse en centros de datos de IA, dejando la minería de Bitcoin, señala una tendencia de inversión en infraestructura de IA.",
-      "acciones": [
-        "Analizar el desempeño de empresas que están haciendo una transición similar hacia la IA.",
-        "Considerar ETFs o fondos que inviertan en infraestructura de IA o empresas con este tipo de pivote estratégico."
+        "Consultar la lista de aplicaciones en oferta para identificar herramientas útiles.",
+        "Considerar la compra de aplicaciones que mejoren la productividad o el flujo de trabajo."
       ]
     }
   ],
@@ -141,47 +141,38 @@
     {
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Market",
-      "titulo": "Caída sostenida del consumo en Argentina",
-      "detalle": "La quinta baja interanual consecutiva en el consumo de supermercados en Argentina indica una contracción económica que podría afectar diversos sectores.",
-      "mitigacion": "Monitorear de cerca los indicadores económicos locales y ajustar estrategias de inversión o gastos personales según la evolución del mercado interno."
+      "titulo": "Riesgo de suba de tasas de interés en Argentina",
+      "detalle": "Un economista del Citi señaló que el mayor riesgo para el programa económico argentino es una suba de la tasa de interés, a pesar de la consolidación fiscal y el crecimiento proyectado del PBI.",
+      "mitigacion": "Monitorear de cerca las decisiones del Banco Central y las proyecciones económicas. Evaluar el impacto de posibles subas de tasas en inversiones y costos de financiamiento."
     },
     {
-      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
-      "categoria": "Regulatory",
-      "titulo": "Reforma de la Carta Orgánica del Banco Central en Argentina",
-      "detalle": "Los cambios en la misión del Banco Central y las barreras para desplazar autoridades podrían generar incertidumbre o nuevas dinámicas en el mercado financiero argentino.",
-      "mitigacion": "Mantenerse informado sobre los detalles de la reforma y sus implicaciones para la estabilidad monetaria y las políticas económicas del país."
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "Technology",
+      "titulo": "Posibles cortes de energía temporales en centros de datos por alta demanda de IA",
+      "detalle": "Los centros de datos podrían enfrentar cortes temporales de energía para evitar apagones en la red eléctrica más grande de EE.UU., debido al rápido crecimiento de la construcción de centros de datos y la demanda de energía.",
+      "mitigacion": "Aunque es un riesgo en EE.UU., es importante estar atento a la infraestructura energética global y local. Evaluar la dependencia de servicios en la nube y la resiliencia de los proveedores ante posibles interrupciones."
     }
   ],
-  "conexiones": [
-    {
-      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "Apple alcanza los 5 billones de dólares",
-      "historias": [
-        "appleinsider-aHR0cHM6Ly9hcHBsZWlu: La fuerte demanda de iPhone impulsa el repunte de Apple a los 5 billones de dólares."
-      ],
-      "conclusion": "Ambas noticias confirman el hito de Apple al alcanzar los 5 billones de dólares de valuación, destacando la demanda del iPhone y el crecimiento de los servicios como factores clave de este éxito."
-    }
-  ],
+  "conexiones": [],
   "noticias": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
       "categoria": "AI",
       "fuente": "Google AI Blog",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-      "tituloOriginal": "5 ways AI Mode in Search helps you enjoy the real world",
-      "tituloLimpio": "Cinco formas en que la IA de Google Search ayuda a disfrutar el mundo real",
-      "resumen": "Las herramientas de IA de Google Search pueden ayudar a aprovechar el tiempo fuera de línea, ya sea para reservar entradas para conciertos o encontrar el lugar perfecto.",
-      "porQueImporta": "Muestra aplicaciones prácticas de la IA en la vida cotidiana, lo que puede inspirar ideas para el uso de IA en proyectos personales o profesionales.",
-      "publicadoEn": "2026-07-28T13:00:00.000Z",
-      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "tituloOriginal": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "tituloLimpio": "Google expande las capacidades de los agentes gestionados en la API de Gemini",
+      "resumen": "Google anunció nuevas capacidades en los agentes gestionados de la API de Gemini para que los desarrolladores puedan crear agentes confiables y listos para producción.",
+      "porQueImporta": "Para Guido, que trabaja con IA aplicada, la expansión de las capacidades de los agentes de Gemini puede ofrecer nuevas herramientas y posibilidades para automatizar tareas o desarrollar soluciones innovadoras en su campo.",
+      "publicadoEn": "2026-07-28T16:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "IA",
-        "Google",
-        "herramientas",
-        "productividad"
+        "ia",
+        "gemini",
+        "desarrollo",
+        "automatizacion"
       ],
       "tambienVistoEn": []
     },
@@ -189,19 +180,18 @@
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Apple",
       "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/07/28/apple-just-became-a-5-trillion-company/",
-      "tituloOriginal": "Apple Just Became a $5 Trillion Company",
-      "tituloLimpio": "Apple alcanzó brevemente una valuación de 5 billones de dólares",
-      "resumen": "Apple se convirtió brevemente en una empresa de 5 billones de dólares por capitalización de mercado, superando los 340 dólares por acción en la jornada.",
-      "porQueImporta": "Es un hito importante para Apple y un indicador de su fortaleza en el mercado, relevante para inversores y entusiastas de la marca.",
-      "publicadoEn": "2026-07-28T13:39:52.000Z",
+      "url": "https://www.macrumors.com/2026/07/28/ted-lasso-season-four-trailer/",
+      "tituloOriginal": "Apple Shares 'Ted Lasso' Season 4 Trailer",
+      "tituloLimpio": "Apple comparte el tráiler de la cuarta temporada de 'Ted Lasso'",
+      "resumen": "Apple compartió el tráiler completo de la cuarta temporada de su serie 'Ted Lasso', antes del estreno de la temporada el miércoles 5 de agosto.",
+      "porQueImporta": "Es una noticia de interés general para los usuarios de Apple TV+ y seguidores de la serie, que es una de las más populares de la plataforma.",
+      "publicadoEn": "2026-07-28T17:20:11.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "Apple",
-        "finanzas",
-        "mercado",
-        "inversión"
+        "apple",
+        "entretenimiento",
+        "series"
       ],
       "tambienVistoEn": []
     },
@@ -209,19 +199,20 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/consumo-supermercados-que-productos-dejaron-comprar-los-argentinos-y-que-n6304350",
-      "tituloOriginal": "Consumo en supermercados: qué productos dejaron de comprar los argentinos y por qué",
-      "tituloLimpio": "Consumo en supermercados: qué productos dejaron de comprar los argentinos",
-      "resumen": "Las ventas volvieron a caer durante mayo y acumularon su quinta baja interanual consecutiva. Los mayores retrocesos se concentraron en bebidas, lácteos y otros rubros de consumo cotidiano.",
-      "porQueImporta": "Refleja la situación económica actual en Argentina y cómo afecta el poder adquisitivo de los consumidores, relevante para entender el contexto local.",
-      "publicadoEn": "2026-07-28T13:58:00.000Z",
+      "url": "https://www.ambito.com/economia/ricardo-dessy-del-citi-el-mayor-riesgo-del-programa-economico-es-que-suba-la-tasa-interes-n6304410",
+      "tituloOriginal": "Ricardo Dessy, del Citi: \"El mayor riesgo del programa económico es que suba la tasa de interés\"",
+      "tituloLimpio": "Ricardo Dessy, del Citi, advierte que el mayor riesgo del programa económico es la suba de la tasa de interés",
+      "resumen": "El economista dijo que la situación fiscal de Argentina está consolidada, a pesar de la baja de la recaudación, y que el PBI crecerá entre el 2,9% y el 3% este año.",
+      "porQueImporta": "Esta es una noticia clave para Guido por su interés en inversiones y la economía argentina. La suba de tasas puede impactar directamente en el mercado financiero y en las decisiones de inversión.",
+      "publicadoEn": "2026-07-28T17:23:00.000Z",
+      "imagen": "https://media.ambito.com/p/a8da7e5dba53b6c7a92de0fb053ee484/adjuntos/239/imagenes/043/506/0043506662/1200x675/smart/dessy.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "Argentina",
-        "economía",
-        "consumo",
-        "mercado"
+        "argentina",
+        "economia",
+        "inversiones",
+        "riesgo"
       ],
       "tambienVistoEn": []
     },
@@ -229,19 +220,19 @@
       "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
       "categoria": "Marketing",
       "fuente": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/hilton-cmo-on-why-brand-marketing-is-an-irrational-affinity-business/826246/",
-      "tituloOriginal": "Hilton’s CMO on why brand marketing is an ‘irrational affinity business’",
-      "tituloLimpio": "El CMO de Hilton explica por qué el marketing de marca es un 'negocio de afinidad irracional'",
-      "resumen": "El CMO global Mark Weinstein explica cómo el gigante de la hospitalidad utiliza creadores, IA y lealtad en un panorama publicitario en evolución.",
-      "porQueImporta": "Ofrece una perspectiva de marketing de una gran empresa sobre el uso de IA y creadores, útil para entender tendencias en la industria.",
-      "publicadoEn": "2026-07-28T12:53:00.000Z",
-      "globalScore": 100,
+      "url": "https://www.marketingdive.com/news/popeyes-spices-up-agency-roster-to-deliver-better-brand-consistency/826332/",
+      "tituloOriginal": "Popeyes spices up agency roster to deliver better brand consistency",
+      "tituloLimpio": "Popeyes renueva su agencia de marketing para mejorar la consistencia de marca",
+      "resumen": "Anomaly, a la que la cadena atribuyó su 'trabajo audaz y resonante', se hará cargo de las tareas creativas en EE.UU. en reemplazo de McKinney.",
+      "porQueImporta": "Para Guido, interesado en marketing, este cambio en una marca grande puede ofrecer insights sobre estrategias de consistencia de marca y la dinámica de las agencias de publicidad.",
+      "publicadoEn": "2026-07-28T14:26:00.000Z",
+      "globalScore": 96,
       "personalScore": 100,
       "tags": [
         "marketing",
-        "IA",
-        "negocios",
-        "tendencias"
+        "estrategia",
+        "marcas",
+        "agencias"
       ],
       "tambienVistoEn": []
     },
@@ -249,19 +240,19 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
-      "tituloOriginal": "Fish Audio raises $50M seed to build AI voice models for creators and enterprises",
-      "tituloLimpio": "Fish Audio recauda 50 millones de dólares para modelos de voz con IA",
-      "resumen": "Desde su lanzamiento el año pasado, la startup tiene más de 8 millones de personas usando la versión de código abierto o alojada de sus modelos, y ahora genera ingresos anuales recurrentes de 21 millones de dólares.",
-      "porQueImporta": "Destaca la inversión y el crecimiento en el sector de la IA de voz, un área con potencial para creadores y empresas.",
-      "publicadoEn": "2026-07-28T14:00:00.000Z",
-      "globalScore": 100,
+      "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
+      "tituloOriginal": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
+      "tituloLimpio": "Centros de datos podrían enfrentar cortes de energía temporales para evitar apagones en la red de EE.UU.",
+      "resumen": "La decisión llega mientras el ritmo acelerado de construcción de centros de datos tiene a los operadores de la red luchando por generar energía.",
+      "porQueImporta": "Aunque es un problema en EE.UU., la noticia resalta la creciente demanda energética de la infraestructura de IA y el impacto en la red, un tema relevante para el futuro de la IA y los servicios en la nube que Guido utiliza.",
+      "publicadoEn": "2026-07-28T15:42:26.000Z",
+      "globalScore": 96,
       "personalScore": 100,
       "tags": [
-        "IA",
-        "startups",
-        "inversión",
-        "tecnología"
+        "ia",
+        "infraestructura",
+        "energia",
+        "riesgo"
       ],
       "tambienVistoEn": []
     },
@@ -271,17 +262,17 @@
       "fuente": "The Verge AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
       "tituloOriginal": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
-      "tituloLimpio": "Perplexity’s Personal Computer convierte PCs con Windows en agentes de IA",
-      "resumen": "Perplexity expandió su herramienta 'Personal Computer' a Windows, permitiendo que las computadoras con este sistema operativo funcionen como un sistema de IA local.",
-      "porQueImporta": "Es una herramienta de IA aplicada que puede transformar la forma en que se interactúa con las computadoras, relevante para la automatización y productividad.",
+      "tituloLimpio": "Perplexity Personal Computer convierte PCs con Windows en agentes de IA",
+      "resumen": "Perplexity expandió su herramienta Personal Computer a Windows, permitiendo que las computadoras con el sistema operativo más popular del mundo se usen como un sistema de IA local. Funciona como un 'trabajador digital de propósito general' que puede acceder a archivos y aplicaciones locales.",
+      "porQueImporta": "Esta herramienta es muy relevante para Guido, ya que le permite explorar la aplicación de IA directamente en su entorno de trabajo, potencialmente automatizando tareas o mejorando flujos de trabajo en retoque fotográfico y arte con IA.",
       "publicadoEn": "2026-07-28T12:30:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "IA",
-        "Windows",
+        "ia",
+        "windows",
         "herramientas",
-        "automatización"
+        "automatizacion"
       ],
       "tambienVistoEn": []
     },
@@ -291,37 +282,17 @@
       "fuente": "MIT Technology Review AI",
       "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
       "tituloOriginal": "Samsung’s chip workers are jumping ship to rival SK Hynix",
-      "tituloLimpio": "Trabajadores de chips de Samsung se van a la competencia SK Hynix",
-      "resumen": "Un ingeniero de la división de semiconductores de Samsung ahora se va a casa para trabajar en su solicitud de empleo para el rival surcoreano SK Hynix, compartiendo consejos con sus compañeros de trabajo.",
-      "porQueImporta": "Indica movimientos de talento en la industria de semiconductores, un sector clave para el desarrollo de hardware de IA.",
+      "tituloLimpio": "Trabajadores de chips de Samsung se están yendo a su rival SK Hynix",
+      "resumen": "Un ingeniero de la división de semiconductores de Samsung ahora se va a casa directamente para trabajar en su solicitud de empleo para el fabricante de chips surcoreano rival SK Hynix, compartiendo consejos con sus compañeros de trabajo.",
+      "porQueImporta": "Esta noticia refleja la intensa competencia y la escasez de talento en la industria de semiconductores, crucial para el desarrollo de la IA y la tecnología en general. Es un indicador de tendencias en el sector tecnológico.",
       "publicadoEn": "2026-07-28T09:18:57.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "tecnología",
+        "tecnologia",
+        "semiconductores",
         "industria",
-        "chips",
-        "negocios"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
-      "categoria": "Apple",
-      "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/07/28/granola-meeting-notepad-comes-to-watchos-as-apple-watch-becomes-an-ai-device/",
-      "tituloOriginal": "Granola meeting notepad comes to watchOS as Apple Watch becomes an AI device",
-      "tituloLimpio": "Granola, el bloc de notas con IA, llega al Apple Watch",
-      "resumen": "Granola, el bloc de notas para reuniones con IA, conocido por su aplicación para Mac, se expande hoy al Apple Watch.",
-      "porQueImporta": "Muestra la integración de la IA en dispositivos Apple para mejorar la productividad personal, útil para usuarios de Apple.",
-      "publicadoEn": "2026-07-28T14:00:00.000Z",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "Apple",
-        "IA",
-        "productividad",
-        "herramientas"
+        "talento"
       ],
       "tambienVistoEn": []
     },
@@ -329,19 +300,19 @@
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
       "categoria": "Apple",
       "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/07/28/strong-iphone-demand-turns-apples-rebound-into-a-5-trillion-run?utm_source=rss",
-      "tituloOriginal": "Strong iPhone demand turns Apple's rebound into a $5 trillion run",
-      "tituloLimpio": "La fuerte demanda de iPhone impulsa el repunte de Apple a los 5 billones de dólares",
-      "resumen": "Al inicio de la jornada del martes, Apple alcanzó los 5 billones de dólares en valuación, extendiendo una racha histórica construida sobre ingresos récord del iPhone, un repunte en China y un crecimiento continuo de los Servicios.",
-      "porQueImporta": "Confirma la solidez financiera de Apple y la importancia del iPhone y los servicios en su crecimiento, relevante para inversores.",
-      "publicadoEn": "2026-07-28T13:53:06.000Z",
-      "globalScore": 100,
+      "url": "https://appleinsider.com/articles/26/07/28/got-a-lot-of-apple-hardware-heres-how-an-apple-ring-can-bind-them-all?utm_source=rss",
+      "tituloOriginal": "Got a lot of Apple hardware? Here's how an Apple Ring can bind them all",
+      "tituloLimpio": "Un nuevo patentamiento de Apple muestra cómo un Apple Ring podría controlar todos los dispositivos",
+      "resumen": "Apple ha obtenido innumerables patentes sobre tecnología de anillos inteligentes, y una nueva muestra cómo un Apple Ring podría controlar todos sus dispositivos.",
+      "porQueImporta": "Para Guido, como usuario de Apple, la posibilidad de un 'Apple Ring' que controle todos los dispositivos es una novedad interesante que podría cambiar la interacción con el ecosistema de Apple y ofrecer nuevas formas de automatización y control.",
+      "publicadoEn": "2026-07-28T17:00:52.000Z",
+      "globalScore": 96,
       "personalScore": 100,
       "tags": [
-        "Apple",
-        "finanzas",
-        "iPhone",
-        "mercado"
+        "apple",
+        "hardware",
+        "patentes",
+        "innovacion"
       ],
       "tambienVistoEn": []
     },
@@ -349,40 +320,19 @@
       "id": "macstories-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Apple",
       "fuente": "MacStories",
-      "url": "https://www.macstories.net/reviews/pastebot-3-doubles-down-on-mac-clipboard-automation-and-introduces-two-new-business-models/",
-      "tituloOriginal": "Pastebot 3 Doubles Down on Mac Clipboard Automation and Introduces Two New Business Models",
-      "tituloLimpio": "Pastebot 3 duplica la automatización del portapapeles en Mac y presenta nuevos modelos de negocio",
-      "resumen": "Tapbots lanzó Pastebot 3, una reescritura desde cero del gestor de portapapeles de Mac que incluye opciones de automatización y personalización, junto con dos nuevos modelos de precios.",
-      "porQueImporta": "Una actualización importante para una herramienta de automatización en Mac, útil para mejorar la productividad en el ecosistema Apple.",
-      "publicadoEn": "2026-07-27T15:39:21.000Z",
+      "url": "https://www.macstories.net/news/indie-app-sales-event-begins-today-with-over-200-apps/",
+      "tituloOriginal": "Indie App Sales Event Begins Today with Over 200 Apps",
+      "tituloLimpio": "Comienza un evento de ventas de aplicaciones independientes con más de 200 apps",
+      "resumen": "Un desarrollador organizó un evento de ventas de desarrolladores independientes que se extiende del 28 al 30 de julio. La venta incluye más de 200 aplicaciones con descuento.",
+      "porQueImporta": "Es una excelente oportunidad para Guido de descubrir y adquirir nuevas herramientas o aplicaciones a un precio reducido, lo que puede mejorar su productividad o expandir sus capacidades en retoque y arte con IA.",
+      "publicadoEn": "2026-07-28T15:12:35.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "Apple",
-        "Mac",
-        "automatización",
+        "apps",
         "herramientas",
+        "descuentos",
         "productividad"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
-      "categoria": "Finance",
-      "fuente": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/52-old-international-restaurant-chain-145707525.html",
-      "tituloOriginal": "52-year-old international restaurant chain closing all locations",
-      "tituloLimpio": "Cadena internacional de restaurantes de 52 años cierra todas sus ubicaciones",
-      "resumen": "",
-      "porQueImporta": "Aunque el resumen es breve, el cierre de una cadena internacional de larga trayectoria puede indicar tendencias económicas o cambios en el sector de la restauración.",
-      "publicadoEn": "2026-07-27T14:57:07.000Z",
-      "imagen": "https://media.zenfs.com/en/thestreet_881/960e684726db56732f7203dcd298d088",
-      "globalScore": 92,
-      "personalScore": 100,
-      "tags": [
-        "negocios",
-        "economía",
-        "tendencias"
       ],
       "tambienVistoEn": []
     },
@@ -391,19 +341,19 @@
       "categoria": "Finance",
       "fuente": "Yahoo Finance",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-sandisk-coca-cola-earnings/?src=A00220&yptr=yahoo",
-      "tituloOriginal": "Stock Market Today: Dow Rises, Nasdaq Sinks As Chipmakers Dive; Coca-Cola Surges (Live Coverage)",
-      "tituloLimpio": "Mercado de valores hoy: Dow sube, Nasdaq cae mientras los fabricantes de chips se hunden; Coca-Cola sube",
-      "resumen": "",
-      "porQueImporta": "Ofrece un panorama rápido del mercado de valores, con movimientos importantes en sectores como chips y bebidas, relevante para inversores.",
-      "publicadoEn": "2026-07-28T13:46:07.000Z",
+      "tituloOriginal": "Stock Market Today: Dow Leaps 650 Points; Apple Joins Nvidia In Historic Move (Live Coverage)",
+      "tituloLimpio": "El Dow sube 650 puntos; Apple se une a Nvidia en un movimiento histórico",
+      "resumen": "Sin resumen disponible.",
+      "porQueImporta": "Noticia relevante para Guido por su interés en finanzas y mercados. El desempeño de Apple y Nvidia es un indicador importante del sector tecnológico y del mercado en general.",
+      "publicadoEn": "2026-07-28T17:40:03.000Z",
       "imagen": "https://media.zenfs.com/en/ibd.com/8e3f0f90c622d76c522be98b9f3975ee",
-      "globalScore": 94,
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "finanzas",
         "mercado",
-        "inversión",
-        "acciones"
+        "apple",
+        "nvidia"
       ],
       "tambienVistoEn": []
     },
@@ -411,21 +361,41 @@
       "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
       "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/28/core-scientific-lands-amd-ai-deal-as-bitcoin-mining-operation-winds-down",
-      "tituloOriginal": "Core Scientific lands AMD AI deal as bitcoin mining operation winds down",
-      "tituloLimpio": "Core Scientific cierra acuerdo de IA con AMD mientras la operación de minería de Bitcoin disminuye",
-      "resumen": "El acuerdo acelera el giro de Core Scientific de la minería de Bitcoin hacia centros de datos de IA.",
-      "porQueImporta": "Muestra una tendencia de empresas de criptominería pivotando hacia la IA, lo que puede ser una señal de nuevas oportunidades de inversión.",
-      "publicadoEn": "2026-07-28T12:46:05.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/e4ca7bbcf33940ac3a79675ca9923d61aeededd5-1920x1077.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "globalScore": 96,
+      "url": "https://www.coindesk.com/markets/2026/07/28/wall-street-veteran-don-wilson-says-regulators-are-getting-crypto-s-biggest-trading-innovation-all-wrong",
+      "tituloOriginal": "Wall Street veteran Don Wilson says regulators are getting perps all wrong",
+      "tituloLimpio": "Don Wilson, veterano de Wall Street, dice que los reguladores están entendiendo mal los 'perps'",
+      "resumen": "El CEO de DRW, Don Wilson, dice que los futuros perpetuos no son inherentemente herramientas de juego de criptomonedas arriesgadas, y es hora de que los mercados tradicionales y los reguladores los adopten.",
+      "porQueImporta": "Para Guido, interesado en inversiones, esta noticia sobre futuros perpetuos y la visión de un veterano de Wall Street puede ofrecer una perspectiva sobre la evolución de los mercados de criptomonedas y la regulación, temas que impactan en las opciones de inversión.",
+      "publicadoEn": "2026-07-28T17:23:35.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/6cd447ac49d4bec01aa4fac6e398137c5bc17431-3036x1708.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 92,
       "personalScore": 100,
       "tags": [
-        "IA",
         "finanzas",
-        "cripto",
-        "negocios",
-        "inversión"
+        "criptomonedas",
+        "regulacion",
+        "inversiones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/galaxy-mara-texas-land-deals-ai-bitcoin-data-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Galaxy, MARA Holdings deepen Texas expansion with land Acquisitions",
+      "tituloLimpio": "Galaxy y MARA Holdings profundizan su expansión en Texas con adquisiciones de tierras",
+      "resumen": "Las empresas enfocadas en criptomonedas anunciaron adquisiciones separadas a medida que la demanda de IA y la infraestructura digital que consume mucha energía continúa creciendo.",
+      "porQueImporta": "Esta noticia conecta el mundo de las criptomonedas con la creciente demanda de infraestructura para IA, un punto de interés para Guido. Muestra cómo la IA está impulsando la inversión en energía y centros de datos.",
+      "publicadoEn": "2026-07-28T18:08:32.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-top-5-crypto-states-in-us-texas.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "criptomonedas",
+        "ia",
+        "infraestructura",
+        "inversiones"
       ],
       "tambienVistoEn": []
     },
@@ -433,41 +403,20 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-martes-28-julio_0_gYPkYZlg0p.html",
-      "tituloOriginal": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este martes 28 de julio",
-      "tituloLimpio": "Dólar hoy: cotización del oficial y otros tipos de cambio este martes 28 de julio",
-      "resumen": "Desde el oficial hasta el blue y el turista, todos los tipos de cambio. Mirá la cotización minuto a minuto.",
-      "porQueImporta": "Información esencial para cualquier persona en Argentina, dado el impacto del dólar en la economía local.",
-      "publicadoEn": "2026-07-28T12:00:01.000Z",
-      "imagen": "https://www.clarin.com/img/2017/09/30/ryWILzajb_1200x630.jpg",
+      "url": "https://www.clarin.com/economia/energia-motores-crecimiento-economico-presente-vision-360_0_2G8w3LdBVP.html",
+      "tituloOriginal": "Energía, uno de los motores del crecimiento económico, presente en Visión 360",
+      "tituloLimpio": "La energía, uno de los motores del crecimiento económico, presente en Visión 360",
+      "resumen": "Sin resumen disponible.",
+      "porQueImporta": "Para Guido, que vive en Argentina, la energía como motor de crecimiento económico es un tema fundamental que impacta en el desarrollo del país y en posibles oportunidades de inversión a largo plazo.",
+      "publicadoEn": "2026-07-28T16:44:25.000Z",
+      "imagen": "https://www.clarin.com/img/2026/07/28/fJcEiDn9U_1200x630__1.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "Argentina",
-        "dólar",
-        "economía",
-        "finanzas"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
-      "categoria": "Argentina",
-      "fuente": "Clarin Politica",
-      "url": "https://www.clarin.com/politica/javier-milei-medidas-vivo-medio-conflicto-diplomatico-brasil-presidente-asistira-hoy-asuncion-keiko-fujimori-peru_0_ENhBGTHbx0.html",
-      "tituloOriginal": "Javier Milei y sus medidas, EN VIVO: la jefa del FMI llegó a Neuquén con Luis Caputo para visitar Vaca Muerta",
-      "tituloLimpio": "La jefa del FMI llegó a Neuquén con Luis Caputo para visitar Vaca Muerta",
-      "resumen": "Javier Milei cumple su agenda en Lima, para la asunción de la nueva presidenta de Perú, donde además recibirá el Doctorado Honoris Causa de una universidad.",
-      "porQueImporta": "La visita de la jefa del FMI a Vaca Muerta es un evento económico y político relevante para Argentina, señalando posibles inversiones o acuerdos.",
-      "publicadoEn": "2026-07-28T11:14:19.000Z",
-      "imagen": "https://www.clarin.com/img/2026/07/28/bOzS71VqK_1200x630__1.jpg",
-      "globalScore": 90,
-      "personalScore": 100,
-      "tags": [
-        "Argentina",
-        "política",
-        "economía",
-        "FMI"
+        "argentina",
+        "economia",
+        "energia",
+        "crecimiento"
       ],
       "tambienVistoEn": []
     },
@@ -475,67 +424,47 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/07/28/la-definicion-de-un-arquitecto-del-1-a-1-sin-incertidumbre-cambiaria-las-tasas-de-interes-se-desploman-y-la-actividad-repunta/",
-      "tituloOriginal": "La definición de un arquitecto del 1 a 1: “Sin incertidumbre cambiaria, las tasas de interés se desploman y la actividad repunta”",
-      "tituloLimpio": "Un arquitecto del 1 a 1: 'Sin incertidumbre cambiaria, las tasas de interés se desploman y la actividad repunta'",
-      "resumen": "El especialista analizó cómo la ausencia de controles y la estabilidad monetaria pueden modificar la dinámica económica y financiera local. Dijo que no alcanza con salir del cepo, sino que hay que liberar plenamente los controles de cambio.",
-      "porQueImporta": "Ofrece una perspectiva sobre la economía argentina y las condiciones para la recuperación, relevante para entender el panorama financiero local.",
-      "publicadoEn": "2026-07-28T13:58:28.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/NOBCVUZNM5HQZK7V6FWHZBVIBY.jpg?auth=5d10f8efb9f4a69b8dd8317965f5a4c7c50883598ddfcce57a57c6b13114a4e7&smart=true&width=1280&height=720",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "Argentina",
-        "economía",
-        "finanzas",
-        "política"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
-      "categoria": "Argentina",
-      "fuente": "Infobae Politica",
-      "url": "https://www.infobae.com/politica/2026/07/28/el-presidente-javier-milei-explicara-por-cadena-nacional-la-reforma-de-la-carta-organica-del-banco-central/",
-      "tituloOriginal": "El presidente Javier Milei explicará por cadena nacional la reforma de la Carta Orgánica del Banco Central",
-      "tituloLimpio": "El presidente Javier Milei explicará por cadena nacional la reforma de la Carta Orgánica del Banco Central",
-      "resumen": "El mensaje, previsto para el jueves por la noche, detallará cambios en la misión del organismo, el freno al auxilio al Tesoro con impresión de pesos y nuevas barreras para desplazar autoridades.",
-      "porQueImporta": "Anuncio importante que podría tener un impacto significativo en la política monetaria y la economía argentina.",
-      "publicadoEn": "2026-07-28T14:06:42.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/2B6WODSTVFCGTPPBNFKRZ4HVEE.jpg?auth=b05be6a16123d7b3ecea2098190edbecb73635b9257ae1691c4cf1ac925522c2&smart=true&width=1920&height=1080",
-      "globalScore": 90,
-      "personalScore": 100,
-      "tags": [
-        "Argentina",
-        "política",
-        "economía",
-        "Banco Central"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
-      "categoria": "Marketing",
-      "fuente": "Adweek",
-      "url": "https://www.adweek.com/brand-marketing/the-nfl-merch-designer-for-stars-like-taylor-swift-is-making-a-chair-for-la-z-boy/",
-      "tituloOriginal": "The NFL Merch Designer for Stars Like Taylor Swift Is Making a Chair for La-Z-Boy",
-      "tituloLimpio": "La diseñadora de merchandising de la NFL para estrellas como Taylor Swift crea una silla para La-Z-Boy",
-      "resumen": "Kristin Juszczyk está diseñando una silla personalizada para la empresa de sillones reclinables, con el objetivo de llegar a clientes más jóvenes.",
-      "porQueImporta": "Ejemplo de marketing y colaboración de marca para alcanzar nuevos segmentos de mercado, relevante para estrategias de marketing.",
-      "publicadoEn": "2026-07-28T09:07:00.000Z",
+      "url": "https://www.infobae.com/economia/2026/07/28/kristalina-georgieva-llego-a-neuquen-para-un-recorrido-por-el-yacimiento-estrella-de-vaca-muerta/",
+      "tituloOriginal": "Kristalina Georgieva llegó a Neuquén para un recorrido por el yacimiento estrella de Vaca Muerta",
+      "tituloLimpio": "Kristalina Georgieva llegó a Neuquén para un recorrido por el yacimiento estrella de Vaca Muerta",
+      "resumen": "A las 10 de la mañana, la titular del Fondo Monetario Internacional (FMI) arribó a Neuquén junto con el ministro de Economía, Luis Caputo. Se espera su regreso a Buenos Aires donde aseguran no hay más reuniones oficiales.",
+      "porQueImporta": "La visita de la titular del FMI a Vaca Muerta subraya la importancia estratégica de este yacimiento para la economía argentina y su relación con organismos internacionales, un tema de alto impacto para el país.",
+      "publicadoEn": "2026-07-28T18:00:08.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/OJB7XBLR65A5REHIE6WEZGN3YM.jpg?auth=50158e947c8c04b727b1083b89b9128852ab9b546f816868ccc4425dcedb94d8&smart=true&width=1230&height=692",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "marketing",
-        "negocios",
-        "diseño",
-        "tendencias"
+        "argentina",
+        "economia",
+        "fmi",
+        "vaca muerta"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/campo/que-sea-una-politica-de-estado-presentaron-un-proyecto-para-cambiar-la-gestion-de-los-caminos-nid28072026/",
+      "tituloOriginal": "“Que sea una política de Estado”: presentaron un proyecto para cambiar la gestión de los caminos rurales en un municipio bonaerense",
+      "tituloLimpio": "Presentaron un proyecto para cambiar la gestión de los caminos rurales en un municipio bonaerense",
+      "resumen": "La Sociedad Rural de 9 de Julio y un grupo de productores buscan crear una Comisión Vial Rural que administre el 85% de la tasa vial y los fondos provinciales destinados a infraestructura.",
+      "porQueImporta": "Esta noticia local de Argentina muestra iniciativas para mejorar la infraestructura rural, lo cual puede tener un impacto en la economía regional y en la logística, temas de interés general para un residente de Buenos Aires.",
+      "publicadoEn": "2026-07-28T18:07:06.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/B2J2DZ5CSZBYJLCVHNI554WNPM.jpg?auth=3225c57b5393ff4f0f510368cd577d8fd5bf77dbabca927030f298c92f8f63dd&smart=true&width=2000&height=1333",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "infraestructura",
+        "economia regional",
+        "gestion"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-07-28T14:13:21.859Z"
+    "generadoEn": "2026-07-28T18:14:02.278Z"
   }
 }
