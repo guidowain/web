@@ -1,51 +1,13 @@
 {
   "fecha": "2026-07-30",
-  "generadoEn": "2026-07-30T14:08:21.068Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "Hoy, la atención se centra en la reforma de la Carta Orgánica del BCRA que presentará Javier Milei. En tecnología, Microsoft confirmó el lanzamiento de una 'super app' para Copilot este año, mientras que Google expande las capacidades de los agentes gestionados en la API de Gemini. En el ámbito de la IA, se advierte sobre una vulnerabilidad fundamental en los LLMs. Para los amantes de Apple, hay un evento de ofertas de apps independientes y un proyecto que fusiona un iMac G4 con un Mac mini M4. En finanzas, se observa una desaceleración del crecimiento económico en EE.UU. y JPMorgan advierte sobre el impacto de la ley Clarity Act en el mercado cripto.",
+  "generadoEn": "2026-07-30T18:15:07.073Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Hoy tenemos novedades importantes en el ámbito de la IA, con Google expandiendo sus agentes Gemini y LinkedIn agregando una opción para reportar contenido de IA de baja calidad. En Apple, se destaca el regreso de Fortnite al iPhone en Brasil y una venta de apps indie. Para Argentina, la expectativa de inflación sigue subiendo y una láctea importante reanudó operaciones. También hay noticias sobre bancos globales probando dinero tokenizado y la exportación de carne de caballo argentina.",
   "radarPersonal": [
-    {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "Javier Milei presenta la reforma de la Carta Orgánica del BCRA en cadena nacional",
-      "resumen": "El gobierno enviará un proyecto al Congreso para modificar la ley que regula el funcionamiento del BCRA.",
-      "categoria": "Argentina",
-      "fuentes": [
-        "Ambito"
-      ],
-      "urls": [
-        "https://www.ambito.com/economia/que-es-la-carta-organica-del-bcra-y-cuales-son-los-cambios-que-impulsa-javier-milei-la-reforma-n6304751"
-      ],
-      "score": 100,
-      "tags": [
-        "milei",
-        "bcra",
-        "reforma",
-        "argentina"
-      ]
-    },
-    {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "titulo": "Microsoft confirma el lanzamiento de una 'super app' de Copilot este año",
-      "resumen": "Microsoft está desarrollando una 'super app' de IA que combina las capacidades de chat, codificación y agentes de Copilot.",
-      "categoria": "AI",
-      "fuentes": [
-        "The Verge AI"
-      ],
-      "urls": [
-        "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed"
-      ],
-      "score": 100,
-      "tags": [
-        "microsoft",
-        "copilot",
-        "super app",
-        "ia"
-      ]
-    },
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
       "titulo": "Google expande las capacidades de los agentes gestionados en la API de Gemini",
-      "resumen": "Se anuncian nuevas capacidades en los agentes gestionados de la API de Gemini para que los desarrolladores puedan construir agentes confiables y listos para producción.",
+      "resumen": "Google anuncia nuevas capacidades en los agentes gestionados de la API de Gemini para que los desarrolladores puedan construir agentes confiables y listos para producción.",
       "categoria": "AI",
       "fuentes": [
         "Google AI Blog"
@@ -57,87 +19,119 @@
       "tags": [
         "gemini",
         "api",
-        "agentes",
-        "desarrolladores",
-        "ia"
+        "desarrolladores"
       ]
     },
     {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "titulo": "Una falla fundamental hace que los LLMs sean vulnerables a ataques",
-      "resumen": "Es imposible hacer que los grandes modelos de lenguaje sean completamente seguros contra ataques debido a una falla fundamental en su funcionamiento.",
+      "id": "linkedin-adds-a-button-to-report-ai-generated-slop",
+      "titulo": "LinkedIn agrega una opción para reportar contenido de IA de baja calidad",
+      "resumen": "LinkedIn introduce nuevas formas de reducir las publicaciones generadas por IA de baja calidad, incluyendo una opción para reportar contenido que 'parece IA de baja calidad'.",
       "categoria": "AI",
       "fuentes": [
-        "MIT Technology Review AI"
+        "TechCrunch AI"
       ],
       "urls": [
-        "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/"
+        "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/"
       ],
       "score": 100,
       "tags": [
-        "llms",
-        "seguridad",
-        "vulnerabilidad",
-        "ia"
+        "linkedin",
+        "ia",
+        "contenido"
       ]
     },
     {
-      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
-      "titulo": "Proyecto fusiona un iMac G4 con un Mac mini M4",
-      "resumen": "Un proyecto reemplaza los componentes internos de un iMac G4 con un Mac mini M4 para combinar diseño icónico y rendimiento.",
-      "categoria": "Apple",
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Sube la expectativa de inflación en Argentina, rozando el 36% para los próximos 12 meses",
+      "resumen": "La expectativa de inflación anual creció en CABA, GBA e Interior. Además, la brecha de expectativas entre hogares de mayores y menores ingresos se redujo a 2,9 puntos.",
+      "categoria": "Argentina",
       "fuentes": [
-        "AppleInsider"
+        "Ambito"
       ],
       "urls": [
-        "https://appleinsider.com/articles/26/07/30/g4-meets-m4-this-project-fuses-an-iconic-imac-with-a-mac-mini?utm_source=rss"
+        "https://www.ambito.com/economia/sube-la-expectativa-inflacion-y-ya-roza-el-36-los-proximos-12-meses-n6305297"
       ],
       "score": 100,
       "tags": [
-        "imac",
-        "mac mini",
-        "m4",
-        "apple",
-        "modding"
+        "inflacion",
+        "argentina",
+        "economia"
+      ]
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "titulo": "Bancos globales prueban dinero tokenizado para pagos transfronterizos en un piloto del BIS",
+      "resumen": "Veintiocho bancos, incluyendo JPMorgan, Citi y UBS, movieron dinero real a través de fronteras en una prueba en vivo de liquidación basada en blockchain.",
+      "categoria": "Finance",
+      "fuentes": [
+        "CoinDesk"
+      ],
+      "urls": [
+        "https://www.coindesk.com/business/2026/07/30/global-banks-test-tokenized-money-for-cross-border-payments-in-usd1-million-bis-pilot/"
+      ],
+      "score": 96,
+      "tags": [
+        "bancos",
+        "tokenizado",
+        "blockchain",
+        "pagos"
+      ]
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "titulo": "Argentina exportó un 10% más de carne de caballo y mantiene el segundo puesto mundial",
+      "resumen": "Entre enero y junio de 2026 se colocaron 7070 toneladas; en valor las ventas subieron un 42%, a US$29,6 millones.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "La Nacion Economia"
+      ],
+      "urls": [
+        "https://www.lanacion.com.ar/economia/campo/belgica-primer-comprador-la-argentina-exporto-un-10-mas-de-carne-de-caballo-y-mantiene-el-segundo-nid30072026/"
+      ],
+      "score": 100,
+      "tags": [
+        "argentina",
+        "exportacion",
+        "carne"
       ]
     }
   ],
   "loImportante": [
-    "Javier Milei presentará la reforma de la Carta Orgánica del BCRA en cadena nacional, un tema clave para la economía argentina.",
-    "Microsoft lanzará una 'super app' de Copilot este año, integrando chat, codificación y capacidades de agente, lo que podría cambiar la interacción con la IA.",
-    "Google amplía las herramientas para desarrolladores en la API de Gemini, facilitando la creación de agentes de IA más robustos.",
-    "Se identificó una falla fundamental en los LLMs que los hace vulnerables a ataques, planteando desafíos importantes para la seguridad de la IA.",
-    "Una empresa agropecuaria invertirá 70 millones de dólares en Argentina para ampliar la producción de bioetanol, generando valor agregado al maíz."
+    "La expectativa de inflación en Argentina sigue en aumento, rozando el 36% anual.",
+    "Bancos globales están avanzando en pruebas de dinero tokenizado para pagos transfronterizos.",
+    "LinkedIn implementa herramientas para combatir el contenido de IA de baja calidad.",
+    "Google expande las capacidades de sus agentes Gemini para desarrolladores.",
+    "Una láctea importante en Argentina reanudó sus operaciones tras quebrar."
   ],
   "oportunidades": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
       "categoria": "AI",
       "titulo": "Nuevas capacidades en la API de Gemini para desarrolladores",
-      "detalle": "La expansión de los agentes gestionados en la API de Gemini 3.6 Flash y los 'hooks' permiten construir agentes de IA más confiables y listos para producción.",
+      "detalle": "Google está expandiendo las capacidades de los agentes gestionados en la API de Gemini, lo que permite a los desarrolladores construir agentes más confiables y listos para producción.",
       "acciones": [
-        "Explorar las nuevas capacidades de la API de Gemini para posibles aplicaciones en retoque fotográfico o automatización.",
-        "Evaluar la integración de estos agentes en flujos de trabajo existentes."
+        "Explorar las nuevas funcionalidades de la API de Gemini para posibles integraciones en proyectos de IA.",
+        "Evaluar cómo estas mejoras pueden optimizar la automatización y el desarrollo de herramientas."
       ]
     },
     {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "categoria": "AI",
-      "titulo": "Lanzamiento de la 'super app' de Microsoft Copilot",
-      "detalle": "Microsoft lanzará una 'super app' de IA que combina chat, codificación y capacidades de agente, abarcando experiencias de consumo y comerciales.",
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "Snapchat mejora sus anuncios de generación de leads con integración de HubSpot",
+      "detalle": "Snapchat se enfoca más en asociaciones para 'encontrarse con sus clientes donde están', según el Vicepresidente de Agencia Global y Cuentas Estratégicas, Adrian Mulryan.",
       "acciones": [
-        "Mantenerse atento al lanzamiento para entender cómo esta integración podría impactar las herramientas de productividad y creatividad.",
-        "Investigar posibles usos de Copilot en la automatización de tareas o generación de contenido."
+        "Investigar la integración de Snapchat con HubSpot para optimizar campañas de marketing y generación de leads.",
+        "Considerar el uso de estas herramientas para estrategias de marketing digital."
       ]
     },
     {
-      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
-      "categoria": "Investing",
-      "titulo": "Inversión de US$ 70 millones en bioetanol en Argentina",
-      "detalle": "Una empresa agropecuaria invertirá US$ 70 millones para ampliar su capacidad de producción de bioetanol, agregando valor a 800.000 toneladas de maíz por año.",
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Productivity",
+      "titulo": "Evento de ofertas de apps indie con más de 200 aplicaciones",
+      "detalle": "Un evento organizado por desarrolladores indie ofrece descuentos en más de 200 aplicaciones hasta el jueves.",
       "acciones": [
-        "Analizar el impacto de esta inversión en el sector agropecuario y energético argentino.",
-        "Considerar posibles oportunidades de inversión indirectas en empresas relacionadas con el sector o ETFs agrícolas."
+        "Revisar la lista de aplicaciones en oferta para encontrar herramientas útiles para retoque fotográfico, arte con IA o automatización.",
+        "Aprovechar los descuentos para adquirir software que mejore la productividad o el flujo de trabajo."
       ]
     }
   ],
@@ -145,38 +139,27 @@
     {
       "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
       "categoria": "AI",
-      "titulo": "Vulnerabilidad fundamental en los LLMs",
+      "titulo": "Falla fundamental deja a los LLMs vulnerables a ataques",
       "detalle": "Investigadores argumentan que es imposible hacer que los grandes modelos de lenguaje sean completamente seguros contra ataques debido a una falla fundamental en su funcionamiento.",
-      "mitigacion": "Ser cauteloso al implementar LLMs en procesos críticos o con datos sensibles. Priorizar la seguridad y la privacidad en el diseño de soluciones basadas en IA. Monitorear las actualizaciones y parches de seguridad de los proveedores de LLMs."
+      "mitigacion": "Mantenerse informado sobre las vulnerabilidades de los LLMs y aplicar las mejores prácticas de seguridad al trabajar con estas tecnologías. Considerar la implementación de capas adicionales de seguridad en aplicaciones que utilicen LLMs."
     },
     {
-      "id": "jpmorgan-aHR0cHM6Ly93d3cuY29p",
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Market",
-      "titulo": "JPMorgan advierte sobre el impacto de la ley Clarity Act en el mercado cripto",
-      "detalle": "JPMorgan señala que las menores probabilidades de aprobación de la ley Clarity Act en EE.UU. afectan las perspectivas de las criptomonedas, a pesar del avance de la tokenización y la adopción institucional.",
-      "mitigacion": "Monitorear la evolución regulatoria en EE.UU. y su impacto en el mercado cripto global. Diversificar las inversiones y no depender exclusivamente de activos digitales. Estar atento a las tendencias de tokenización y adopción institucional como posibles contrapesos."
+      "titulo": "Aumento de la expectativa de inflación en Argentina",
+      "detalle": "La expectativa de inflación anual creció en CABA, GBA e Interior, rozando el 36% para los próximos 12 meses.",
+      "mitigacion": "Revisar y ajustar estrategias de inversión para proteger el capital de la inflación. Considerar activos que históricamente han funcionado bien en entornos inflacionarios."
     }
   ],
   "conexiones": [
     {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "titulo": "Microsoft y OpenAI compiten con 'super apps' de IA",
+      "id": "linkedin-adds-a-button-to-report-ai-generated-slop",
+      "titulo": "La calidad del contenido de IA y la reputación de las plataformas",
       "historias": [
-        "Microsoft confirma Copilot ‘super app’ coming this year",
-        "Microsoft will launch new ‘super app’ for Copilot soon",
-        "OpenAI recently launched its own super app, which it just admitted is “kind of a mess.”"
+        "LinkedIn agrega una opción para reportar contenido de IA de baja calidad.",
+        "Un estudio revela una falla fundamental que deja a los LLMs vulnerables a ataques."
       ],
-      "conclusion": "Tanto Microsoft como OpenAI están apostando por el concepto de 'super app' para sus asistentes de IA, buscando integrar múltiples funcionalidades en una sola plataforma. Esto indica una tendencia hacia la consolidación de servicios de IA, aunque OpenAI reconoce desafíos en su implementación inicial."
-    },
-    {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "La reforma del BCRA, tema central en Argentina",
-      "historias": [
-        "En cadena nacional, Javier Milei presenta la reforma de la Carta Orgánica del BCRA: los puntos clave del proyecto",
-        "Javier Milei y sus medidas, EN VIVO: el Presidente hablará hoy en cadena nacional para explicar la reforma de la carta orgánica del BCRA",
-        "Habla Javier Milei en cadena nacional, EN VIVO: presenta la reforma del Banco Central hoy"
-      ],
-      "conclusion": "La reforma de la Carta Orgánica del Banco Central es un tema de alta relevancia en Argentina, con el presidente Javier Milei presentándola en cadena nacional. Esto sugiere un cambio significativo en la política monetaria y económica del país."
+      "conclusion": "La proliferación de contenido generado por IA de baja calidad o potencialmente malicioso plantea desafíos significativos para la integridad de las plataformas y la confianza de los usuarios. La vulnerabilidad inherente de los LLMs a ataques subraya la necesidad de herramientas y mecanismos de control más robustos para mantener la calidad y seguridad del ecosistema digital."
     }
   ],
   "noticias": [
@@ -187,18 +170,17 @@
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
       "tituloOriginal": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
       "tituloLimpio": "Google expande las capacidades de los agentes gestionados en la API de Gemini",
-      "resumen": "Se anuncian nuevas capacidades en los agentes gestionados de la API de Gemini para que los desarrolladores puedan construir agentes confiables y listos para producción.",
-      "porQueImporta": "Mejora las herramientas disponibles para desarrolladores de IA, lo que puede llevar a aplicaciones más sofisticadas y automatizadas, útil para quienes trabajan con IA aplicada.",
+      "resumen": "Google anuncia nuevas capacidades en los agentes gestionados de la API de Gemini para que los desarrolladores puedan construir agentes confiables y listos para producción.",
+      "porQueImporta": "Para Guido, que trabaja con IA aplicada, estas mejoras en la API de Gemini pueden ofrecer nuevas herramientas y posibilidades para el desarrollo de proyectos y automatizaciones, mejorando la fiabilidad de los agentes de IA.",
       "publicadoEn": "2026-07-28T16:00:00.000Z",
       "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "gemini",
-        "api",
-        "agentes",
-        "desarrolladores",
-        "ia"
+        "AI",
+        "Google",
+        "Gemini",
+        "Desarrollo"
       ],
       "tambienVistoEn": []
     },
@@ -206,21 +188,19 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/que-es-la-carta-organica-del-bcra-y-cuales-son-los-cambios-que-impulsa-javier-milei-la-reforma-n6304751",
-      "tituloOriginal": "En cadena nacional, Javier Milei presenta la reforma de la Carta Orgánica del BCRA: los puntos clave del proyecto",
-      "tituloLimpio": "Javier Milei presenta la reforma de la Carta Orgánica del BCRA en cadena nacional",
-      "resumen": "El gobierno libertario enviará un proyecto al Congreso para modificar la ley que regula el funcionamiento del BCRA.",
-      "porQueImporta": "Es una noticia clave para entender los cambios económicos y financieros que propone el gobierno en Argentina, con impacto directo en la estabilidad monetaria y el mercado.",
-      "publicadoEn": "2026-07-30T13:50:00.000Z",
-      "imagen": "https://media.ambito.com/p/671046bbdb315629eba656ac3b56c45c/adjuntos/239/imagenes/042/683/0042683676/javier-milei-cadena-nacional-vetos.jpg",
-      "globalScore": 94,
+      "url": "https://www.ambito.com/economia/sube-la-expectativa-inflacion-y-ya-roza-el-36-los-proximos-12-meses-n6305297",
+      "tituloOriginal": "Sube la expectativa de inflación y ya roza el 36% para los próximos 12 meses",
+      "tituloLimpio": "Sube la expectativa de inflación en Argentina, rozando el 36% para los próximos 12 meses",
+      "resumen": "La expectativa de inflación anual creció en CABA, GBA e Interior. Además, la brecha de expectativas entre hogares de mayores y menores ingresos se redujo a 2,9 puntos.",
+      "porQueImporta": "Como residente en Argentina, la inflación es un factor clave en la economía personal y las decisiones de inversión. Este aumento en las expectativas es una señal importante a considerar.",
+      "publicadoEn": "2026-07-30T16:20:00.000Z",
+      "globalScore": 90,
       "personalScore": 100,
       "tags": [
-        "milei",
-        "bcra",
-        "reforma",
-        "argentina",
-        "economia"
+        "Argentina",
+        "Economía",
+        "Inflación",
+        "Finanzas"
       ],
       "tambienVistoEn": []
     },
@@ -228,19 +208,19 @@
       "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
       "categoria": "Marketing",
       "fuente": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/heineken-pilots-opentable-program-that-rewards-designated-drivers/826292/",
-      "tituloOriginal": "Heineken pilots OpenTable program that rewards designated drivers",
-      "tituloLimpio": "Heineken prueba programa que recompensa a conductores designados",
-      "resumen": "La marca recompensa a los conductores designados con vales de viaje compartido y tarjetas de regalo, mientras la categoría de cerveza sin alcohol sigue creciendo.",
-      "porQueImporta": "Un ejemplo interesante de marketing y responsabilidad social corporativa, mostrando cómo las marcas innovan para promover el consumo responsable y capitalizar tendencias de mercado.",
-      "publicadoEn": "2026-07-30T12:00:00.000Z",
+      "url": "https://www.marketingdive.com/news/snapchat-shores-up-lead-gen-ads-with-new-hubspot-integration/826552/",
+      "tituloOriginal": "Snapchat shores up lead gen ads with new HubSpot integration",
+      "tituloLimpio": "Snapchat mejora sus anuncios de generación de leads con integración de HubSpot",
+      "resumen": "Snapchat se enfoca más en asociaciones para 'encontrarse con sus clientes donde están', según el Vicepresidente de Agencia Global y Cuentas Estratégicas, Adrian Mulryan.",
+      "porQueImporta": "Para Guido, interesado en marketing y herramientas, esta integración puede ofrecer nuevas vías para la generación de leads y optimización de campañas publicitarias, especialmente si utiliza HubSpot.",
+      "publicadoEn": "2026-07-30T16:00:00.000Z",
       "globalScore": 96,
       "personalScore": 100,
       "tags": [
-        "marketing",
-        "heineken",
-        "consumo responsable",
-        "tendencias"
+        "Marketing",
+        "Snapchat",
+        "HubSpot",
+        "Publicidad"
       ],
       "tambienVistoEn": []
     },
@@ -248,41 +228,19 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
-      "tituloOriginal": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
-      "tituloLimpio": "Dili recauda US$ 21.7 millones para llevar el cumplimiento de IA al auge de la infraestructura",
-      "resumen": "La Serie A fue liderada por Khosla Ventures, con participación de Allianz, Rebel Fund, Darren Bechtel de Brick and Mortar Ventures y Garry Tan de Y Combinator.",
-      "porQueImporta": "Destaca la creciente importancia del cumplimiento y la regulación en el sector de la IA, un área que podría generar nuevas herramientas y servicios.",
-      "publicadoEn": "2026-07-30T13:00:00.000Z",
+      "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+      "tituloOriginal": "LinkedIn adds a button to report AI-generated ‘slop’",
+      "tituloLimpio": "LinkedIn agrega una opción para reportar contenido de IA de baja calidad",
+      "resumen": "LinkedIn introduce nuevas formas de reducir las publicaciones generadas por IA de baja calidad, incluyendo una opción para reportar contenido que 'parece IA de baja calidad'.",
+      "porQueImporta": "Como artista de IA y profesional, Guido se beneficia de plataformas con contenido de calidad. Esta medida de LinkedIn puede mejorar la experiencia y reducir el 'ruido' generado por IA de baja calidad.",
+      "publicadoEn": "2026-07-30T18:05:21.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "ia",
-        "inversion",
-        "cumplimiento",
-        "infraestructura",
-        "negocios"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "categoria": "AI",
-      "fuente": "The Verge AI",
-      "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
-      "tituloOriginal": "Microsoft confirms Copilot ‘super app’ coming this year",
-      "tituloLimpio": "Microsoft confirma el lanzamiento de una 'super app' de Copilot este año",
-      "resumen": "Microsoft está desarrollando una 'super app' de IA que combina las capacidades de chat, codificación y agentes de Copilot.",
-      "porQueImporta": "Podría ser un cambio importante en cómo interactuamos con la IA, integrando múltiples funciones en una sola aplicación, lo que es relevante para la productividad y la automatización.",
-      "publicadoEn": "2026-07-29T22:17:38.000Z",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "microsoft",
-        "copilot",
-        "super app",
-        "ia",
-        "productividad"
+        "AI",
+        "LinkedIn",
+        "Contenido",
+        "Calidad"
       ],
       "tambienVistoEn": []
     },
@@ -292,38 +250,58 @@
       "fuente": "MIT Technology Review AI",
       "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
       "tituloOriginal": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-      "tituloLimpio": "Una falla fundamental hace que los LLMs sean vulnerables a ataques",
-      "resumen": "Es imposible hacer que los grandes modelos de lenguaje sean completamente seguros contra ataques debido a una falla fundamental en su funcionamiento.",
-      "porQueImporta": "Es crucial para entender los límites y riesgos de seguridad de la IA, especialmente al considerar su uso en aplicaciones críticas o con datos sensibles.",
+      "tituloLimpio": "Una falla fundamental deja a los LLMs vulnerables a ataques",
+      "resumen": "Investigadores argumentan que es imposible hacer que los grandes modelos de lenguaje sean completamente seguros contra ataques debido a una falla fundamental en su funcionamiento.",
+      "porQueImporta": "Para Guido, que trabaja con IA, entender las limitaciones de seguridad de los LLMs es crucial para evaluar riesgos en el desarrollo y uso de estas tecnologías.",
       "publicadoEn": "2026-07-30T10:15:19.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "llms",
-        "seguridad",
-        "vulnerabilidad",
-        "ia"
+        "AI",
+        "Seguridad",
+        "LLMs",
+        "Vulnerabilidad"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Apple",
-      "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/07/30/g4-meets-m4-this-project-fuses-an-iconic-imac-with-a-mac-mini?utm_source=rss",
-      "tituloOriginal": "G4 meets M4: This project fuses an iconic iMac with a Mac mini",
-      "tituloLimpio": "Proyecto fusiona un iMac G4 con un Mac mini M4",
-      "resumen": "Un proyecto reemplaza los componentes internos de un iMac G4 con un Mac mini M4 para combinar diseño icónico y rendimiento.",
-      "porQueImporta": "Interesante para los entusiastas de Apple y el modding, mostrando cómo se puede actualizar hardware antiguo con tecnología moderna para obtener un equipo potente y con estilo.",
-      "publicadoEn": "2026-07-30T14:03:13.000Z",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/30/fortnite-returns-to-iphone-in-brazil-with-epic-games-store-launch/",
+      "tituloOriginal": "Fortnite returns to iPhone in Brazil with Epic Games Store launch",
+      "tituloLimpio": "Fortnite regresa al iPhone en Brasil con el lanzamiento de Epic Games Store",
+      "resumen": "Fortnite está de vuelta en el iPhone en Brasil hoy con el lanzamiento de Epic Games Store. Sin embargo, Epic Games critica el proceso de nueve pasos requerido para el acceso.",
+      "porQueImporta": "Aunque es en Brasil, el regreso de Fortnite a iOS es una noticia relevante para el ecosistema Apple y la industria de los videojuegos, mostrando cómo las disputas entre plataformas pueden resolverse regionalmente.",
+      "publicadoEn": "2026-07-30T17:47:31.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "imac",
-        "mac mini",
-        "m4",
-        "apple",
-        "modding"
+        "Apple",
+        "Gaming",
+        "Fortnite",
+        "Epic Games"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81Z29v",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5google.com/2026/07/29/gemini-mac-voice-control/",
+      "tituloOriginal": "Gemini for macOS rolling out voice control and Gboard Rambler-level transcription",
+      "tituloLimpio": "Gemini para macOS implementa control por voz y transcripción de nivel Gboard Rambler",
+      "resumen": "Después de la vista previa en I/O 2026 en mayo, Gemini para macOS está implementando capacidades avanzadas de control por voz.",
+      "porQueImporta": "Para Guido, usuario de Apple e interesado en IA y automatización, las nuevas capacidades de control por voz de Gemini en macOS pueden mejorar la productividad y la interacción con su equipo.",
+      "publicadoEn": "2026-07-29T15:36:30.000Z",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "AI",
+        "macOS",
+        "Gemini",
+        "Productividad"
       ],
       "tambienVistoEn": []
     },
@@ -333,40 +311,39 @@
       "fuente": "MacStories",
       "url": "https://www.macstories.net/news/indie-app-sales-event-begins-today-with-over-200-apps/",
       "tituloOriginal": "Indie App Sales Event Begins Today with Over 200 Apps",
-      "tituloLimpio": "Evento de ofertas de apps independientes comienza hoy con más de 200 aplicaciones",
-      "resumen": "Un evento organizado por desarrolladores independientes ofrece descuentos en más de 200 aplicaciones hasta el jueves.",
-      "porQueImporta": "Una oportunidad para encontrar herramientas y aplicaciones útiles a precios reducidos, relevante para quienes buscan optimizar su flujo de trabajo o probar nuevas utilidades.",
+      "tituloLimpio": "Evento de ofertas de apps indie comienza hoy con más de 200 aplicaciones",
+      "resumen": "Un evento organizado por desarrolladores indie ofrece descuentos en más de 200 aplicaciones hasta el jueves.",
+      "porQueImporta": "Guido, como usuario de Apple y profesional que busca herramientas, podría encontrar aplicaciones útiles para su trabajo en retoque fotográfico, arte con IA o automatización a precios reducidos.",
       "publicadoEn": "2026-07-28T15:12:35.000Z",
       "globalScore": 90,
       "personalScore": 100,
       "tags": [
-        "apps",
-        "ofertas",
-        "productividad",
-        "herramientas",
-        "apple"
+        "Apple",
+        "Apps",
+        "Ofertas",
+        "Herramientas"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
-      "fuente": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/article/us-economic-growth-slows-to-15-in-second-quarter-135510531.html",
-      "tituloOriginal": "US economic growth slows to 1.5% in second quarter",
-      "tituloLimpio": "El crecimiento económico de EE.UU. se desacelera al 1.5% en el segundo trimestre",
-      "resumen": "",
-      "porQueImporta": "Una desaceleración en la economía estadounidense puede tener efectos en los mercados globales y, por ende, en las inversiones, incluyendo ETFs.",
-      "publicadoEn": "2026-07-30T13:55:10.000Z",
-      "imagen": "https://s.yimg.com/uu/api/res/1.2/LkZaZVoeM7ynupGGCBt0lw--~B/aD0zODIyO3c9NTczNDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/53173bb4-3f8a-4c08-9ad4-634a8c5d6aba",
-      "globalScore": 94,
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/07/30/global-banks-test-tokenized-money-for-cross-border-payments-in-usd1-million-bis-pilot",
+      "tituloOriginal": "Global banks test tokenized money for cross-border payments in $1 million BIS pilot",
+      "tituloLimpio": "Bancos globales prueban dinero tokenizado para pagos transfronterizos en un piloto del BIS",
+      "resumen": "Veintiocho bancos, incluyendo JPMorgan, Citi y UBS, movieron dinero real a través de fronteras en una prueba en vivo de liquidación basada en blockchain.",
+      "porQueImporta": "Para Guido, interesado en inversiones y finanzas, esta noticia muestra una tendencia importante en el futuro de los pagos y la tecnología blockchain en el sector bancario global.",
+      "publicadoEn": "2026-07-30T17:34:03.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/4bba51485f26abb692e6ef6bcc557b0fc965919a-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 96,
       "personalScore": 100,
       "tags": [
-        "economia",
-        "eeuu",
-        "crecimiento",
-        "finanzas",
-        "mercado"
+        "Finanzas",
+        "Blockchain",
+        "Pagos",
+        "Bancos",
+        "Inversión"
       ],
       "tambienVistoEn": []
     },
@@ -374,21 +351,20 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/rural/empresa-agro-invertira-us-70-millones-ampliar-capacidad-produccion-bioetanol_0_FuDoQZ4XSB.html",
-      "tituloOriginal": "Una empresa del agro invertirá US$ 70 millones para ampliar su capacidad de producción de bioetanol",
-      "tituloLimpio": "Empresa agropecuaria invertirá US$ 70 millones para ampliar producción de bioetanol en Argentina",
-      "resumen": "La inversión superará los 900 metros cúbicos diarios de elaboración del biocombustible y agregará valor a 800.000 toneladas de maíz por año.",
-      "porQueImporta": "Muestra una inversión significativa en el sector agroindustrial argentino, con impacto en la economía local y la producción de energía renovable.",
-      "publicadoEn": "2026-07-30T12:20:14.000Z",
-      "imagen": "https://www.clarin.com/img/2017/04/07/HkEV6Prpx_1200x630.jpg",
-      "globalScore": 98,
+      "url": "https://www.clarin.com/rural/quebrar-ano-paralizada-principales-lacteas-reanudo-operaciones-comenzara-distribuir-productos-conurbano-boonaerense_0_QKD4MrHXDr.html",
+      "tituloOriginal": "Tras quebrar y estar casi un año paralizada, una de las principales lácteas reanudó sus operaciones y comenzará a distribuir sus productos en el conurbano bonaerense",
+      "tituloLimpio": "Una de las principales lácteas reanudó operaciones en Argentina tras quebrar y estar paralizada",
+      "resumen": "La firma de la localidad bonaerense empezó la producción de leche larga vida y otros productos esta semana. Actualmente, está procesando 40.000 litros diarios de leche, pero en los próximos días podría trepar hasta los 70.000.",
+      "porQueImporta": "Noticia relevante para la economía argentina, mostrando la recuperación de una empresa importante en el sector lácteo y su impacto en la distribución de productos en el conurbano bonaerense.",
+      "publicadoEn": "2026-07-30T15:40:28.000Z",
+      "imagen": "https://www.clarin.com/img/2025/08/25/jziz11dK5_1200x630__1.jpg",
+      "globalScore": 86,
       "personalScore": 100,
       "tags": [
-        "inversion",
-        "agro",
-        "bioetanol",
-        "argentina",
-        "economia"
+        "Argentina",
+        "Economía",
+        "Empresas",
+        "Producción"
       ],
       "tambienVistoEn": []
     },
@@ -396,48 +372,47 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/07/30/dolar-hoy-en-vivo-a-cuanto-se-negocian-todas-las-cotizaciones-minuto-a-minuto-este-jueves-30-de-julio/",
-      "tituloOriginal": "Dólar hoy en vivo: a cuánto se negocian todas las cotizaciones minuto a minuto este jueves 30 de julio",
-      "tituloLimpio": "Cotizaciones del dólar hoy en vivo: minuto a minuto este jueves 30 de julio",
-      "resumen": "El billete al público es ofrecido a $1.515 para la venta en el Banco Nación. El dólar blue se paga a $1.570. El BCRA compró ayer USD 36 millones.",
-      "porQueImporta": "Información esencial para cualquier persona en Argentina, ya que el valor del dólar impacta directamente en la economía personal y las decisiones de inversión.",
-      "publicadoEn": "2026-07-30T13:22:34.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/MIPCSSOZ3JG6BJG6MP2EPIYMPM.jpg?auth=04097573f6be54a71ab02aa90989ca48c0062cea2328904c6fb269929b24c6f2&smart=true&width=4500&height=2999",
+      "url": "https://www.infobae.com/economia/2026/07/30/utedyc-acordo-un-esquema-de-aumentos-con-ajustes-mensuales-por-inflacion-hasta-el-cierre-de-2026/",
+      "tituloOriginal": "UTEDYC acordó un esquema de aumentos con ajustes mensuales por inflación hasta el cierre de 2026",
+      "tituloLimpio": "UTEDYC acordó un esquema de aumentos con ajustes mensuales por inflación hasta el cierre de 2026",
+      "resumen": "El nuevo acuerdo impacta en la actualización automática de haberes para quienes trabajan en mutuales, con referencias directas al índice de precios informado oficialmente.",
+      "porQueImporta": "Esta noticia es importante para entender la dinámica salarial y el impacto de la inflación en Argentina, afectando a un sector de trabajadores y reflejando la situación económica general.",
+      "publicadoEn": "2026-07-30T17:33:02.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/ZKC6GCUQV5DVHM7J5DATIE7VH4.jpg?auth=4dd69930e6656b952d6ee4e10593b6d319b2bdc18257b5001d7057e53fd17cfe&smart=true&width=1920&height=1080",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "dolar",
-        "cotizacion",
-        "argentina",
-        "finanzas",
-        "mercado"
+        "Argentina",
+        "Economía",
+        "Salarios",
+        "Inflación"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
-      "categoria": "Marketing",
-      "fuente": "Adweek",
-      "url": "https://www.adweek.com/brand-marketing/adidas-world-cup-win-comes-at-a-cost-as-q2-marketing-spend-tops-1-billion/",
-      "tituloOriginal": "Adidas’ World Cup Win Comes at a Cost as Q2 Marketing Spend Tops $1 Billion",
-      "tituloLimpio": "El gasto de marketing de Adidas en el segundo trimestre supera los US$ 1.000 millones",
-      "resumen": "El gasto de marketing de Adidas en el segundo trimestre superó los US$ 1.000 millones al apostar por el torneo con la ayuda de Timothée Chalamet.",
-      "porQueImporta": "Muestra la magnitud de las inversiones en marketing de grandes marcas y las estrategias de celebridades, útil para entender tendencias en la industria del marketing.",
-      "publicadoEn": "2026-07-30T07:27:37.000Z",
-      "globalScore": 94,
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/campo/belgica-primer-comprador-la-argentina-exporto-un-10-mas-de-carne-de-caballo-y-mantiene-el-segundo-nid30072026/",
+      "tituloOriginal": "Bélgica, primer comprador: la Argentina exportó un 10% más de carne de caballo y mantiene el segundo puesto como jugador mundial",
+      "tituloLimpio": "Argentina exportó un 10% más de carne de caballo y mantiene el segundo puesto mundial",
+      "resumen": "Entre enero y junio de 2026 se colocaron 7070 toneladas; en valor las ventas subieron un 42%, a US$29,6 millones.",
+      "porQueImporta": "Esta noticia destaca un sector de la economía argentina con crecimiento en exportaciones, relevante para entender la diversificación de la producción y el comercio exterior del país.",
+      "publicadoEn": "2026-07-30T18:04:15.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/ZDSN4OZ5ZVGCPN6BGWGLXHU3PM.jpg?auth=951d482d5a1156d895ef47a24b7b84337a38573934a56f22ac75f2c0e95c96da&smart=true&width=2000&height=1333",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "adidas",
-        "marketing",
-        "gasto",
-        "marcas",
-        "publicidad"
+        "Argentina",
+        "Economía",
+        "Exportación",
+        "Comercio"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-07-30T14:08:21.068Z"
+    "generadoEn": "2026-07-30T18:15:07.073Z"
   }
 }
