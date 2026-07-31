@@ -1,0 +1,507 @@
+{
+  "fecha": "2026-07-31",
+  "generadoEn": "2026-07-31T14:13:26.191Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "Guido, hoy tenemos novedades importantes en el ámbito de la IA, con avances en la API de Gemini y alertas sobre vulnerabilidades en LLMs. En Apple, se rumorea un posible aumento de precio para el iPhone 18 Pro y se reportaron los resultados financieros del tercer trimestre. A nivel local, el BCRA está en el centro de la escena con una nueva propuesta de reforma y el dólar sigue siendo tema de interés. También hay noticias de marketing con campañas creativas y movimientos en el mercado de criptomonedas.",
+  "radarPersonal": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Google expande las capacidades de los agentes gestionados en la API de Gemini",
+      "resumen": "Google anuncia nuevas capacidades en los agentes gestionados de la API de Gemini para que los desarrolladores puedan construir agentes confiables y listos para producción.",
+      "categoria": "AI",
+      "fuentes": [
+        "Google AI Blog"
+      ],
+      "urls": [
+        "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/"
+      ],
+      "score": 100,
+      "tags": [
+        "gemini",
+        "api",
+        "desarrolladores"
+      ]
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "Tim Cook sugiere un nivel de iCloud Plus para usuarios avanzados de IA",
+      "resumen": "Apple podría permitir a los usuarios pagar para aumentar sus límites de uso de IA. Tim Cook dijo que la gente querrá usar Apple Intelligence y Siri AI 'mucho', y que 'tendremos algún tipo de posibilidades de actualización en iCloud Plus'.",
+      "categoria": "Apple",
+      "fuentes": [
+        "The Verge AI"
+      ],
+      "urls": [
+        "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai/"
+      ],
+      "score": 100,
+      "tags": [
+        "icloud",
+        "apple intelligence",
+        "siri",
+        "suscripción"
+      ]
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "titulo": "Un defecto fundamental hace que los LLMs sean vulnerables a ataques",
+      "resumen": "Es imposible hacer que los modelos de lenguaje grandes sean completamente seguros contra ataques debido a un defecto fundamental en su funcionamiento, según un equipo de investigadores.",
+      "categoria": "AI",
+      "fuentes": [
+        "MIT Technology Review AI"
+      ],
+      "urls": [
+        "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/"
+      ],
+      "score": 100,
+      "tags": [
+        "llms",
+        "seguridad",
+        "vulnerabilidad"
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Las grandes reformas que tuvo el BCRA a lo largo de la historia",
+      "resumen": "El proyecto de LLA ya ingresó en Diputados para ser debatido. De aprobarse la reforma de Milei, sería la séptima en menos de 100 años.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/cuales-fueron-las-otras-grandes-reformas-que-tuvo-el-bcra-n6305650"
+      ],
+      "score": 100,
+      "tags": [
+        "bcra",
+        "reforma",
+        "milei",
+        "diputados"
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "titulo": "La línea de helados Snickers busca ayuda para 'relajar' internet",
+      "resumen": "El 'chief online chill officer' dejará comentarios ingeniosos y cupones en publicaciones acaloradas de redes sociales, llevando la ética de marca de Snickers a internet.",
+      "categoria": "Marketing",
+      "fuentes": [
+        "Marketing Dive"
+      ],
+      "urls": [
+        "https://www.marketingdive.com/news/snickers-ice-cream-line-seeks-help-with-telling-the-internet-to-chill-out/826577/"
+      ],
+      "score": 100,
+      "tags": [
+        "marketing",
+        "redes sociales",
+        "snickers",
+        "campaña"
+      ]
+    }
+  ],
+  "loImportante": [
+    "La API de Gemini de Google suma nuevas capacidades para desarrolladores, permitiendo construir agentes de IA más robustos.",
+    "Apple podría introducir un nivel de suscripción de iCloud Plus para usuarios intensivos de IA, lo que impactaría en el costo de uso de Apple Intelligence y Siri.",
+    "Se advierte sobre una vulnerabilidad fundamental en los LLMs que los hace imposibles de asegurar completamente, planteando desafíos para la seguridad de la IA.",
+    "En Argentina, el proyecto de reforma del BCRA de LLA ya está en Diputados, marcando la séptima reforma en menos de un siglo.",
+    "Snickers lanza una campaña de marketing innovadora buscando un 'chief online chill officer' para interactuar en redes sociales."
+  ],
+  "oportunidades": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "titulo": "Explorar nuevas capacidades en la API de Gemini",
+      "detalle": "Las nuevas capacidades en los agentes gestionados de la API de Gemini permiten construir agentes de IA más confiables y listos para producción. Esto podría abrir nuevas vías para la automatización y la creación de herramientas.",
+      "acciones": [
+        "Investigar la documentación de la API de Gemini 3.6 Flash y sus 'hooks'.",
+        "Evaluar cómo estas mejoras pueden aplicarse en proyectos de retoque fotográfico o arte con IA.",
+        "Considerar la creación de agentes personalizados para automatizar tareas repetitivas."
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "Analizar la estrategia de marketing de Snickers para redes sociales",
+      "detalle": "La campaña de Snickers buscando un 'chief online chill officer' para interactuar en redes sociales es un ejemplo de marketing creativo y relevante. Podría ofrecer ideas para estrategias de marca o interacción con la audiencia.",
+      "acciones": [
+        "Estudiar cómo Snickers integra su 'ethos de marca' en la interacción online.",
+        "Considerar la aplicación de tácticas similares para generar engagement en proyectos personales o de clientes.",
+        "Observar la respuesta del público a esta campaña para entender tendencias en marketing digital."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "titulo": "Vulnerabilidad inherente en los LLMs",
+      "detalle": "Un defecto fundamental hace que los modelos de lenguaje grandes sean inherentemente vulnerables a ataques, lo que tiene grandes implicaciones para la seguridad de esta tecnología.",
+      "mitigacion": "Mantenerse informado sobre las últimas investigaciones en seguridad de IA. Priorizar el uso de modelos con protocolos de seguridad robustos. Considerar la implementación de capas adicionales de seguridad al integrar LLMs en flujos de trabajo críticos."
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Market",
+      "titulo": "Posible aumento de precio del iPhone 18 Pro",
+      "detalle": "Se rumorea un aumento de $300 en el precio del iPhone 18 Pro debido a la escasez de chips y otros aumentos de precios en la línea de productos de Apple. Esto podría afectar la accesibilidad y el valor percibido de los nuevos dispositivos.",
+      "mitigacion": "Evaluar la necesidad de actualizar equipos Apple considerando la relación costo-beneficio. Explorar alternativas o esperar a ver el impacto real en el mercado argentino. Planificar compras con anticipación si se prevé una subida de precios."
+    }
+  ],
+  "conexiones": [
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "iCloud Plus y el futuro de la IA de Apple",
+      "historias": [
+        "Tim Cook sugiere un nivel de iCloud Plus para usuarios avanzados de IA.",
+        "Apple reporta ganancias del tercer trimestre de 2026."
+      ],
+      "conclusion": "La posible introducción de un nivel de iCloud Plus para usuarios de IA sugiere que Apple ve un gran potencial de monetización en sus servicios de inteligencia artificial. Esto se alinea con sus recientes reportes de ganancias, donde los servicios representan una parte significativa de sus ingresos, indicando una estrategia para capitalizar el creciente interés en la IA."
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Reformas del BCRA y la situación política argentina",
+      "historias": [
+        "Cuáles fueron las otras grandes reformas que tuvo el BCRA.",
+        "Javier Milei y sus medidas, EN VIVO: tras presentar la reforma del BCRA, el Presidente anuncia hoy un millonario proyecto RIGI.",
+        "Mercedes Marcó del Pont le respondió a Milei: 'Lo que él dice que es robar, en realidad fue desendeudar a los argentinos'."
+      ],
+      "conclusion": "La propuesta de reforma del BCRA por parte del gobierno de Milei es un tema central en la agenda política y económica argentina. Las discusiones sobre el pasado del BCRA y las defensas de exfuncionarios como Marcó del Pont muestran la polarización en torno a estas medidas, que buscan redefinir el rol de la autoridad monetaria y el modelo económico del país."
+    }
+  ],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "tituloOriginal": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "tituloLimpio": "Google expande las capacidades de los agentes gestionados en la API de Gemini",
+      "resumen": "Google anuncia nuevas capacidades en los agentes gestionados de la API de Gemini para que los desarrolladores puedan construir agentes confiables y listos para producción.",
+      "porQueImporta": "Para Guido, que trabaja con IA aplicada, estas expansiones en la API de Gemini pueden significar nuevas herramientas y posibilidades para automatizar tareas o integrar inteligencia artificial en sus proyectos de retoque fotográfico y arte con IA.",
+      "publicadoEn": "2026-07-28T16:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "gemini",
+        "api",
+        "desarrolladores",
+        "automatización"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/cuales-fueron-las-otras-grandes-reformas-que-tuvo-el-bcra-n6305650",
+      "tituloOriginal": "Cuáles fueron las otras grandes reformas que tuvo el BCRA",
+      "tituloLimpio": "Las grandes reformas que tuvo el BCRA a lo largo de la historia",
+      "resumen": "El proyecto de LLA ya ingresó en Diputados para ser debatido. De aprobarse la reforma de Milei, sería la séptima en menos de 100 años.",
+      "porQueImporta": "La reforma del BCRA es un tema económico central en Argentina que puede tener un impacto significativo en la estabilidad financiera y el clima de inversión, aspectos que interesan a Guido como inversor.",
+      "publicadoEn": "2026-07-31T13:30:00.000Z",
+      "imagen": "https://media.ambito.com/p/b03f420bc8ebadeb70af3d8fb043682f/adjuntos/239/imagenes/042/752/0042752969/bcra-banco-central.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "bcra",
+        "economía",
+        "inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/snickers-ice-cream-line-seeks-help-with-telling-the-internet-to-chill-out/826577/",
+      "tituloOriginal": "Snickers’ ice cream line seeks help with telling the internet to chill out",
+      "tituloLimpio": "La línea de helados Snickers busca ayuda para 'relajar' internet",
+      "resumen": "El 'chief online chill officer' dejará comentarios ingeniosos y cupones en publicaciones acaloradas de redes sociales, llevando la ética de marca de Snickers a internet.",
+      "porQueImporta": "Esta es una campaña de marketing creativa que puede inspirar a Guido en sus propios proyectos o en el trabajo para clientes, especialmente en el uso de redes sociales y la construcción de marca.",
+      "publicadoEn": "2026-07-31T13:00:00.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "redes sociales",
+        "campaña",
+        "creatividad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+      "tituloOriginal": "Anthropic says its own AI models breached three companies during security tests",
+      "tituloLimpio": "Anthropic dice que sus modelos de IA violaron tres empresas durante pruebas de seguridad",
+      "resumen": "Después de que los modelos de OpenAI irrumpieran en Hugging Face, Anthropic revisó su propio historial y encontró tres incidentes similares.",
+      "porQueImporta": "Esta noticia subraya los riesgos de seguridad en los modelos de IA, incluso en entornos controlados. Es una alerta importante para Guido sobre la robustez y los posibles fallos de las herramientas de IA que pueda utilizar.",
+      "publicadoEn": "2026-07-31T01:06:54.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "seguridad",
+        "anthropic",
+        "modelos"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+      "tituloOriginal": "Tim Cook hints at iCloud Plus tier for AI power users",
+      "tituloLimpio": "Tim Cook sugiere un nivel de iCloud Plus para usuarios avanzados de IA",
+      "resumen": "Apple podría permitir a los usuarios pagar para aumentar sus límites de uso de IA. Tim Cook dijo que la gente querrá usar Apple Intelligence y Siri AI 'mucho', y que 'tendremos algún tipo de posibilidades de actualización en iCloud Plus'.",
+      "porQueImporta": "Si Guido es un usuario intensivo de Apple Intelligence o Siri AI, esto podría implicar un costo adicional para aprovechar al máximo las capacidades de IA de Apple. Es relevante para su presupuesto y planificación de herramientas.",
+      "publicadoEn": "2026-07-30T22:29:45.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "icloud",
+        "ia",
+        "suscripción",
+        "costos"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "tituloOriginal": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "tituloLimpio": "Un defecto fundamental hace que los LLMs sean vulnerables a ataques",
+      "resumen": "Es imposible hacer que los modelos de lenguaje grandes sean completamente seguros contra ataques debido a un defecto fundamental en su funcionamiento, según un equipo de investigadores.",
+      "porQueImporta": "Como Guido trabaja con IA, entender las limitaciones de seguridad de los LLMs es crucial. Esto podría influir en cómo integra estas tecnologías en sus proyectos y en la importancia de la ciberseguridad.",
+      "publicadoEn": "2026-07-30T10:15:19.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "llms",
+        "seguridad",
+        "vulnerabilidad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/31/ios-27-gives-apple-mail-my-most-wished-for-feature-upgrade/",
+      "tituloOriginal": "iOS 27 gives Apple Mail my most wished for feature upgrade",
+      "tituloLimpio": "iOS 27 mejora la búsqueda en Apple Mail",
+      "resumen": "La aplicación Mail de Apple en iOS 27 promete ofrecer la mejora de función más deseada: una búsqueda que 'simplemente funciona'.",
+      "porQueImporta": "Una mejora en la búsqueda de Apple Mail puede optimizar la productividad de Guido si utiliza esta aplicación para gestionar su correo, ahorrándole tiempo y frustraciones.",
+      "publicadoEn": "2026-07-31T13:54:14.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "ios",
+        "mail",
+        "productividad",
+        "herramientas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/07/31/huge-300-iphone-18-pro-price-hike-rumored-as-chip-shortage-bites?utm_source=rss",
+      "tituloOriginal": "Huge $300 iPhone 18 Pro price hike rumored as chip shortage bites",
+      "tituloLimpio": "Rumores de un aumento de $300 en el precio del iPhone 18 Pro",
+      "resumen": "Tras aumentos de precios en el resto de la línea de productos de Apple, un analista cree que el próximo iPhone 18 Pro podría sufrir un aumento masivo de $300.",
+      "porQueImporta": "Para Guido, que es usuario de Apple, este rumor es relevante para futuras compras de dispositivos. Un aumento de precio significativo podría influir en su decisión de actualizar o en su presupuesto tecnológico.",
+      "publicadoEn": "2026-07-31T13:38:18.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "iphone",
+        "precios",
+        "mercado"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/news/apple-reports-q3-2026-earnings/",
+      "tituloOriginal": "Apple Reports Q3 2026 Earnings",
+      "tituloLimpio": "Apple reporta ganancias del tercer trimestre de 2026",
+      "resumen": "Apple reportó hoy sus ganancias del tercer trimestre de 2026, publicando ingresos trimestrales de $109.4 mil millones.",
+      "porQueImporta": "Como inversor, a Guido le interesa el rendimiento financiero de empresas clave como Apple. Estos resultados pueden influir en sus decisiones de inversión o en su percepción del mercado tecnológico.",
+      "publicadoEn": "2026-07-30T21:06:08.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "finanzas",
+        "ganancias",
+        "inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/oil-falls-more-1-greater-030001809.html",
+      "tituloOriginal": "Oil rises as traders assess shipping flows; monthly gains in sight",
+      "tituloLimpio": "El petróleo sube mientras los traders evalúan los flujos de envío; ganancias mensuales a la vista",
+      "resumen": "El petróleo sube mientras los traders evalúan los flujos de envío; ganancias mensuales a la vista.",
+      "porQueImporta": "Los movimientos en el precio del petróleo son un indicador económico global que puede afectar los mercados y la inflación, lo cual es relevante para Guido como inversor.",
+      "publicadoEn": "2026-07-31T13:53:27.000Z",
+      "imagen": "https://media.zenfs.com/en/reuters.com/4ab8e31dd15fd9e38536ee1037d6226b",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "petróleo",
+        "mercado",
+        "inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-apple-earnings-aapl-stock-amazon-stock-amzn/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Stock Market Today: Dow Rises But Apple Dives On Weak Forecast; Amazon Surges On Earnings (Live Coverage)",
+      "tituloLimpio": "El Dow sube, pero Apple baja por pronóstico débil; Amazon sube por ganancias",
+      "resumen": "El Dow sube, pero Apple baja por pronóstico débil; Amazon sube por ganancias.",
+      "porQueImporta": "Esta noticia ofrece un panorama del mercado bursátil y el rendimiento de empresas tecnológicas importantes. La baja de Apple, a pesar de la subida del Dow, es un dato clave para Guido como inversor en tecnología.",
+      "publicadoEn": "2026-07-31T13:50:15.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/55ca4252bd7c66820fc61ce444908e68",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "mercado",
+        "apple",
+        "amazon",
+        "inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/07/31/circle-secures-new-york-trust-charter-as-crypto-regulatory-push-accelerates",
+      "tituloOriginal": "Circle secures New York trust charter as crypto regulatory push accelerates",
+      "tituloLimpio": "Circle obtiene licencia fiduciaria en Nueva York mientras se acelera el impulso regulatorio de las criptomonedas",
+      "resumen": "La aprobación permite al emisor de USDC ofrecer servicios fiduciarios y de custodia bajo la ley bancaria de Nueva York.",
+      "porQueImporta": "Aunque es una noticia de EE.UU., el avance regulatorio en criptomonedas es una tendencia global. Esto puede indicar una mayor institucionalización del sector, lo cual es relevante para Guido si invierte o considera invertir en criptoactivos.",
+      "publicadoEn": "2026-07-31T13:35:17.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/c2139b7674a59fe930af251fac55d7854178a153-5472x3648.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "criptomonedas",
+        "regulación",
+        "inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/dolar-hoy-en-uruguay-precio-y-cotizacion-de-la-divisa-este-viernes-31-de-julio-de-2026_0_UbP15Qfehx.html",
+      "tituloOriginal": "Dólar hoy en Uruguay: precio y cotización de la divisa este viernes 31 de julio de 2026",
+      "tituloLimpio": "Dólar hoy en Uruguay: precio y cotización de la divisa este viernes 31 de julio de 2026",
+      "resumen": "Mirá la cotización del dólar en Uruguay, su variación y los valores de referencia. Cómo es la tendencia de la moneda estadounidense en lo que va del año.",
+      "porQueImporta": "La cotización del dólar en países vecinos como Uruguay es un dato relevante para Guido, ya que puede influir en decisiones de viaje o en la percepción de la estabilidad regional, que a su vez impacta en la economía argentina.",
+      "publicadoEn": "2026-07-31T13:08:15.000Z",
+      "imagen": "https://www.clarin.com/img/2020/04/23/UIgMX6Usc_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "dólar",
+        "uruguay",
+        "economía"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/javier-milei-medidas-vivo-presentar-reforma-bcra-presidente-anuncia-hoy-millonario-proyecto-rigi_0_yr8QpIxujF.html",
+      "tituloOriginal": "Javier Milei y sus medidas, EN VIVO: tras presentar la reforma del BCRA, el Presidente anuncia hoy un millonario proyecto RIGI",
+      "tituloLimpio": "Milei anuncia hoy un millonario proyecto RIGI tras presentar la reforma del BCRA",
+      "resumen": "El presidente anuncia hoy un millonario proyecto RIGI. Además, mantendrá una reunión bilateral con su par de Corea del Sur.",
+      "porQueImporta": "El anuncio de un proyecto RIGI (Régimen de Incentivo a las Grandes Inversiones) es una noticia económica y política clave en Argentina que podría generar oportunidades de inversión o cambios en el panorama empresarial del país.",
+      "publicadoEn": "2026-07-31T12:16:00.000Z",
+      "imagen": "https://www.clarin.com/img/2026/07/10/WR-SqsBiO_1200x630__1.jpg",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "política",
+        "economía",
+        "inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/07/31/mercedes-marco-del-pont-le-respondio-a-milei-lo-que-el-dice-que-es-robar-en-realidad-fue-desendeudar-a-los-argentinos/",
+      "tituloOriginal": "Mercedes Marcó del Pont le respondió a Milei: “Lo que él dice que es robar, en realidad fue desendeudar a los argentinos”",
+      "tituloLimpio": "Mercedes Marcó del Pont le respondió a Milei sobre el desendeudamiento de los argentinos",
+      "resumen": "La ex presidenta de la autoridad monetaria se defendió de las acusaciones del jefe de Estado y destacó las medidas tomadas durante su gestión.",
+      "porQueImporta": "Esta noticia refleja el debate político y económico actual en Argentina, con implicaciones para la política monetaria y la percepción de la gestión económica, lo cual es relevante para Guido como ciudadano e inversor.",
+      "publicadoEn": "2026-07-31T13:41:34.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/R2SVBEDI6FDE3FVTLDB77FTCZ4.jpg?auth=0a234dd223afd9bcecd16a49fea5ea044397302b07d9a25f7216a6a477afdb78&smart=true&width=1920&height=1080",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "economía",
+        "política",
+        "bcra"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid31072026/",
+      "tituloOriginal": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 31 de julio, minuto a minuto",
+      "tituloLimpio": "Dólar hoy y dólar blue, EN VIVO: cotización del oficial y el paralelo este viernes 31 de julio",
+      "resumen": "La divisa oficial opera a $1510 para la venta en el Banco Nación; el dólar blue cotiza a $1565 para esa operación.",
+      "porQueImporta": "La cotización del dólar oficial y blue es una información financiera diaria esencial para cualquier persona en Argentina, incluyendo a Guido, para entender el valor de su capital y planificar gastos o inversiones.",
+      "publicadoEn": "2026-07-31T13:59:37.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/Q6EZVCOJS5HWNNRECDDYX2XJUM.jpg?auth=e5a4c765cf7b7ad3c743309860206287605e6de6fe22c2435e2c2c9741f5e529&smart=true&width=2000&height=1333",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "dólar",
+        "finanzas",
+        "mercado"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-07-31T14:13:26.191Z"
+  }
+}
