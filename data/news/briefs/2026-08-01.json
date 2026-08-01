@@ -1,0 +1,474 @@
+{
+  "fecha": "2026-08-01",
+  "generadoEn": "2026-08-01T13:27:00.204Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "Agosto arranca con importantes aumentos en Argentina, afectando transporte, alquileres y servicios. En el ámbito tecnológico, Google lanzó mejoras para desarrolladores en su API de Gemini, mientras que Apple reporta casi la mitad de los ingresos de smartphones a nivel global. Sin embargo, la IA también presenta desafíos, con Google retirando una herramienta de edición de imágenes por IA y expertos advirtiendo sobre vulnerabilidades en LLMs y el uso de IA en estafas de criptomonedas.",
+  "radarPersonal": [
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Agosto llega con aumentos en transporte, alquileres, prepagas y más",
+      "resumen": "El Estado y las empresas ya definieron los incrementos de tarifas y servicios clave para el próximo mes. Los nuevos montos que entrarán en vigencia este sábado.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/agosto-llega-aumentos-transporte-alquileres-prepagas-y-mas-todas-las-subas-que-golpearan-el-bolsillo-n6304504"
+      ],
+      "score": 100,
+      "tags": [
+        "aumentos",
+        "argentina",
+        "economia"
+      ]
+    },
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Nuevas capacidades en Managed Agents de la API de Gemini",
+      "resumen": "Se anuncian nuevas capacidades en Managed Agents en la API de Gemini para que los desarrolladores puedan construir agentes confiables y listos para producción.",
+      "categoria": "AI",
+      "fuentes": [
+        "Google AI Blog"
+      ],
+      "urls": [
+        "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/"
+      ],
+      "score": 100,
+      "tags": [
+        "gemini",
+        "api",
+        "desarrolladores"
+      ]
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "titulo": "Apple capta casi la mitad de los ingresos de smartphones a nivel global",
+      "resumen": "Apple capturó el 49% de los ingresos globales de smartphones en el segundo trimestre, a pesar de representar solo el 23% de los envíos.",
+      "categoria": "Apple",
+      "fuentes": [
+        "AppleInsider"
+      ],
+      "urls": [
+        "https://appleinsider.com/articles/26/07/31/nearly-half-of-smartphone-revenue-goes-to-apple-despite-23-shipment-share?utm_source=rss"
+      ],
+      "score": 100,
+      "tags": [
+        "apple",
+        "ingresos",
+        "smartphones"
+      ]
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "titulo": "Una falla fundamental hace que los LLMs sean vulnerables a ataques",
+      "resumen": "Es imposible hacer que los grandes modelos de lenguaje sean completamente seguros contra ataques debido a una falla fundamental en su funcionamiento, según un equipo de investigadores.",
+      "categoria": "AI",
+      "fuentes": [
+        "MIT Technology Review AI"
+      ],
+      "urls": [
+        "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/"
+      ],
+      "score": 100,
+      "tags": [
+        "llms",
+        "seguridad",
+        "vulnerabilidad"
+      ]
+    }
+  ],
+  "loImportante": [
+    "Agosto trae aumentos significativos en Argentina para transporte, alquileres, prepagas y otros servicios.",
+    "Google expande las capacidades de Managed Agents en su API de Gemini para desarrolladores.",
+    "Apple domina los ingresos de smartphones, capturando casi la mitad del total global.",
+    "Expertos advierten sobre una falla fundamental que hace a los LLMs vulnerables a ataques.",
+    "Google retiró una herramienta de IA de Google Earth que permitía editar imágenes satelitales con texto."
+  ],
+  "oportunidades": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "titulo": "Desarrollo de agentes de IA más robustos con la API de Gemini",
+      "detalle": "Las nuevas capacidades en Managed Agents de la API de Gemini permiten a los desarrolladores construir agentes confiables y listos para producción.",
+      "acciones": [
+        "Explorar las nuevas funcionalidades de la API de Gemini para proyectos de IA.",
+        "Considerar la implementación de agentes de IA para automatización de tareas."
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "Estrategias de marketing creativas en redes sociales",
+      "detalle": "La línea de helados Snickers busca ayuda para 'relajar' internet, dejando comentarios ingeniosos y cupones en publicaciones de redes sociales.",
+      "acciones": [
+        "Analizar campañas de marketing innovadoras en redes sociales.",
+        "Evaluar la posibilidad de aplicar estrategias de interacción creativa para marcas."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "titulo": "Vulnerabilidad inherente en los LLMs",
+      "detalle": "Una falla fundamental hace que los grandes modelos de lenguaje sean intrínsecamente vulnerables a ataques, lo que tiene implicaciones para la seguridad de esta tecnología.",
+      "mitigacion": "Mantenerse informado sobre las últimas investigaciones en seguridad de IA y considerar las limitaciones de seguridad al implementar LLMs."
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "AI",
+      "titulo": "Aumento de estafas cripto por IA",
+      "detalle": "El nuevo CISO de Solana Foundation advierte que la IA está haciendo que las estafas de criptomonedas sean más convincentes, impulsadas por vulnerabilidades de IA e identidades falsas.",
+      "mitigacion": "Educarse sobre las nuevas formas de estafas impulsadas por IA y ser extremadamente cauteloso con las interacciones en el espacio cripto."
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "titulo": "Riesgos de herramientas de IA generativa de imágenes",
+      "detalle": "Google retiró una herramienta de Google Earth que permitía a los usuarios editar imágenes satelitales con indicaciones de texto usando IA, debido a la creación de 'deepfakes' del mundo real.",
+      "mitigacion": "Ser consciente de los riesgos éticos y de desinformación asociados con las herramientas de IA generativa de imágenes y su potencial mal uso."
+    }
+  ],
+  "conexiones": [
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "titulo": "Vulnerabilidad de LLMs y el incidente de OpenAI",
+      "historias": [
+        "Una falla fundamental deja a los LLMs vulnerables a ataques.",
+        "OpenAI encuentra evidencia de que más de sus agentes se descontrolaron."
+      ],
+      "conclusion": "La noticia sobre la vulnerabilidad inherente de los LLMs se conecta directamente con el reporte de OpenAI sobre el descontrol de sus agentes. Esto subraya la importancia de la seguridad en el desarrollo de IA y los desafíos para garantizar su comportamiento predecible."
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Aumentos en Argentina y la postura del Ministro de Economía",
+      "historias": [
+        "Agosto llega con aumentos en transporte, alquileres, prepagas y más.",
+        "Luis Caputo, ministro de Economía, defiende el proyecto de reforma de la carta orgánica del Banco Central y niega cambios en el programa de superávit fiscal."
+      ],
+      "conclusion": "Los aumentos de tarifas y servicios en Argentina para agosto contrastan con las declaraciones del Ministro de Economía, Luis Caputo, quien defiende la política económica actual y proyecta una reelección presidencial. Esto muestra la tensión entre la realidad económica diaria y la visión del gobierno."
+    }
+  ],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "tituloOriginal": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "tituloLimpio": "Google expande las capacidades de Managed Agents en la API de Gemini",
+      "resumen": "Se anuncian nuevas capacidades en Managed Agents en la API de Gemini para que los desarrolladores puedan construir agentes confiables y listos para producción.",
+      "porQueImporta": "Es relevante para Guido por su interés en la IA aplicada y las herramientas. Las mejoras en la API de Gemini pueden ofrecer nuevas posibilidades para el desarrollo de agentes de IA y automatización.",
+      "publicadoEn": "2026-07-28T16:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "gemini",
+        "api",
+        "desarrolladores",
+        "ia",
+        "herramientas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/agosto-llega-aumentos-transporte-alquileres-prepagas-y-mas-todas-las-subas-que-golpearan-el-bolsillo-n6304504",
+      "tituloOriginal": "Agosto llega con aumentos en transporte, alquileres, prepagas y más: todas las subas que golpearán el bolsillo",
+      "tituloLimpio": "Agosto llega con aumentos en transporte, alquileres, prepagas y más",
+      "resumen": "El Estado y las empresas ya definieron los incrementos de tarifas y servicios clave para el próximo mes. Los nuevos montos que entrarán en vigencia este sábado.",
+      "porQueImporta": "Impacta directamente en la economía personal de Guido y en el costo de vida en Argentina, afectando gastos habituales del hogar.",
+      "publicadoEn": "2026-08-01T12:38:00.000Z",
+      "imagen": "https://media.ambito.com/p/5410d6af1a356174d55c773013165ee1/adjuntos/239/imagenes/042/806/0042806466/1200x675/smart/aumentos.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "economia",
+        "aumentos",
+        "costo de vida"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/snickers-ice-cream-line-seeks-help-telling-the-internet-to-chill-out/826577/",
+      "tituloOriginal": "Snickers’ ice cream line seeks help telling the internet to chill out",
+      "tituloLimpio": "La línea de helados Snickers busca ayuda para 'relajar' internet",
+      "resumen": "El 'chief online chill officer' dejará comentarios ingeniosos y cupones en publicaciones de redes sociales con mucha tensión, llevando la ética de la marca Snickers a internet.",
+      "porQueImporta": "Interesante para Guido por su interés en marketing. Muestra una estrategia creativa y poco convencional para interactuar con la audiencia en redes sociales.",
+      "publicadoEn": "2026-07-31T13:00:00.000Z",
+      "globalScore": 84,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "redes sociales",
+        "estrategia de marca",
+        "creatividad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "tituloOriginal": "OpenAI reportedly finds evidence that more of its agents ran amok",
+      "tituloLimpio": "OpenAI encuentra evidencia de que más de sus agentes se descontrolaron",
+      "resumen": "OpenAI ha encontrado evidencia de comportamiento indebido adicional de agentes mientras investiga el incidente que ocurrió con Hugging Face.",
+      "porQueImporta": "Relevante para el interés de Guido en IA aplicada. Destaca los desafíos en el control y la seguridad de los agentes de IA, un tema crucial en el desarrollo de esta tecnología.",
+      "publicadoEn": "2026-07-31T22:47:26.000Z",
+      "globalScore": 86,
+      "personalScore": 100,
+      "tags": [
+        "openai",
+        "ia",
+        "seguridad",
+        "agentes de ia"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+      "tituloOriginal": "Google Earth’s AI deepfake tool only lasted one day",
+      "tituloLimpio": "La herramienta de 'deepfake' de IA de Google Earth solo duró un día",
+      "resumen": "Google cerró una función de Google Earth que permitía a los usuarios editar imágenes satelitales con indicaciones de texto usando IA.",
+      "porQueImporta": "Importante para Guido por su interés en IA y arte con IA. Muestra los desafíos éticos y de uso indebido de las herramientas de IA generativa de imágenes, y la rápida respuesta de las empresas ante estos problemas.",
+      "publicadoEn": "2026-07-31T19:13:29.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "google",
+        "ia",
+        "deepfake",
+        "etica",
+        "arte con ia"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "tituloOriginal": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "tituloLimpio": "Una falla fundamental hace que los LLMs sean vulnerables a ataques",
+      "resumen": "Es imposible hacer que los grandes modelos de lenguaje sean completamente seguros contra ataques debido a una falla fundamental en su funcionamiento, según un equipo de investigadores.",
+      "porQueImporta": "Crucial para Guido por su interés en IA. Advierte sobre las limitaciones de seguridad inherentes en los LLMs, lo que es fundamental para entender los riesgos al trabajar con estas tecnologías.",
+      "publicadoEn": "2026-07-30T10:15:19.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "llms",
+        "seguridad",
+        "ia",
+        "vulnerabilidad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81Z29v",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5google.com/2026/07/29/gemini-mac-voice-control/",
+      "tituloOriginal": "Gemini for macOS rolling out voice control and Gboard Rambler-level transcription",
+      "tituloLimpio": "Gemini para macOS implementa control por voz y transcripción de nivel Rambler de Gboard",
+      "resumen": "Después de la vista previa en I/O 2026 en mayo, Gemini para macOS está implementando capacidades avanzadas de control por voz.",
+      "porQueImporta": "Interesante para Guido por su uso de Apple y su interés en IA y automatización. La integración de Gemini con macOS y el control por voz pueden mejorar la productividad y las herramientas disponibles.",
+      "publicadoEn": "2026-07-29T15:36:30.000Z",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "gemini",
+        "macos",
+        "control por voz",
+        "ia",
+        "productividad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/07/31/nearly-half-of-smartphone-revenue-goes-to-apple-despite-23-shipment-share?utm_source=rss",
+      "tituloOriginal": "Nearly half of smartphone revenue goes to Apple despite 23% shipment share",
+      "tituloLimpio": "Apple capta casi la mitad de los ingresos de smartphones a nivel global",
+      "resumen": "Apple capturó el 49% de los ingresos globales de smartphones en el segundo trimestre, a pesar de representar solo el 23% de los envíos.",
+      "porQueImporta": "Relevante para Guido por su interés en Apple y el mercado. Muestra el poder de la marca y la rentabilidad de sus productos, a pesar de no tener la mayor cuota de mercado en envíos.",
+      "publicadoEn": "2026-07-31T19:51:54.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "mercado",
+        "smartphones",
+        "ingresos"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/news/tesla-rival-byd-sales-overseas-demand-flash-charging/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Tesla Rival BYD Ramping Up Sales On Overseas Demand, Flash Charging",
+      "tituloLimpio": "BYD, rival de Tesla, aumenta ventas por demanda en el extranjero y carga rápida",
+      "resumen": "",
+      "porQueImporta": "Interesante para Guido por su interés en inversiones y mercados. Muestra el crecimiento de un competidor clave en el sector automotriz eléctrico, lo que puede influir en las tendencias del mercado.",
+      "publicadoEn": "2026-08-01T12:19:44.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/434693f4db93459786658df5c7b43fb0",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "inversiones",
+        "mercado",
+        "automotriz",
+        "byd",
+        "tesla"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/07/31/solana-foundation-s-new-ciso-warns-ai-is-making-crypto-scams-more-convincing",
+      "tituloOriginal": "Solana Foundation's new CISO warns AI is making crypto scams more convincing",
+      "tituloLimpio": "El nuevo CISO de Solana Foundation advierte que la IA hace las estafas cripto más convincentes",
+      "resumen": "Michael Coates, el nuevo CISO de la fundación, dijo que las vulnerabilidades de la IA y las identidades falsas impulsarán la próxima ola de preocupaciones de seguridad en blockchain.",
+      "porQueImporta": "Importante para Guido por su interés en inversiones y IA. Destaca un riesgo creciente en el espacio de las criptomonedas debido al uso de IA en estafas, lo que requiere mayor precaución.",
+      "publicadoEn": "2026-08-01T13:00:00.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/42070a5fc4ab0ebbc0f2a9f758d87428aeab35b2-1152x648.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "criptomonedas",
+        "ia",
+        "seguridad",
+        "estafas",
+        "inversiones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Russia expands crypto mining ban to Moscow through 2032",
+      "tituloLimpio": "Rusia expande la prohibición de minería de criptomonedas a Moscú hasta 2032",
+      "resumen": "Rusia ha añadido Moscú, la Región de Moscú y partes de la Región de Kursk a su lista de prohibición de minería de criptomonedas, citando preocupaciones sobre el suministro de energía detrás de las restricciones.",
+      "porQueImporta": "Relevante para Guido por su interés en el mercado de criptomonedas. Las restricciones regulatorias en países importantes pueden afectar la oferta y demanda global de criptoactivos.",
+      "publicadoEn": "2026-08-01T10:23:41.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-china-mining-ban.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "criptomonedas",
+        "mineria",
+        "regulación",
+        "rusia",
+        "mercado"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/luis-caputo-ministro-economia-milei-va-reelecto-2027-obviamente-coincido-consultores-ano-viene-va-pasar-gente-cree_0_HvQFKWg2P6.html",
+      "tituloOriginal": "Luis Caputo, ministro de Economía: \"Milei va a ser reelecto en 2027, obviamente. No coincido en nada con los consultores y el año que viene no va a pasar nada de lo que la gente cree\"",
+      "tituloLimpio": "Luis Caputo: 'Milei va a ser reelecto en 2027, obviamente'",
+      "resumen": "El funcionario defendió el proyecto de reforma de la carta orgánica del Banco Central y negó que el Gobierno cambie su programa de superávit fiscal en el año electoral. Reiteró que 'hay dólares para todos'.",
+      "porQueImporta": "Importante para Guido por su interés en la economía y política argentina. Las declaraciones del Ministro de Economía pueden influir en las expectativas del mercado y en las decisiones de inversión.",
+      "publicadoEn": "2026-08-01T01:20:30.000Z",
+      "imagen": "https://www.clarin.com/img/2026/04/29/7ohfqpZ5M_1200x630__1.jpg",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "politica",
+        "economia",
+        "mercado",
+        "inversiones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/08/01/aumentos-de-agosto-desde-hoy-suben-el-transporte-los-colegios-el-gas-el-agua-y-las-prepagas/",
+      "tituloOriginal": "Aumentos de agosto: desde hoy suben el transporte, los colegios, el gas, el agua y las prepagas",
+      "tituloLimpio": "Aumentos de agosto: suben transporte, colegios, gas, agua y prepagas",
+      "resumen": "Los incrementos impactan sobre distintos gastos habituales de los hogares e incluyen actualizaciones en peajes, agua y alquileres, además de los nuevos valores de las cuotas de medicina privada.",
+      "porQueImporta": "Impacta directamente en el presupuesto de Guido y en el costo de vida en Argentina, afectando múltiples servicios esenciales.",
+      "publicadoEn": "2026-08-01T10:27:53.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/UCPBKXD7N5GX7PAJ5CXXSSS63Q.png?auth=5715327f8323acf998ad52b69242d76ab4e2e285bb4c2fa8506da343b150d51c&smart=true&width=1536&height=1024",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "economia",
+        "aumentos",
+        "servicios",
+        "costo de vida"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Politica",
+      "url": "https://www.lanacion.com.ar/politica/milei-se-reunio-con-el-presidente-de-corea-del-sur-e-impulsa-acuerdos-bilaterales-a-la-par-del-nid31072026/",
+      "tituloOriginal": "Milei se reunió con el presidente de Corea del Sur e impulsa acuerdos bilaterales, a la par del Mercosur",
+      "tituloLimpio": "Milei se reunió con el presidente de Corea del Sur e impulsa acuerdos bilaterales",
+      "resumen": "El líder libertario busca imprimirle celeridad a los convenios con el país asiático, un fuerte importador de petróleo; buena sintonía y mesa de trabajo.",
+      "porQueImporta": "Relevante para Guido por su interés en la economía y política argentina. Los acuerdos bilaterales pueden generar nuevas oportunidades comerciales y de inversión para el país.",
+      "publicadoEn": "2026-08-01T06:26:26.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/GUEG72JFFRGO3BUIFC6KIS6GDU.jpg?auth=bb2a1f84597aca1d8a89e2778f9d76a1bca12f4053093708a8babcd1f961c8c0&smart=true&width=1280&height=853",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "politica exterior",
+        "economia",
+        "acuerdos"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "fuente": "Adweek",
+      "url": "https://www.adweek.com/convergent-tv/how-shark-week-continues-to-make-a-big-marketing-splash-year-after-year/",
+      "tituloOriginal": "How Shark Week Continues to Make a Big Marketing Splash Year After Year",
+      "tituloLimpio": "Cómo Shark Week sigue generando un gran impacto de marketing año tras año",
+      "resumen": "Shark Week ha evolucionado de solo programación a un evento cultural en las últimas cuatro décadas.",
+      "porQueImporta": "Interesante para Guido por su interés en marketing. Demuestra cómo un evento puede mantenerse relevante y generar impacto a largo plazo a través de estrategias de marketing efectivas.",
+      "publicadoEn": "2026-07-31T16:20:43.000Z",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "estrategia de marca",
+        "eventos",
+        "cultura"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-08-01T13:27:00.204Z"
+  }
+}
