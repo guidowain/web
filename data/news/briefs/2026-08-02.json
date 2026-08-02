@@ -1,31 +1,13 @@
 {
   "fecha": "2026-08-02",
-  "generadoEn": "2026-08-02T13:27:07.724Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "En el panorama tecnológico, Apple ya tiene rumores sobre el iPhone 2028 y lanzó un nuevo programa de leasing, mientras que Google expande las capacidades de los Managed Agents en su API Gemini. En el ámbito de la IA, se debate sobre la compensación a artistas y se advierte sobre una vulnerabilidad fundamental en los LLMs. A nivel local, la inflación de julio en Argentina se estima cercana al 2%, y se discute la política económica y previsional. También hay novedades en el mercado cripto, que busca ofrecer exposición a activos tradicionales.",
+  "generadoEn": "2026-08-02T18:00:57.196Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "En el ámbito de la IA, Google expande las capacidades de los Managed Agents en Gemini API, mientras que se debate si pagar a los artistas es suficiente para que adopten la IA. Un estudio revela una vulnerabilidad fundamental en los LLMs. En Apple, se rumorea que los AirPods con cámaras podrían llegar pronto y Apple Fitness+ podría integrarse en las Apple Glasses. A nivel local, se destacan los acuerdos salariales de agosto en Argentina y un análisis sobre la conveniencia de viajar a países vecinos para comprar electrónica.",
   "radarPersonal": [
     {
-      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "Primeros detalles del iPhone 2028",
-      "resumen": "Ya circulan rumores sobre el iPhone de Apple de 2028, adelantando cómo la empresa planea evolucionar el diseño, la pantalla y las cámaras del dispositivo.",
-      "categoria": "Apple",
-      "fuentes": [
-        "MacRumors"
-      ],
-      "urls": [
-        "https://www.macrumors.com/2026/08/01/things-we-know-about-2028-iphone/"
-      ],
-      "score": 100,
-      "tags": [
-        "iphone",
-        "futuro",
-        "rumores"
-      ]
-    },
-    {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "titulo": "Google expande capacidades de Managed Agents en Gemini API",
-      "resumen": "Se anuncian nuevas capacidades en Managed Agents en la API de Gemini para que los desarrolladores puedan construir agentes confiables y listos para producción.",
+      "titulo": "Google expande las capacidades de los Managed Agents en Gemini API",
+      "resumen": "Se anuncian nuevas capacidades en los Managed Agents de Gemini API para que los desarrolladores puedan construir agentes confiables y listos para producción.",
       "categoria": "AI",
       "fuentes": [
         "Google AI Blog"
@@ -37,49 +19,70 @@
       "tags": [
         "gemini",
         "api",
-        "desarrollo"
+        "desarrolladores"
       ]
     },
     {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "Consultoras prevén inflación de julio cercana al 2%",
-      "resumen": "Las estimaciones privadas para julio son dispares, aunque la mayoría ubica la inflación entre 1,9% y 2,1%. Los analistas atribuyen la aceleración al impacto estacional de las vacaciones de invierno y al mayor ritmo de aumento en alimentos.",
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "titulo": "Rumores indican que los AirPods con cámaras de Apple podrían lanzarse el próximo mes",
+      "resumen": "Apple ha estado trabajando en AirPods equipados con cámaras, con la inteligencia visual como foco del producto. Se rumoreaba para este año, luego se pospuso, pero ahora hay una nueva posibilidad de ver la primera versión de AirPods con cámaras este año.",
+      "categoria": "Apple",
+      "fuentes": [
+        "9to5Mac"
+      ],
+      "urls": [
+        "https://9to5mac.com/2026/08/02/airpods-with-cameras-visual-intelligence-could-arrive-this-year/"
+      ],
+      "score": 100,
+      "tags": [
+        "airpods",
+        "cámaras",
+        "apple",
+        "rumores"
+      ]
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "titulo": "Ofertas de trabajo de Apple sugieren que Apple Fitness+ podría llegar a las Apple Glasses",
+      "resumen": "Apple Vision Pro es demasiado incómodo para yoga y cardio, pero el seguimiento de actividad física podría implementarse en una futura versión de las gafas inteligentes de Apple, según una oferta de trabajo.",
+      "categoria": "Apple",
+      "fuentes": [
+        "AppleInsider"
+      ],
+      "urls": [
+        "https://appleinsider.com/articles/26/08/02/apples-latest-job-listings-suggest-apple-fitness-could-come-to-apple-glasses?utm_source=rss"
+      ],
+      "score": 100,
+      "tags": [
+        "apple",
+        "fitness+",
+        "apple glasses",
+        "rumores"
+      ]
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "titulo": "¿Conviene viajar a países vecinos para comprar celulares y electrónica?",
+      "resumen": "Un relevamiento comparó en dólares diez productos en Argentina, Chile, Uruguay, Paraguay y Brasil, mientras especialistas analizan el impacto del acceso al mercado cambiario y el nuevo esquema de compras online.",
       "categoria": "Argentina",
       "fuentes": [
-        "Ambito"
+        "Infobae Economia"
       ],
       "urls": [
-        "https://www.ambito.com/economia/inflacion-julio-consultoras-preven-un-freno-la-desaceleracion-y-un-ipc-cercano-al-2-n6306131"
+        "https://www.infobae.com/economia/2026/08/02/conviene-ahora-viajar-para-comprar-celulares-y-electronica-en-paises-vecinos-precios-y-todo-lo-que-hay-que-saber/"
       ],
       "score": 100,
       "tags": [
-        "inflacion",
         "argentina",
-        "economia"
-      ]
-    },
-    {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "titulo": "¿Es suficiente pagar a los artistas para que adopten la IA?",
-      "resumen": "Ilustradores han alertado durante años sobre startups de IA generativa que entrenan sus modelos con el trabajo de artistas sin permiso. Han señalado que la práctica equivale a robo.",
-      "categoria": "AI",
-      "fuentes": [
-        "The Verge AI"
-      ],
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties"
-      ],
-      "score": 100,
-      "tags": [
-        "ia",
-        "artistas",
-        "derechos"
+        "electrónica",
+        "precios",
+        "viajes"
       ]
     },
     {
       "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "titulo": "Falla fundamental deja a los LLMs vulnerables a ataques",
-      "resumen": "Es imposible hacer que los grandes modelos de lenguaje sean completamente seguros contra ataques debido a una falla fundamental en su funcionamiento, argumenta un equipo de investigadores.",
+      "titulo": "Un defecto fundamental hace que los LLMs sean vulnerables a ataques",
+      "resumen": "Es imposible hacer que los grandes modelos de lenguaje sean completamente seguros contra ataques debido a un defecto fundamental en su funcionamiento, según un equipo de investigadores.",
       "categoria": "AI",
       "fuentes": [
         "MIT Technology Review AI"
@@ -89,48 +92,39 @@
       ],
       "score": 100,
       "tags": [
-        "llm",
+        "llms",
+        "vulnerabilidad",
         "seguridad",
-        "vulnerabilidad"
+        "ia"
       ]
     }
   ],
   "loImportante": [
-    "La inflación de julio en Argentina se proyecta cercana al 2%, con impacto estacional de vacaciones y alimentos.",
-    "Apple ya tiene rumores sobre el iPhone 2028, enfocándose en diseño, pantalla y cámaras.",
-    "Google expande las capacidades de sus Managed Agents en la API de Gemini, clave para desarrolladores.",
-    "Se debate la compensación a artistas por el uso de su trabajo en el entrenamiento de modelos de IA.",
-    "Investigadores advierten sobre una falla fundamental que hace a los LLMs inherentemente vulnerables a ataques."
+    "La expansión de capacidades en Gemini API para desarrolladores de agentes de IA.",
+    "Los rumores sobre AirPods con cámaras y la posible integración de Fitness+ en Apple Glasses.",
+    "La vulnerabilidad inherente de los grandes modelos de lenguaje (LLMs) a ataques.",
+    "Los acuerdos salariales de agosto en Argentina y la intervención del Gobierno en el mercado del dólar.",
+    "El análisis sobre la conveniencia de comprar electrónica en países vecinos para residentes argentinos."
   ],
   "oportunidades": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
       "categoria": "AI",
-      "titulo": "Desarrollo de agentes con Gemini API",
-      "detalle": "Las nuevas capacidades en Managed Agents de Gemini API permiten construir agentes confiables y listos para producción.",
+      "titulo": "Desarrollo de agentes de IA más robustos con Gemini API",
+      "detalle": "Las nuevas capacidades en los Managed Agents de Gemini API permiten a los desarrolladores construir agentes de IA más confiables y listos para producción.",
       "acciones": [
-        "Explorar las nuevas funcionalidades de Gemini API para desarrollo de agentes.",
-        "Considerar la integración de estas herramientas en proyectos de automatización o arte con IA."
-      ]
-    },
-    {
-      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
-      "categoria": "Investing",
-      "titulo": "Exposición a mercados tradicionales vía cripto",
-      "detalle": "Los exchanges de criptomonedas están usando futuros perpetuos para ofrecer exposición 24/7 a acciones, commodities e índices.",
-      "acciones": [
-        "Investigar cómo los futuros perpetuos en cripto pueden ofrecer acceso a mercados tradicionales.",
-        "Evaluar si esta nueva modalidad de inversión se alinea con la estrategia de ETFs y mercados."
+        "Explorar las nuevas funcionalidades de Gemini API para proyectos de IA.",
+        "Evaluar la aplicación de estas mejoras en la automatización de tareas."
       ]
     },
     {
       "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
       "categoria": "Marketing",
-      "titulo": "Estrategias de marketing viral y de marca",
-      "detalle": "La línea de helados Snickers busca un 'chief online chill officer' para dejar comentarios ingeniosos y cupones en publicaciones de redes sociales, llevando el espíritu de la marca al internet.",
+      "titulo": "Estrategia de marketing creativo de Snickers para redes sociales",
+      "detalle": "La línea de helados de Snickers busca un 'chief online chill officer' para dejar comentarios ingeniosos y cupones en publicaciones de redes sociales con contenido 'caliente', llevando el espíritu de la marca a internet.",
       "acciones": [
-        "Analizar la estrategia de Snickers para generar engagement y viralidad en redes sociales.",
-        "Considerar cómo aplicar tácticas similares de interacción de marca en proyectos de marketing."
+        "Analizar la campaña de Snickers como caso de estudio de marketing digital.",
+        "Considerar enfoques similares para generar interacción de marca en redes sociales."
       ]
     }
   ],
@@ -138,45 +132,19 @@
     {
       "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
       "categoria": "AI",
-      "titulo": "Vulnerabilidad inherente en LLMs",
-      "detalle": "Una falla fundamental en el funcionamiento de los grandes modelos de lenguaje los hace inherentemente vulnerables a ataques, lo que tiene implicaciones para la seguridad de esta tecnología.",
-      "mitigacion": "Mantenerse informado sobre las últimas investigaciones en seguridad de LLMs y considerar las implicaciones al implementar o depender de estas tecnologías en proyectos críticos."
-    },
-    {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "categoria": "AI",
-      "titulo": "Disputas por derechos de autor en IA generativa",
-      "detalle": "Ilustradores denuncian que startups de IA generativa entrenan modelos con su trabajo sin permiso, lo que podría llevar a batallas legales y afectar la adopción de la IA en el arte.",
-      "mitigacion": "Estar al tanto de la evolución de las leyes y regulaciones sobre derechos de autor en IA. Asegurarse de usar herramientas de IA que respeten la propiedad intelectual o que ofrezcan modelos de compensación justos."
+      "titulo": "Vulnerabilidad fundamental en los LLMs",
+      "detalle": "Un estudio sugiere que es imposible hacer que los grandes modelos de lenguaje sean completamente seguros contra ataques debido a un defecto fundamental en su funcionamiento.",
+      "mitigacion": "Mantenerse al tanto de las investigaciones sobre seguridad en LLMs. Implementar medidas de seguridad adicionales en aplicaciones que utilicen LLMs. Considerar los riesgos al desarrollar o integrar soluciones basadas en LLMs."
     },
     {
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "Regulatory",
-      "titulo": "Prohibición de apps de 'nudificación' por IA",
-      "detalle": "Un juez denegó la solicitud de xAI para bloquear la prohibición de Minnesota sobre aplicaciones que permiten 'nudificar' imágenes, lo que indica un posible endurecimiento regulatorio sobre ciertas aplicaciones de IA.",
-      "mitigacion": "Monitorear las tendencias regulatorias sobre el uso de IA, especialmente en aplicaciones que puedan generar contenido sensible o controvertido, para evitar problemas legales o de plataforma."
+      "titulo": "Prohibición de aplicaciones de 'nudificación' de imágenes en Minnesota",
+      "detalle": "Un juez denegó la solicitud de xAI para bloquear la prohibición de Minnesota sobre aplicaciones que permiten a los usuarios 'nudificar' imágenes, lo que permite que la prohibición avance.",
+      "mitigacion": "Monitorear el panorama regulatorio global sobre el uso de IA en la manipulación de imágenes. Asegurarse de que las herramientas de IA utilizadas o desarrolladas cumplan con las leyes y regulaciones locales e internacionales."
     }
   ],
-  "conexiones": [
-    {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "titulo": "El debate sobre la compensación a artistas y la IA",
-      "historias": [
-        "Ilustradores han alertado sobre el uso no autorizado de su trabajo para entrenar modelos de IA.",
-        "La práctica es vista como robo por los artistas, mientras que algunos defensores de la IA la consideran necesaria para la evolución tecnológica."
-      ],
-      "conclusion": "Este conflicto subraya la tensión entre el avance tecnológico y los derechos de propiedad intelectual, un punto crucial para Guido como artista de IA."
-    },
-    {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "titulo": "Vulnerabilidades en LLMs y su impacto",
-      "historias": [
-        "Investigadores señalan una falla fundamental que hace a los LLMs inherentemente vulnerables a ataques.",
-        "Esto tiene grandes implicaciones para la seguridad de la tecnología de IA."
-      ],
-      "conclusion": "La seguridad de los LLMs es un desafío crítico que podría afectar la confianza y la adopción de estas herramientas, relevante para cualquier proyecto que involucre IA."
-    }
-  ],
+  "conexiones": [],
   "noticias": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
@@ -184,37 +152,18 @@
       "fuente": "Google AI Blog",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
       "tituloOriginal": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "tituloLimpio": "Google expande las capacidades de Managed Agents en la API de Gemini",
-      "resumen": "Se anuncian nuevas capacidades en Managed Agents en la API de Gemini para que los desarrolladores puedan construir agentes confiables y listos para producción.",
-      "porQueImporta": "Directamente relevante para Guido por su interés en la IA aplicada y las herramientas de automatización. Las mejoras en la API de Gemini pueden abrir nuevas posibilidades para sus proyectos.",
+      "tituloLimpio": "Google expande las capacidades de los Managed Agents en Gemini API",
+      "resumen": "Se anuncian nuevas capacidades en los Managed Agents de Gemini API para que los desarrolladores puedan construir agentes confiables y listos para producción.",
+      "porQueImporta": "Es relevante para Guido por su interés en la IA aplicada y la automatización, ya que estas mejoras pueden facilitar el desarrollo de herramientas y soluciones más robustas.",
       "publicadoEn": "2026-07-28T16:00:00.000Z",
       "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp",
       "globalScore": 88,
       "personalScore": 100,
       "tags": [
-        "ia",
         "gemini",
-        "desarrollo",
-        "automatizacion"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "categoria": "Apple",
-      "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/08/01/things-we-know-about-2028-iphone/",
-      "tituloOriginal": "6 Things We Already Know About the 2028 iPhone",
-      "tituloLimpio": "Seis cosas que ya se saben sobre el iPhone 2028",
-      "resumen": "Ya circulan rumores sobre el iPhone de Apple de 2028, adelantando cómo la empresa planea evolucionar el diseño, la pantalla y las cámaras del dispositivo.",
-      "porQueImporta": "Guido, como usuario de Apple, siempre está interesado en las novedades y el futuro de los productos de la marca, incluso a largo plazo.",
-      "publicadoEn": "2026-08-02T01:00:10.000Z",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "apple",
-        "iphone",
-        "futuro"
+        "api",
+        "desarrolladores",
+        "ia"
       ],
       "tambienVistoEn": []
     },
@@ -222,19 +171,20 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/inflacion-julio-consultoras-preven-un-freno-la-desaceleracion-y-un-ipc-cercano-al-2-n6306131",
-      "tituloOriginal": "Inflación de julio: consultoras prevén un freno en la desaceleración y un IPC cercano al 2%",
-      "tituloLimpio": "Consultoras prevén un freno en la desaceleración de la inflación de julio, cercana al 2%",
-      "resumen": "Las estimaciones privadas para julio son dispares, aunque la mayoría ubica la inflación entre 1,9% y 2,1%. Los analistas atribuyen la aceleración al impacto estacional de las vacaciones de invierno y al mayor ritmo de aumento en alimentos.",
-      "porQueImporta": "Como residente en Argentina, la inflación es un tema económico central que afecta directamente su poder adquisitivo y decisiones de inversión.",
-      "publicadoEn": "2026-08-02T12:32:09.000Z",
-      "imagen": "https://media.ambito.com/p/7724b1adc6915169fe8406209441bf3a/adjuntos/239/imagenes/042/138/0042138258/inflacion-preciosjpg.jpg",
-      "globalScore": 98,
+      "url": "https://www.ambito.com/economia/salarios-uno-uno-cuales-son-los-gremios-que-acordaron-aumentos-agosto-n6306191",
+      "tituloOriginal": "Salarios: uno a uno, cuáles son los gremios que acordaron aumentos en agosto",
+      "tituloLimpio": "Gremios que acordaron aumentos salariales en agosto en Argentina",
+      "resumen": "La desaceleración de la inflación permitió acuerdos salariales levemente por encima para este mes, con sumas fijas de hasta $100.000. Sin embargo, los ingresos continúan bajo presión. Se detallan qué gremios acordaron aumentos.",
+      "porQueImporta": "Como residente en Argentina, la información sobre salarios e inflación es crucial para entender el contexto económico local y planificar finanzas personales.",
+      "publicadoEn": "2026-08-02T17:49:00.000Z",
+      "imagen": "https://media.ambito.com/p/1b1f53828cb148660ab5e40ca66eb880/adjuntos/239/imagenes/041/498/0041498717/salarios-inflacion.jpeg",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "inflacion",
-        "economia"
+        "salarios",
+        "inflación",
+        "economía"
       ],
       "tambienVistoEn": []
     },
@@ -244,16 +194,17 @@
       "fuente": "Marketing Dive",
       "url": "https://www.marketingdive.com/news/snickers-ice-cream-line-seeks-help-telling-the-internet-to-chill-out/826577/",
       "tituloOriginal": "Snickers’ ice cream line seeks help telling the internet to chill out",
-      "tituloLimpio": "La línea de helados Snickers busca ayuda para que internet se relaje",
-      "resumen": "El 'chief online chill officer' dejará comentarios ingeniosos y cupones en publicaciones de redes sociales, llevando el espíritu de la marca al internet.",
-      "porQueImporta": "Interesante ejemplo de marketing y engagement en redes sociales, relevante para Guido por su interés en el marketing y las estrategias de marca.",
+      "tituloLimpio": "La línea de helados de Snickers busca ayuda para que internet se relaje",
+      "resumen": "El 'chief online chill officer' dejará comentarios ingeniosos y cupones en publicaciones de redes sociales con contenido 'caliente', llevando el espíritu de la marca Snickers a internet.",
+      "porQueImporta": "Es un ejemplo creativo de marketing digital que puede inspirar nuevas estrategias o enfoques en el campo del marketing, de interés para Guido.",
       "publicadoEn": "2026-07-31T13:00:00.000Z",
       "globalScore": 84,
       "personalScore": 100,
       "tags": [
         "marketing",
         "redes sociales",
-        "estrategia"
+        "creatividad",
+        "marcas"
       ],
       "tambienVistoEn": []
     },
@@ -263,17 +214,17 @@
       "fuente": "TechCrunch AI",
       "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
       "tituloOriginal": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-      "tituloLimpio": "Juez niega solicitud de xAI para bloquear prohibición de Minnesota sobre apps de 'nudificación'",
-      "resumen": "A pesar de una demanda de xAI, una prohibición de Minnesota sobre aplicaciones que permiten 'nudificar' imágenes puede seguir adelante.",
-      "porQueImporta": "Muestra las implicaciones legales y éticas de la IA, especialmente en el ámbito de la manipulación de imágenes, relevante para Guido por su trabajo en retoque fotográfico y arte con IA.",
+      "tituloLimpio": "Juez deniega solicitud de xAI para bloquear prohibición de apps de 'nudificación' en Minnesota",
+      "resumen": "A pesar de una demanda de xAI, una prohibición en Minnesota sobre aplicaciones que permiten a los usuarios 'nudificar' imágenes puede seguir adelante.",
+      "porQueImporta": "Refleja el creciente debate legal y ético en torno a la IA generativa y la manipulación de imágenes, un tema relevante para Guido en su trabajo con IA y retoque fotográfico.",
       "publicadoEn": "2026-08-01T20:26:04.000Z",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "ia",
-        "legal",
-        "etica",
-        "imagenes"
+        "regulación",
+        "ética",
+        "aplicaciones"
       ],
       "tambienVistoEn": []
     },
@@ -284,8 +235,8 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
       "tituloOriginal": "Is paying artists enough to convince them to embrace AI?",
       "tituloLimpio": "¿Es suficiente pagar a los artistas para que adopten la IA?",
-      "resumen": "Ilustradores han alertado durante años sobre startups de IA generativa que entrenan sus modelos con el trabajo de artistas sin permiso. Han señalado que la práctica equivale a robo.",
-      "porQueImporta": "Este es un debate crucial para Guido, quien trabaja con arte con IA. Afecta directamente la ética, la legalidad y el futuro de su campo profesional.",
+      "resumen": "Ilustradores han alertado sobre startups de IA generativa que entrenan sus modelos con el trabajo de artistas sin permiso. Han señalado que la práctica equivale a robo, y en respuesta, muchos promotores de IA han argumentado que es necesario para la evolución de la tecnología.",
+      "porQueImporta": "Guido trabaja en arte con IA, por lo que este debate sobre derechos de autor y compensación a artistas es directamente relevante para su campo y la ética de su trabajo.",
       "publicadoEn": "2026-08-02T13:00:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
@@ -293,27 +244,7 @@
         "ia",
         "arte",
         "derechos de autor",
-        "etica"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "categoria": "AI",
-      "fuente": "MIT Technology Review AI",
-      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-      "tituloOriginal": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-      "tituloLimpio": "Una falla fundamental deja a los LLMs sorprendentemente vulnerables a ataques",
-      "resumen": "Es imposible hacer que los grandes modelos de lenguaje sean completamente seguros contra ataques debido a una falla fundamental en su funcionamiento, argumenta un equipo de investigadores.",
-      "porQueImporta": "La seguridad de las herramientas de IA es vital. Esta noticia advierte sobre una vulnerabilidad inherente en los LLMs, lo que puede influir en la elección y uso de estas tecnologías.",
-      "publicadoEn": "2026-07-30T10:15:19.000Z",
-      "globalScore": 90,
-      "personalScore": 100,
-      "tags": [
-        "ia",
-        "seguridad",
-        "llm",
-        "tecnologia"
+        "ética"
       ],
       "tambienVistoEn": []
     },
@@ -321,19 +252,60 @@
       "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Apple",
       "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/01/apple-upgrade-will-it-replace-apple-card-monhtly-installments/",
-      "tituloOriginal": "Apple Upgrade might’ve provided our first hint for what could change with Apple Card",
-      "tituloLimpio": "Apple Upgrade podría ser el primer indicio de cambios en Apple Card",
-      "resumen": "Esta semana, Apple lanzó Apple Upgrade, su nuevo programa de leasing para la mayoría de los productos Apple. Reemplaza por completo el iPhone Upgrade Program.",
-      "porQueImporta": "Aunque el programa Apple Upgrade no esté disponible en Argentina, la noticia es relevante porque indica una posible dirección estratégica de Apple en sus servicios financieros y de leasing, lo que puede tener un impacto global en el futuro.",
-      "publicadoEn": "2026-08-01T21:52:35.000Z",
-      "globalScore": 98,
+      "url": "https://9to5mac.com/2026/08/02/airpods-with-cameras-visual-intelligence-could-arrive-this-year/",
+      "tituloOriginal": "Apple’s rumored AirPods with cameras could potentially debut as soon as next month",
+      "tituloLimpio": "Los AirPods de Apple con cámaras podrían debutar el próximo mes",
+      "resumen": "Apple ha estado trabajando en AirPods equipados con cámaras, con la inteligencia visual como foco del producto. Este producto se había rumoreado inicialmente para este año, luego se pospuso, pero ahora hay una nueva posibilidad de ver la primera versión de AirPods con cámaras a finales de este año.",
+      "porQueImporta": "Guido es un lector interesado en Apple, y la posible llegada de AirPods con cámaras representa una innovación significativa en el ecosistema de la marca, con implicaciones para la fotografía y la IA visual.",
+      "publicadoEn": "2026-08-02T16:18:26.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "apple",
-        "servicios",
-        "leasing",
-        "finanzas"
+        "airpods",
+        "cámaras",
+        "innovación"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/08/02/apples-latest-job-listings-suggest-apple-fitness-could-come-to-apple-glasses?utm_source=rss",
+      "tituloOriginal": "Apple's latest job listings suggest Apple Fitness+ could come to Apple Glasses",
+      "tituloLimpio": "Ofertas de trabajo de Apple sugieren que Apple Fitness+ podría llegar a las Apple Glasses",
+      "resumen": "Apple Vision Pro es demasiado incómodo para yoga y cardio, pero el seguimiento de actividad física podría implementarse en una futura versión de las gafas inteligentes de Apple, según una oferta de trabajo.",
+      "porQueImporta": "Interesante para Guido por su seguimiento de Apple y las nuevas tecnologías. La integración de Fitness+ en gafas inteligentes podría abrir nuevas posibilidades en el uso de dispositivos Apple.",
+      "publicadoEn": "2026-08-02T14:30:34.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "fitness+",
+        "apple glasses",
+        "tecnología"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/articles/2-million-saved-retirement-really-173500483.html",
+      "tituloOriginal": "What if I Have $2 Million Saved for Retirement? Is It Really Enough to Stop Working?",
+      "tituloLimpio": "¿Es suficiente tener 2 millones de dólares ahorrados para la jubilación?",
+      "resumen": "Se plantea la pregunta sobre si tener 2 millones de dólares ahorrados para la jubilación es realmente suficiente para dejar de trabajar.",
+      "porQueImporta": "Guido está interesado en inversiones y finanzas personales, por lo que este tipo de análisis sobre planificación de la jubilación es directamente relevante para sus objetivos financieros.",
+      "publicadoEn": "2026-08-02T17:35:00.000Z",
+      "imagen": "https://media.zenfs.com/en/motleyfool.com/43c1ac6e6f9b7d9beb8d83b08271799d",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "inversión",
+        "jubilación",
+        "ahorro"
       ],
       "tambienVistoEn": []
     },
@@ -341,20 +313,41 @@
       "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
       "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/02/the-reverse-bridge-crypto-meets-wall-street-using-perps",
-      "tituloOriginal": "The reverse bridge: Crypto meets Wall Street using perps",
-      "tituloLimpio": "El puente inverso: Cripto se encuentra con Wall Street usando perps",
-      "resumen": "Los exchanges de criptomonedas construyeron futuros perpetuos para activos digitales. Ahora los están usando para ofrecer exposición 24/7 a acciones, commodities e índices.",
-      "porQueImporta": "Interesante para Guido por su interés en inversión y mercados. La posibilidad de acceder a activos tradicionales a través de cripto puede ser una nueva vía de inversión, aunque se debe evaluar la accesibilidad desde Argentina.",
-      "publicadoEn": "2026-08-02T13:00:00.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/7eac92c55b377972de3017f48519c9d37c73a84a-862x598.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "globalScore": 92,
+      "url": "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants",
+      "tituloOriginal": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
+      "tituloLimpio": "Una plataforma DeFi abandonó su app de consumo para ser el backend secreto de gigantes tecnológicos",
+      "resumen": "Los ingresos cayeron de 80 millones a 20 millones de dólares en el mercado bajista. Los préstamos OTC con 260 millones de dólares pendientes son la línea de más rápido crecimiento, con el objetivo de alcanzar mil millones de dólares para fin de año.",
+      "porQueImporta": "Muestra una tendencia en el sector financiero y tecnológico, donde las plataformas pueden pivotar para encontrar nichos de mercado más rentables, relevante para el interés de Guido en finanzas y negocios.",
+      "publicadoEn": "2026-08-02T17:00:00.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/bfd770e38c8fc25420b61d080da050e9b05dd75e-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 96,
       "personalScore": 100,
       "tags": [
+        "defi",
         "finanzas",
-        "cripto",
-        "inversion",
-        "mercados"
+        "tecnología",
+        "negocios"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/linea-arena-mercado-gobierno-salio-vender-dolares-puso-techo-divisa-1500_0_44fBMfmgdY.html",
+      "tituloOriginal": "\"Una línea en la arena\": para el mercado, el Gobierno salió a vender dólares y le puso un techo a la divisa en $1.500",
+      "tituloLimpio": "El Gobierno salió a vender dólares y puso un techo a la divisa en $1.500",
+      "resumen": "El martes el Tesoro se desprendió de casi US$ 150 millones. Sería la primera venta oficial desde octubre. Fue el mismo día en que el Banco Central no compró reservas después de 135 ruedas. El tipo de cambio subió apenas 1 peso durante julio.",
+      "porQueImporta": "Impacta directamente en la economía argentina y en el valor del dólar, información crucial para Guido como residente y para sus decisiones de inversión.",
+      "publicadoEn": "2026-08-02T16:37:10.000Z",
+      "imagen": "https://www.clarin.com/img/2025/04/12/EoLEF7xmv_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "economía",
+        "dólar",
+        "mercado"
       ],
       "tambienVistoEn": []
     },
@@ -362,20 +355,20 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/08/02/mientras-busca-que-los-argentinos-saquen-los-dolares-del-colchon-caputo-se-armo-su-propio-colchon-de-pesos/",
-      "tituloOriginal": "Mientras busca que los argentinos saquen los “dólares del colchón”, Caputo se armó su propio colchón de pesos",
-      "tituloLimpio": "Mientras busca que los argentinos saquen los “dólares del colchón”, Caputo se armó su propio colchón de pesos",
-      "resumen": "Un informe resaltó tres logros del manejo de la deuda en moneda local, uno de los cuales facilitará pagar “gastos eventuales” como la compra de moneda extranjera.",
-      "porQueImporta": "Noticia económica local que impacta directamente en el contexto financiero de Guido en Argentina, mostrando movimientos estratégicos del gobierno en la gestión de la deuda.",
-      "publicadoEn": "2026-08-02T10:25:54.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/P4GNFORI7BEWNMBUWZGDRBTMEQ.png?auth=d8727c495a256761a1efac8facd635260539a6a067ff8abc9e5abf7665968410&smart=true&width=2752&height=1536",
-      "globalScore": 90,
+      "url": "https://www.infobae.com/economia/2026/08/02/conviene-ahora-viajar-para-comprar-celulares-y-electronica-en-paises-vecinos-precios-y-todo-lo-que-hay-que-saber/",
+      "tituloOriginal": "¿Conviene ahora viajar para comprar celulares y electrónica en países vecinos?: precios y todo lo que hay que saber",
+      "tituloLimpio": "¿Conviene ahora viajar para comprar celulares y electrónica en países vecinos?",
+      "resumen": "Un relevamiento comparó en dólares diez productos en Argentina, Chile, Uruguay, Paraguay y Brasil, mientras especialistas analizan el impacto del acceso al mercado cambiario y el nuevo esquema de compras online.",
+      "porQueImporta": "Ofrece información práctica y relevante para Guido, quien vive en Argentina, sobre cómo optimizar compras de tecnología, un área de su interés.",
+      "publicadoEn": "2026-08-02T17:34:17.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/6HETCCNDLBCE5O662XVNPXRZII.JPG?auth=5cee982286b21e3ed06fa8912a14bd7855e152836724f4133f26173ff50ac6ce&smart=true&width=800&height=533",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "economia",
-        "finanzas",
-        "dolares"
+        "electrónica",
+        "precios",
+        "compras"
       ],
       "tambienVistoEn": []
     },
@@ -383,47 +376,26 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/cuanto-cobran-los-jubilados-de-la-anses-en-agosto-de-2026-con-el-aumento-confirmado-nid15072026/",
-      "tituloOriginal": "Cuánto cobran los jubilados de la Anses en agosto de 2026 con el aumento confirmado",
-      "tituloLimpio": "Cuánto cobran los jubilados de la Anses en agosto de 2026 con el aumento confirmado",
-      "resumen": "El último índice de inflación es la referencia para el cálculo de los haberes previsionales del octavo mes del año.",
-      "porQueImporta": "Aunque no sea jubilado, es una noticia de interés general en Argentina que refleja la situación económica y las políticas de ajuste, relevante para entender el contexto del país.",
-      "publicadoEn": "2026-08-02T13:23:04.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/QSNAUZBJ4ZDKBIFIGGL55QPM74.jpg?auth=7b48eadbda3c865f0622ed9634e20b0922b945478459537e9ac57c51c20fdc2e&smart=true&width=1688&height=1125",
-      "globalScore": 98,
+      "url": "https://www.lanacion.com.ar/economia/campo/el-problema-no-fue-productivo-los-seis-indicadores-que-hoy-definen-el-exito-de-una-empresa-nid02082026/",
+      "tituloOriginal": "“El problema no fue productivo”: los seis indicadores que hoy definen el éxito de una empresa agropecuaria",
+      "tituloLimpio": "Los seis indicadores que definen el éxito de una empresa agropecuaria",
+      "resumen": "Gestionar con información confiable y oportuna es tan importante como producir bien, según una experta.",
+      "porQueImporta": "Aunque es del sector agropecuario, el enfoque en la gestión con información y la definición de éxito empresarial puede ser útil para Guido en su visión de negocios y automatización.",
+      "publicadoEn": "2026-08-02T15:38:09.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/Z5SAZIBB4ZCOVOU2Z4FSWHX6UU.JPG?auth=be5a1d89e8ac0c2adae69c99d02dee2d4fb0419b8ae405a58df6d88f555a78db&smart=true&width=2000&height=1333",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "economia",
-        "jubilados",
-        "anses"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
-      "categoria": "Argentina",
-      "fuente": "La Nacion Politica",
-      "url": "https://www.lanacion.com.ar/politica/libra-los-millones-que-transfirio-hayden-davis-antes-del-lanzamiento-desembocaron-en-la-financiera-nid02082026/",
-      "tituloOriginal": "$LIBRA: los millones que transfirió Hayden Davis antes del lanzamiento desembocaron en la financiera vinculada a Novelli",
-      "tituloLimpio": "Los millones transferidos antes del lanzamiento de $LIBRA desembocaron en financiera vinculada a Novelli",
-      "resumen": "La huella del dinero que movió el empresario en la antesala al lanzamiento de la moneda digital conduce a una “cueva” que funcionó en Vicente López, en la que solía operar el lobista.",
-      "porQueImporta": "Noticia de investigación local que expone movimientos financieros y políticos en Argentina, relevante para entender el panorama de negocios y la transparencia en el país.",
-      "publicadoEn": "2026-08-02T10:25:32.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/OQLN4EILIFCOFFLLPLNSLUQH6I.jpg?auth=c8f4445691fa38191e37db35c81e079b3dcfb9f5b7c69b710cf49286bf8b584b&smart=true&width=2000&height=1333",
-      "globalScore": 98,
-      "personalScore": 100,
-      "tags": [
-        "argentina",
-        "finanzas",
-        "politica",
-        "investigacion"
+        "negocios",
+        "gestión",
+        "indicadores",
+        "empresa"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-08-02T13:27:07.724Z"
+    "generadoEn": "2026-08-02T18:00:57.196Z"
   }
 }
