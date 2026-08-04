@@ -1,130 +1,111 @@
 {
   "fecha": "2026-08-04",
-  "generadoEn": "2026-08-04T14:22:10.349Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "Hoy, Apple enfrenta desafíos legales por posible fuga de datos a OpenAI, mientras que en Argentina, las importaciones vía courier crecen significativamente. También hay novedades de Apple en India y actualizaciones de IA de Google. En el ámbito financiero, se destaca el lanzamiento de acciones tokenizadas en EE.UU.",
+  "generadoEn": "2026-08-04T18:26:58.265Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "En el ámbito de la IA, Google anunció sus últimas actualizaciones de julio, mientras que Spotify expande su proyecto de remixes y covers con IA mediante una alianza con Merlin. En Apple, se preparan para el evento de iPhone de septiembre, donde se esperan nuevos modelos y un iPhone plegable. A nivel local, Argentina enfrenta un conflicto en los puertos que genera malestar empresarial y un aumento en los cheques rechazados, señal de estrés financiero. Los mercados argentinos muestran caídas en acciones y suba del riesgo país. En marketing, Stanley lanzó una campaña con un personaje de caja de herramientas y Walmart adquirió Vibe.co para entrar en el streaming con publicidad.",
   "radarPersonal": [
     {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Google presenta las últimas novedades de IA de julio de 2026",
+      "resumen": "Google compartió las últimas actualizaciones de inteligencia artificial de julio de 2026.",
+      "categoria": "AI",
+      "fuentes": [
+        "Google AI Blog"
+      ],
+      "urls": [
+        "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/"
+      ],
+      "score": 100,
+      "tags": [
+        "Google",
+        "IA",
+        "actualizaciones"
+      ]
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Apple se prepara para el evento de iPhone de septiembre",
+      "resumen": "Apple se alista para su evento de iPhone de septiembre, donde se espera el debut del iPhone 18 Pro, iPhone 18 Pro Max y un nuevo iPhone plegable.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/08/04/apple-september-iphone-event-preparation/"
+      ],
+      "score": 100,
+      "tags": [
+        "Apple",
+        "iPhone",
+        "evento",
+        "lanzamiento"
+      ]
+    },
+    {
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "titulo": "Apple investiga a más ex empleados por posible fuga de datos confidenciales a OpenAI",
-      "resumen": "Apple amplió su investigación sobre secretos comerciales en OpenAI, alegando que más ex empleados podrían haber accedido o retenido información confidencial.",
+      "titulo": "Spotify amplía su proyecto de remixes y covers con IA mediante una alianza con Merlin",
+      "resumen": "Spotify anunció que Merlin, que representa a más de 30.000 sellos y distribuidores independientes, se unió a Universal Music Group para respaldar su próximo producto de remixes y covers impulsado por IA.",
       "categoria": "AI",
       "fuentes": [
         "TechCrunch AI"
       ],
       "urls": [
-        "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/"
+        "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/"
       ],
       "score": 100,
       "tags": [
-        "Apple",
-        "OpenAI",
-        "datos confidenciales",
-        "investigación"
+        "Spotify",
+        "IA",
+        "música",
+        "Merlin"
       ]
     },
     {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "titulo": "OpenAI responde públicamente a la demanda de Apple por secretos comerciales",
-      "resumen": "La batalla legal de Apple contra OpenAI se complica, ya que OpenAI publicó una respuesta pública para contrarrestar la versión de los hechos de Apple.",
-      "categoria": "AI",
-      "fuentes": [
-        "The Verge AI"
-      ],
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages"
-      ],
-      "score": 100,
-      "tags": [
-        "OpenAI",
-        "Apple",
-        "demanda",
-        "secretos comerciales"
-      ]
-    },
-    {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "Las importaciones por courier de ropa, electro y juguetes equivalen al 40% de las ventas de shoppings",
-      "resumen": "La modalidad courier alcanzó 125 millones de dólares en junio de 2026, con un aumento interanual del 73,8%.",
-      "categoria": "Argentina",
-      "fuentes": [
-        "Ambito"
-      ],
-      "urls": [
-        "https://www.ambito.com/economia/las-importaciones-via-courier-ropa-electro-y-juguetes-ya-equivalen-al-40-lo-que-venden-los-shoppings-n6306854"
-      ],
-      "score": 100,
-      "tags": [
-        "importaciones",
-        "courier",
-        "Argentina",
-        "economía"
-      ]
-    },
-    {
-      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
-      "titulo": "Apple alcanza un récord de 10 mil millones de dólares en ingresos minoristas anuales en India",
-      "resumen": "Apple estableció nuevas ventas anuales en India, con su segunda base principal de fabricación de iPhone generando un récord de 10 mil millones de dólares en ventas.",
-      "categoria": "Apple",
-      "fuentes": [
-        "AppleInsider"
-      ],
-      "urls": [
-        "https://appleinsider.com/articles/26/08/04/apple-hits-a-record-10b-in-annual-retail-revenue-in-india?utm_source=rss"
-      ],
-      "score": 100,
-      "tags": [
-        "Apple",
-        "India",
-        "ventas",
-        "iPhone"
-      ]
-    },
-    {
-      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
-      "titulo": "Experto en inversiones explica por qué empresas de Japón y Noruega tienen prohibido invertir en su país",
-      "resumen": "Maximiliano Donzelli sugirió por qué no se recomienda concentrar todos los activos en un mismo país.",
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "titulo": "Mercados: caen las acciones argentinas y sube el riesgo país",
+      "resumen": "El índice S&P Merval baja por el desempeño negativo de las acciones del rubro energético, ante la baja en el precio del petróleo.",
       "categoria": "Finance",
       "fuentes": [
-        "La Nacion Economia"
+        "Infobae Economia"
       ],
       "urls": [
-        "https://www.lanacion.com.ar/economia/un-experto-en-inversiones-explico-algo-poco-conocido-hay-empresas-de-japon-y-noruega-que-tienen-nid04082026/"
+        "https://www.infobae.com/economia/2026/08/04/mercados-cede-el-riesgo-pais-argentino-mientras-wall-street-sondea-nuevos-maximos-y-cae-el-petroleo/"
       ],
       "score": 100,
       "tags": [
-        "inversiones",
+        "Argentina",
         "mercados",
-        "diversificación"
+        "acciones",
+        "riesgo país"
       ]
     }
   ],
   "loImportante": [
-    "Apple y OpenAI están en una disputa legal por supuesta fuga de datos confidenciales, lo que podría impactar el desarrollo de IA.",
-    "Las importaciones vía courier en Argentina crecen, afectando a la industria local de indumentaria y electrónica.",
-    "Apple logra un récord de ventas en India, consolidando su presencia en mercados emergentes.",
-    "Google lanzó sus últimas actualizaciones de IA en julio de 2026, indicando avances continuos en el sector.",
-    "Se lanzan acciones tokenizadas en EE.UU. para inversores, intensificando la competencia en el mercado de valores basado en blockchain."
+    "Apple se prepara para un evento clave en septiembre, donde se espera la presentación de nuevos modelos de iPhone, incluyendo uno plegable.",
+    "Google lanzó sus últimas actualizaciones de IA de julio, lo que podría indicar nuevas herramientas o mejoras en sus servicios.",
+    "Spotify está expandiendo su iniciativa de remixes y covers con IA, sumando a Merlin, lo que podría cambiar la forma en que se crea y consume música.",
+    "La situación económica en Argentina muestra signos de estrés, con un aumento en los cheques rechazados y un conflicto portuario que afecta el comercio exterior.",
+    "Walmart está invirtiendo en streaming con publicidad, lo que marca una tendencia en el sector minorista y publicitario."
   ],
   "oportunidades": [
     {
-      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
-      "categoria": "Marketing",
-      "titulo": "Domino's paga a clientes para probar su sitio web y app relanzados",
-      "detalle": "La campaña de Domino's incentiva a los consumidores a dejar comentarios sobre su experiencia de pedido digital actualizada. Esto representa una oportunidad para entender cómo las empresas usan incentivos para mejorar la experiencia de usuario y la recopilación de feedback, aplicable a proyectos de IA o herramientas.",
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "titulo": "Explorar nuevas herramientas de IA para creación musical",
+      "detalle": "La expansión de Spotify en remixes y covers con IA, con el respaldo de Merlin, sugiere un crecimiento en las herramientas de IA para la manipulación y creación de contenido musical. Esto podría abrir puertas para la experimentación en arte con IA.",
       "acciones": [
-        "Analizar la estrategia de feedback de usuarios de Domino's.",
-        "Considerar implementar programas de beta testing incentivados para proyectos propios."
+        "Investigar plataformas y herramientas de IA para la generación o edición de audio.",
+        "Analizar cómo estas tecnologías pueden integrarse en procesos creativos existentes."
       ]
     },
     {
-      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
       "categoria": "Marketing",
-      "titulo": "El marketing de nostalgia necesita una estrategia para la Generación Alpha",
-      "detalle": "La Generación Z está proyectada para ser la generación más rica y con mayor gasto en la historia. Esto sugiere que las estrategias de marketing deben evolucionar para captar a las nuevas generaciones, lo cual es relevante para el marketing de arte con IA.",
+      "titulo": "Analizar estrategias de marketing con personajes de marca",
+      "detalle": "Stanley introdujo un personaje de caja de herramientas en su campaña, lo que puede ser un caso de estudio interesante sobre cómo las marcas utilizan personajes para conectar con audiencias específicas, especialmente en un contexto de desaceleración.",
       "acciones": [
-        "Investigar tendencias de consumo y preferencias de la Generación Alpha.",
-        "Adaptar estrategias de marketing para proyectos de arte con IA, considerando el futuro demográfico."
+        "Estudiar la campaña de Stanley y su impacto en el engagement.",
+        "Considerar la aplicación de personajes o avatares en estrategias de marketing para proyectos de IA o retoque fotográfico."
       ]
     }
   ],
@@ -132,29 +113,26 @@
     {
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Market",
-      "titulo": "Crecimiento de importaciones vía courier afecta a la producción y empleo local en Argentina",
-      "detalle": "Las importaciones por courier de ropa, electro y juguetes equivalen al 40% de las ventas de los shoppings, lo que provoca caídas de producción y pérdida de empleos formales en sectores como indumentaria y electrónica local.",
-      "mitigacion": "Monitorear el impacto de las políticas de importación en el mercado local y considerar cómo esto podría influir en el consumo de bienes y servicios relacionados con el arte o la tecnología en Argentina."
+      "titulo": "Conflicto en puertos argentinos podría afectar el comercio exterior",
+      "detalle": "El malestar empresarial por la parálisis del comercio exterior debido al conflicto en los puertos podría dañar la reputación de Argentina en el comercio internacional y generar demoras en la importación/exportación de equipos o insumos.",
+      "mitigacion": "Monitorear la evolución del conflicto y sus posibles impactos en la cadena de suministro de equipos tecnológicos o materiales para el trabajo."
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Market",
+      "titulo": "Aumento de cheques rechazados indica estrés financiero en Argentina",
+      "detalle": "El incremento de cheques rechazados en junio, especialmente por falta de fondos, sugiere un aumento del estrés financiero en el país, lo que podría impactar el consumo y la inversión.",
+      "mitigacion": "Mantener una gestión financiera prudente y monitorear los indicadores económicos locales para anticipar posibles impactos en el negocio o inversiones."
     },
     {
       "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "categoria": "AI",
-      "titulo": "El proteccionismo de EE.UU. en IA se extiende a la robótica",
-      "detalle": "Las políticas de proteccionismo en IA de Trump ahora afectan a la robótica. Esto podría generar restricciones o barreras en el desarrollo y la adopción de tecnologías de IA y robótica a nivel global, afectando la disponibilidad de herramientas o el acceso a mercados.",
-      "mitigacion": "Mantenerse informado sobre las políticas comerciales y tecnológicas de EE.UU. y su impacto potencial en el desarrollo y la comercialización de herramientas de IA y robótica."
+      "categoria": "Regulatory",
+      "titulo": "Proteccionismo de IA y robótica en EE.UU. podría generar barreras",
+      "detalle": "La mención de 'proteccionismo de IA' de Trump aplicado a la robótica podría indicar futuras políticas que restrinjan el acceso a ciertas tecnologías o generen barreras comerciales, afectando la disponibilidad o el costo de herramientas de IA.",
+      "mitigacion": "Estar atento a los desarrollos regulatorios en IA y robótica a nivel global, especialmente en mercados clave, para evaluar posibles impactos en la adquisición de tecnología."
     }
   ],
-  "conexiones": [
-    {
-      "id": "apple-openai-dispute",
-      "titulo": "La disputa entre Apple y OpenAI por datos confidenciales",
-      "historias": [
-        "Apple dice que más ex empleados podrían haber llevado datos confidenciales a OpenAI.",
-        "OpenAI responde públicamente a la demanda de Apple, calificándola de 'descuidada, agresiva y extrañamente personal'."
-      ],
-      "conclusion": "Este conflicto legal entre dos gigantes tecnológicos subraya la creciente tensión en la industria de la IA por la propiedad intelectual y la fuga de talentos. Podría sentar precedentes importantes sobre cómo se manejan los secretos comerciales en un sector tan dinámico."
-    }
-  ],
+  "conexiones": [],
   "noticias": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
@@ -162,16 +140,16 @@
       "fuente": "Google AI Blog",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
       "tituloOriginal": "The latest AI news we announced in July 2026",
-      "tituloLimpio": "Google anuncia sus últimas actualizaciones de IA en julio de 2026",
-      "resumen": "Aquí están las últimas actualizaciones de IA de Google de julio de 2026.",
-      "porQueImporta": "Es relevante para estar al tanto de los avances de Google en inteligencia artificial, que pueden influir en herramientas y aplicaciones para retoque fotográfico y arte con IA.",
+      "tituloLimpio": "Google presenta las últimas novedades de IA de julio de 2026",
+      "resumen": "Google compartió las últimas actualizaciones de inteligencia artificial de julio de 2026.",
+      "porQueImporta": "Guido, como interesado en la IA aplicada, debería revisar estas actualizaciones para estar al tanto de las innovaciones de Google, que podrían incluir nuevas herramientas o mejoras en sus servicios de IA.",
       "publicadoEn": "2026-08-04T13:00:00.000Z",
       "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "IA",
         "Google",
+        "IA",
         "actualizaciones"
       ],
       "tambienVistoEn": []
@@ -180,18 +158,19 @@
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Apple",
       "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/08/04/apple-card-booking-com-loyalty/",
-      "tituloOriginal": "Apple Card Now Fast-Tracks Booking.com Perks With Just One Trip",
-      "tituloLimpio": "Apple Card ofrece beneficios acelerados en Booking.com con un solo viaje",
-      "resumen": "Los usuarios de Apple Card ahora tienen un nuevo beneficio disponible en Booking.com, con una mejora automática a Genius Nivel 2 después de completar una estadía o alquiler de auto elegible, en lugar de las cinco reservas habituales en un período de dos años.",
-      "porQueImporta": "Aunque la Apple Card no está disponible en Argentina, la noticia muestra cómo Apple busca integrar sus servicios con beneficios de terceros, una tendencia que podría replicarse en otros mercados o con otras plataformas.",
-      "publicadoEn": "2026-08-04T14:13:40.000Z",
+      "url": "https://www.macrumors.com/2026/08/04/apple-september-iphone-event-preparation/",
+      "tituloOriginal": "Apple Starts Preparing for September iPhone Event",
+      "tituloLimpio": "Apple se prepara para el evento de iPhone de septiembre",
+      "resumen": "Apple se alista para su evento de iPhone de septiembre, donde se espera el debut del iPhone 18 Pro, iPhone 18 Pro Max y un nuevo iPhone plegable.",
+      "porQueImporta": "Para Guido, fan de Apple, este evento es clave. La posible llegada de un iPhone plegable y nuevos modelos Pro podría influir en futuras decisiones de compra o en la evolución de las herramientas de retoque fotográfico y arte con IA en iOS.",
+      "publicadoEn": "2026-08-04T17:18:14.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "servicios",
-        "beneficios"
+        "iPhone",
+        "evento",
+        "lanzamiento"
       ],
       "tambienVistoEn": []
     },
@@ -199,19 +178,19 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/las-importaciones-via-courier-ropa-electro-y-juguetes-ya-equivalen-al-40-lo-que-venden-los-shoppings-n6306854",
-      "tituloOriginal": "Las importaciones vía courier de ropa, electro y juguetes ya equivalen al 40% de lo que venden los shoppings",
-      "tituloLimpio": "Las importaciones vía courier de ropa, electro y juguetes ya equivalen al 40% de lo que venden los shoppings",
-      "resumen": "La modalidad courier alcanzó 125 millones de dólares en junio de 2026, con un alza interanual del 73,8%. Sectores como indumentaria y electrónica local sufren caídas de producción y pérdida de empleos formales.",
-      "porQueImporta": "Impacta directamente en la economía argentina y en el consumo, afectando a la industria local y potencialmente a los precios y la disponibilidad de productos.",
-      "publicadoEn": "2026-08-04T14:15:00.000Z",
-      "globalScore": 98,
+      "url": "https://www.ambito.com/economia/conflicto-los-puertos-crece-el-malestar-los-empresarios-la-paralisis-del-comercio-exterior-n6306910",
+      "tituloOriginal": "Conflicto en los puertos: crece el malestar entre los empresarios por la parálisis del comercio exterior",
+      "tituloLimpio": "Conflicto en los puertos: crece el malestar entre empresarios por la parálisis del comercio exterior",
+      "resumen": "Cámaras exportadoras e importadoras advirtieron que podría dañar la reputación de Argentina en el comercio internacional y cuestionaron la implementación de la reforma.",
+      "porQueImporta": "Este conflicto puede afectar directamente la importación de equipos tecnológicos o insumos para el trabajo de Guido, además de impactar la economía general de Argentina.",
+      "publicadoEn": "2026-08-04T17:17:00.000Z",
+      "globalScore": 90,
       "personalScore": 100,
       "tags": [
         "Argentina",
         "economía",
-        "importaciones",
-        "courier"
+        "comercio exterior",
+        "puertos"
       ],
       "tambienVistoEn": []
     },
@@ -219,19 +198,59 @@
       "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
       "categoria": "Marketing",
       "fuente": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/dominos-pays-diners-to-beta-test-its-relaunched-website-app/826846/",
-      "tituloOriginal": "Domino’s pays diners to beta test its relaunched app, website",
-      "tituloLimpio": "Domino's paga a clientes para probar su sitio web y app relanzados",
-      "resumen": "La nueva campaña de la cadena de pizzas anima a los consumidores a dejar comentarios sobre su experiencia de pedido digital actualizada.",
-      "porQueImporta": "Es un ejemplo práctico de cómo las empresas utilizan el feedback de usuarios para mejorar sus plataformas digitales, una estrategia útil para cualquier desarrollo de herramientas o automatización.",
-      "publicadoEn": "2026-08-03T18:04:00.000Z",
-      "globalScore": 90,
+      "url": "https://www.marketingdive.com/news/stanley-introduces-wisecracking-toolbox-character-amid-construction-slowdow/826897/",
+      "tituloOriginal": "Stanley introduces wisecracking toolbox character amid construction slowdown",
+      "tituloLimpio": "Stanley presenta un personaje de caja de herramientas en su nueva campaña",
+      "resumen": "La campaña 'All Build. No Bull' muestra una línea de productos reformulada dirigida a trabajadores de la construcción de pequeñas empresas y se lanzará en cinco mercados.",
+      "porQueImporta": "Como interesado en marketing, Guido podría analizar esta estrategia de marca y cómo Stanley utiliza un personaje para conectar con su público, especialmente en un contexto de desaceleración de la construcción.",
+      "publicadoEn": "2026-08-04T17:50:00.000Z",
+      "globalScore": 96,
       "personalScore": 100,
       "tags": [
         "Marketing",
-        "experiencia de usuario",
-        "beta testing",
-        "herramientas"
+        "campaña",
+        "marca",
+        "Stanley"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+      "tituloOriginal": "Spotify expands AI remix and covers project with Merlin partnership",
+      "tituloLimpio": "Spotify expande su proyecto de remixes y covers con IA con alianza con Merlin",
+      "resumen": "Spotify anunció que Merlin, que representa a más de 30.000 sellos y distribuidores independientes, se unió a Universal Music Group para respaldar su próximo producto de remixes y covers impulsado por IA.",
+      "porQueImporta": "Esta noticia es relevante para Guido por su interés en la IA aplicada. La expansión de la IA en la creación musical, con un modelo de compensación para artistas, podría abrir nuevas vías para el arte con IA y la monetización de contenido generado.",
+      "publicadoEn": "2026-08-04T15:50:06.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Spotify",
+        "IA",
+        "música",
+        "Merlin"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+      "tituloOriginal": "How an OpenAI influencer trip backfired",
+      "tituloLimpio": "Un viaje de influencers de OpenAI tuvo un efecto negativo",
+      "resumen": "Un viaje de marca es un rito de paso para los influencers. Es una señal de legitimidad que un patrocinador quiera invitarlos a unas vacaciones con todos los gastos pagados, a menudo con obsequios y actividades de lujo. Los viajes también pueden generar resentimiento en influencers no invitados, críticas del público y proyectar una cierta frivolidad.",
+      "porQueImporta": "Para Guido, interesado en marketing y IA, este caso de OpenAI es un ejemplo de cómo las estrategias de marketing con influencers pueden salir mal, especialmente en el sector tecnológico. Sirve como lección sobre la gestión de la imagen de marca y la percepción pública.",
+      "publicadoEn": "2026-08-04T17:46:41.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "OpenAI",
+        "marketing",
+        "influencers",
+        "IA"
       ],
       "tambienVistoEn": []
     },
@@ -241,16 +260,17 @@
       "fuente": "MIT Technology Review AI",
       "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
       "tituloOriginal": "Trump’s AI protectionism has come for robotics",
-      "tituloLimpio": "El proteccionismo de Trump en IA se extiende a la robótica",
+      "tituloLimpio": "El proteccionismo de IA de Trump llegó a la robótica",
       "resumen": "Esta historia apareció originalmente en The Algorithm, nuestro boletín semanal sobre IA.",
-      "porQueImporta": "Las políticas proteccionistas en IA y robótica pueden afectar el acceso a tecnologías y herramientas globales, lo cual es relevante para el trabajo con IA aplicada.",
+      "porQueImporta": "Aunque el resumen es breve, la mención de 'proteccionismo de IA' en robótica es importante para Guido. Podría indicar futuras restricciones o políticas que afecten el desarrollo y la disponibilidad de herramientas de IA y robótica, impactando el mercado global.",
       "publicadoEn": "2026-08-03T18:43:30.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "IA",
-        "políticas",
-        "robótica"
+        "robótica",
+        "política",
+        "proteccionismo"
       ],
       "tambienVistoEn": []
     },
@@ -258,58 +278,19 @@
       "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Apple",
       "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/04/whatsapp-launches-new-features-to-upgrade-group-chats/",
-      "tituloOriginal": "WhatsApp launches three new features to upgrade group chats",
-      "tituloLimpio": "WhatsApp lanza tres nuevas funciones para mejorar los chats grupales",
-      "resumen": "WhatsApp lanza hoy tres mejoras para los chats grupales, incluyendo mejoras en las encuestas, una forma de crear nuevos chats a partir de grupos existentes y más.",
-      "porQueImporta": "Las actualizaciones en herramientas de comunicación como WhatsApp pueden influir en la forma en que se gestionan proyectos o se interactúa en comunidades relacionadas con el trabajo o intereses de Guido.",
-      "publicadoEn": "2026-08-04T14:00:00.000Z",
-      "globalScore": 96,
-      "personalScore": 100,
-      "tags": [
-        "WhatsApp",
-        "herramientas",
-        "comunicación"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
-      "categoria": "Apple",
-      "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/08/04/apple-hits-a-record-10b-in-annual-retail-revenue-in-india?utm_source=rss",
-      "tituloOriginal": "Apple hits a record $10B in annual retail revenue in India",
-      "tituloLimpio": "Apple alcanza un récord de 10 mil millones de dólares en ingresos minoristas anuales en India",
-      "resumen": "Apple estableció nuevas ventas anuales en India, con su segunda base principal de fabricación de iPhone generando un récord de 10 mil millones de dólares en ventas a pesar de los desafíos de moneda e impuestos.",
-      "porQueImporta": "Muestra el crecimiento de Apple en mercados emergentes y la diversificación de su cadena de suministro, lo que puede tener implicaciones globales para la disponibilidad y precios de productos Apple.",
-      "publicadoEn": "2026-08-04T13:40:43.000Z",
+      "url": "https://9to5mac.com/2026/08/04/signals-latest-ios-update-expands-multi-device-feature-for-iphone-users/",
+      "tituloOriginal": "Signal’s latest iOS update expands multi-device feature for iPhone users",
+      "tituloLimpio": "La última actualización de Signal para iOS expande la función multidispositivo para usuarios de iPhone",
+      "resumen": "Signal, el servicio de mensajería cifrada, facilita el uso de la aplicación en diferentes iPhones y más.",
+      "porQueImporta": "Para Guido, usuario de Apple y posiblemente de Signal, esta mejora en la función multidispositivo es una buena noticia para la productividad y la gestión de comunicaciones en su ecosistema Apple.",
+      "publicadoEn": "2026-08-04T18:15:51.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "negocios",
-        "India",
-        "ventas"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
-      "categoria": "Apple",
-      "fuente": "MacStories",
-      "url": "https://www.macstories.net/news/coming-soon-whats-next-on-apple-tv-and-apple-arcade-in-august-2026/",
-      "tituloOriginal": "Coming Soon: What’s Next on Apple TV and Apple Arcade in August 2026",
-      "tituloLimpio": "Novedades en Apple TV y Apple Arcade para agosto de 2026",
-      "resumen": "Es un gran mes deportivo para Apple TV, comenzando con Apple Arcade, que se enfoca en el fútbol con Madden NFL 27 Arcade Edition y Retro Bowl College+.",
-      "porQueImporta": "Aunque no es directamente de su área de trabajo, las novedades en los servicios de Apple pueden ser de interés personal y mostrar tendencias en el ecosistema de Apple.",
-      "publicadoEn": "2026-08-03T15:24:41.000Z",
-      "globalScore": 96,
-      "personalScore": 100,
-      "tags": [
-        "Apple",
-        "entretenimiento",
-        "Apple TV",
-        "Apple Arcade"
+        "iOS",
+        "Signal",
+        "productividad"
       ],
       "tambienVistoEn": []
     },
@@ -317,20 +298,43 @@
       "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
       "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/04/dinari-brings-tokenized-u-s-stocks-to-american-investors-as-equity-race-heats-up",
-      "tituloOriginal": "Dinari brings tokenized U.S. stocks to American investors as equity race heats up",
-      "tituloLimpio": "Dinari lleva acciones tokenizadas de EE.UU. a inversores estadounidenses",
-      "resumen": "La medida lleva el modelo de tokenización custodial a inversores estadounidenses elegibles a medida que se intensifica la competencia por las acciones basadas en blockchain.",
-      "porQueImporta": "Aunque es para inversores estadounidenses, la tokenización de acciones es una tendencia importante en el mercado financiero global que podría influir en el futuro de las inversiones y los ETFs.",
-      "publicadoEn": "2026-08-04T14:00:00.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/c9255df7fcdaef0e272bed71c29a3b20ac87ef51-1170x780.webp?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "globalScore": 100,
+      "url": "https://www.coindesk.com/business/2026/08/03/open-usd-rattled-circle-s-stock-but-its-key-backers-still-support-usdc",
+      "tituloOriginal": "Open USD rattled Circle's stock, but its key backers still support USDC",
+      "tituloLimpio": "Open USD afectó las acciones de Circle, pero sus principales patrocinadores aún apoyan a USDC",
+      "resumen": "Ejecutivos de Coinbase, Visa y Mastercard dijeron que planean apoyar múltiples stablecoins, sugiriendo que Open USD es otra vía de pago en lugar de un reemplazo directo para USDC.",
+      "porQueImporta": "Para Guido, interesado en finanzas e inversiones, esta noticia es relevante para entender la dinámica del mercado de stablecoins y cómo los grandes actores financieros ven la competencia entre ellas. Es clave para evaluar riesgos y oportunidades en criptoactivos.",
+      "publicadoEn": "2026-08-04T17:55:23.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/024ae1afdc1672e747814cc0546828b965ecf695-5162x3441.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 96,
       "personalScore": 100,
       "tags": [
         "Finanzas",
-        "inversiones",
-        "blockchain",
-        "tokenización"
+        "criptomonedas",
+        "stablecoins",
+        "USDC",
+        "Circle"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/bny-galaxy-institutional-crypto-staking-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "BNY to offer institutional crypto staking through Galaxy partnership",
+      "tituloLimpio": "BNY ofrecerá staking institucional de criptomonedas a través de alianza con Galaxy",
+      "resumen": "El gigante de la custodia se expande más allá de la salvaguarda al agregar servicios de staking, permitiendo a clientes institucionales elegibles obtener rendimientos sobre activos de prueba de participación.",
+      "porQueImporta": "Esta noticia es importante para Guido, ya que indica una mayor institucionalización de las criptomonedas y el staking. La entrada de BNY en este espacio puede validar aún más estos activos como opciones de inversión y generar nuevas oportunidades de rendimiento.",
+      "publicadoEn": "2026-08-04T17:10:04.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/article-covers-60958-bny-mellon-s-crypto-entrance-seeks-to-bridge-generational-adoption-gap.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "criptomonedas",
+        "staking",
+        "inversión",
+        "institucional"
       ],
       "tambienVistoEn": []
     },
@@ -338,20 +342,20 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-martes-04-agosto_0_5DX7BL11UD.html",
-      "tituloOriginal": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este martes 04 de agosto",
-      "tituloLimpio": "Cotización del dólar hoy en Argentina: oficial y otros tipos de cambio",
-      "resumen": "Desde el oficial hasta el blue y el turista, todos los tipos de cambio. Mirá la cotización minuto a minuto.",
-      "porQueImporta": "Información esencial para cualquier residente en Argentina, especialmente para quienes manejan inversiones o están atentos a la economía local.",
-      "publicadoEn": "2026-08-04T12:00:01.000Z",
-      "imagen": "https://www.clarin.com/img/2018/10/15/Mfy9DMYUu_1200x630__1.jpg",
+      "url": "https://www.clarin.com/economia/estres-financiero-cheques-rechazados-aumentaron-junio-llegaron-160000_0_r57UZZYbgl.html",
+      "tituloOriginal": "Estrés financiero: los cheques rechazados aumentaron en junio y llegaron a 160.000",
+      "tituloLimpio": "Estrés financiero: los cheques rechazados aumentaron en junio y llegaron a 160.000",
+      "resumen": "Volvieron a crecer después de tres meses de caídas. Los que fueron rechazados por no tener fondos subieron un 57%. Es por las tasas altas, el apretón monetario y la menor actividad.",
+      "porQueImporta": "Esta noticia es crucial para Guido, ya que refleja un indicador de estrés financiero en Argentina. Un aumento en los cheques rechazados puede señalar problemas económicos más amplios que podrían afectar su negocio o inversiones.",
+      "publicadoEn": "2026-08-04T17:20:29.000Z",
+      "imagen": "https://www.clarin.com/img/2026/01/25/RiOfCMPaG_1200x630__1.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
+        "economía",
         "finanzas",
-        "dólar",
-        "economía"
+        "cheques"
       ],
       "tambienVistoEn": []
     },
@@ -359,20 +363,21 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/08/04/dolar-hoy-en-vivo-a-cuanto-se-negocian-todas-las-cotizaciones-minuto-a-minuto-este-martes-4-de-agosto/",
-      "tituloOriginal": "Dólar hoy en vivo: a cuánto se negocian todas las cotizaciones minuto a minuto este martes 4 de agosto",
-      "tituloLimpio": "Dólar hoy en vivo: cotizaciones minuto a minuto este martes 4 de agosto",
-      "resumen": "El billete al público es ofrecido a $1.515 para la venta en el Banco Nación. El dólar blue es operado a $1.555. El BCRA compró ayer USD 18 millones en el mercado.",
-      "porQueImporta": "Actualización constante sobre la cotización del dólar en Argentina, crucial para la toma de decisiones financieras y de inversión.",
-      "publicadoEn": "2026-08-04T14:16:42.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/MIPCSSOZ3JG6BJG6MP2EPIYMPM.jpg?auth=04097573f6be54a71ab02aa90989ca48c0062cea2328904c6fb269929b24c6f2&smart=true&width=4500&height=2999",
-      "globalScore": 94,
+      "url": "https://www.infobae.com/economia/2026/08/04/mercados-cede-el-riesgo-pais-argentino-mientras-wall-street-sondea-nuevos-maximos-y-cae-el-petroleo/",
+      "tituloOriginal": "Mercados: caen las acciones argentinas y sube el riesgo país, mientras Wall Street toca nuevos máximos",
+      "tituloLimpio": "Mercados: caen las acciones argentinas y sube el riesgo país",
+      "resumen": "El índice S&P Merval baja por el desempeño negativo de las acciones del rubro energético, ante la baja en el precio del petróleo.",
+      "porQueImporta": "Para Guido, interesado en inversiones y mercados, esta es una señal importante sobre la situación económica de Argentina. La caída de acciones y el aumento del riesgo país impactan directamente en el clima de inversión local.",
+      "publicadoEn": "2026-08-04T18:11:02.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/HDEWPZZRMZDEVGDQ4NT73EZKTI.JPG?auth=063f6ae96f01b6a8e7823baccd6b07f60cc9c2ba9e1af6a69da932bc10fe765d&smart=true&width=6000&height=4000",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "finanzas",
-        "dólar",
-        "mercado"
+        "mercados",
+        "acciones",
+        "riesgo país",
+        "inversiones"
       ],
       "tambienVistoEn": []
     },
@@ -380,20 +385,21 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/un-experto-en-inversiones-explico-algo-poco-conocido-hay-empresas-de-japon-y-noruega-que-tienen-nid04082026/",
-      "tituloOriginal": "Un experto en inversiones explicó algo poco conocido: “Hay empresas de Japón y Noruega que tienen prohibido invertir en su país, y no es por la economía”",
-      "tituloLimpio": "Experto en inversiones explica por qué empresas de Japón y Noruega tienen prohibido invertir en su país",
-      "resumen": "En diálogo con LA NACION, Maximiliano Donzelli sugirió por qué no se recomienda concentrar todos los activos en un mismo país.",
-      "porQueImporta": "Ofrece una perspectiva sobre la diversificación de inversiones y las políticas económicas de otros países, relevante para la estrategia de inversión en ETFs y mercados.",
-      "publicadoEn": "2026-08-04T14:07:26.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/DU22L7RBWBHPXDZ64FE6P4FNII.png?auth=0e8a8578c2b59ee56b1ea2f2852eaafec406b329e411865c59ad663ab8ab2a14&smart=true&width=727&height=493",
-      "globalScore": 100,
+      "url": "https://www.lanacion.com.ar/tecnologia/asi-es-seller-la-app-con-ia-de-meta-para-vender-mas-en-facebook-marketplace-nid04082026/",
+      "tituloOriginal": "Así es Seller, la app con IA de Meta para vender más en Facebook Marketplace",
+      "tituloLimpio": "Meta lanza Seller, una app con IA para vender más en Facebook Marketplace",
+      "resumen": "La compañía creó una app para vendedores de su plataforma; por ahora solo está disponible en EE.UU.",
+      "porQueImporta": "Aunque la app solo está disponible en EE.UU., es relevante para Guido por su interés en IA y marketing. Muestra cómo Meta está integrando la IA para mejorar las ventas en sus plataformas, una tendencia que eventualmente podría llegar a otros mercados o inspirar herramientas similares.",
+      "publicadoEn": "2026-08-04T18:21:24.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/MKYL33XIEZGJPKN2EAZCEGQ6FI.jpeg?auth=2e2e4b8e82ba75a7c0d6cd9db922fb3c5bc6faf64351335688a3efb91e584693&smart=true&width=2000&height=1333",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "Finanzas",
-        "inversiones",
-        "diversificación",
-        "mercados"
+        "Meta",
+        "IA",
+        "marketing",
+        "e-commerce",
+        "Facebook Marketplace"
       ],
       "tambienVistoEn": []
     },
@@ -401,25 +407,26 @@
       "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
       "categoria": "Marketing",
       "fuente": "Adweek",
-      "url": "https://www.adweek.com/brand-marketing/adweek-brand-advantage-nostalgia-marketing-needs-a-gen-alpha-strategy/",
-      "tituloOriginal": "ADWEEK Brand Advantage: Nostalgia Marketing Needs a Gen Alpha Strategy",
-      "tituloLimpio": "El marketing de nostalgia necesita una estrategia para la Generación Alpha",
-      "resumen": "La Generación Z está proyectada para ser la generación más rica y con mayor gasto en la historia.",
-      "porQueImporta": "Es fundamental para entender las futuras tendencias de marketing y cómo adaptar estrategias para nuevas audiencias, especialmente en el ámbito del arte con IA y el retoque fotográfico.",
-      "publicadoEn": "2026-08-04T06:00:00.000Z",
-      "globalScore": 92,
+      "url": "https://www.adweek.com/commerce/walmart-acquire-vibe-co-ad-supported-streaming-compete-amazon/",
+      "tituloOriginal": "Walmart Closes Vibe.co Acquisition, Signaling a Big Push Into Ad-Supported Streaming to Compete With Amazon",
+      "tituloLimpio": "Walmart cierra la adquisición de Vibe.co, impulsando el streaming con publicidad",
+      "resumen": "El minorista habría pagado 1.400 millones de dólares por la startup.",
+      "porQueImporta": "Esta adquisición es relevante para Guido por su interés en marketing y negocios. Muestra cómo grandes empresas como Walmart están invirtiendo en el espacio de streaming con publicidad, lo que podría cambiar el panorama de la publicidad digital y el consumo de contenido.",
+      "publicadoEn": "2026-08-04T13:29:29.000Z",
+      "globalScore": 90,
       "personalScore": 100,
       "tags": [
-        "Marketing",
-        "Generación Alpha",
-        "tendencias",
-        "consumo"
+        "Walmart",
+        "marketing",
+        "streaming",
+        "publicidad",
+        "negocios"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-08-04T14:22:10.349Z"
+    "generadoEn": "2026-08-04T18:26:58.265Z"
   }
 }
