@@ -1,0 +1,425 @@
+{
+  "fecha": "2026-08-04",
+  "generadoEn": "2026-08-04T14:22:10.349Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "Hoy, Apple enfrenta desafíos legales por posible fuga de datos a OpenAI, mientras que en Argentina, las importaciones vía courier crecen significativamente. También hay novedades de Apple en India y actualizaciones de IA de Google. En el ámbito financiero, se destaca el lanzamiento de acciones tokenizadas en EE.UU.",
+  "radarPersonal": [
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "Apple investiga a más ex empleados por posible fuga de datos confidenciales a OpenAI",
+      "resumen": "Apple amplió su investigación sobre secretos comerciales en OpenAI, alegando que más ex empleados podrían haber accedido o retenido información confidencial.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/"
+      ],
+      "score": 100,
+      "tags": [
+        "Apple",
+        "OpenAI",
+        "datos confidenciales",
+        "investigación"
+      ]
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "OpenAI responde públicamente a la demanda de Apple por secretos comerciales",
+      "resumen": "La batalla legal de Apple contra OpenAI se complica, ya que OpenAI publicó una respuesta pública para contrarrestar la versión de los hechos de Apple.",
+      "categoria": "AI",
+      "fuentes": [
+        "The Verge AI"
+      ],
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages"
+      ],
+      "score": 100,
+      "tags": [
+        "OpenAI",
+        "Apple",
+        "demanda",
+        "secretos comerciales"
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Las importaciones por courier de ropa, electro y juguetes equivalen al 40% de las ventas de shoppings",
+      "resumen": "La modalidad courier alcanzó 125 millones de dólares en junio de 2026, con un aumento interanual del 73,8%.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/las-importaciones-via-courier-ropa-electro-y-juguetes-ya-equivalen-al-40-lo-que-venden-los-shoppings-n6306854"
+      ],
+      "score": 100,
+      "tags": [
+        "importaciones",
+        "courier",
+        "Argentina",
+        "economía"
+      ]
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "titulo": "Apple alcanza un récord de 10 mil millones de dólares en ingresos minoristas anuales en India",
+      "resumen": "Apple estableció nuevas ventas anuales en India, con su segunda base principal de fabricación de iPhone generando un récord de 10 mil millones de dólares en ventas.",
+      "categoria": "Apple",
+      "fuentes": [
+        "AppleInsider"
+      ],
+      "urls": [
+        "https://appleinsider.com/articles/26/08/04/apple-hits-a-record-10b-in-annual-retail-revenue-in-india?utm_source=rss"
+      ],
+      "score": 100,
+      "tags": [
+        "Apple",
+        "India",
+        "ventas",
+        "iPhone"
+      ]
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "titulo": "Experto en inversiones explica por qué empresas de Japón y Noruega tienen prohibido invertir en su país",
+      "resumen": "Maximiliano Donzelli sugirió por qué no se recomienda concentrar todos los activos en un mismo país.",
+      "categoria": "Finance",
+      "fuentes": [
+        "La Nacion Economia"
+      ],
+      "urls": [
+        "https://www.lanacion.com.ar/economia/un-experto-en-inversiones-explico-algo-poco-conocido-hay-empresas-de-japon-y-noruega-que-tienen-nid04082026/"
+      ],
+      "score": 100,
+      "tags": [
+        "inversiones",
+        "mercados",
+        "diversificación"
+      ]
+    }
+  ],
+  "loImportante": [
+    "Apple y OpenAI están en una disputa legal por supuesta fuga de datos confidenciales, lo que podría impactar el desarrollo de IA.",
+    "Las importaciones vía courier en Argentina crecen, afectando a la industria local de indumentaria y electrónica.",
+    "Apple logra un récord de ventas en India, consolidando su presencia en mercados emergentes.",
+    "Google lanzó sus últimas actualizaciones de IA en julio de 2026, indicando avances continuos en el sector.",
+    "Se lanzan acciones tokenizadas en EE.UU. para inversores, intensificando la competencia en el mercado de valores basado en blockchain."
+  ],
+  "oportunidades": [
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "Domino's paga a clientes para probar su sitio web y app relanzados",
+      "detalle": "La campaña de Domino's incentiva a los consumidores a dejar comentarios sobre su experiencia de pedido digital actualizada. Esto representa una oportunidad para entender cómo las empresas usan incentivos para mejorar la experiencia de usuario y la recopilación de feedback, aplicable a proyectos de IA o herramientas.",
+      "acciones": [
+        "Analizar la estrategia de feedback de usuarios de Domino's.",
+        "Considerar implementar programas de beta testing incentivados para proyectos propios."
+      ]
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "titulo": "El marketing de nostalgia necesita una estrategia para la Generación Alpha",
+      "detalle": "La Generación Z está proyectada para ser la generación más rica y con mayor gasto en la historia. Esto sugiere que las estrategias de marketing deben evolucionar para captar a las nuevas generaciones, lo cual es relevante para el marketing de arte con IA.",
+      "acciones": [
+        "Investigar tendencias de consumo y preferencias de la Generación Alpha.",
+        "Adaptar estrategias de marketing para proyectos de arte con IA, considerando el futuro demográfico."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Market",
+      "titulo": "Crecimiento de importaciones vía courier afecta a la producción y empleo local en Argentina",
+      "detalle": "Las importaciones por courier de ropa, electro y juguetes equivalen al 40% de las ventas de los shoppings, lo que provoca caídas de producción y pérdida de empleos formales en sectores como indumentaria y electrónica local.",
+      "mitigacion": "Monitorear el impacto de las políticas de importación en el mercado local y considerar cómo esto podría influir en el consumo de bienes y servicios relacionados con el arte o la tecnología en Argentina."
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "titulo": "El proteccionismo de EE.UU. en IA se extiende a la robótica",
+      "detalle": "Las políticas de proteccionismo en IA de Trump ahora afectan a la robótica. Esto podría generar restricciones o barreras en el desarrollo y la adopción de tecnologías de IA y robótica a nivel global, afectando la disponibilidad de herramientas o el acceso a mercados.",
+      "mitigacion": "Mantenerse informado sobre las políticas comerciales y tecnológicas de EE.UU. y su impacto potencial en el desarrollo y la comercialización de herramientas de IA y robótica."
+    }
+  ],
+  "conexiones": [
+    {
+      "id": "apple-openai-dispute",
+      "titulo": "La disputa entre Apple y OpenAI por datos confidenciales",
+      "historias": [
+        "Apple dice que más ex empleados podrían haber llevado datos confidenciales a OpenAI.",
+        "OpenAI responde públicamente a la demanda de Apple, calificándola de 'descuidada, agresiva y extrañamente personal'."
+      ],
+      "conclusion": "Este conflicto legal entre dos gigantes tecnológicos subraya la creciente tensión en la industria de la IA por la propiedad intelectual y la fuga de talentos. Podría sentar precedentes importantes sobre cómo se manejan los secretos comerciales en un sector tan dinámico."
+    }
+  ],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+      "tituloOriginal": "The latest AI news we announced in July 2026",
+      "tituloLimpio": "Google anuncia sus últimas actualizaciones de IA en julio de 2026",
+      "resumen": "Aquí están las últimas actualizaciones de IA de Google de julio de 2026.",
+      "porQueImporta": "Es relevante para estar al tanto de los avances de Google en inteligencia artificial, que pueden influir en herramientas y aplicaciones para retoque fotográfico y arte con IA.",
+      "publicadoEn": "2026-08-04T13:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "Google",
+        "actualizaciones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/08/04/apple-card-booking-com-loyalty/",
+      "tituloOriginal": "Apple Card Now Fast-Tracks Booking.com Perks With Just One Trip",
+      "tituloLimpio": "Apple Card ofrece beneficios acelerados en Booking.com con un solo viaje",
+      "resumen": "Los usuarios de Apple Card ahora tienen un nuevo beneficio disponible en Booking.com, con una mejora automática a Genius Nivel 2 después de completar una estadía o alquiler de auto elegible, en lugar de las cinco reservas habituales en un período de dos años.",
+      "porQueImporta": "Aunque la Apple Card no está disponible en Argentina, la noticia muestra cómo Apple busca integrar sus servicios con beneficios de terceros, una tendencia que podría replicarse en otros mercados o con otras plataformas.",
+      "publicadoEn": "2026-08-04T14:13:40.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "servicios",
+        "beneficios"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/las-importaciones-via-courier-ropa-electro-y-juguetes-ya-equivalen-al-40-lo-que-venden-los-shoppings-n6306854",
+      "tituloOriginal": "Las importaciones vía courier de ropa, electro y juguetes ya equivalen al 40% de lo que venden los shoppings",
+      "tituloLimpio": "Las importaciones vía courier de ropa, electro y juguetes ya equivalen al 40% de lo que venden los shoppings",
+      "resumen": "La modalidad courier alcanzó 125 millones de dólares en junio de 2026, con un alza interanual del 73,8%. Sectores como indumentaria y electrónica local sufren caídas de producción y pérdida de empleos formales.",
+      "porQueImporta": "Impacta directamente en la economía argentina y en el consumo, afectando a la industria local y potencialmente a los precios y la disponibilidad de productos.",
+      "publicadoEn": "2026-08-04T14:15:00.000Z",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "importaciones",
+        "courier"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/dominos-pays-diners-to-beta-test-its-relaunched-website-app/826846/",
+      "tituloOriginal": "Domino’s pays diners to beta test its relaunched app, website",
+      "tituloLimpio": "Domino's paga a clientes para probar su sitio web y app relanzados",
+      "resumen": "La nueva campaña de la cadena de pizzas anima a los consumidores a dejar comentarios sobre su experiencia de pedido digital actualizada.",
+      "porQueImporta": "Es un ejemplo práctico de cómo las empresas utilizan el feedback de usuarios para mejorar sus plataformas digitales, una estrategia útil para cualquier desarrollo de herramientas o automatización.",
+      "publicadoEn": "2026-08-03T18:04:00.000Z",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "experiencia de usuario",
+        "beta testing",
+        "herramientas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "tituloOriginal": "Trump’s AI protectionism has come for robotics",
+      "tituloLimpio": "El proteccionismo de Trump en IA se extiende a la robótica",
+      "resumen": "Esta historia apareció originalmente en The Algorithm, nuestro boletín semanal sobre IA.",
+      "porQueImporta": "Las políticas proteccionistas en IA y robótica pueden afectar el acceso a tecnologías y herramientas globales, lo cual es relevante para el trabajo con IA aplicada.",
+      "publicadoEn": "2026-08-03T18:43:30.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "políticas",
+        "robótica"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/04/whatsapp-launches-new-features-to-upgrade-group-chats/",
+      "tituloOriginal": "WhatsApp launches three new features to upgrade group chats",
+      "tituloLimpio": "WhatsApp lanza tres nuevas funciones para mejorar los chats grupales",
+      "resumen": "WhatsApp lanza hoy tres mejoras para los chats grupales, incluyendo mejoras en las encuestas, una forma de crear nuevos chats a partir de grupos existentes y más.",
+      "porQueImporta": "Las actualizaciones en herramientas de comunicación como WhatsApp pueden influir en la forma en que se gestionan proyectos o se interactúa en comunidades relacionadas con el trabajo o intereses de Guido.",
+      "publicadoEn": "2026-08-04T14:00:00.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "WhatsApp",
+        "herramientas",
+        "comunicación"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/08/04/apple-hits-a-record-10b-in-annual-retail-revenue-in-india?utm_source=rss",
+      "tituloOriginal": "Apple hits a record $10B in annual retail revenue in India",
+      "tituloLimpio": "Apple alcanza un récord de 10 mil millones de dólares en ingresos minoristas anuales en India",
+      "resumen": "Apple estableció nuevas ventas anuales en India, con su segunda base principal de fabricación de iPhone generando un récord de 10 mil millones de dólares en ventas a pesar de los desafíos de moneda e impuestos.",
+      "porQueImporta": "Muestra el crecimiento de Apple en mercados emergentes y la diversificación de su cadena de suministro, lo que puede tener implicaciones globales para la disponibilidad y precios de productos Apple.",
+      "publicadoEn": "2026-08-04T13:40:43.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "negocios",
+        "India",
+        "ventas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/news/coming-soon-whats-next-on-apple-tv-and-apple-arcade-in-august-2026/",
+      "tituloOriginal": "Coming Soon: What’s Next on Apple TV and Apple Arcade in August 2026",
+      "tituloLimpio": "Novedades en Apple TV y Apple Arcade para agosto de 2026",
+      "resumen": "Es un gran mes deportivo para Apple TV, comenzando con Apple Arcade, que se enfoca en el fútbol con Madden NFL 27 Arcade Edition y Retro Bowl College+.",
+      "porQueImporta": "Aunque no es directamente de su área de trabajo, las novedades en los servicios de Apple pueden ser de interés personal y mostrar tendencias en el ecosistema de Apple.",
+      "publicadoEn": "2026-08-03T15:24:41.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "entretenimiento",
+        "Apple TV",
+        "Apple Arcade"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/04/dinari-brings-tokenized-u-s-stocks-to-american-investors-as-equity-race-heats-up",
+      "tituloOriginal": "Dinari brings tokenized U.S. stocks to American investors as equity race heats up",
+      "tituloLimpio": "Dinari lleva acciones tokenizadas de EE.UU. a inversores estadounidenses",
+      "resumen": "La medida lleva el modelo de tokenización custodial a inversores estadounidenses elegibles a medida que se intensifica la competencia por las acciones basadas en blockchain.",
+      "porQueImporta": "Aunque es para inversores estadounidenses, la tokenización de acciones es una tendencia importante en el mercado financiero global que podría influir en el futuro de las inversiones y los ETFs.",
+      "publicadoEn": "2026-08-04T14:00:00.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/c9255df7fcdaef0e272bed71c29a3b20ac87ef51-1170x780.webp?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "inversiones",
+        "blockchain",
+        "tokenización"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-martes-04-agosto_0_5DX7BL11UD.html",
+      "tituloOriginal": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este martes 04 de agosto",
+      "tituloLimpio": "Cotización del dólar hoy en Argentina: oficial y otros tipos de cambio",
+      "resumen": "Desde el oficial hasta el blue y el turista, todos los tipos de cambio. Mirá la cotización minuto a minuto.",
+      "porQueImporta": "Información esencial para cualquier residente en Argentina, especialmente para quienes manejan inversiones o están atentos a la economía local.",
+      "publicadoEn": "2026-08-04T12:00:01.000Z",
+      "imagen": "https://www.clarin.com/img/2018/10/15/Mfy9DMYUu_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "finanzas",
+        "dólar",
+        "economía"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/08/04/dolar-hoy-en-vivo-a-cuanto-se-negocian-todas-las-cotizaciones-minuto-a-minuto-este-martes-4-de-agosto/",
+      "tituloOriginal": "Dólar hoy en vivo: a cuánto se negocian todas las cotizaciones minuto a minuto este martes 4 de agosto",
+      "tituloLimpio": "Dólar hoy en vivo: cotizaciones minuto a minuto este martes 4 de agosto",
+      "resumen": "El billete al público es ofrecido a $1.515 para la venta en el Banco Nación. El dólar blue es operado a $1.555. El BCRA compró ayer USD 18 millones en el mercado.",
+      "porQueImporta": "Actualización constante sobre la cotización del dólar en Argentina, crucial para la toma de decisiones financieras y de inversión.",
+      "publicadoEn": "2026-08-04T14:16:42.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/MIPCSSOZ3JG6BJG6MP2EPIYMPM.jpg?auth=04097573f6be54a71ab02aa90989ca48c0062cea2328904c6fb269929b24c6f2&smart=true&width=4500&height=2999",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "finanzas",
+        "dólar",
+        "mercado"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/un-experto-en-inversiones-explico-algo-poco-conocido-hay-empresas-de-japon-y-noruega-que-tienen-nid04082026/",
+      "tituloOriginal": "Un experto en inversiones explicó algo poco conocido: “Hay empresas de Japón y Noruega que tienen prohibido invertir en su país, y no es por la economía”",
+      "tituloLimpio": "Experto en inversiones explica por qué empresas de Japón y Noruega tienen prohibido invertir en su país",
+      "resumen": "En diálogo con LA NACION, Maximiliano Donzelli sugirió por qué no se recomienda concentrar todos los activos en un mismo país.",
+      "porQueImporta": "Ofrece una perspectiva sobre la diversificación de inversiones y las políticas económicas de otros países, relevante para la estrategia de inversión en ETFs y mercados.",
+      "publicadoEn": "2026-08-04T14:07:26.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/DU22L7RBWBHPXDZ64FE6P4FNII.png?auth=0e8a8578c2b59ee56b1ea2f2852eaafec406b329e411865c59ad663ab8ab2a14&smart=true&width=727&height=493",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "inversiones",
+        "diversificación",
+        "mercados"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "fuente": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/adweek-brand-advantage-nostalgia-marketing-needs-a-gen-alpha-strategy/",
+      "tituloOriginal": "ADWEEK Brand Advantage: Nostalgia Marketing Needs a Gen Alpha Strategy",
+      "tituloLimpio": "El marketing de nostalgia necesita una estrategia para la Generación Alpha",
+      "resumen": "La Generación Z está proyectada para ser la generación más rica y con mayor gasto en la historia.",
+      "porQueImporta": "Es fundamental para entender las futuras tendencias de marketing y cómo adaptar estrategias para nuevas audiencias, especialmente en el ámbito del arte con IA y el retoque fotográfico.",
+      "publicadoEn": "2026-08-04T06:00:00.000Z",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "Generación Alpha",
+        "tendencias",
+        "consumo"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-08-04T14:22:10.349Z"
+  }
+}
