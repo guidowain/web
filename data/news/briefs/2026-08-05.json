@@ -1,13 +1,13 @@
 {
   "fecha": "2026-08-05",
-  "generadoEn": "2026-08-05T14:14:32.297Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "Las novedades de IA de Google de julio de 2026 ya están disponibles. Anthropic está formando un equipo para diseñar sus propios chips de IA, mientras que Google Assistant desaparecerá de los teléfonos Android el próximo mes. En Apple, hay descuentos en MacBook Pro y AirPods en Best Buy, y iOS 27 trae mejoras en Mensajes. En Argentina, el Índice Big Mac muestra una mejora, aunque el peso sigue sobrevaluado. El gobierno argentino ratificó que no tomará acciones diplomáticas contra Brasil, a pesar de la escalada del conflicto. El dólar oficial y el blue cotizan a $1515 y $1545 respectivamente. En marketing, se destacan las estrategias de 5 marcas en la Copa del Mundo y Disney vendió todos sus espacios publicitarios para el Super Bowl. En finanzas, las acciones de AMD y SpaceX cayeron tras sus resultados, y Nomura invierte en ZIGChain para crédito privado onchain.",
+  "generadoEn": "2026-08-05T18:21:28.120Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Hoy se destacan las últimas actualizaciones de IA de Google y la inminente desaparición de Google Assistant. En Apple, hay novedades sobre iPadOS 27 y el HomePod mini 2. En Argentina, el dólar blue cotiza a $1545 y se discute la Ley de Tierras. También hay noticias sobre el impacto de la IA en el empleo en EE.UU. y una alianza entre Disney y TikTok para compartir contenido.",
   "radarPersonal": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "titulo": "Google publicó las últimas novedades de IA de julio de 2026",
-      "resumen": "Acá están las últimas actualizaciones de IA de Google de julio de 2026.",
+      "titulo": "Google anunció sus últimas actualizaciones de IA en julio de 2026",
+      "resumen": "Estas son las últimas actualizaciones de IA de Google de julio de 2026.",
       "categoria": "AI",
       "fuentes": [
         "Google AI Blog"
@@ -23,65 +23,65 @@
       ]
     },
     {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "titulo": "Anthropic está contratando un equipo para diseñar chips de IA",
-      "resumen": "Anthropic está armando un equipo para diseñar sus propios chips de IA personalizados. La empresa detrás de Claude dijo que codiseñaría hardware y modelos para que su tecnología funcione más rápido y de forma más eficiente.",
-      "categoria": "AI",
-      "fuentes": [
-        "TechCrunch AI"
-      ],
-      "urls": [
-        "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/"
-      ],
-      "score": 100,
-      "tags": [
-        "Anthropic",
-        "chips",
-        "IA",
-        "hardware"
-      ]
-    },
-    {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "titulo": "Google Assistant desaparecerá de los teléfonos el próximo mes",
-      "resumen": "Los días de Google Assistant están contados desde que llegó Gemini, y su tiempo se acabó. Google anunció que eliminará el acceso a Assistant en teléfonos y tablets Android, junto con dispositivos vinculados como smartwatches o auriculares, a partir del 4 de septiembre.",
-      "categoria": "AI",
-      "fuentes": [
-        "The Verge AI"
-      ],
-      "urls": [
-        "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown/"
-      ],
-      "score": 100,
-      "tags": [
-        "Google Assistant",
-        "Gemini",
-        "Android"
-      ]
-    },
-    {
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "Índice Big Mac: Argentina mejora en el ranking, pero el peso sigue sobrevaluado un 19%",
-      "resumen": "El resultado muestra una clara mejora, aunque el país todavía se encuentra entre los países donde la hamburguesa tiene un precio elevado en relación con el poder adquisitivo.",
+      "titulo": "El impacto de la IA en el mercado laboral de EE.UU. podría afectar el empleo",
+      "resumen": "Un informe de Morgan Stanley encontró que los cambios de la inteligencia artificial son cada vez más visibles, especialmente en quienes inician su carrera laboral.",
       "categoria": "Argentina",
       "fuentes": [
         "Ambito"
       ],
       "urls": [
-        "https://www.ambito.com/economia/indice-big-mac-argentina-mejora-el-ranking-pero-el-peso-sigue-sobrevaluado-un-19-n6307297"
+        "https://www.ambito.com/economia/crece-el-impacto-la-ia-el-mercado-trabajo-eeuu-puede-afectar-el-nivel-empleo-n6307414"
       ],
       "score": 100,
       "tags": [
-        "Argentina",
-        "economía",
-        "peso",
-        "sobrevaluación"
+        "IA",
+        "empleo",
+        "EEUU"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "Shopify afirma que la búsqueda con IA impulsa más tráfico y ventas, sin reemplazar a Google",
+      "resumen": "Shopify dice que la IA no está canibalizando el tráfico de búsqueda como lo ha hecho para los editores. En cambio, el tráfico y los pedidos impulsados por IA a las tiendas Shopify se triplicaron año tras año en el segundo trimestre.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/"
+      ],
+      "score": 100,
+      "tags": [
+        "Shopify",
+        "IA",
+        "e-commerce",
+        "marketing"
+      ]
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "Google Assistant desaparecerá de los teléfonos Android el próximo mes",
+      "resumen": "Google anunció que eliminará el acceso a Assistant en teléfonos y tablets Android, así como en dispositivos vinculados como smartwatches o auriculares, a partir del 4 de septiembre.",
+      "categoria": "AI",
+      "fuentes": [
+        "The Verge AI"
+      ],
+      "urls": [
+        "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown"
+      ],
+      "score": 100,
+      "tags": [
+        "Google",
+        "Assistant",
+        "Android",
+        "IA"
       ]
     },
     {
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
-      "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este miércoles 5 de agosto de 2026",
-      "resumen": "La divisa oficial se vende a $1515; en tanto, el dólar blue cotiza a $1545 para esa operación.",
+      "titulo": "Dólar hoy y dólar blue en vivo: cotización del oficial y el paralelo este miércoles 5 de agosto de 2026",
+      "resumen": "La divisa oficial se vende a $1520; en tanto, el dólar blue cotiza a $1545 para esa operación; qué pasa con el MEP y el CC.",
       "categoria": "Argentina",
       "fuentes": [
         "La Nacion Economia"
@@ -94,82 +94,56 @@
         "dólar",
         "dólar blue",
         "Argentina",
-        "cotización"
+        "finanzas"
       ]
     }
   ],
   "loImportante": [
-    "Google Assistant será eliminado de los dispositivos Android a partir del 4 de septiembre, lo que implica un cambio significativo en la interacción con la IA de Google.",
-    "Anthropic está invirtiendo en el diseño de sus propios chips de IA, lo que podría mejorar la eficiencia y velocidad de sus modelos, impactando el desarrollo futuro de la IA.",
-    "El Índice Big Mac muestra que el peso argentino sigue sobrevaluado, a pesar de una mejora en el ranking, lo que es relevante para la economía local y las decisiones de inversión.",
-    "El gobierno argentino no tomará acciones diplomáticas contra Brasil, manteniendo la relación al nivel que decida Brasilia, lo que marca la postura del país en un conflicto regional.",
-    "Las acciones de AMD y SpaceX cayeron tras sus resultados, lo que indica volatilidad en el mercado de tecnología y finanzas, relevante para inversores."
+    "Google está lanzando nuevas actualizaciones de IA y, a la vez, discontinuará Google Assistant en Android en septiembre.",
+    "El impacto de la IA en el mercado laboral de EE.UU. es cada vez más visible, especialmente para los nuevos profesionales.",
+    "Shopify reporta que la búsqueda con IA triplicó el tráfico y las ventas en sus tiendas, sin canibalizar el tráfico de Google.",
+    "En Argentina, el dólar blue cotiza a $1545 y hay tensiones políticas por la Ley de Tierras.",
+    "Disney y TikTok se asocian para compartir contenido, dando a los creadores acceso a IP de franquicias como Marvel y Star Wars."
   ],
   "oportunidades": [
     {
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
-      "titulo": "Anthropic invierte en diseño de chips de IA propios",
-      "detalle": "Anthropic está armando un equipo para diseñar sus propios chips de IA personalizados, buscando mejorar la eficiencia y velocidad de sus modelos. Esto podría generar avances significativos en el rendimiento de la IA.",
+      "titulo": "La búsqueda con IA de Shopify impulsa tráfico y ventas",
+      "detalle": "Shopify afirma que la búsqueda con IA está generando más tráfico y ventas, triplicando los pedidos año tras año en el segundo trimestre. Esto sugiere un potencial para integrar IA en estrategias de marketing y ventas.",
       "acciones": [
-        "Monitorear el desarrollo de chips de IA de Anthropic para entender futuras capacidades.",
-        "Evaluar el impacto de la optimización de hardware y software en el rendimiento de modelos de IA."
+        "Evaluar la implementación de herramientas de búsqueda con IA en plataformas de e-commerce o sitios web propios.",
+        "Investigar cómo la IA puede optimizar la visibilidad y conversión de productos o servicios."
       ]
     },
     {
       "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
       "categoria": "Marketing",
-      "titulo": "Estrategias de marketing exitosas en la Copa del Mundo",
-      "detalle": "Coca-Cola, Adidas, Unilever y otras marcas cosecharon beneficios de sus asociaciones oficiales con la Copa del Mundo a través de diversas estrategias de marketing.",
+      "titulo": "Alianza entre Disney y TikTok para compartir contenido",
+      "detalle": "Disney y TikTok se asociaron para compartir contenido, dando a los creadores acceso a IP de franquicias como Marvel y Star Wars. Esto abre una vía para contenido de video vertical y fomenta el fandom.",
       "acciones": [
-        "Analizar las estrategias de marketing de estas marcas para identificar tácticas aplicables.",
-        "Considerar la inversión en patrocinios de eventos globales para aumentar la visibilidad de marca."
+        "Analizar cómo las alianzas estratégicas con plataformas de contenido pueden amplificar el alcance de proyectos creativos.",
+        "Explorar el uso de contenido vertical y la colaboración con creadores para marketing."
       ]
     }
   ],
   "riesgos": [
     {
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "categoria": "Platform",
+      "categoria": "Technology",
       "titulo": "Desaparición de Google Assistant en Android",
-      "detalle": "Google Assistant será eliminado de los teléfonos y tablets Android a partir del 4 de septiembre. Esto podría afectar la experiencia de usuario y la integración de servicios que dependen de Assistant.",
-      "mitigacion": "Evaluar la dependencia de Google Assistant en flujos de trabajo personales y buscar alternativas o adaptaciones a Gemini."
+      "detalle": "Google Assistant será eliminado de los teléfonos y tablets Android a partir del 4 de septiembre. Esto podría afectar flujos de trabajo o automatizaciones que dependan de este asistente.",
+      "mitigacion": "Revisar y adaptar cualquier dependencia de Google Assistant en dispositivos Android. Explorar alternativas como Gemini u otros asistentes de voz."
     },
     {
-      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
-      "categoria": "Market",
-      "titulo": "Caída de acciones de AMD tras resultados",
-      "detalle": "Las acciones de AMD cayeron un 5% después de sus resultados, lo que indica que el mercado no consideró el resultado como excepcional.",
-      "mitigacion": "Revisar la cartera de inversiones y considerar la diversificación para mitigar el impacto de la volatilidad en acciones individuales."
-    },
-    {
-      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
-      "categoria": "Market",
-      "titulo": "Caída de acciones de SpaceX",
-      "detalle": "Las acciones de SpaceX cayeron, y los analistas reaccionaron a los resultados y ajustaron los precios objetivo.",
-      "mitigacion": "Monitorear de cerca las noticias y análisis de SpaceX y el sector espacial para tomar decisiones de inversión informadas."
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "AI",
+      "titulo": "Impacto de la IA en el mercado laboral",
+      "detalle": "Un informe de Morgan Stanley indica que la IA está generando cambios visibles en el mercado laboral de EE.UU., especialmente para quienes recién empiezan. Esto podría indicar tendencias futuras en otros mercados.",
+      "mitigacion": "Mantenerse actualizado sobre las tendencias de la IA y su impacto en el sector creativo y de retoque fotográfico. Considerar la capacitación en nuevas herramientas de IA para adaptarse a posibles cambios."
     }
   ],
-  "conexiones": [
-    {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "titulo": "Proteccionismo de IA de Trump llega a la robótica",
-      "historias": [
-        "El proteccionismo de Trump en IA ahora afecta a la robótica, según un informe.",
-        "Los robots humanoides aún tienen limitaciones, a pesar de los avances."
-      ],
-      "conclusion": "La política de proteccionismo en IA podría impactar el desarrollo de la robótica, una industria aún en sus inicios con desafíos técnicos importantes."
-    },
-    {
-      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
-      "titulo": "Conflicto diplomático entre Argentina y Brasil",
-      "historias": [
-        "El Gobierno argentino acusó a Lula de escalar unilateralmente el conflicto y ratificó el apoyo de Milei a Bolsonaro.",
-        "El gobierno argentino ratificó que no tomará respuestas diplomáticas contra Brasil, manteniendo la relación al nivel que decida Brasilia."
-      ],
-      "conclusion": "Argentina mantiene una postura de no escalada en el conflicto diplomático con Brasil, a pesar de las tensiones y la rebaja de relaciones por parte de Brasil."
-    }
-  ],
+  "conexiones": [],
   "noticias": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
@@ -177,9 +151,9 @@
       "fuente": "Google AI Blog",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
       "tituloOriginal": "The latest AI news we announced in July 2026",
-      "tituloLimpio": "Google publicó las últimas novedades de IA de julio de 2026",
-      "resumen": "Acá están las últimas actualizaciones de IA de Google de julio de 2026.",
-      "porQueImporta": "Es relevante para entender los avances y la dirección de Google en inteligencia artificial, un área clave para Guido.",
+      "tituloLimpio": "Google anunció sus últimas actualizaciones de IA en julio de 2026",
+      "resumen": "Estas son las últimas actualizaciones de IA de Google de julio de 2026.",
+      "porQueImporta": "Es relevante para estar al tanto de las innovaciones de Google en inteligencia artificial, que pueden influir en herramientas y flujos de trabajo.",
       "publicadoEn": "2026-08-04T13:00:00.000Z",
       "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp",
       "globalScore": 100,
@@ -195,20 +169,20 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/indice-big-mac-argentina-mejora-el-ranking-pero-el-peso-sigue-sobrevaluado-un-19-n6307297",
-      "tituloOriginal": "Índice Big Mac: Argentina mejora en el ranking, pero el peso sigue sobrevaluado un 19%",
-      "tituloLimpio": "Índice Big Mac: Argentina mejora en el ranking, pero el peso sigue sobrevaluado un 19%",
-      "resumen": "El resultado muestra una clara mejora, aunque el país todavía se encuentra entre los países donde la hamburguesa tiene un precio elevado en relación con el poder adquisitivo.",
-      "porQueImporta": "Ofrece una perspectiva sobre la economía argentina y la valuación del peso, información útil para Guido como residente y potencial inversor.",
-      "publicadoEn": "2026-08-05T13:27:00.000Z",
-      "imagen": "https://media.ambito.com/p/e83aa85a3588bb2053c68253e8d55148/adjuntos/239/imagenes/039/656/0039656671/indice-big-macjpg.jpg",
-      "globalScore": 100,
+      "url": "https://www.ambito.com/economia/crece-el-impacto-la-ia-el-mercado-trabajo-eeuu-puede-afectar-el-nivel-empleo-n6307414",
+      "tituloOriginal": "Crece el impacto de la IA en el mercado de trabajo de EEUU: ¿puede afectar el nivel de empleo?",
+      "tituloLimpio": "El impacto de la IA en el mercado laboral de EE.UU. podría afectar el empleo",
+      "resumen": "Un informe de Morgan Stanley encontró que los cambios de la inteligencia artificial son cada vez más visibles, especialmente en quienes inician su carrera laboral.",
+      "porQueImporta": "Aunque se centra en EE.UU., la tendencia del impacto de la IA en el empleo es global y puede afectar el sector creativo y de retoque fotográfico en Argentina.",
+      "publicadoEn": "2026-08-05T17:17:00.000Z",
+      "imagen": "https://media.ambito.com/p/fb1feaaa0db0dfb7df8e5e315059242f/adjuntos/239/imagenes/043/080/0043080860/1200x675/smart/mercado-trabajo.jpg",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "Argentina",
-        "economía",
-        "peso",
-        "sobrevaluación"
+        "IA",
+        "empleo",
+        "EEUU",
+        "tendencias"
       ],
       "tambienVistoEn": []
     },
@@ -216,19 +190,20 @@
       "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
       "categoria": "Marketing",
       "fuente": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/how-5-brands-won-world-cup-gold-through-marketing-investments/826954/",
-      "tituloOriginal": "How 5 brands won World Cup gold through marketing investments",
-      "tituloLimpio": "Cómo 5 marcas ganaron la Copa del Mundo con inversiones de marketing",
-      "resumen": "Coca-Cola, Adidas, Unilever y otras marcas cosecharon beneficios de sus asociaciones oficiales con el torneo global a través de diversas estrategias de marketing.",
-      "porQueImporta": "Proporciona ejemplos concretos de estrategias de marketing exitosas en grandes eventos, relevante para el interés de Guido en marketing.",
-      "publicadoEn": "2026-08-05T12:00:00.000Z",
-      "globalScore": 100,
+      "url": "https://www.marketingdive.com/news/disney-tiktok-partner-on-content-sharing-as-creators-fuel-fandom/827054/",
+      "tituloOriginal": "Disney, TikTok partner on content sharing as creators fuel fandom",
+      "tituloLimpio": "Disney y TikTok se asocian para compartir contenido",
+      "resumen": "El acuerdo da a los creadores acceso a propiedad intelectual de franquicias, incluyendo Marvel y Star Wars, y a Disney un canal para contenido de video vertical.",
+      "porQueImporta": "Muestra una tendencia en marketing digital y creación de contenido, relevante para estrategias de marca y uso de plataformas sociales.",
+      "publicadoEn": "2026-08-05T14:54:00.000Z",
+      "globalScore": 92,
       "personalScore": 100,
       "tags": [
-        "marketing",
-        "marcas",
-        "Copa del Mundo",
-        "estrategias"
+        "Marketing",
+        "TikTok",
+        "Disney",
+        "contenido",
+        "creadores"
       ],
       "tambienVistoEn": []
     },
@@ -236,19 +211,19 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
-      "tituloOriginal": "Anthropic is hiring an AI chip design team",
-      "tituloLimpio": "Anthropic está contratando un equipo para diseñar chips de IA",
-      "resumen": "Anthropic está armando un equipo para diseñar sus propios chips de IA personalizados. La empresa detrás de Claude dijo que codiseñaría hardware y modelos para que su tecnología funcione más rápido y de forma más eficiente.",
-      "porQueImporta": "Indica una tendencia en el desarrollo de hardware específico para IA, lo que podría impactar el rendimiento y las capacidades de los modelos de IA.",
-      "publicadoEn": "2026-08-05T14:13:18.000Z",
+      "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+      "tituloOriginal": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+      "tituloLimpio": "Shopify afirma que la búsqueda con IA impulsa más tráfico y ventas",
+      "resumen": "Shopify dice que la IA no está canibalizando el tráfico de búsqueda como lo ha hecho para los editores. En cambio, el tráfico y los pedidos impulsados por IA a las tiendas Shopify se triplicaron año tras año en el segundo trimestre.",
+      "porQueImporta": "Destaca el potencial de la IA para mejorar el e-commerce y el marketing, generando más tráfico y ventas sin reemplazar métodos tradicionales.",
+      "publicadoEn": "2026-08-05T15:56:14.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "Anthropic",
-        "chips",
         "IA",
-        "hardware"
+        "e-commerce",
+        "marketing",
+        "Shopify"
       ],
       "tambienVistoEn": []
     },
@@ -258,17 +233,17 @@
       "fuente": "The Verge AI",
       "url": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
       "tituloOriginal": "Google Assistant will disappear from your phone next month",
-      "tituloLimpio": "Google Assistant desaparecerá de los teléfonos el próximo mes",
-      "resumen": "Los días de Google Assistant están contados desde que llegó Gemini, y su tiempo se acabó. Google anunció que eliminará el acceso a Assistant en teléfonos y tablets Android, junto con dispositivos vinculados como smartwatches o auriculares, a partir del 4 de septiembre.",
-      "porQueImporta": "Es un cambio importante en la plataforma Android y la interacción con la IA de Google, afectando a millones de usuarios.",
+      "tituloLimpio": "Google Assistant desaparecerá de los teléfonos Android el próximo mes",
+      "resumen": "Google anunció que eliminará el acceso a Assistant en teléfonos y tablets Android, así como en dispositivos vinculados como smartwatches o auriculares, a partir del 4 de septiembre.",
+      "porQueImporta": "Es un cambio importante en el ecosistema de Google que podría afectar a usuarios de Android y la integración de asistentes de voz en dispositivos.",
       "publicadoEn": "2026-08-05T11:12:50.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "Google Assistant",
-        "Gemini",
+        "Google",
+        "Assistant",
         "Android",
-        "desaparición"
+        "IA"
       ],
       "tambienVistoEn": []
     },
@@ -279,16 +254,16 @@
       "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
       "tituloOriginal": "Trump’s AI protectionism has come for robotics",
       "tituloLimpio": "El proteccionismo de IA de Trump llegó a la robótica",
-      "resumen": "Esta historia apareció originalmente en The Algorithm, nuestro newsletter semanal sobre IA. Para recibir historias como esta primero en tu bandeja de entrada, suscríbete acá. Los robots humanoides suelen generar más vergüenza que asombro: tropiezan, patean niños y, a pesar de los avances, siguen siendo peores usando sus manos que mi hijo pequeño. Es una industria naciente, y tales robots…",
-      "porQueImporta": "Muestra cómo las políticas gubernamentales pueden influir en el desarrollo de tecnologías emergentes como la robótica y la IA.",
+      "resumen": "Esta historia apareció originalmente en The Algorithm, nuestro boletín semanal sobre IA.",
+      "porQueImporta": "Aunque se menciona a Trump, el foco en el proteccionismo de IA y su impacto en la robótica es una tendencia global que puede afectar la disponibilidad y el costo de tecnologías futuras.",
       "publicadoEn": "2026-08-03T18:43:30.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "Trump",
         "IA",
-        "proteccionismo",
-        "robótica"
+        "robótica",
+        "política",
+        "tecnología"
       ],
       "tambienVistoEn": []
     },
@@ -296,19 +271,19 @@
       "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Apple",
       "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/05/ios-27s-best-new-messages-feature-is-all-about-saving-you-time/",
-      "tituloOriginal": "iOS 27’s best new Messages feature is all about saving you time",
-      "tituloLimpio": "La mejor nueva función de Mensajes de iOS 27 busca ahorrarte tiempo",
-      "resumen": "iOS 27 le da a la app Mensajes una variedad de nuevas funciones y mejoras. Y, según mi experiencia con la beta, la mejor nueva función de Mensajes es un práctico ahorro de tiempo: sugerencias con un solo toque.",
-      "porQueImporta": "Es una mejora de usabilidad en una aplicación central de Apple, relevante para usuarios de iOS que buscan optimizar su tiempo.",
-      "publicadoEn": "2026-08-05T14:05:46.000Z",
-      "globalScore": 96,
+      "url": "https://9to5mac.com/2026/08/05/ipados-27-adds-two-new-ipad-features-ive-been-loving/",
+      "tituloOriginal": "iPadOS 27 adds two new iPad features I’ve been loving",
+      "tituloLimpio": "iPadOS 27 agrega dos nuevas funciones para iPad",
+      "resumen": "iPadOS 27 se lanza el próximo mes, con nuevas funciones en aplicaciones como Notas, Mensajes, Calendario, Mail y más. Aquí hay un par de funciones de iPadOS 27 que me han encantado.",
+      "porQueImporta": "Novedades importantes para usuarios de Apple, especialmente aquellos que utilizan el iPad para trabajo creativo o productividad.",
+      "publicadoEn": "2026-08-05T18:21:00.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "iOS 27",
         "Apple",
-        "Mensajes",
-        "productividad"
+        "iPadOS",
+        "iPad",
+        "actualizaciones"
       ],
       "tambienVistoEn": []
     },
@@ -316,61 +291,40 @@
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
       "categoria": "Apple",
       "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/08/05/teen-died-because-tiktok-just-turned-off-safety-controls-to-see-what-happened?utm_source=rss",
-      "tituloOriginal": "Teen died because TikTok just turned off safety controls to see what happened",
-      "tituloLimpio": "Adolescente murió porque TikTok desactivó controles de seguridad para ver qué pasaba",
-      "resumen": "TikTok se jactó de agregar medidas para proteger a los adolescentes del contenido dañino, pero deliberadamente las mantuvo alejadas de 15 millones de estadounidenses hasta que uno se suicidó, y luego mintió sobre ser responsable. TikTok deshabilitó intencionalmente nuevas funciones de seguridad para un grupo de control de alrededor de 15 millones de estadounidenses.",
-      "porQueImporta": "Destaca un grave problema ético y de seguridad en plataformas digitales, relevante para la responsabilidad de las empresas tecnológicas y la protección de usuarios.",
-      "publicadoEn": "2026-08-05T13:54:20.000Z",
+      "url": "https://appleinsider.com/articles/26/08/05/small-siri-and-smart-what-to-expect-from-homepod-mini-2?utm_source=rss",
+      "tituloOriginal": "Small, Siri, and smart: What to expect from HomePod mini 2",
+      "tituloLimpio": "Qué esperar del HomePod mini 2",
+      "resumen": "Apple está preparando algunas actualizaciones para el hogar inteligente, con un nuevo HomePod mini esperado pronto. Esto es lo que se puede esperar del pequeño altavoz inalámbrico de Apple.",
+      "porQueImporta": "Interesante para usuarios de Apple y aquellos interesados en la automatización del hogar y dispositivos inteligentes.",
+      "publicadoEn": "2026-08-05T17:18:24.000Z",
       "globalScore": 96,
       "personalScore": 100,
       "tags": [
-        "TikTok",
-        "seguridad",
-        "adolescentes",
-        "contenido dañino"
+        "Apple",
+        "HomePod",
+        "hogar inteligente",
+        "Siri"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
-      "categoria": "Finance",
-      "fuente": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/this-was-not-an-exceptional-result-why-amd-stock-tanked-5-after-earnings-112124288.html",
-      "tituloOriginal": "'This was not an exceptional result': Why AMD stock tanked 5% after earnings",
-      "tituloLimpio": "Las acciones de AMD cayeron un 5% después de los resultados",
-      "resumen": "“Este no fue un resultado excepcional”: Por qué las acciones de AMD cayeron un 5% después de los resultados.",
-      "porQueImporta": "Es una noticia relevante para inversores, ya que muestra la reacción del mercado a los resultados de una empresa tecnológica importante.",
-      "publicadoEn": "2026-08-05T11:21:24.000Z",
-      "imagen": "https://s.yimg.com/uu/api/res/1.2/bw.n089a19GrXF7aqqXyow--~B/aD0zMTIwO3c9NDE2MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-08/6cd529a1-1e18-4983-8185-b3cbc9764bda",
-      "globalScore": 94,
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/stories/the-utility-app-flood-wont-last/",
+      "tituloOriginal": "The Utility App Flood Won’t Last",
+      "tituloLimpio": "La avalancha de aplicaciones de utilidad no durará",
+      "resumen": "La App Store está evolucionando a un ritmo vertiginoso no visto desde sus inicios. Vimos los primeros destellos de lo que vendría a principios de 2025, pero no fue hasta finales del año pasado que el tsunami de aplicaciones desarrolladas con la ayuda de agentes de IA realmente se afianzó.",
+      "porQueImporta": "Analiza la evolución de la App Store y el impacto de la IA en el desarrollo de aplicaciones, relevante para entender el futuro de las herramientas y el software.",
+      "publicadoEn": "2026-08-05T16:24:37.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "AMD",
-        "acciones",
-        "finanzas",
-        "resultados"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
-      "categoria": "Finance",
-      "fuente": "Yahoo Finance",
-      "url": "https://www.investors.com/news/spacex-stock-earnings-analyst-reactions-price-target-starlink-ai-expenditures-starship-q2-2026/?src=A00220&yptr=yahoo",
-      "tituloOriginal": "SpaceX Stock Dives. Analysts React To Earnings Beat, Shift Price Targets.",
-      "tituloLimpio": "Las acciones de SpaceX caen. Analistas reaccionan a los resultados y ajustan precios objetivo.",
-      "resumen": "",
-      "porQueImporta": "Importante para inversores interesados en el sector espacial y tecnológico, mostrando la volatilidad del mercado.",
-      "publicadoEn": "2026-08-05T13:53:24.000Z",
-      "imagen": "https://media.zenfs.com/en/ibd.com/338a28d266f413510e902bb15426a84f",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "SpaceX",
-        "acciones",
-        "finanzas",
-        "resultados"
+        "Apple",
+        "App Store",
+        "IA",
+        "aplicaciones",
+        "tendencias"
       ],
       "tambienVistoEn": []
     },
@@ -378,21 +332,19 @@
       "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
       "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/05/noumura-s-laser-digital-backs-zigchain-for-onchain-private-credit-push-in-uae",
-      "tituloOriginal": "Nomura’s Laser Digital backs ZIGChain for onchain private credit push in UAE",
-      "tituloLimpio": "Laser Digital de Nomura respalda a ZIGChain para impulsar el crédito privado onchain en EAU",
-      "resumen": "Se entiende que la inversión de Laser en ZIGChain es de millones de un solo dígito.",
-      "porQueImporta": "Muestra la expansión de las finanzas descentralizadas y el interés de grandes instituciones en el crédito privado onchain.",
-      "publicadoEn": "2026-08-05T13:25:04.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/1c5f9936bbd084d1a17d68695e5de5b4ec268eb4-778x509.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "url": "https://www.coindesk.com/policy/2026/08/05/crypto-s-campaign-efforts-see-rare-loss-but-crypto-roster-in-congress-likely-to-grow",
+      "tituloOriginal": "Crypto's campaign efforts see rare loss, but crypto roster in Congress likely to grow",
+      "tituloLimpio": "Los esfuerzos de campaña de las criptomonedas sufren una rara derrota, pero la lista de cripto en el Congreso probablemente crecerá",
+      "resumen": "El principal PAC de la industria, Fairshake, invirtió 2 millones de dólares en una primaria demócrata en Detroit, pero no logró su objetivo, aunque varios candidatos respaldados por PAC ganaron en otros lugares.",
+      "porQueImporta": "Aunque se refiere a política estadounidense, muestra la influencia creciente de las criptomonedas en la política y las finanzas, una tendencia global.",
+      "publicadoEn": "2026-08-05T18:15:21.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/c8bf1032698144f529bec9f855343103ae1ae314-5717x3812.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
       "globalScore": 96,
       "personalScore": 100,
       "tags": [
-        "Nomura",
-        "ZIGChain",
+        "Criptomonedas",
         "finanzas",
-        "blockchain",
-        "crédito"
+        "política"
       ],
       "tambienVistoEn": []
     },
@@ -400,20 +352,19 @@
       "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
       "categoria": "Finance",
       "fuente": "CoinTelegraph",
-      "url": "https://cointelegraph.com/magazine/does-the-coldcard-attack-mean-all-hardware-wallets-are-now-insecure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "tituloOriginal": "Do the Coldcard attacks mean all hardware wallets are now insecure?",
-      "tituloLimpio": "¿Los ataques a Coldcard significan que todas las billeteras de hardware son inseguras?",
-      "resumen": "La falla de entropía de Coldcard causó una crisis de confianza en las billeteras de hardware. Acá están los detalles que necesitás saber antes de confiarle tu Bitcoin a Ledger, Trezor o Foundation.",
-      "porQueImporta": "Es crucial para la seguridad de las inversiones en criptomonedas, especialmente para quienes usan billeteras de hardware.",
-      "publicadoEn": "2026-08-05T13:30:00.000Z",
-      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-double-spending-in-btc-wallets-the-issue-persists.jpg",
+      "url": "https://cointelegraph.com/news/michigan-house-rep-loses-primary-support-crypto-pac?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Crypto-backed Michigan House incumbent loses primary despite $2M PAC support",
+      "tituloLimpio": "Representante de Michigan respaldado por criptomonedas pierde las primarias a pesar del apoyo de 2 millones de dólares del PAC",
+      "resumen": "Una primaria demócrata en el Medio Oeste que generó acusaciones de represalias por parte de la industria de las criptomonedas terminó con la destitución del titular de dos mandatos Shri Thanedar.",
+      "porQueImporta": "Similar a la noticia anterior, ilustra la dinámica entre el sector cripto y la política, y cómo las inversiones en campañas pueden no siempre garantizar el éxito.",
+      "publicadoEn": "2026-08-05T16:51:54.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-can-somebody-predict-the-next-us-elections-crypto.jpg",
       "globalScore": 90,
       "personalScore": 100,
       "tags": [
-        "Coldcard",
-        "billeteras de hardware",
-        "seguridad",
-        "Bitcoin"
+        "Criptomonedas",
+        "finanzas",
+        "política"
       ],
       "tambienVistoEn": []
     },
@@ -421,20 +372,20 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/hacer-crecer-negocio-potenciar-rentabilidad-falso-dilema-hoy-condiciona-estrategia-empresarial_0_v9eKpG5R6T.html",
-      "tituloOriginal": "Hacer crecer el negocio o potenciar la rentabilidad: el falso dilema que aún hoy condiciona la estrategia empresarial",
-      "tituloLimpio": "Hacer crecer el negocio o potenciar la rentabilidad: el falso dilema que aún hoy condiciona la estrategia empresarial",
-      "resumen": "Desde su experiencia como consultor, Juan Defiore sostiene que más allá del contexto particular de cada industria, hay una agenda directiva que exige metas consistentes de crecimiento junto con las de generación de valor y resultados. “El crecimiento sigue siendo un objetivo, pero convive con una mayor disciplina en la gestión y una mirada cada vez más enfocada”",
-      "porQueImporta": "Ofrece una perspectiva sobre la gestión empresarial y la toma de decisiones estratégicas, relevante para el interés de Guido en negocios y marketing.",
-      "publicadoEn": "2026-08-05T12:08:32.000Z",
-      "imagen": "https://www.clarin.com/img/2018/10/24/kEEthqvHZ_1200x630__1.jpg",
+      "url": "https://www.clarin.com/economia/euro-hoy-en-venezuela-precio-y-cotizacion-de-la-divisa-este-miercoles-5-de-agosto-de-2026_0_sJ1SOm3q7a.html",
+      "tituloOriginal": "Euro hoy en Venezuela: precio y cotización de la divisa este miércoles 5 de agosto de 2026",
+      "tituloLimpio": "Euro hoy en Venezuela: precio y cotización de la divisa este miércoles 5 de agosto de 2026",
+      "resumen": "Mirá la cotización del euro en Venezuela, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
+      "porQueImporta": "Aunque es sobre Venezuela, es una referencia de la cotización de una divisa importante en la región, útil para entender el contexto económico latinoamericano.",
+      "publicadoEn": "2026-08-05T10:45:14.000Z",
+      "imagen": "https://www.clarin.com/img/2018/06/18/HJOW7NrW7_1200x630.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "negocios",
-        "rentabilidad",
-        "estrategia empresarial",
-        "crecimiento"
+        "Euro",
+        "Venezuela",
+        "economía",
+        "divisas"
       ],
       "tambienVistoEn": []
     },
@@ -442,20 +393,21 @@
       "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Politica",
-      "url": "https://www.clarin.com/politica/gobierno-acuso-lula-escalar-unilateralmente-conflicto-ratifico-apoyo-milei-bolsonaro-region-cambiando-esperamos-brasil_0_aFwIgN1UlM.html",
-      "tituloOriginal": "El Gobierno acusó a Lula de escalar unilateralmente el conflicto y ratificó el apoyo de Milei a Bolsonaro: \"La región está cambiando y esperamos que así también sea en Brasil\"",
-      "tituloLimpio": "El Gobierno acusó a Lula de escalar unilateralmente el conflicto y ratificó el apoyo de Milei a Bolsonaro",
-      "resumen": "El canciller habló del conflicto bilateral durante la conferencia de prensa que brindó por la visita del Papa León XIV al país. Brasil rebajó sus relaciones diplomáticas con Argentina al nivel de “encargado de negocios”, tras una serie de insultos de Milei hacia Lula.",
-      "porQueImporta": "Es una noticia política importante que afecta las relaciones internacionales de Argentina y el contexto regional.",
-      "publicadoEn": "2026-08-05T12:58:07.000Z",
-      "imagen": "https://www.clarin.com/img/2026/08/05/2_8UjGTd5_1200x630__1.jpg",
-      "globalScore": 100,
+      "url": "https://www.clarin.com/politica/consejo-amigo-retirate-luis-caputo-recomendo-kicillof-presente-2027-reforma-carta-organica-central_0_mvVY7SumfO.html",
+      "tituloOriginal": "\"Consejo de amigo, retirate\": Luis Caputo le recomendó a Kicillof que no se presente en 2027 si se reforma la carta orgánica del Central",
+      "tituloLimpio": "Luis Caputo le recomendó a Kicillof que no se presente en 2027 si se reforma la carta orgánica del Central",
+      "resumen": "El ministro de Economía volvió a apuntar contra el gobernador bonaerense y lo calificó de \"degenerado fiscal\".",
+      "porQueImporta": "Noticia política y económica relevante para Argentina, que muestra las tensiones entre figuras clave del gobierno.",
+      "publicadoEn": "2026-08-05T16:34:55.000Z",
+      "imagen": "https://www.clarin.com/img/2026/07/26/mDHbw0rRA_1200x630__1.jpg",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Brasil",
         "política",
-        "conflicto diplomático"
+        "economía",
+        "Caputo",
+        "Kicillof"
       ],
       "tambienVistoEn": []
     },
@@ -463,20 +415,20 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/08/05/cuantos-dolares-podrian-comprar-los-argentinos-para-ahorrar-en-lo-que-resta-de-2026/",
-      "tituloOriginal": "Cuántos dólares podrían comprar los argentinos para ahorrar en lo que resta de 2026",
-      "tituloLimpio": "Cuántos dólares podrían comprar los argentinos para ahorrar en lo que resta de 2026",
-      "resumen": "En junio, las personas físicas se llevaron más de USD 2.000 millones. Economistas proyectan que el año cerrará con adquisiciones de personas físicas por debajo de 2025.",
-      "porQueImporta": "Información relevante para la planificación financiera personal en Argentina, especialmente para quienes buscan ahorrar en dólares.",
-      "publicadoEn": "2026-08-05T13:52:55.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/2EZJIRUA5NFCLF4WUJTFWBXMVA.JPG?auth=7e243568ec0dfd766070ebe4c5597e2a67ba73c335244168b52ca58886f765e5&smart=true&width=800&height=533",
-      "globalScore": 86,
+      "url": "https://www.infobae.com/economia/2026/08/05/luis-caputo-para-todos-los-tarados-que-hablan-de-la-industria-entre-2011-y-2023-cayo-10-a-pesar-de-los-subsidios/",
+      "tituloOriginal": "Luis Caputo: “Para todos los tarados que hablan de la industria: entre 2011 y 2023, cayó 10% a pesar de los subsidios”",
+      "tituloLimpio": "Luis Caputo: “La industria cayó 10% entre 2011 y 2023 a pesar de los subsidios”",
+      "resumen": "El ministro de Economía criticó con dureza a quienes consideran que el modelo económico actual perjudica al sector manufacturero.",
+      "porQueImporta": "Declaraciones del ministro de Economía sobre la situación de la industria argentina, relevantes para entender el panorama económico local.",
+      "publicadoEn": "2026-08-05T18:00:18.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/DAYLGTF57VEIZAIWYWSKJGJUEA.jpg?auth=bf8d330823bd6f0ac78ad5a78c59a1f7101e4e0912aec99046a50c8cd2ec55be&smart=true&width=1920&height=1080",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "dólares",
-        "ahorro",
-        "economía"
+        "economía",
+        "industria",
+        "Caputo"
       ],
       "tambienVistoEn": []
     },
@@ -484,20 +436,20 @@
       "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Politica",
-      "url": "https://www.infobae.com/politica/2026/08/05/para-pelearse-hacen-falta-dos-el-gobierno-argentino-ratifico-que-no-tomara-respuestas-diplomaticas-contra-brasil/",
-      "tituloOriginal": "“Para pelearse hacen falta dos”: el gobierno argentino ratificó que no tomará respuestas diplomáticas contra Brasil",
-      "tituloLimpio": "El gobierno argentino ratificó que no tomará respuestas diplomáticas contra Brasil",
-      "resumen": "El ministro Pablo Quirno dijo que la relación se mantendrá al nivel que decida Brasilia, lamentó la medida unilateral y ratificó que no habrá acciones de respuesta ni un pedido de disculpas.",
-      "porQueImporta": "Confirma la postura del gobierno argentino ante el conflicto diplomático con Brasil, importante para entender la política exterior del país.",
-      "publicadoEn": "2026-08-05T13:38:24.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/45XXZAXQ7NBCTGXB52YTAW6PUI.jpeg?auth=9336dfd34726ff1050e82944a63782e109bdab511c798e9f33a85082d3473ff3&smart=true&width=1040&height=770",
+      "url": "https://www.infobae.com/politica/2026/08/05/ley-de-tierras-el-oficialismo-dio-de-baja-el-capitulo-que-genero-debate-para-avanzar-con-la-sesion-de-manana/",
+      "tituloOriginal": "Ley de Tierras: el oficialismo dio de baja el capítulo que generó debate para avanzar con la sesión de mañana",
+      "tituloLimpio": "Ley de Tierras: el oficialismo dio de baja el capítulo que generó debate para avanzar con la sesión de mañana",
+      "resumen": "Patricia Bullrich encabezó las negociaciones con los sectores aliados tras el rechazo por parte de dos gobernadores cercanos al Poder Ejecutivo.",
+      "porQueImporta": "Desarrollo importante en la política argentina, que muestra la dinámica legislativa y las negociaciones para aprobar leyes clave.",
+      "publicadoEn": "2026-08-05T17:59:00.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/VFJH6UESUBCGJFJU6S2HSRNVPQ.JPG?auth=08a1477d826deac43f01d7536db698b92a2707db9eb7e523e99ac48459a24984&smart=true&width=3000&height=2000",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Brasil",
         "política",
-        "diplomacia"
+        "Ley de Tierras",
+        "oficialismo"
       ],
       "tambienVistoEn": []
     },
@@ -507,18 +459,18 @@
       "fuente": "La Nacion Economia",
       "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid05082026/",
       "tituloOriginal": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este miércoles 5 de agosto de 2026",
-      "tituloLimpio": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este miércoles 5 de agosto de 2026",
-      "resumen": "La divisa oficial se vende a $1515; en tanto, el dólar blue cotiza a $1545 para esa operación.",
-      "porQueImporta": "Información esencial para la economía diaria en Argentina, relevante para cualquier transacción o planificación financiera.",
-      "publicadoEn": "2026-08-05T14:08:25.000Z",
+      "tituloLimpio": "Dólar hoy y dólar blue en vivo: cotización del oficial y el paralelo este miércoles 5 de agosto de 2026",
+      "resumen": "La divisa oficial se vende a $1520; en tanto, el dólar blue cotiza a $1545 para esa operación; qué pasa con el MEP y el CC.",
+      "porQueImporta": "Información esencial sobre la cotización del dólar en Argentina, fundamental para la planificación financiera y económica personal.",
+      "publicadoEn": "2026-08-05T18:05:00.000Z",
       "imagen": "https://resizer.glanacion.com/resizer/v2/GHSZNGFV4FBN7D6V3AYV4H6RTU.jpg?auth=d9c8fd22de8f9f8455c0d6610ecd246b61fdc09688eb4385a24c4611144e9133&smart=true&width=2000&height=1333",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
+        "Argentina",
         "dólar",
         "dólar blue",
-        "Argentina",
-        "cotización"
+        "finanzas"
       ],
       "tambienVistoEn": []
     },
@@ -526,27 +478,48 @@
       "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Politica",
-      "url": "https://www.lanacion.com.ar/politica/el-pj-impulsa-en-la-legislatura-bonaerense-proyectos-para-limitar-la-compra-de-tierras-por-parte-de-nid05082026/",
-      "tituloOriginal": "El PJ impulsa en la Legislatura bonaerense proyectos para limitar la compra de tierras por parte de extranjeros",
-      "tituloLimpio": "El PJ impulsa proyectos para limitar la compra de tierras por extranjeros en la Legislatura bonaerense",
-      "resumen": "A contramano de lo que impulsa Milei a nivel nacional, legisladores aliados de Kicillof, Massa y Cristina Kirchner presentaron iniciativas para limitar la venta de tierras rurales en la provincia.",
-      "porQueImporta": "Muestra un debate político y económico relevante en la provincia de Buenos Aires, con implicaciones para la inversión y la propiedad de tierras.",
-      "publicadoEn": "2026-08-05T14:12:34.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/KWE27ONMORCH5AFZHOJQ7YQP44.JPG?auth=c9ed6e2c8967e1f7ef7ec4ea577f44135725334e4b655013acfed16fe7346832&smart=true&width=1999&height=1333",
-      "globalScore": 98,
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-escala-el-conflicto-con-brasil-y-crece-la-tension-por-la-sesion-nid05082026/",
+      "tituloOriginal": "Javier Milei y sus medidas, en vivo: escala el conflicto con Brasil y crece la tensión por la sesión de la ley de tierras",
+      "tituloLimpio": "Javier Milei y sus medidas en vivo: escala el conflicto con Brasil y crece la tensión por la sesión de la ley de tierras",
+      "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios.",
+      "porQueImporta": "Panorama general de la situación política y económica en Argentina, incluyendo tensiones internacionales y debates legislativos.",
+      "publicadoEn": "2026-08-05T18:15:00.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/M3AR3ZFHCNHWPKMFOIAINH73HQ.jpg?auth=bda2004d26abe97bdc5bf7a8dffd4c1f3244c79a783aded82d65bc934d992761&smart=true&width=2000&height=1333",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
         "política",
-        "tierras",
-        "extranjeros",
-        "Buenos Aires"
+        "Milei",
+        "Brasil",
+        "Ley de Tierras"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "fuente": "Adweek",
+      "url": "https://www.adweek.com/convergent-tv/disney-looks-to-make-disney-the-digital-centerpiece-of-company/",
+      "tituloOriginal": "Disney Looks to Make Disney+ the ‘Digital Centerpiece’ of Company",
+      "tituloLimpio": "Disney busca hacer de Disney+ el 'centro digital' de la compañía",
+      "resumen": "Disney anunció un nuevo acuerdo con TikTok para integrar clips sociales.",
+      "porQueImporta": "Refuerza la estrategia de Disney de centralizar su contenido digital y expandir su alcance a través de plataformas como TikTok, relevante para tendencias de marketing y consumo de medios.",
+      "publicadoEn": "2026-08-05T10:45:38.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "Disney",
+        "TikTok",
+        "contenido",
+        "streaming"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-08-05T14:14:32.297Z"
+    "generadoEn": "2026-08-05T18:21:28.120Z"
   }
 }
