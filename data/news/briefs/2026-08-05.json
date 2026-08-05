@@ -1,0 +1,552 @@
+{
+  "fecha": "2026-08-05",
+  "generadoEn": "2026-08-05T14:14:32.297Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "Las novedades de IA de Google de julio de 2026 ya están disponibles. Anthropic está formando un equipo para diseñar sus propios chips de IA, mientras que Google Assistant desaparecerá de los teléfonos Android el próximo mes. En Apple, hay descuentos en MacBook Pro y AirPods en Best Buy, y iOS 27 trae mejoras en Mensajes. En Argentina, el Índice Big Mac muestra una mejora, aunque el peso sigue sobrevaluado. El gobierno argentino ratificó que no tomará acciones diplomáticas contra Brasil, a pesar de la escalada del conflicto. El dólar oficial y el blue cotizan a $1515 y $1545 respectivamente. En marketing, se destacan las estrategias de 5 marcas en la Copa del Mundo y Disney vendió todos sus espacios publicitarios para el Super Bowl. En finanzas, las acciones de AMD y SpaceX cayeron tras sus resultados, y Nomura invierte en ZIGChain para crédito privado onchain.",
+  "radarPersonal": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Google publicó las últimas novedades de IA de julio de 2026",
+      "resumen": "Acá están las últimas actualizaciones de IA de Google de julio de 2026.",
+      "categoria": "AI",
+      "fuentes": [
+        "Google AI Blog"
+      ],
+      "urls": [
+        "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/"
+      ],
+      "score": 100,
+      "tags": [
+        "Google",
+        "IA",
+        "actualizaciones"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "Anthropic está contratando un equipo para diseñar chips de IA",
+      "resumen": "Anthropic está armando un equipo para diseñar sus propios chips de IA personalizados. La empresa detrás de Claude dijo que codiseñaría hardware y modelos para que su tecnología funcione más rápido y de forma más eficiente.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/"
+      ],
+      "score": 100,
+      "tags": [
+        "Anthropic",
+        "chips",
+        "IA",
+        "hardware"
+      ]
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "Google Assistant desaparecerá de los teléfonos el próximo mes",
+      "resumen": "Los días de Google Assistant están contados desde que llegó Gemini, y su tiempo se acabó. Google anunció que eliminará el acceso a Assistant en teléfonos y tablets Android, junto con dispositivos vinculados como smartwatches o auriculares, a partir del 4 de septiembre.",
+      "categoria": "AI",
+      "fuentes": [
+        "The Verge AI"
+      ],
+      "urls": [
+        "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown/"
+      ],
+      "score": 100,
+      "tags": [
+        "Google Assistant",
+        "Gemini",
+        "Android"
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Índice Big Mac: Argentina mejora en el ranking, pero el peso sigue sobrevaluado un 19%",
+      "resumen": "El resultado muestra una clara mejora, aunque el país todavía se encuentra entre los países donde la hamburguesa tiene un precio elevado en relación con el poder adquisitivo.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/indice-big-mac-argentina-mejora-el-ranking-pero-el-peso-sigue-sobrevaluado-un-19-n6307297"
+      ],
+      "score": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "peso",
+        "sobrevaluación"
+      ]
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este miércoles 5 de agosto de 2026",
+      "resumen": "La divisa oficial se vende a $1515; en tanto, el dólar blue cotiza a $1545 para esa operación.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "La Nacion Economia"
+      ],
+      "urls": [
+        "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid05082026/"
+      ],
+      "score": 100,
+      "tags": [
+        "dólar",
+        "dólar blue",
+        "Argentina",
+        "cotización"
+      ]
+    }
+  ],
+  "loImportante": [
+    "Google Assistant será eliminado de los dispositivos Android a partir del 4 de septiembre, lo que implica un cambio significativo en la interacción con la IA de Google.",
+    "Anthropic está invirtiendo en el diseño de sus propios chips de IA, lo que podría mejorar la eficiencia y velocidad de sus modelos, impactando el desarrollo futuro de la IA.",
+    "El Índice Big Mac muestra que el peso argentino sigue sobrevaluado, a pesar de una mejora en el ranking, lo que es relevante para la economía local y las decisiones de inversión.",
+    "El gobierno argentino no tomará acciones diplomáticas contra Brasil, manteniendo la relación al nivel que decida Brasilia, lo que marca la postura del país en un conflicto regional.",
+    "Las acciones de AMD y SpaceX cayeron tras sus resultados, lo que indica volatilidad en el mercado de tecnología y finanzas, relevante para inversores."
+  ],
+  "oportunidades": [
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "titulo": "Anthropic invierte en diseño de chips de IA propios",
+      "detalle": "Anthropic está armando un equipo para diseñar sus propios chips de IA personalizados, buscando mejorar la eficiencia y velocidad de sus modelos. Esto podría generar avances significativos en el rendimiento de la IA.",
+      "acciones": [
+        "Monitorear el desarrollo de chips de IA de Anthropic para entender futuras capacidades.",
+        "Evaluar el impacto de la optimización de hardware y software en el rendimiento de modelos de IA."
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "Estrategias de marketing exitosas en la Copa del Mundo",
+      "detalle": "Coca-Cola, Adidas, Unilever y otras marcas cosecharon beneficios de sus asociaciones oficiales con la Copa del Mundo a través de diversas estrategias de marketing.",
+      "acciones": [
+        "Analizar las estrategias de marketing de estas marcas para identificar tácticas aplicables.",
+        "Considerar la inversión en patrocinios de eventos globales para aumentar la visibilidad de marca."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "Platform",
+      "titulo": "Desaparición de Google Assistant en Android",
+      "detalle": "Google Assistant será eliminado de los teléfonos y tablets Android a partir del 4 de septiembre. Esto podría afectar la experiencia de usuario y la integración de servicios que dependen de Assistant.",
+      "mitigacion": "Evaluar la dependencia de Google Assistant en flujos de trabajo personales y buscar alternativas o adaptaciones a Gemini."
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Market",
+      "titulo": "Caída de acciones de AMD tras resultados",
+      "detalle": "Las acciones de AMD cayeron un 5% después de sus resultados, lo que indica que el mercado no consideró el resultado como excepcional.",
+      "mitigacion": "Revisar la cartera de inversiones y considerar la diversificación para mitigar el impacto de la volatilidad en acciones individuales."
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Market",
+      "titulo": "Caída de acciones de SpaceX",
+      "detalle": "Las acciones de SpaceX cayeron, y los analistas reaccionaron a los resultados y ajustaron los precios objetivo.",
+      "mitigacion": "Monitorear de cerca las noticias y análisis de SpaceX y el sector espacial para tomar decisiones de inversión informadas."
+    }
+  ],
+  "conexiones": [
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "titulo": "Proteccionismo de IA de Trump llega a la robótica",
+      "historias": [
+        "El proteccionismo de Trump en IA ahora afecta a la robótica, según un informe.",
+        "Los robots humanoides aún tienen limitaciones, a pesar de los avances."
+      ],
+      "conclusion": "La política de proteccionismo en IA podría impactar el desarrollo de la robótica, una industria aún en sus inicios con desafíos técnicos importantes."
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "titulo": "Conflicto diplomático entre Argentina y Brasil",
+      "historias": [
+        "El Gobierno argentino acusó a Lula de escalar unilateralmente el conflicto y ratificó el apoyo de Milei a Bolsonaro.",
+        "El gobierno argentino ratificó que no tomará respuestas diplomáticas contra Brasil, manteniendo la relación al nivel que decida Brasilia."
+      ],
+      "conclusion": "Argentina mantiene una postura de no escalada en el conflicto diplomático con Brasil, a pesar de las tensiones y la rebaja de relaciones por parte de Brasil."
+    }
+  ],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+      "tituloOriginal": "The latest AI news we announced in July 2026",
+      "tituloLimpio": "Google publicó las últimas novedades de IA de julio de 2026",
+      "resumen": "Acá están las últimas actualizaciones de IA de Google de julio de 2026.",
+      "porQueImporta": "Es relevante para entender los avances y la dirección de Google en inteligencia artificial, un área clave para Guido.",
+      "publicadoEn": "2026-08-04T13:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Google",
+        "IA",
+        "actualizaciones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/indice-big-mac-argentina-mejora-el-ranking-pero-el-peso-sigue-sobrevaluado-un-19-n6307297",
+      "tituloOriginal": "Índice Big Mac: Argentina mejora en el ranking, pero el peso sigue sobrevaluado un 19%",
+      "tituloLimpio": "Índice Big Mac: Argentina mejora en el ranking, pero el peso sigue sobrevaluado un 19%",
+      "resumen": "El resultado muestra una clara mejora, aunque el país todavía se encuentra entre los países donde la hamburguesa tiene un precio elevado en relación con el poder adquisitivo.",
+      "porQueImporta": "Ofrece una perspectiva sobre la economía argentina y la valuación del peso, información útil para Guido como residente y potencial inversor.",
+      "publicadoEn": "2026-08-05T13:27:00.000Z",
+      "imagen": "https://media.ambito.com/p/e83aa85a3588bb2053c68253e8d55148/adjuntos/239/imagenes/039/656/0039656671/indice-big-macjpg.jpg",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "peso",
+        "sobrevaluación"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/how-5-brands-won-world-cup-gold-through-marketing-investments/826954/",
+      "tituloOriginal": "How 5 brands won World Cup gold through marketing investments",
+      "tituloLimpio": "Cómo 5 marcas ganaron la Copa del Mundo con inversiones de marketing",
+      "resumen": "Coca-Cola, Adidas, Unilever y otras marcas cosecharon beneficios de sus asociaciones oficiales con el torneo global a través de diversas estrategias de marketing.",
+      "porQueImporta": "Proporciona ejemplos concretos de estrategias de marketing exitosas en grandes eventos, relevante para el interés de Guido en marketing.",
+      "publicadoEn": "2026-08-05T12:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "marcas",
+        "Copa del Mundo",
+        "estrategias"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+      "tituloOriginal": "Anthropic is hiring an AI chip design team",
+      "tituloLimpio": "Anthropic está contratando un equipo para diseñar chips de IA",
+      "resumen": "Anthropic está armando un equipo para diseñar sus propios chips de IA personalizados. La empresa detrás de Claude dijo que codiseñaría hardware y modelos para que su tecnología funcione más rápido y de forma más eficiente.",
+      "porQueImporta": "Indica una tendencia en el desarrollo de hardware específico para IA, lo que podría impactar el rendimiento y las capacidades de los modelos de IA.",
+      "publicadoEn": "2026-08-05T14:13:18.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Anthropic",
+        "chips",
+        "IA",
+        "hardware"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
+      "tituloOriginal": "Google Assistant will disappear from your phone next month",
+      "tituloLimpio": "Google Assistant desaparecerá de los teléfonos el próximo mes",
+      "resumen": "Los días de Google Assistant están contados desde que llegó Gemini, y su tiempo se acabó. Google anunció que eliminará el acceso a Assistant en teléfonos y tablets Android, junto con dispositivos vinculados como smartwatches o auriculares, a partir del 4 de septiembre.",
+      "porQueImporta": "Es un cambio importante en la plataforma Android y la interacción con la IA de Google, afectando a millones de usuarios.",
+      "publicadoEn": "2026-08-05T11:12:50.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Google Assistant",
+        "Gemini",
+        "Android",
+        "desaparición"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "tituloOriginal": "Trump’s AI protectionism has come for robotics",
+      "tituloLimpio": "El proteccionismo de IA de Trump llegó a la robótica",
+      "resumen": "Esta historia apareció originalmente en The Algorithm, nuestro newsletter semanal sobre IA. Para recibir historias como esta primero en tu bandeja de entrada, suscríbete acá. Los robots humanoides suelen generar más vergüenza que asombro: tropiezan, patean niños y, a pesar de los avances, siguen siendo peores usando sus manos que mi hijo pequeño. Es una industria naciente, y tales robots…",
+      "porQueImporta": "Muestra cómo las políticas gubernamentales pueden influir en el desarrollo de tecnologías emergentes como la robótica y la IA.",
+      "publicadoEn": "2026-08-03T18:43:30.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Trump",
+        "IA",
+        "proteccionismo",
+        "robótica"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/05/ios-27s-best-new-messages-feature-is-all-about-saving-you-time/",
+      "tituloOriginal": "iOS 27’s best new Messages feature is all about saving you time",
+      "tituloLimpio": "La mejor nueva función de Mensajes de iOS 27 busca ahorrarte tiempo",
+      "resumen": "iOS 27 le da a la app Mensajes una variedad de nuevas funciones y mejoras. Y, según mi experiencia con la beta, la mejor nueva función de Mensajes es un práctico ahorro de tiempo: sugerencias con un solo toque.",
+      "porQueImporta": "Es una mejora de usabilidad en una aplicación central de Apple, relevante para usuarios de iOS que buscan optimizar su tiempo.",
+      "publicadoEn": "2026-08-05T14:05:46.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "iOS 27",
+        "Apple",
+        "Mensajes",
+        "productividad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/08/05/teen-died-because-tiktok-just-turned-off-safety-controls-to-see-what-happened?utm_source=rss",
+      "tituloOriginal": "Teen died because TikTok just turned off safety controls to see what happened",
+      "tituloLimpio": "Adolescente murió porque TikTok desactivó controles de seguridad para ver qué pasaba",
+      "resumen": "TikTok se jactó de agregar medidas para proteger a los adolescentes del contenido dañino, pero deliberadamente las mantuvo alejadas de 15 millones de estadounidenses hasta que uno se suicidó, y luego mintió sobre ser responsable. TikTok deshabilitó intencionalmente nuevas funciones de seguridad para un grupo de control de alrededor de 15 millones de estadounidenses.",
+      "porQueImporta": "Destaca un grave problema ético y de seguridad en plataformas digitales, relevante para la responsabilidad de las empresas tecnológicas y la protección de usuarios.",
+      "publicadoEn": "2026-08-05T13:54:20.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "TikTok",
+        "seguridad",
+        "adolescentes",
+        "contenido dañino"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/this-was-not-an-exceptional-result-why-amd-stock-tanked-5-after-earnings-112124288.html",
+      "tituloOriginal": "'This was not an exceptional result': Why AMD stock tanked 5% after earnings",
+      "tituloLimpio": "Las acciones de AMD cayeron un 5% después de los resultados",
+      "resumen": "“Este no fue un resultado excepcional”: Por qué las acciones de AMD cayeron un 5% después de los resultados.",
+      "porQueImporta": "Es una noticia relevante para inversores, ya que muestra la reacción del mercado a los resultados de una empresa tecnológica importante.",
+      "publicadoEn": "2026-08-05T11:21:24.000Z",
+      "imagen": "https://s.yimg.com/uu/api/res/1.2/bw.n089a19GrXF7aqqXyow--~B/aD0zMTIwO3c9NDE2MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-08/6cd529a1-1e18-4983-8185-b3cbc9764bda",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "AMD",
+        "acciones",
+        "finanzas",
+        "resultados"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/news/spacex-stock-earnings-analyst-reactions-price-target-starlink-ai-expenditures-starship-q2-2026/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "SpaceX Stock Dives. Analysts React To Earnings Beat, Shift Price Targets.",
+      "tituloLimpio": "Las acciones de SpaceX caen. Analistas reaccionan a los resultados y ajustan precios objetivo.",
+      "resumen": "",
+      "porQueImporta": "Importante para inversores interesados en el sector espacial y tecnológico, mostrando la volatilidad del mercado.",
+      "publicadoEn": "2026-08-05T13:53:24.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/338a28d266f413510e902bb15426a84f",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "SpaceX",
+        "acciones",
+        "finanzas",
+        "resultados"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/05/noumura-s-laser-digital-backs-zigchain-for-onchain-private-credit-push-in-uae",
+      "tituloOriginal": "Nomura’s Laser Digital backs ZIGChain for onchain private credit push in UAE",
+      "tituloLimpio": "Laser Digital de Nomura respalda a ZIGChain para impulsar el crédito privado onchain en EAU",
+      "resumen": "Se entiende que la inversión de Laser en ZIGChain es de millones de un solo dígito.",
+      "porQueImporta": "Muestra la expansión de las finanzas descentralizadas y el interés de grandes instituciones en el crédito privado onchain.",
+      "publicadoEn": "2026-08-05T13:25:04.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/1c5f9936bbd084d1a17d68695e5de5b4ec268eb4-778x509.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "Nomura",
+        "ZIGChain",
+        "finanzas",
+        "blockchain",
+        "crédito"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/magazine/does-the-coldcard-attack-mean-all-hardware-wallets-are-now-insecure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Do the Coldcard attacks mean all hardware wallets are now insecure?",
+      "tituloLimpio": "¿Los ataques a Coldcard significan que todas las billeteras de hardware son inseguras?",
+      "resumen": "La falla de entropía de Coldcard causó una crisis de confianza en las billeteras de hardware. Acá están los detalles que necesitás saber antes de confiarle tu Bitcoin a Ledger, Trezor o Foundation.",
+      "porQueImporta": "Es crucial para la seguridad de las inversiones en criptomonedas, especialmente para quienes usan billeteras de hardware.",
+      "publicadoEn": "2026-08-05T13:30:00.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-double-spending-in-btc-wallets-the-issue-persists.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Coldcard",
+        "billeteras de hardware",
+        "seguridad",
+        "Bitcoin"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/hacer-crecer-negocio-potenciar-rentabilidad-falso-dilema-hoy-condiciona-estrategia-empresarial_0_v9eKpG5R6T.html",
+      "tituloOriginal": "Hacer crecer el negocio o potenciar la rentabilidad: el falso dilema que aún hoy condiciona la estrategia empresarial",
+      "tituloLimpio": "Hacer crecer el negocio o potenciar la rentabilidad: el falso dilema que aún hoy condiciona la estrategia empresarial",
+      "resumen": "Desde su experiencia como consultor, Juan Defiore sostiene que más allá del contexto particular de cada industria, hay una agenda directiva que exige metas consistentes de crecimiento junto con las de generación de valor y resultados. “El crecimiento sigue siendo un objetivo, pero convive con una mayor disciplina en la gestión y una mirada cada vez más enfocada”",
+      "porQueImporta": "Ofrece una perspectiva sobre la gestión empresarial y la toma de decisiones estratégicas, relevante para el interés de Guido en negocios y marketing.",
+      "publicadoEn": "2026-08-05T12:08:32.000Z",
+      "imagen": "https://www.clarin.com/img/2018/10/24/kEEthqvHZ_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "negocios",
+        "rentabilidad",
+        "estrategia empresarial",
+        "crecimiento"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/gobierno-acuso-lula-escalar-unilateralmente-conflicto-ratifico-apoyo-milei-bolsonaro-region-cambiando-esperamos-brasil_0_aFwIgN1UlM.html",
+      "tituloOriginal": "El Gobierno acusó a Lula de escalar unilateralmente el conflicto y ratificó el apoyo de Milei a Bolsonaro: \"La región está cambiando y esperamos que así también sea en Brasil\"",
+      "tituloLimpio": "El Gobierno acusó a Lula de escalar unilateralmente el conflicto y ratificó el apoyo de Milei a Bolsonaro",
+      "resumen": "El canciller habló del conflicto bilateral durante la conferencia de prensa que brindó por la visita del Papa León XIV al país. Brasil rebajó sus relaciones diplomáticas con Argentina al nivel de “encargado de negocios”, tras una serie de insultos de Milei hacia Lula.",
+      "porQueImporta": "Es una noticia política importante que afecta las relaciones internacionales de Argentina y el contexto regional.",
+      "publicadoEn": "2026-08-05T12:58:07.000Z",
+      "imagen": "https://www.clarin.com/img/2026/08/05/2_8UjGTd5_1200x630__1.jpg",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Brasil",
+        "política",
+        "conflicto diplomático"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/08/05/cuantos-dolares-podrian-comprar-los-argentinos-para-ahorrar-en-lo-que-resta-de-2026/",
+      "tituloOriginal": "Cuántos dólares podrían comprar los argentinos para ahorrar en lo que resta de 2026",
+      "tituloLimpio": "Cuántos dólares podrían comprar los argentinos para ahorrar en lo que resta de 2026",
+      "resumen": "En junio, las personas físicas se llevaron más de USD 2.000 millones. Economistas proyectan que el año cerrará con adquisiciones de personas físicas por debajo de 2025.",
+      "porQueImporta": "Información relevante para la planificación financiera personal en Argentina, especialmente para quienes buscan ahorrar en dólares.",
+      "publicadoEn": "2026-08-05T13:52:55.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/2EZJIRUA5NFCLF4WUJTFWBXMVA.JPG?auth=7e243568ec0dfd766070ebe4c5597e2a67ba73c335244168b52ca58886f765e5&smart=true&width=800&height=533",
+      "globalScore": 86,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "dólares",
+        "ahorro",
+        "economía"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/08/05/para-pelearse-hacen-falta-dos-el-gobierno-argentino-ratifico-que-no-tomara-respuestas-diplomaticas-contra-brasil/",
+      "tituloOriginal": "“Para pelearse hacen falta dos”: el gobierno argentino ratificó que no tomará respuestas diplomáticas contra Brasil",
+      "tituloLimpio": "El gobierno argentino ratificó que no tomará respuestas diplomáticas contra Brasil",
+      "resumen": "El ministro Pablo Quirno dijo que la relación se mantendrá al nivel que decida Brasilia, lamentó la medida unilateral y ratificó que no habrá acciones de respuesta ni un pedido de disculpas.",
+      "porQueImporta": "Confirma la postura del gobierno argentino ante el conflicto diplomático con Brasil, importante para entender la política exterior del país.",
+      "publicadoEn": "2026-08-05T13:38:24.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/45XXZAXQ7NBCTGXB52YTAW6PUI.jpeg?auth=9336dfd34726ff1050e82944a63782e109bdab511c798e9f33a85082d3473ff3&smart=true&width=1040&height=770",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Brasil",
+        "política",
+        "diplomacia"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid05082026/",
+      "tituloOriginal": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este miércoles 5 de agosto de 2026",
+      "tituloLimpio": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este miércoles 5 de agosto de 2026",
+      "resumen": "La divisa oficial se vende a $1515; en tanto, el dólar blue cotiza a $1545 para esa operación.",
+      "porQueImporta": "Información esencial para la economía diaria en Argentina, relevante para cualquier transacción o planificación financiera.",
+      "publicadoEn": "2026-08-05T14:08:25.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/GHSZNGFV4FBN7D6V3AYV4H6RTU.jpg?auth=d9c8fd22de8f9f8455c0d6610ecd246b61fdc09688eb4385a24c4611144e9133&smart=true&width=2000&height=1333",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "dólar",
+        "dólar blue",
+        "Argentina",
+        "cotización"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Politica",
+      "url": "https://www.lanacion.com.ar/politica/el-pj-impulsa-en-la-legislatura-bonaerense-proyectos-para-limitar-la-compra-de-tierras-por-parte-de-nid05082026/",
+      "tituloOriginal": "El PJ impulsa en la Legislatura bonaerense proyectos para limitar la compra de tierras por parte de extranjeros",
+      "tituloLimpio": "El PJ impulsa proyectos para limitar la compra de tierras por extranjeros en la Legislatura bonaerense",
+      "resumen": "A contramano de lo que impulsa Milei a nivel nacional, legisladores aliados de Kicillof, Massa y Cristina Kirchner presentaron iniciativas para limitar la venta de tierras rurales en la provincia.",
+      "porQueImporta": "Muestra un debate político y económico relevante en la provincia de Buenos Aires, con implicaciones para la inversión y la propiedad de tierras.",
+      "publicadoEn": "2026-08-05T14:12:34.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/KWE27ONMORCH5AFZHOJQ7YQP44.JPG?auth=c9ed6e2c8967e1f7ef7ec4ea577f44135725334e4b655013acfed16fe7346832&smart=true&width=1999&height=1333",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "política",
+        "tierras",
+        "extranjeros",
+        "Buenos Aires"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-08-05T14:14:32.297Z"
+  }
+}
