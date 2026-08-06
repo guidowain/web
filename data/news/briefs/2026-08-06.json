@@ -1,0 +1,486 @@
+{
+  "fecha": "2026-08-06",
+  "generadoEn": "2026-08-06T14:17:58.529Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "En el ámbito de la IA, Google anunció sus últimas novedades de julio y se reportó una reorganización interna. Suno implementará marcas de agua en sus canciones debido a batallas legales, mientras que el proteccionismo de EE.UU. hacia la IA se extiende a la robótica. En Apple, se espera el lanzamiento del iPhone 18 Pro el próximo mes con 12 nuevas funciones, aunque podría tener disponibilidad limitada por escasez de RAM. El mercado de aplicaciones de utilidad, impulsado por la IA, podría no sostener su ritmo actual. En finanzas, eBay reportó un aumento del 15% en sus ingresos del segundo trimestre, y las entradas de fondos en ETFs de Hyperliquid se estancaron. El mercado de valores vio al Dow subir y al Nasdaq caer, con acciones de IA como Sandisk y Western Digital en baja. En Argentina, el BCRA superó los USD 50.000 millones en reservas, se oficializó la marcha atrás en el conflicto portuario y se implementó el nuevo recibo de sueldo con el costo laboral total. La interna peronista generó fuertes reacciones en el Senado, y un tribunal de Texas declaró culpable a Fred Machado por lavado de dinero. También se reportó un arancel del 15% de EE.UU. a productos con polisilicio para frenar el avance de China. En marketing, Fossil logró 58.8 millones de impresiones con anuncios que usan IA para identificar perfiles de público.",
+  "radarPersonal": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "El iPhone 18 Pro se lanza el próximo mes con 12 nuevas funciones",
+      "resumen": "El iPhone 18 Pro y iPhone 18 Pro Max están a solo un mes de distancia. Se esperan muchas novedades, incluyendo una Dynamic Island más chica y 5G vía satélite.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/08/06/iphone-18-pro-next-month-12-features/"
+      ],
+      "score": 100,
+      "tags": [
+        "iPhone",
+        "lanzamiento",
+        "novedades"
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "titulo": "Anuncios de Fossil con IA para identificar perfiles de público logran 58.8 millones de impresiones",
+      "resumen": "La publicidad pre-roll en Wi-Fi de vuelos ayudó a dirigir tráfico a una tienda pop-up virtual como parte de una campaña dirigida a tres perfiles de viajeros.",
+      "categoria": "Marketing",
+      "fuentes": [
+        "Marketing Dive"
+      ],
+      "urls": [
+        "https://www.marketingdive.com/news/fossil-ads-using-ai-to-identify-target-profiles-earn-588m-impressions/827148/"
+      ],
+      "score": 100,
+      "tags": [
+        "marketing",
+        "IA",
+        "publicidad",
+        "impresiones"
+      ]
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "titulo": "Las reservas del BCRA superaron los USD 50.000 millones",
+      "resumen": "La autoridad monetaria alcanzó niveles no vistos en 7 años, aunque aún debe acumular unos USD 27.000 millones más para el máximo más reciente.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Infobae Economia"
+      ],
+      "urls": [
+        "https://www.infobae.com/economia/2026/08/06/que-efectos-traera-sobre-la-economia-que-las-reservas-del-bcra-hayan-cruzado-el-techo-de-los-usd-50000-millones/"
+      ],
+      "score": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "reservas",
+        "BCRA"
+      ]
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "titulo": "Trabajadores reciben nuevo recibo de sueldo con costo laboral total",
+      "resumen": "Tras demoras, las empresas empezaron a implementar el formato dispuesto por el Gobierno, que incorpora el costo laboral total.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "La Nacion Economia"
+      ],
+      "urls": [
+        "https://www.lanacion.com.ar/economia/reforma-laboral-los-trabajadores-empezaron-a-recibir-el-nuevo-recibo-de-sueldo-que-muestra-cuanto-le-nid03082026/"
+      ],
+      "score": 100,
+      "tags": [
+        "Argentina",
+        "reforma laboral",
+        "recibo de sueldo",
+        "costo laboral"
+      ]
+    }
+  ],
+  "loImportante": [
+    "Google anunció sus últimas novedades de IA de julio y una reorganización interna en su liderazgo de IA.",
+    "El iPhone 18 Pro se lanzaría el próximo mes con 12 nuevas funciones, pero podría tener disponibilidad limitada por escasez de RAM.",
+    "El BCRA superó los USD 50.000 millones en reservas, un nivel no visto en 7 años.",
+    "Se implementó el nuevo recibo de sueldo en Argentina que muestra el costo laboral total para la empresa.",
+    "EE.UU. aplicará un arancel del 15% a productos con polisilicio para proteger sus fábricas frente a China."
+  ],
+  "oportunidades": [
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "Uso de IA para identificar perfiles de público en campañas de marketing",
+      "detalle": "Fossil logró 58.8 millones de impresiones usando IA para identificar perfiles de viajeros en su campaña. Esto demuestra el potencial de la IA para optimizar la segmentación y el alcance publicitario.",
+      "acciones": [
+        "Explorar herramientas de IA para segmentación de audiencia en campañas de marketing.",
+        "Analizar casos de éxito de otras marcas que usan IA en publicidad para identificar patrones y estrategias aplicables."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Technology",
+      "titulo": "Posible disponibilidad limitada del iPhone 18 Pro por escasez de DRAM",
+      "detalle": "Un informe sugiere que el iPhone 18 Pro podría tener disponibilidad limitada después de su lanzamiento debido a la escasez de DRAM, lo que podría afectar la producción.",
+      "mitigacion": "Monitorear de cerca los informes de disponibilidad y considerar alternativas si la escasez afecta la adquisición de nuevos dispositivos Apple."
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "Regulatory",
+      "titulo": "Proteccionismo de EE.UU. en IA y robótica",
+      "detalle": "El proteccionismo de Trump en IA se extiende a la robótica, lo que podría generar barreras comerciales o restricciones en el acceso a tecnologías emergentes en el futuro.",
+      "mitigacion": "Mantenerse informado sobre las políticas comerciales y arancelarias relacionadas con la IA y la robótica, especialmente si se trabaja con componentes o servicios de origen estadounidense."
+    }
+  ],
+  "conexiones": [
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "titulo": "Escasez de RAM y su impacto en la producción del iPhone 18 Pro",
+      "historias": [
+        "9to5Mac reporta que el iPhone 18 Pro podría tener disponibilidad limitada por escasez de DRAM.",
+        "AppleInsider menciona que la escasez de RAM está frenando el ensamblaje del iPhone 18 Pro y el iPhone plegable."
+      ],
+      "conclusion": "Ambas fuentes coinciden en que la escasez de RAM es un factor crítico que podría limitar la disponibilidad inicial del iPhone 18 Pro, afectando tanto su producción como la de futuros modelos como el iPhone plegable."
+    }
+  ],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+      "tituloOriginal": "The latest AI news we announced in July 2026",
+      "tituloLimpio": "Google anunció sus últimas novedades de IA en julio de 2026",
+      "resumen": "Aquí están las últimas actualizaciones de IA de Google de julio de 2026.",
+      "porQueImporta": "Es relevante para estar al tanto de los avances y lanzamientos de Google en el campo de la inteligencia artificial, que pueden influir en herramientas y tendencias de la industria.",
+      "publicadoEn": "2026-08-04T13:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "Google",
+        "actualizaciones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/08/06/iphone-18-pro-next-month-12-features/",
+      "tituloOriginal": "iPhone 18 Pro Launching Next Month With These 12 New Features",
+      "tituloLimpio": "El iPhone 18 Pro se lanza el próximo mes con 12 nuevas funciones",
+      "resumen": "El iPhone 18 Pro y iPhone 18 Pro Max están a solo un mes de distancia. Se espera que se parezcan al iPhone 17 Pro y iPhone 17 Pro Max, pero habrá muchos cambios, con funciones rumoreadas como una Dynamic Island más chica y 5G vía satélite.",
+      "porQueImporta": "Guido, como usuario de Apple, querrá conocer las novedades del próximo iPhone, especialmente si hay mejoras en hardware o funciones que impacten su trabajo o uso personal.",
+      "publicadoEn": "2026-08-06T14:03:48.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "iPhone",
+        "lanzamiento",
+        "novedades"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/eeuu-aplicara-un-arancel-del-15-los-productos-polisilicio-frenar-el-avance-china-n6307719",
+      "tituloOriginal": "EEUU aplicará un arancel del 15% a los productos con polisilicio para frenar el avance de China",
+      "tituloLimpio": "EE.UU. aplicará un arancel del 15% a productos con polisilicio para frenar el avance de China",
+      "resumen": "El objetivo central de la medida es proteger a las fábricas estadounidenses frente a China. El camino elegido por la administración Trump fue aplicar un sistema híbrido que combine un precio mínimo de importación con aranceles.",
+      "porQueImporta": "Esta medida comercial tiene implicaciones globales y podría afectar la cadena de suministro de componentes tecnológicos, incluyendo aquellos usados en IA o dispositivos, lo que podría impactar indirectamente los costos o la disponibilidad en Argentina.",
+      "publicadoEn": "2026-08-06T13:01:00.000Z",
+      "imagen": "https://media.ambito.com/p/ae9245a8cd121332796dd4a2ccbc298d/adjuntos/239/imagenes/042/126/0042126740/1200x675/smart/donald-trump-aranceles.png",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "economía",
+        "EE.UU.",
+        "China",
+        "aranceles",
+        "polisilicio"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/fossil-ads-using-ai-to-identify-target-profiles-earn-588m-impressions/827148/",
+      "tituloOriginal": "Fossil ads using AI to identify target profiles earn 58.8M impressions",
+      "tituloLimpio": "Anuncios de Fossil usando IA para identificar perfiles de público logran 58.8 millones de impresiones",
+      "resumen": "La publicidad pre-roll en Wi-Fi de vuelos ayudó a dirigir tráfico a una tienda pop-up virtual como parte de una campaña dirigida a tres perfiles de viajeros.",
+      "porQueImporta": "Demuestra una aplicación práctica de la IA en marketing para la segmentación de audiencias y la optimización de campañas, algo de interés para Guido en su área de marketing.",
+      "publicadoEn": "2026-08-06T13:11:00.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "IA",
+        "publicidad",
+        "Fossil"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
+      "tituloOriginal": "Amid legal battles, Suno says it will start watermarking songs",
+      "tituloLimpio": "Suno implementará marcas de agua en canciones por batallas legales",
+      "resumen": "La función de marcas de agua de Suno llega mientras la compañía enfrenta batallas legales en varios frentes.",
+      "porQueImporta": "Es relevante para Guido por su interés en la IA aplicada y el arte con IA. Las marcas de agua son importantes para la atribución y la propiedad intelectual en la creación de contenido con IA.",
+      "publicadoEn": "2026-08-06T13:31:57.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "música",
+        "derechos de autor",
+        "Suno"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
+      "tituloOriginal": "The messy politics behind Google’s big AI shakeup",
+      "tituloLimpio": "Reorganización en el liderazgo de IA de Google",
+      "resumen": "En la industria de la IA, Google se enorgullece de parecer el adulto en la sala: tranquilo, estable, probado en el tiempo. El miércoles, incluso mientras la compañía anunciaba su mayor reorganización de la organización de IA hasta la fecha, Google y sus líderes presentaron un frente unificado, manteniendo su mensaje centrado en cómo los cambios preparan el éxito futuro.",
+      "porQueImporta": "Los cambios en la estructura de liderazgo de un gigante como Google en el área de IA pueden indicar nuevas direcciones estratégicas y desarrollos futuros en la tecnología, lo cual es relevante para Guido.",
+      "publicadoEn": "2026-08-06T13:26:42.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "Google",
+        "liderazgo",
+        "industria"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "tituloOriginal": "Trump’s AI protectionism has come for robotics",
+      "tituloLimpio": "El proteccionismo de Trump en IA se extiende a la robótica",
+      "resumen": "Esta historia apareció originalmente en The Algorithm, nuestro boletín semanal sobre IA. Los robots humanoides suelen generar más vergüenza que asombro: tropiezan, patean niños y, a pesar de los avances, siguen siendo peores usando sus manos que mi hijo pequeño. Es una industria naciente, y tales robots…",
+      "porQueImporta": "Las políticas proteccionistas de EE.UU. en IA y robótica pueden afectar la disponibilidad y el costo de tecnologías clave, lo que podría tener un impacto global indirecto en el desarrollo y acceso a herramientas de IA.",
+      "publicadoEn": "2026-08-03T18:43:30.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "robótica",
+        "política",
+        "proteccionismo"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/06/iphone-18-pro-could-have-limited-availability-right-after-launch-report/",
+      "tituloOriginal": "iPhone 18 Pro could have limited availability right after launch: report",
+      "tituloLimpio": "El iPhone 18 Pro podría tener disponibilidad limitada después del lanzamiento",
+      "resumen": "El iPhone 18 Pro está a solo semanas de su lanzamiento, y un nuevo informe de Culpium indica que podría tener disponibilidad limitada debido a una escasez de DRAM que frena la producción.",
+      "porQueImporta": "Es crucial para Guido saber sobre posibles problemas de disponibilidad de un producto Apple tan esperado, ya que podría afectar sus planes de adquisición o la demanda en el mercado.",
+      "publicadoEn": "2026-08-06T13:47:22.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "iPhone",
+        "disponibilidad",
+        "producción"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/08/06/ram-supply-holding-up-iphone-18-pro-assembly-is-another-bad-sign?utm_source=rss",
+      "tituloOriginal": "RAM supply holding up iPhone 18 Pro assembly is another bad sign",
+      "tituloLimpio": "La escasez de RAM frena el ensamblaje del iPhone 18 Pro",
+      "resumen": "El nuevo procesador A20 Pro de Apple no se está produciendo tan rápido como podría debido a la escasez de RAM, y eso, según se informa, está ralentizando el ensamblaje del iPhone 18 Pro y el iPhone plegable. Eso no es bueno. La existencia de una crisis de RAM y un problema de suministro no es una revelación nueva.",
+      "porQueImporta": "Confirma y profundiza la preocupación sobre la disponibilidad del iPhone 18 Pro, explicando la causa raíz (escasez de RAM) y su impacto en otros productos futuros de Apple, como el iPhone plegable.",
+      "publicadoEn": "2026-08-06T13:16:15.000Z",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "iPhone",
+        "producción",
+        "RAM",
+        "escasez"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/stories/the-utility-app-flood-wont-last/",
+      "tituloOriginal": "The Utility App Flood Won’t Last",
+      "tituloLimpio": "El auge de las apps de utilidad no durará",
+      "resumen": "La App Store está evolucionando a un ritmo vertiginoso no visto desde sus inicios. Vimos los primeros destellos de lo que vendría a principios de 2025, pero no fue hasta finales del año pasado que el tsunami de aplicaciones desarrolladas con la ayuda de agentes de IA realmente se afianzó. Desde entonces, los desarrolladores veteranos son…",
+      "porQueImporta": "Guido, interesado en herramientas y automatización, podría estar siguiendo el mercado de apps. Esta noticia sugiere una posible saturación o cambio en la dinámica del mercado de apps impulsadas por IA.",
+      "publicadoEn": "2026-08-05T16:24:37.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "App Store",
+        "apps",
+        "IA",
+        "tendencias"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ebay-revenue-rises-15-3-135816629.html",
+      "tituloOriginal": "eBay revenue rises 15% to $3.13bn in Q2",
+      "tituloLimpio": "Los ingresos de eBay suben un 15% a USD 3.13 mil millones en el segundo trimestre",
+      "resumen": "",
+      "porQueImporta": "Indica la salud financiera de una plataforma de comercio electrónico global, lo que puede ser un indicador de tendencias de consumo y comercio online, relevante para Guido en su interés en negocios e inversión.",
+      "publicadoEn": "2026-08-06T13:58:16.000Z",
+      "imagen": "https://media.zenfs.com/en/retail_insight_network_724/9f5364c1274caa8bf4c239517b51876a",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "eBay",
+        "ingresos",
+        "mercado"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-ai-stocks-sandisk-western-digital/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Stock Market Today: Dow Up, Nasdaq Falls As AI Names Sandisk, Western Digital Sink After Earnings (Live Coverage)",
+      "tituloLimpio": "El Dow sube, el Nasdaq cae mientras acciones de IA como Sandisk y Western Digital bajan tras resultados",
+      "resumen": "",
+      "porQueImporta": "Proporciona una instantánea del rendimiento del mercado de valores, destacando el comportamiento de las acciones de IA, lo cual es de interés para Guido por su perfil de inversor y su interés en la IA.",
+      "publicadoEn": "2026-08-06T13:48:12.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/7df8b4f2338378d7ec83690e85e00f41",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "mercado de valores",
+        "IA",
+        "inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/06/jpmorgan-says-hyperliquid-etf-inflows-have-stalled-as-competition-mounts",
+      "tituloOriginal": "JPMorgan says Hyperliquid ETF inflows have stalled as competition mounts",
+      "tituloLimpio": "JPMorgan dice que las entradas de fondos en ETFs de Hyperliquid se estancaron",
+      "resumen": "Después de liderar las entradas de fondos de ETFs de criptomonedas en mayo y junio, la demanda de fondos de Hyperliquid se estancó en julio y agosto a medida que la competencia se intensificó, dijo el banco.",
+      "porQueImporta": "Es relevante para Guido por su interés en inversión y ETFs. El estancamiento en las entradas de fondos de criptomonedas puede indicar un cambio en el sentimiento del mercado o una mayor competencia.",
+      "publicadoEn": "2026-08-06T12:46:42.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/5b3e22f79db7d662674f6627620b8e945757ba94-1280x702.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "ETFs",
+        "criptomonedas",
+        "JPMorgan"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/sigue-conflicto-puertos-oficializan-marcha-arman-mesa-dialogo_0_CXCsDShwAS.html",
+      "tituloOriginal": "Cómo sigue el conflicto en los puertos: oficializan la marcha atrás y arman una mesa de diálogo",
+      "tituloLimpio": "Conflicto en los puertos: oficializan la marcha atrás y arman una mesa de diálogo",
+      "resumen": "Habrá un grupo de trabajo formado por el Ministerio de Seguridad, Prefectura, la Agencia Nacional de Puertos y Navegación y representantes del sector de practicaje y pilotaje.",
+      "porQueImporta": "Noticia local importante para Argentina. La resolución de conflictos portuarios impacta directamente en la economía y el comercio exterior del país.",
+      "publicadoEn": "2026-08-06T13:36:07.000Z",
+      "imagen": "https://www.clarin.com/img/2026/08/04/SAMCs8b8c_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "puertos",
+        "conflicto"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/08/06/que-efectos-traera-sobre-la-economia-que-las-reservas-del-bcra-hayan-cruzado-el-techo-de-los-usd-50000-millones/",
+      "tituloOriginal": "Qué efectos traerá sobre la economía que las reservas del BCRA hayan cruzado el techo de los USD 50.000 millones",
+      "tituloLimpio": "Las reservas del BCRA superaron los USD 50.000 millones",
+      "resumen": "La autoridad monetaria logró llegar a niveles no vistos en 7 años, pese a que todavía debe acumular unos USD 27.000 millones más para alcanzar el máximo más reciente.",
+      "porQueImporta": "Es una noticia económica clave para Argentina, ya que el nivel de reservas del BCRA es un indicador importante de la estabilidad financiera y la capacidad de pago del país.",
+      "publicadoEn": "2026-08-06T13:38:50.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/5FKAFR3R3BH67CJW3W7O423WME.JPG?auth=edf24fae563ee10ae0870ceb767c99b0acd7198cc266dfe5d8ab0a7f0a343e81&smart=true&width=800&height=533",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "BCRA",
+        "reservas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/08/06/un-tribunal-federal-de-texas-declaro-culpable-a-fred-machado-por-lavado-de-dinero-y-fraude-electronico/",
+      "tituloOriginal": "Un Tribunal Federal de Texas declaró culpable a Fred Machado por lavado de dinero y fraude electrónico",
+      "tituloLimpio": "Un Tribunal Federal de Texas declaró culpable a Fred Machado por lavado de dinero y fraude electrónico",
+      "resumen": "Machado fue extraditado de la Argentina a fines de 2025, y meses más tarde admitió ante la justicia de Estados Unidos que había conspirado para cometer una sucesión de delitos transnacionales.",
+      "porQueImporta": "Aunque es una noticia de EE.UU., tiene relevancia para Argentina por la extradición de Machado y su conexión con delitos transnacionales, mostrando la cooperación judicial internacional.",
+      "publicadoEn": "2026-08-06T14:06:51.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/3EOEITDVYJF7HPXX7EPWHMYO64.jpeg?auth=8411887dff28d8e14b00aa8b69e23d8d404b4ded65dc19706cd97efae90c06bd&smart=true&width=1920&height=1080",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "EE.UU.",
+        "justicia",
+        "delito"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/reforma-laboral-los-trabajadores-empezaron-a-recibir-el-nuevo-recibo-de-sueldo-que-muestra-cuanto-le-nid03082026/",
+      "tituloOriginal": "Reforma laboral: los trabajadores empezaron a recibir el nuevo recibo de sueldo que muestra cuánto le cuestan a la empresa",
+      "tituloLimpio": "Reforma laboral: trabajadores empezaron a recibir el nuevo recibo de sueldo que muestra cuánto le cuestan a la empresa",
+      "resumen": "Tras dos meses de demoras por la adaptación de los sistemas, las compañías comenzaron a implementar el formato dispuesto por el Gobierno, que incorpora por primera vez el costo laboral total.",
+      "porQueImporta": "Es una noticia de alto impacto para el ámbito laboral y económico en Argentina, afectando tanto a empleados como a empleadores. Guido, como profesional, se ve directamente afectado por estas regulaciones.",
+      "publicadoEn": "2026-08-06T14:05:12.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/XE3XL3BT2VDFJEPYWMWN7UQB3Q.jpg?auth=3a29ddbd88b4cc6cd2193fa9c6e8189e6c07e14a02096bcc676b48920409d8a3&smart=true&width=2000&height=1333",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "reforma laboral",
+        "recibo de sueldo",
+        "costo laboral"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-08-06T14:17:58.529Z"
+  }
+}
