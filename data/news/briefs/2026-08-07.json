@@ -1,13 +1,13 @@
 {
   "fecha": "2026-08-07",
-  "generadoEn": "2026-08-07T13:09:40.409Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "En el ámbito de la IA, Google compartió sus últimas novedades de julio, mientras que OpenAI, junto a Jony Ive, estaría desarrollando un parlante inteligente. En el frente legal, Meta fue multada con 567 millones de dólares adicionales en un caso de seguridad infantil. En Apple, se conmemoró el 20 aniversario del Mac Pro, y se abordaron temas de seguridad en FaceTime y el costo de la IA en los iPhones. A nivel local, Argentina evalúa la posibilidad de créditos en dólares y se aprobó la Ley de Propiedad Privada en el Senado. También se observan tensiones comerciales entre EE.UU. y China, con impacto en energía solar y semiconductores.",
+  "generadoEn": "2026-08-07T17:49:16.035Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Hoy se destacan las novedades de Google en IA, el futuro del iPhone Air y rumores del iPhone 18 Pro. En Argentina, se discute el déficit fiscal en Misiones, la cotización del dólar y la inversión minera en cobre. También es relevante la adquisición de DoubleVerify por Nielsen en marketing y el lanzamiento de un navegador para agentes de IA por Cloudflare.",
   "radarPersonal": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "titulo": "Google compartió las últimas novedades de IA de julio de 2026",
-      "resumen": "Google presentó sus últimas actualizaciones de IA de julio de 2026.",
+      "titulo": "Google presenta sus últimas novedades en IA de julio de 2026",
+      "resumen": "Google compartió sus últimas actualizaciones de IA de julio de 2026.",
       "categoria": "AI",
       "fuentes": [
         "Google AI Blog"
@@ -23,138 +23,127 @@
       ]
     },
     {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "titulo": "El primer dispositivo de OpenAI con Jony Ive sería un parlante inteligente del tamaño de un disco de hockey",
-      "resumen": "El dispositivo de IA que OpenAI está desarrollando con el ex diseñador de Apple, Jony Ive, es un parlante inteligente sin pantalla, a batería, con forma de dona y del tamaño de un disco de hockey.",
-      "categoria": "AI",
-      "fuentes": [
-        "The Verge AI"
-      ],
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor"
-      ],
-      "score": 100,
-      "tags": [
-        "OpenAI",
-        "Jony Ive",
-        "dispositivo",
-        "IA",
-        "parlante inteligente"
-      ]
-    },
-    {
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "El Mac Pro cumple 20 años hoy, cinco meses después de que Apple lo discontinuara",
-      "resumen": "Apple anunció el Mac Pro original hace 20 años, y este aniversario llega cinco meses después de que la compañía discontinuara la máquina de forma definitiva.",
+      "titulo": "El futuro del iPhone Air 2: cambios después de un primer año difícil",
+      "resumen": "El iPhone Air cumple un año en venta el próximo mes, y Apple está cerca de lanzar su sucesor. Se discute qué sigue para el dispositivo.",
       "categoria": "Apple",
       "fuentes": [
         "MacRumors"
       ],
       "urls": [
-        "https://www.macrumors.com/2026/08/07/mac-pro-turns-20-today/"
+        "https://www.macrumors.com/2026/08/07/the-macrumors-show-iphone-air-2/"
       ],
       "score": 100,
       "tags": [
+        "iPhone Air",
         "Apple",
-        "Mac Pro",
-        "aniversario"
+        "lanzamientos"
       ]
     },
     {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "Donald Trump aumenta la tensión con China e impone medidas comerciales en energía solar y semiconductores",
-      "resumen": "La medida busca fortalecer las cadenas de suministro nacionales de chips y energía solar frente a China.",
-      "categoria": "Argentina",
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "Cloudflare lanza Kitesurf, un navegador diseñado para agentes de IA",
+      "resumen": "Cloudflare presentó Kitesurf, un navegador alojado en la nube para agentes de IA, que usa menos potencia de cómputo para tareas de automatización.",
+      "categoria": "AI",
       "fuentes": [
-        "Ambito"
+        "TechCrunch AI"
       ],
       "urls": [
-        "https://www.ambito.com/economia/donald-trump-aumenta-la-tension-china-e-impone-medidas-comerciales-energia-solar-y-semiconductores-n6308129"
+        "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/"
       ],
       "score": 100,
       "tags": [
-        "Trump",
-        "China",
-        "comercio",
-        "energía solar",
-        "semiconductores"
+        "Cloudflare",
+        "IA",
+        "navegador",
+        "automatización"
       ]
     },
     {
-      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
-      "titulo": "Descartado un Plan Platita, asoma el crédito en dólares",
-      "resumen": "En la Argentina hay US$ 7.000 millones ociosos que no pueden ser prestados, casi el 17% de los depósitos en dólares.",
-      "categoria": "Argentina",
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "titulo": "Rumores del iPhone 18 Pro: chip A20 de 2nm, módem C2 y Face ID bajo pantalla",
+      "resumen": "Circulan rumores sobre el iPhone 18 Pro de Apple, incluyendo un chip A20 de 2nm, módem C2 y Face ID bajo la pantalla.",
+      "categoria": "Apple",
       "fuentes": [
-        "Clarin Economia"
+        "AppleInsider"
       ],
       "urls": [
-        "https://www.clarin.com/economia/descartado-plan-platita-asoma-credito-dolares_0_npGeVntHCj.html"
+        "https://appleinsider.com/articles/26/08/07/iphone-18-pro-rumor-roundup-2nm-a20-chip-c2-modem-under-display-face-id?utm_source=rss"
       ],
       "score": 100,
       "tags": [
-        "Argentina",
-        "crédito",
-        "dólares",
-        "economía"
+        "iPhone 18 Pro",
+        "Apple",
+        "rumores",
+        "tecnología"
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "titulo": "Nielsen adquiere DoubleVerify para vincular verificación de anuncios y medición de audiencia",
+      "resumen": "Nielsen adquirió DoubleVerify por 2.150 millones de dólares para conectar la verificación de anuncios con la medición de audiencia.",
+      "categoria": "Marketing",
+      "fuentes": [
+        "Marketing Dive"
+      ],
+      "urls": [
+        "https://www.marketingdive.com/news/nielsen-acquires-doubleverify-to-link-ad-verification-audience-measurement/827319/"
+      ],
+      "score": 100,
+      "tags": [
+        "Nielsen",
+        "DoubleVerify",
+        "marketing",
+        "publicidad"
       ]
     }
   ],
   "loImportante": [
-    "Google y OpenAI continúan con el desarrollo de IA, con Google actualizando sus novedades y OpenAI explorando hardware con Jony Ive.",
-    "Apple conmemora el 20 aniversario del Mac Pro, mientras se discuten temas de seguridad en FaceTime y el impacto financiero de la IA en los iPhones.",
-    "Argentina evalúa la posibilidad de créditos en dólares con fondos ociosos y avanza en la Ley de Propiedad Privada.",
-    "Las tensiones comerciales entre EE.UU. y China se intensifican con medidas sobre energía solar y semiconductores.",
-    "El mercado laboral en EE.UU. mostró una pérdida inesperada de empleos en julio, lo que podría influir en las decisiones de la Reserva Federal sobre las tasas de interés."
+    "Google sigue avanzando en IA con nuevas actualizaciones, lo que puede impactar en herramientas y servicios.",
+    "Apple se prepara para el sucesor del iPhone Air y hay rumores sobre el iPhone 18 Pro, indicando futuras tendencias en hardware.",
+    "Cloudflare lanza una herramienta clave para desarrolladores de agentes de IA, mejorando la eficiencia en automatización.",
+    "En Argentina, la inversión en minería de cobre y la situación económica en Misiones son temas relevantes para el panorama local.",
+    "La adquisición de DoubleVerify por Nielsen muestra una consolidación en el sector de marketing digital y medición de audiencias."
   ],
   "oportunidades": [
     {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "Automation",
+      "titulo": "Navegador Cloudflare Kitesurf para agentes de IA",
+      "detalle": "Cloudflare lanzó Kitesurf, un navegador en la nube diseñado para agentes de IA que reduce el consumo de energía en tareas de automatización.",
+      "acciones": [
+        "Investigar cómo Kitesurf puede optimizar flujos de trabajo de automatización con IA.",
+        "Evaluar la integración de Kitesurf en proyectos de arte con IA o retoque fotográfico para tareas repetitivas."
+      ]
+    },
+    {
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Investing",
-      "titulo": "Créditos en dólares en Argentina: Potencial para mover capital ocioso",
-      "detalle": "La existencia de US$ 7.000 millones ociosos en depósitos en dólares en Argentina podría abrir la puerta a nuevas líneas de crédito. Esto representa una oportunidad para el movimiento de capital y la inversión, si se logra una normativa adecuada.",
+      "titulo": "Inversión de BHP en cobre argentino",
+      "detalle": "BHP, un gigante minero, firmó una alianza con Kobrea Exploration para explotar un pórfido de cobre en Mendoza, Argentina, considerándolo una región de interés para su crecimiento.",
       "acciones": [
-        "Monitorear la evolución de las regulaciones sobre créditos en dólares en Argentina.",
-        "Analizar posibles instrumentos de inversión o financiamiento que surjan de esta situación."
+        "Monitorear el desarrollo de la inversión minera en Argentina y su impacto económico.",
+        "Analizar posibles oportunidades de inversión indirectas relacionadas con el sector minero en el país."
       ]
     }
   ],
   "riesgos": [
     {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "titulo": "Cambios en el equipo de IA de Google",
+      "detalle": "Algunos de los nombres más importantes del equipo de IA de Google cambiaron de puesto, y algunos ya no están en la empresa. Esto podría indicar un posible retraso de Google en la carrera de la IA frente a otros competidores.",
+      "mitigacion": "Mantenerse informado sobre los avances de otros actores en IA para diversificar el uso de herramientas y no depender exclusivamente de una plataforma."
+    },
+    {
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Market",
-      "titulo": "Tensiones comerciales entre EE.UU. y China impactan en semiconductores y energía solar",
-      "detalle": "Las medidas comerciales impuestas por Donald Trump a China en energía solar y semiconductores buscan fortalecer las cadenas de suministro nacionales de EE.UU., pero podrían generar volatilidad en los mercados globales de estos sectores.",
-      "mitigacion": "Seguir de cerca las políticas comerciales internacionales y su impacto en las cadenas de suministro y los precios de los componentes tecnológicos y energéticos."
-    },
-    {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "categoria": "Regulatory",
-      "titulo": "Meta multada con 567 millones de dólares adicionales en caso de seguridad infantil",
-      "detalle": "Una corte de Nuevo México ordenó a Meta pagar 567 millones de dólares adicionales en un caso de seguridad infantil, elevando la multa total a 942 millones de dólares. Esto subraya el creciente escrutinio regulatorio sobre las plataformas tecnológicas y la seguridad de los usuarios.",
-      "mitigacion": "Estar atento a las regulaciones y litigios relacionados con la seguridad en plataformas digitales, ya que pueden sentar precedentes y afectar a otras empresas del sector tecnológico."
+      "titulo": "Déficit fiscal en Misiones y desfinanciamiento provincial",
+      "detalle": "Misiones presentó un proyecto de presupuesto 2027 con un déficit de $787.500 millones. El gobernador acusó al Gobierno nacional de desfinanciar a las provincias, lo que podría generar inestabilidad económica regional.",
+      "mitigacion": "Considerar la volatilidad económica y política argentina al planificar inversiones y proyectos a largo plazo."
     }
   ],
-  "conexiones": [
-    {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "titulo": "El proteccionismo de Trump en IA llega a la robótica, conectando con medidas comerciales",
-      "historias": [
-        "Trump’s AI protectionism has come for robotics",
-        "Donald Trump aumenta la tensión con China e impone medidas comerciales en energía solar y semiconductores"
-      ],
-      "conclusion": "Las políticas proteccionistas de Trump, ya vistas en medidas comerciales contra China en sectores clave como la energía solar y los semiconductores, ahora se extienden al ámbito de la robótica y la IA. Esto sugiere una tendencia a la protección de industrias nacionales en tecnología, lo que podría influir en la disponibilidad y costos de componentes y herramientas de IA."
-    },
-    {
-      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
-      "titulo": "El costo de la IA y la seguridad en Apple: una mirada a los desafíos actuales",
-      "historias": [
-        "Paying for AI, freezing iPhones, & avoiding scams on the AppleInsider Podcast",
-        "Security Bite Podcast: Why scammers love FaceTime now"
-      ],
-      "conclusion": "Las noticias de AppleInsider y 9to5Mac resaltan dos desafíos interconectados para los usuarios de Apple: el costo creciente de la IA y la necesidad de seguridad. Mientras la IA se vuelve más cara de implementar, también surgen nuevas vulnerabilidades, como el uso de FaceTime por parte de estafadores. Esto subraya la importancia de considerar tanto la inversión en IA como las medidas de seguridad para proteger los dispositivos y la información."
-    }
-  ],
+  "conexiones": [],
   "noticias": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
@@ -162,9 +151,9 @@
       "fuente": "Google AI Blog",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
       "tituloOriginal": "The latest AI news we announced in July 2026",
-      "tituloLimpio": "Google compartió las últimas novedades de IA de julio de 2026",
-      "resumen": "Google presentó sus últimas actualizaciones de IA de julio de 2026.",
-      "porQueImporta": "Es relevante para Guido por su interés en la IA aplicada, manteniéndolo al tanto de los avances de uno de los principales actores del sector.",
+      "tituloLimpio": "Google presenta sus últimas novedades en IA de julio de 2026",
+      "resumen": "Google compartió sus últimas actualizaciones de IA de julio de 2026.",
+      "porQueImporta": "Guido, como artista de IA y retocador, necesita estar al tanto de las novedades de Google en IA para aplicar nuevas herramientas y técnicas en su trabajo.",
       "publicadoEn": "2026-08-04T13:00:00.000Z",
       "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp",
       "globalScore": 88,
@@ -180,18 +169,18 @@
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Apple",
       "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/08/07/mac-pro-turns-20-today/",
-      "tituloOriginal": "Mac Pro Turns 20 Today, Five Months After Apple Killed It",
-      "tituloLimpio": "El Mac Pro cumple 20 años hoy, cinco meses después de que Apple lo discontinuara",
-      "resumen": "Apple anunció el Mac Pro original hace 20 años, y este aniversario llega cinco meses después de que la compañía discontinuara la máquina de forma definitiva.",
-      "porQueImporta": "Interesa a Guido por su afinidad con Apple. Es un dato histórico sobre un producto icónico de la marca.",
-      "publicadoEn": "2026-08-07T12:39:00.000Z",
+      "url": "https://www.macrumors.com/2026/08/07/the-macrumors-show-iphone-air-2/",
+      "tituloOriginal": "The MacRumors Show: iPhone Air 2 - What Changes After a Difficult First Year",
+      "tituloLimpio": "El futuro del iPhone Air 2: cambios después de un primer año difícil",
+      "resumen": "El iPhone Air cumple un año en venta el próximo mes, y Apple está cerca de lanzar su sucesor. Se discute qué sigue para el dispositivo.",
+      "porQueImporta": "Guido, como usuario de Apple, se beneficia de conocer las tendencias y futuros lanzamientos de productos clave como el iPhone Air, que pueden influir en sus decisiones de compra o uso de tecnología.",
+      "publicadoEn": "2026-08-07T16:23:39.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
+        "iPhone Air",
         "Apple",
-        "Mac Pro",
-        "aniversario"
+        "lanzamientos"
       ],
       "tambienVistoEn": []
     },
@@ -199,20 +188,20 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/donald-trump-aumenta-la-tension-china-e-impone-medidas-comerciales-energia-solar-y-semiconductores-n6308129",
-      "tituloOriginal": "Donald Trump aumenta la tensión con China e impone medidas comerciales en energía solar y semiconductores",
-      "tituloLimpio": "Donald Trump aumenta la tensión con China e impone medidas comerciales en energía solar y semiconductores",
-      "resumen": "La medida busca fortalecer las cadenas de suministro nacionales de chips y energía solar frente a China.",
-      "porQueImporta": "Impacta en la economía global y en la disponibilidad de componentes clave para la tecnología (semiconductores) y la energía, lo que puede afectar costos y mercados de inversión.",
-      "publicadoEn": "2026-08-07T12:10:00.000Z",
-      "globalScore": 94,
+      "url": "https://www.ambito.com/economia/deficit-fiscal-misiones-presentan-el-proyecto-presupuesto-2027-un-rojo-787500-millones-n6308219",
+      "tituloOriginal": "Déficit fiscal en Misiones: presentan el proyecto de presupuesto 2027 con un rojo de $787.500 millones",
+      "tituloLimpio": "Déficit fiscal en Misiones: el presupuesto 2027 presenta un rojo de $787.500 millones",
+      "resumen": "El gobernador de Misiones acusó al Gobierno nacional de desfinanciar a las provincias con recortes de gastos. Este año Misiones sufre una caída de coparticipación del 1,2%.",
+      "porQueImporta": "Como residente en Argentina, Guido debe estar al tanto de la situación económica provincial y nacional, ya que puede afectar el clima de negocios y la estabilidad financiera del país.",
+      "publicadoEn": "2026-08-07T15:56:00.000Z",
+      "imagen": "https://media.ambito.com/p/314feb8ff43e225a2cbe2d18478e5897/adjuntos/239/imagenes/043/557/0043557301/1200x675/359x390:379x410/legislatura-misiones.jpg",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "Trump",
-        "China",
-        "comercio",
-        "energía solar",
-        "semiconductores"
+        "Argentina",
+        "economía",
+        "Misiones",
+        "déficit fiscal"
       ],
       "tambienVistoEn": []
     },
@@ -220,18 +209,19 @@
       "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
       "categoria": "Marketing",
       "fuente": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/foot-locker-sizes-up-role-in-sneaker-culture-with-new-brand-platform/827210/",
-      "tituloOriginal": "Foot Locker ties up role in sneaker culture with new brand platform",
-      "tituloLimpio": "Foot Locker refuerza su rol en la cultura de las zapatillas con una nueva plataforma de marca",
-      "resumen": "El director de marketing Brett O’Brien profundiza en la creatividad de la campaña “It Always Will Be Foot Locker”, que llega mientras el negocio comienza a recuperarse.",
-      "porQueImporta": "Es relevante para Guido por su interés en marketing, mostrando una estrategia de marca en un sector específico.",
-      "publicadoEn": "2026-08-07T13:00:00.000Z",
-      "globalScore": 96,
+      "url": "https://www.marketingdive.com/news/nielsen-acquires-doubleverify-to-link-ad-verification-audience-measurement/827319/",
+      "tituloOriginal": "Nielsen acquires DoubleVerify to link ad verification, audience measurement",
+      "tituloLimpio": "Nielsen adquiere DoubleVerify para vincular verificación de anuncios y medición de audiencia",
+      "resumen": "La adquisición de DoubleVerify por 2.150 millones de dólares sigue a otras plataformas valoradas por su independencia que fueron adquiridas, lo que generó preocupación en los anunciantes.",
+      "porQueImporta": "Guido, interesado en marketing, debe conocer las consolidaciones en la industria de la publicidad digital, ya que pueden cambiar el panorama de las herramientas y servicios disponibles para anunciantes.",
+      "publicadoEn": "2026-08-07T14:50:00.000Z",
+      "globalScore": 92,
       "personalScore": 100,
       "tags": [
         "Marketing",
-        "marca",
-        "retail"
+        "Nielsen",
+        "DoubleVerify",
+        "publicidad"
       ],
       "tambienVistoEn": []
     },
@@ -239,19 +229,19 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-      "tituloOriginal": "New Mexico court orders Meta to pay additional $567M in child safety case",
-      "tituloLimpio": "Corte de Nuevo México ordena a Meta pagar 567 millones de dólares adicionales en caso de seguridad infantil",
-      "resumen": "La multa total de Meta en este caso ha ascendido a 942 millones de dólares.",
-      "porQueImporta": "Destaca la creciente presión regulatoria y legal sobre las grandes tecnológicas en temas de seguridad, lo que puede influir en el desarrollo de productos y servicios de IA.",
-      "publicadoEn": "2026-08-07T11:40:37.000Z",
-      "globalScore": 96,
+      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "tituloOriginal": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "tituloLimpio": "Cloudflare lanza Kitesurf, un navegador diseñado para agentes de IA",
+      "resumen": "Cloudflare presentó Kitesurf, un navegador alojado en la nube para agentes de IA que usa menos potencia de cómputo que Chromium para tareas de automatización comunes.",
+      "porQueImporta": "Esta herramienta es relevante para Guido, quien trabaja con IA y automatización, ya que podría optimizar sus procesos y el desarrollo de agentes de IA.",
+      "publicadoEn": "2026-08-07T16:16:09.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "Meta",
-        "seguridad",
-        "regulación",
-        "multa"
+        "Cloudflare",
+        "IA",
+        "automatización",
+        "herramientas"
       ],
       "tambienVistoEn": []
     },
@@ -259,60 +249,18 @@
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
       "fuente": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-      "tituloOriginal": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
-      "tituloLimpio": "El primer dispositivo de OpenAI con Jony Ive sería un parlante inteligente del tamaño de un disco de hockey",
-      "resumen": "El dispositivo de IA que OpenAI está desarrollando con el ex diseñador de Apple, Jony Ive, es un parlante inteligente sin pantalla, a batería, con forma de dona y del tamaño de un disco de hockey.",
-      "porQueImporta": "Interesa a Guido por la combinación de IA aplicada y el diseño de Jony Ive, una figura clave en Apple. Podría ser una herramienta innovadora.",
-      "publicadoEn": "2026-08-06T20:55:39.000Z",
+      "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+      "tituloOriginal": "What’s behind the Google AI shake-up",
+      "tituloLimpio": "Cambios en el equipo de IA de Google",
+      "resumen": "Algunos de los nombres más importantes del equipo de IA de Google cambiaron de puesto, y algunos ya no están en la empresa.",
+      "porQueImporta": "Los movimientos en los equipos de IA de grandes empresas como Google pueden indicar cambios en la dirección estratégica de la investigación y desarrollo, lo que es relevante para Guido en su campo.",
+      "publicadoEn": "2026-08-07T16:45:14.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "OpenAI",
-        "Jony Ive",
+        "Google",
         "IA",
-        "hardware",
-        "Apple"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "categoria": "AI",
-      "fuente": "MIT Technology Review AI",
-      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-      "tituloOriginal": "Trump’s AI protectionism has come for robotics",
-      "tituloLimpio": "El proteccionismo de Trump en IA ha llegado a la robótica",
-      "resumen": "Esta historia apareció originalmente en The Algorithm, nuestro boletín semanal sobre IA.",
-      "porQueImporta": "Muestra una tendencia política que podría afectar el desarrollo y la disponibilidad de tecnologías de IA y robótica, relevantes para el trabajo de Guido.",
-      "publicadoEn": "2026-08-03T18:43:30.000Z",
-      "globalScore": 86,
-      "personalScore": 100,
-      "tags": [
-        "Trump",
-        "IA",
-        "robótica",
-        "proteccionismo"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
-      "categoria": "Apple",
-      "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/07/security-bite-podcast-why-scammers-love-facetime-now/",
-      "tituloOriginal": "Security Bite Podcast: Why scammers love FaceTime now",
-      "tituloLimpio": "Podcast Security Bite: Por qué los estafadores ahora aman FaceTime",
-      "resumen": "9to5Mac Security Bite es presentado exclusivamente por Mosyle, la única plataforma unificada de Apple.",
-      "porQueImporta": "Es crucial para Guido como usuario de Apple, ya que aborda un riesgo de seguridad directo relacionado con una función de Apple.",
-      "publicadoEn": "2026-08-07T10:00:00.000Z",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "Apple",
-        "FaceTime",
-        "seguridad",
-        "estafas"
+        "equipo"
       ],
       "tambienVistoEn": []
     },
@@ -320,20 +268,19 @@
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
       "categoria": "Apple",
       "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/08/07/paying-for-ai-freezing-iphones-avoiding-scams-on-the-appleinsider-podcast?utm_source=rss",
-      "tituloOriginal": "Paying for AI, freezing iPhones, & avoiding scams on the AppleInsider Podcast",
-      "tituloLimpio": "Pagando por IA, iPhones que se congelan y evitando estafas en el podcast de AppleInsider",
-      "resumen": "Alguien tiene que pagar por toda esta IA, nada es infalible, y la demanda de Apple con OpenAI recién está comenzando, todo en el podcast de AppleInsider.",
-      "porQueImporta": "Combina el interés de Guido en Apple, IA y finanzas (costo de la IA), además de abordar la seguridad de los dispositivos.",
-      "publicadoEn": "2026-08-07T11:01:18.000Z",
-      "globalScore": 100,
+      "url": "https://appleinsider.com/articles/26/08/07/iphone-18-pro-rumor-roundup-2nm-a20-chip-c2-modem-under-display-face-id?utm_source=rss",
+      "tituloOriginal": "iPhone 18 Pro rumor roundup: 2nm A20 chip, C2 modem, under-display Face ID",
+      "tituloLimpio": "Rumores del iPhone 18 Pro: chip A20 de 2nm, módem C2 y Face ID bajo pantalla",
+      "resumen": "El iPhone 18 Pro de Apple está cerca, y los rumores incluyen un chip A20 de 2nm, módem C2 y Face ID bajo la pantalla.",
+      "porQueImporta": "Guido, como usuario de Apple, se interesa por las innovaciones y mejoras en los futuros productos de la marca, especialmente en dispositivos clave como el iPhone.",
+      "publicadoEn": "2026-08-07T17:16:16.000Z",
+      "globalScore": 96,
       "personalScore": 100,
       "tags": [
+        "iPhone 18 Pro",
         "Apple",
-        "IA",
-        "costos",
-        "seguridad",
-        "iPhone"
+        "rumores",
+        "tecnología"
       ],
       "tambienVistoEn": []
     },
@@ -344,16 +291,37 @@
       "url": "https://www.macstories.net/reviews/ea-sports-tailors-madden-nfl-27-for-apple-arcade/",
       "tituloOriginal": "EA Sports Tailors Madden NFL 27 for Apple Arcade",
       "tituloLimpio": "EA Sports adapta Madden NFL 27 para Apple Arcade",
-      "resumen": "EA Sports lanzó Madden NFL 27 Arcade Edition, una versión de la popular franquicia de simulación de fútbol que los suscriptores de Apple Arcade pueden jugar en iPhone, iPad, Mac y Apple TV.",
-      "porQueImporta": "Relevante para Guido por su interés en Apple y cómo la plataforma se expande en el ámbito de los videojuegos, aprovechando el hardware de Apple.",
+      "resumen": "EA Sports lanzó Madden NFL 27 Arcade Edition, una versión del juego de fútbol americano para suscriptores de Apple Arcade en iPhone, iPad, Mac y Apple TV.",
+      "porQueImporta": "Esta noticia muestra cómo Apple sigue expandiendo su ecosistema de servicios y contenido, lo que puede ser de interés para Guido como usuario de la plataforma.",
       "publicadoEn": "2026-08-06T18:00:51.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "Apple",
         "Apple Arcade",
+        "EA Sports",
         "juegos",
-        "EA Sports"
+        "Apple"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/stock-lists/stock-spotlight/ai-stock-cognex-cgnx-profits-jump/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "This AI Stock Offers Diversified Way To Play The Space, Eyes Entry As Profits Jump 80%",
+      "tituloLimpio": "Una acción de IA ofrece una forma diversificada de invertir en el sector, con ganancias que suben un 80%",
+      "resumen": "Esta acción de IA ofrece una forma diversificada de invertir en el espacio, y sus ganancias suben un 80%.",
+      "porQueImporta": "Guido, interesado en inversiones y IA, puede encontrar en esta noticia una oportunidad para explorar opciones de inversión en el sector de la inteligencia artificial.",
+      "publicadoEn": "2026-08-07T17:28:50.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/fab9da9fe74b317b12152229dc78340d",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "inversión",
+        "acciones",
+        "finanzas"
       ],
       "tambienVistoEn": []
     },
@@ -361,21 +329,20 @@
       "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
       "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/07/the-u-s-lost-23-000-jobs-in-july-far-shy-of-forecasts-for-a-gain-of-80-000",
-      "tituloOriginal": "U.S. unexpectedly shed 23,000 jobs in July, putting Fed rate hikes in question",
-      "tituloLimpio": "EE.UU. perdió inesperadamente 23.000 empleos en julio, poniendo en duda las subas de tasas de la Fed",
-      "resumen": "Las posibilidades de una suba de tasas de la Reserva Federal en su próxima reunión de septiembre han caído por debajo del 50% tras el informe.",
-      "porQueImporta": "Impacta directamente en los mercados financieros y las decisiones de inversión, relevante para Guido por su interés en ETFs y mercados.",
-      "publicadoEn": "2026-08-07T12:31:51.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/a4d81e192e1f62823140aa467b9ae9ea05af455a-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "globalScore": 92,
+      "url": "https://www.coindesk.com/business/2026/07/31/bitmex-sale-collapsed-as-buyers-balked-at-founder-ownership-and-shrinking-business",
+      "tituloOriginal": "BitMEX sale collapsed as buyers balked at founder ownership and shrinking business",
+      "tituloLimpio": "La venta de BitMEX fracasó por la propiedad del fundador y la reducción del negocio",
+      "resumen": "Posibles compradores, incluyendo Exodus, rechazaron BitMEX por preocupaciones sobre la propiedad del fundador y la reducción de su negocio.",
+      "porQueImporta": "Esta noticia es relevante para Guido, interesado en finanzas y mercados, ya que ilustra los desafíos y riesgos en el sector de las criptomonedas y las plataformas de intercambio.",
+      "publicadoEn": "2026-08-07T16:53:56.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/bcdcb22c5cadbe2ca4415d01f51fc30935116935-720x406.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 96,
       "personalScore": 100,
       "tags": [
-        "EE.UU.",
-        "empleo",
-        "Fed",
-        "tasas de interés",
-        "finanzas"
+        "BitMEX",
+        "criptomonedas",
+        "finanzas",
+        "negocios"
       ],
       "tambienVistoEn": []
     },
@@ -383,20 +350,21 @@
       "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
       "categoria": "Finance",
       "fuente": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/russia-shuts-down-crypto-exchanges-moscow-city?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "tituloOriginal": "Russia cracks down on 9 crypto exchanges in Moscow City",
-      "tituloLimpio": "Rusia reprime 9 exchanges de criptomonedas en Moscú",
-      "resumen": "Rusia cerró nueve exchanges de criptomonedas no registrados en Moscú, con el FSB alegando que ayudaron a mover ganancias de estafas al extranjero a través de call centers ucranianos.",
-      "porQueImporta": "Aunque no es un mercado directo para Guido, muestra la volatilidad regulatoria en el espacio cripto, un factor a considerar en el panorama financiero global.",
-      "publicadoEn": "2026-08-07T12:28:41.000Z",
-      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-russias-law-on-crypto-whats-the-latest.jpg",
-      "globalScore": 94,
+      "url": "https://cointelegraph.com/news/circle-native-usdc-okx-x-layer-cctp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Circle expands USDC to OKX ecosystem with X Layer launch",
+      "tituloLimpio": "Circle expande USDC al ecosistema OKX con el lanzamiento de X Layer",
+      "resumen": "La expansión da a los usuarios de X Layer acceso a USDC emitido por Circle y transferencias entre cadenas, a medida que la stablecoin se expande en los principales ecosistemas blockchain.",
+      "porQueImporta": "Guido, con interés en finanzas y tecnología, puede encontrar relevante la expansión de stablecoins como USDC en nuevos ecosistemas, lo que impacta en el uso y la accesibilidad de las criptomonedas.",
+      "publicadoEn": "2026-08-07T17:36:45.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/token-for-ads-polymarket-usdc.png",
+      "globalScore": 90,
       "personalScore": 100,
       "tags": [
-        "Rusia",
-        "criptomonedas",
-        "regulación",
-        "fraude"
+        "USDC",
+        "Circle",
+        "OKX",
+        "blockchain",
+        "finanzas"
       ],
       "tambienVistoEn": []
     },
@@ -404,20 +372,21 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/descartado-plan-platita-asoma-credito-dolares_0_npGeVntHCj.html",
-      "tituloOriginal": "Descartado un Plan Platita, asoma el crédito en dólares",
-      "tituloLimpio": "Descartado un Plan Platita, asoma el crédito en dólares",
-      "resumen": "En la Argentina hay US$ 7.000 millones ociosos que no pueden ser prestados, casi el 17% de los depósitos en dólares.",
-      "porQueImporta": "Noticia clave para Guido en Argentina, ya que aborda la posibilidad de nuevos instrumentos financieros y el movimiento de capital en el país.",
-      "publicadoEn": "2026-08-07T00:01:01.000Z",
-      "imagen": "https://www.clarin.com/img/2026/06/03/O8i4FcoLe_1200x630__1.jpg",
-      "globalScore": 92,
+      "url": "https://www.clarin.com/energia-y-mineria/carrera-gigante-minero-va-cobre-argentino-alianza-canadiense-apuesta-mendoza_0_xophUZbmNb.html",
+      "tituloOriginal": "La carrera de un gigante minero que va por el cobre argentino: alianza con una canadiense y la apuesta por Mendoza",
+      "tituloLimpio": "Un gigante minero busca cobre argentino: alianza con una canadiense y apuesta por Mendoza",
+      "resumen": "La división de exploración de BHP firmó un acuerdo de alianza con la canadiense Kobrea Exploration, que confirmó la existencia de un pórfido de cobre en mayo en Mendoza. BHP afirmó que “Argentina representa una región de interés importante para la estrategia de crecimiento en cobre\".",
+      "porQueImporta": "Esta es una noticia económica importante para Argentina, que puede generar oportunidades de inversión y desarrollo en el país, lo cual es relevante para Guido.",
+      "publicadoEn": "2026-08-07T16:19:55.000Z",
+      "imagen": "https://www.clarin.com/img/2026/08/05/Uj5Hy7SJX_1200x630__1.jpg",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "crédito",
-        "dólares",
-        "economía"
+        "minería",
+        "cobre",
+        "inversión",
+        "Mendoza"
       ],
       "tambienVistoEn": []
     },
@@ -425,20 +394,20 @@
       "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Politica",
-      "url": "https://www.clarin.com/politica/javier-milei-medidas-vivo-visita-ecuador-presidente-colombia-asuncion-abelardo-espriella_0_dGtAs3cZSD.html",
-      "tituloOriginal": "Javier Milei y sus medidas, EN VIVO: tras su visita a Ecuador, el Presidente ya está en Colombia para la asunción de Abelardo De la Espriella",
-      "tituloLimpio": "Javier Milei y sus medidas, EN VIVO: el Presidente ya está en Colombia tras su visita a Ecuador",
-      "resumen": "El mandatario argentino tendrá primero una reunión bilateral con su colega colombiano, y por la tarde de este viernes estará presente en la ceremonia de juramentación y toma de posesión.",
-      "porQueImporta": "Mantiene a Guido informado sobre la actividad presidencial y las relaciones internacionales de Argentina, que pueden tener impacto económico.",
-      "publicadoEn": "2026-08-07T11:25:41.000Z",
-      "imagen": "https://www.clarin.com/img/2026/06/21/6jlstdIPR_1200x630__1.jpg",
-      "globalScore": 94,
+      "url": "https://www.clarin.com/politica/garcia-cuerva-critico-gobierno-hizo-llamado-sociedad-san-cayetano-decimos-hermanos-revuelven-basura-comer_0_Zcwya9hE0J.html",
+      "tituloOriginal": "García Cuerva criticó al Gobierno e hizo un llamado a la sociedad en San Cayetano: \"No decimos nada ante hermanos que revuelven la basura para comer\"",
+      "tituloLimpio": "García Cuerva criticó al Gobierno y llamó a la sociedad en San Cayetano",
+      "resumen": "El arzobispo de Buenos Aires encabezó la homilía en Liniers, enfatizando que \"pasiva y silenciosamente nos resignamos a que las cosas aumenten\" y \"el sueldo no alcanza\".",
+      "porQueImporta": "Esta noticia refleja el clima social y económico en Argentina, con críticas a la situación actual, lo cual es importante para entender el contexto del país.",
+      "publicadoEn": "2026-08-07T15:05:12.000Z",
+      "imagen": "https://www.clarin.com/img/2026/08/07/-71pTYUpb_1200x630__1.jpg",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
         "política",
-        "Milei",
-        "relaciones internacionales"
+        "sociedad",
+        "economía"
       ],
       "tambienVistoEn": []
     },
@@ -446,19 +415,41 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/opinion/2026/08/07/cuatro-casas-cuatro-familias-y-un-solo-dia-para-que-todo-salga-bien/",
-      "tituloOriginal": "Cuatro casas, cuatro familias y un solo día para que todo salga bien",
-      "tituloLimpio": "Cuatro casas, cuatro familias y un solo día para que todo salga bien",
-      "resumen": "Cuando vender una propiedad es condición para poder comprar la siguiente, cualquier demora puede poner en riesgo toda la cadena.",
-      "porQueImporta": "Aunque es un tema general, el mercado inmobiliario es un aspecto de la economía que puede interesar a Guido, especialmente en Argentina.",
-      "publicadoEn": "2026-08-07T13:01:57.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/L2D2Q3C6HZFIXOS7NXFDDKNBHE.jpg?auth=211d85f02ae6bc8a1b1d84bd47f0ec0195f1cafbfd0466288a3ef71e2011bd1b&smart=true&width=7900&height=5269",
+      "url": "https://www.infobae.com/economia/2026/08/07/cuanto-hay-que-ganar-para-ser-de-clase-media-en-caba/",
+      "tituloOriginal": "Cuánto hay que ganar para ser de clase media en CABA",
+      "tituloLimpio": "Cuánto hay que ganar para ser de clase media en CABA",
+      "resumen": "El Idecba actualizó los ingresos mínimos para cada estrato social en la Ciudad. Una familia necesita más de $1.600.000 al mes para no ser considerada pobre.",
+      "porQueImporta": "Esta información es relevante para Guido como residente en Buenos Aires, ya que le permite entender los umbrales económicos y la situación de la clase media en su ciudad.",
+      "publicadoEn": "2026-08-07T17:31:25.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/DPYOVMSCFZD6BKWHVFKGGHN2QU.JPG?auth=2b068237afdf4b6671192628a0535613d8934bf0bed7cb194995a7642b2852ba&smart=true&width=4000&height=3000",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "inmobiliario",
+        "Argentina",
+        "CABA",
         "economía",
-        "Argentina"
+        "clase media"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/08/07/javier-milei-se-reunio-con-el-nuevo-presidente-de-colombia-y-profundiza-su-alianza-regional/",
+      "tituloOriginal": "Javier Milei se reunió con el nuevo presidente de Colombia y profundiza su alianza regional",
+      "tituloLimpio": "Javier Milei se reunió con el nuevo presidente de Colombia y profundiza su alianza regional",
+      "resumen": "El mandatario argentino viajó con Karina Milei y el canciller Pablo Quirno y mantuvo dos encuentros de alto nivel antes de la investidura del nuevo jefe de Estado colombiano. Además, el jefe de Estado argentino recibió el Doctorado Honoris Causa otorgado por la Universidad Santiago de Cali.",
+      "porQueImporta": "Las relaciones internacionales y alianzas regionales de Argentina son importantes para Guido, ya que pueden influir en la economía y el comercio del país.",
+      "publicadoEn": "2026-08-07T17:39:27.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/MLTELG2GERC6NISMHVF2YVYRTQ.jpg?auth=4111d3b17affcc4775701bf3177da5336d4e65cf9b9e970188b0882a04a498eb&smart=true&width=4096&height=2729",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "política",
+        "Javier Milei",
+        "Colombia"
       ],
       "tambienVistoEn": []
     },
@@ -468,10 +459,10 @@
       "fuente": "La Nacion Economia",
       "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid07082026/",
       "tituloOriginal": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 7 de agosto, minuto a minuto",
-      "tituloLimpio": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 7 de agosto",
-      "resumen": "La divisa oficial operó a $1520 para la venta en el Banco Nación; el dólar blue cotizó a $1530 para esa operación.",
-      "porQueImporta": "Información esencial para Guido en Argentina, ya que el valor del dólar impacta directamente en su economía personal y decisiones de inversión.",
-      "publicadoEn": "2026-08-07T12:50:00.000Z",
+      "tituloLimpio": "Dólar hoy y dólar blue, EN VIVO: cotización del oficial y el paralelo este viernes 7 de agosto",
+      "resumen": "La divisa oficial opera a $1520 para la venta en el Banco Nación; el dólar blue cotiza a $1525 para esa operación.",
+      "porQueImporta": "La cotización del dólar es una información económica fundamental para cualquier residente en Argentina, incluyendo a Guido, para entender el poder adquisitivo y la planificación financiera.",
+      "publicadoEn": "2026-08-07T17:40:00.000Z",
       "imagen": "https://resizer.glanacion.com/resizer/v2/MFIAOKGT7NEATGMHEPAZ5PHVGU.png?auth=ff87d1d5f6f3ed0629786616d488e1aa6591939eb0982b2f0d2be7dc4d091b5b&smart=true&width=2000&height=1333",
       "globalScore": 98,
       "personalScore": 100,
@@ -479,7 +470,7 @@
         "Argentina",
         "dólar",
         "economía",
-        "finanzas"
+        "mercado"
       ],
       "tambienVistoEn": []
     },
@@ -487,46 +478,26 @@
       "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Politica",
-      "url": "https://www.lanacion.com.ar/politica/ley-de-propiedad-privada-que-se-aprobo-con-la-media-sancion-del-senado-nid07082026/",
-      "tituloOriginal": "Ley de Propiedad Privada: qué se aprobó con la media sanción del Senado",
-      "tituloLimpio": "Ley de Propiedad Privada: qué se aprobó con la media sanción del Senado",
-      "resumen": "El oficialismo logró imponer la iniciativa, pero debió resignar los cambios a la ley del Manejo del Fuego ante la resistencia de los aliados provinciales.",
-      "porQueImporta": "Es una noticia relevante para Argentina que puede tener implicaciones legales y económicas sobre la propiedad, un tema de interés general.",
-      "publicadoEn": "2026-08-07T12:53:06.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/D2QJOMH4CBFB5MASMCFMGH3KKY.jpeg?auth=ac5c8737d0876d05f6150c4e3d1f2b08b3450dd47dade6df4fc3ff4a1c989228&smart=true&width=1280&height=854",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-media-sancion-a-la-ley-de-propiedad-privada-y-sus-nid07082026/",
+      "tituloOriginal": "Javier Milei y sus medidas, en vivo: la media sanción a la ley de propiedad privada y sus repercusiones",
+      "tituloLimpio": "Javier Milei y sus medidas, en vivo: la media sanción a la ley de propiedad privada y sus repercusiones",
+      "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios.",
+      "porQueImporta": "Las decisiones políticas y legislativas del gobierno argentino tienen un impacto directo en la vida de Guido y en el entorno económico y social del país.",
+      "publicadoEn": "2026-08-07T17:33:00.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/A7HHZ42CEFDQFHSFEQGZZONWN4.jpeg?auth=7a9b3b485b08d6ca6ee70eb25f1daede4aaae16bc7a6868cfdaff866b085e363&smart=true&width=1280&height=853",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
         "política",
-        "ley",
-        "propiedad privada"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
-      "categoria": "Marketing",
-      "fuente": "Adweek",
-      "url": "https://www.adweek.com/media/woo-sue-arpu-publisher-earnings-reveal-ai-strategies/",
-      "tituloOriginal": "Woo, Sue, and ARPU: What Publisher Earnings Reveal About Their AI Strategies",
-      "tituloLimpio": "Lo que revelan las ganancias de los editores sobre sus estrategias de IA",
-      "resumen": "The New York Times, News Corp, USA Today Co. y People Inc. informaron esta semana, y cada uno está lidiando con la presión del tráfico impulsada por la IA.",
-      "porQueImporta": "Interesa a Guido por su conexión con el marketing y la IA, mostrando cómo las empresas de medios están adaptándose a los desafíos y oportunidades de la inteligencia artificial.",
-      "publicadoEn": "2026-08-07T08:43:48.000Z",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "Marketing",
-        "IA",
-        "medios",
-        "negocios"
+        "Javier Milei",
+        "ley"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-08-07T13:09:40.409Z"
+    "generadoEn": "2026-08-07T17:49:16.035Z"
   }
 }
