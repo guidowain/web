@@ -1,0 +1,532 @@
+{
+  "fecha": "2026-08-07",
+  "generadoEn": "2026-08-07T13:09:40.409Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "En el ámbito de la IA, Google compartió sus últimas novedades de julio, mientras que OpenAI, junto a Jony Ive, estaría desarrollando un parlante inteligente. En el frente legal, Meta fue multada con 567 millones de dólares adicionales en un caso de seguridad infantil. En Apple, se conmemoró el 20 aniversario del Mac Pro, y se abordaron temas de seguridad en FaceTime y el costo de la IA en los iPhones. A nivel local, Argentina evalúa la posibilidad de créditos en dólares y se aprobó la Ley de Propiedad Privada en el Senado. También se observan tensiones comerciales entre EE.UU. y China, con impacto en energía solar y semiconductores.",
+  "radarPersonal": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Google compartió las últimas novedades de IA de julio de 2026",
+      "resumen": "Google presentó sus últimas actualizaciones de IA de julio de 2026.",
+      "categoria": "AI",
+      "fuentes": [
+        "Google AI Blog"
+      ],
+      "urls": [
+        "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/"
+      ],
+      "score": 100,
+      "tags": [
+        "Google",
+        "IA",
+        "actualizaciones"
+      ]
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "El primer dispositivo de OpenAI con Jony Ive sería un parlante inteligente del tamaño de un disco de hockey",
+      "resumen": "El dispositivo de IA que OpenAI está desarrollando con el ex diseñador de Apple, Jony Ive, es un parlante inteligente sin pantalla, a batería, con forma de dona y del tamaño de un disco de hockey.",
+      "categoria": "AI",
+      "fuentes": [
+        "The Verge AI"
+      ],
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor"
+      ],
+      "score": 100,
+      "tags": [
+        "OpenAI",
+        "Jony Ive",
+        "dispositivo",
+        "IA",
+        "parlante inteligente"
+      ]
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "El Mac Pro cumple 20 años hoy, cinco meses después de que Apple lo discontinuara",
+      "resumen": "Apple anunció el Mac Pro original hace 20 años, y este aniversario llega cinco meses después de que la compañía discontinuara la máquina de forma definitiva.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/08/07/mac-pro-turns-20-today/"
+      ],
+      "score": 100,
+      "tags": [
+        "Apple",
+        "Mac Pro",
+        "aniversario"
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Donald Trump aumenta la tensión con China e impone medidas comerciales en energía solar y semiconductores",
+      "resumen": "La medida busca fortalecer las cadenas de suministro nacionales de chips y energía solar frente a China.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/donald-trump-aumenta-la-tension-china-e-impone-medidas-comerciales-energia-solar-y-semiconductores-n6308129"
+      ],
+      "score": 100,
+      "tags": [
+        "Trump",
+        "China",
+        "comercio",
+        "energía solar",
+        "semiconductores"
+      ]
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "titulo": "Descartado un Plan Platita, asoma el crédito en dólares",
+      "resumen": "En la Argentina hay US$ 7.000 millones ociosos que no pueden ser prestados, casi el 17% de los depósitos en dólares.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Clarin Economia"
+      ],
+      "urls": [
+        "https://www.clarin.com/economia/descartado-plan-platita-asoma-credito-dolares_0_npGeVntHCj.html"
+      ],
+      "score": 100,
+      "tags": [
+        "Argentina",
+        "crédito",
+        "dólares",
+        "economía"
+      ]
+    }
+  ],
+  "loImportante": [
+    "Google y OpenAI continúan con el desarrollo de IA, con Google actualizando sus novedades y OpenAI explorando hardware con Jony Ive.",
+    "Apple conmemora el 20 aniversario del Mac Pro, mientras se discuten temas de seguridad en FaceTime y el impacto financiero de la IA en los iPhones.",
+    "Argentina evalúa la posibilidad de créditos en dólares con fondos ociosos y avanza en la Ley de Propiedad Privada.",
+    "Las tensiones comerciales entre EE.UU. y China se intensifican con medidas sobre energía solar y semiconductores.",
+    "El mercado laboral en EE.UU. mostró una pérdida inesperada de empleos en julio, lo que podría influir en las decisiones de la Reserva Federal sobre las tasas de interés."
+  ],
+  "oportunidades": [
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Investing",
+      "titulo": "Créditos en dólares en Argentina: Potencial para mover capital ocioso",
+      "detalle": "La existencia de US$ 7.000 millones ociosos en depósitos en dólares en Argentina podría abrir la puerta a nuevas líneas de crédito. Esto representa una oportunidad para el movimiento de capital y la inversión, si se logra una normativa adecuada.",
+      "acciones": [
+        "Monitorear la evolución de las regulaciones sobre créditos en dólares en Argentina.",
+        "Analizar posibles instrumentos de inversión o financiamiento que surjan de esta situación."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Market",
+      "titulo": "Tensiones comerciales entre EE.UU. y China impactan en semiconductores y energía solar",
+      "detalle": "Las medidas comerciales impuestas por Donald Trump a China en energía solar y semiconductores buscan fortalecer las cadenas de suministro nacionales de EE.UU., pero podrían generar volatilidad en los mercados globales de estos sectores.",
+      "mitigacion": "Seguir de cerca las políticas comerciales internacionales y su impacto en las cadenas de suministro y los precios de los componentes tecnológicos y energéticos."
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "Regulatory",
+      "titulo": "Meta multada con 567 millones de dólares adicionales en caso de seguridad infantil",
+      "detalle": "Una corte de Nuevo México ordenó a Meta pagar 567 millones de dólares adicionales en un caso de seguridad infantil, elevando la multa total a 942 millones de dólares. Esto subraya el creciente escrutinio regulatorio sobre las plataformas tecnológicas y la seguridad de los usuarios.",
+      "mitigacion": "Estar atento a las regulaciones y litigios relacionados con la seguridad en plataformas digitales, ya que pueden sentar precedentes y afectar a otras empresas del sector tecnológico."
+    }
+  ],
+  "conexiones": [
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "titulo": "El proteccionismo de Trump en IA llega a la robótica, conectando con medidas comerciales",
+      "historias": [
+        "Trump’s AI protectionism has come for robotics",
+        "Donald Trump aumenta la tensión con China e impone medidas comerciales en energía solar y semiconductores"
+      ],
+      "conclusion": "Las políticas proteccionistas de Trump, ya vistas en medidas comerciales contra China en sectores clave como la energía solar y los semiconductores, ahora se extienden al ámbito de la robótica y la IA. Esto sugiere una tendencia a la protección de industrias nacionales en tecnología, lo que podría influir en la disponibilidad y costos de componentes y herramientas de IA."
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "titulo": "El costo de la IA y la seguridad en Apple: una mirada a los desafíos actuales",
+      "historias": [
+        "Paying for AI, freezing iPhones, & avoiding scams on the AppleInsider Podcast",
+        "Security Bite Podcast: Why scammers love FaceTime now"
+      ],
+      "conclusion": "Las noticias de AppleInsider y 9to5Mac resaltan dos desafíos interconectados para los usuarios de Apple: el costo creciente de la IA y la necesidad de seguridad. Mientras la IA se vuelve más cara de implementar, también surgen nuevas vulnerabilidades, como el uso de FaceTime por parte de estafadores. Esto subraya la importancia de considerar tanto la inversión en IA como las medidas de seguridad para proteger los dispositivos y la información."
+    }
+  ],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+      "tituloOriginal": "The latest AI news we announced in July 2026",
+      "tituloLimpio": "Google compartió las últimas novedades de IA de julio de 2026",
+      "resumen": "Google presentó sus últimas actualizaciones de IA de julio de 2026.",
+      "porQueImporta": "Es relevante para Guido por su interés en la IA aplicada, manteniéndolo al tanto de los avances de uno de los principales actores del sector.",
+      "publicadoEn": "2026-08-04T13:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "Google",
+        "IA",
+        "actualizaciones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/08/07/mac-pro-turns-20-today/",
+      "tituloOriginal": "Mac Pro Turns 20 Today, Five Months After Apple Killed It",
+      "tituloLimpio": "El Mac Pro cumple 20 años hoy, cinco meses después de que Apple lo discontinuara",
+      "resumen": "Apple anunció el Mac Pro original hace 20 años, y este aniversario llega cinco meses después de que la compañía discontinuara la máquina de forma definitiva.",
+      "porQueImporta": "Interesa a Guido por su afinidad con Apple. Es un dato histórico sobre un producto icónico de la marca.",
+      "publicadoEn": "2026-08-07T12:39:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "Mac Pro",
+        "aniversario"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/donald-trump-aumenta-la-tension-china-e-impone-medidas-comerciales-energia-solar-y-semiconductores-n6308129",
+      "tituloOriginal": "Donald Trump aumenta la tensión con China e impone medidas comerciales en energía solar y semiconductores",
+      "tituloLimpio": "Donald Trump aumenta la tensión con China e impone medidas comerciales en energía solar y semiconductores",
+      "resumen": "La medida busca fortalecer las cadenas de suministro nacionales de chips y energía solar frente a China.",
+      "porQueImporta": "Impacta en la economía global y en la disponibilidad de componentes clave para la tecnología (semiconductores) y la energía, lo que puede afectar costos y mercados de inversión.",
+      "publicadoEn": "2026-08-07T12:10:00.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Trump",
+        "China",
+        "comercio",
+        "energía solar",
+        "semiconductores"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/foot-locker-sizes-up-role-in-sneaker-culture-with-new-brand-platform/827210/",
+      "tituloOriginal": "Foot Locker ties up role in sneaker culture with new brand platform",
+      "tituloLimpio": "Foot Locker refuerza su rol en la cultura de las zapatillas con una nueva plataforma de marca",
+      "resumen": "El director de marketing Brett O’Brien profundiza en la creatividad de la campaña “It Always Will Be Foot Locker”, que llega mientras el negocio comienza a recuperarse.",
+      "porQueImporta": "Es relevante para Guido por su interés en marketing, mostrando una estrategia de marca en un sector específico.",
+      "publicadoEn": "2026-08-07T13:00:00.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "marca",
+        "retail"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+      "tituloOriginal": "New Mexico court orders Meta to pay additional $567M in child safety case",
+      "tituloLimpio": "Corte de Nuevo México ordena a Meta pagar 567 millones de dólares adicionales en caso de seguridad infantil",
+      "resumen": "La multa total de Meta en este caso ha ascendido a 942 millones de dólares.",
+      "porQueImporta": "Destaca la creciente presión regulatoria y legal sobre las grandes tecnológicas en temas de seguridad, lo que puede influir en el desarrollo de productos y servicios de IA.",
+      "publicadoEn": "2026-08-07T11:40:37.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "Meta",
+        "seguridad",
+        "regulación",
+        "multa"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+      "tituloOriginal": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+      "tituloLimpio": "El primer dispositivo de OpenAI con Jony Ive sería un parlante inteligente del tamaño de un disco de hockey",
+      "resumen": "El dispositivo de IA que OpenAI está desarrollando con el ex diseñador de Apple, Jony Ive, es un parlante inteligente sin pantalla, a batería, con forma de dona y del tamaño de un disco de hockey.",
+      "porQueImporta": "Interesa a Guido por la combinación de IA aplicada y el diseño de Jony Ive, una figura clave en Apple. Podría ser una herramienta innovadora.",
+      "publicadoEn": "2026-08-06T20:55:39.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "OpenAI",
+        "Jony Ive",
+        "IA",
+        "hardware",
+        "Apple"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "tituloOriginal": "Trump’s AI protectionism has come for robotics",
+      "tituloLimpio": "El proteccionismo de Trump en IA ha llegado a la robótica",
+      "resumen": "Esta historia apareció originalmente en The Algorithm, nuestro boletín semanal sobre IA.",
+      "porQueImporta": "Muestra una tendencia política que podría afectar el desarrollo y la disponibilidad de tecnologías de IA y robótica, relevantes para el trabajo de Guido.",
+      "publicadoEn": "2026-08-03T18:43:30.000Z",
+      "globalScore": 86,
+      "personalScore": 100,
+      "tags": [
+        "Trump",
+        "IA",
+        "robótica",
+        "proteccionismo"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/07/security-bite-podcast-why-scammers-love-facetime-now/",
+      "tituloOriginal": "Security Bite Podcast: Why scammers love FaceTime now",
+      "tituloLimpio": "Podcast Security Bite: Por qué los estafadores ahora aman FaceTime",
+      "resumen": "9to5Mac Security Bite es presentado exclusivamente por Mosyle, la única plataforma unificada de Apple.",
+      "porQueImporta": "Es crucial para Guido como usuario de Apple, ya que aborda un riesgo de seguridad directo relacionado con una función de Apple.",
+      "publicadoEn": "2026-08-07T10:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "FaceTime",
+        "seguridad",
+        "estafas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/08/07/paying-for-ai-freezing-iphones-avoiding-scams-on-the-appleinsider-podcast?utm_source=rss",
+      "tituloOriginal": "Paying for AI, freezing iPhones, & avoiding scams on the AppleInsider Podcast",
+      "tituloLimpio": "Pagando por IA, iPhones que se congelan y evitando estafas en el podcast de AppleInsider",
+      "resumen": "Alguien tiene que pagar por toda esta IA, nada es infalible, y la demanda de Apple con OpenAI recién está comenzando, todo en el podcast de AppleInsider.",
+      "porQueImporta": "Combina el interés de Guido en Apple, IA y finanzas (costo de la IA), además de abordar la seguridad de los dispositivos.",
+      "publicadoEn": "2026-08-07T11:01:18.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "IA",
+        "costos",
+        "seguridad",
+        "iPhone"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/reviews/ea-sports-tailors-madden-nfl-27-for-apple-arcade/",
+      "tituloOriginal": "EA Sports Tailors Madden NFL 27 for Apple Arcade",
+      "tituloLimpio": "EA Sports adapta Madden NFL 27 para Apple Arcade",
+      "resumen": "EA Sports lanzó Madden NFL 27 Arcade Edition, una versión de la popular franquicia de simulación de fútbol que los suscriptores de Apple Arcade pueden jugar en iPhone, iPad, Mac y Apple TV.",
+      "porQueImporta": "Relevante para Guido por su interés en Apple y cómo la plataforma se expande en el ámbito de los videojuegos, aprovechando el hardware de Apple.",
+      "publicadoEn": "2026-08-06T18:00:51.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "Apple Arcade",
+        "juegos",
+        "EA Sports"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/07/the-u-s-lost-23-000-jobs-in-july-far-shy-of-forecasts-for-a-gain-of-80-000",
+      "tituloOriginal": "U.S. unexpectedly shed 23,000 jobs in July, putting Fed rate hikes in question",
+      "tituloLimpio": "EE.UU. perdió inesperadamente 23.000 empleos en julio, poniendo en duda las subas de tasas de la Fed",
+      "resumen": "Las posibilidades de una suba de tasas de la Reserva Federal en su próxima reunión de septiembre han caído por debajo del 50% tras el informe.",
+      "porQueImporta": "Impacta directamente en los mercados financieros y las decisiones de inversión, relevante para Guido por su interés en ETFs y mercados.",
+      "publicadoEn": "2026-08-07T12:31:51.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/a4d81e192e1f62823140aa467b9ae9ea05af455a-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "EE.UU.",
+        "empleo",
+        "Fed",
+        "tasas de interés",
+        "finanzas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/russia-shuts-down-crypto-exchanges-moscow-city?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Russia cracks down on 9 crypto exchanges in Moscow City",
+      "tituloLimpio": "Rusia reprime 9 exchanges de criptomonedas en Moscú",
+      "resumen": "Rusia cerró nueve exchanges de criptomonedas no registrados en Moscú, con el FSB alegando que ayudaron a mover ganancias de estafas al extranjero a través de call centers ucranianos.",
+      "porQueImporta": "Aunque no es un mercado directo para Guido, muestra la volatilidad regulatoria en el espacio cripto, un factor a considerar en el panorama financiero global.",
+      "publicadoEn": "2026-08-07T12:28:41.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-russias-law-on-crypto-whats-the-latest.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Rusia",
+        "criptomonedas",
+        "regulación",
+        "fraude"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/descartado-plan-platita-asoma-credito-dolares_0_npGeVntHCj.html",
+      "tituloOriginal": "Descartado un Plan Platita, asoma el crédito en dólares",
+      "tituloLimpio": "Descartado un Plan Platita, asoma el crédito en dólares",
+      "resumen": "En la Argentina hay US$ 7.000 millones ociosos que no pueden ser prestados, casi el 17% de los depósitos en dólares.",
+      "porQueImporta": "Noticia clave para Guido en Argentina, ya que aborda la posibilidad de nuevos instrumentos financieros y el movimiento de capital en el país.",
+      "publicadoEn": "2026-08-07T00:01:01.000Z",
+      "imagen": "https://www.clarin.com/img/2026/06/03/O8i4FcoLe_1200x630__1.jpg",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "crédito",
+        "dólares",
+        "economía"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/javier-milei-medidas-vivo-visita-ecuador-presidente-colombia-asuncion-abelardo-espriella_0_dGtAs3cZSD.html",
+      "tituloOriginal": "Javier Milei y sus medidas, EN VIVO: tras su visita a Ecuador, el Presidente ya está en Colombia para la asunción de Abelardo De la Espriella",
+      "tituloLimpio": "Javier Milei y sus medidas, EN VIVO: el Presidente ya está en Colombia tras su visita a Ecuador",
+      "resumen": "El mandatario argentino tendrá primero una reunión bilateral con su colega colombiano, y por la tarde de este viernes estará presente en la ceremonia de juramentación y toma de posesión.",
+      "porQueImporta": "Mantiene a Guido informado sobre la actividad presidencial y las relaciones internacionales de Argentina, que pueden tener impacto económico.",
+      "publicadoEn": "2026-08-07T11:25:41.000Z",
+      "imagen": "https://www.clarin.com/img/2026/06/21/6jlstdIPR_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "política",
+        "Milei",
+        "relaciones internacionales"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/opinion/2026/08/07/cuatro-casas-cuatro-familias-y-un-solo-dia-para-que-todo-salga-bien/",
+      "tituloOriginal": "Cuatro casas, cuatro familias y un solo día para que todo salga bien",
+      "tituloLimpio": "Cuatro casas, cuatro familias y un solo día para que todo salga bien",
+      "resumen": "Cuando vender una propiedad es condición para poder comprar la siguiente, cualquier demora puede poner en riesgo toda la cadena.",
+      "porQueImporta": "Aunque es un tema general, el mercado inmobiliario es un aspecto de la economía que puede interesar a Guido, especialmente en Argentina.",
+      "publicadoEn": "2026-08-07T13:01:57.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/L2D2Q3C6HZFIXOS7NXFDDKNBHE.jpg?auth=211d85f02ae6bc8a1b1d84bd47f0ec0195f1cafbfd0466288a3ef71e2011bd1b&smart=true&width=7900&height=5269",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "inmobiliario",
+        "economía",
+        "Argentina"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid07082026/",
+      "tituloOriginal": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 7 de agosto, minuto a minuto",
+      "tituloLimpio": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 7 de agosto",
+      "resumen": "La divisa oficial operó a $1520 para la venta en el Banco Nación; el dólar blue cotizó a $1530 para esa operación.",
+      "porQueImporta": "Información esencial para Guido en Argentina, ya que el valor del dólar impacta directamente en su economía personal y decisiones de inversión.",
+      "publicadoEn": "2026-08-07T12:50:00.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/MFIAOKGT7NEATGMHEPAZ5PHVGU.png?auth=ff87d1d5f6f3ed0629786616d488e1aa6591939eb0982b2f0d2be7dc4d091b5b&smart=true&width=2000&height=1333",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "dólar",
+        "economía",
+        "finanzas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Politica",
+      "url": "https://www.lanacion.com.ar/politica/ley-de-propiedad-privada-que-se-aprobo-con-la-media-sancion-del-senado-nid07082026/",
+      "tituloOriginal": "Ley de Propiedad Privada: qué se aprobó con la media sanción del Senado",
+      "tituloLimpio": "Ley de Propiedad Privada: qué se aprobó con la media sanción del Senado",
+      "resumen": "El oficialismo logró imponer la iniciativa, pero debió resignar los cambios a la ley del Manejo del Fuego ante la resistencia de los aliados provinciales.",
+      "porQueImporta": "Es una noticia relevante para Argentina que puede tener implicaciones legales y económicas sobre la propiedad, un tema de interés general.",
+      "publicadoEn": "2026-08-07T12:53:06.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/D2QJOMH4CBFB5MASMCFMGH3KKY.jpeg?auth=ac5c8737d0876d05f6150c4e3d1f2b08b3450dd47dade6df4fc3ff4a1c989228&smart=true&width=1280&height=854",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "política",
+        "ley",
+        "propiedad privada"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "fuente": "Adweek",
+      "url": "https://www.adweek.com/media/woo-sue-arpu-publisher-earnings-reveal-ai-strategies/",
+      "tituloOriginal": "Woo, Sue, and ARPU: What Publisher Earnings Reveal About Their AI Strategies",
+      "tituloLimpio": "Lo que revelan las ganancias de los editores sobre sus estrategias de IA",
+      "resumen": "The New York Times, News Corp, USA Today Co. y People Inc. informaron esta semana, y cada uno está lidiando con la presión del tráfico impulsada por la IA.",
+      "porQueImporta": "Interesa a Guido por su conexión con el marketing y la IA, mostrando cómo las empresas de medios están adaptándose a los desafíos y oportunidades de la inteligencia artificial.",
+      "publicadoEn": "2026-08-07T08:43:48.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "IA",
+        "medios",
+        "negocios"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-08-07T13:09:40.409Z"
+  }
+}
