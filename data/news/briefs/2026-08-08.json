@@ -1,0 +1,520 @@
+{
+  "fecha": "2026-08-08",
+  "generadoEn": "2026-08-08T12:53:33.439Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "En el panorama tecnológico, Claude Code de Anthropic ahora permite la comunicación entre sesiones en macOS, mejorando la eficiencia para desarrolladores. OpenAI ralentizó el desarrollo de su modelo Astra por preocupaciones de seguridad, ya que podría identificar y ejecutar ciberataques. En Apple, se esperan aumentos de precios para el iPhone 17 y se lanzó Madden NFL 27 para Apple Arcade. A nivel local, las bodegas argentinas buscan crecer transformando el vino en una experiencia gourmet, mientras que el oficialismo pospuso la reforma de la Ley de Tierras. El presidente Milei asegura contar con USD 70.000 millones para enfrentar una corrida, aunque el mercado advierte sobre la liquidez de esos fondos.",
+  "radarPersonal": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Claude Code agrega mensajería entre sesiones en macOS",
+      "resumen": "Anthropic actualizó Claude Code para que las sesiones de codificación separadas puedan comunicarse directamente, eliminando la necesidad de copiar contexto entre ventanas de Terminal. Esta función se lanzó en la versión 2.1.224 para macOS y Linux.",
+      "categoria": "AI",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/08/08/claude-code-adds-cross-session-messaging/"
+      ],
+      "score": 100,
+      "tags": [
+        "claude",
+        "macos",
+        "productividad",
+        "desarrollo"
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "titulo": "El rol de Reddit y YouTube en la visibilidad de la IA",
+      "resumen": "Invertir en contenido generado por usuarios de alta calidad e informativo es crucial, pero no todas las plataformas son iguales.",
+      "categoria": "Marketing",
+      "fuentes": [
+        "Marketing Dive"
+      ],
+      "urls": [
+        "https://www.marketingdive.com/news/behind-reddit-and-youtubes-roles-in-ai-visibility/827313/"
+      ],
+      "score": 100,
+      "tags": [
+        "marketing",
+        "contenido",
+        "plataformas"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "OpenAI ralentizó el desarrollo del modelo Astra por seguridad",
+      "resumen": "OpenAI dijo que este modelo, aún en desarrollo, alcanzó su \"umbral crítico de ciberseguridad\", lo que significa que podría identificar y ejecutar ciberataques contra sistemas del mundo real bien protegidos.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/"
+      ],
+      "score": 100,
+      "tags": [
+        "openai",
+        "seguridad",
+        "desarrollo"
+      ]
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "titulo": "El iPhone 17 podría subir de precio un mes antes del lanzamiento del iPhone 18 Pro",
+      "resumen": "Apple podría aumentar los precios del iPhone 17 el 10 de agosto, alineando los smartphones con otros productos afectados por la crisis de precios de la memoria.",
+      "categoria": "Apple",
+      "fuentes": [
+        "AppleInsider"
+      ],
+      "urls": [
+        "https://appleinsider.com/articles/26/08/08/iphone-17-faces-an-early-price-rise-a-month-before-iphone-18-pro-launch?utm_source=rss"
+      ],
+      "score": 100,
+      "tags": [
+        "iphone",
+        "precios",
+        "mercado"
+      ]
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "titulo": "Bodegas apuestan a transformar el vino argentino en experiencia gourmet ante la baja del consumo",
+      "resumen": "Arrancó en Buenos Aires una nueva edición de la plataforma Argentina Reloaded. Es un proyecto de la reconocida sommelier Paz Levinson.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Clarin Economia"
+      ],
+      "urls": [
+        "https://www.clarin.com/economia/consumo-baja-bodegas-apuestan-crecer-transformando-vino-argentino-experiencia-gourmet_0_1pvf57e5Og.html"
+      ],
+      "score": 100,
+      "tags": [
+        "argentina",
+        "consumo",
+        "marketing",
+        "negocios"
+      ]
+    }
+  ],
+  "loImportante": [
+    "La IA de Anthropic, Claude Code, mejora la colaboración entre sesiones en macOS, útil para desarrolladores.",
+    "OpenAI pausó el desarrollo de su modelo Astra por su capacidad de realizar ciberataques, destacando riesgos de seguridad en IA avanzada.",
+    "Apple podría subir los precios del iPhone 17, impactando el mercado de smartphones antes del lanzamiento del iPhone 18 Pro.",
+    "Las bodegas argentinas buscan innovar en marketing, transformando el vino en una experiencia gourmet para impulsar el consumo.",
+    "El gobierno argentino asegura tener USD 70.000 millones para enfrentar una corrida, aunque la liquidez de esos fondos es cuestionada por el mercado."
+  ],
+  "oportunidades": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Automation",
+      "titulo": "Mejora en la automatización de desarrollo con Claude Code",
+      "detalle": "La nueva función de mensajería entre sesiones de Claude Code en macOS permite una mayor eficiencia al eliminar la copia manual de contexto entre ventanas de Terminal. Esto puede optimizar flujos de trabajo de desarrollo y retoque.",
+      "acciones": [
+        "Explorar la integración de Claude Code en flujos de trabajo de desarrollo y retoque.",
+        "Evaluar el impacto en la productividad personal y de equipo."
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "Estrategias de visibilidad de IA en Reddit y YouTube",
+      "detalle": "La inversión en contenido generado por usuarios de alta calidad es clave para la visibilidad de la IA en plataformas como Reddit y YouTube. Esto sugiere oportunidades para crear y distribuir contenido relevante.",
+      "acciones": [
+        "Analizar cómo se puede generar contenido de IA de alta calidad para estas plataformas.",
+        "Identificar nichos y formatos efectivos para la difusión de proyectos de IA."
+      ]
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Marketing",
+      "titulo": "Innovación en marketing de productos locales",
+      "detalle": "Las bodegas argentinas están transformando el vino en una experiencia gourmet para impulsar el consumo. Esta estrategia puede aplicarse a otros productos o servicios locales para diferenciarse en un mercado en baja.",
+      "acciones": [
+        "Estudiar la estrategia de 'experiencia gourmet' y adaptarla a proyectos de arte o retoque fotográfico.",
+        "Buscar formas de agregar valor experiencial a los servicios ofrecidos."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "titulo": "Riesgos de seguridad en modelos de IA avanzados",
+      "detalle": "OpenAI ralentizó el desarrollo de su modelo Astra por preocupaciones de seguridad, ya que podría identificar y ejecutar ciberataques. Esto subraya los riesgos inherentes a la IA avanzada y la necesidad de controles rigurosos.",
+      "mitigacion": "Mantenerse informado sobre las mejores prácticas de seguridad en IA. Evaluar los riesgos de seguridad al implementar o desarrollar soluciones de IA."
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Market",
+      "titulo": "Aumento de precios en productos Apple",
+      "detalle": "El iPhone 17 podría subir de precio debido a la crisis de precios de la memoria. Esto puede impactar el costo de adquisición de hardware Apple y afectar el presupuesto para herramientas tecnológicas.",
+      "mitigacion": "Monitorear los precios de los productos Apple y planificar compras estratégicamente. Considerar alternativas o productos reacondicionados si los aumentos son significativos."
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Market",
+      "titulo": "Incertidumbre sobre la liquidez de reservas en Argentina",
+      "detalle": "El presidente Milei asegura contar con USD 70.000 millones para enfrentar una corrida, pero el mercado advierte que no todos esos recursos están disponibles de inmediato ni tienen el mismo grado de liquidez. Esto genera incertidumbre económica.",
+      "mitigacion": "Diversificar inversiones y no depender exclusivamente de la estabilidad económica local. Mantenerse informado sobre la situación financiera del país y las opiniones de los analistas de mercado."
+    }
+  ],
+  "conexiones": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Actualizaciones de IA de Google en julio de 2026",
+      "historias": [
+        "Las últimas actualizaciones de IA de Google de julio de 2026.",
+        "OpenAI ralentizó el desarrollo del modelo Astra por seguridad.",
+        "Claude Code agrega mensajería entre sesiones en macOS."
+      ],
+      "conclusion": "Las grandes empresas de tecnología como Google, Anthropic y OpenAI continúan innovando en IA, pero también enfrentan desafíos significativos, especialmente en seguridad y la integración de nuevas funcionalidades que impactan la productividad."
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "titulo": "Apple entre las acciones más demandadas por fondos",
+      "historias": [
+        "Apple entre las tres acciones con mayor demanda. Los fondos también invierten en otras 14.",
+        "El iPhone 17 podría subir de precio un mes antes del lanzamiento del iPhone 18 Pro.",
+        "Ofertas de fin de semana de Apple: AirPods Pro 3 con 25% de descuento, MacBook Neo, tarjetas de regalo de Apple, iPhone Air, Apple TV y más."
+      ],
+      "conclusion": "Apple sigue siendo una empresa atractiva para los inversores, lo que se refleja en la demanda de sus acciones por parte de los fondos. Sin embargo, los posibles aumentos de precios en sus productos y las ofertas de fin de semana muestran una dinámica de mercado compleja que busca equilibrar la demanda con los costos de producción."
+    }
+  ],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+      "tituloOriginal": "The latest AI news we announced in July 2026",
+      "tituloLimpio": "Google anuncia las últimas novedades de IA en julio de 2026",
+      "resumen": "Aquí están las últimas actualizaciones de IA de Google de julio de 2026.",
+      "porQueImporta": "Es relevante para estar al tanto de los avances de Google en inteligencia artificial, que pueden influir en herramientas y servicios futuros.",
+      "publicadoEn": "2026-08-04T13:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "google",
+        "ia",
+        "actualizaciones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/08/08/claude-code-adds-cross-session-messaging/",
+      "tituloOriginal": "Claude Code Adds Cross-Session Messaging on macOS",
+      "tituloLimpio": "Claude Code de Anthropic añade mensajería entre sesiones en macOS",
+      "resumen": "Anthropic actualizó Claude Code para que las sesiones de codificación separadas puedan comunicarse directamente, eliminando la necesidad de copiar contexto entre ventanas de Terminal. La función se lanzó en la versión 2.1.224 para macOS y Linux.",
+      "porQueImporta": "Mejora la eficiencia para desarrolladores y artistas que usan herramientas de IA en macOS, facilitando la colaboración entre diferentes procesos.",
+      "publicadoEn": "2026-08-08T10:22:46.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "claude",
+        "macos",
+        "ia",
+        "productividad",
+        "desarrollo"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/consejos-rendir-los-dolares-estados-unidos-claves-no-gastar-mas-el-viaje-n6307255",
+      "tituloOriginal": "Consejos para rendir los dólares en Estados Unidos: claves para no gastar de más en el viaje",
+      "tituloLimpio": "Consejos para optimizar el uso de dólares en Estados Unidos y no gastar de más en el viaje",
+      "resumen": "Una buena planificación antes de salir y pequeñas decisiones cotidianas pueden marcar una diferencia importante en el presupuesto durante la estadía.",
+      "porQueImporta": "Útil para quienes planean viajes al exterior desde Argentina, ofreciendo estrategias para gestionar el presupuesto en dólares.",
+      "publicadoEn": "2026-08-08T00:00:00.000Z",
+      "imagen": "https://media.ambito.com/p/c5b4d58b72b11f753a21ad0d877a819e/adjuntos/239/imagenes/043/563/0043563742/1200x675/522x525:542x545/viaje.jpg",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "finanzas",
+        "viajes",
+        "dolares"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/behind-reddit-and-youtubes-roles-in-ai-visibility/827313/",
+      "tituloOriginal": "Behind Reddit and YouTube’s roles in AI visibility",
+      "tituloLimpio": "El papel de Reddit y YouTube en la visibilidad de la IA",
+      "resumen": "Invertir en contenido generado por usuarios de alta calidad e informativo es crucial, pero no todas las plataformas son iguales.",
+      "porQueImporta": "Ofrece insights sobre cómo las plataformas influyen en la difusión de contenido de IA, relevante para estrategias de marketing y visibilidad de proyectos.",
+      "publicadoEn": "2026-08-07T13:17:46.000Z",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "ia",
+        "redes sociales",
+        "contenido"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "tituloOriginal": "OpenAI says it slowed Astra model development over security concerns",
+      "tituloLimpio": "OpenAI ralentizó el desarrollo del modelo Astra por preocupaciones de seguridad",
+      "resumen": "OpenAI dijo que este modelo, aún en desarrollo, alcanzó su \"umbral crítico de ciberseguridad\", lo que significa que podría identificar y ejecutar ciberataques contra sistemas del mundo real bien protegidos.",
+      "porQueImporta": "Destaca los desafíos de seguridad en el desarrollo de IA avanzada y la importancia de la ética y el control en estas tecnologías.",
+      "publicadoEn": "2026-08-07T22:48:24.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "openai",
+        "ia",
+        "seguridad",
+        "ética"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+      "tituloOriginal": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
+      "tituloLimpio": "Fenix Flexin ya no niega el uso de IA para crear 'Rubberz'",
+      "resumen": "El rapero Fenix Flexin parece haber admitido el uso de IA para la canción \"Rubberz\". Sus comentarios siguen a videos que afirmaban que se usó una herramienta de IA llamada Treblo (anteriormente Sonauto) para hacer la canción.",
+      "porQueImporta": "Refleja la creciente integración de la IA en la creación artística y los debates sobre su uso y reconocimiento en la industria musical.",
+      "publicadoEn": "2026-08-07T20:01:51.000Z",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "arte",
+        "música",
+        "tendencias"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/08/08/iphone-17-faces-an-early-price-rise-a-month-before-iphone-18-pro-launch?utm_source=rss",
+      "tituloOriginal": "iPhone 17 faces an early price rise a month before iPhone 18 Pro launch",
+      "tituloLimpio": "El iPhone 17 podría subir de precio un mes antes del lanzamiento del iPhone 18 Pro",
+      "resumen": "Apple podría aumentar los precios del iPhone 17 el 10 de agosto, alineando los smartphones con otros productos afectados por la crisis de precios de la memoria.",
+      "porQueImporta": "Impacta en la planificación de compras de dispositivos Apple y en el presupuesto para herramientas tecnológicas.",
+      "publicadoEn": "2026-08-08T11:54:12.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "iphone",
+        "precios",
+        "mercado"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/reviews/ea-sports-tailors-madden-nfl-27-for-apple-arcade/",
+      "tituloOriginal": "EA Sports Tailors Madden NFL 27 for Apple Arcade",
+      "tituloLimpio": "EA Sports adapta Madden NFL 27 para Apple Arcade",
+      "resumen": "EA Sports lanzó Madden NFL 27 Arcade Edition, una versión de la franquicia de simulación de fútbol que los suscriptores de Apple Arcade pueden jugar en iPhone, iPad, Mac y Apple TV.",
+      "porQueImporta": "Muestra la expansión de la oferta de juegos en Apple Arcade y la optimización de títulos para el ecosistema de hardware de Apple.",
+      "publicadoEn": "2026-08-06T18:00:51.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "apple arcade",
+        "juegos",
+        "software"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month",
+      "tituloOriginal": "U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month",
+      "tituloLimpio": "El Senado de EE.UU. inicia la votación de la Ley de Claridad Cripto",
+      "resumen": "El líder de la mayoría inició el proceso de varias etapas que sigue el Senado para lograr que un proyecto de ley supere el umbral de 60 votos, por lo que aún tiene una oportunidad en septiembre.",
+      "porQueImporta": "Aunque es una noticia de EE.UU., la regulación cripto tiene impacto global y puede influir en la percepción y adopción de criptomonedas en otros mercados.",
+      "publicadoEn": "2026-08-08T09:07:24.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/a6f02ef703e994951b57b8fa5172c8f10bfe45ac-5508x3672.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "cripto",
+        "regulación",
+        "mercado"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/russia-shuts-down-crypto-exchanges-moscow-city?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Russia cracks down on 9 crypto exchanges in Moscow City",
+      "tituloLimpio": "Rusia cierra 9 exchanges de criptomonedas en Moscú",
+      "resumen": "Rusia cerró nueve exchanges de criptomonedas no registrados en Moscú, con el FSB alegando que ayudaron a mover ganancias de estafas al extranjero a través de centros de llamadas ucranianos.",
+      "porQueImporta": "Refleja la creciente presión regulatoria sobre las criptomonedas a nivel internacional y los riesgos asociados a plataformas no reguladas.",
+      "publicadoEn": "2026-08-07T12:28:41.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-russias-law-on-crypto-whats-the-latest.jpg",
+      "globalScore": 82,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "cripto",
+        "regulación",
+        "seguridad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/consumo-baja-bodegas-apuestan-crecer-transformando-vino-argentino-experiencia-gourmet_0_1pvf57e5Og.html",
+      "tituloOriginal": "Con el consumo en baja, las bodegas apuestan a crecer transformando el vino argentino en una experiencia gourmet",
+      "tituloLimpio": "Bodegas apuestan a transformar el vino argentino en experiencia gourmet ante la baja del consumo",
+      "resumen": "Arrancó en Buenos Aires una nueva edición de la plataforma Argentina Reloaded. Es un proyecto de la reconocida sommelier Paz Levinson.",
+      "porQueImporta": "Muestra estrategias de marketing y adaptación de la industria local frente a la baja del consumo, relevante para otros sectores en Argentina.",
+      "publicadoEn": "2026-08-08T11:11:18.000Z",
+      "imagen": "https://www.clarin.com/img/2026/08/07/SwRPqK3bb_1200x630__1.jpg",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "marketing",
+        "negocios",
+        "consumo"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/diputados-oficialismo-evita-confrontar-aliados-patea-adelante-reforma-ley-tierras_0_EYgo0b2q5q.html",
+      "tituloOriginal": "Diputados: el oficialismo evita confrontar con los aliados y patea para más adelante la reforma de la Ley de Tierras",
+      "tituloLimpio": "Diputados: el oficialismo pospone la reforma de la Ley de Tierras para evitar confrontar con aliados",
+      "resumen": "Se mantendrán el texto del proyecto de inviolabilidad de la propiedad privada aprobado por el Senado. El oficialismo podría sufrir las bajas de gobernadores aliados.",
+      "porQueImporta": "Refleja la dinámica política interna de Argentina y cómo las decisiones legislativas pueden afectar la estabilidad y las relaciones entre poderes.",
+      "publicadoEn": "2026-08-08T11:59:17.000Z",
+      "imagen": "https://www.clarin.com/img/2026/02/20/3bFJS5Xc2_1200x630__1.jpg",
+      "globalScore": 86,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "política",
+        "leyes",
+        "economía"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/08/08/milei-asegura-contar-con-usd-70000-millones-para-enfrentar-una-corrida-como-se-componen-y-como-podria-usarlos/",
+      "tituloOriginal": "Milei asegura contar con USD 70.000 millones para enfrentar una corrida: cómo se componen y cómo podría usarlos",
+      "tituloLimpio": "Milei asegura contar con USD 70.000 millones para enfrentar una corrida: cómo se componen y cómo podría usarlos",
+      "resumen": "La cifra surge de sumar reservas en el BCRA, swaps y financiamiento ya asegurado, aunque en el mercado advierten que no todos esos recursos están disponibles de inmediato ni tienen el mismo grado de liquidez.",
+      "porQueImporta": "Información clave sobre la situación económica de Argentina y la capacidad del gobierno para enfrentar crisis financieras, relevante para decisiones de inversión.",
+      "publicadoEn": "2026-08-08T03:20:15.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/5P2K7JGFKNCQLPUAIFVS6PE2HE.jpg?auth=375439bea04794dbb77a9ef6c5c844b3517f00db6f3b46d816914b3959f95156&smart=true&width=4171&height=2781",
+      "globalScore": 80,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "economía",
+        "finanzas",
+        "inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/08/08/fentanilo-mortal-la-ex-funcionaria-encargada-de-controlar-los-medicamentos-dijo-33-veces-no-recuerdo-ante-el-juez-que-la-investiga/",
+      "tituloOriginal": "Fentanilo mortal: la ex funcionaria encargada de controlar los medicamentos dijo 33 veces “no recuerdo” ante el juez que la investiga",
+      "tituloLimpio": "Fentanilo mortal: ex funcionaria dijo 33 veces “no recuerdo” ante el juez que la investiga",
+      "resumen": "Alejandra Mantecon Fumadó, ex directora del Instituto Nacional de Medicamentos (INAME) declaró que a los laboratorios de Ariel García Furfaro debían ir con custodia personal porque los inspectores estaban atemorizados.",
+      "porQueImporta": "Destaca un caso de corrupción y falta de control en el ámbito de la salud pública en Argentina, con implicaciones sociales y políticas.",
+      "publicadoEn": "2026-08-08T11:18:36.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/VA5PRSPGMZAB5M57QJTEU3PBTY.png?auth=c0881bb1a13aa49584a235537a5f48053ff8688273488907b6679a58c76b75a2&smart=true&width=1676&height=942",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "política",
+        "corrupción",
+        "salud"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/dolar/este-es-el-precio-con-el-que-abre-el-dolar-el-lunes-10-de-agosto-nid08082026/",
+      "tituloOriginal": "Este es el precio con el que abre el dólar el lunes 10 de agosto",
+      "tituloLimpio": "Precio de apertura del dólar el lunes 10 de agosto",
+      "resumen": "La cotización de la divisa oficial abre con los mismos números que en su último día de cierre.",
+      "porQueImporta": "Información esencial para quienes operan con dólares o siguen la economía argentina, afectando decisiones financieras diarias.",
+      "publicadoEn": "2026-08-08T11:12:00.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/HGBZWIHSVVDBVBCF23NUUJ2XLY.jpg?auth=40e09115afc78a149c92d253c6c6877abd691d700b49b22373bfe4895a7d234d&smart=true&width=2000&height=1333",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "dólar",
+        "economía",
+        "finanzas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Politica",
+      "url": "https://www.lanacion.com.ar/politica/el-misterioso-tren-de-vida-de-facundo-moyano-y-el-resurgir-economico-de-un-gremio-en-extincion-nid08082026/",
+      "tituloOriginal": "El misterioso tren de vida de Facundo Moyano y el resurgir económico de un gremio en extinción",
+      "tituloLimpio": "El tren de vida de Facundo Moyano y el resurgir económico de un gremio en extinción",
+      "resumen": "El sindicalista se mudó de San Telmo a un edificio en Barrancas de Belgrano y suele ahorrar en efectivo; el gremio de peajes pierde afiliados, pero renovó su flota de autos y cambió de sede.",
+      "porQueImporta": "Ofrece una mirada sobre la política sindical y la economía informal en Argentina, con implicaciones sobre la transparencia y el uso de recursos.",
+      "publicadoEn": "2026-08-08T04:00:00.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/7QNHO6BSCFCJHIQNLBNVM7L2OQ.JPG?auth=c12ac9f12143d0e85eb2ec3ba35f156acccdc6803b15e264bde2e749f3e74be7&smart=true&width=6720&height=4480",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "política",
+        "sindicalismo",
+        "economía"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-08-08T12:53:33.439Z"
+  }
+}
