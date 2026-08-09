@@ -1,0 +1,438 @@
+{
+  "fecha": "2026-08-09",
+  "generadoEn": "2026-08-09T12:56:13.007Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "Las novedades de Google en IA de julio de 2026 ya están disponibles. Apple podría lanzar su primer iPhone plegable, el 'iPhone Ultra', en colores plata y azul oscuro. En Argentina, el plazo fijo sigue con tasas bajas, y la inversión en Vaca Muerta requiere un gran capital para expandirse. También se observa un cambio en el mercado automotor local, donde los autos más baratos ya no son los más vendidos. En el ámbito de las criptomonedas, una bifurcación de Bitcoin, BIP-110, tuvo un inicio problemático. Además, se destaca el rol de Reddit y YouTube en la visibilidad de la IA en marketing.",
+  "radarPersonal": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Google publicó las últimas novedades de IA de julio de 2026",
+      "resumen": "Acá están las últimas actualizaciones de IA de Google de julio de 2026.",
+      "categoria": "AI",
+      "fuentes": [
+        "Google AI Blog"
+      ],
+      "urls": [
+        "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/"
+      ],
+      "score": 100,
+      "tags": [
+        "google",
+        "ia",
+        "actualizaciones"
+      ]
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Rumores indican que el iPhone Ultra plegable vendría en dos colores",
+      "resumen": "Nuevas imágenes de accesorios protectores de cámara para el 'iPhone Ultra' sugieren que el primer iPhone plegable de Apple se lanzará en acabados plata y azul oscuro.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors",
+        "9to5Mac",
+        "AppleInsider"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/08/09/iphone-ultra-rumored-to-come-in-these-two-colors/",
+        "https://9to5mac.com/2026/08/08/iphone-ultra-colors-leak-rumor/",
+        "https://appleinsider.com/articles/26/08/09/iphone-fold-may-ship-in-a-choice-of-silver-or-dark-blue?utm_source=rss"
+      ],
+      "score": 100,
+      "tags": [
+        "iphone",
+        "plegable",
+        "colores",
+        "rumores"
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "titulo": "El rol de Reddit y YouTube en la visibilidad de la IA",
+      "resumen": "Invertir en contenido generado por usuarios de alta calidad e informativo es crucial, pero no todas las plataformas son iguales.",
+      "categoria": "Marketing",
+      "fuentes": [
+        "Marketing Dive"
+      ],
+      "urls": [
+        "https://www.marketingdive.com/news/behind-reddit-and-youtubes-roles-in-ai-visibility/827313/"
+      ],
+      "score": 100,
+      "tags": [
+        "marketing",
+        "ia",
+        "reddit",
+        "youtube"
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "El plazo fijo sigue por el piso: cuánto hay que invertir para generar $50.000 en 30 días",
+      "resumen": "Las tasas de los depósitos tradicionales siguen lejos de los niveles de meses anteriores y obligan a los inversores a inmovilizar montos cada vez más altos.",
+      "categoria": "Finance",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/el-plazo-fijo-sigue-el-piso-cuanto-hay-que-invertir-generar-50000-30-dias-n6307858"
+      ],
+      "score": 100,
+      "tags": [
+        "plazo fijo",
+        "inversión",
+        "argentina"
+      ]
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "titulo": "El boom de Vaca Muerta necesita inversiones por más de un año de sus exportaciones para expandirse",
+      "resumen": "Un informe del BBVA advierte que la producción de petróleo y gas en Argentina ahora solo tiene restricciones de infraestructura.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Clarin Economia"
+      ],
+      "urls": [
+        "https://www.clarin.com/economia/boom-vaca-muerta-necesita-inversiones-ano-exportaciones-expandirse_0_jArXtqhxLN.html"
+      ],
+      "score": 100,
+      "tags": [
+        "vaca muerta",
+        "inversiones",
+        "argentina",
+        "exportaciones"
+      ]
+    }
+  ],
+  "loImportante": [
+    "Google lanzó sus últimas actualizaciones de IA de julio de 2026, lo que puede indicar nuevas herramientas o mejoras relevantes para el trabajo con IA.",
+    "Los rumores sobre el iPhone Ultra plegable en colores plata y azul oscuro sugieren un posible nuevo producto de Apple que podría impactar el mercado de dispositivos móviles.",
+    "En Argentina, el plazo fijo sigue ofreciendo bajas tasas, lo que obliga a buscar alternativas de inversión para generar rendimientos significativos.",
+    "La expansión de Vaca Muerta requiere una inversión considerable en infraestructura, lo que representa una oportunidad para el desarrollo económico del país, pero también un desafío.",
+    "El rol de plataformas como Reddit y YouTube en la visibilidad de la IA es clave para estrategias de marketing y difusión de proyectos relacionados con inteligencia artificial."
+  ],
+  "oportunidades": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "titulo": "Nuevas herramientas y mejoras de IA de Google",
+      "detalle": "Las últimas actualizaciones de IA de Google de julio de 2026 podrían incluir nuevas funcionalidades o mejoras en herramientas existentes, útiles para el retoque fotográfico y el arte con IA.",
+      "acciones": [
+        "Revisar el blog de Google AI para identificar nuevas herramientas o funciones aplicables.",
+        "Experimentar con las actualizaciones para ver cómo pueden mejorar los flujos de trabajo."
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "Aprovechar Reddit y YouTube para visibilidad de IA",
+      "detalle": "La inversión en contenido generado por usuarios de alta calidad en plataformas como Reddit y YouTube es crucial para la visibilidad de la IA. Esto puede ser una oportunidad para mostrar proyectos de arte con IA y retoque fotográfico.",
+      "acciones": [
+        "Crear contenido de alta calidad sobre proyectos de IA y retoque fotográfico para YouTube.",
+        "Participar en comunidades relevantes de Reddit para compartir conocimientos y promocionar trabajos."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Market",
+      "titulo": "Bajas tasas de plazo fijo en Argentina",
+      "detalle": "Las tasas de los depósitos tradicionales en Argentina siguen bajas, lo que dificulta generar rendimientos significativos con inversiones conservadoras.",
+      "mitigacion": "Explorar otras opciones de inversión como ETFs o mercados, buscando diversificación y mayor potencial de retorno, siempre con un análisis de riesgo adecuado."
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "Technology",
+      "titulo": "Impacto ambiental de los centros de datos de IA",
+      "detalle": "Un centro de datos de Amazon planeado en Texas podría convertirse en el mayor contaminante climático de EE.UU. debido a una planta de energía asociada. Esto subraya el creciente impacto ambiental de la infraestructura de IA.",
+      "mitigacion": "Considerar el impacto ambiental al elegir proveedores de servicios de IA o al desarrollar proyectos, buscando opciones más sostenibles o eficientes energéticamente."
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "Regulatory",
+      "titulo": "Proteccionismo en IA y robótica",
+      "detalle": "El proteccionismo en IA, como el mencionado en relación con la robótica, podría afectar la disponibilidad de tecnologías o herramientas de IA en el futuro, limitando el acceso a innovaciones globales.",
+      "mitigacion": "Mantenerse informado sobre políticas y regulaciones que puedan impactar el acceso a tecnologías de IA y robótica, y buscar soluciones que no dependan exclusivamente de un único mercado o proveedor."
+    }
+  ],
+  "conexiones": [
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "El impacto ambiental de la infraestructura de IA",
+      "historias": [
+        "Un centro de datos de Amazon planeado en Texas podría convertirse en el mayor contaminante climático de EE.UU.",
+        "Para alimentar su nuevo centro de datos en el oeste de Texas, Amazon está invirtiendo en la construcción de una nueva planta de energía que podría ser uno de los mayores productores de gases de efecto invernadero en EE.UU."
+      ],
+      "conclusion": "Estas noticias resaltan el creciente consumo energético y el impacto ambiental de la infraestructura necesaria para la IA, un factor importante a considerar en el desarrollo y uso de estas tecnologías."
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Rumores sobre el iPhone plegable de Apple",
+      "historias": [
+        "Nuevas imágenes de accesorios protectores de cámara para el 'iPhone Ultra' sugieren que el primer iPhone plegable de Apple se lanzará en acabados plata y azul oscuro.",
+        "Una nueva filtración podría revelar los dos colores de lanzamiento del iPhone Ultra.",
+        "El iPhone Fold podría enviarse en una opción de plata o azul oscuro."
+      ],
+      "conclusion": "Múltiples fuentes están reportando sobre los posibles colores del primer iPhone plegable de Apple, lo que indica un lanzamiento inminente y un interés significativo en este nuevo formato de dispositivo."
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "titulo": "Problemas con la bifurcación BIP-110 de Bitcoin",
+      "historias": [
+        "La controvertida bifurcación de Bitcoin BIP-110 minó dos bloques y luego se detuvo.",
+        "La rama BIP-110 de Bitcoin se estanca después de dos bloques a medida que la brecha se amplía."
+      ],
+      "conclusion": "La bifurcación BIP-110 de Bitcoin enfrentó dificultades tempranas, lo que subraya los desafíos técnicos y de consenso en el desarrollo de nuevas cadenas en el ecosistema cripto."
+    }
+  ],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+      "tituloOriginal": "The latest AI news we announced in July 2026",
+      "tituloLimpio": "Google publicó las últimas novedades de IA de julio de 2026",
+      "resumen": "Acá están las últimas actualizaciones de IA de Google de julio de 2026.",
+      "porQueImporta": "Guido, como artista de IA y retocador, estas actualizaciones de Google pueden traer nuevas herramientas o mejoras que impacten directamente tu trabajo y te permitan explorar nuevas posibilidades creativas.",
+      "publicadoEn": "2026-08-04T13:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "google",
+        "ia",
+        "actualizaciones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/08/09/iphone-ultra-rumored-to-come-in-these-two-colors/",
+      "tituloOriginal": "Foldable 'iPhone Ultra' Rumored to Come in These Two Colors",
+      "tituloLimpio": "Rumores indican que el iPhone Ultra plegable vendría en dos colores",
+      "resumen": "Nuevas imágenes de accesorios protectores de cámara para el 'iPhone Ultra' sugieren que el primer iPhone plegable de Apple se lanzará en acabados plata y azul oscuro.",
+      "porQueImporta": "Si Apple lanza un iPhone plegable, esto podría cambiar el mercado de smartphones y ofrecer nuevas posibilidades para el trabajo creativo en dispositivos móviles, algo relevante para tu interés en Apple y herramientas.",
+      "publicadoEn": "2026-08-09T11:53:44.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "iphone",
+        "plegable",
+        "rumores"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/el-plazo-fijo-sigue-el-piso-cuanto-hay-que-invertir-generar-50000-30-dias-n6307858",
+      "tituloOriginal": "El plazo fijo sigue por el piso: cuánto hay que invertir para generar $50.000 en 30 días",
+      "tituloLimpio": "El plazo fijo sigue por el piso: cuánto hay que invertir para generar $50.000 en 30 días",
+      "resumen": "Las tasas de los depósitos tradicionales siguen lejos de los niveles de meses anteriores y obligan a los inversores a inmovilizar montos cada vez más altos.",
+      "porQueImporta": "Esta noticia es clave para tus inversiones en Argentina. Te muestra la realidad de los plazos fijos y la necesidad de buscar alternativas más rentables para tu capital.",
+      "publicadoEn": "2026-08-08T19:00:00.000Z",
+      "imagen": "https://media.ambito.com/p/563a44edbd678b8a26222420ef9086a0/adjuntos/239/imagenes/043/564/0043564049/1200x675/416x558:436x578/plazo-fijo-1500-x-1000.png",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "finanzas",
+        "inversión",
+        "plazo fijo"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/behind-reddit-and-youtubes-roles-in-ai-visibility/827313/",
+      "tituloOriginal": "Behind Reddit and YouTube’s roles in AI visibility",
+      "tituloLimpio": "El rol de Reddit y YouTube en la visibilidad de la IA",
+      "resumen": "Invertir en contenido generado por usuarios de alta calidad e informativo es crucial, pero no todas las plataformas son iguales.",
+      "porQueImporta": "Como artista de IA, entender cómo plataformas como Reddit y YouTube influyen en la visibilidad de la IA es fundamental para tus estrategias de marketing y para mostrar tu trabajo.",
+      "publicadoEn": "2026-08-07T13:17:46.000Z",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "ia",
+        "redes sociales",
+        "visibilidad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+      "tituloOriginal": "An Amazon data center could have the worst polluting power plant in the country",
+      "tituloLimpio": "Un centro de datos de Amazon podría tener la planta de energía más contaminante del país",
+      "resumen": "Para alimentar su nuevo centro de datos en el oeste de Texas, Amazon está invirtiendo en la construcción de una nueva planta de energía que podría ser uno de los mayores productores de gases de efecto invernadero en EE.UU.",
+      "porQueImporta": "Aunque no te afecta directamente, esta noticia resalta el impacto ambiental de la infraestructura de IA, un tema relevante para la sostenibilidad de la tecnología que utilizás.",
+      "publicadoEn": "2026-08-08T17:53:34.000Z",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "tecnología",
+        "medio ambiente",
+        "amazon"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "tituloOriginal": "Trump’s AI protectionism has come for robotics",
+      "tituloLimpio": "El proteccionismo de Trump en IA llegó a la robótica",
+      "resumen": "Esta historia apareció originalmente en The Algorithm, nuestro boletín semanal sobre IA.",
+      "porQueImporta": "Las políticas de proteccionismo en IA y robótica pueden afectar la disponibilidad y el costo de herramientas y tecnologías que usás o podrías usar en el futuro, incluso si no estás en EE.UU.",
+      "publicadoEn": "2026-08-03T18:43:30.000Z",
+      "globalScore": 86,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "política",
+        "robótica",
+        "tecnología"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/reviews/ea-sports-tailors-madden-nfl-27-for-apple-arcade/",
+      "tituloOriginal": "EA Sports Tailors Madden NFL 27 for Apple Arcade",
+      "tituloLimpio": "EA Sports adapta Madden NFL 27 para Apple Arcade",
+      "resumen": "EA Sports lanzó Madden NFL 27 Arcade Edition, una versión de la popular franquicia de simulación de fútbol que los suscriptores de Apple Arcade pueden jugar en iPhone, iPad, Mac y Apple TV.",
+      "porQueImporta": "Esto muestra cómo Apple sigue expandiendo su ecosistema de juegos y servicios, lo que puede ser interesante si sos usuario de Apple y te interesa el entretenimiento o las capacidades de sus dispositivos.",
+      "publicadoEn": "2026-08-06T18:00:51.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "juegos",
+        "apple arcade",
+        "entretenimiento"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops",
+      "tituloOriginal": "Controversial Bitcoin fork BIP-110 mines two blocks, then stops",
+      "tituloLimpio": "La controvertida bifurcación de Bitcoin BIP-110 minó dos bloques y luego se detuvo",
+      "resumen": "La cadena derivada heredó la dificultad de minería de bitcoin con solo una pequeña parte de la potencia de hash, dejando los bloques con horas de diferencia mientras ambas cadenas aún aceptan las mismas transacciones.",
+      "porQueImporta": "Como inversor interesado en mercados, es importante estar al tanto de los desarrollos y problemas en el espacio de las criptomonedas, ya que pueden influir en la estabilidad y el valor de los activos digitales.",
+      "publicadoEn": "2026-08-09T05:08:20.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/f224848aaca775da0faa59a78c4901d5e0ae5d09-2560x1707.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "bitcoin",
+        "criptomonedas",
+        "tecnología"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/boom-vaca-muerta-necesita-inversiones-ano-exportaciones-expandirse_0_jArXtqhxLN.html",
+      "tituloOriginal": "El boom de Vaca Muerta necesita inversiones por más de un año de sus exportaciones para expandirse",
+      "tituloLimpio": "El boom de Vaca Muerta necesita inversiones por más de un año de sus exportaciones para expandirse",
+      "resumen": "Un informe del BBVA advierte que la producción de petróleo y gas en Argentina ahora solo tiene restricciones de infraestructura.",
+      "porQueImporta": "Esta noticia es relevante para la economía argentina y, por ende, para el clima de inversión general en el país. Las grandes inversiones en infraestructura pueden generar oportunidades o desafíos económicos.",
+      "publicadoEn": "2026-08-09T12:00:21.000Z",
+      "imagen": "https://www.clarin.com/img/2026/04/29/ZeX7vB-kb_1200x630__1.jpg",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "economía",
+        "inversión",
+        "vaca muerta"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/08/09/dato-historico-por-primera-vez-ninguno-de-los-10-autos-0-km-mas-baratos-esta-en-el-top-de-ventas-del-mercado-argentino/",
+      "tituloOriginal": "Dato histórico: por primera vez ninguno de los 10 autos 0 km más baratos está en el Top de ventas del mercado argentino",
+      "tituloLimpio": "Dato histórico: por primera vez ninguno de los 10 autos 0 km más baratos está en el Top de ventas del mercado argentino",
+      "resumen": "En agosto se da esta situación inédita gracias a la llegada de nuevos modelos accesibles al mercado.",
+      "porQueImporta": "Esta tendencia en el mercado automotor argentino refleja cambios en el consumo y la oferta, lo que puede ser un indicador de la situación económica general del país.",
+      "publicadoEn": "2026-08-09T07:21:33.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/YTOUVI3J4RBBHKWTY3LPUXUAVQ.jpg?auth=716e1a9a6405a5cca9549cb530f7a87284eecef978f293bc1320367c04a912ee&smart=true&width=1920&height=1079",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "economía",
+        "consumo",
+        "mercado automotor"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/08/09/milei-se-radicaliza-y-pone-en-riesgo-sus-debiles-alianzas/",
+      "tituloOriginal": "Milei se radicaliza y pone en riesgo sus débiles alianzas",
+      "tituloLimpio": "Milei se radicaliza y pone en riesgo sus débiles alianzas",
+      "resumen": "Los errores oficialistas consumieron el último crédito político en el Congreso.",
+      "porQueImporta": "La estabilidad política en Argentina es un factor importante para el clima de negocios y las inversiones. Los cambios en las alianzas gubernamentales pueden generar incertidumbre.",
+      "publicadoEn": "2026-08-09T12:27:40.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/TN6RE4EE75EX3DUQMFO7HASOXQ.jpg?auth=ed588448fadce4dd13b178465e5c6d4fe5efdece1b89d92543e72faf9cf58fdb&smart=true&width=1920&height=1080",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "política",
+        "gobierno"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Politica",
+      "url": "https://www.lanacion.com.ar/politica/la-libertad-avanza-busca-una-coalicion-amplia-para-disputar-la-gobernacion-bonaerense-en-2027-nid09082026/",
+      "tituloOriginal": "La Libertad Avanza busca una coalición amplia para disputar la gobernación bonaerense en 2027",
+      "tituloLimpio": "La Libertad Avanza busca una coalición amplia para disputar la gobernación bonaerense en 2027",
+      "resumen": "Trabaja de forma estrecha con Pro; la UCR se muestra más reticente.",
+      "porQueImporta": "Las estrategias políticas a futuro en la provincia de Buenos Aires son relevantes para el panorama político y económico de Argentina, afectando posibles políticas y el clima de inversión.",
+      "publicadoEn": "2026-08-09T10:23:30.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/DQCFP7GMJZCWZIXVPIFO2TAGMI.jpg?auth=2a9ef2b344278ef4dd49ea58f5599c6ab9fda7d37e1472a9303fc27cf2cdfd9a&smart=true&width=2000&height=1333",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "política",
+        "elecciones",
+        "buenos aires"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-08-09T12:56:13.007Z"
+  }
+}
