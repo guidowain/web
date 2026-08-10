@@ -1,0 +1,500 @@
+{
+  "fecha": "2026-08-10",
+  "generadoEn": "2026-08-10T13:14:21.755Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "Hoy, Apple publicó y luego retiró una guía para conectar Siri con la IA Qwen de Alibaba en China, lo que sugiere un posible avance en la integración de IA. En Argentina, la UIF reforzó los controles sobre inmuebles para detectar operaciones sospechosas, y se observa que el 78% de los hogares pertenece a la clase baja y media baja. En el ámbito de la IA, Google anunció sus últimas actualizaciones de julio, y Ford lanzó un asistente de IA para vehículos. Además, se reportaron movimientos en el mercado de criptomonedas y las cotizaciones del dólar en Argentina.",
+  "radarPersonal": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Apple publicó y retiró una guía para conectar Siri con la IA Qwen de Alibaba en China",
+      "resumen": "Apple publicó brevemente una guía de soporte en China explicando cómo los usuarios de Mac pueden conectar la IA Qwen de Alibaba a Siri y a las herramientas de escritura, antes de retirarla por completo en menos de un día.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/08/10/apple-posts-guide-for-connecting-siri-to-qwen-ai/"
+      ],
+      "score": 100,
+      "tags": [
+        "apple",
+        "siri",
+        "qwen",
+        "china",
+        "ia"
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "La UIF refuerza controles sobre inmuebles y fija nuevas alertas para detectar operaciones sospechosas en Argentina",
+      "resumen": "La nueva normativa alcanza a todos los Registros de la Propiedad Inmueble del país e incorpora un enfoque basado en riesgos.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/la-uif-refuerza-los-controles-inmuebles-y-fija-nuevas-alertas-detectar-operaciones-sospechosas-n6308898"
+      ],
+      "score": 100,
+      "tags": [
+        "uif",
+        "inmuebles",
+        "controles",
+        "argentina",
+        "finanzas"
+      ]
+    },
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Google anuncia sus últimas actualizaciones de IA de julio de 2026",
+      "resumen": "Aquí están las últimas actualizaciones de IA de Google de julio de 2026.",
+      "categoria": "AI",
+      "fuentes": [
+        "Google AI Blog"
+      ],
+      "urls": [
+        "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/"
+      ],
+      "score": 100,
+      "tags": [
+        "google",
+        "ia",
+        "actualizaciones"
+      ]
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "El nuevo asistente de IA de Ford puede verificar niveles de combustible y presión de neumáticos",
+      "resumen": "Ford está lanzando un nuevo asistente impulsado por IA que puede responder preguntas sobre su vehículo Ford o Lincoln.",
+      "categoria": "AI",
+      "fuentes": [
+        "The Verge AI"
+      ],
+      "urls": [
+        "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app"
+      ],
+      "score": 100,
+      "tags": [
+        "ford",
+        "ia",
+        "asistente",
+        "vehículos"
+      ]
+    }
+  ],
+  "loImportante": [
+    "Apple exploró la integración de Siri con IA externa (Qwen de Alibaba) en China, lo que podría indicar futuras estrategias de IA.",
+    "La UIF en Argentina intensifica la vigilancia sobre operaciones inmobiliarias sospechosas, impactando el mercado local.",
+    "Google y Ford continúan lanzando novedades en IA, mostrando la expansión de esta tecnología a diversos sectores.",
+    "El 78% de los hogares argentinos pertenece a la clase baja y media baja, según un estudio, lo que impacta el consumo y la economía.",
+    "El mercado de criptomonedas muestra movimientos significativos, con una empresa vendiendo Bitcoin para aumentar sus reservas en USD."
+  ],
+  "oportunidades": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "AI",
+      "titulo": "Posible integración de IA externa en el ecosistema Apple",
+      "detalle": "Apple publicó y luego retiró una guía para conectar Siri con la IA Qwen de Alibaba en China. Esto sugiere que Apple está explorando activamente la integración de IA de terceros en sus productos, lo que podría abrir puertas a nuevas funcionalidades y herramientas para usuarios de Apple en el futuro.",
+      "acciones": [
+        "Monitorear futuros anuncios de Apple sobre integraciones de IA.",
+        "Investigar el rendimiento y las capacidades de Qwen AI para entender posibles sinergias."
+      ]
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "titulo": "Nuevas aplicaciones de IA en asistentes automotrices",
+      "detalle": "Ford lanzó un asistente de IA que puede verificar niveles de combustible y presión de neumáticos. Esto demuestra la creciente aplicación de la IA en asistentes para tareas cotidianas y de mantenimiento, lo que podría inspirar ideas para automatización y herramientas en otros nichos.",
+      "acciones": [
+        "Analizar cómo la IA se aplica en asistentes para tareas específicas.",
+        "Considerar la posibilidad de desarrollar o integrar asistentes de IA para automatizar procesos en el ámbito del retoque fotográfico o arte con IA."
+      ]
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "titulo": "Asistentes de IA impulsan ventas en el retail",
+      "detalle": "Kroger, Walmart, Albertsons y Amazon están apostando por compras impulsadas por IA, con más oportunidades publicitarias en camino. Esto indica una tendencia clara en el marketing y las ventas, donde la IA se convierte en un motor clave para la interacción con el cliente y la generación de ingresos.",
+      "acciones": [
+        "Estudiar las estrategias de marketing con IA que están implementando grandes retailers.",
+        "Evaluar cómo los asistentes de IA pueden mejorar la experiencia del cliente y las ventas en proyectos de marketing propios o de clientes."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Market",
+      "titulo": "Baja en la calificación de acciones de Apple por Jefferies",
+      "detalle": "La firma Jefferies bajó la calificación de las acciones de Apple a 'underperform' y redujo su precio objetivo, citando la creencia de que Apple canceló un diseño de vidrio para el iPhone 20. Esto podría indicar una percepción negativa en el mercado sobre la innovación o la dirección de productos de Apple.",
+      "mitigacion": "Monitorear de cerca los informes de analistas y las noticias sobre los próximos lanzamientos de productos de Apple para evaluar el impacto real en el valor de la empresa y en el ecosistema de productos."
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Market",
+      "titulo": "El 78% de los hogares argentinos pertenece a la clase baja y media baja",
+      "detalle": "Un estudio privado indica que la mayor parte de las familias argentinas percibe ingresos por debajo del promedio nacional, lo que impacta en el consumo. Esta situación económica podría afectar el poder adquisitivo y la demanda de servicios o productos en el mercado local.",
+      "mitigacion": "Considerar el impacto de la situación económica en el mercado argentino al planificar estrategias de marketing o inversión, buscando oportunidades en segmentos menos afectados o adaptando ofertas a la realidad local."
+    }
+  ],
+  "conexiones": [],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+      "tituloOriginal": "The latest AI news we announced in July 2026",
+      "tituloLimpio": "Google anuncia sus últimas actualizaciones de IA de julio de 2026",
+      "resumen": "Aquí están las últimas actualizaciones de IA de Google de julio de 2026.",
+      "porQueImporta": "Es relevante para Guido por su interés en la IA aplicada, manteniéndolo al tanto de los avances de un actor clave en el sector.",
+      "publicadoEn": "2026-08-04T13:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "google",
+        "ia",
+        "actualizaciones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/08/10/apple-posts-guide-for-connecting-siri-to-qwen-ai/",
+      "tituloOriginal": "Apple Briefly Posts China Guide for Connecting Siri to Qwen AI",
+      "tituloLimpio": "Apple publicó y retiró una guía para conectar Siri con la IA Qwen de Alibaba en China",
+      "resumen": "Apple publicó brevemente una guía de soporte en China explicando cómo los usuarios de Mac pueden conectar la IA Qwen de Alibaba a Siri y a las herramientas de escritura, antes de retirarla por completo en menos de un día.",
+      "porQueImporta": "Directamente relevante para Guido por su interés en Apple y la IA. Sugiere una posible integración de IA externa en el ecosistema de Apple.",
+      "publicadoEn": "2026-08-10T12:21:13.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "siri",
+        "qwen",
+        "china",
+        "ia"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/la-uif-refuerza-los-controles-inmuebles-y-fija-nuevas-alertas-detectar-operaciones-sospechosas-n6308898",
+      "tituloOriginal": "La UIF refuerza los controles sobre inmuebles y fija nuevas alertas para detectar operaciones sospechosas",
+      "tituloLimpio": "La UIF refuerza los controles sobre inmuebles y fija nuevas alertas para detectar operaciones sospechosas",
+      "resumen": "La nueva normativa alcanza a todos los Registros de la Propiedad Inmueble del país e incorpora un enfoque basado en riesgos.",
+      "porQueImporta": "Noticia clave para Guido por su interés en finanzas y por ser una regulación local en Argentina que afecta el mercado inmobiliario.",
+      "publicadoEn": "2026-08-10T12:13:00.000Z",
+      "imagen": "https://media.ambito.com/p/986126c3feeaeba93329b52aa4de350b/adjuntos/239/imagenes/041/361/0041361818/alquileres-propiedades-inmuebles-impuestosjpg.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "uif",
+        "inmuebles",
+        "controles",
+        "argentina",
+        "finanzas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/how-pgs-always-discreet-normalizes-incontinence-with-nfl-campaign/827309/",
+      "tituloOriginal": "P&G’s Always Discreet fights incontinence stigma with NFL campaign",
+      "tituloLimpio": "Always Discreet de P&G combate el estigma de la incontinencia con una campaña de la NFL",
+      "resumen": "“Protect the Moment” es la mayor activación de campaña mediática de la marca hasta la fecha y presenta a tres madres de jugadores de la NFL en anuncios y contenido social.",
+      "porQueImporta": "Interesante para Guido por su interés en marketing, mostrando una estrategia de campaña de una marca grande para abordar un tema sensible.",
+      "publicadoEn": "2026-08-10T13:10:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "campaña",
+        "pg",
+        "nfl"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "tituloOriginal": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "tituloLimpio": "Discovered Materials usa IA para buscar chips más eficientes",
+      "resumen": "Discovered Materials recaudó 9 millones de dólares para financiar la búsqueda de nuevos materiales para construir chips más eficientes.",
+      "porQueImporta": "Relevante para Guido por su interés en IA y tecnología, ya que se enfoca en la eficiencia de hardware, crucial para el desarrollo de IA.",
+      "publicadoEn": "2026-08-10T12:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "chips",
+        "materiales",
+        "tecnología"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+      "tituloOriginal": "Ford’s new AI assistant can check your fuel levels and tire pressure",
+      "tituloLimpio": "El nuevo asistente de IA de Ford puede verificar niveles de combustible y presión de neumáticos",
+      "resumen": "Ford está lanzando un nuevo asistente impulsado por IA que puede responder preguntas sobre su vehículo Ford o Lincoln.",
+      "porQueImporta": "Muestra una aplicación práctica de la IA en la vida cotidiana, relevante para Guido por su interés en la IA aplicada y la automatización.",
+      "publicadoEn": "2026-08-10T11:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "ford",
+        "ia",
+        "asistente",
+        "vehículos"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+      "tituloOriginal": "AI for science needs reasoning, not just data",
+      "tituloLimpio": "La IA para la ciencia necesita razonamiento, no solo datos",
+      "resumen": "Cada pocas décadas, alguien anuncia que la ciencia ha llegado a su fin. En 1903, el físico Albert Michelson escribió que “todos los hechos de la ciencia física han sido descubiertos”.",
+      "porQueImporta": "Ofrece una perspectiva crítica sobre el desarrollo de la IA, relevante para Guido para entender las limitaciones y el futuro de la tecnología.",
+      "publicadoEn": "2026-08-10T09:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "ciencia",
+        "razonamiento",
+        "datos"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/10/feature-request-do-this-to-end-the-guessing-game-with-iphone-app-settings/",
+      "tituloOriginal": "Feature Request: Do this to end the guessing game with iPhone app settings",
+      "tituloLimpio": "Solicitud de función: hacer esto para terminar con las adivinanzas en la configuración de apps de iPhone",
+      "resumen": "Uno de los elementos más molestos de la interfaz de usuario del iPhone es el juego de adivinanzas que tenemos que jugar al cambiar la configuración de una app.",
+      "porQueImporta": "Interesante para Guido como usuario de Apple, ya que aborda un problema de usabilidad que podría mejorar la experiencia con el iPhone.",
+      "publicadoEn": "2026-08-10T13:01:06.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "iphone",
+        "apple",
+        "configuración",
+        "usabilidad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/08/10/jefferies-cuts-aapl-target-to-26366-downgrades-to-underperform?utm_source=rss",
+      "tituloOriginal": "Jefferies cuts AAPL target to $263.66, downgrades to Underperform",
+      "tituloLimpio": "Jefferies recorta el objetivo de AAPL a $263.66 y baja la calificación a 'Underperform'",
+      "resumen": "La firma analista Jefferies ha bajado la calificación de las acciones de Apple a 'underperform' junto con un recorte de precio, porque la firma cree que Apple ha cancelado su diseño totalmente de vidrio para el aún no anunciado iPhone 20.",
+      "porQueImporta": "Relevante para Guido por su interés en Apple y las inversiones, ya que impacta directamente en la percepción del valor de las acciones de Apple.",
+      "publicadoEn": "2026-08-10T12:48:48.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "acciones",
+        "inversión",
+        "jefferies"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/sponsored/finalist-a-paper-inspired-daily-planner-with-notes-for-iphone-ipad-mac-and-now-apple-watch-sponsor/",
+      "tituloOriginal": "Finalist: A Paper-Inspired Daily Planner with Notes for iPhone, iPad, Mac, and Now Apple Watch [Sponsor]",
+      "tituloLimpio": "Finalist: Un planificador diario inspirado en papel con notas para iPhone, iPad, Mac y ahora Apple Watch",
+      "resumen": "Si leíste la reseña de Finalist 1.0 de John hace unos años, mucho ha cambiado desde entonces: la versión 4.0 sale esta semana, su mayor actualización hasta ahora.",
+      "porQueImporta": "Interesante para Guido como usuario de Apple y por su interés en herramientas de productividad y organización.",
+      "publicadoEn": "2026-08-10T12:50:42.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "productividad",
+        "herramientas",
+        "iphone",
+        "ipad",
+        "mac",
+        "apple watch"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/situational-awareness-bets-400m-chip-130220333.html",
+      "tituloOriginal": "Situational Awareness bets $400M on chip startup Source Foundry",
+      "tituloLimpio": "Situational Awareness apuesta $400M en la startup de chips Source Foundry",
+      "resumen": "",
+      "porQueImporta": "Relevante para Guido por su interés en inversiones y tecnología, mostrando una inversión significativa en el sector de chips.",
+      "publicadoEn": "2026-08-10T13:02:20.000Z",
+      "imagen": "https://media.zenfs.com/en/quartz_855/8c088f40c2a9d90a8e492ff8b28db931",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "inversión",
+        "chips",
+        "startup",
+        "tecnología"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/news/technology/monday-stock-monday-earnings-q22026/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Monday.com Falls As Software Maker's Guidance Trumps Earnings Beat",
+      "tituloLimpio": "Monday.com cae mientras la guía del fabricante de software supera el beneficio",
+      "resumen": "",
+      "porQueImporta": "Relevante para Guido por su interés en inversiones y el mercado de software, mostrando el impacto de las expectativas en el valor de las acciones.",
+      "publicadoEn": "2026-08-10T12:46:15.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/1dff725bd24a9a30050712271c3aa7d0",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "inversión",
+        "software",
+        "mercado",
+        "monday.com"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/10/strategy-sells-1-690-bitcoin-raises-usd653-million-from-mstr-shares",
+      "tituloOriginal": "Strategy sells 1,690 bitcoin, raises $653 million from MSTR shares",
+      "tituloLimpio": "Strategy vende 1.690 bitcoins y recauda $653 millones de acciones de MSTR",
+      "resumen": "La compañía aumentó su reserva en USD a $4.65 mil millones mientras reducía sus tenencias de bitcoin a 840,447 BTC.",
+      "porQueImporta": "Importante para Guido por su interés en finanzas y criptomonedas, mostrando movimientos estratégicos en el mercado de Bitcoin.",
+      "publicadoEn": "2026-08-10T12:09:26.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/d00d58cb37e792985dd1a2d7a5b976dca32d84c0-720x406.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "bitcoin",
+        "criptomonedas",
+        "inversión",
+        "finanzas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-lunes-10-agosto_0_68Gktt6h7C.html",
+      "tituloOriginal": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este lunes 10 de agosto",
+      "tituloLimpio": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este lunes 10 de agosto",
+      "resumen": "Desde el oficial hasta el blue y el turista, todos los tipos de cambio. Mirá la cotización minuto a minuto.",
+      "porQueImporta": "Esencial para Guido por vivir en Argentina y su interés en finanzas, ya que el valor del dólar impacta directamente en la economía local.",
+      "publicadoEn": "2026-08-10T12:00:01.000Z",
+      "imagen": "https://www.clarin.com/img/2020/04/21/ttrouFL3B_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "dólar",
+        "argentina",
+        "finanzas",
+        "economía"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/08/10/el-78-de-los-hogares-argentinos-pertenece-a-la-clase-baja-y-media-baja-cual-es-el-nivel-de-ingresos-de-cada-segmento/",
+      "tituloOriginal": "El 78% de los hogares argentinos pertenece a la clase baja y media baja: cuál es el nivel de ingresos de cada segmento",
+      "tituloLimpio": "El 78% de los hogares argentinos pertenece a la clase baja y media baja: cuál es el nivel de ingresos de cada segmento",
+      "resumen": "La mayor parte de las familias percibe ingresos por debajo del promedio nacional, según un estudio privado. Cómo impacta en el consumo.",
+      "porQueImporta": "Noticia crucial para entender el contexto socioeconómico de Argentina, relevante para Guido por su impacto en el consumo y el mercado local.",
+      "publicadoEn": "2026-08-10T12:53:19.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/IOOEIFLZN5FVJBRJEDAPVR7NEU.JPG?auth=ad0ec60e6bfaf0f47bf29de2f30acccef37fa3bb4dc8953b9e234c96ce681923&smart=true&width=3229&height=2120",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "economía",
+        "ingresos",
+        "consumo"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid10082026/",
+      "tituloOriginal": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este lunes 10 de agosto, minuto a minuto",
+      "tituloLimpio": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este lunes 10 de agosto",
+      "resumen": "La divisa oficial opera a $1520 para la venta en el Banco Nación; el dólar blue cotiza a $1525 para esa operación; qué pasa con el MEP y el CCL.",
+      "porQueImporta": "Información diaria esencial para Guido por su interés en finanzas y la economía argentina, brindando las cotizaciones clave del dólar.",
+      "publicadoEn": "2026-08-10T13:00:00.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/X6RMNVUCBVEX5IRBEAXK7H5MKA.jpg?auth=0c217ff3003666cbbe29380823c6ff5e56452cc4b826ae9586657e58b3aaef57&smart=true&width=800&height=533",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "dólar",
+        "dólar blue",
+        "argentina",
+        "finanzas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "fuente": "Adweek",
+      "url": "https://www.adweek.com/commerce/how-ai-assistants-are-driving-sales-for-6-big-retailers/",
+      "tituloOriginal": "How AI Assistants Are Driving Sales for 6 Big Retailers",
+      "tituloLimpio": "Cómo los asistentes de IA están impulsando las ventas para 6 grandes minoristas",
+      "resumen": "Kroger, Walmart, Albertsons y Amazon están apostando por compras impulsadas por IA, con más oportunidades publicitarias en camino.",
+      "porQueImporta": "Directamente relevante para Guido por su interés en marketing y IA, mostrando cómo la IA se aplica para generar ventas en el retail.",
+      "publicadoEn": "2026-08-10T06:00:00.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "marketing",
+        "ventas",
+        "retail",
+        "asistentes"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-08-10T13:14:21.755Z"
+  }
+}
