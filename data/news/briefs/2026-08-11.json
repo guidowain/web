@@ -1,150 +1,184 @@
 {
   "fecha": "2026-08-11",
-  "generadoEn": "2026-08-11T13:11:06.307Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "Hoy, las novedades giran en torno a la IA aplicada al marketing y la gestión de contenido, con Google y Spotify lanzando herramientas y políticas. En Apple, se esperan nuevos iPhones y hay una demanda por fallas en iCloud Private Relay. A nivel local, se destaca la llegada de nuevas marcas internacionales a Argentina y cambios en el sector agropecuario y de transporte de carga.",
+  "generadoEn": "2026-08-11T17:56:05.361Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "En el panorama tecnológico, Google presentó AMIE, un sistema de IA médica para consultas de video en tiempo real, mientras que Apple lanzó la tercera beta pública de macOS Golden Gate y se filtraron novedades para watchOS 27. En el ámbito de la IA, Brad Lightcap, COO de OpenAI, anunció su partida para iniciar nuevos proyectos. A nivel local, la informalidad laboral en Argentina muestra un fuerte avance, especialmente entre mujeres y jóvenes, y se observa un descenso en la Bolsa argentina con un aumento del riesgo país. En marketing, CeraVe lanzó una campaña para Gen Z y se debate el rol de la IA en el sector.",
   "radarPersonal": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "titulo": "Google Ads y Analytics incorporan nuevas herramientas de IA para marketing",
-      "resumen": "Nuevas experiencias de IA en Google Ads y Google Analytics buscan simplificar el flujo de trabajo de marketing.",
+      "titulo": "Google presenta AMIE, un sistema de IA médica para consultas de video en tiempo real",
+      "resumen": "Google introduce AMIE para consultas clínicas de video en tiempo real en entornos simulados.",
       "categoria": "AI",
       "fuentes": [
         "Google AI Blog"
       ],
       "urls": [
-        "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/"
+        "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/"
       ],
       "score": 100,
       "tags": [
-        "marketing",
-        "IA",
-        "automatización"
+        "ia",
+        "medicina",
+        "investigacion"
+      ]
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Ya disponible la tercera beta pública de macOS Golden Gate",
+      "resumen": "Apple lanzó la tercera beta pública de macOS Golden Gate, permitiendo a no desarrolladores probar el software antes de su lanzamiento en otoño.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/08/11/macos-27-public-beta-3/"
+      ],
+      "score": 100,
+      "tags": [
+        "macos",
+        "beta",
+        "apple"
       ]
     },
     {
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "titulo": "Spotify etiquetará perfiles de 'Persona IA' y excluirá su música de recomendaciones",
-      "resumen": "Spotify introducirá etiquetas de 'Persona IA' para perfiles de artistas generados por IA y excluirá su música de las recomendaciones editoriales, algorítmicas y personalizadas por defecto.",
+      "titulo": "Brad Lightcap, COO de OpenAI, deja la empresa para 'empezar algo nuevo'",
+      "resumen": "Uno de los ejecutivos con más antigüedad de OpenAI se va, aunque el COO de mucho tiempo le dijo al personal que estaba 'emocionado de ayudarlos a todos a avanzar en la misión desde un punto de vista diferente'.",
       "categoria": "AI",
       "fuentes": [
         "TechCrunch AI"
       ],
       "urls": [
-        "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/"
+        "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/"
       ],
       "score": 100,
       "tags": [
-        "IA",
-        "contenido",
-        "plataformas"
+        "openai",
+        "ejecutivos",
+        "ia"
       ]
     },
     {
-      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
-      "titulo": "El código de iOS 27 revela seis modelos de iPhone sin lanzar",
-      "resumen": "La actualización de iOS 27 beta 5 incluye referencias a los nuevos modelos de iPhone que se esperan para los próximos seis a ocho meses.",
-      "categoria": "Apple",
-      "fuentes": [
-        "9to5Mac"
-      ],
-      "urls": [
-        "https://9to5mac.com/2026/08/11/ios-27-code-reveals-six-unreleased-iphone-models-coming-soon/"
-      ],
-      "score": 100,
-      "tags": [
-        "Apple",
-        "iPhone",
-        "lanzamientos"
-      ]
-    },
-    {
-      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
-      "titulo": "Más marcas internacionales llegan a Argentina, incluyendo H&M y Kiabi",
-      "resumen": "La francesa Kiabi abre en el microcentro porteño y hay otras marcas de Estados Unidos y Europa en la lista. Los inversores consideran que las condiciones están dadas.",
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Se conoce la inflación de EEUU: su importancia para la Fed y la economía global",
+      "resumen": "El IPC norteamericano podría reducir aún más las expectativas de que la Reserva Federal suba las tasas o, al contrario, revertirlas. El impacto en los precios de la energía será clave.",
       "categoria": "Argentina",
       "fuentes": [
-        "Clarin Economia"
+        "Ambito"
       ],
       "urls": [
-        "https://www.clarin.com/economia/hm-suman-marcas-internacionales-llegan-argentina-desembarcan-ahora_0_2cdRopIkYg.html"
+        "https://www.ambito.com/economia/se-conoce-la-inflacion-eeuu-que-es-importante-la-fed-y-la-global-n6309568"
       ],
       "score": 100,
       "tags": [
-        "Argentina",
-        "negocios",
-        "inversión"
+        "inflacion",
+        "eeuu",
+        "economia",
+        "global"
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "titulo": "CeraVe aborda el 'tanmaxxing' en serie social para atraer a la Generación Z con SPF",
+      "resumen": "La última campaña de la marca L'Oréal utiliza tropos de renovación del hogar para involucrar a una cohorte que prioriza cada vez más el bronceado sobre la protección de su piel.",
+      "categoria": "Marketing",
+      "fuentes": [
+        "Marketing Dive"
+      ],
+      "urls": [
+        "https://www.marketingdive.com/news/cerave-tackles-tanmaxxing-in-social-series-to-pitch-gen-z-on-spf/827365/"
+      ],
+      "score": 100,
+      "tags": [
+        "marketing",
+        "generacion-z",
+        "redes-sociales"
       ]
     }
   ],
   "loImportante": [
-    "La IA sigue transformando el marketing, con Google lanzando nuevas herramientas para simplificar flujos de trabajo.",
-    "Spotify implementará etiquetas para perfiles de artistas generados por IA y los excluirá de las recomendaciones, marcando un precedente en la gestión de contenido sintético.",
-    "El código de iOS 27 anticipa el lanzamiento de seis nuevos modelos de iPhone en los próximos meses.",
-    "Argentina atrae nuevas marcas internacionales, como H&M y Kiabi, lo que sugiere un cambio en las condiciones de mercado.",
-    "Se actualizan las reglas para el transporte de carga en Argentina, ampliando dimensiones y tolerancias de peso para vehículos con motorizaciones alternativas."
+    "Google está avanzando en IA médica con AMIE, un sistema para consultas de video en tiempo real.",
+    "Apple continúa con las betas públicas de macOS Golden Gate y se esperan nuevas opciones de personalización para watchOS 27.",
+    "La inflación en EE.UU. es clave para las decisiones de la Reserva Federal y tiene impacto global.",
+    "La informalidad laboral en Argentina está creciendo, afectando principalmente a mujeres y jóvenes.",
+    "El COO de OpenAI, Brad Lightcap, se va para emprender nuevos proyectos, lo que podría indicar cambios en la dirección de la empresa."
   ],
   "oportunidades": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
       "categoria": "AI",
-      "titulo": "Aprovechar nuevas herramientas de IA de Google para marketing",
-      "detalle": "Las nuevas herramientas de IA en Google Ads y Google Analytics pueden simplificar el flujo de trabajo de marketing.",
+      "titulo": "Explorar el potencial de la IA en consultas de video",
+      "detalle": "El desarrollo de AMIE por Google para consultas médicas en tiempo real abre la puerta a nuevas aplicaciones de IA en servicios de atención al cliente o soporte técnico, donde la interacción visual es clave.",
       "acciones": [
-        "Investigar las nuevas funcionalidades de IA en Google Ads y Analytics.",
-        "Evaluar cómo estas herramientas pueden optimizar campañas de marketing y análisis de datos."
+        "Investigar herramientas de IA para análisis de video y procesamiento de lenguaje natural en tiempo real.",
+        "Evaluar cómo la IA puede mejorar la eficiencia en interacciones con clientes o usuarios."
       ]
     },
     {
-      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
-      "categoria": "Business",
-      "titulo": "Explorar el mercado argentino ante la llegada de nuevas marcas internacionales",
-      "detalle": "La llegada de marcas como H&M y Kiabi a Argentina indica un entorno más favorable para la inversión y el comercio.",
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "Campañas de marketing dirigidas a la Generación Z",
+      "detalle": "La estrategia de CeraVe para llegar a la Gen Z con un enfoque creativo y relevante (tanmaxxing) demuestra la importancia de entender las tendencias y el lenguaje de cada segmento para campañas efectivas.",
       "acciones": [
-        "Analizar las tendencias de consumo y el impacto de estas nuevas marcas en el mercado local.",
-        "Considerar posibles oportunidades de negocio o inversión relacionadas con la apertura del mercado."
+        "Analizar las tendencias actuales de la Generación Z en redes sociales y consumo de contenido.",
+        "Considerar la creación de contenido que resuene con sus intereses y preocupaciones."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
-      "categoria": "Platform",
-      "titulo": "Demanda colectiva contra Apple por fallas en iCloud Private Relay",
-      "detalle": "Apple enfrenta una demanda colectiva por una falla en iCloud Private Relay que expone la identidad del usuario.",
-      "mitigacion": "Monitorear las actualizaciones de seguridad de Apple y las recomendaciones para proteger la privacidad en línea."
-    }
-  ],
-  "conexiones": [
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Market",
+      "titulo": "Aumento de la informalidad laboral en Argentina",
+      "detalle": "El fuerte avance de la informalidad laboral, especialmente entre mujeres y jóvenes, puede impactar negativamente en el poder adquisitivo y la estabilidad económica general, afectando el consumo y la inversión.",
+      "mitigacion": "Monitorear de cerca los indicadores económicos locales y ajustar las estrategias de inversión o negocio según el panorama del mercado laboral."
+    },
     {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "titulo": "La IA y su impacto en la investigación académica y la creación de contenido",
-      "historias": [
-        "Profesores de IA negocian las nuevas realidades de la investigación académica.",
-        "Spotify etiquetará perfiles de 'Persona IA' y excluirá su música de recomendaciones."
-      ],
-      "conclusion": "La rápida evolución de la IA no solo redefine la investigación académica, sino que también obliga a las plataformas a establecer nuevas políticas sobre la autoría y la visibilidad del contenido generado por IA, como se ve en el caso de Spotify."
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Market",
+      "titulo": "Volatilidad en la Bolsa argentina y aumento del riesgo país",
+      "detalle": "La baja de la Bolsa y el aumento del riesgo país indican una mayor percepción de incertidumbre económica en Argentina, lo que puede afectar las inversiones locales y la confianza del mercado.",
+      "mitigacion": "Revisar la exposición a activos argentinos y considerar diversificar inversiones en mercados más estables o ETFs globales."
     }
   ],
+  "conexiones": [],
   "noticias": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
       "categoria": "AI",
       "fuente": "Google AI Blog",
-      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
-      "tituloOriginal": "Evolve your marketing with new AI tools",
-      "tituloLimpio": "Google Ads y Analytics incorporan nuevas herramientas de IA para marketing",
-      "resumen": "Nuevas experiencias de IA en Google Ads y Google Analytics buscan simplificar el flujo de trabajo de marketing.",
-      "porQueImporta": "Para Guido, que trabaja en marketing y automatización, estas herramientas de IA de Google pueden optimizar sus campañas y procesos, mejorando la eficiencia.",
-      "publicadoEn": "2026-08-10T14:30:00.000Z",
-      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+      "tituloOriginal": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "tituloLimpio": "Google presenta AMIE, un sistema de IA médica para consultas de video en tiempo real",
+      "resumen": "Google introduce AMIE para consultas clínicas de video en tiempo real en entornos simulados.",
+      "porQueImporta": "Muestra el avance de la IA en aplicaciones prácticas y sensibles como la medicina, con potencial para transformar la interacción y el diagnóstico a distancia.",
+      "publicadoEn": "2026-08-11T17:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIME_SIZZLE_THUMBNAIL.Aug10.max-600x600.format-webp.webp",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "IA",
-        "Marketing",
-        "Automatización",
-        "Herramientas"
+        "ia",
+        "medicina",
+        "investigacion"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/08/11/macos-27-public-beta-3/",
+      "tituloOriginal": "Third macOS Golden Gate Public Beta Now Available",
+      "tituloLimpio": "Ya disponible la tercera beta pública de macOS Golden Gate",
+      "resumen": "Apple lanzó la tercera beta pública de macOS Golden Gate, permitiendo a no desarrolladores probar el software antes de su lanzamiento en otoño.",
+      "porQueImporta": "Es una oportunidad para probar las novedades del próximo sistema operativo de Apple y anticipar mejoras en la experiencia de usuario.",
+      "publicadoEn": "2026-08-11T17:26:26.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "macos",
+        "beta",
+        "apple"
       ],
       "tambienVistoEn": []
     },
@@ -152,19 +186,20 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/el-yen-se-debilita-y-pierde-la-mitad-las-ganancias-la-intervencion-coordinada-eeuu-n6309343",
-      "tituloOriginal": "El yen se debilita y pierde la mitad de las ganancias tras la intervención coordinada con EEUU",
-      "tituloLimpio": "El yen se debilita y pierde la mitad de las ganancias tras la intervención coordinada con EEUU",
-      "resumen": "El yen cotiza en torno a las 159 unidades por dólar, alejado de las 155 alcanzadas tras la acción conjunta entre Estados Unidos y Japón, la cual no se realizaba desde 2011.",
-      "porQueImporta": "Para Guido, interesado en inversiones y mercados, la debilidad del yen y la intervención coordinada son indicadores de movimientos en el mercado de divisas que pueden influir en estrategias de inversión global.",
-      "publicadoEn": "2026-08-11T12:02:00.000Z",
-      "globalScore": 94,
+      "url": "https://www.ambito.com/economia/se-conoce-la-inflacion-eeuu-que-es-importante-la-fed-y-la-global-n6309568",
+      "tituloOriginal": "Se conoce la inflación de EEUU: por qué es importante para la Fed y la economía global",
+      "tituloLimpio": "Se conoce la inflación de EEUU: su importancia para la Fed y la economía global",
+      "resumen": "El IPC norteamericano podría reducir aún más las expectativas de que la Reserva Federal suba las tasas o, al contrario, revertirlas. El impacto en los precios de la energía será clave.",
+      "porQueImporta": "La inflación en EE.UU. influye directamente en las decisiones de la Reserva Federal, lo que tiene un impacto global en los mercados financieros y las tasas de interés, afectando indirectamente a Argentina.",
+      "publicadoEn": "2026-08-11T17:26:00.000Z",
+      "imagen": "https://media.ambito.com/p/501f5a29d1110b85e19e4195770fe799/adjuntos/239/imagenes/040/564/0040564027/1200x675/589x301:609x321/inflacion-eeuujpg.jpg",
+      "globalScore": 86,
       "personalScore": 100,
       "tags": [
-        "Finanzas",
-        "Mercados",
-        "Inversión",
-        "Divisas"
+        "inflacion",
+        "eeuu",
+        "economia",
+        "global"
       ],
       "tambienVistoEn": []
     },
@@ -172,18 +207,18 @@
       "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
       "categoria": "Marketing",
       "fuente": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/gaps-fall-campaign-enlists-obsession-star-to-promote-denim/827375/",
-      "tituloOriginal": "Gap’s fall campaign enlists ‘Obsession’ star to promote denim",
-      "tituloLimpio": "Campaña de Gap para otoño promueve el denim con estrella de 'Obsession'",
-      "resumen": "Los anuncios muestran a Inde Navarrette bailando junto a Malcolm Todd, quien interpreta una nueva versión de 'Dancing on My Own' de Robyn.",
-      "porQueImporta": "Como profesional del marketing, Guido puede analizar esta campaña de Gap para entender estrategias de promoción de productos y el uso de figuras públicas en publicidad.",
-      "publicadoEn": "2026-08-11T13:00:00.000Z",
-      "globalScore": 96,
+      "url": "https://www.marketingdive.com/news/cerave-tackles-tanmaxxing-in-social-series-to-pitch-gen-z-on-spf/827365/",
+      "tituloOriginal": "CeraVe tackles tanmaxxing in social series to pitch Gen Z on SPF",
+      "tituloLimpio": "CeraVe aborda el 'tanmaxxing' en serie social para atraer a la Generación Z con SPF",
+      "resumen": "La última campaña de la marca L'Oréal utiliza tropos de renovación del hogar para involucrar a una cohorte que prioriza cada vez más el bronceado sobre la protección de su piel.",
+      "porQueImporta": "Ofrece un ejemplo de cómo las marcas están adaptando sus estrategias de marketing para conectar con la Generación Z, utilizando tendencias y plataformas relevantes.",
+      "publicadoEn": "2026-08-11T13:10:00.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "Marketing",
-        "Publicidad",
-        "Campañas"
+        "marketing",
+        "generacion-z",
+        "redes-sociales"
       ],
       "tambienVistoEn": []
     },
@@ -191,19 +226,56 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
-      "tituloOriginal": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
-      "tituloLimpio": "Spotify etiquetará perfiles de 'Persona IA' y excluirá su música de recomendaciones",
-      "resumen": "Spotify introducirá etiquetas de 'Persona IA' para perfiles de artistas generados por IA y excluirá su música de las recomendaciones editoriales, algorítmicas y personalizadas por defecto.",
-      "porQueImporta": "Esta medida de Spotify es relevante para Guido por su interés en la IA aplicada y el arte con IA, ya que establece un precedente sobre la gestión y visibilidad del contenido generado por IA en plataformas masivas.",
-      "publicadoEn": "2026-08-11T13:00:00.000Z",
+      "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+      "tituloOriginal": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+      "tituloLimpio": "Brad Lightcap, COO de OpenAI, deja la empresa para 'empezar algo nuevo'",
+      "resumen": "Uno de los ejecutivos con más antigüedad de OpenAI se va, aunque el COO de mucho tiempo le dijo al personal que estaba 'emocionado de ayudarlos a todos a avanzar en la misión desde un punto de vista diferente'.",
+      "porQueImporta": "La salida de un ejecutivo clave de OpenAI podría señalar cambios internos o nuevas direcciones en el liderazgo de una de las empresas de IA más influyentes.",
+      "publicadoEn": "2026-08-11T17:41:34.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "IA",
-        "Arte con IA",
-        "Plataformas",
-        "Contenido"
+        "openai",
+        "ejecutivos",
+        "ia"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+      "tituloOriginal": "Another OpenAI executive takes off",
+      "tituloLimpio": "Otro ejecutivo de OpenAI se va",
+      "resumen": "Brad Lightcap, líder de proyectos especiales de OpenAI y ex COO de la compañía, anunció su partida después de ocho años en el laboratorio de IA.",
+      "porQueImporta": "Refuerza la noticia anterior sobre la salida de un ejecutivo importante de OpenAI, indicando posibles movimientos significativos en la empresa.",
+      "publicadoEn": "2026-08-11T17:50:01.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "openai",
+        "ejecutivos",
+        "ia"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+      "tituloOriginal": "AI professors are negotiating the new realities of academic research",
+      "tituloLimpio": "Profesores de IA negocian las nuevas realidades de la investigación académica",
+      "resumen": "Esta historia apareció originalmente en The Algorithm, nuestro boletín semanal sobre IA.",
+      "porQueImporta": "Refleja cómo el rápido avance de la IA está impactando la academia y la investigación, un área relevante para quienes trabajan con IA.",
+      "publicadoEn": "2026-08-10T20:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "investigacion",
+        "academia"
       ],
       "tambienVistoEn": []
     },
@@ -211,18 +283,19 @@
       "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Apple",
       "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/11/ios-27-code-reveals-six-unreleased-iphone-models-coming-soon/",
-      "tituloOriginal": "iOS 27 code reveals six unreleased iPhone models coming soon",
-      "tituloLimpio": "El código de iOS 27 revela seis modelos de iPhone sin lanzar",
-      "resumen": "La actualización de iOS 27 beta 5 incluye referencias a los nuevos modelos de iPhone que se esperan para los próximos seis a ocho meses.",
-      "porQueImporta": "Como usuario de Apple, Guido estará interesado en las próximas novedades de iPhone, que podrían influir en sus decisiones de compra o actualización de dispositivos.",
-      "publicadoEn": "2026-08-11T13:05:09.000Z",
-      "globalScore": 100,
+      "url": "https://9to5mac.com/2026/08/11/watchos-27-will-upgrade-popular-apple-watch-face-with-new-options-per-leak/",
+      "tituloOriginal": "watchOS 27 will upgrade popular Apple Watch face with new options, per leak",
+      "tituloLimpio": "watchOS 27 actualizará la popular esfera del Apple Watch con nuevas opciones, según una filtración",
+      "resumen": "Una nueva filtración revela que una de las esferas de reloj más populares del Apple Watch, Modular, ganará una variedad de nuevas opciones de personalización de color en watchOS 27.",
+      "porQueImporta": "Interesante para usuarios de Apple Watch, ya que anticipa mejoras en la personalización y funcionalidad del dispositivo.",
+      "publicadoEn": "2026-08-11T17:39:10.000Z",
+      "globalScore": 96,
       "personalScore": 100,
       "tags": [
-        "Apple",
-        "iPhone",
-        "Lanzamientos"
+        "apple-watch",
+        "watchos",
+        "filtracion",
+        "apple"
       ],
       "tambienVistoEn": []
     },
@@ -230,19 +303,59 @@
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
       "categoria": "Apple",
       "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/08/11/icloud-private-relay-failures-manifest-a-new-class-action-lawsuit-against-apple?utm_source=rss",
-      "tituloOriginal": "iCloud Private Relay failures manifest a new class-action lawsuit against Apple",
-      "tituloLimpio": "Demanda colectiva contra Apple por fallas en iCloud Private Relay",
-      "resumen": "Apple enfrenta una demanda colectiva por una falla en iCloud Private Relay que expone la identidad del usuario.",
-      "porQueImporta": "Esta noticia es importante para Guido como usuario de Apple, ya que afecta la privacidad y seguridad de los servicios de iCloud, un aspecto clave en el ecosistema de Apple.",
-      "publicadoEn": "2026-08-11T13:08:38.000Z",
+      "url": "https://appleinsider.com/articles/26/07/24/steve-wozniak-gave-apple-its-soul-before-steve-jobs-made-it-a-hit?utm_source=rss",
+      "tituloOriginal": "Steve Wozniak gave Apple its soul before Steve Jobs made it a hit",
+      "tituloLimpio": "Steve Wozniak le dio a Apple su alma antes de que Steve Jobs la hiciera un éxito",
+      "resumen": "Han pasado más de cuatro décadas desde que Steve Wozniak dejó Apple, y el 11 de agosto de 2026, el cumpleaños número 76 de Woz, hablamos de cómo le dio a Apple su alma.",
+      "porQueImporta": "Una mirada histórica a los orígenes de Apple y la contribución fundamental de Wozniak, relevante para entender la cultura y el legado de la compañía.",
+      "publicadoEn": "2026-08-11T17:46:33.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "Apple",
-        "Seguridad",
-        "Privacidad",
-        "iCloud"
+        "apple",
+        "historia",
+        "steve-wozniak"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/news/friday-night-baseball-goes-immersive-august-28-on-apple-vision-pro/",
+      "tituloOriginal": "Friday Night Baseball Goes Immersive August 28 on Apple Vision Pro",
+      "tituloLimpio": "Friday Night Baseball se vuelve inmersivo el 28 de agosto en Apple Vision Pro",
+      "resumen": "La próxima gran apuesta de Apple Immersive Video en Vision Pro ha sido revelada: partidos de béisbol en vivo.",
+      "porQueImporta": "Aunque Vision Pro no está disponible en Argentina, esta noticia muestra el avance de Apple en contenido inmersivo y realidad virtual, una tendencia tecnológica importante.",
+      "publicadoEn": "2026-08-10T15:00:01.000Z",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "vision-pro",
+        "realidad-virtual",
+        "entretenimiento"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/media-advertising/articles/walmart-wmt-bets-streaming-ads-174139975.html",
+      "tituloOriginal": "Walmart (WMT) Bets On Streaming Ads. Can The Stock Catch Up?",
+      "tituloLimpio": "Walmart apuesta por los anuncios en streaming. ¿Puede la acción ponerse al día?",
+      "resumen": "",
+      "porQueImporta": "Indica una tendencia en el marketing digital y la publicidad, donde grandes minoristas invierten en plataformas de streaming, relevante para estrategias de marketing y análisis de mercado.",
+      "publicadoEn": "2026-08-11T17:41:39.000Z",
+      "imagen": "https://media.zenfs.com/en/insidermonkey.com/498e7a32e2c40dabce73be9c8aa38a94.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "streaming",
+        "publicidad",
+        "inversion"
       ],
       "tambienVistoEn": []
     },
@@ -250,20 +363,20 @@
       "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
       "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/10/moneygram-expands-on-solana-with-global-crypto-to-cash-service",
-      "tituloOriginal": "MoneyGram expands on Solana with global crypto-to-cash service",
-      "tituloLimpio": "MoneyGram expande su servicio global de cripto a efectivo en Solana",
-      "resumen": "Billeteras y aplicaciones en Solana ahora pueden usar la red global de MoneyGram para mover activos digitales a monedas locales.",
-      "porQueImporta": "Esta noticia es relevante para Guido por su interés en finanzas y tecnología, ya que muestra la expansión de servicios de criptomonedas a la economía tradicional, facilitando la conversión de activos digitales.",
-      "publicadoEn": "2026-08-11T12:02:22.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/d7959f555e24e90cf0a41c4677d90edb55b5cd06-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "url": "https://www.coindesk.com/business/2026/08/11/digital-broker-etoro-reports-q2-crypto-revenue-dropped-120-compared-to-2025",
+      "tituloOriginal": "EToro reports second quarter crypto loss even as total profit beats estimates",
+      "tituloLimpio": "EToro reporta pérdidas en criptomonedas en el segundo trimestre, aunque el beneficio total supera las estimaciones",
+      "resumen": "Los ingresos brutos por criptomonedas de la plataforma de trading cayeron a 1.350 millones de dólares en el segundo trimestre. También acordó comprar la correduría estadounidense TradeZero por hasta 231 millones de dólares.",
+      "porQueImporta": "Relevante para inversores en ETFs y mercados, ya que muestra la volatilidad del mercado de criptomonedas y el desempeño de plataformas de inversión como eToro.",
+      "publicadoEn": "2026-08-11T17:12:11.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/b51601b176dc3c6b4d6c74591116ef860cd0d2a3-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
       "globalScore": 92,
       "personalScore": 100,
       "tags": [
-        "Finanzas",
-        "Criptomonedas",
-        "Tecnología",
-        "Inversión"
+        "finanzas",
+        "criptomonedas",
+        "etoro",
+        "inversion"
       ],
       "tambienVistoEn": []
     },
@@ -271,20 +384,20 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/hm-suman-marcas-internacionales-llegan-argentina-desembarcan-ahora_0_2cdRopIkYg.html",
-      "tituloOriginal": "A H&M, se suman más marcas internacionales que llegan a la Argentina: cuáles son y por qué desembarcan ahora",
-      "tituloLimpio": "Más marcas internacionales llegan a Argentina, incluyendo H&M y Kiabi",
-      "resumen": "La francesa Kiabi abre en el microcentro porteño y hay otras marcas de Estados Unidos y Europa en la lista. Los inversores consideran que las condiciones están dadas.",
-      "porQueImporta": "Esta noticia es relevante para Guido por su interés en Argentina y las tendencias de mercado, ya que la llegada de nuevas marcas internacionales puede indicar un cambio en el clima de negocios y consumo local.",
-      "publicadoEn": "2026-08-11T12:04:29.000Z",
-      "imagen": "https://www.clarin.com/img/2026/08/10/QlDA-fFJR_1200x630__1.jpg",
-      "globalScore": 98,
+      "url": "https://www.clarin.com/economia/fuerte-avance-informalidad-laboral-mujeres-jovenes_0_XNgWNugtog.html",
+      "tituloOriginal": "Fuerte avance de la informalidad laboral entre las mujeres y jóvenes",
+      "tituloLimpio": "Fuerte avance de la informalidad laboral entre las mujeres y jóvenes",
+      "resumen": "La formalidad de los jóvenes de 19 a 25 años cayó de 43,5% a 34,8% en los últimos 10 años, según un trabajo de la Universidad de Rosario.",
+      "porQueImporta": "Una noticia clave para Argentina, que muestra un deterioro en el mercado laboral y sus consecuencias sociales y económicas.",
+      "publicadoEn": "2026-08-11T16:29:52.000Z",
+      "imagen": "https://www.clarin.com/img/2026/08/11/YTlGigtmZ_1200x630__1.jpg",
+      "globalScore": 90,
       "personalScore": 100,
       "tags": [
-        "Argentina",
-        "Negocios",
-        "Inversión",
-        "Economía"
+        "argentina",
+        "economia",
+        "empleo",
+        "informalidad"
       ],
       "tambienVistoEn": []
     },
@@ -292,20 +405,41 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/08/11/granja-tres-arroyos-despidio-a-250-trabajadores-de-su-planta-industrial-de-entre-rios/",
-      "tituloOriginal": "Granja Tres Arroyos despidió a 250 trabajadores de su planta industrial de Entre Ríos",
-      "tituloLimpio": "Granja Tres Arroyos despidió a 250 trabajadores de su planta en Entre Ríos",
-      "resumen": "Los despidos en la planta de Concepción del Uruguay, Entre Ríos, fueron justificados por la empresa debido al desempeño exportador, la sobreoferta en el mercado interno y los costos.",
-      "porQueImporta": "Esta noticia es un indicador de la situación económica y laboral en Argentina, mostrando los desafíos que enfrentan las empresas en el contexto actual.",
-      "publicadoEn": "2026-08-11T12:41:51.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/HD64WPT6UBCHPOECPSWITH3DQI.jpg?auth=a634231eaa5f6c5650ecec3745f4d4b763b1b1111b6d53607c04694b3a8ceac5&smart=true&width=770&height=433",
-      "globalScore": 94,
+      "url": "https://www.infobae.com/economia/2026/08/11/mercados-baja-la-bolsa-argentina-y-tambien-el-riesgo-pais/",
+      "tituloOriginal": "Mercados: baja la Bolsa argentina y sube el riesgo país",
+      "tituloLimpio": "Mercados: baja la Bolsa argentina y sube el riesgo país",
+      "resumen": "El S&P Merval pierde 3% y los títulos públicos operan mixtos. El indicador de JP Morgan avanza a 467 puntos básicos. El petróleo opera nuevamente al alza",
+      "porQueImporta": "Información directa sobre el desempeño de los mercados argentinos, crucial para decisiones de inversión y para entender el panorama económico local.",
+      "publicadoEn": "2026-08-11T17:51:07.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/64CQMKPZ2FGZ5GCFAM4WY263WU.JPG?auth=9a3e609256e3d96167588eb83f6fef3749ad28dd65f85a6b34b7af667e058be4&smart=true&width=6000&height=4000",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "Argentina",
-        "Economía",
-        "Empleo",
-        "Empresas"
+        "argentina",
+        "finanzas",
+        "bolsa",
+        "riesgo-pais"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/08/11/diputados-el-oficialismo-apunta-a-sesionar-el-proximo-26-de-agosto/",
+      "tituloOriginal": "Diputados: el oficialismo apunta a sesionar el próximo 26 de agosto",
+      "tituloLimpio": "Diputados: el oficialismo apunta a sesionar el próximo 26 de agosto",
+      "resumen": "El bloque les pidió a sus legisladores que viajen para esa fecha a Buenos Aires. Quiere llevar la carta orgánica del BCRA e inocencia fiscal II.",
+      "porQueImporta": "Noticia política relevante para Argentina, que indica la agenda legislativa y los temas económicos que se debatirán, con potencial impacto en el clima de negocios.",
+      "publicadoEn": "2026-08-11T17:41:35.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/E255Z2RYRNBQFPH355544CNKGM.png?auth=db1ef0c690895a9ab748edbfbe2172050609cec4b0efd95c8d8cbf06630c8d5d&smart=true&width=1692&height=1146",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "politica",
+        "economia",
+        "legislacion"
       ],
       "tambienVistoEn": []
     },
@@ -313,20 +447,20 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/campo/su-padre-planto-manzanos-y-ahora-los-arranca-porque-los-numeros-no-cierran-producira-otra-fruta-que-nid11082026/",
-      "tituloOriginal": "Su papá plantó manzanos y ahora los saca luego de 26 años: producirá otra fruta de gran demanda de China",
-      "tituloLimpio": "Productor mendocino reemplaza manzanos por ciruelos por falta de rentabilidad",
-      "resumen": "En Mendoza, Claudio Giusti tomó la decisión de arrancar manzanos después de 26 años para plantar ciruelos, una fruta con gran demanda de China, debido a que los números no cierran en la actividad actual.",
-      "porQueImporta": "Esta noticia refleja una tendencia en el sector agropecuario argentino, mostrando cómo los productores se adaptan a las demandas del mercado y los costos, lo cual es relevante para entender la economía local.",
-      "publicadoEn": "2026-08-11T12:58:30.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/RWCTYQEI35DSNDIBLUSJ67CQR4.png?auth=14d161ad477c5501a3c3c524a504f4b538155059451fb2f3a83e5e964839d39c&smart=true&width=2000&height=1333",
-      "globalScore": 94,
+      "url": "https://www.lanacion.com.ar/economia/campo/de-estado-pobre-a-potencia-mato-grosso-un-lugar-donde-no-se-sale-del-asombro-nid11082026/",
+      "tituloOriginal": "De estado pobre a potencia: Mato Grosso, un lugar donde no se sale del asombro",
+      "tituloLimpio": "De estado pobre a potencia: Mato Grosso, un lugar donde no se sale del asombro",
+      "resumen": "En 30 años, esa región del centro-oeste de Brasil se convirtió en el principal productor de soja, maíz, algodón y carne bovina del vecino país",
+      "porQueImporta": "Un caso de estudio sobre desarrollo económico regional en un país vecino, que puede ofrecer perspectivas sobre el potencial de crecimiento en el sector agropecuario.",
+      "publicadoEn": "2026-08-11T17:49:47.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/EAP3JTK5ZVBLZGJ5KPC3QGF5OA.jpg?auth=b659d9685bc1d7bec3321db093e0c68929194f6343f7e26b8f52c2e68c80aa4e&smart=true&width=2000&height=1333",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "Argentina",
-        "Economía",
-        "Agricultura",
-        "Mercados"
+        "brasil",
+        "economia",
+        "desarrollo",
+        "agro"
       ],
       "tambienVistoEn": []
     },
@@ -334,26 +468,46 @@
       "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Politica",
-      "url": "https://www.lanacion.com.ar/politica/el-gobierno-actualizo-las-reglas-para-los-transportes-de-carga-nid11082026/",
-      "tituloOriginal": "El Gobierno actualizó las reglas para los transportes de carga",
-      "tituloLimpio": "El Gobierno actualizó las reglas para los transportes de carga",
-      "resumen": "La normativa amplía hasta un metro las dimensiones y contempla tolerancias de peso de hasta 2000 kilos para unidades con motorizaciones alternativas.",
-      "porQueImporta": "Aunque no es directamente de su sector, esta actualización de normativa en Argentina puede tener un impacto en la logística y los costos de transporte, lo cual es un factor general de la economía local.",
-      "publicadoEn": "2026-08-11T13:05:12.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/CY7FFDWZYRHL5JCRF6KSVAQEOU.JPG?auth=a7eb8eb36d2ea3f682ac87f2a5caff84c459c4b192396c5cfd25cc2555631397&smart=true&width=1360&height=907",
+      "url": "https://www.lanacion.com.ar/politica/la-justicia-ordeno-al-gobierno-reparar-de-inmediato-tres-rutas-nacionales-de-santa-fe-y-lo-nid11082026/",
+      "tituloOriginal": "La Justicia ordenó al Gobierno reparar de inmediato tres rutas nacionales de Santa Fe y lo responsabilizó por su deterioro",
+      "tituloLimpio": "La Justicia ordenó al Gobierno reparar de inmediato tres rutas nacionales de Santa Fe y lo responsabilizó por su deterioro",
+      "resumen": "Vialidad Nacional adujo restricciones presupuestarias y financieras para no desarrollar las tareas de conservación",
+      "porQueImporta": "Muestra la intervención judicial en la gestión de infraestructura pública en Argentina, un tema que puede afectar la logística y el transporte en el país.",
+      "publicadoEn": "2026-08-11T17:52:38.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/LDUGZHUP7NHDHDGIJMYPIC3T2M.png?auth=4637ce59c12b1d67ab2c8ab4bb26acc0372b30b2b11987bc6715b151405ad511&smart=true&width=1200&height=800",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "Argentina",
-        "Regulaciones",
-        "Transporte",
-        "Economía"
+        "argentina",
+        "justicia",
+        "infraestructura",
+        "santa-fe"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "fuente": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/marketing-vanguard-at-cannes-how-ibm-became-its-own-ai-case-study-ft-jonathan-adashek/",
+      "tituloOriginal": "Marketing Vanguard at Cannes: How IBM Became Its Own AI Case Study ft. Jonathan Adashek",
+      "tituloLimpio": "Marketing Vanguard en Cannes: Cómo IBM se convirtió en su propio caso de estudio de IA",
+      "resumen": "¿Están los especialistas en marketing cometiendo un error fatal al tratar la IA como una herramienta de reducción de costos?",
+      "porQueImporta": "Plantea una pregunta crucial sobre el uso estratégico de la IA en marketing, más allá de la mera eficiencia, relevante para quienes buscan aplicar IA en sus procesos.",
+      "publicadoEn": "2026-08-11T11:04:15.000Z",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "ia",
+        "estrategia",
+        "ibm"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-08-11T13:11:06.307Z"
+    "generadoEn": "2026-08-11T17:56:05.361Z"
   }
 }
