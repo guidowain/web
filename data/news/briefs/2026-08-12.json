@@ -1,13 +1,13 @@
 {
   "fecha": "2026-08-12",
-  "generadoEn": "2026-08-12T13:15:41.589Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "Hoy, las noticias giran en torno a avances en IA médica y de desarrollo de software, la situación económica en Argentina con la reglamentación del fondo de indemnizaciones y la cotización del dólar, y novedades de Apple con filtraciones del 'iPhone Ultra' y cambios en la dependencia de Foxconn. También hay movimientos en el mercado de criptomonedas con Fidelity y un nuevo stablecoin.",
+  "generadoEn": "2026-08-12T17:56:40.895Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Hoy destacamos el avance de Google con AMIE, un sistema de IA médica para consultas por video, y la nueva contratación de Apple para asuntos gubernamentales. En Argentina, se abrió el mercado surcoreano para la carne aviar y se observa la inflación de EE.UU. en línea con lo esperado. También, Goldman Sachs invierte en ETFs de Bitcoin.",
   "radarPersonal": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "titulo": "Google presenta AMIE, un sistema de IA médica para consultas de video en tiempo real",
-      "resumen": "Google introduce AMIE para consultas clínicas de video en tiempo real en entornos simulados.",
+      "titulo": "Google presenta AMIE, un sistema de IA médica para consultas por video en tiempo real",
+      "resumen": "Google introduce AMIE para consultas médicas por video en tiempo real en entornos simulados.",
       "categoria": "AI",
       "fuentes": [
         "Google AI Blog"
@@ -19,50 +19,14 @@
       "tags": [
         "ia",
         "medicina",
+        "video",
         "investigacion"
-      ]
-    },
-    {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "titulo": "La valoración de la startup de pruebas de código con IA Blacksmith se multiplica por diez",
-      "resumen": "Blacksmith afirma que sus ingresos crecieron más de diez veces en el último año.",
-      "categoria": "AI",
-      "fuentes": [
-        "TechCrunch AI"
-      ],
-      "urls": [
-        "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/"
-      ],
-      "score": 100,
-      "tags": [
-        "ia",
-        "desarrollo",
-        "startup",
-        "inversion"
-      ]
-    },
-    {
-      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "Protectores de pantalla del 'iPhone Ultra' revelan esquinas asimétricas",
-      "resumen": "Un filtrador compartió imágenes y un video de protectores de pantalla para el rumoreado 'iPhone Ultra' de Apple, confirmando detalles sobre el diseño frontal del plegable.",
-      "categoria": "Apple",
-      "fuentes": [
-        "MacRumors"
-      ],
-      "urls": [
-        "https://www.macrumors.com/2026/08/12/iphone-ultra-screen-protectors-reveal-asymmetry/"
-      ],
-      "score": 100,
-      "tags": [
-        "apple",
-        "iphone",
-        "filtracion"
       ]
     },
     {
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "titulo": "La inflación anual de EE.UU. fue del 3,4%, en línea con lo esperado",
-      "resumen": "El IPC norteamericano se conoce poco después de un dato de empleo que hizo dudar al mercado sobre la posibilidad de que el banco central suba las tasas el próximo mes.",
+      "resumen": "El IPC norteamericano se conoce poco después de un dato de empleo que hizo dudar al mercado sobre la posibilidad de que el banco central suba las tasas el próximo mes. Las primeras reacciones de Wall Street son positivas.",
       "categoria": "Finance",
       "fuentes": [
         "Ambito"
@@ -74,124 +38,159 @@
       "tags": [
         "inflacion",
         "eeuu",
-        "mercados"
+        "mercado",
+        "fed"
+      ]
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "titulo": "Goldman Sachs invierte en ETFs de Bitcoin con la compra de NEOS por 2.250 millones de dólares",
+      "resumen": "El acuerdo de 2.250 millones de dólares expande la plataforma de derivados de Goldman a 130.000 millones de dólares en activos totales de ETF, apuntando directamente al fondo BITA de BlackRock, según un analista.",
+      "categoria": "Finance",
+      "fuentes": [
+        "CoinDesk"
+      ],
+      "urls": [
+        "https://www.coindesk.com/business/2026/08/12/goldman-sachs-leaps-into-bitcoin-income-etfs-with-usd2-25-billion-neos-buyout"
+      ],
+      "score": 100,
+      "tags": [
+        "bitcoin",
+        "etfs",
+        "inversion",
+        "goldman sachs"
       ]
     },
     {
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
-      "titulo": "Cotización del dólar hoy: oficial y otros tipos de cambio este miércoles 12 de agosto",
-      "resumen": "Desde el oficial hasta el blue y el turista, todos los tipos de cambio. Mirá la cotización minuto a minuto.",
+      "titulo": "Argentina abrió el mercado surcoreano para la carne aviar",
+      "resumen": "El país asiático incluyó a Argentina en el listado de países libres de influenza aviar. Los envíos quedaron habilitados a partir del 10 de agosto de este año.",
       "categoria": "Argentina",
       "fuentes": [
         "Clarin Economia"
       ],
       "urls": [
-        "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-miercoles-12-agosto_0_liqUENiVpJ.html"
+        "https://www.clarin.com/rural/nueva-oportunidad-reapertura-europea-argentina-logro-abrir-mercado-surcoreano-carne-aviar_0_cK9zqOpXvA.html"
       ],
       "score": 100,
       "tags": [
         "argentina",
-        "dolar",
-        "economia"
+        "exportacion",
+        "carne aviar",
+        "corea del sur"
+      ]
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "titulo": "El Pixel Watch 5 analiza la presión arterial y la resistencia a la insulina",
+      "resumen": "Google renovó su smartwatch con un modelo que pone el foco en la salud y en el deporte.",
+      "categoria": "AI",
+      "fuentes": [
+        "La Nacion Economia"
+      ],
+      "urls": [
+        "https://www.lanacion.com.ar/tecnologia/el-pixel-watch-5-analiza-tu-presion-arterial-tu-resistencia-a-la-insulina-y-detecta-una-emergencia-nid12082026/"
+      ],
+      "score": 100,
+      "tags": [
+        "pixel watch",
+        "salud",
+        "wearable",
+        "google"
       ]
     }
   ],
   "loImportante": [
-    "La IA sigue avanzando en campos como la medicina y el desarrollo de software, con Google presentando un sistema para consultas médicas por video y una startup de pruebas de código con IA multiplicando su valoración.",
-    "Apple podría lanzar un 'iPhone Ultra' con un diseño de pantalla asimétrico, según filtraciones de protectores de pantalla.",
-    "La inflación en EE.UU. se mantuvo en 3,4% anual, en línea con lo esperado, lo que podría influir en las decisiones de tasas de la Reserva Federal.",
-    "En Argentina, el Gobierno reglamentó el fondo para financiar indemnizaciones laborales, especificando los activos financieros en los que se podrá invertir.",
-    "El mercado de criptomonedas ve movimientos con Fidelity buscando agregar 'staking' a su ETF de Ethereum y el lanzamiento de un 'stablecoin' de dólar de Hong Kong."
+    "Google avanza en IA médica con AMIE para consultas por video, mostrando el potencial de la IA en salud.",
+    "La inflación de EE.UU. se mantiene en línea con lo esperado, impactando las decisiones de la Fed y los mercados globales.",
+    "Goldman Sachs invierte fuertemente en ETFs de Bitcoin, señalando una creciente institucionalización de las criptomonedas.",
+    "Argentina logró abrir el mercado surcoreano para la carne aviar, una oportunidad de exportación significativa.",
+    "El Pixel Watch 5 de Google incorpora funciones avanzadas de salud, como análisis de presión arterial y resistencia a la insulina."
   ],
   "oportunidades": [
     {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "categoria": "AI",
-      "titulo": "Crecimiento exponencial en startups de IA para desarrollo de software",
-      "detalle": "La startup Blacksmith, que usa IA para pruebas de código, multiplicó su valoración casi por diez en menos de un año, mostrando el potencial de inversión en herramientas de automatización y desarrollo con IA.",
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Investing",
+      "titulo": "Inversión institucional en ETFs de Bitcoin",
+      "detalle": "Goldman Sachs invierte 2.250 millones de dólares en ETFs de Bitcoin, lo que podría indicar una tendencia de mayor adopción institucional y estabilidad en el mercado de criptomonedas.",
       "acciones": [
-        "Investigar startups similares en el sector de IA aplicada al desarrollo y automatización.",
-        "Analizar el modelo de negocio de Blacksmith para identificar factores de éxito replicables."
+        "Evaluar ETFs de Bitcoin como parte de una estrategia de inversión diversificada.",
+        "Monitorear el impacto de la inversión institucional en la volatilidad y el crecimiento del mercado cripto."
       ]
     },
     {
-      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
-      "categoria": "Investing",
-      "titulo": "Fidelity busca añadir 'staking' a su ETF de Ethereum",
-      "detalle": "Fidelity planea incorporar 'staking' a su fondo de Ether, lo que podría ofrecer una nueva vía de ingresos para los inversores en ETFs de criptomonedas.",
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Business",
+      "titulo": "Apertura del mercado surcoreano para carne aviar argentina",
+      "detalle": "Argentina logró abrir el mercado de Corea del Sur para la carne aviar, lo que representa una nueva oportunidad de exportación para el sector agropecuario del país.",
       "acciones": [
-        "Monitorear la aprobación de esta iniciativa por parte de la SEC.",
-        "Evaluar el impacto potencial en el rendimiento de los ETFs de Ethereum y la viabilidad de invertir en ellos."
+        "Analizar el impacto de esta apertura en la economía argentina y las oportunidades de inversión en el sector agroindustrial."
+      ]
+    },
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "titulo": "Avances en IA médica para consultas por video",
+      "detalle": "Google presenta AMIE, un sistema de IA médica para consultas por video en tiempo real. Esto muestra el potencial de la IA para transformar la atención médica y la interacción con pacientes.",
+      "acciones": [
+        "Explorar cómo la IA puede mejorar la eficiencia y accesibilidad en servicios de consultoría o atención al cliente.",
+        "Investigar herramientas de IA para automatizar procesos de comunicación y análisis en proyectos."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
-      "categoria": "Market",
-      "titulo": "Disminución de la dependencia de Foxconn en Apple",
-      "detalle": "La proporción de ingresos de Foxconn provenientes de Apple cayó por debajo del 29%, y la compañía espera que este cambio sea permanente, lo que preocupa a los inversores.",
-      "mitigacion": "Evaluar la diversificación de proveedores de Apple y el impacto en su cadena de suministro. Considerar la estabilidad de los fabricantes de componentes tecnológicos."
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "titulo": "Controversia sobre el reemplazo de escritores por IA",
+      "detalle": "Saber niega haber reemplazado a escritores con ChatGPT para un juego, pero un ex escritor afirma lo contrario. Esto resalta la tensión y los desafíos éticos en la adopción de IA en roles creativos.",
+      "mitigacion": "Mantener una comunicación transparente sobre el uso de IA en proyectos creativos y definir claramente los roles humanos y de IA para evitar conflictos y desconfianza."
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Regulatory",
+      "titulo": "Conflicto por licencias de pesca en Argentina",
+      "detalle": "Una disputa entre el gobierno nacional y provincial por las licencias de pesca de calamar genera incertidumbre en un negocio millonario, con sospechas de favoritismo.",
+      "mitigacion": "Monitorear la estabilidad regulatoria en sectores clave de la economía argentina y considerar el impacto de conflictos políticos en las inversiones."
     }
   ],
-  "conexiones": [],
-  "noticias": [
+  "conexiones": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "categoria": "AI",
-      "fuente": "Google AI Blog",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-      "tituloOriginal": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-      "tituloLimpio": "Google presenta AMIE, un sistema de IA médica para consultas de video en tiempo real",
-      "resumen": "Google introduce AMIE para consultas clínicas de video en tiempo real en entornos simulados.",
-      "porQueImporta": "Muestra el avance de la IA en aplicaciones prácticas y sensibles como la medicina, lo que podría abrir nuevas herramientas para profesionales y usuarios.",
-      "publicadoEn": "2026-08-11T17:00:00.000Z",
-      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIME_SIZZLE_THUMBNAIL.Aug10.max-600x600.format-webp.webp",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "ia",
-        "medicina",
-        "investigacion"
+      "titulo": "IA de Google en medicina y el Pixel Watch 5",
+      "historias": [
+        "Google presenta AMIE, un sistema de IA médica para consultas por video en tiempo real.",
+        "El Pixel Watch 5 de Google analiza la presión arterial y la resistencia a la insulina."
       ],
-      "tambienVistoEn": []
+      "conclusion": "Google está invirtiendo fuertemente en la aplicación de IA en el sector de la salud, desde sistemas de consulta médica avanzados hasta dispositivos wearables con funciones de monitoreo de salud detalladas. Esto sugiere una estrategia integral para integrar la IA en el bienestar personal y la atención médica."
     },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Apple contrata nuevo vicepresidente de asuntos gubernamentales",
+      "historias": [
+        "Apple contrata a un ejecutivo de aerolínea como vicepresidente de asuntos gubernamentales.",
+        "Apple ficha a Nate Gatten como nuevo jefe de asuntos gubernamentales."
+      ],
+      "conclusion": "Apple está reforzando su equipo de asuntos gubernamentales con la incorporación de un ejecutivo experimentado. Esto podría indicar una estrategia para mejorar sus relaciones con el gobierno y navegar el panorama regulatorio, especialmente en un contexto de cambios internos y posibles desafíos políticos."
+    }
+  ],
+  "noticias": [
     {
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Apple",
       "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/08/12/iphone-ultra-screen-protectors-reveal-asymmetry/",
-      "tituloOriginal": "'iPhone Ultra' Screen Protectors Reveal Asymmetric Corners",
-      "tituloLimpio": "Protectores de pantalla del 'iPhone Ultra' revelan esquinas asimétricas",
-      "resumen": "Un filtrador compartió imágenes y un video de protectores de pantalla para el rumoreado 'iPhone Ultra' de Apple, confirmando detalles sobre el diseño frontal del plegable.",
-      "porQueImporta": "Ofrece un vistazo temprano a posibles innovaciones de diseño en futuros productos de Apple, relevante para quienes siguen la marca.",
-      "publicadoEn": "2026-08-12T12:44:10.000Z",
+      "url": "https://www.macrumors.com/2026/08/12/apple-vice-president-government-affairs/",
+      "tituloOriginal": "Apple Hires Airline Exec as Vice President of Government Affairs",
+      "tituloLimpio": "Apple contrata a un ejecutivo de aerolínea como vicepresidente de asuntos gubernamentales",
+      "resumen": "Apple contrató al ex vicepresidente ejecutivo de American Airlines, Nick Gatten, como su nuevo vicepresidente de asuntos gubernamentales, según Bloomberg. Gatten asumirá algunas de las responsabilidades de la vicepresidenta senior de asuntos gubernamentales, Katherine Adams, quien se retira a fines de 2026. Gatten reportará a la vicepresidenta senior y consejera general de Apple, Jennifer.",
+      "porQueImporta": "Apple refuerza su equipo de relaciones gubernamentales, lo que puede ser clave para navegar el entorno regulatorio y político, impactando sus operaciones y estrategias a largo plazo.",
+      "publicadoEn": "2026-08-12T17:51:14.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "apple",
-        "iphone",
-        "filtracion"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "categoria": "Argentina",
-      "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/la-inflacion-eeuu-fue-del-34-anual-linea-lo-esperado-que-puede-hacer-la-fed-n6309867",
-      "tituloOriginal": "La inflación de EEUU fue del 3,4% anual en línea con lo esperado: qué puede hacer la Fed",
-      "tituloLimpio": "La inflación anual de EE.UU. fue del 3,4%, en línea con lo esperado",
-      "resumen": "El IPC norteamericano se conoce poco después de un dato de empleo que hizo dudar al mercado sobre la posibilidad de que el banco central suba las tasas el próximo mes.",
-      "porQueImporta": "Es un dato clave para entender el panorama económico global y las posibles decisiones de la Reserva Federal, que impactan en los mercados financieros.",
-      "publicadoEn": "2026-08-12T12:43:00.000Z",
-      "imagen": "https://media.ambito.com/p/75d11e09f21847ab2347d080d8aa5800/adjuntos/239/imagenes/042/544/0042544915/dolar-mercados-bolsas-inflacion-eeuu.jpg",
-      "globalScore": 90,
-      "personalScore": 100,
-      "tags": [
-        "inflacion",
-        "eeuu",
-        "mercados"
+        "gobierno",
+        "contrataciones"
       ],
       "tambienVistoEn": []
     },
@@ -199,57 +198,39 @@
       "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
       "categoria": "Marketing",
       "fuente": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/urban-outfitters-embraces-campus-life-in-first-ctv-commercial/827619/",
-      "tituloOriginal": "Urban Outfitters embraces campus life in first CTV commercial",
-      "tituloLimpio": "Urban Outfitters enfoca su primera publicidad en CTV en la vida universitaria",
-      "resumen": "El anuncio es parte de la plataforma de marca 'Back-To-Campus' y busca llegar a la Generación Z.",
-      "porQueImporta": "Ejemplo de estrategia de marketing dirigida a un público específico y el uso de nuevos canales como CTV, relevante para profesionales del marketing.",
-      "publicadoEn": "2026-08-12T12:50:00.000Z",
-      "globalScore": 100,
+      "url": "https://www.marketingdive.com/news/doves-marketing-mixes-sports-and-style-for-us-open-sponsorship-return/827652/",
+      "tituloOriginal": "Dove’s marketing mixes sports and style for US Open sponsorship return",
+      "tituloLimpio": "La estrategia de marketing de Dove combina deportes y estilo para el US Open",
+      "resumen": "La marca está trabajando con fotógrafos de moda para capturar looks de torneo de tendencia que no muestren marcas blancas de desodorante.",
+      "porQueImporta": "Un ejemplo de cómo las marcas integran eventos deportivos con tendencias de moda y marketing de producto, relevante para estrategias de branding y publicidad.",
+      "publicadoEn": "2026-08-12T14:39:00.000Z",
+      "globalScore": 96,
       "personalScore": 100,
       "tags": [
         "marketing",
-        "publicidad",
-        "genz"
+        "dove",
+        "deportes",
+        "moda"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
       "categoria": "AI",
-      "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
-      "tituloOriginal": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
-      "tituloLimpio": "La valoración de la startup de pruebas de código con IA Blacksmith se multiplica por diez",
-      "resumen": "Blacksmith afirma que sus ingresos crecieron más de diez veces en el último año.",
-      "porQueImporta": "Destaca el rápido crecimiento y el potencial de inversión en startups que aplican IA para la automatización y mejora de procesos de desarrollo de software.",
-      "publicadoEn": "2026-08-12T11:00:00.000Z",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "tituloOriginal": "Scaling AI agents with trustworthy data",
+      "tituloLimpio": "Escalando agentes de IA con datos confiables",
+      "resumen": "Los líderes empresariales y tecnológicos no necesitan convencerse de que la era de la IA agéntica ha llegado. Las organizaciones están adoptando rápidamente agentes, y pocos ejecutivos dudan del potencial de la tecnología para transformar el trabajo. Pero muchas organizaciones encuentran que la obtención del retorno de inversión (ROI) deseado de la IA depende de tener la base adecuada, con una infraestructura inadecuada.",
+      "porQueImporta": "Destaca la importancia de los datos confiables y la infraestructura adecuada para escalar la IA en las empresas, un punto clave para quienes trabajan con IA y automatización.",
+      "publicadoEn": "2026-08-12T16:51:57.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "ia",
-        "desarrollo",
-        "startup",
-        "inversion"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "categoria": "AI",
-      "fuente": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
-      "tituloOriginal": "Of course the ChatGPT dog cancer vaccine spawned a startup",
-      "tituloLimpio": "La vacuna contra el cáncer de perro creada con ChatGPT dio origen a una startup",
-      "resumen": "Un emprendedor australiano que usó herramientas de IA para crear una vacuna personalizada contra el cáncer para su perro, lanzó una startup.",
-      "porQueImporta": "Muestra cómo la IA puede inspirar y acelerar la creación de nuevas empresas y soluciones innovadoras, incluso en campos inesperados.",
-      "publicadoEn": "2026-08-12T12:09:34.000Z",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "ia",
-        "startup",
-        "innovacion"
+        "negocios",
+        "datos",
+        "escalabilidad"
       ],
       "tambienVistoEn": []
     },
@@ -257,18 +238,39 @@
       "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Apple",
       "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/12/foxconn-used-to-make-half-its-revenue-from-apple-now-its-below-29/",
-      "tituloOriginal": "Foxconn used to make half its revenue from Apple; now it’s below 29%",
-      "tituloLimpio": "La dependencia de Foxconn en Apple baja a menos del 29% de sus ingresos",
-      "resumen": "Foxconn, ensamblador principal de iPhone, solía obtener más de la mitad de sus ingresos de Apple; ahora esa proporción cayó por debajo del 29%.",
-      "porQueImporta": "Indica un cambio en la estrategia de diversificación de Foxconn o en la cadena de suministro de Apple, con implicaciones para el sector tecnológico y los inversores.",
-      "publicadoEn": "2026-08-12T13:08:09.000Z",
+      "url": "https://9to5mac.com/2026/08/12/bowflex-t6-review-apple-gymkit-comes-home-at-a-normal-treadmill-price/",
+      "tituloOriginal": "BowFlex T6 review: Apple GymKit comes home at a normal treadmill price",
+      "tituloLimpio": "Reseña del BowFlex T6: Apple GymKit llega a casa a un precio normal de cinta de correr",
+      "resumen": "Si usás un Apple Watch con equipos de cardio, GymKit debería estar en tu radar. Es la mejor manera para que el Apple Watch y una máquina de fitness como una cinta de correr o una elíptica intercambien datos de entrenamiento, produciendo mediciones más precisas de las que cualquiera de los dispositivos puede proporcionar por sí solo. Apple introdujo GymKit con watchOS 4 en 2017, pero el equipo compatible ha seguido siendo sorprendentemente.",
+      "porQueImporta": "La integración de GymKit con equipos de fitness a precios accesibles es relevante para usuarios de Apple Watch interesados en el seguimiento de su actividad física y la automatización de datos de entrenamiento.",
+      "publicadoEn": "2026-08-12T17:55:57.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "apple",
-        "negocios",
-        "proveedores"
+        "gymkit",
+        "fitness",
+        "apple watch"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81Z29v",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5google.com/2026/08/12/made-by-google-2026-announcements/",
+      "tituloOriginal": "Everything announced at Made by Google 2026: Pixel 11, Pixel Watch 5, Pixel Tag, & more",
+      "tituloLimpio": "Todo lo anunciado en Made by Google 2026: Pixel 11, Pixel Watch 5, Pixel Tag y más",
+      "resumen": "Aunque el evento Made by Google 2026 no se llevará a cabo hasta dentro de ocho horas, Google ha detallado completamente el Pixel 11, Pixel Watch 5 y Pixel Tag.",
+      "porQueImporta": "Un vistazo a los próximos lanzamientos de Google, incluyendo el Pixel Watch 5 con nuevas funciones de salud, relevante para quienes siguen las novedades tecnológicas y la competencia de Apple.",
+      "publicadoEn": "2026-08-12T14:18:11.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "google",
+        "pixel",
+        "lanzamientos",
+        "tecnologia"
       ],
       "tambienVistoEn": []
     },
@@ -276,20 +278,77 @@
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
       "categoria": "Apple",
       "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/08/12/dave-the-diver-splashes-onto-iphone-ipad-and-mac-in-september?utm_source=rss",
-      "tituloOriginal": "'Dave the Diver' splashes onto iPhone, iPad, and Mac in September",
-      "tituloLimpio": "'Dave the Diver' llega a iPhone, iPad y Mac en septiembre",
-      "resumen": "Ya se pueden reservar 'Dave the Diver', que se lanzará a mediados de septiembre en plataformas Apple. El juego combina exploración submarina con gestión de restaurante.",
-      "porQueImporta": "Novedad relevante para usuarios de Apple interesados en juegos, mostrando la expansión del catálogo de títulos disponibles en sus plataformas.",
-      "publicadoEn": "2026-08-12T13:00:12.000Z",
+      "url": "https://appleinsider.com/articles/26/08/12/apple-picks-up-nate-gatten-as-new-head-of-government-affairs?utm_source=rss",
+      "tituloOriginal": "Apple picks up Nate Gatten as new head of government affairs",
+      "tituloLimpio": "Apple ficha a Nate Gatten como nuevo jefe de asuntos gubernamentales",
+      "resumen": "Apple ha contratado a Nate Gatten para convertirse en su nuevo jefe de asuntos gubernamentales, una medida que podría ayudar a la compañía a trabajar más con la administración Trump. Nate Gatten - Crédito de la imagen: American Airlines Apple está experimentando varios cambios a corto plazo, en preparación para la transición del CEO de Tim Cook a John Ternus el 1 de septiembre. Un día antes del cambio.",
+      "porQueImporta": "Confirma la estrategia de Apple de fortalecer sus relaciones gubernamentales, un factor importante para su operación global y su capacidad de influir en políticas que afectan a la industria tecnológica.",
+      "publicadoEn": "2026-08-12T17:36:45.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "apple",
+        "gobierno",
+        "contrataciones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/reviews/big-walk-a-good-hang-with-friends/",
+      "tituloOriginal": "Big Walk: A Good Hang with Friends",
+      "tituloLimpio": "Big Walk: Un buen rato con amigos",
+      "resumen": "Me sumergí en Big Walk sin ninguna expectativa. Había visto tráilers antes del lanzamiento y sabía que era un juego de rompecabezas cooperativo de House House, los creadores de Untitled Goose Game, pero eso era todo. Y como la mayor parte de mis juegos los hago solo, inicialmente ignoré la mayoría.",
+      "porQueImporta": "Una reseña de un juego cooperativo que puede ser de interés para quienes buscan opciones de entretenimiento o analizan tendencias en el desarrollo de juegos.",
+      "publicadoEn": "2026-08-11T18:34:23.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
         "juegos",
-        "iphone",
-        "ipad",
-        "mac"
+        "reseña",
+        "entretenimiento"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-nebius-group-deliver-earnings-174505345.html",
+      "tituloOriginal": "CoreWeave and Nebius Group Deliver Earnings Shocker. Here's What It Signals About the Future of AI.",
+      "tituloLimpio": "CoreWeave y Nebius Group sorprenden con sus ganancias: señales sobre el futuro de la IA",
+      "resumen": "",
+      "porQueImporta": "Aunque el resumen es breve, la noticia sugiere un impacto significativo en el sector de la IA, lo que podría indicar tendencias de inversión o desarrollo tecnológico.",
+      "publicadoEn": "2026-08-12T17:45:05.000Z",
+      "imagen": "https://media.zenfs.com/en/motleyfool.com/7b512c807556da16ca03a0bad5e5634b.png",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "finanzas",
+        "mercado"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cud3Nq",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-ahead-of-u-s-inflation-data-11bb4f20?siteid=yhoof2&yptr=yahoo",
+      "tituloOriginal": "Comex Gold Settles 0.59% Higher at $4408.90",
+      "tituloLimpio": "El oro Comex cierra 0,59% más alto a 4408,90 dólares",
+      "resumen": "",
+      "porQueImporta": "Información sobre el precio del oro, un activo de refugio, relevante para quienes siguen los mercados financieros y las inversiones.",
+      "publicadoEn": "2026-08-12T17:45:00.000Z",
+      "imagen": "https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "oro",
+        "mercado"
       ],
       "tambienVistoEn": []
     },
@@ -297,40 +356,20 @@
       "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
       "categoria": "Finance",
       "fuente": "Yahoo Finance",
-      "url": "https://www.investors.com/news/cpi-inflation-july-federal-reserve-rate-hike-apple-sp-500/?src=A00220&yptr=yahoo",
-      "tituloOriginal": "CPI Inflation Data Cools As Expected, May Keep Fed Rate Hikes On Hold (Live Coverage)",
-      "tituloLimpio": "Datos de inflación en EE.UU. se enfrían como se esperaba, podría mantener las subas de tasas de la Fed en suspenso",
-      "resumen": "Sin resumen disponible.",
-      "porQueImporta": "La moderación de la inflación en EE.UU. es una señal positiva para los mercados y podría influir en la política monetaria de la Reserva Federal, afectando las inversiones.",
-      "publicadoEn": "2026-08-12T12:53:12.000Z",
-      "imagen": "https://media.zenfs.com/en/ibd.com/fc0eb6c0b6a3d2173eda5875717362d1.jpg",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "inflacion",
-        "eeuu",
-        "mercados",
-        "inversion"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
-      "categoria": "Finance",
-      "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/12/standard-chartered-led-anchorpoint-launches-hong-kong-dollar-stablecoin",
-      "tituloOriginal": "Standard Chartered-led Anchorpoint launches Hong Kong dollar stablecoin",
-      "tituloLimpio": "Anchorpoint, liderado por Standard Chartered, lanza un 'stablecoin' de dólar de Hong Kong",
-      "resumen": "HashKey Exchange y OSL Group son distribuidores autorizados, permitiendo a inversores institucionales y profesionales acuñar y canjear tokens HKDAP.",
-      "porQueImporta": "Muestra la expansión de las criptomonedas y 'stablecoins' en mercados financieros regulados, relevante para quienes siguen las finanzas digitales.",
-      "publicadoEn": "2026-08-12T13:13:49.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/df9f1a75636b8bc1ae82ee873b7d7a30e1b25182-1920x1440.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "globalScore": 92,
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-july-cpi-inflation-nvidia-partner-coreweave/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Stock Market Today: Nasdaq Charges Higher; SpaceX Pops On Musk Starlink Claim (Live Coverage)",
+      "tituloLimpio": "Mercado de valores hoy: Nasdaq sube; SpaceX repunta por afirmación de Musk sobre Starlink",
+      "resumen": "",
+      "porQueImporta": "Un resumen de la actividad del mercado de valores, con el Nasdaq en alza y el impacto de noticias sobre SpaceX, útil para inversores.",
+      "publicadoEn": "2026-08-12T17:06:21.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/7df8b4f2338378d7ec83690e85e00f41.jpg",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "finanzas",
-        "criptomonedas",
-        "stablecoin"
+        "mercado",
+        "nasdaq",
+        "spacex"
       ],
       "tambienVistoEn": []
     },
@@ -338,40 +377,40 @@
       "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
       "categoria": "Finance",
       "fuente": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/fidelity-staking-ethereum-etf-sec-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "tituloOriginal": "Fidelity files with SEC to add staking to Ethereum ETF",
-      "tituloLimpio": "Fidelity presenta solicitud ante la SEC para añadir 'staking' a su ETF de Ethereum",
-      "resumen": "Fidelity planea añadir 'staking' a su fondo de Ether, con el 85% de las recompensas retenidas por FETH y distribuciones de efectivo trimestrales para inversores.",
-      "porQueImporta": "Podría ser un desarrollo importante para los inversores en ETFs de criptomonedas, ofreciendo nuevas formas de generar rendimiento.",
-      "publicadoEn": "2026-08-12T12:42:58.000Z",
-      "imagen": "https://s3-images.ctmedia.io/media/article-covers/option-1-bold-white-montserrat.jpeg",
-      "globalScore": 94,
+      "url": "https://cointelegraph.com/news/flightaware-drops-kalshi-lawsuit-one-day-after-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "FlightAware drops Kalshi lawsuit one day after filing",
+      "tituloLimpio": "FlightAware retira demanda contra Kalshi un día después de presentarla",
+      "resumen": "Tras la demanda inicial, al menos uno de los contratos de eventos de Kalshi fue modificado para listar a la “Agencia de Fuente Primaria” como la entidad detrás de la verificación de los datos de cancelación de vuelos.",
+      "porQueImporta": "Un caso de disputa legal en el ámbito financiero y tecnológico, que puede ser relevante para entender la dinámica de la industria y la importancia de la verificación de datos.",
+      "publicadoEn": "2026-08-12T16:58:52.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/courtroom-court-lawsuit-justice-jurisdiction-breaking-news.jpg",
+      "globalScore": 90,
       "personalScore": 100,
       "tags": [
         "finanzas",
-        "criptomonedas",
-        "etf",
-        "ethereum"
+        "legal",
+        "tecnologia"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
-      "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-miercoles-12-agosto_0_liqUENiVpJ.html",
-      "tituloOriginal": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este miércoles 12 de agosto",
-      "tituloLimpio": "Cotización del dólar hoy: oficial y otros tipos de cambio este miércoles 12 de agosto",
-      "resumen": "Desde el oficial hasta el blue y el turista, todos los tipos de cambio. Mirá la cotización minuto a minuto.",
-      "porQueImporta": "Información esencial para la economía personal y de negocios en Argentina, dada la volatilidad y relevancia del tipo de cambio.",
-      "publicadoEn": "2026-08-12T12:00:01.000Z",
-      "imagen": "https://www.clarin.com/img/2020/05/19/RonC3-q2b_1200x630__1.jpg",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/milei-kicillof-desatan-feroz-pelea-calamar-millonario-negocio-pesca_0_d1xfTRNXJd.html",
+      "tituloOriginal": "Milei y Kicillof desatan una feroz pelea por el calamar y el millonario negocio de la pesca",
+      "tituloLimpio": "Milei y Kicillof se enfrentan por el negocio del calamar y la pesca",
+      "resumen": "El gobernador se enfrentó con la gestión libertaria por las licencias para pesca de esta especie marítima. Mar del Plata quedó relegada contra puertos del sur. Sospechas de favoritismo hacia Rubén Cherñajovsky, un empresario cercano al Gobierno.",
+      "porQueImporta": "Un conflicto político y económico en Argentina que afecta a un sector productivo importante, con implicaciones para la inversión y la gestión de recursos naturales.",
+      "publicadoEn": "2026-08-12T17:14:34.000Z",
+      "imagen": "https://www.clarin.com/img/2025/10/27/3abckgjQ0_1200x630__1.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "dolar",
-        "economia"
+        "politica",
+        "economia",
+        "pesca"
       ],
       "tambienVistoEn": []
     },
@@ -379,47 +418,86 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/08/12/avanza-el-fondo-para-pagar-indeminzaciones-el-gobierno-reglamento-en-que-activos-financieros-se-podra-invertir-el-dinero/",
-      "tituloOriginal": "Avanza el fondo para pagar indeminzaciones: el gobierno reglamentó en qué activos financieros se podrá invertir el dinero",
-      "tituloLimpio": "Avanza el fondo para pagar indemnizaciones: el gobierno reglamentó en qué activos financieros se podrá invertir el dinero",
-      "resumen": "Los Fondos de Asistencia Laboral (FAL) deberán colocarse en instrumentos en pesos, con un criterio de diversificación y un piso de liquidez para garantizar el pago de las prestaciones a los trabajadores.",
-      "porQueImporta": "Detalla cómo se gestionarán los fondos de indemnizaciones laborales en Argentina, relevante para la planificación financiera y el entendimiento del marco legal.",
-      "publicadoEn": "2026-08-12T13:09:50.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/IHGWPXKULRFWFMW5F3X6OJMLUY.png?auth=bbb977eaf5c78b11e50de80f000898d7aad55b8ec32a335cca77e1e136d9627a&smart=true&width=1408&height=768",
-      "globalScore": 94,
+      "url": "https://www.infobae.com/economia/2026/08/12/dolar-hoy-en-vivo-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-miercoles-12-de-agosto/",
+      "tituloOriginal": "Dólar hoy en vivo: a cuánto operan todas las cotizaciones minuto a minuto este miércoles 12 de agosto",
+      "tituloLimpio": "Dólar hoy en vivo: cotizaciones minuto a minuto este miércoles 12 de agosto",
+      "resumen": "El billete al público es ofrecido a $1.515 en el Banco Nación. El dólar blue es pactado en baja a $1.530.",
+      "porQueImporta": "Información actualizada sobre el valor del dólar en Argentina, esencial para la planificación financiera y económica en el país.",
+      "publicadoEn": "2026-08-12T17:47:49.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/MIPCSSOZ3JG6BJG6MP2EPIYMPM.jpg?auth=04097573f6be54a71ab02aa90989ca48c0062cea2328904c6fb269929b24c6f2&smart=true&width=4500&height=2999",
+      "globalScore": 90,
       "personalScore": 100,
       "tags": [
         "argentina",
+        "dolar",
         "economia",
-        "inversion",
-        "regulacion"
+        "finanzas"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
-      "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/en-que-invertira-el-gobierno-definio-como-sera-el-fondo-que-financiara-las-indemnizaciones-laborales-nid12082026/",
-      "tituloOriginal": "En qué invertirá: el Gobierno definió cómo será el fondo que financiará las indemnizaciones laborales",
-      "tituloLimpio": "El Gobierno definió cómo será el fondo que financiará las indemnizaciones laborales",
-      "resumen": "El Ministerio de Economía reglamentó las pautas de inversión del FAL; los recursos podrán colocarse en deuda pública, depósitos bancarios y obligaciones negociables, con un piso de liquidez del 10% y límites para evitar la concentración de riesgos.",
-      "porQueImporta": "Proporciona detalles sobre las opciones de inversión para el fondo de indemnizaciones, importante para entender la gestión de fondos públicos y las oportunidades en el mercado local.",
-      "publicadoEn": "2026-08-12T12:44:56.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/4MPEGJJX2FAQRMDZOBJSMDCK2Y.jpg?auth=31ad49e22f9e9b845c77e89772418ae30abf48864deeca6ceac9b12097dacdc6&smart=true&width=2000&height=1333",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/08/12/el-gobierno-coorganizara-la-conferencia-internacional-contra-el-narcotrafico-que-lidera-la-dea/",
+      "tituloOriginal": "El Gobierno coorganizará la conferencia internacional contra el narcotráfico que lidera la DEA",
+      "tituloLimpio": "El Gobierno coorganizará la conferencia internacional contra el narcotráfico liderada por la DEA",
+      "resumen": "En medio de un fuerte operativo de seguridad, el evento se realizará entre el 18 y el 20 de agosto en la Ciudad de Buenos Aires. Participará la ministra de Seguridad, Alejandra Monteoliva, y otros funcionarios.",
+      "porQueImporta": "Un evento de relevancia internacional en Argentina que aborda un tema crítico como el narcotráfico, con implicaciones en seguridad y política exterior.",
+      "publicadoEn": "2026-08-12T17:52:53.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/A3CQSBG4K5FFLKYUUXVQV3ODUQ.JPG?auth=f8a8102e39d645801b68e20a543357083d646f8d861957336e90691d87d295e2&smart=true&width=5500&height=3667",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "economia",
-        "inversion",
-        "regulacion"
+        "politica",
+        "seguridad",
+        "internacional"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Politica",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-gobierno-busca-retomar-la-iniciativa-en-el-congreso-y-reactiva-nid12082026/",
+      "tituloOriginal": "Javier Milei y sus medidas, en vivo: el Gobierno busca retomar la iniciativa en el Congreso y reactiva la mesa política",
+      "tituloLimpio": "Javier Milei y sus medidas, en vivo: el Gobierno busca retomar la iniciativa en el Congreso",
+      "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios.",
+      "porQueImporta": "Seguimiento de la actividad política del gobierno argentino, crucial para entender el rumbo del país y sus posibles impactos económicos y sociales.",
+      "publicadoEn": "2026-08-12T17:40:00.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/M3AR3ZFHCNHWPKMFOIAINH73HQ.jpg?auth=bda2004d26abe97bdc5bf7a8dffd4c1f3244c79a783aded82d65bc934d992761&smart=true&width=2000&height=1333",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "politica",
+        "gobierno"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "fuente": "Adweek",
+      "url": "https://www.adweek.com/convergent-tv/watch-gronk-go-off-script-in-new-campaign-for-dna-vibe/",
+      "tituloOriginal": "Watch Gronk Go Off Script in New Campaign for DNA Vibe",
+      "tituloLimpio": "Gronk se sale del guion en la nueva campaña de DNA Vibe",
+      "resumen": "Rob Gronkowski no necesitó un guion para hablar de su asociación con DNA Vibe.",
+      "porQueImporta": "Un ejemplo de marketing con celebridades y contenido auténtico, relevante para estrategias de publicidad y branding.",
+      "publicadoEn": "2026-08-12T12:10:31.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "publicidad",
+        "celebridades"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-08-12T13:15:41.589Z"
+    "generadoEn": "2026-08-12T17:56:40.895Z"
   }
 }
