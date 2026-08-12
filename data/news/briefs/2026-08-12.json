@@ -1,0 +1,425 @@
+{
+  "fecha": "2026-08-12",
+  "generadoEn": "2026-08-12T13:15:41.589Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "Hoy, las noticias giran en torno a avances en IA médica y de desarrollo de software, la situación económica en Argentina con la reglamentación del fondo de indemnizaciones y la cotización del dólar, y novedades de Apple con filtraciones del 'iPhone Ultra' y cambios en la dependencia de Foxconn. También hay movimientos en el mercado de criptomonedas con Fidelity y un nuevo stablecoin.",
+  "radarPersonal": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Google presenta AMIE, un sistema de IA médica para consultas de video en tiempo real",
+      "resumen": "Google introduce AMIE para consultas clínicas de video en tiempo real en entornos simulados.",
+      "categoria": "AI",
+      "fuentes": [
+        "Google AI Blog"
+      ],
+      "urls": [
+        "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/"
+      ],
+      "score": 100,
+      "tags": [
+        "ia",
+        "medicina",
+        "investigacion"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "La valoración de la startup de pruebas de código con IA Blacksmith se multiplica por diez",
+      "resumen": "Blacksmith afirma que sus ingresos crecieron más de diez veces en el último año.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/"
+      ],
+      "score": 100,
+      "tags": [
+        "ia",
+        "desarrollo",
+        "startup",
+        "inversion"
+      ]
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Protectores de pantalla del 'iPhone Ultra' revelan esquinas asimétricas",
+      "resumen": "Un filtrador compartió imágenes y un video de protectores de pantalla para el rumoreado 'iPhone Ultra' de Apple, confirmando detalles sobre el diseño frontal del plegable.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/08/12/iphone-ultra-screen-protectors-reveal-asymmetry/"
+      ],
+      "score": 100,
+      "tags": [
+        "apple",
+        "iphone",
+        "filtracion"
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "La inflación anual de EE.UU. fue del 3,4%, en línea con lo esperado",
+      "resumen": "El IPC norteamericano se conoce poco después de un dato de empleo que hizo dudar al mercado sobre la posibilidad de que el banco central suba las tasas el próximo mes.",
+      "categoria": "Finance",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/la-inflacion-eeuu-fue-del-34-anual-linea-lo-esperado-que-puede-hacer-la-fed-n6309867"
+      ],
+      "score": 100,
+      "tags": [
+        "inflacion",
+        "eeuu",
+        "mercados"
+      ]
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "titulo": "Cotización del dólar hoy: oficial y otros tipos de cambio este miércoles 12 de agosto",
+      "resumen": "Desde el oficial hasta el blue y el turista, todos los tipos de cambio. Mirá la cotización minuto a minuto.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Clarin Economia"
+      ],
+      "urls": [
+        "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-miercoles-12-agosto_0_liqUENiVpJ.html"
+      ],
+      "score": 100,
+      "tags": [
+        "argentina",
+        "dolar",
+        "economia"
+      ]
+    }
+  ],
+  "loImportante": [
+    "La IA sigue avanzando en campos como la medicina y el desarrollo de software, con Google presentando un sistema para consultas médicas por video y una startup de pruebas de código con IA multiplicando su valoración.",
+    "Apple podría lanzar un 'iPhone Ultra' con un diseño de pantalla asimétrico, según filtraciones de protectores de pantalla.",
+    "La inflación en EE.UU. se mantuvo en 3,4% anual, en línea con lo esperado, lo que podría influir en las decisiones de tasas de la Reserva Federal.",
+    "En Argentina, el Gobierno reglamentó el fondo para financiar indemnizaciones laborales, especificando los activos financieros en los que se podrá invertir.",
+    "El mercado de criptomonedas ve movimientos con Fidelity buscando agregar 'staking' a su ETF de Ethereum y el lanzamiento de un 'stablecoin' de dólar de Hong Kong."
+  ],
+  "oportunidades": [
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "titulo": "Crecimiento exponencial en startups de IA para desarrollo de software",
+      "detalle": "La startup Blacksmith, que usa IA para pruebas de código, multiplicó su valoración casi por diez en menos de un año, mostrando el potencial de inversión en herramientas de automatización y desarrollo con IA.",
+      "acciones": [
+        "Investigar startups similares en el sector de IA aplicada al desarrollo y automatización.",
+        "Analizar el modelo de negocio de Blacksmith para identificar factores de éxito replicables."
+      ]
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Investing",
+      "titulo": "Fidelity busca añadir 'staking' a su ETF de Ethereum",
+      "detalle": "Fidelity planea incorporar 'staking' a su fondo de Ether, lo que podría ofrecer una nueva vía de ingresos para los inversores en ETFs de criptomonedas.",
+      "acciones": [
+        "Monitorear la aprobación de esta iniciativa por parte de la SEC.",
+        "Evaluar el impacto potencial en el rendimiento de los ETFs de Ethereum y la viabilidad de invertir en ellos."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Market",
+      "titulo": "Disminución de la dependencia de Foxconn en Apple",
+      "detalle": "La proporción de ingresos de Foxconn provenientes de Apple cayó por debajo del 29%, y la compañía espera que este cambio sea permanente, lo que preocupa a los inversores.",
+      "mitigacion": "Evaluar la diversificación de proveedores de Apple y el impacto en su cadena de suministro. Considerar la estabilidad de los fabricantes de componentes tecnológicos."
+    }
+  ],
+  "conexiones": [],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+      "tituloOriginal": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "tituloLimpio": "Google presenta AMIE, un sistema de IA médica para consultas de video en tiempo real",
+      "resumen": "Google introduce AMIE para consultas clínicas de video en tiempo real en entornos simulados.",
+      "porQueImporta": "Muestra el avance de la IA en aplicaciones prácticas y sensibles como la medicina, lo que podría abrir nuevas herramientas para profesionales y usuarios.",
+      "publicadoEn": "2026-08-11T17:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIME_SIZZLE_THUMBNAIL.Aug10.max-600x600.format-webp.webp",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "medicina",
+        "investigacion"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/08/12/iphone-ultra-screen-protectors-reveal-asymmetry/",
+      "tituloOriginal": "'iPhone Ultra' Screen Protectors Reveal Asymmetric Corners",
+      "tituloLimpio": "Protectores de pantalla del 'iPhone Ultra' revelan esquinas asimétricas",
+      "resumen": "Un filtrador compartió imágenes y un video de protectores de pantalla para el rumoreado 'iPhone Ultra' de Apple, confirmando detalles sobre el diseño frontal del plegable.",
+      "porQueImporta": "Ofrece un vistazo temprano a posibles innovaciones de diseño en futuros productos de Apple, relevante para quienes siguen la marca.",
+      "publicadoEn": "2026-08-12T12:44:10.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "iphone",
+        "filtracion"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/la-inflacion-eeuu-fue-del-34-anual-linea-lo-esperado-que-puede-hacer-la-fed-n6309867",
+      "tituloOriginal": "La inflación de EEUU fue del 3,4% anual en línea con lo esperado: qué puede hacer la Fed",
+      "tituloLimpio": "La inflación anual de EE.UU. fue del 3,4%, en línea con lo esperado",
+      "resumen": "El IPC norteamericano se conoce poco después de un dato de empleo que hizo dudar al mercado sobre la posibilidad de que el banco central suba las tasas el próximo mes.",
+      "porQueImporta": "Es un dato clave para entender el panorama económico global y las posibles decisiones de la Reserva Federal, que impactan en los mercados financieros.",
+      "publicadoEn": "2026-08-12T12:43:00.000Z",
+      "imagen": "https://media.ambito.com/p/75d11e09f21847ab2347d080d8aa5800/adjuntos/239/imagenes/042/544/0042544915/dolar-mercados-bolsas-inflacion-eeuu.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "inflacion",
+        "eeuu",
+        "mercados"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/urban-outfitters-embraces-campus-life-in-first-ctv-commercial/827619/",
+      "tituloOriginal": "Urban Outfitters embraces campus life in first CTV commercial",
+      "tituloLimpio": "Urban Outfitters enfoca su primera publicidad en CTV en la vida universitaria",
+      "resumen": "El anuncio es parte de la plataforma de marca 'Back-To-Campus' y busca llegar a la Generación Z.",
+      "porQueImporta": "Ejemplo de estrategia de marketing dirigida a un público específico y el uso de nuevos canales como CTV, relevante para profesionales del marketing.",
+      "publicadoEn": "2026-08-12T12:50:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "publicidad",
+        "genz"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+      "tituloOriginal": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
+      "tituloLimpio": "La valoración de la startup de pruebas de código con IA Blacksmith se multiplica por diez",
+      "resumen": "Blacksmith afirma que sus ingresos crecieron más de diez veces en el último año.",
+      "porQueImporta": "Destaca el rápido crecimiento y el potencial de inversión en startups que aplican IA para la automatización y mejora de procesos de desarrollo de software.",
+      "publicadoEn": "2026-08-12T11:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "desarrollo",
+        "startup",
+        "inversion"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+      "tituloOriginal": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+      "tituloLimpio": "La vacuna contra el cáncer de perro creada con ChatGPT dio origen a una startup",
+      "resumen": "Un emprendedor australiano que usó herramientas de IA para crear una vacuna personalizada contra el cáncer para su perro, lanzó una startup.",
+      "porQueImporta": "Muestra cómo la IA puede inspirar y acelerar la creación de nuevas empresas y soluciones innovadoras, incluso en campos inesperados.",
+      "publicadoEn": "2026-08-12T12:09:34.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "startup",
+        "innovacion"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/12/foxconn-used-to-make-half-its-revenue-from-apple-now-its-below-29/",
+      "tituloOriginal": "Foxconn used to make half its revenue from Apple; now it’s below 29%",
+      "tituloLimpio": "La dependencia de Foxconn en Apple baja a menos del 29% de sus ingresos",
+      "resumen": "Foxconn, ensamblador principal de iPhone, solía obtener más de la mitad de sus ingresos de Apple; ahora esa proporción cayó por debajo del 29%.",
+      "porQueImporta": "Indica un cambio en la estrategia de diversificación de Foxconn o en la cadena de suministro de Apple, con implicaciones para el sector tecnológico y los inversores.",
+      "publicadoEn": "2026-08-12T13:08:09.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "negocios",
+        "proveedores"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/08/12/dave-the-diver-splashes-onto-iphone-ipad-and-mac-in-september?utm_source=rss",
+      "tituloOriginal": "'Dave the Diver' splashes onto iPhone, iPad, and Mac in September",
+      "tituloLimpio": "'Dave the Diver' llega a iPhone, iPad y Mac en septiembre",
+      "resumen": "Ya se pueden reservar 'Dave the Diver', que se lanzará a mediados de septiembre en plataformas Apple. El juego combina exploración submarina con gestión de restaurante.",
+      "porQueImporta": "Novedad relevante para usuarios de Apple interesados en juegos, mostrando la expansión del catálogo de títulos disponibles en sus plataformas.",
+      "publicadoEn": "2026-08-12T13:00:12.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "juegos",
+        "iphone",
+        "ipad",
+        "mac"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/news/cpi-inflation-july-federal-reserve-rate-hike-apple-sp-500/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "CPI Inflation Data Cools As Expected, May Keep Fed Rate Hikes On Hold (Live Coverage)",
+      "tituloLimpio": "Datos de inflación en EE.UU. se enfrían como se esperaba, podría mantener las subas de tasas de la Fed en suspenso",
+      "resumen": "Sin resumen disponible.",
+      "porQueImporta": "La moderación de la inflación en EE.UU. es una señal positiva para los mercados y podría influir en la política monetaria de la Reserva Federal, afectando las inversiones.",
+      "publicadoEn": "2026-08-12T12:53:12.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/fc0eb6c0b6a3d2173eda5875717362d1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "inflacion",
+        "eeuu",
+        "mercados",
+        "inversion"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/12/standard-chartered-led-anchorpoint-launches-hong-kong-dollar-stablecoin",
+      "tituloOriginal": "Standard Chartered-led Anchorpoint launches Hong Kong dollar stablecoin",
+      "tituloLimpio": "Anchorpoint, liderado por Standard Chartered, lanza un 'stablecoin' de dólar de Hong Kong",
+      "resumen": "HashKey Exchange y OSL Group son distribuidores autorizados, permitiendo a inversores institucionales y profesionales acuñar y canjear tokens HKDAP.",
+      "porQueImporta": "Muestra la expansión de las criptomonedas y 'stablecoins' en mercados financieros regulados, relevante para quienes siguen las finanzas digitales.",
+      "publicadoEn": "2026-08-12T13:13:49.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/df9f1a75636b8bc1ae82ee873b7d7a30e1b25182-1920x1440.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "criptomonedas",
+        "stablecoin"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/fidelity-staking-ethereum-etf-sec-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Fidelity files with SEC to add staking to Ethereum ETF",
+      "tituloLimpio": "Fidelity presenta solicitud ante la SEC para añadir 'staking' a su ETF de Ethereum",
+      "resumen": "Fidelity planea añadir 'staking' a su fondo de Ether, con el 85% de las recompensas retenidas por FETH y distribuciones de efectivo trimestrales para inversores.",
+      "porQueImporta": "Podría ser un desarrollo importante para los inversores en ETFs de criptomonedas, ofreciendo nuevas formas de generar rendimiento.",
+      "publicadoEn": "2026-08-12T12:42:58.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/option-1-bold-white-montserrat.jpeg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "criptomonedas",
+        "etf",
+        "ethereum"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-miercoles-12-agosto_0_liqUENiVpJ.html",
+      "tituloOriginal": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este miércoles 12 de agosto",
+      "tituloLimpio": "Cotización del dólar hoy: oficial y otros tipos de cambio este miércoles 12 de agosto",
+      "resumen": "Desde el oficial hasta el blue y el turista, todos los tipos de cambio. Mirá la cotización minuto a minuto.",
+      "porQueImporta": "Información esencial para la economía personal y de negocios en Argentina, dada la volatilidad y relevancia del tipo de cambio.",
+      "publicadoEn": "2026-08-12T12:00:01.000Z",
+      "imagen": "https://www.clarin.com/img/2020/05/19/RonC3-q2b_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "dolar",
+        "economia"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/08/12/avanza-el-fondo-para-pagar-indeminzaciones-el-gobierno-reglamento-en-que-activos-financieros-se-podra-invertir-el-dinero/",
+      "tituloOriginal": "Avanza el fondo para pagar indeminzaciones: el gobierno reglamentó en qué activos financieros se podrá invertir el dinero",
+      "tituloLimpio": "Avanza el fondo para pagar indemnizaciones: el gobierno reglamentó en qué activos financieros se podrá invertir el dinero",
+      "resumen": "Los Fondos de Asistencia Laboral (FAL) deberán colocarse en instrumentos en pesos, con un criterio de diversificación y un piso de liquidez para garantizar el pago de las prestaciones a los trabajadores.",
+      "porQueImporta": "Detalla cómo se gestionarán los fondos de indemnizaciones laborales en Argentina, relevante para la planificación financiera y el entendimiento del marco legal.",
+      "publicadoEn": "2026-08-12T13:09:50.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/IHGWPXKULRFWFMW5F3X6OJMLUY.png?auth=bbb977eaf5c78b11e50de80f000898d7aad55b8ec32a335cca77e1e136d9627a&smart=true&width=1408&height=768",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "economia",
+        "inversion",
+        "regulacion"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/en-que-invertira-el-gobierno-definio-como-sera-el-fondo-que-financiara-las-indemnizaciones-laborales-nid12082026/",
+      "tituloOriginal": "En qué invertirá: el Gobierno definió cómo será el fondo que financiará las indemnizaciones laborales",
+      "tituloLimpio": "El Gobierno definió cómo será el fondo que financiará las indemnizaciones laborales",
+      "resumen": "El Ministerio de Economía reglamentó las pautas de inversión del FAL; los recursos podrán colocarse en deuda pública, depósitos bancarios y obligaciones negociables, con un piso de liquidez del 10% y límites para evitar la concentración de riesgos.",
+      "porQueImporta": "Proporciona detalles sobre las opciones de inversión para el fondo de indemnizaciones, importante para entender la gestión de fondos públicos y las oportunidades en el mercado local.",
+      "publicadoEn": "2026-08-12T12:44:56.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/4MPEGJJX2FAQRMDZOBJSMDCK2Y.jpg?auth=31ad49e22f9e9b845c77e89772418ae30abf48864deeca6ceac9b12097dacdc6&smart=true&width=2000&height=1333",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "economia",
+        "inversion",
+        "regulacion"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-08-12T13:15:41.589Z"
+  }
+}
