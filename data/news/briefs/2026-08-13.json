@@ -1,172 +1,219 @@
 {
   "fecha": "2026-08-13",
-  "generadoEn": "2026-08-13T13:17:34.789Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "En el panorama actual, la IA sigue avanzando con sistemas médicos y la controversia sobre el uso de contenido para entrenamiento. Apple enfrenta desafíos con fraudes en la App Store y malware. En Argentina, la inflación y el costo de producción siguen siendo temas centrales, mientras que el dólar y la política mantienen la atención. El marketing explora nuevas estrategias con patrocinios deportivos y campañas para audiencias específicas.",
+  "generadoEn": "2026-08-13T17:56:22.414Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Hoy se destaca el avance de la IA en herramientas como Google Sheets y Suno, y la expectativa por los próximos lanzamientos de Apple, incluyendo el iPhone 18 Pro y el posible iPhone Ultra. En Argentina, la industria aceitera reclama una nueva ley de biocombustibles, mientras se profundiza la caída del empleo formal y se anuncia una inversión importante de EE.UU. en minería. También es relevante la discusión sobre la regulación de criptomonedas y las proyecciones para Bitcoin.",
   "radarPersonal": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "titulo": "Google presenta AMIE, un sistema de IA médica para consultas de video en tiempo real",
-      "resumen": "Google presenta AMIE para consultas clínicas de video en tiempo real en entornos simulados.",
+      "titulo": "Google Sheets incorpora 'Sheets Canvas' para transformar datos en paneles interactivos",
+      "resumen": "Sheets canvas convierte datos en paneles interactivos, rastreadores de estudio personalizados y más, todo con una simple indicación.",
       "categoria": "AI",
       "fuentes": [
         "Google AI Blog"
       ],
       "urls": [
-        "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/"
+        "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/"
       ],
       "score": 100,
       "tags": [
-        "ia",
-        "medicina",
-        "investigacion"
+        "IA",
+        "productividad",
+        "hojas de cálculo"
       ]
     },
     {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "Argentina sigue siendo cara para producir: casi la mitad de los insumos industriales cuestan menos en el exterior",
-      "resumen": "El 49% de los bienes y servicios analizados tiene precios más bajos fuera del país, cinco puntos más que en la medición anterior.",
-      "categoria": "Argentina",
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Se acerca el evento de Apple con posibles lanzamientos de iPhone 18 Pro y iPhone Ultra",
+      "resumen": "A mediados de agosto, el evento anual del iPhone de Apple está cerca. Se espera la presentación del iPhone 18 Pro, iPhone 18 Pro Max y un nuevo iPhone plegable que se llamaría iPhone Ultra.",
+      "categoria": "Apple",
       "fuentes": [
-        "Ambito"
+        "MacRumors"
       ],
       "urls": [
-        "https://www.ambito.com/economia/argentina-sigue-cara-producir-casi-la-mitad-los-insumos-industriales-cuestan-menos-el-exterior-n6310297"
+        "https://www.macrumors.com/2026/08/13/when-is-iphone-18-pro-iphone-ultra-apple-event/"
       ],
       "score": 100,
       "tags": [
-        "argentina",
-        "economia",
-        "produccion",
-        "costos"
-      ]
-    },
-    {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "titulo": "Usuarios de Claude se quejan de que las nuevas marcas de agua de Anthropic los detectarán haciendo trampa",
-      "resumen": "Algunos usuarios se quejan en redes sociales de que el nuevo sistema de marcas de agua de Anthropic los detectará usando la IA en sus trabajos o clases.",
-      "categoria": "AI",
-      "fuentes": [
-        "TechCrunch AI"
-      ],
-      "urls": [
-        "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/"
-      ],
-      "score": 100,
-      "tags": [
-        "ia",
-        "etica",
-        "privacidad"
+        "Apple",
+        "iPhone",
+        "lanzamientos"
       ]
     },
     {
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "titulo": "Los streamers de Twitch ahora pueden optar por no entrenar la IA de Amazon",
-      "resumen": "Los usuarios de Twitch ahora pueden optar por no permitir que su contenido se use para entrenar los modelos de IA generativa de Amazon.",
+      "titulo": "Suno Studio 2.0 busca parecerse más a una herramienta de producción musical real",
+      "resumen": "Suno lanza Studio 2.0 con mejoras que lo acercan a una estación de trabajo de audio digital, incluyendo soporte MIDI, una característica muy solicitada.",
       "categoria": "AI",
       "fuentes": [
         "The Verge AI"
       ],
       "urls": [
-        "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai/"
+        "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects/"
       ],
       "score": 100,
       "tags": [
-        "ia",
-        "privacidad",
-        "contenido",
-        "amazon"
+        "IA",
+        "música",
+        "herramientas"
       ]
     },
     {
-      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
-      "titulo": "Una descarga falsa de GitHub convierte Safari y Chrome en un ladrón de datos de Keychain",
-      "resumen": "Jamf Threat Labs encontró malware para Mac que roba datos sensibles y lanza una copia controlable de Chrome o Safari del usuario.",
-      "categoria": "Apple",
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "La industria aceitera argentina pide una nueva ley de biocombustibles",
+      "resumen": "Mientras Brasil avanzó con un programa de combustible sustentable, la industria aceitera argentina reclama acelerar una nueva ley para elevar los cortes obligatorios y generar más demanda.",
+      "categoria": "Argentina",
       "fuentes": [
-        "AppleInsider"
+        "Ambito"
       ],
       "urls": [
-        "https://appleinsider.com/articles/26/08/13/fake-github-download-turns-safari-chrome-into-a-keychain-data-stealer?utm_source=rss"
+        "https://www.ambito.com/economia/la-industria-aceitera-reclama-una-nueva-ley-biocombustibles-y-advierte-el-atraso-frente-brasil-n6310453/"
       ],
       "score": 100,
       "tags": [
-        "apple",
-        "seguridad",
-        "malware",
-        "mac"
+        "Argentina",
+        "economía",
+        "biocombustibles"
+      ]
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "titulo": "Inversión de USD 3.000 millones de EE.UU. pone a la minería argentina en el centro de la escena",
+      "resumen": "Estados Unidos destinará fondos a proyectos de minerales críticos, y Argentina podría beneficiarse por su potencial en litio y cobre.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Infobae Economia"
+      ],
+      "urls": [
+        "https://www.infobae.com/economia/2026/08/13/la-inversion-de-usd-3000-millones-de-eeuu-que-vuelve-a-poner-a-la-mineria-argentina-en-el-centro-de-la-escena/"
+      ],
+      "score": 100,
+      "tags": [
+        "Argentina",
+        "inversión",
+        "minería"
       ]
     }
   ],
   "loImportante": [
-    "La IA médica avanza con sistemas como AMIE de Google para consultas en tiempo real.",
-    "En Argentina, el costo de producción sigue siendo alto, con casi la mitad de los insumos industriales más caros que en el exterior.",
-    "La privacidad y el uso de contenido para entrenar IA son temas de debate, con usuarios de Claude y streamers de Twitch expresando preocupaciones.",
-    "Apple enfrenta problemas de seguridad con fraudes en la App Store y malware que afecta a Safari y Chrome en Mac.",
-    "La inflación de julio en Argentina se conocerá hoy, con proyecciones de consultoras sobre el IPC acumulado."
+    "Google Sheets incorpora 'Sheets Canvas' para transformar datos en paneles interactivos con IA, mejorando la visualización y análisis.",
+    "Apple se prepara para su evento anual, donde se esperan novedades como el iPhone 18 Pro y un posible iPhone Ultra plegable.",
+    "La industria aceitera argentina reclama una nueva ley de biocombustibles para no quedarse atrás frente a Brasil.",
+    "Se profundiza la caída del empleo formal en Argentina, con una pérdida de 70.217 trabajadores en mayo.",
+    "Una inversión de USD 3.000 millones de EE.UU. en minerales críticos podría impulsar la minería argentina, especialmente en litio y cobre."
   ],
   "oportunidades": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
       "categoria": "AI",
-      "titulo": "Avances en IA médica con AMIE de Google",
-      "detalle": "El sistema de IA médica AMIE de Google demuestra capacidades de consulta de video en tiempo real en entornos simulados.",
+      "titulo": "Automatización y visualización de datos con IA en Google Sheets",
+      "detalle": "La nueva función 'Sheets canvas' permite crear paneles interactivos y rastreadores personalizados a partir de datos con simples indicaciones, lo que puede optimizar la gestión de información y proyectos.",
       "acciones": [
-        "Monitorear el desarrollo de AMIE para posibles aplicaciones en el sector salud o en la interacción con usuarios."
+        "Explorar las capacidades de 'Sheets canvas' para la gestión de proyectos y datos personales.",
+        "Evaluar cómo esta herramienta puede integrarse en flujos de trabajo de retoque fotográfico o arte con IA para organizar información."
       ]
     },
     {
-      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
-      "categoria": "Marketing",
-      "titulo": "Dove mezcla deportes y estilo en su marketing para el US Open",
-      "detalle": "La marca Dove trabaja con fotógrafos de moda para capturar looks de torneo que no muestren marcas blancas de desodorante.",
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "titulo": "Avances en herramientas de producción musical con IA",
+      "detalle": "Suno Studio 2.0 incorpora soporte MIDI y otras mejoras que lo acercan a una estación de trabajo de audio digital, abriendo nuevas posibilidades para la creación musical asistida por IA.",
       "acciones": [
-        "Analizar la estrategia de marketing de Dove para integrar eventos deportivos con tendencias de estilo y fotografía."
+        "Investigar las nuevas funcionalidades de Suno Studio 2.0 para la creación de bandas sonoras o efectos de audio para proyectos de arte con IA.",
+        "Experimentar con la generación de música y sonido para complementar trabajos visuales."
+      ]
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Investing",
+      "titulo": "Potencial de inversión en minería argentina por inversión de EE.UU.",
+      "detalle": "Una inversión de USD 3.000 millones de EE.UU. en minerales críticos, con foco en litio y cobre, podría generar oportunidades en el sector minero argentino.",
+      "acciones": [
+        "Monitorear el desarrollo de proyectos mineros en Argentina, especialmente los relacionados con litio y cobre.",
+        "Evaluar posibles ETFs o empresas relacionadas con la minería de estos minerales en Argentina que puedan ser accesibles para inversión."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Market",
-      "titulo": "Alto costo de producción en Argentina",
-      "detalle": "Casi la mitad de los insumos industriales en Argentina cuestan menos en el exterior, lo que impacta la competitividad.",
-      "mitigacion": "Evaluar la cadena de suministro y buscar alternativas de insumos para reducir costos de producción."
+      "titulo": "Caída del empleo formal en Argentina",
+      "detalle": "La profundización de la caída del empleo en blanco, con 70.217 trabajadores menos en mayo, indica un deterioro del mercado laboral y una reducción de 2.371 empresas.",
+      "mitigacion": "Mantenerse actualizado sobre las tendencias del mercado laboral y diversificar fuentes de ingresos. Evaluar la estabilidad de los sectores en los que se invierte."
     },
     {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "categoria": "AI",
-      "titulo": "Marcas de agua de Anthropic generan controversia",
-      "detalle": "Usuarios de Claude se quejan de que las nuevas marcas de agua de Anthropic los detectarán usando la IA en sus trabajos o clases, lo que podría afectar la adopción y percepción de la herramienta.",
-      "mitigacion": "Considerar el impacto de las políticas de uso y privacidad en la adopción de herramientas de IA, especialmente en contextos profesionales y educativos."
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Regulatory",
+      "titulo": "Incertidumbre regulatoria en el acceso de criptoempresas al sistema financiero",
+      "detalle": "La Blockchain Association apoya a Custodia en su batalla legal por el acceso a la Reserva Federal, argumentando que la Fed no debería tener discreción para negar el acceso a bancos con licencia estatal.",
+      "mitigacion": "Seguir de cerca las novedades regulatorias en el sector cripto, ya que pueden impactar la estabilidad y accesibilidad de las inversiones en criptomonedas."
     },
     {
-      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
-      "categoria": "Technology",
-      "titulo": "Malware en Mac roba datos de Keychain",
-      "detalle": "Un malware que se descarga como un archivo falso de GitHub puede robar datos sensibles de Keychain y controlar Safari o Chrome en Mac.",
-      "mitigacion": "Reforzar las medidas de seguridad, como la verificación de fuentes de descarga y el uso de software antivirus, para proteger los datos de acceso."
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Market",
+      "titulo": "Proyecciones ambiciosas para el precio de Bitcoin",
+      "detalle": "Un ratio clave sugiere que las previsiones de un precio de Bitcoin de USD 1 millón podrían ser demasiado ambiciosas, debido a que los altos rendimientos de los bonos del Tesoro de EE.UU. a largo plazo hacen que los activos sin rendimiento como Bitcoin sean menos atractivos.",
+      "mitigacion": "Revisar las estrategias de inversión en criptomonedas y considerar la diversificación. No basar decisiones de inversión únicamente en proyecciones de precios muy optimistas."
     }
   ],
-  "conexiones": [],
+  "conexiones": [
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Argentina y Brasil en la carrera de los biocombustibles",
+      "historias": [
+        "La industria aceitera argentina reclama una nueva ley de biocombustibles y advierte por el atraso frente a Brasil.",
+        "Los exportadores dicen que Argentina se quedó 'en el banco de suplentes' por una ley, mientras Brasil avanza en combustibles sostenibles de aviación."
+      ],
+      "conclusion": "Ambas noticias resaltan la urgencia de Argentina por actualizar su marco legal en biocombustibles para competir con Brasil, que ya está reglamentando programas para impulsar combustibles sustentables y busca liderar la región."
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Expectativas de Apple: iPhone 18 Pro, iPhone Ultra y MacBook Neo 2",
+      "historias": [
+        "Se acerca el evento de Apple con posibles lanzamientos de iPhone 18 Pro y iPhone Ultra.",
+        "El MacBook Neo 2 podría recibir la mejora más importante: más RAM, según rumores."
+      ],
+      "conclusion": "Las noticias indican que Apple está preparando importantes actualizaciones en sus líneas de productos, desde los próximos iPhones con un posible modelo Ultra plegable, hasta mejoras clave en la memoria RAM de la MacBook Neo 2, generando expectativa en el ecosistema Apple."
+    }
+  ],
   "noticias": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
       "categoria": "AI",
       "fuente": "Google AI Blog",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-      "tituloOriginal": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-      "tituloLimpio": "Google presenta AMIE, un sistema de IA médica para consultas de video en tiempo real",
-      "resumen": "Google presenta AMIE para consultas clínicas de video en tiempo real en entornos simulados.",
-      "porQueImporta": "Este avance muestra el potencial de la IA en la medicina, especialmente en la interacción con pacientes, lo cual podría transformar la atención médica y la accesibilidad a servicios de salud.",
-      "publicadoEn": "2026-08-11T17:00:00.000Z",
-      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIME_SIZZLE_THUMBNAIL.Aug10.max-600x600.format-webp.webp",
+      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+      "tituloOriginal": "Bring your spreadsheet data to life with Sheets canvas",
+      "tituloLimpio": "Google Sheets incorpora 'Sheets Canvas' para transformar datos en paneles interactivos",
+      "resumen": "Sheets canvas convierte datos en paneles interactivos, rastreadores de estudio personalizados y más, todo con una simple indicación.",
+      "porQueImporta": "Esta herramienta de IA en Google Sheets puede mejorar la productividad y la visualización de datos, útil para organizar proyectos y finanzas personales.",
+      "publicadoEn": "2026-08-13T16:45:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "ia",
-        "medicina",
-        "investigacion"
+        "IA",
+        "productividad",
+        "hojas de cálculo"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/08/13/when-is-iphone-18-pro-iphone-ultra-apple-event/",
+      "tituloOriginal": "iPhone 18 Pro and iPhone Ultra: When is the Next Apple Event?",
+      "tituloLimpio": "Se acerca el evento de Apple con posibles lanzamientos de iPhone 18 Pro y iPhone Ultra",
+      "resumen": "A mediados de agosto, el evento anual del iPhone de Apple está cerca. Se espera la presentación del iPhone 18 Pro, iPhone 18 Pro Max y un nuevo iPhone plegable que se llamaría iPhone Ultra.",
+      "porQueImporta": "Es relevante para los interesados en Apple, ya que anticipa los próximos lanzamientos de productos clave y posibles innovaciones como un iPhone plegable.",
+      "publicadoEn": "2026-08-13T14:11:35.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "iPhone",
+        "lanzamientos"
       ],
       "tambienVistoEn": []
     },
@@ -174,20 +221,38 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/argentina-sigue-cara-producir-casi-la-mitad-los-insumos-industriales-cuestan-menos-el-exterior-n6310297",
-      "tituloOriginal": "Argentina sigue cara para producir: casi la mitad de los insumos industriales cuestan menos en el exterior",
-      "tituloLimpio": "Argentina sigue siendo cara para producir: casi la mitad de los insumos industriales cuestan menos en el exterior",
-      "resumen": "El 49% de los bienes y servicios analizados tiene precios más bajos fuera del país, cinco puntos más que en la medición anterior.",
-      "porQueImporta": "Esta noticia es clave para entender la competitividad de la industria argentina y el impacto en los costos de producción, algo relevante para cualquier negocio local.",
-      "publicadoEn": "2026-08-13T12:30:00.000Z",
-      "imagen": "https://media.ambito.com/p/ed6c359b5c4c4da912cd0fa981643ffb/adjuntos/239/imagenes/041/662/0041662044/1200x675/smart/industria-dolar.png",
-      "globalScore": 100,
+      "url": "https://www.ambito.com/economia/la-industria-aceitera-reclama-una-nueva-ley-biocombustibles-y-advierte-el-atraso-frente-brasil-n6310453",
+      "tituloOriginal": "La industria aceitera reclama una nueva ley de biocombustibles y advierte por el atraso frente a Brasil",
+      "tituloLimpio": "La industria aceitera argentina pide una nueva ley de biocombustibles",
+      "resumen": "Mientras Brasil avanzó con un programa de combustible sustentable, la industria aceitera argentina reclama acelerar una nueva ley para elevar los cortes obligatorios y generar más demanda.",
+      "porQueImporta": "Impacta en la economía argentina y en el sector agroindustrial, mostrando la necesidad de políticas que impulsen la producción y la inversión local.",
+      "publicadoEn": "2026-08-13T15:51:00.000Z",
+      "imagen": "https://media.ambito.com/p/2f1c25a31c7e978a06d2657ab651d772/adjuntos/239/imagenes/043/580/0043580894/1200x675/2884x1383:2904x1403/biocombustibles.jpg",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "economia",
-        "produccion",
-        "costos"
+        "Argentina",
+        "economía",
+        "biocombustibles"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/sociable-pinterest-partners-with-zillow-for-ad-targeting/827812/",
+      "tituloOriginal": "Sociable: Pinterest partners with Zillow for ad targeting",
+      "tituloLimpio": "Pinterest se asocia con Zillow para la segmentación de anuncios",
+      "resumen": "Mediante el acuerdo, la plataforma inmobiliaria puede dirigir anuncios a usuarios de la aplicación basándose en segmentos de consumidores especializados, incluyendo reformadores y compradores de viviendas.",
+      "porQueImporta": "Muestra cómo las plataformas utilizan datos para una segmentación de marketing más precisa, relevante para estrategias de marketing digital y publicidad.",
+      "publicadoEn": "2026-08-13T15:51:00.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "publicidad",
+        "segmentación"
       ],
       "tambienVistoEn": []
     },
@@ -195,18 +260,18 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-      "tituloOriginal": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-      "tituloLimpio": "Usuarios de Claude se quejan de que las nuevas marcas de agua de Anthropic los detectarán haciendo trampa",
-      "resumen": "Algunos usuarios se quejan en redes sociales de que el nuevo sistema de marcas de agua de Anthropic los detectará usando la IA en sus trabajos o clases.",
-      "porQueImporta": "Esto plantea un debate importante sobre la ética y la privacidad en el uso de la IA, especialmente en contextos profesionales y educativos, y cómo las empresas de IA manejan la autoría y el uso de sus modelos.",
-      "publicadoEn": "2026-08-12T22:26:37.000Z",
+      "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+      "tituloOriginal": "OpenAI hires new CRO as executive shake-up continues",
+      "tituloLimpio": "OpenAI contrata a un nuevo CRO mientras continúa la reestructuración ejecutiva",
+      "resumen": "Dali Rajic asumirá el cargo de principal vendedor de OpenAI.",
+      "porQueImporta": "Indica movimientos estratégicos en una de las empresas líderes en IA, lo que puede influir en su dirección comercial y desarrollo de productos.",
+      "publicadoEn": "2026-08-13T17:07:13.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "ia",
-        "etica",
-        "privacidad"
+        "IA",
+        "negocios",
+        "OpenAI"
       ],
       "tambienVistoEn": []
     },
@@ -214,38 +279,18 @@
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
       "fuente": "The Verge AI",
-      "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-      "tituloOriginal": "Twitch streamers can now opt out from training Amazon’s AI",
-      "tituloLimpio": "Los streamers de Twitch ahora pueden optar por no entrenar la IA de Amazon",
-      "resumen": "Los usuarios de Twitch ahora pueden optar por no permitir que su contenido se use para entrenar los modelos de IA generativa de Amazon.",
-      "porQueImporta": "Esta medida de Amazon es relevante para la privacidad y el control de los creadores de contenido sobre sus obras en la era de la IA, estableciendo un precedente para otras plataformas.",
-      "publicadoEn": "2026-08-12T17:29:10.000Z",
-      "globalScore": 98,
-      "personalScore": 100,
-      "tags": [
-        "ia",
-        "privacidad",
-        "contenido",
-        "amazon"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "categoria": "AI",
-      "fuente": "MIT Technology Review AI",
-      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-      "tituloOriginal": "How kids feel about AI, in their own words",
-      "tituloLimpio": "Cómo se sienten los niños sobre la IA, en sus propias palabras",
-      "resumen": "Cuando nos propusimos hablar con niños sobre inteligencia artificial, pensamos que sabíamos lo que escucharíamos.",
-      "porQueImporta": "Ofrece una perspectiva única sobre la percepción de la IA por parte de las nuevas generaciones, lo cual es crucial para entender su futuro impacto social y educativo.",
-      "publicadoEn": "2026-08-13T09:00:00.000Z",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+      "tituloOriginal": "Suno is trying to look more like a real music production tool",
+      "tituloLimpio": "Suno Studio 2.0 busca parecerse más a una herramienta de producción musical real",
+      "resumen": "Suno lanza Studio 2.0 con mejoras que lo acercan a una estación de trabajo de audio digital, incluyendo soporte MIDI, una característica muy solicitada.",
+      "porQueImporta": "Es relevante para quienes exploran la IA en la creación artística, ofreciendo herramientas más avanzadas para la producción musical y de sonido.",
+      "publicadoEn": "2026-08-13T16:00:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "ia",
-        "educacion",
-        "sociedad"
+        "IA",
+        "música",
+        "herramientas"
       ],
       "tambienVistoEn": []
     },
@@ -253,60 +298,18 @@
       "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Apple",
       "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/13/obvious-app-store-ratings-fraud-going-undetected-by-apple-says-stopthemadness-developer/",
-      "tituloOriginal": "‘Obvious’ App Store ratings fraud going undetected by Apple, says StopTheMadness developer",
-      "tituloLimpio": "Fraude 'obvio' en las calificaciones de la App Store pasa desapercibido para Apple, dice desarrollador",
-      "resumen": "Jeff Johnson, desarrollador de la extensión StopTheMadness, dice que el fraude 'obvio' en las calificaciones de la App Store pasa desapercibido para Apple.",
-      "porQueImporta": "Esto resalta un problema de confianza y calidad en la App Store, afectando tanto a desarrolladores legítimos como a usuarios que confían en las calificaciones para elegir aplicaciones.",
-      "publicadoEn": "2026-08-13T11:17:45.000Z",
-      "globalScore": 100,
+      "url": "https://9to5mac.com/2026/08/13/macbook-neo-2-will-get-the-big-upgrade-it-needs-most-per-rumors/",
+      "tituloOriginal": "MacBook Neo 2 will get the big upgrade it needs most, per rumors",
+      "tituloLimpio": "El MacBook Neo 2 podría recibir una importante mejora de RAM, según rumores",
+      "resumen": "El MacBook Neo es reciente, pero su sucesor, el MacBook Neo 2, llegaría el próximo año con la mejora clave que más necesita: más RAM.",
+      "porQueImporta": "Interesa a los usuarios de Apple que buscan mejoras en rendimiento y especificaciones de hardware, especialmente para tareas exigentes como el retoque fotográfico o el arte con IA.",
+      "publicadoEn": "2026-08-13T17:12:58.000Z",
+      "globalScore": 96,
       "personalScore": 100,
       "tags": [
-        "apple",
-        "app store",
-        "fraude",
-        "desarrollo"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
-      "categoria": "Apple",
-      "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/08/13/fake-github-download-turns-safari-chrome-into-a-keychain-data-stealer?utm_source=rss",
-      "tituloOriginal": "Fake GitHub download turns Safari & Chrome into a Keychain data stealer",
-      "tituloLimpio": "Una descarga falsa de GitHub convierte Safari y Chrome en un ladrón de datos de Keychain",
-      "resumen": "Jamf Threat Labs encontró malware para Mac que roba datos sensibles y lanza una copia controlable de Chrome o Safari del usuario.",
-      "porQueImporta": "Es una alerta importante sobre la seguridad en macOS y la necesidad de precaución al descargar archivos, ya que este tipo de malware puede comprometer información personal y financiera.",
-      "publicadoEn": "2026-08-13T13:02:08.000Z",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "apple",
-        "seguridad",
-        "malware",
-        "mac"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
-      "categoria": "Finance",
-      "fuente": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-blunt-message-174700491.html",
-      "tituloOriginal": "Bank of America sends blunt message to Nvidia stock investors",
-      "tituloLimpio": "Bank of America envía un mensaje directo a los inversores de acciones de Nvidia",
-      "resumen": "",
-      "porQueImporta": "Aunque el resumen es escueto, un mensaje directo de un banco importante sobre una acción como Nvidia (clave en el sector de IA) es relevante para inversores que siguen el mercado de tecnología.",
-      "publicadoEn": "2026-08-12T17:47:00.000Z",
-      "imagen": "https://media.zenfs.com/en/thestreet_881/585c93261da2ee7be75429fd48a4a6d6.jpg",
-      "globalScore": 92,
-      "personalScore": 100,
-      "tags": [
-        "finanzas",
-        "inversion",
-        "nvidia",
-        "mercado"
+        "Apple",
+        "MacBook",
+        "hardware"
       ],
       "tambienVistoEn": []
     },
@@ -314,20 +317,59 @@
       "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
       "categoria": "Finance",
       "fuente": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-cisco-cerebras-earnings/?src=A00220&yptr=yahoo",
-      "tituloOriginal": "Stock Market Today: Dow Rises On Surprise Inflation Data; Cisco, AI Name Cerebras Plunge On Earnings (Live Coverage)",
-      "tituloLimpio": "Mercado de valores hoy: Dow sube por datos de inflación sorpresa; Cisco, Cerebras caen por ganancias",
-      "resumen": "",
-      "porQueImporta": "Esta noticia ofrece un panorama del mercado bursátil, con movimientos influenciados por datos de inflación y resultados de empresas tecnológicas, crucial para decisiones de inversión.",
-      "publicadoEn": "2026-08-13T12:45:25.000Z",
-      "imagen": "https://media.zenfs.com/en/ibd.com/87c39a949f97ed3e7beb2b2a786c1d3d.jpg",
-      "globalScore": 98,
+      "url": "https://www.investors.com/news/sec-cryptocurrency-rules-innovation-trading-clarity-act-senate-delay-occ-national-banks-bitcoin/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "SEC May Advance Crypto Rules, 24/7 Trading Without Clarity Act. OCC Paves Way For Crypto Banks.",
+      "tituloLimpio": "La SEC podría avanzar con reglas cripto y trading 24/7 sin la Ley de Claridad; la OCC abre camino a bancos cripto",
+      "resumen": "No se proporcionó resumen en el material original.",
+      "porQueImporta": "Indica posibles avances regulatorios en el mercado de criptomonedas, lo que podría impactar la inversión y el funcionamiento de los activos digitales.",
+      "publicadoEn": "2026-08-13T17:17:04.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/ac0eb1020df2b2e86b5eccf9fbadf9d2.jpg",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "finanzas",
-        "mercado",
-        "inversion",
-        "inflacion"
+        "Finanzas",
+        "criptomonedas",
+        "regulación"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/13/forecasts-for-usd1-million-bitcoin-price-likely-look-too-ambitious-key-ratio-suggests",
+      "tituloOriginal": "Forecasts for $1 million bitcoin price likely look too ambitious, key ratio suggests",
+      "tituloLimpio": "Pronósticos de Bitcoin a USD 1 millón parecen ambiciosos, sugiere un ratio clave",
+      "resumen": "La tesis es que los altos rendimientos de los bonos del Tesoro de EE.UU. a largo plazo hacen que los activos sin rendimiento como Bitcoin sean menos atractivos.",
+      "porQueImporta": "Ofrece una perspectiva crítica sobre las proyecciones de precio de Bitcoin, relevante para quienes invierten en criptomonedas y buscan análisis fundamentados.",
+      "publicadoEn": "2026-08-13T17:43:25.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/acf831401ea851c7551eb13183b3f53d9be886a8-7146x4766.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "Bitcoin",
+        "inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/blockchain-association-backs-custodia-in-supreme-court-fight-over-fed-master-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Crypto group backs Custodia in Supreme Court battle over Fed access",
+      "tituloLimpio": "Grupo cripto apoya a Custodia en batalla judicial por acceso a la Reserva Federal",
+      "resumen": "La Blockchain Association argumenta que la Fed no debería tener amplia discreción para negar a los bancos con licencia estatal elegibles el acceso directo a su sistema de pagos.",
+      "porQueImporta": "Es importante para el futuro de la integración de las criptomonedas en el sistema financiero tradicional y la regulación bancaria.",
+      "publicadoEn": "2026-08-13T17:36:09.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-us-crypto-reserve-asset-bill-explained.png",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "criptomonedas",
+        "regulación"
       ],
       "tambienVistoEn": []
     },
@@ -335,40 +377,19 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/dolar-hoy-dolar-blue-vivo-cotiza-oficial-precio-paralelo-jueves-13-agosto-minuto-minuto_0_OTRKqzQs4G.html",
-      "tituloOriginal": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este jueves 13 de agosto, minuto a minuto",
-      "tituloLimpio": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este jueves 13 de agosto",
-      "resumen": "Seguí los cambios de las cotizaciones del dólar este jueves 13 de agosto, minuto a minuto.",
-      "porQueImporta": "La cotización del dólar es un indicador económico fundamental en Argentina, impactando directamente en la economía personal y empresarial.",
-      "publicadoEn": "2026-08-13T10:51:07.000Z",
-      "imagen": "https://www.clarin.com/img/2023/08/15/wcKpiNTzm_1200x630__1.jpg",
-      "globalScore": 94,
+      "url": "https://www.clarin.com/economia/profundiza-caida-empleo-blanco-mayo-2265-personas-dia-perdieron-trabajo_0_jzpPtTTM4j.html",
+      "tituloOriginal": "Se profundiza la caída del empleo en blanco: en mayo, 2.265 personas por día perdieron su trabajo",
+      "tituloLimpio": "Se profundiza la caída del empleo formal en Argentina: 70.217 trabajadores menos en mayo",
+      "resumen": "En total, ese mes hubo 70.217 trabajadores menos que en abril. Se registró una reducción de 2.371 empresas.",
+      "porQueImporta": "Refleja la situación económica actual de Argentina y el impacto en el mercado laboral, relevante para entender el contexto local.",
+      "publicadoEn": "2026-08-13T16:21:41.000Z",
+      "imagen": "https://www.clarin.com/img/2016/06/12/r1bvq8htVe_1200x630.jpg",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "economia",
-        "dolar",
-        "finanzas"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
-      "categoria": "Argentina",
-      "fuente": "Clarin Politica",
-      "url": "https://www.clarin.com/politica/javier-milei-medidas-vivo-referentes-lla-pro-reunen-hoy-casa-rosada-tratar-avanzar-acuerdos-elecciones-2027_0_5ie3mPtIum.html",
-      "tituloOriginal": "Javier Milei y sus medidas, EN VIVO: referentes de LLA y el PRO se reúnen hoy en Casa Rosada para tratar de avanzar en acuerdos para las elecciones 2027",
-      "tituloLimpio": "Javier Milei y sus medidas, EN VIVO: referentes de LLA y el PRO se reúnen hoy en Casa Rosada para avanzar en acuerdos para las elecciones 2027",
-      "resumen": "La cumbre entre Diego Santilli, \"Lule\" Menem, Cristian Ritondo y Fernando de Andreis será este jueves a partir de las 11.",
-      "porQueImporta": "Las reuniones políticas para futuras elecciones son relevantes para entender el panorama político y las posibles direcciones económicas y sociales del país.",
-      "publicadoEn": "2026-08-13T12:08:50.000Z",
-      "imagen": "https://www.clarin.com/img/2026/08/13/9DYkrZoOA_1200x630__1.jpg",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "argentina",
-        "politica",
-        "elecciones"
+        "Argentina",
+        "economía",
+        "empleo"
       ],
       "tambienVistoEn": []
     },
@@ -376,20 +397,39 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/08/13/polemica-en-malvinas-por-un-megaproyecto-para-instalar-una-salmonera-los-islenos-piden-convocar-a-un-referendum/",
-      "tituloOriginal": "Polémica en Malvinas por un megaproyecto para instalar una salmonera: los isleños piden convocar a un referéndum",
-      "tituloLimpio": "Polémica en Malvinas por un megaproyecto para instalar una salmonera: los isleños piden convocar a un referéndum",
-      "resumen": "Los 3.500 habitantes de las islas están divididos sobre el emprendimiento, que traería inversión y empleo, pero los críticos afirman que el costo ambiental sería demasiado alto.",
-      "porQueImporta": "Esta noticia es relevante por su impacto ambiental, económico y social en un territorio de interés para Argentina, mostrando un conflicto entre desarrollo e impacto ecológico.",
-      "publicadoEn": "2026-08-13T13:14:55.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/7JLD75YCDRCWTO6IJPJAMU2M4A.jpg?auth=62fc96174ec6154397ecd0030dc4b1d20d961b5399e9e4c8baa51b0ab580c81e&smart=true&width=3000&height=2000",
-      "globalScore": 94,
+      "url": "https://www.infobae.com/economia/2026/08/13/la-inversion-de-usd-3000-millones-de-eeuu-que-vuelve-a-poner-a-la-mineria-argentina-en-el-centro-de-la-escena/",
+      "tituloOriginal": "La inversión de USD 3.000 millones de EEUU que vuelve a poner a la minería argentina en el centro de la escena",
+      "tituloLimpio": "Inversión de USD 3.000 millones de EE.UU. pone a la minería argentina en el centro de la escena",
+      "resumen": "Estados Unidos destinará fondos a proyectos de minerales críticos, y Argentina podría beneficiarse por su potencial en litio y cobre.",
+      "porQueImporta": "Representa una oportunidad de inversión y desarrollo económico para Argentina, especialmente en sectores estratégicos como la minería.",
+      "publicadoEn": "2026-08-13T17:50:50.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/DI7RRVQDY5DMZEKGWPDEXIPAPE.jpg?auth=48e0fd3466576ad46786c5ed33492d4ddd2f73964042a7fd4c994a898cc00640&smart=true&width=4608&height=3072",
+      "globalScore": 90,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "economia",
-        "medio ambiente",
-        "malvinas"
+        "Argentina",
+        "inversión",
+        "minería"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/08/13/un-cortometraje-que-recrea-con-ia-el-encuentro-entre-san-martin-y-sarmiento-reunio-a-empresarios-y-dirigentes-de-todas-las-fuerzas-politicas/",
+      "tituloOriginal": "Un cortometraje que recrea con IA el encuentro entre San Martín y Sarmiento reunió a empresarios y dirigentes de todas las fuerzas políticas",
+      "tituloLimpio": "Cortometraje con IA recrea encuentro entre San Martín y Sarmiento, reuniendo a empresarios y políticos",
+      "resumen": "“El Libertador” es la primera producción de una iniciativa de Infobae para acercar la historia argentina a las nuevas generaciones. Estuvieron presentes Mauricio Macri, “Wado” de Pedro, Jorge Brito y los gobernadores Rogelio Frigerio, Ignacio Torres y Jorge Macri, entre otros.",
+      "porQueImporta": "Destaca el uso de la IA en la producción cultural y educativa en Argentina, y su capacidad para generar interés en la historia.",
+      "publicadoEn": "2026-08-13T17:50:51.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/JGTQUBO6ONF3NFHKWDQZHFJVD4.jpg?auth=5964509afb00dd0decb465bf59d470e8b36b4174a25e3ecc48c853957c76b471&smart=true&width=5640&height=3760",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "IA",
+        "cultura"
       ],
       "tambienVistoEn": []
     },
@@ -397,45 +437,25 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/inflacion-de-julio-cual-fue-el-ipc-acumulado-y-que-proyectan-las-consultoras-para-este-ano-nid13082026/",
-      "tituloOriginal": "Inflación de julio: cuál fue el IPC acumulado y qué proyectan las consultoras para este año",
-      "tituloLimpio": "Inflación de julio: cuál fue el IPC acumulado y qué proyectan las consultoras para este año",
-      "resumen": "La cifra se conocerá esta tarde; en junio, el alza fue del 1,9%, con una variación interanual del 33,5% durante todo 2025.",
-      "porQueImporta": "La inflación es un factor crítico en la economía argentina, afectando el poder adquisitivo y las decisiones de inversión. Conocer las proyecciones es esencial para la planificación financiera.",
-      "publicadoEn": "2026-08-13T12:57:51.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/LCG2JPMRRVBTDCQZVVPLA5AVOQ.jpg?auth=a1b53fa45064a55505fbc28e3d00636eda08f72dc5f7a4da3b2deea802cbc20b&smart=true&width=2000&height=1333",
-      "globalScore": 98,
+      "url": "https://www.lanacion.com.ar/economia/campo/estilo-sovietico-los-exportadores-dicen-que-la-argentina-se-quedo-por-una-ley-en-el-banco-de-nid13082026/",
+      "tituloOriginal": "“Estilo soviético”: los exportadores dicen que la Argentina se quedó, por una ley, “en el banco de suplentes” mientras Brasil acaba de tener un importante avance",
+      "tituloLimpio": "Exportadores dicen que Argentina se quedó 'en el banco de suplentes' en biocombustibles frente a Brasil",
+      "resumen": "El presidente Lula da Silva reglamentó el marco para desarrollar combustibles sostenibles de aviación (SAF) y proyecta convertirse en líder regional; en Ciara-CEC reclamaron una nueva ley para promover bioenergías, atraer inversiones y agregar valor a las materias primas agrícolas.",
+      "porQueImporta": "Subraya la necesidad de Argentina de actualizar su legislación para fomentar la inversión y el desarrollo en el sector de bioenergías, clave para la economía y el medio ambiente.",
+      "publicadoEn": "2026-08-13T17:31:53.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/4ZFVRVBKY5CRZMW4L4MWAVU27Y.jpg?auth=52472feb257e003a41fb9a2349c57e06e19d8d3fb75badb5f45bc9cf01f4e24a&smart=true&width=1056&height=792",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "economia",
-        "inflacion",
-        "finanzas"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
-      "categoria": "Marketing",
-      "fuente": "Adweek",
-      "url": "https://www.adweek.com/convergent-tv/the-premier-league-looks-to-score-world-cup-audiences-with-us-campaign/",
-      "tituloOriginal": "The Premier League Looks to Score World Cup Audiences With US Campaign",
-      "tituloLimpio": "La Premier League busca atraer audiencias de la Copa del Mundo con campaña en EE.UU.",
-      "resumen": "La Premier League quiere que los fanáticos del fútbol americano sepan 'It's All Here'.",
-      "porQueImporta": "Muestra una estrategia de marketing para expandir la audiencia de un deporte en un mercado clave, lo cual es interesante para entender cómo se construyen marcas y se captan públicos a nivel global.",
-      "publicadoEn": "2026-08-13T09:00:00.000Z",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "marketing",
-        "deportes",
-        "audiencia"
+        "Argentina",
+        "economía",
+        "biocombustibles"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-08-13T13:17:34.789Z"
+    "generadoEn": "2026-08-13T17:56:22.414Z"
   }
 }
