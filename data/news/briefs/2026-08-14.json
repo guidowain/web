@@ -1,13 +1,13 @@
 {
   "fecha": "2026-08-14",
-  "generadoEn": "2026-08-14T13:11:45.545Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "Hoy, Google presentó 'Sheets Canvas' para transformar datos en dashboards interactivos con IA. Apple, por su parte, desarrolló un modelo de IA propio para China con ayuda de Alibaba, marcando un cambio en su estrategia. En Argentina, el Gobierno de Milei enfrenta desafíos con el mercado interno y la inflación, mientras que Estados Unidos identificó al país como un \"nodo de riesgo\" en una red de triangulación ilegal de mercancías chinas. También se destaca la imposición de aranceles del 100% a drones importados por Donald Trump.",
+  "generadoEn": "2026-08-14T17:52:29.151Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Hoy, las noticias giran en torno a la innovación de Google con Sheets canvas y la posibilidad de eliminar marcas de agua en sus IA. Apple, por su parte, explora el futuro del Apple Watch y la venta de publicidad en Apple Maps, además de haber entrenado un modelo de IA para China con Alibaba. En Argentina, la UCA advierte sobre la incertidumbre económica y se lanzó una nueva marca de autos híbridos. También hay novedades sobre el dólar y movimientos políticos.",
   "radarPersonal": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "titulo": "Google Sheets Canvas: Transformá tus datos en dashboards interactivos con IA",
-      "resumen": "Sheets Canvas convierte datos en dashboards interactivos, rastreadores de estudio personalizados, planos de asientos y más, todo con una simple indicación.",
+      "titulo": "Google Sheets canvas transforma datos en paneles interactivos",
+      "resumen": "Sheets canvas convierte datos en paneles interactivos, rastreadores de estudio personalizados, planos de asientos y más, todo con una simple indicación.",
       "categoria": "AI",
       "fuentes": [
         "Google AI Blog"
@@ -17,25 +17,57 @@
       ],
       "score": 100,
       "tags": [
-        "Google",
-        "Sheets",
-        "Canvas",
+        "hojas de cálculo",
+        "automatización",
+        "productividad"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "Google permitirá eliminar la marca de agua visible de sus generaciones de IA",
+      "resumen": "Desactivar esta configuración no afectará los puntos de referencia invisibles utilizados para identificar un archivo generado por IA.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/"
+      ],
+      "score": 100,
+      "tags": [
         "IA",
-        "automatización"
+        "edición",
+        "privacidad"
       ]
     },
     {
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "Apple entrenó su propio modelo de IA para el mercado chino con ayuda de Alibaba",
-      "resumen": "Apple entrenó su propio modelo de lenguaje grande para el mercado chino, en lugar de depender de un modelo de terceros para sus funciones de Apple Intelligence en el país. El LLM se desarrolló con la ayuda de Alibaba.",
+      "titulo": "El futuro del Apple Watch: ¿hacia dónde va?",
+      "resumen": "En el episodio de esta semana de The MacRumors Show, se discute cómo el Apple Watch parece dirigirse a una de sus generaciones menos trascendentales, pero los rumores describen el replanteamiento más radical en la historia del producto para más adelante.",
       "categoria": "Apple",
       "fuentes": [
-        "MacRumors",
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/08/14/the-macrumors-show-where-does-the-apple-watch-go-next/"
+      ],
+      "score": 100,
+      "tags": [
+        "Apple Watch",
+        "innovación",
+        "rumores"
+      ]
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "Apple entrenó su propio modelo de IA para China con ayuda de Alibaba",
+      "resumen": "Apple habría entrenado un modelo de IA personalizado para el mercado chino junto con el gigante tecnológico nacional Alibaba, una asociación transfronteriza poco común que atraviesa las crecientes tensiones entre Beijing y Washington.",
+      "categoria": "AI",
+      "fuentes": [
         "The Verge AI"
       ],
       "urls": [
-        "https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china/",
-        "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba"
+        "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba/"
       ],
       "score": 100,
       "tags": [
@@ -46,89 +78,96 @@
       ]
     },
     {
-      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
-      "titulo": "Goldman Sachs vuelve a apostar por los ETFs de opciones con el acuerdo de NEOS",
-      "resumen": "Goldman Sachs vuelve a apostar por los ETFs de opciones con el acuerdo de NEOS.",
-      "categoria": "Finance",
-      "fuentes": [
-        "Yahoo Finance"
-      ],
-      "urls": [
-        "https://finance.yahoo.com/markets/options/articles/goldman-sachs-bets-again-options-011827707.html"
-      ],
-      "score": 100,
-      "tags": [
-        "ETFs",
-        "inversión",
-        "Goldman Sachs"
-      ]
-    },
-    {
-      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
-      "titulo": "Pinterest se asocia con Zillow para la segmentación de anuncios",
-      "resumen": "A través del acuerdo, la plataforma inmobiliaria puede dirigir anuncios a usuarios de la aplicación basándose en segmentos de consumidores especializados, incluyendo compradores de viviendas y aquellos que buscan arreglar propiedades.",
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "titulo": "Empresas de EE.UU. y Canadá ya pueden comprar anuncios en Apple Maps",
+      "resumen": "Apple ha comenzado a vender anuncios en Apple Maps y está ofreciendo incentivos a los anunciantes para que empiecen. Los anuncios aparecerán en los resultados de búsqueda de Apple Maps a partir del 14 de abril de 2026.",
       "categoria": "Marketing",
       "fuentes": [
-        "Marketing Dive"
+        "AppleInsider"
       ],
       "urls": [
-        "https://www.marketingdive.com/news/sociable-pinterest-partners-with-zillow-for-ad-targeting/827812/"
+        "https://appleinsider.com/articles/26/08/14/its-begun---us-and-canadian-firms-can-now-buy-ads-on-apple-maps?utm_source=rss"
       ],
       "score": 100,
       "tags": [
-        "Marketing",
-        "Pinterest",
+        "Apple Maps",
         "publicidad",
-        "segmentación"
+        "marketing digital"
       ]
     }
   ],
   "loImportante": [
-    "Google lanzó 'Sheets Canvas', una herramienta con IA para crear dashboards interactivos desde hojas de cálculo, útil para la automatización y visualización de datos.",
-    "Apple desarrolló un modelo de IA propio para China con Alibaba, lo que indica una estrategia de adaptación local para sus funciones de inteligencia artificial.",
-    "Estados Unidos identificó a Argentina como un \"nodo de riesgo\" en una red de triangulación ilegal de mercancías chinas, lo que podría tener implicaciones comerciales.",
-    "Donald Trump impuso aranceles del 100% a drones importados por seguridad nacional, una medida que podría afectar la industria global de drones.",
-    "El Gobierno argentino se enfoca en el mercado interno, pero el consumo y la inflación de julio presentan desafíos para la reactivación económica."
+    "Google está potenciando sus herramientas de productividad con IA, como Sheets canvas, que permite crear paneles interactivos fácilmente.",
+    "Apple está explorando el futuro de su Apple Watch con posibles rediseños radicales y ya permite la compra de publicidad en Apple Maps en EE.UU. y Canadá.",
+    "La UCA advierte sobre la alta incertidumbre económica en Argentina y las limitaciones de la asistencia para la pobreza infantil.",
+    "Un exministro de Economía advierte sobre los riesgos de los créditos en dólares para empresas en Argentina, recordando la 'pesificación asimétrica'.",
+    "Se lanzó en Argentina una nueva marca de autos híbridos enchufables con ADN europeo, fruto de la unión entre Geely y Volvo."
   ],
   "oportunidades": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
       "categoria": "Automation",
-      "titulo": "Automatización de dashboards con IA en Google Sheets",
-      "detalle": "Sheets Canvas permite transformar datos en dashboards interactivos con simples indicaciones, lo que puede simplificar la creación de informes y visualizaciones para proyectos de retoque o arte con IA.",
+      "titulo": "Automatización de datos con Sheets canvas de Google",
+      "detalle": "La nueva función Sheets canvas permite transformar datos de hojas de cálculo en paneles interactivos y herramientas personalizadas con prompts simples, lo que puede agilizar procesos de análisis y presentación.",
       "acciones": [
-        "Explorar Sheets Canvas para automatizar la visualización de datos de proyectos.",
-        "Evaluar su aplicación para el seguimiento de métricas de marketing o inversión."
+        "Explorar las capacidades de Sheets canvas para automatizar informes y visualizaciones de datos.",
+        "Considerar su aplicación en la gestión de proyectos o seguimiento de inversiones."
       ]
     },
     {
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
-      "titulo": "Nuevo modelo de IA de Writer para reducir costos de tokens",
-      "detalle": "Writer presentó un nuevo modelo de IA y un sistema mejorado para contener los costos de tokens, ofreciendo capacidades listas para implementar a un precio mucho más bajo.",
+      "titulo": "Mayor control sobre las imágenes generadas por IA de Google",
+      "detalle": "Google ahora permite a los usuarios eliminar la marca de agua visible de sus generaciones de IA, lo que ofrece más flexibilidad para integrar estas imágenes en proyectos artísticos o de marketing sin elementos distractores.",
       "acciones": [
-        "Investigar el nuevo modelo de Writer para optimizar costos en proyectos de IA generativa.",
-        "Considerar su uso para tareas de texto o generación de contenido."
+        "Evaluar el uso de imágenes generadas por IA de Google para proyectos de retoque fotográfico y arte con IA, aprovechando la opción de eliminar marcas de agua visibles."
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "Estrategias de storytelling de marca con mascotas",
+      "detalle": "Crocs lanzó una nueva mascota, Niles, para enriquecer su narrativa de marca a largo plazo, interactuando con empleados reales en una serie social. Esto demuestra el potencial de las mascotas de marca para generar engagement y contar historias.",
+      "acciones": [
+        "Analizar cómo otras marcas utilizan mascotas o personajes para fortalecer su storytelling y conexión con la audiencia.",
+        "Considerar si una estrategia similar podría aplicarse en proyectos de marketing para clientes."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
-      "categoria": "Regulatory",
-      "titulo": "Argentina identificada como \"nodo de riesgo\" en triangulación ilegal de mercancías chinas",
-      "detalle": "Estados Unidos identificó a Argentina como parte de una red global de triangulación ilegal de mercancías chinas para eludir aranceles. Esto podría generar presiones regulatorias o comerciales.",
-      "mitigacion": "Monitorear posibles cambios en regulaciones aduaneras o comerciales que puedan afectar importaciones o exportaciones."
-    },
-    {
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Market",
-      "titulo": "Aranceles del 100% a drones importados por EE.UU.",
-      "detalle": "Donald Trump impuso aranceles del 100% a los drones importados por motivos de seguridad nacional. Aunque es una medida de EE.UU., podría impactar la disponibilidad o el costo de componentes de drones a nivel global, afectando la cadena de suministro.",
-      "mitigacion": "Evaluar el impacto potencial en la disponibilidad y costo de drones o componentes si se utilizan en proyectos."
+      "titulo": "Alta incertidumbre económica en Argentina",
+      "detalle": "El Índice de Incertidumbre Económica de julio se mantuvo en niveles históricamente elevados, lo que sugiere un entorno volátil para las decisiones de inversión y negocios en el país.",
+      "mitigacion": "Mantener una cartera de inversiones diversificada y cautelosa, priorizando activos que puedan protegerse de la inflación y la devaluación. Monitorear de cerca los indicadores económicos locales."
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Market",
+      "titulo": "Advertencia sobre créditos en dólares a empresas en Argentina",
+      "detalle": "Un exministro de Economía advirtió sobre el riesgo de repetir errores pasados con créditos en dólares a empresas, que podrían llevar a una 'pesificación asimétrica'. Esto indica un riesgo potencial para la estabilidad financiera y la inversión.",
+      "mitigacion": "Ser extremadamente cauteloso con cualquier endeudamiento en moneda extranjera. Priorizar la generación de ingresos en pesos y buscar oportunidades de inversión en moneda local o activos dolarizados que no impliquen endeudamiento directo."
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Regulatory",
+      "titulo": "Retraso regulatorio afecta la tokenización de acciones en cripto",
+      "detalle": "Las acciones de tokenización cayeron debido a un retraso de la SEC, lo que representa un 'freno' en el avance de las criptomonedas en Wall Street. Esto subraya la sensibilidad del mercado cripto a las decisiones regulatorias.",
+      "mitigacion": "Monitorear de cerca las novedades regulatorias en el espacio cripto, especialmente aquellas que afectan la integración con mercados tradicionales. Considerar la volatilidad inherente a las inversiones en criptoactivos y diversificar la cartera."
     }
   ],
-  "conexiones": [],
+  "conexiones": [
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "Apple y la IA en China: una estrategia de mercado y geopolítica",
+      "historias": [
+        "Apple entrenó su propio modelo de IA para China con ayuda de Alibaba.",
+        "Se discute el futuro del Apple Watch, con rumores de un 'replanteamiento más radical'."
+      ],
+      "conclusion": "La colaboración de Apple con Alibaba para desarrollar un modelo de IA específico para China muestra una estrategia de adaptación a mercados clave, incluso en un contexto de tensiones geopolíticas. Esto podría influir en cómo Apple integra la IA en sus productos globales, como el Apple Watch, buscando soluciones localizadas para expandir su alcance y funcionalidad."
+    }
+  ],
   "noticias": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
@@ -136,19 +175,18 @@
       "fuente": "Google AI Blog",
       "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
       "tituloOriginal": "Bring your spreadsheet data to life with Sheets canvas",
-      "tituloLimpio": "Google Sheets Canvas: Transformá tus datos en dashboards interactivos con IA",
-      "resumen": "Sheets Canvas convierte datos en dashboards interactivos, rastreadores de estudio personalizados, planos de asientos y más, todo con una simple indicación.",
-      "porQueImporta": "Para Guido, que trabaja con arte con IA y automatización, esta herramienta puede simplificar la visualización de datos y la creación de informes, mejorando la eficiencia en la gestión de proyectos o el análisis de métricas.",
+      "tituloLimpio": "Google Sheets canvas transforma datos en paneles interactivos",
+      "resumen": "Sheets canvas convierte datos en paneles interactivos, rastreadores de estudio personalizados, planos de asientos y más, todo con una simple indicación.",
+      "porQueImporta": "Esta herramienta de Google Workspace puede ser muy útil para Guido, ya que le permite automatizar y visualizar datos de manera interactiva con IA, mejorando la productividad y la gestión de información en sus proyectos o inversiones.",
       "publicadoEn": "2026-08-13T16:45:00.000Z",
       "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp",
-      "globalScore": 100,
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "Google",
-        "Sheets",
-        "Canvas",
-        "IA",
-        "automatización"
+        "AI",
+        "Herramientas",
+        "Automatización",
+        "Productividad"
       ],
       "tambienVistoEn": []
     },
@@ -156,19 +194,18 @@
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Apple",
       "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china/",
-      "tituloOriginal": "Apple Trained Own AI Model for China Market With Help From Alibaba",
-      "tituloLimpio": "Apple entrenó su propio modelo de IA para el mercado chino con ayuda de Alibaba",
-      "resumen": "Apple entrenó su propio modelo de lenguaje grande para el mercado chino, en lugar de depender de un modelo de terceros para sus funciones de Apple Intelligence en el país. El LLM se desarrolló con la ayuda de Alibaba.",
-      "porQueImporta": "Esta noticia muestra la estrategia de Apple para adaptar su IA a mercados específicos, lo que es relevante para entender la evolución de Apple Intelligence y cómo se implementa globalmente.",
-      "publicadoEn": "2026-08-14T09:46:29.000Z",
+      "url": "https://www.macrumors.com/2026/08/14/the-macrumors-show-where-does-the-apple-watch-go-next/",
+      "tituloOriginal": "The MacRumors Show: Where Does the Apple Watch Go Next?",
+      "tituloLimpio": "El futuro del Apple Watch: ¿hacia dónde va?",
+      "resumen": "En el episodio de esta semana de The MacRumors Show, se discute cómo el Apple Watch parece dirigirse a una de sus generaciones menos trascendentales, pero los rumores describen el replanteamiento más radical en la historia del producto para más adelante.",
+      "porQueImporta": "Como usuario de Apple, a Guido le interesa conocer las tendencias y posibles innovaciones en los productos de la marca, especialmente si se avecinan cambios significativos en el Apple Watch.",
+      "publicadoEn": "2026-08-14T16:35:14.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "IA",
-        "China",
-        "Alibaba"
+        "Hardware",
+        "Tendencias"
       ],
       "tambienVistoEn": []
     },
@@ -176,20 +213,19 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/donald-trump-impone-aranceles-del-100-los-drones-importados-motivos-seguridad-nacional-n6310756",
-      "tituloOriginal": "Donald Trump impone aranceles del 100% a los drones importados por motivos de seguridad nacional",
-      "tituloLimpio": "Donald Trump impone aranceles del 100% a los drones importados por seguridad nacional",
-      "resumen": "Firmó el decreto bajo la Sección 232, la misma disposición de seguridad nacional que ya se aplica al acero, el aluminio y los productos farmacéuticos.",
-      "porQueImporta": "Aunque es una medida de EE.UU., los aranceles a los drones pueden tener un impacto global en la cadena de suministro y los costos, afectando potencialmente la disponibilidad o el precio de equipos relacionados con la fotografía o el arte con IA que utilicen drones.",
-      "publicadoEn": "2026-08-14T12:11:00.000Z",
-      "imagen": "https://media.ambito.com/p/53479600f259636a85cf6b54aa89e5c0/adjuntos/239/imagenes/043/561/0043561065/1200x675/1760x879:1780x899/trump.jpg",
+      "url": "https://www.ambito.com/economia/la-uca-advirtio-la-incertidumbre-economica-y-mostro-los-limites-la-asistencia-la-pobreza-infantil-n6310876",
+      "tituloOriginal": "La UCA advirtió por la incertidumbre económica y mostró los límites de la asistencia para la pobreza infantil",
+      "tituloLimpio": "La UCA advirtió por la incertidumbre económica y los límites de la asistencia para la pobreza infantil",
+      "resumen": "El Índice de Incertidumbre Económica de julio se mantuvo por encima de las 50 menciones, en niveles históricamente elevados. En paralelo, advierte sobre carencias vinculadas con la ropa, la socialización y el aprendizaje en las infancias.",
+      "porQueImporta": "Esta noticia es relevante para Guido por su impacto en el contexto económico de Argentina, afectando decisiones de inversión y el panorama general del país.",
+      "publicadoEn": "2026-08-14T16:50:00.000Z",
+      "imagen": "https://media.ambito.com/p/bafec9cc2374bdcbf86aeaccf9e7a406/adjuntos/239/imagenes/042/925/0042925068/1200x675/smart/ninos-adolescencia-pobreza-infancia-ninez.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "Trump",
-        "aranceles",
-        "drones",
-        "seguridad nacional"
+        "Argentina",
+        "Economía",
+        "Inversión"
       ],
       "tambienVistoEn": []
     },
@@ -197,20 +233,18 @@
       "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
       "categoria": "Marketing",
       "fuente": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/sociable-pinterest-partners-with-zillow-for-ad-targeting/827812/",
-      "tituloOriginal": "Sociable: Pinterest partners with Zillow for ad targeting",
-      "tituloLimpio": "Pinterest se asocia con Zillow para la segmentación de anuncios",
-      "resumen": "A través del acuerdo, la plataforma inmobiliaria puede dirigir anuncios a usuarios de la aplicación basándose en segmentos de consumidores especializados, incluyendo compradores de viviendas y aquellos que buscan arreglar propiedades.",
-      "porQueImporta": "Esta alianza es un ejemplo de cómo las plataformas de marketing digital están refinando la segmentación de audiencias, algo clave para entender las tendencias en marketing y publicidad.",
-      "publicadoEn": "2026-08-13T15:51:00.000Z",
-      "globalScore": 90,
+      "url": "https://www.marketingdive.com/news/crocs-hatches-new-mascot-niles-to-enrich-brand-storytelling/827895/",
+      "tituloOriginal": "Crocs hatches new mascot Niles to enrich brand storytelling",
+      "tituloLimpio": "Crocs lanza nueva mascota Niles para enriquecer el storytelling de la marca",
+      "resumen": "El reptil de 1.80 metros, que aparece en una nueva serie social donde interactúa con empleados reales, se espera que sea un elemento a largo plazo del marketing de Crocs.",
+      "porQueImporta": "Para Guido, interesado en marketing, esta noticia muestra una estrategia de storytelling de marca innovadora y a largo plazo, que puede servir de inspiración o análisis para sus propios proyectos o los de sus clientes.",
+      "publicadoEn": "2026-08-14T14:40:00.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Marketing",
-        "Pinterest",
-        "Zillow",
-        "publicidad",
-        "segmentación"
+        "Branding",
+        "Storytelling"
       ],
       "tambienVistoEn": []
     },
@@ -218,39 +252,39 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-      "tituloOriginal": "Writer introduces new AI model and upgraded harness to contain token costs",
-      "tituloLimpio": "Writer presenta un nuevo modelo de IA y un sistema mejorado para contener los costos de tokens",
-      "resumen": "Construido como una variación post-entrenamiento del modelo de código abierto GLM-5.2 de Z.ai, Writer dice que el nuevo sistema debería proporcionar capacidades listas para implementar a un precio mucho más bajo.",
-      "porQueImporta": "La reducción de costos en el uso de modelos de IA es fundamental para proyectos de arte con IA y automatización. Esta noticia sugiere avances en la eficiencia económica de la IA generativa.",
-      "publicadoEn": "2026-08-13T21:13:24.000Z",
-      "globalScore": 98,
+      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "tituloOriginal": "Google will now allow users to remove visible watermark from its AI generations",
+      "tituloLimpio": "Google permitirá a los usuarios eliminar la marca de agua visible de sus generaciones de IA",
+      "resumen": "Desactivar esta configuración no afectará los puntos de referencia invisibles utilizados para identificar un archivo generado por IA.",
+      "porQueImporta": "Esta es una mejora importante para Guido, que trabaja con arte con IA y retoque fotográfico, ya que le da más control sobre las imágenes generadas y facilita su integración en proyectos profesionales sin marcas visibles.",
+      "publicadoEn": "2026-08-14T16:13:40.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "IA",
-        "costos",
-        "tokens",
-        "Writer"
+        "AI",
+        "Herramientas",
+        "Arte con IA",
+        "Edición"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
-      "fuente": "MIT Technology Review AI",
-      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-      "tituloOriginal": "Flock is tightening its rules in response to a growing surveillance backlash",
-      "tituloLimpio": "Flock endurece sus reglas en respuesta a la creciente reacción contra la vigilancia",
-      "resumen": "El gigante de la tecnología policial Flock anunció que cambiará el acceso de los oficiales a su red nacional de lectores de matrículas, en un aparente esfuerzo por calmar una creciente reacción y recuperar contratos perdidos por preocupaciones sobre la vigilancia masiva y el abuso policial.",
-      "porQueImporta": "Aunque no es directamente sobre IA aplicada, esta noticia refleja el debate sobre la privacidad y el uso de tecnologías avanzadas (como el reconocimiento de matrículas) por parte de las autoridades, un tema relevante en el ecosistema tecnológico.",
-      "publicadoEn": "2026-08-13T13:41:10.000Z",
-      "globalScore": 100,
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+      "tituloOriginal": "Apple trained its own AI model for China with help from Alibaba",
+      "tituloLimpio": "Apple entrenó su propio modelo de IA para China con ayuda de Alibaba",
+      "resumen": "Apple habría entrenado un modelo de IA personalizado para el mercado chino junto con el gigante tecnológico nacional Alibaba, una asociación transfronteriza poco común que atraviesa las crecientes tensiones entre Beijing y Washington.",
+      "porQueImporta": "Esta noticia es relevante para Guido por el impacto global de Apple y la IA. Muestra cómo las grandes empresas adaptan sus estrategias de IA a mercados específicos, lo que puede influir en el desarrollo y la disponibilidad de tecnologías de IA a nivel mundial.",
+      "publicadoEn": "2026-08-14T09:21:17.000Z",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "vigilancia",
-        "privacidad",
-        "tecnología",
-        "Flock"
+        "Apple",
+        "AI",
+        "Negocios",
+        "Mercado"
       ],
       "tambienVistoEn": []
     },
@@ -258,19 +292,19 @@
       "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Apple",
       "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/14/my-diy-iphone-camera-mod-looks-absurd-but-is-great-to-use/",
-      "tituloOriginal": "My DIY iPhone camera mod looks absurd but is great to use",
-      "tituloLimpio": "Mi modificación casera de la cámara del iPhone parece absurda pero es genial de usar",
-      "resumen": "Reconozco que mi modificación casera de la cámara del iPhone parece extremadamente tonta, pero en realidad ha hecho que mi fotografía con iPhone sea más práctica y agradable. Inicialmente fue algo que se me ocurrió para resolver un problema para una sesión de video en particular, pero en realidad me he encontrado usándola un número sorprendente de veces.",
-      "porQueImporta": "Esta nota destaca la creatividad y la adaptabilidad en el uso de herramientas tecnológicas, algo que puede inspirar a Guido en su trabajo de retoque fotográfico y arte con IA, buscando soluciones prácticas con los recursos disponibles.",
-      "publicadoEn": "2026-08-14T12:12:30.000Z",
+      "url": "https://9to5mac.com/2026/08/14/review-terramow-v1000-is-the-easiest-iphone-controlled-robot-lawn-mower-ive-tested/",
+      "tituloOriginal": "Review: TerraMow V1000 is the easiest iPhone-controlled robot lawn mower I’ve tested",
+      "tituloLimpio": "Reseña: TerraMow V1000 es el robot cortacésped controlado por iPhone más fácil de usar",
+      "resumen": "Este año, reemplacé mi cortacésped de empuje a batería por un robot cortacésped controlado por iPhone. Esa máquina crea un mapa virtual permitiéndote dirigirla manualmente por el perímetro de tu jardín. Una vez configurado, se encarga de las tareas de corte según un horario. Más recientemente, he estado probando otro sistema llamado TerraMow V1000.",
+      "porQueImporta": "Aunque es un producto específico, la reseña de un robot controlado por iPhone es interesante para Guido por su afinidad con Apple y las herramientas de automatización. Muestra cómo la tecnología se integra en tareas cotidianas.",
+      "publicadoEn": "2026-08-14T17:15:57.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "iPhone",
-        "fotografía",
-        "DIY",
-        "creatividad"
+        "Apple",
+        "Automatización",
+        "Herramientas",
+        "Reseña"
       ],
       "tambienVistoEn": []
     },
@@ -278,41 +312,39 @@
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
       "categoria": "Apple",
       "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/08/14/iphone-ultra-openais-alexa-dot-ai-costs-on-the-appleinsider-podcast?utm_source=rss",
-      "tituloOriginal": "iPhone Ultra, OpenAI's Alexa Dot, & AI costs on the AppleInsider Podcast",
-      "tituloLimpio": "iPhone Ultra, Alexa Dot de OpenAI y costos de IA en el podcast de AppleInsider",
-      "resumen": "El iPhone 18 Pro será una potencia para la fotografía, mientras que el iPhone Ultra se centrará en la novedad de ser plegable, discuten los anfitriones en el último podcast de AppleInsider. Los nuevos iPhones están a solo semanas de distancia. El evento de septiembre de Apple se centrará en los modelos premium de iPhone, pero no todo se sabe sobre estos productos todavía.",
-      "porQueImporta": "Interesante para Guido por la mención de nuevos modelos de iPhone y su enfoque en fotografía y nuevas tecnologías, además de la discusión sobre los costos de IA, un tema clave para su trabajo.",
-      "publicadoEn": "2026-08-14T11:47:36.000Z",
+      "url": "https://appleinsider.com/articles/26/08/14/its-begun---us-and-canadian-firms-can-now-buy-ads-on-apple-maps?utm_source=rss",
+      "tituloOriginal": "It's begun - US and Canadian firms can now buy ads on Apple Maps",
+      "tituloLimpio": "Empresas de EE.UU. y Canadá ya pueden comprar anuncios en Apple Maps",
+      "resumen": "Apple ha comenzado a vender anuncios en Apple Maps y está ofreciendo incentivos a los anunciantes para que empiecen. Los anuncios aparecerán en los resultados de búsqueda de Apple Maps a partir del 14 de abril de 2026.",
+      "porQueImporta": "Para Guido, interesado en marketing, esta noticia es importante porque Apple Maps se suma al ecosistema publicitario, abriendo nuevas vías para la publicidad digital y el marketing de localización, aunque por ahora sea solo para EE.UU. y Canadá.",
+      "publicadoEn": "2026-08-14T16:23:36.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "iPhone",
         "Apple",
-        "IA",
-        "fotografía",
-        "costos"
+        "Marketing",
+        "Publicidad",
+        "Negocios"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
       "categoria": "Finance",
       "fuente": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/options/articles/goldman-sachs-bets-again-options-011827707.html",
-      "tituloOriginal": "Goldman Sachs Bets Again on Options ETFs With NEOS Deal",
-      "tituloLimpio": "Goldman Sachs vuelve a apostar por los ETFs de opciones con el acuerdo de NEOS",
-      "resumen": "Goldman Sachs vuelve a apostar por los ETFs de opciones con el acuerdo de NEOS.",
-      "porQueImporta": "Esta noticia es relevante para Guido por su interés en la inversión y los ETFs, mostrando movimientos importantes en el mercado financiero por parte de grandes actores.",
-      "publicadoEn": "2026-08-13T01:18:27.000Z",
-      "imagen": "https://media.zenfs.com/en/indexuniverse.com/e0049e505f345bbf4ca83bb64575b74f.png",
-      "globalScore": 90,
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-retail-sales-applied-materials-stock-amat/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Stock Market Today: Nasdaq Lags After Soft Retail Sales; Trump Tariff News Lifts These Defense Firms (Live Coverage)",
+      "tituloLimpio": "Mercado de valores hoy: Nasdaq rezaga tras ventas minoristas débiles",
+      "resumen": "",
+      "porQueImporta": "Guido, interesado en inversiones y mercados, necesita estar al tanto de los movimientos bursátiles y los factores que los influyen, como las ventas minoristas, para tomar decisiones informadas.",
+      "publicadoEn": "2026-08-14T16:57:42.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/54efffaed4eb0f480c982a3545585fe5.jpg",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "ETFs",
-        "inversión",
-        "Goldman Sachs",
-        "finanzas"
+        "Finanzas",
+        "Mercado",
+        "Inversión"
       ],
       "tambienVistoEn": []
     },
@@ -320,22 +352,20 @@
       "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
       "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/08/14/volatility-exits-crypto-tradfi-markets-even-as-u-s-iran-risks-linger-sovereign-debt-rises",
-      "tituloOriginal": "Fear is fading across markets, be it bitcoin, stocks, gold or bonds",
-      "tituloLimpio": "El miedo se desvanece en los mercados: bitcoin, acciones, oro o bonos",
-      "resumen": "Tu mirada para el 14 de agosto de 2026.",
-      "porQueImporta": "Un panorama general del sentimiento del mercado es útil para Guido en su seguimiento de inversiones, indicando una posible disminución de la aversión al riesgo.",
-      "publicadoEn": "2026-08-14T11:33:50.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/e29ab0b305e82306feadf3c62519eb4807b70897-2854x1488.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "url": "https://www.coindesk.com/markets/2026/08/14/tokenization-stocks-slip-as-sec-delay-puts-speed-bump-in-crypto-s-wall-street-push",
+      "tituloOriginal": "Tokenization stocks slip as SEC delay puts 'speed bump' in crypto’s Wall Street push",
+      "tituloLimpio": "Acciones de tokenización caen por retraso de la SEC en el impulso cripto de Wall Street",
+      "resumen": "Bullish, Coinbase y Circle estuvieron entre los nombres a la baja el viernes después del revés regulatorio.",
+      "porQueImporta": "Para Guido, que sigue los mercados, esta noticia es relevante porque muestra la influencia de las decisiones regulatorias en el mercado de criptomonedas y la tokenización, un área de interés en el futuro de las finanzas.",
+      "publicadoEn": "2026-08-14T17:48:04.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/981f113099a5d95dd101524386439043bf2a255f-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
       "globalScore": 92,
       "personalScore": 100,
       "tags": [
-        "mercados",
-        "bitcoin",
-        "acciones",
-        "oro",
-        "bonos",
-        "inversión"
+        "Finanzas",
+        "Cripto",
+        "Regulación",
+        "Inversión"
       ],
       "tambienVistoEn": []
     },
@@ -343,20 +373,20 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-viernes-14-agosto_0_hnEHxxTve1.html",
-      "tituloOriginal": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este viernes 14 de agosto",
-      "tituloLimpio": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este viernes 14 de agosto",
-      "resumen": "Desde el oficial hasta el blue y el turista, todos los tipos de cambio. Mirá la cotización minuto a minuto.",
-      "porQueImporta": "La cotización del dólar es una información esencial para cualquier residente en Argentina, afectando la economía diaria y las decisiones de inversión.",
-      "publicadoEn": "2026-08-14T12:00:01.000Z",
-      "imagen": "https://www.clarin.com/img/2019/11/18/BnZdjOhE_1200x630__1.jpg",
+      "url": "https://www.clarin.com/economia/advertencia-exministro-economia-caputo-creditos-dolares-empresas-hicimos-terminamos-pesificacion-asimetrica_0_qgk6UKuSSi.html",
+      "tituloOriginal": "La advertencia de un exministro de Economía a Caputo por los créditos en dólares a empresas: \"Ya lo hicimos y terminamos con la pesificación asimétrica\"",
+      "tituloLimpio": "Advertencia de un exministro de Economía a Caputo por los créditos en dólares a empresas",
+      "resumen": "Lo dijo el economista Hernán Lacunza, quien pidió no cometer 'los mismos errores' que en los '90. 'Generemos un mercado de crédito en moneda local para el que recauda pesos', planteó.",
+      "porQueImporta": "Esta es una noticia crucial para Guido por su impacto directo en la economía argentina y las decisiones de inversión. La advertencia sobre créditos en dólares y la 'pesificación asimétrica' es un riesgo a considerar.",
+      "publicadoEn": "2026-08-14T16:38:08.000Z",
+      "imagen": "https://www.clarin.com/img/2026/08/12/iDYQ3xUAj_1200x630__1.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "dólar",
-        "economía",
-        "finanzas"
+        "Economía",
+        "Finanzas",
+        "Riesgos"
       ],
       "tambienVistoEn": []
     },
@@ -364,21 +394,20 @@
       "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Politica",
-      "url": "https://www.clarin.com/politica/javier-milei-medidas-vivo-paso-misiones-santilli-sigue-gira-interior-hoy-viaja-catamarca-luis-caputo-reunirse-gobernadores_0_8SoP7ZRk7h.html",
-      "tituloOriginal": "Javier Milei y sus medidas, EN VIVO: tras su paso por Misiones, Santilli sigue su gira por el interior y hoy viaja a Catamarca con Luis Caputo para reunirse con dos gobernadores",
-      "tituloLimpio": "Javier Milei y sus medidas, EN VIVO: Santilli sigue su gira por el interior y hoy viaja a Catamarca con Luis Caputo para reunirse con dos gobernadores",
-      "resumen": "El jefe de Gabinete y el ministro de Economía se juntarán este viernes con Raúl Jalil y Elías Suárez, los mandatarios provinciales de Catamarca y Santiago del Estero respectivamente. Seguí todas las novedades sobre las medidas del gobierno de Javier Milei en la cobertura minuto a minuto de Clarín.",
-      "porQueImporta": "Noticia relevante para Guido por su impacto en la política y economía argentina, mostrando la actividad del gobierno y sus ministros en el interior del país.",
-      "publicadoEn": "2026-08-14T11:58:35.000Z",
-      "imagen": "https://www.clarin.com/img/2026/03/01/txH4UpG7L_1200x630__1.jpg",
-      "globalScore": 94,
+      "url": "https://www.clarin.com/politica/gobierno-porteno-adjudico-canal-ciudad-duenos-carajo-blender-transfiere-fines-octubre_0_48rkk4ADKG.html",
+      "tituloOriginal": "El Gobierno porteño adjudicó el Canal de la Ciudad a los dueños de Carajo y Blender y lo transfiere a fines de octubre",
+      "tituloLimpio": "El Gobierno porteño adjudicó el Canal de la Ciudad a los dueños de Carajo y Blender",
+      "resumen": "Jorge Macri firmó la resolución que entrega por cinco años el gerenciamiento a la empresa de Augusto Marini, que ofreció un canon mensual de $50 millones. Incertidumbre por el futuro de los 150 empleados.",
+      "porQueImporta": "Esta noticia es relevante para Guido por su impacto en el ámbito de los medios y la política local en Argentina, afectando el panorama de la comunicación y los negocios en la Ciudad de Buenos Aires.",
+      "publicadoEn": "2026-08-14T16:57:11.000Z",
+      "imagen": "https://www.clarin.com/img/2026/08/10/gxQjXLMNS_1200x630__1.jpg",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "política",
-        "Milei",
-        "Caputo",
-        "gobierno"
+        "Política",
+        "Negocios",
+        "Medios"
       ],
       "tambienVistoEn": []
     },
@@ -386,43 +415,20 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/08/14/el-gobierno-ahora-pone-el-foco-en-el-mercado-interno-pero-los-motores-para-reactivar-funcionan-a-media-maquina/",
-      "tituloOriginal": "El Gobierno ahora pone el foco en el mercado interno, pero los motores para reactivar funcionan a media máquina",
-      "tituloLimpio": "El Gobierno ahora pone el foco en el mercado interno, pero los motores para reactivar funcionan a media máquina",
-      "resumen": "El consumo no levanta y lo sufre la imagen del Presidente. El repunte de la inflación de julio es otro escollo para la esperada mejora de los ingresos.",
-      "porQueImporta": "Esta noticia es clave para entender la situación económica actual de Argentina, con desafíos en el consumo y la inflación que afectan directamente a los ciudadanos y el ambiente de negocios.",
-      "publicadoEn": "2026-08-14T13:03:40.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/ZCEXTK4RNBCIJP6QOKEMMJXZEI.png?auth=aca8dc953d14816dcd1aaec6fd016292a4d565adaadae43de3741a4bb443cb68&smart=true&width=1408&height=768",
-      "globalScore": 94,
+      "url": "https://www.infobae.com/economia/2026/08/14/cual-es-la-nueva-marca-de-autos-hibridos-enchufables-que-se-lanzo-en-la-argentina-y-que-tiene-el-adn-europeo-de-alta-tecnologia/",
+      "tituloOriginal": "Cuál es la nueva marca de autos híbridos enchufables que se lanzó en la Argentina y que tiene el ADN europeo de alta tecnología",
+      "tituloLimpio": "Nueva marca de autos híbridos enchufables se lanzó en Argentina con ADN europeo",
+      "resumen": "Es una derivación de la unión entre Geely y Volvo. Tanto es así que su sede central está en Suecia y en su esencia hay estándares de calidad y seguridad tradicionales de esa marca escandinava.",
+      "porQueImporta": "Para Guido, esta noticia es interesante por la llegada de nuevas tecnologías al mercado argentino, en este caso, autos híbridos enchufables, que representan una tendencia en la industria automotriz global y local.",
+      "publicadoEn": "2026-08-14T17:17:48.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/GMZS2V7TQRBVDEPFIJ644CLY6I.jpg?auth=4fe99eea1565fba1927d0f182faebe354f8eb54a8f418db1afec21c0e1261b4c&smart=true&width=1920&height=1080",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "economía",
-        "mercado interno",
-        "inflación",
-        "consumo"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
-      "categoria": "Argentina",
-      "fuente": "Infobae Politica",
-      "url": "https://www.infobae.com/politica/2026/08/14/eeuu-identifico-a-la-argentina-como-un-nodo-de-riesgo-en-una-red-global-de-triangulacion-ilegal-de-mercancias-chinas/",
-      "tituloOriginal": "EEUU identificó a la Argentina como un “nodo de riesgo” en una red global de triangulación ilegal de mercancías chinas",
-      "tituloLimpio": "EEUU identificó a la Argentina como un “nodo de riesgo” en una red global de triangulación ilegal de mercancías chinas",
-      "resumen": "La Casa Blanca publicó un informe que incluye al país dentro de “corredores latinoamericanos” que redirigen bienes para eludir aranceles de hasta el 50%.",
-      "porQueImporta": "Esta información es importante para Guido por su impacto en la reputación comercial de Argentina y posibles consecuencias en las relaciones internacionales o regulaciones aduaneras, que podrían afectar importaciones o exportaciones.",
-      "publicadoEn": "2026-08-14T12:44:31.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/BQQHH3W6ANBUFHBGLHWXJHLNK4.png?auth=546e1f9f4c162babfbc04c07189c788a511f66303a18d5b8d8b504c6a8a91bcc&smart=true&width=1920&height=1080",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "Argentina",
-        "EEUU",
-        "China",
-        "comercio",
-        "riesgo"
+        "Tecnología",
+        "Negocios",
+        "Innovación"
       ],
       "tambienVistoEn": []
     },
@@ -430,68 +436,26 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/campo/desembarco-un-grupo-brasileno-que-promete-revolucionar-el-consumo-de-mandioca-nid14082026/",
-      "tituloOriginal": "Desembarcó un grupo brasileño que promete revolucionar el consumo de mandioca",
-      "tituloLimpio": "Desembarcó un grupo brasileño que promete revolucionar el consumo de mandioca en Argentina",
-      "resumen": "Nutri Select construyó una planta procesadora en Colonia Aurora, Misiones, para elaborar productos listos para freír.",
-      "porQueImporta": "Una noticia de inversión y desarrollo productivo en Argentina, que muestra el interés de grupos extranjeros en el país y el potencial de nuevas industrias o productos.",
-      "publicadoEn": "2026-08-14T13:03:58.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/F55PYKNYSFCCFHV27NAANMZBSE.jfif?auth=c979507646fed4bec208acb426dc0681c4602789d23f14dfc2f35705bd1bf083&smart=true&width=678&height=452",
+      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid14082026/",
+      "tituloOriginal": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 14 de agosto, minuto a minuto",
+      "tituloLimpio": "Dólar hoy y dólar blue, EN VIVO: cotización del oficial y el paralelo este viernes 14 de agosto",
+      "resumen": "La divisa oficial opera a $1515 para la venta en el Banco Nación; el dólar blue cotiza a $1540 para esa operación; qué pasa con el MEP y el CCL.",
+      "porQueImporta": "El seguimiento del dólar es fundamental para Guido, ya que impacta directamente en su poder adquisitivo, sus inversiones y el costo de vida en Argentina.",
+      "publicadoEn": "2026-08-14T17:50:00.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/36KKQDRO4FFFLC4MZSW44FTLLA.jpg?auth=5d30c391ec7688e0cdbd5a3863b16e8d363be5fa1336fca7524247f26855d15c&smart=true&width=2000&height=1333",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "inversión",
-        "negocios",
-        "alimentos"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
-      "categoria": "Argentina",
-      "fuente": "La Nacion Politica",
-      "url": "https://www.lanacion.com.ar/politica/el-peronismo-se-reagrupa-pero-depende-de-que-no-caigan-las-paso-para-sostener-la-unidad-nid14082026/",
-      "tituloOriginal": "El peronismo se reagrupa, pero depende de que no caigan las PASO para sostener la unidad",
-      "tituloLimpio": "El peronismo se reagrupa, pero depende de que no caigan las PASO para sostener la unidad",
-      "resumen": "“El Grupo de los 10″ hizo su debut y acordó defender el sistema de elecciones primarias de cara a 2027; el papel de Massa y el acercamiento forzado de Kicillof y Máximo Kirchner.",
-      "porQueImporta": "Esta noticia es relevante para entender el panorama político argentino y las dinámicas internas de los partidos, lo que puede influir en futuras políticas económicas y sociales.",
-      "publicadoEn": "2026-08-14T12:57:40.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/TU46VREBTRFB5PAPRNJUSMLBSI.jpg?auth=79f002b8f2afc7f60b148e2e186f4008ef982d2915a6c4bfbec592231ef9d2c3&smart=true&width=2000&height=1333",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "Argentina",
-        "política",
-        "peronismo",
-        "PASO",
-        "elecciones"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
-      "categoria": "Marketing",
-      "fuente": "Adweek",
-      "url": "https://www.adweek.com/creativity/this-back-to-school-season-denim-brands-hedge-their-bets-across-gen-z-subcultures/",
-      "tituloOriginal": "This Back-to-School Season, Denim Brands Hedge Their Bets Across Gen Z Subcultures",
-      "tituloLimpio": "En esta temporada de regreso a clases, las marcas de denim apuestan por las subculturas de la Generación Z",
-      "resumen": "En un período ajetreado para los minoristas de denim, los especialistas en marketing están ampliando los elencos de embajadores para llegar a consumidores jóvenes fragmentados.",
-      "porQueImporta": "Esta noticia es un buen ejemplo de las estrategias de marketing actuales, enfocadas en la segmentación y el uso de embajadores para conectar con audiencias jóvenes y fragmentadas, relevante para el interés de Guido en marketing.",
-      "publicadoEn": "2026-08-14T08:24:38.000Z",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "Marketing",
-        "Generación Z",
-        "marcas",
-        "publicidad"
+        "Finanzas",
+        "Dólar",
+        "Economía"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-08-14T13:11:45.545Z"
+    "generadoEn": "2026-08-14T17:52:29.151Z"
   }
 }
