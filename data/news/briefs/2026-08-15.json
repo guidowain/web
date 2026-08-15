@@ -1,0 +1,390 @@
+{
+  "fecha": "2026-08-15",
+  "generadoEn": "2026-08-15T12:41:59.273Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "El Gobierno argentino habilitó créditos en dólares para empresas que no generan divisas, una medida que busca dinamizar el financiamiento local. En el ámbito tecnológico, Apple podría lanzar un MacBook Ultra con pantalla OLED y táctil, mientras que Google Sheets incorpora una función de 'canvas' para crear paneles interactivos con IA. Google también permitirá eliminar marcas de agua visibles de sus generaciones de IA. En el mercado, se observa una recuperación de las acciones de Tesla, aunque persisten problemas subyacentes. La preocupación por la vigilancia de IA crece, llevando a Flock a ajustar sus reglas. Finalmente, se destaca el debate sobre el uso de blockchains privadas en Wall Street.",
+  "radarPersonal": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Apple podría lanzar un MacBook Ultra con pantalla OLED y táctil",
+      "resumen": "Apple estaría desarrollando un MacBook Pro de alta gama, posiblemente llamado 'MacBook Ultra', que incluiría una pantalla OLED y táctil, algo inédito en Macs.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/guide/macbook-ultra/"
+      ],
+      "score": 100,
+      "tags": [
+        "macbook",
+        "ultra",
+        "oled",
+        "touchscreen"
+      ]
+    },
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Google Sheets incorpora 'canvas' para transformar datos en paneles interactivos",
+      "resumen": "Sheets canvas convierte datos en paneles interactivos, rastreadores de estudio personalizados y más, todo con una simple indicación.",
+      "categoria": "AI",
+      "fuentes": [
+        "Google AI Blog"
+      ],
+      "urls": [
+        "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/"
+      ],
+      "score": 100,
+      "tags": [
+        "sheets",
+        "canvas",
+        "datos",
+        "interactivos"
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "El Gobierno habilitó créditos en dólares para empresas que no generan divisas",
+      "resumen": "Se publicó el decreto que permite usar parte de los depósitos en moneda extranjera para financiar a empresas sin ingresos de comercio exterior.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/el-gobierno-publico-el-decreto-que-habilita-los-creditos-dolares-empresas-que-no-generan-divisas-n6311101"
+      ],
+      "score": 100,
+      "tags": [
+        "creditos",
+        "dolares",
+        "empresas",
+        "divisas"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "Google permitirá a los usuarios eliminar la marca de agua visible de sus generaciones de IA",
+      "resumen": "Desactivar esta configuración no afectará los puntos de referencia invisibles utilizados para identificar un archivo generado por IA.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/"
+      ],
+      "score": 100,
+      "tags": [
+        "google",
+        "ia",
+        "marca de agua",
+        "generaciones"
+      ]
+    }
+  ],
+  "loImportante": [
+    "El Gobierno argentino publicó un decreto que habilita créditos en dólares para empresas que no generan divisas, buscando impulsar el financiamiento local.",
+    "Apple estaría desarrollando un MacBook Ultra con pantalla OLED y táctil, lo que representaría una novedad importante en su línea de productos.",
+    "Google Sheets introduce una función 'canvas' que permite crear paneles interactivos a partir de datos con indicaciones simples, mejorando la visualización y análisis.",
+    "Google permitirá a los usuarios eliminar las marcas de agua visibles de sus generaciones de IA, aunque mantendrá los identificadores invisibles.",
+    "La empresa de tecnología policial Flock está ajustando sus reglas en respuesta a la creciente preocupación por la vigilancia, afectando el acceso a su red de lectores de patentes."
+  ],
+  "oportunidades": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "Automation",
+      "titulo": "Automatización de reportes y dashboards con Sheets canvas",
+      "detalle": "La nueva función 'Sheets canvas' de Google permite crear paneles interactivos y rastreadores personalizados con IA, lo que podría simplificar la creación de reportes y visualizaciones de datos para clientes o proyectos personales.",
+      "acciones": [
+        "Explorar las capacidades de Sheets canvas para automatizar la creación de dashboards.",
+        "Evaluar su aplicación en la gestión de proyectos o seguimiento de inversiones."
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Investing",
+      "titulo": "Nuevas opciones de financiamiento en dólares para empresas en Argentina",
+      "detalle": "El decreto que habilita créditos en dólares para empresas que no generan divisas podría abrir nuevas oportunidades de inversión o expansión para negocios locales, al facilitar el acceso a financiamiento en moneda extranjera.",
+      "acciones": [
+        "Investigar cómo esta medida podría impactar el mercado de capitales local y las oportunidades de inversión en empresas argentinas.",
+        "Analizar si esto podría influir en la estabilidad del dólar o en la disponibilidad de divisas en el mercado."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Market",
+      "titulo": "Advertencia de EE.UU. a Apple sobre la compra de chips de memoria chinos",
+      "detalle": "La Secretaria de Comercio de EE.UU. advirtió a Apple contra la compra de chips de memoria a proveedores chinos, a pesar de la crisis de suministro. Esto podría generar tensiones comerciales y afectar la cadena de suministro de Apple, con posibles impactos en la disponibilidad y precios de sus productos.",
+      "mitigacion": "Monitorear las noticias sobre la cadena de suministro de Apple y las relaciones comerciales entre EE.UU. y China para anticipar posibles interrupciones en el mercado de productos Apple."
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "Regulatory",
+      "titulo": "Endurecimiento de reglas de vigilancia por Flock ante el rechazo público",
+      "detalle": "La empresa de tecnología policial Flock está ajustando sus reglas de acceso a su red de lectores de patentes debido a la creciente preocupación por la vigilancia masiva. Esto indica una tendencia hacia una mayor regulación y escrutinio de las tecnologías de vigilancia, lo que podría afectar a otras herramientas de IA con implicaciones en la privacidad.",
+      "mitigacion": "Mantenerse informado sobre las regulaciones de privacidad y el uso de IA en vigilancia, ya que esto podría influir en el desarrollo y la aceptación de ciertas aplicaciones de IA."
+    }
+  ],
+  "conexiones": [],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+      "tituloOriginal": "Bring your spreadsheet data to life with Sheets canvas",
+      "tituloLimpio": "Google Sheets incorpora 'canvas' para transformar datos en paneles interactivos",
+      "resumen": "Sheets canvas convierte datos en paneles interactivos, rastreadores de estudio personalizados y más, todo con una simple indicación.",
+      "porQueImporta": "Esta herramienta de IA aplicada en Google Sheets puede simplificar la creación de dashboards y la visualización de datos, útil para el análisis de inversiones o seguimiento de proyectos.",
+      "publicadoEn": "2026-08-13T16:45:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Tools & Automation",
+        "Google Sheets"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/guide/macbook-ultra/",
+      "tituloOriginal": "MacBook Ultra: Everything We Know About Apple's OLED Touchscreen Mac",
+      "tituloLimpio": "Apple podría lanzar un MacBook Ultra con pantalla OLED y táctil",
+      "resumen": "Apple estaría desarrollando un MacBook Pro de alta gama, posiblemente llamado 'MacBook Ultra', que incluiría una pantalla OLED y táctil, algo inédito en Macs.",
+      "porQueImporta": "Un nuevo MacBook de alta gama con estas características podría ser relevante para profesionales creativos y usuarios de Apple que buscan lo último en tecnología.",
+      "publicadoEn": "2026-08-14T21:48:24.000Z",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "Hardware",
+        "Rumores"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/el-gobierno-publico-el-decreto-que-habilita-los-creditos-dolares-empresas-que-no-generan-divisas-n6311101",
+      "tituloOriginal": "El Gobierno publicó el decreto que habilita los créditos en dólares para empresas que no generan divisas",
+      "tituloLimpio": "El Gobierno habilitó créditos en dólares para empresas que no generan divisas",
+      "resumen": "Se publicó el decreto que permite usar parte de los depósitos en moneda extranjera para financiar a empresas sin ingresos de comercio exterior.",
+      "porQueImporta": "Esta medida es relevante para el mercado financiero argentino y para empresas locales, ya que facilita el acceso a financiamiento en dólares, lo que podría impactar en la economía y las oportunidades de inversión.",
+      "publicadoEn": "2026-08-15T00:50:00.000Z",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Finanzas",
+        "Economía"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/crocs-hatches-new-mascot-niles-to-enrich-brand-storytelling/827895/",
+      "tituloOriginal": "Crocs hatches new mascot Niles to enrich brand storytelling",
+      "tituloLimpio": "Crocs presenta a Niles, su nueva mascota, para enriquecer la narrativa de marca",
+      "resumen": "El reptil de 1.80 metros, que aparece en una nueva serie social interactuando con empleados, se espera que sea un elemento a largo plazo en el marketing de Crocs.",
+      "porQueImporta": "Un ejemplo de estrategia de marketing de marca que busca fortalecer la conexión con el público a través de un personaje, relevante para quienes siguen tendencias en marketing y storytelling.",
+      "publicadoEn": "2026-08-14T14:40:00.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "Branding",
+        "Storytelling"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "tituloOriginal": "Google will now allow users to remove visible watermark from its AI generations",
+      "tituloLimpio": "Google permitirá a los usuarios eliminar la marca de agua visible de sus generaciones de IA",
+      "resumen": "Desactivar esta configuración no afectará los puntos de referencia invisibles utilizados para identificar un archivo generado por IA.",
+      "porQueImporta": "Esta noticia es importante para quienes trabajan con arte e imágenes generadas por IA, ya que ofrece más control sobre la presentación final del contenido.",
+      "publicadoEn": "2026-08-14T16:13:40.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Herramientas",
+        "Google"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+      "tituloOriginal": "Flock is tightening its rules in response to a growing surveillance backlash",
+      "tituloLimpio": "Flock ajusta sus reglas ante el creciente rechazo a la vigilancia",
+      "resumen": "La empresa de tecnología policial Flock anunció cambios en el acceso de los oficiales a su red de lectores de patentes, en un esfuerzo por calmar el rechazo y recuperar contratos.",
+      "porQueImporta": "Refleja la creciente preocupación por la privacidad y la vigilancia con IA, un tema relevante para el impacto social y ético de la tecnología.",
+      "publicadoEn": "2026-08-13T13:41:10.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Privacidad",
+        "Regulación"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/08/15/us-commerce-secretary-warns-apple-against-buying-chinese-memory?utm_source=rss",
+      "tituloOriginal": "U.S. Commerce Secretary warns Apple against buying Chinese memory",
+      "tituloLimpio": "La Secretaria de Comercio de EE.UU. advierte a Apple contra la compra de chips de memoria chinos",
+      "resumen": "La Secretaria de Comercio, Howard Lutnick, instó a Apple a no comprar chips de memoria Mac a proveedores chinos, a pesar de la crisis de suministro.",
+      "porQueImporta": "Esta advertencia puede afectar la cadena de suministro de Apple y, potencialmente, la disponibilidad y el precio de sus productos a nivel global.",
+      "publicadoEn": "2026-08-15T12:18:45.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "Negocios",
+        "Geopolítica"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/news/jungle-shot-11-music-videos-in-four-days-with-apple-creator-studio/",
+      "tituloOriginal": "Jungle Shot 11 Music Videos in Four Days with Apple Creator Studio",
+      "tituloLimpio": "Jungle filmó 11 videos musicales en cuatro días con Apple Creator Studio",
+      "resumen": "Jungle lanzó su quinto álbum y Apple mostró cómo la banda usó Apple Creator Studio para filmar 11 videos musicales en solo cuatro días.",
+      "porQueImporta": "Destaca la eficiencia y las capacidades de las herramientas de Apple para la producción creativa, relevante para artistas y profesionales del retoque y la edición.",
+      "publicadoEn": "2026-08-15T00:06:08.000Z",
+      "imagen": "https://cdn.macstories.net/images/uploads/2026/08/14/jungle-transparent-16x9-1786751182429-7620eb5e2f.mp4",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "Creatividad",
+        "Herramientas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-recovering-3-problems-122510148.html",
+      "tituloOriginal": "Tesla Stock Is Recovering. The 3 Problems Underneath It Are Not.",
+      "tituloLimpio": "Las acciones de Tesla se recuperan, pero persisten tres problemas subyacentes",
+      "resumen": "Las acciones de Tesla se están recuperando, pero los tres problemas subyacentes no.",
+      "porQueImporta": "Interesante para inversores que siguen el mercado de acciones y la evolución de empresas tecnológicas como Tesla.",
+      "publicadoEn": "2026-08-15T12:25:10.000Z",
+      "imagen": "https://media.zenfs.com/en/24_7_wall_st__718/d2b9eac0e2c62d43dcf51dead4c69da1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Finance",
+        "Inversiones",
+        "Mercado"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns",
+      "tituloOriginal": "Wall Street's private blockchain obsession is a 'race to the bottom,' Ethereum advocate Raman warns",
+      "tituloLimpio": "La obsesión de Wall Street por las blockchains privadas es una 'carrera hacia el fondo', advierte un defensor de Ethereum",
+      "resumen": "Las redes controladas centralmente y con permisos tienen un papel en las finanzas, pero necesitan una base abierta y transparente para aprovechar los beneficios de la tecnología blockchain.",
+      "porQueImporta": "Un debate relevante sobre el futuro de las finanzas y la tecnología blockchain, importante para quienes invierten o siguen el sector cripto.",
+      "publicadoEn": "2026-08-15T12:00:00.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/054e8b00cc0763cb2f60b81628edb94088c7ec52-4032x2268.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "Finance",
+        "Blockchain",
+        "Cripto"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/milei-chino-miembro-pc-paso-motosierra-abrio-comercio-inflacion-30_0_gxUkf4m56A.html",
+      "tituloOriginal": "¿Un Milei chino? Quién fue el miembro del PC que pasó 'la motosierra', abrió el comercio y bajó la inflación del 30%",
+      "tituloLimpio": "¿Un Milei chino? Quién fue el miembro del PC que pasó 'la motosierra', abrió el comercio y bajó la inflación del 30%",
+      "resumen": "Falleció esta semana Zhu Rongji. Lideró un proceso de reformas profundas en China, marcado por la eficientización del Estado y millones de empleados públicos que quedaron en la calle.",
+      "porQueImporta": "Ofrece una perspectiva histórica sobre reformas económicas drásticas y su impacto, relevante para entender debates económicos actuales en Argentina.",
+      "publicadoEn": "2026-08-15T10:58:46.000Z",
+      "imagen": "https://www.clarin.com/img/2026/08/15/XXt3rObaO_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Economía",
+        "Historia"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/08/15/mora-record-por-que-el-gobierno-rechaza-asistir-a-las-familias-endeudadas/",
+      "tituloOriginal": "Mora récord: por qué el Gobierno rechaza asistir a las familias endeudadas",
+      "tituloLimpio": "Mora récord: por qué el Gobierno rechaza asistir a las familias endeudadas",
+      "resumen": "La estrategia oficial apunta a que los bancos refinancien pasivos sin intervención estatal, mientras el sistema financiero advierte demoras en el impacto estadístico por exigencias contables.",
+      "porQueImporta": "Describe una política económica actual del gobierno argentino con impacto directo en las familias y el sistema bancario, relevante para entender el contexto económico local.",
+      "publicadoEn": "2026-08-15T04:02:39.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/RARNUXDD35HKLK5YP7KJRC4CYA.png?auth=54911238cf3d6cc4bcb69efc4462da183c95621a877393d11614ad6ca334fcfb&smart=true&width=1408&height=768",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Economía",
+        "Finanzas Personales"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/dolar/a-cuanto-abre-el-dolar-el-martes-18-de-agosto-nid15082026/",
+      "tituloOriginal": "A cuánto abre el dólar el martes 18 de agosto",
+      "tituloLimpio": "A cuánto abre el dólar el martes 18 de agosto",
+      "resumen": "La cotización de la divisa oficial abre con los mismos números que en su último día de cierre; así se posicionó el último día hábil.",
+      "porQueImporta": "Información esencial para cualquier residente en Argentina, dado el impacto del dólar en la economía diaria y las decisiones de inversión.",
+      "publicadoEn": "2026-08-15T11:48:00.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/25V7Y2SHK5FL5LIELVIT5BZQJU.png?auth=f4ef0350c9f915c73d6b04a14562a5b35d3951192c4e97c2f22958dd98c8430f&smart=true&width=2000&height=1333",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Dólar",
+        "Economía"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-08-15T12:41:59.273Z"
+  }
+}
