@@ -1,32 +1,13 @@
 {
   "fecha": "2026-08-15",
-  "generadoEn": "2026-08-15T12:41:59.273Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "El Gobierno argentino habilitó créditos en dólares para empresas que no generan divisas, una medida que busca dinamizar el financiamiento local. En el ámbito tecnológico, Apple podría lanzar un MacBook Ultra con pantalla OLED y táctil, mientras que Google Sheets incorpora una función de 'canvas' para crear paneles interactivos con IA. Google también permitirá eliminar marcas de agua visibles de sus generaciones de IA. En el mercado, se observa una recuperación de las acciones de Tesla, aunque persisten problemas subyacentes. La preocupación por la vigilancia de IA crece, llevando a Flock a ajustar sus reglas. Finalmente, se destaca el debate sobre el uso de blockchains privadas en Wall Street.",
+  "generadoEn": "2026-08-15T17:19:42.269Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Hoy, las novedades giran en torno a la IA aplicada, con Google Sheets incorporando lienzos interactivos y la posibilidad de desactivar marcas de agua en Gemini. En Apple, se perfilan los próximos lanzamientos de iOS 27 y una hoja de ruta ambiciosa para el hogar inteligente. En Argentina, se destaca la proyección de gasto para el Día del Niño, el nuevo Fondo de Asistencia Laboral y un análisis sobre la pobreza. También hay noticias sobre la adquisición de Cursor por SpaceX y movimientos en el mercado financiero.",
   "radarPersonal": [
     {
-      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "Apple podría lanzar un MacBook Ultra con pantalla OLED y táctil",
-      "resumen": "Apple estaría desarrollando un MacBook Pro de alta gama, posiblemente llamado 'MacBook Ultra', que incluiría una pantalla OLED y táctil, algo inédito en Macs.",
-      "categoria": "Apple",
-      "fuentes": [
-        "MacRumors"
-      ],
-      "urls": [
-        "https://www.macrumors.com/guide/macbook-ultra/"
-      ],
-      "score": 100,
-      "tags": [
-        "macbook",
-        "ultra",
-        "oled",
-        "touchscreen"
-      ]
-    },
-    {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "titulo": "Google Sheets incorpora 'canvas' para transformar datos en paneles interactivos",
-      "resumen": "Sheets canvas convierte datos en paneles interactivos, rastreadores de estudio personalizados y más, todo con una simple indicación.",
+      "titulo": "Google Sheets suma lienzos interactivos para transformar datos",
+      "resumen": "Sheets canvas convierte datos en paneles interactivos, rastreadores de estudio personalizados, planos de asientos y más, todo con una simple indicación.",
       "categoria": "AI",
       "fuentes": [
         "Google AI Blog"
@@ -36,94 +17,145 @@
       ],
       "score": 100,
       "tags": [
-        "sheets",
-        "canvas",
-        "datos",
-        "interactivos"
+        "hojas de cálculo",
+        "automatización",
+        "visualización de datos"
       ]
     },
     {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "El Gobierno habilitó créditos en dólares para empresas que no generan divisas",
-      "resumen": "Se publicó el decreto que permite usar parte de los depósitos en moneda extranjera para financiar a empresas sin ingresos de comercio exterior.",
-      "categoria": "Argentina",
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Novedades de iOS 27 Beta 5 y rumores del iPhone 18 Pro",
+      "resumen": "Apple está finalizando el trabajo en la versión inicial de iOS 27 mientras se prepara para instalar el sistema operativo en los nuevos modelos de iPhone que saldrán el próximo mes, pero aún se están realizando algunos cambios, como se vio con la quinta ronda de betas esta semana. Otras noticias y rumores de esta semana incluyeron un vistazo a una supuesta batería del próximo iPhone 18 Pro Max.",
+      "categoria": "Apple",
       "fuentes": [
-        "Ambito"
+        "MacRumors"
       ],
       "urls": [
-        "https://www.ambito.com/economia/el-gobierno-publico-el-decreto-que-habilita-los-creditos-dolares-empresas-que-no-generan-divisas-n6311101"
+        "https://www.macrumors.com/2026/08/15/top-stories-ios-27-beta-5/"
       ],
       "score": 100,
       "tags": [
-        "creditos",
-        "dolares",
-        "empresas",
-        "divisas"
+        "iOS",
+        "iPhone",
+        "actualizaciones"
       ]
     },
     {
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "titulo": "Google permitirá a los usuarios eliminar la marca de agua visible de sus generaciones de IA",
-      "resumen": "Desactivar esta configuración no afectará los puntos de referencia invisibles utilizados para identificar un archivo generado por IA.",
+      "titulo": "SpaceX completa la adquisición de la startup de codificación con IA Cursor",
+      "resumen": "La startup de codificación con IA Cursor ahora es oficialmente parte de SpaceX.",
       "categoria": "AI",
       "fuentes": [
         "TechCrunch AI"
       ],
       "urls": [
-        "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/"
+        "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/"
       ],
       "score": 100,
       "tags": [
-        "google",
-        "ia",
-        "marca de agua",
-        "generaciones"
+        "IA",
+        "adquisiciones",
+        "desarrollo"
+      ]
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "Google Gemini permite desactivar las marcas de agua visibles en contenido generado por IA",
+      "resumen": "Google ahora permitirá eliminar las marcas de agua visibles de las imágenes, videos y música creados con herramientas de IA. Con la actualización, se puede desactivar una nueva configuración de 'Marca de agua de medios' en Gemini y en el generador de video de IA de Google, Flow. Cuando se desactiva, Google eliminará la marca de agua de 'brillo' que aparece en la esquina inferior derecha.",
+      "categoria": "AI",
+      "fuentes": [
+        "The Verge AI"
+      ],
+      "urls": [
+        "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal"
+      ],
+      "score": 100,
+      "tags": [
+        "IA",
+        "edición de imágenes",
+        "herramientas"
+      ]
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "titulo": "Apple tiene una hoja de ruta ambiciosa para productos de hogar inteligente",
+      "resumen": "Los productos para el hogar de Apple (principalmente HomePod mini y Apple TV) han sido tema de conversación durante los últimos años. La razón es bastante simple: las iteraciones actuales tienen entre 4 y 6 años. Siri ha sido el obstáculo para los nuevos lanzamientos de hardware, supuestamente, pero ahora que Siri AI finalmente está aquí, deberíamos ver a Apple finalmente comenzar a lanzar nuevos productos para el hogar.",
+      "categoria": "Apple",
+      "fuentes": [
+        "9to5Mac"
+      ],
+      "urls": [
+        "https://9to5mac.com/2026/08/15/apple-home-product-roadmap-tv-homepod-smart-display/"
+      ],
+      "score": 100,
+      "tags": [
+        "Apple",
+        "hogar inteligente",
+        "Siri",
+        "hardware"
       ]
     }
   ],
   "loImportante": [
-    "El Gobierno argentino publicó un decreto que habilita créditos en dólares para empresas que no generan divisas, buscando impulsar el financiamiento local.",
-    "Apple estaría desarrollando un MacBook Ultra con pantalla OLED y táctil, lo que representaría una novedad importante en su línea de productos.",
-    "Google Sheets introduce una función 'canvas' que permite crear paneles interactivos a partir de datos con indicaciones simples, mejorando la visualización y análisis.",
-    "Google permitirá a los usuarios eliminar las marcas de agua visibles de sus generaciones de IA, aunque mantendrá los identificadores invisibles.",
-    "La empresa de tecnología policial Flock está ajustando sus reglas en respuesta a la creciente preocupación por la vigilancia, afectando el acceso a su red de lectores de patentes."
+    "La IA sigue integrándose en herramientas cotidianas como Google Sheets, ofreciendo nuevas formas de interactuar con los datos.",
+    "Apple se prepara para importantes lanzamientos de software y hardware, con iOS 27 y una expansión en el hogar inteligente.",
+    "El mercado argentino muestra tendencias de consumo para el Día del Niño y avances en la regulación laboral con el nuevo Fondo de Asistencia.",
+    "La adquisición de Cursor por SpaceX subraya la importancia de la IA en sectores de alta tecnología.",
+    "La posibilidad de eliminar marcas de agua en contenidos generados por IA de Google Gemini ofrece mayor flexibilidad para creadores."
   ],
   "oportunidades": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
       "categoria": "Automation",
-      "titulo": "Automatización de reportes y dashboards con Sheets canvas",
-      "detalle": "La nueva función 'Sheets canvas' de Google permite crear paneles interactivos y rastreadores personalizados con IA, lo que podría simplificar la creación de reportes y visualizaciones de datos para clientes o proyectos personales.",
+      "titulo": "Automatización y visualización de datos con Sheets canvas",
+      "detalle": "La nueva función de Google Sheets permite crear paneles interactivos y herramientas personalizadas con prompts simples, ideal para optimizar el manejo de datos y la presentación de información.",
       "acciones": [
-        "Explorar las capacidades de Sheets canvas para automatizar la creación de dashboards.",
-        "Evaluar su aplicación en la gestión de proyectos o seguimiento de inversiones."
+        "Explorar Sheets canvas para automatizar informes y visualizaciones de datos.",
+        "Aplicar esta herramienta en proyectos de retoque fotográfico o arte con IA para organizar y presentar información."
       ]
     },
     {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "categoria": "Investing",
-      "titulo": "Nuevas opciones de financiamiento en dólares para empresas en Argentina",
-      "detalle": "El decreto que habilita créditos en dólares para empresas que no generan divisas podría abrir nuevas oportunidades de inversión o expansión para negocios locales, al facilitar el acceso a financiamiento en moneda extranjera.",
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "titulo": "Mayor control sobre el contenido generado por IA con Gemini",
+      "detalle": "La opción de desactivar las marcas de agua visibles en imágenes, videos y música creados con IA de Google Gemini brinda más libertad creativa y profesionalismo en los resultados finales.",
       "acciones": [
-        "Investigar cómo esta medida podría impactar el mercado de capitales local y las oportunidades de inversión en empresas argentinas.",
-        "Analizar si esto podría influir en la estabilidad del dólar o en la disponibilidad de divisas en el mercado."
+        "Utilizar Gemini para generar contenido sin marcas de agua, mejorando la integración en proyectos artísticos y comerciales.",
+        "Evaluar el impacto de esta función en la autenticidad y propiedad del contenido generado por IA."
+      ]
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Investing",
+      "titulo": "Oportunidades de inversión en el Fondo de Asistencia Laboral (FAL) en Argentina",
+      "detalle": "El nuevo Fondo de Asistencia Laboral, con un volumen proyectado de US$ 5.000 millones, abre un nuevo negocio para los bancos como gestores, lo que podría generar oportunidades de inversión indirectas o directas en el sector financiero local.",
+      "acciones": [
+        "Investigar cómo los bancos locales se posicionan como gestores del FAL y si esto abre nuevas vías de inversión en el sector financiero argentino.",
+        "Monitorear el impacto del FAL en la estabilidad laboral y económica del país, y su posible influencia en el mercado de ETFs."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
-      "categoria": "Market",
-      "titulo": "Advertencia de EE.UU. a Apple sobre la compra de chips de memoria chinos",
-      "detalle": "La Secretaria de Comercio de EE.UU. advirtió a Apple contra la compra de chips de memoria a proveedores chinos, a pesar de la crisis de suministro. Esto podría generar tensiones comerciales y afectar la cadena de suministro de Apple, con posibles impactos en la disponibilidad y precios de sus productos.",
-      "mitigacion": "Monitorear las noticias sobre la cadena de suministro de Apple y las relaciones comerciales entre EE.UU. y China para anticipar posibles interrupciones en el mercado de productos Apple."
-    },
-    {
       "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
       "categoria": "Regulatory",
-      "titulo": "Endurecimiento de reglas de vigilancia por Flock ante el rechazo público",
-      "detalle": "La empresa de tecnología policial Flock está ajustando sus reglas de acceso a su red de lectores de patentes debido a la creciente preocupación por la vigilancia masiva. Esto indica una tendencia hacia una mayor regulación y escrutinio de las tecnologías de vigilancia, lo que podría afectar a otras herramientas de IA con implicaciones en la privacidad.",
-      "mitigacion": "Mantenerse informado sobre las regulaciones de privacidad y el uso de IA en vigilancia, ya que esto podría influir en el desarrollo y la aceptación de ciertas aplicaciones de IA."
+      "titulo": "Mayor regulación en tecnología de vigilancia con IA",
+      "detalle": "Flock, un gigante de la tecnología policial, está endureciendo sus reglas en respuesta a la creciente preocupación por la vigilancia masiva. Esto indica una tendencia hacia una mayor regulación en el uso de IA para la vigilancia, lo que podría afectar a otras aplicaciones de IA.",
+      "mitigacion": "Mantenerse informado sobre las regulaciones de IA y privacidad de datos, especialmente en el desarrollo de aplicaciones que puedan tener implicaciones de vigilancia o recolección de datos sensibles."
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Platform",
+      "titulo": "Litigio continuo entre Epic Games y Apple sobre la App Store",
+      "detalle": "La saga legal entre Epic Games y Apple por la App Store continúa, lo que podría generar cambios en las políticas de las tiendas de aplicaciones y afectar a desarrolladores y modelos de negocio basados en plataformas.",
+      "mitigacion": "Diversificar las plataformas de distribución de productos o servicios digitales para reducir la dependencia de una única tienda de aplicaciones. Monitorear los desarrollos del caso para anticipar posibles cambios en las comisiones o políticas."
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Market",
+      "titulo": "Deterioro de la pobreza en Argentina y proyecciones económicas",
+      "detalle": "Las estimaciones privadas muestran un deterioro transversal de la pobreza en Argentina, con pocos movimientos anticipados en los próximos meses. Esto puede impactar el poder adquisitivo de los consumidores y la demanda interna.",
+      "mitigacion": "Evaluar el impacto de la situación económica en el mercado local para productos y servicios. Considerar estrategias de precios y marketing adaptadas a un entorno de menor poder adquisitivo."
     }
   ],
   "conexiones": [],
@@ -134,17 +166,18 @@
       "fuente": "Google AI Blog",
       "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
       "tituloOriginal": "Bring your spreadsheet data to life with Sheets canvas",
-      "tituloLimpio": "Google Sheets incorpora 'canvas' para transformar datos en paneles interactivos",
-      "resumen": "Sheets canvas convierte datos en paneles interactivos, rastreadores de estudio personalizados y más, todo con una simple indicación.",
-      "porQueImporta": "Esta herramienta de IA aplicada en Google Sheets puede simplificar la creación de dashboards y la visualización de datos, útil para el análisis de inversiones o seguimiento de proyectos.",
+      "tituloLimpio": "Google Sheets incorpora lienzos interactivos para transformar datos",
+      "resumen": "Sheets canvas convierte datos en paneles interactivos, rastreadores de estudio personalizados, planos de asientos y más, todo con una simple indicación.",
+      "porQueImporta": "Esta novedad de Google Sheets permite a Guido automatizar y visualizar datos de manera más dinámica y creativa, útil para organizar proyectos o analizar tendencias de mercado.",
       "publicadoEn": "2026-08-13T16:45:00.000Z",
       "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "AI",
-        "Tools & Automation",
-        "Google Sheets"
+        "IA",
+        "herramientas",
+        "automatización",
+        "productividad"
       ],
       "tambienVistoEn": []
     },
@@ -152,18 +185,19 @@
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Apple",
       "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/guide/macbook-ultra/",
-      "tituloOriginal": "MacBook Ultra: Everything We Know About Apple's OLED Touchscreen Mac",
-      "tituloLimpio": "Apple podría lanzar un MacBook Ultra con pantalla OLED y táctil",
-      "resumen": "Apple estaría desarrollando un MacBook Pro de alta gama, posiblemente llamado 'MacBook Ultra', que incluiría una pantalla OLED y táctil, algo inédito en Macs.",
-      "porQueImporta": "Un nuevo MacBook de alta gama con estas características podría ser relevante para profesionales creativos y usuarios de Apple que buscan lo último en tecnología.",
-      "publicadoEn": "2026-08-14T21:48:24.000Z",
-      "globalScore": 90,
+      "url": "https://www.macrumors.com/2026/08/15/top-stories-ios-27-beta-5/",
+      "tituloOriginal": "Top Stories: iOS 27 Beta 5, iPhone 18 Pro Rumors, and More",
+      "tituloLimpio": "Apple finaliza el desarrollo de iOS 27 Beta 5 y surgen rumores del iPhone 18 Pro",
+      "resumen": "Apple está finalizando el trabajo en la versión inicial de iOS 27 mientras se prepara para instalar el sistema operativo en los nuevos modelos de iPhone que saldrán el próximo mes. También hubo rumores sobre una supuesta batería del próximo iPhone 18 Pro Max.",
+      "porQueImporta": "Guido, como usuario de Apple, se beneficia de saber sobre las próximas actualizaciones de iOS y los posibles lanzamientos de hardware, lo que le permite anticipar nuevas funcionalidades y planificar futuras compras.",
+      "publicadoEn": "2026-08-15T13:00:12.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "Hardware",
-        "Rumores"
+        "iOS",
+        "iPhone",
+        "actualizaciones"
       ],
       "tambienVistoEn": []
     },
@@ -171,18 +205,20 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/el-gobierno-publico-el-decreto-que-habilita-los-creditos-dolares-empresas-que-no-generan-divisas-n6311101",
-      "tituloOriginal": "El Gobierno publicó el decreto que habilita los créditos en dólares para empresas que no generan divisas",
-      "tituloLimpio": "El Gobierno habilitó créditos en dólares para empresas que no generan divisas",
-      "resumen": "Se publicó el decreto que permite usar parte de los depósitos en moneda extranjera para financiar a empresas sin ingresos de comercio exterior.",
-      "porQueImporta": "Esta medida es relevante para el mercado financiero argentino y para empresas locales, ya que facilita el acceso a financiamiento en dólares, lo que podría impactar en la economía y las oportunidades de inversión.",
-      "publicadoEn": "2026-08-15T00:50:00.000Z",
-      "globalScore": 88,
+      "url": "https://www.ambito.com/economia/dia-del-nino-2026-proyectan-un-gasto-promedio-57500-regalo-n6311154",
+      "tituloOriginal": "Día del Niño 2026: proyectan un gasto promedio de $57.500 por regalo",
+      "tituloLimpio": "Día del Niño 2026: se proyecta un gasto promedio de $57.500 por regalo en Argentina",
+      "resumen": "La tendencia revela cambios en las prioridades de compra. Los juguetes recuperaron el primer lugar entre las opciones más elegidas.",
+      "porQueImporta": "Esta noticia ofrece una perspectiva del consumo interno en Argentina, relevante para entender el mercado y las tendencias de gasto de las familias, lo cual puede ser útil para estrategias de marketing o análisis económico.",
+      "publicadoEn": "2026-08-15T13:52:00.000Z",
+      "imagen": "https://media.ambito.com/p/389cd933ad2a69598186f879ff2b7b74/adjuntos/239/imagenes/043/577/0043577825/1200x675/764x414:784x434/jugueterias-dia-del-nino.jpg",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Finanzas",
-        "Economía"
+        "consumo",
+        "economía",
+        "marketing"
       ],
       "tambienVistoEn": []
     },
@@ -192,16 +228,17 @@
       "fuente": "Marketing Dive",
       "url": "https://www.marketingdive.com/news/crocs-hatches-new-mascot-niles-to-enrich-brand-storytelling/827895/",
       "tituloOriginal": "Crocs hatches new mascot Niles to enrich brand storytelling",
-      "tituloLimpio": "Crocs presenta a Niles, su nueva mascota, para enriquecer la narrativa de marca",
-      "resumen": "El reptil de 1.80 metros, que aparece en una nueva serie social interactuando con empleados, se espera que sea un elemento a largo plazo en el marketing de Crocs.",
-      "porQueImporta": "Un ejemplo de estrategia de marketing de marca que busca fortalecer la conexión con el público a través de un personaje, relevante para quienes siguen tendencias en marketing y storytelling.",
+      "tituloLimpio": "Crocs lanza a Niles, su nueva mascota, para enriquecer la narrativa de marca",
+      "resumen": "El reptil de 1.80 metros, que aparece en una nueva serie social donde interactúa con empleados reales, se espera que sea un elemento a largo plazo del marketing de Crocs.",
+      "porQueImporta": "Un ejemplo de estrategia de marketing de marca que utiliza personajes y storytelling en redes sociales, lo cual puede inspirar ideas para proyectos propios o de clientes en el ámbito del marketing digital.",
       "publicadoEn": "2026-08-14T14:40:00.000Z",
-      "globalScore": 94,
+      "globalScore": 88,
       "personalScore": 100,
       "tags": [
         "Marketing",
-        "Branding",
-        "Storytelling"
+        "branding",
+        "redes sociales",
+        "storytelling"
       ],
       "tambienVistoEn": []
     },
@@ -209,37 +246,59 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-      "tituloOriginal": "Google will now allow users to remove visible watermark from its AI generations",
-      "tituloLimpio": "Google permitirá a los usuarios eliminar la marca de agua visible de sus generaciones de IA",
-      "resumen": "Desactivar esta configuración no afectará los puntos de referencia invisibles utilizados para identificar un archivo generado por IA.",
-      "porQueImporta": "Esta noticia es importante para quienes trabajan con arte e imágenes generadas por IA, ya que ofrece más control sobre la presentación final del contenido.",
-      "publicadoEn": "2026-08-14T16:13:40.000Z",
-      "globalScore": 94,
+      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "tituloOriginal": "SpaceX officially closes its Cursor acquisition",
+      "tituloLimpio": "SpaceX cierra oficialmente la adquisición de Cursor, la startup de codificación con IA",
+      "resumen": "La startup de codificación con IA Cursor ahora es oficialmente parte de SpaceX.",
+      "porQueImporta": "Esta adquisición destaca la creciente integración de la IA en empresas de alta tecnología y el valor de las startups especializadas en IA, lo que es relevante para Guido por su interés en la IA aplicada.",
+      "publicadoEn": "2026-08-15T16:30:00.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "AI",
-        "Herramientas",
-        "Google"
+        "IA",
+        "negocios",
+        "adquisiciones",
+        "tecnología"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
-      "fuente": "MIT Technology Review AI",
-      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-      "tituloOriginal": "Flock is tightening its rules in response to a growing surveillance backlash",
-      "tituloLimpio": "Flock ajusta sus reglas ante el creciente rechazo a la vigilancia",
-      "resumen": "La empresa de tecnología policial Flock anunció cambios en el acceso de los oficiales a su red de lectores de patentes, en un esfuerzo por calmar el rechazo y recuperar contratos.",
-      "porQueImporta": "Refleja la creciente preocupación por la privacidad y la vigilancia con IA, un tema relevante para el impacto social y ético de la tecnología.",
-      "publicadoEn": "2026-08-13T13:41:10.000Z",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+      "tituloOriginal": "You can now turn off Google Gemini’s visible watermarks",
+      "tituloLimpio": "Google Gemini permite desactivar las marcas de agua visibles en contenido generado por IA",
+      "resumen": "Google ahora permitirá eliminar las marcas de agua visibles de las imágenes, videos y música creados con herramientas de IA. Con la actualización, se puede desactivar una nueva configuración de 'Marca de agua de medios' en Gemini y en el generador de video de IA de Google, Flow.",
+      "porQueImporta": "Para Guido, que trabaja con retoque fotográfico y arte con IA, esta función es clave para tener mayor control sobre el contenido generado y presentarlo de forma más profesional sin marcas intrusivas.",
+      "publicadoEn": "2026-08-14T16:39:32.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "herramientas",
+        "arte con IA",
+        "edición de imágenes"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/15/apple-home-product-roadmap-tv-homepod-smart-display/",
+      "tituloOriginal": "Apple has a huge product roadmap for the smart home: Here’s what’s coming",
+      "tituloLimpio": "Apple presenta una ambiciosa hoja de ruta de productos para el hogar inteligente",
+      "resumen": "Los productos para el hogar de Apple (principalmente HomePod mini y Apple TV) han sido tema de conversación. Siri ha sido el obstáculo para los nuevos lanzamientos de hardware, pero ahora que Siri AI está aquí, se espera que Apple comience a lanzar nuevos productos para el hogar.",
+      "porQueImporta": "Guido, como usuario de Apple, se beneficiará de las novedades en el ecosistema de hogar inteligente, que podrían ofrecer nuevas herramientas y automatizaciones para su vida personal o profesional.",
+      "publicadoEn": "2026-08-15T16:08:09.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "AI",
-        "Privacidad",
-        "Regulación"
+        "Apple",
+        "hogar inteligente",
+        "Siri",
+        "hardware"
       ],
       "tambienVistoEn": []
     },
@@ -247,18 +306,19 @@
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
       "categoria": "Apple",
       "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/08/15/us-commerce-secretary-warns-apple-against-buying-chinese-memory?utm_source=rss",
-      "tituloOriginal": "U.S. Commerce Secretary warns Apple against buying Chinese memory",
-      "tituloLimpio": "La Secretaria de Comercio de EE.UU. advierte a Apple contra la compra de chips de memoria chinos",
-      "resumen": "La Secretaria de Comercio, Howard Lutnick, instó a Apple a no comprar chips de memoria Mac a proveedores chinos, a pesar de la crisis de suministro.",
-      "porQueImporta": "Esta advertencia puede afectar la cadena de suministro de Apple y, potencialmente, la disponibilidad y el precio de sus productos a nivel global.",
-      "publicadoEn": "2026-08-15T12:18:45.000Z",
+      "url": "https://appleinsider.com/articles/20/08/23/apple-versus-epic-games-fortnite-app-store-saga----the-story-so-far?utm_source=rss",
+      "tituloOriginal": "Epic Games vs Apple -- The continuing six-year App Store saga",
+      "tituloLimpio": "Epic Games vs. Apple: la saga de la App Store continúa por seis años",
+      "resumen": "El juicio antimonopolio de Epic Games 'Fortnite' contra la App Store de Apple ha completado su última semana. La demanda de Epic contra Apple por la App Store sigue adelante años después.",
+      "porQueImporta": "Este litigio es importante para Guido porque puede influir en las políticas de las tiendas de aplicaciones, afectando a desarrolladores y modelos de negocio en el ecosistema Apple, lo que podría tener implicaciones para sus herramientas o inversiones.",
+      "publicadoEn": "2026-08-15T14:55:34.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "Negocios",
-        "Geopolítica"
+        "negocios",
+        "App Store",
+        "legal"
       ],
       "tambienVistoEn": []
     },
@@ -269,16 +329,17 @@
       "url": "https://www.macstories.net/news/jungle-shot-11-music-videos-in-four-days-with-apple-creator-studio/",
       "tituloOriginal": "Jungle Shot 11 Music Videos in Four Days with Apple Creator Studio",
       "tituloLimpio": "Jungle filmó 11 videos musicales en cuatro días con Apple Creator Studio",
-      "resumen": "Jungle lanzó su quinto álbum y Apple mostró cómo la banda usó Apple Creator Studio para filmar 11 videos musicales en solo cuatro días.",
-      "porQueImporta": "Destaca la eficiencia y las capacidades de las herramientas de Apple para la producción creativa, relevante para artistas y profesionales del retoque y la edición.",
+      "resumen": "Jungle lanzó su quinto álbum de estudio, Sunshine. Junto con el lanzamiento, Apple publicó cómo la banda usó Apple Creator Studio para filmar 11 videos musicales en solo cuatro días. La caja de herramientas de la banda incluía Logic Pro, Final Cut Pro y Pixelmator Pro.",
+      "porQueImporta": "Demuestra la eficiencia y capacidad de las herramientas de Apple para la producción creativa a gran escala, lo que puede ser inspirador para Guido en su trabajo de arte y retoque fotográfico.",
       "publicadoEn": "2026-08-15T00:06:08.000Z",
       "imagen": "https://cdn.macstories.net/images/uploads/2026/08/14/jungle-transparent-16x9-1786751182429-7620eb5e2f.mp4",
       "globalScore": 96,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "Creatividad",
-        "Herramientas"
+        "creatividad",
+        "herramientas",
+        "producción"
       ],
       "tambienVistoEn": []
     },
@@ -286,19 +347,40 @@
       "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
       "categoria": "Finance",
       "fuente": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-recovering-3-problems-122510148.html",
-      "tituloOriginal": "Tesla Stock Is Recovering. The 3 Problems Underneath It Are Not.",
-      "tituloLimpio": "Las acciones de Tesla se recuperan, pero persisten tres problemas subyacentes",
-      "resumen": "Las acciones de Tesla se están recuperando, pero los tres problemas subyacentes no.",
-      "porQueImporta": "Interesante para inversores que siguen el mercado de acciones y la evolución de empresas tecnológicas como Tesla.",
-      "publicadoEn": "2026-08-15T12:25:10.000Z",
-      "imagen": "https://media.zenfs.com/en/24_7_wall_st__718/d2b9eac0e2c62d43dcf51dead4c69da1.jpg",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bill-gates-portfolio-just-added-154023511.html",
+      "tituloOriginal": "Bill Gates’ Portfolio Just Added Home Depot (HD) Despite Risks. Time to Buy?",
+      "tituloLimpio": "El portfolio de Bill Gates sumó Home Depot (HD) a pesar de los riesgos",
+      "resumen": "No se proporcionó resumen en la fuente original.",
+      "porQueImporta": "Para Guido, interesado en inversiones y ETFs, conocer los movimientos de grandes inversores como Bill Gates puede ofrecer insights sobre tendencias del mercado y decisiones de inversión.",
+      "publicadoEn": "2026-08-15T15:40:23.000Z",
+      "imagen": "https://media.zenfs.com/en/insidermonkey.com/519b4fabd64da12727a0c936a0737c4d.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "Finance",
-        "Inversiones",
-        "Mercado"
+        "Finanzas",
+        "inversiones",
+        "mercado"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-run-sandisk-soars-nvidia-buy-walmart-target/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Dow Jones Futures: Market Ready To Run? Sandisk Soars, Nvidia In Buy Area; Walmart, Target Due",
+      "tituloLimpio": "Dow Jones Futures: ¿El mercado listo para correr? Sandisk sube, Nvidia en zona de compra",
+      "resumen": "No se proporcionó resumen en la fuente original.",
+      "porQueImporta": "Esta noticia ofrece un panorama del mercado de valores, con menciones a empresas tecnológicas como Nvidia, relevante para Guido por su interés en inversiones y el sector tecnológico.",
+      "publicadoEn": "2026-08-15T12:00:32.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/7a71877e6fdc59a577000e45ca772655.jpg",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "inversiones",
+        "mercado",
+        "tecnología"
       ],
       "tambienVistoEn": []
     },
@@ -306,19 +388,20 @@
       "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
       "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns",
-      "tituloOriginal": "Wall Street's private blockchain obsession is a 'race to the bottom,' Ethereum advocate Raman warns",
-      "tituloLimpio": "La obsesión de Wall Street por las blockchains privadas es una 'carrera hacia el fondo', advierte un defensor de Ethereum",
-      "resumen": "Las redes controladas centralmente y con permisos tienen un papel en las finanzas, pero necesitan una base abierta y transparente para aprovechar los beneficios de la tecnología blockchain.",
-      "porQueImporta": "Un debate relevante sobre el futuro de las finanzas y la tecnología blockchain, importante para quienes invierten o siguen el sector cripto.",
-      "publicadoEn": "2026-08-15T12:00:00.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/054e8b00cc0763cb2f60b81628edb94088c7ec52-4032x2268.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "url": "https://www.coindesk.com/markets/2026/08/15/robot-maker-unitree-is-going-public-hyperliquid-traders-see-4x-upside-from-ipo-price",
+      "tituloOriginal": "Robot maker Unitree is going public. Hyperliquid traders see 4x upside from IPO price",
+      "tituloLimpio": "El fabricante de robots Unitree sale a bolsa; traders ven un potencial de 4x desde el precio de IPO",
+      "resumen": "Los traders de Hyperliquid valoran a Unitree en casi 38 mil millones de dólares frente a los 9 mil millones de su IPO, dejando las apuestas apalancadas vulnerables cuando comience la negociación, según analistas de Allium.",
+      "porQueImporta": "Una oportunidad de inversión en el sector de la robótica y la tecnología, que puede ser de interés para Guido por su perfil inversor y su interés en la IA y la automatización.",
+      "publicadoEn": "2026-08-15T16:00:00.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/3e83c36265299fba3f2f0b391d99713fbc72eefb-6322x4215.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
       "globalScore": 96,
       "personalScore": 100,
       "tags": [
-        "Finance",
-        "Blockchain",
-        "Cripto"
+        "Finanzas",
+        "inversiones",
+        "tecnología",
+        "robótica"
       ],
       "tambienVistoEn": []
     },
@@ -326,19 +409,20 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/milei-chino-miembro-pc-paso-motosierra-abrio-comercio-inflacion-30_0_gxUkf4m56A.html",
-      "tituloOriginal": "¿Un Milei chino? Quién fue el miembro del PC que pasó 'la motosierra', abrió el comercio y bajó la inflación del 30%",
-      "tituloLimpio": "¿Un Milei chino? Quién fue el miembro del PC que pasó 'la motosierra', abrió el comercio y bajó la inflación del 30%",
-      "resumen": "Falleció esta semana Zhu Rongji. Lideró un proceso de reformas profundas en China, marcado por la eficientización del Estado y millones de empleados públicos que quedaron en la calle.",
-      "porQueImporta": "Ofrece una perspectiva histórica sobre reformas económicas drásticas y su impacto, relevante para entender debates económicos actuales en Argentina.",
-      "publicadoEn": "2026-08-15T10:58:46.000Z",
-      "imagen": "https://www.clarin.com/img/2026/08/15/XXt3rObaO_1200x630__1.jpg",
+      "url": "https://www.clarin.com/economia/flamante-fondo-asistencia-laboral-hecha-ley-nace-negocio-bancos-pican-punta_0_f26qJqmxEP.html",
+      "tituloOriginal": "El flamante Fondo de Asistencia Laboral: hecha la ley, nace el negocio y los bancos ya pican en punta",
+      "tituloLimpio": "El Fondo de Asistencia Laboral (FAL) se convierte en ley y los bancos se posicionan",
+      "resumen": "Están listos para ser gestores del FAL, ideado para afrontar los costos de despidos y juicios laborales. Sumará unos US$ 5.000 millones. Las claves de su funcionamiento.",
+      "porQueImporta": "Esta nueva ley en Argentina tiene un impacto directo en el ámbito laboral y financiero, creando un nuevo negocio para los bancos y afectando la economía local, lo cual es relevante para Guido como residente y potencial inversor.",
+      "publicadoEn": "2026-08-15T14:18:07.000Z",
+      "imagen": "https://www.clarin.com/img/2026/08/15/BT_Fc6EIz_1200x630__1.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Economía",
-        "Historia"
+        "economía",
+        "finanzas",
+        "legal"
       ],
       "tambienVistoEn": []
     },
@@ -346,19 +430,20 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/08/15/mora-record-por-que-el-gobierno-rechaza-asistir-a-las-familias-endeudadas/",
-      "tituloOriginal": "Mora récord: por qué el Gobierno rechaza asistir a las familias endeudadas",
-      "tituloLimpio": "Mora récord: por qué el Gobierno rechaza asistir a las familias endeudadas",
-      "resumen": "La estrategia oficial apunta a que los bancos refinancien pasivos sin intervención estatal, mientras el sistema financiero advierte demoras en el impacto estadístico por exigencias contables.",
-      "porQueImporta": "Describe una política económica actual del gobierno argentino con impacto directo en las familias y el sistema bancario, relevante para entender el contexto económico local.",
-      "publicadoEn": "2026-08-15T04:02:39.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/RARNUXDD35HKLK5YP7KJRC4CYA.png?auth=54911238cf3d6cc4bcb69efc4462da183c95621a877393d11614ad6ca334fcfb&smart=true&width=1408&height=768",
-      "globalScore": 88,
+      "url": "https://www.infobae.com/economia/2026/08/15/radiografia-de-la-pobreza-que-tipo-de-trabajadores-quedaron-mas-expuestos-y-que-proyectan-los-analistas/",
+      "tituloOriginal": "Radiografía de la pobreza: qué tipo de trabajadores quedaron más expuestos y qué proyectan los analistas",
+      "tituloLimpio": "Radiografía de la pobreza en Argentina: qué trabajadores están más expuestos y proyecciones",
+      "resumen": "Las estimaciones privadas muestran un deterioro transversal y anticipan pocos movimientos en los próximos meses, aun con alivios puntuales en ingresos.",
+      "porQueImporta": "Ofrece un panorama socioeconómico de Argentina, crucial para entender el contexto del país y las posibles implicaciones en el consumo y el mercado laboral.",
+      "publicadoEn": "2026-08-15T15:46:40.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/R3GSP6UKMBH5JKBS7NGSKQRKZE.jpg?auth=69a15bb354f6c0591ccaa30611410f2c3a2607acaa73e9d30d6b5fe000a58f34&smart=true&width=4697&height=3131",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Economía",
-        "Finanzas Personales"
+        "economía",
+        "sociedad",
+        "análisis"
       ],
       "tambienVistoEn": []
     },
@@ -366,25 +451,47 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/dolar/a-cuanto-abre-el-dolar-el-martes-18-de-agosto-nid15082026/",
-      "tituloOriginal": "A cuánto abre el dólar el martes 18 de agosto",
-      "tituloLimpio": "A cuánto abre el dólar el martes 18 de agosto",
-      "resumen": "La cotización de la divisa oficial abre con los mismos números que en su último día de cierre; así se posicionó el último día hábil.",
-      "porQueImporta": "Información esencial para cualquier residente en Argentina, dado el impacto del dólar en la economía diaria y las decisiones de inversión.",
-      "publicadoEn": "2026-08-15T11:48:00.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/25V7Y2SHK5FL5LIELVIT5BZQJU.png?auth=f4ef0350c9f915c73d6b04a14562a5b35d3951192c4e97c2f22958dd98c8430f&smart=true&width=2000&height=1333",
+      "url": "https://www.lanacion.com.ar/economia/campo/tiene-300-estudiantes-una-escuela-investiga-un-valioso-suplemento-para-la-produccion-de-una-nid15082026/",
+      "tituloOriginal": "Tiene 300 estudiantes: una escuela investiga un valioso suplemento para la producción de una provincia",
+      "tituloLimpio": "Una escuela agropecuaria investiga un suplemento valioso para la producción de una provincia",
+      "resumen": "En un colegio agropecuario de Gobernador Gregores, Santa Cruz, se analiza el impacto del pellet proteico-energético producido con materia prima local para la ganadería ovina.",
+      "porQueImporta": "Destaca una iniciativa de innovación y desarrollo local en Argentina, mostrando cómo la investigación aplicada puede generar valor en sectores productivos, lo cual es un ejemplo de desarrollo tecnológico y económico en el país.",
+      "publicadoEn": "2026-08-15T16:30:00.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/WHJ3HDIQFBAEJL5Q2AB3GP5VHQ.jpg?auth=7f48d11b8a4a1c6aafcfbfd4668bc1c6e9c4840f7cf075c685826ba747b3f7fa&smart=true&width=1890&height=1063",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Dólar",
-        "Economía"
+        "innovación",
+        "producción",
+        "tecnología"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Politica",
+      "url": "https://www.lanacion.com.ar/politica/a-pedido-de-los-gobernadores-el-gobierno-evalua-cambios-en-la-integracion-del-directorio-del-bcra-nid15082026/",
+      "tituloOriginal": "A pedido de los gobernadores, el Gobierno evalúa cambios en la integración del directorio del BCRA",
+      "tituloLimpio": "El Gobierno evalúa cambios en la integración del directorio del BCRA a pedido de gobernadores",
+      "resumen": "Mandatarios del Norte Grande proponen que al menos tres de los ocho directores acrediten “trayectoria relevante” por fuera de la Capital; el oficialismo busca seducirlos para que acompañen la eliminación de las PASO.",
+      "porQueImporta": "Esta noticia política y económica en Argentina puede tener implicaciones en la gobernanza del Banco Central y la política monetaria, afectando el clima de inversión y la estabilidad económica del país.",
+      "publicadoEn": "2026-08-15T15:47:38.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/6FCQJQS23VBZZMEWLBKTDXIV2Y.jpg?auth=d73832e0280517afef2b9b4f9650d9801d596e1a03559ff6c4459bbd10a108a1&smart=true&width=1011&height=741",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "política",
+        "economía",
+        "BCRA"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-08-15T12:41:59.273Z"
+    "generadoEn": "2026-08-15T17:19:42.269Z"
   }
 }
