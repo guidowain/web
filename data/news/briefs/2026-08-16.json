@@ -1,180 +1,166 @@
 {
   "fecha": "2026-08-16",
-  "generadoEn": "2026-08-16T12:43:22.564Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "Esta semana, Google presentó Sheets Canvas para transformar datos en paneles interactivos con IA. Apple sigue ajustando iOS 27 y se conocieron rumores del iPhone 18 Pro. En Argentina, el plazo fijo en dólares ofrece mejores rendimientos online, mientras Wall Street reduce su exposición por la baja del apoyo al gobierno. El peronismo busca unidad de cara a 2027 y Carbap advierte sobre la infraestructura rural ante El Niño. En el ámbito de la IA, surgieron preocupaciones por el uso de Grok para generar imágenes explícitas. Además, se destacó un editor de código ligero para Mac y la saga legal entre Epic Games y Apple continúa.",
+  "generadoEn": "2026-08-16T17:18:40.077Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "En el ámbito de la inteligencia artificial, Google presentó AMIE, un sistema de IA médica para consultas de video, mientras que ChatGPT lanzó una función de historial que registra la actividad del usuario. En el sector Apple, se destacaron descuentos en AirPods 4 y AirTag, y una aplicación de edición de código para Mac. En Argentina, Carlos Melconian advirtió sobre el dólar y la economía, y se revelaron detalles sobre la reglamentación de un fondo de indemnizaciones. En marketing, Crocs introdujo una nueva mascota para su storytelling de marca.",
   "radarPersonal": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "titulo": "Google Sheets Canvas: Transformá datos en paneles interactivos con IA",
-      "resumen": "Sheets Canvas convierte datos en paneles interactivos, rastreadores de estudio personalizados y más, todo con una simple indicación.",
+      "titulo": "Google presenta AMIE, un sistema de IA médica para consultas de video en tiempo real",
+      "resumen": "Google introduce AMIE para consultas de video clínicas en tiempo real en entornos simulados.",
       "categoria": "AI",
       "fuentes": [
         "Google AI Blog"
       ],
       "urls": [
-        "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/"
+        "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/"
       ],
       "score": 100,
       "tags": [
-        "Google",
-        "Sheets",
-        "Canvas",
-        "IA",
-        "automatización"
+        "ia",
+        "medicina",
+        "investigacion"
+      ]
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "El historial de ChatGPT registra clics y pulsaciones de teclas",
+      "resumen": "La aplicación de escritorio de ChatGPT en macOS tiene una nueva función llamada Historial de la Computadora que convierte tus acciones en datos de entrenamiento, aprendiendo cómo trabajás, sugiriendo automatizaciones e incluso retomando tareas que dejaste a medio hacer.",
+      "categoria": "AI",
+      "fuentes": [
+        "The Verge AI"
+      ],
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes"
+      ],
+      "score": 100,
+      "tags": [
+        "chatgpt",
+        "macos",
+        "automatizacion",
+        "privacidad"
       ]
     },
     {
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "Plazo fijo en dólares en Argentina: cuánto se gana a 30 días",
-      "resumen": "Las entidades actualizaron sus tasas de interés y ofrecen mejores rendimientos para quienes eligen operar de forma online.",
-      "categoria": "Finance",
+      "titulo": "Carlos Melconian alertó por el dólar y advirtió que el Gobierno deberá cambiar",
+      "resumen": "El economista cuestionó el atraso cambiario, alertó por los costos en dólares y sostuvo que el Gobierno deberá elegir entre comprar reservas, reactivar o bajar la inflación.",
+      "categoria": "Argentina",
       "fuentes": [
         "Ambito"
       ],
       "urls": [
-        "https://www.ambito.com/economia/plazo-fijo-dolares-cuanto-se-gana-30-dias-si-invierto-us500-n6310852"
+        "https://www.ambito.com/economia/carlos-melconian-alerto-el-dolar-y-advirtio-javier-milei-el-gobierno-va-tener-que-cambiar-n6311337"
       ],
       "score": 100,
       "tags": [
-        "Argentina",
-        "inversión",
-        "dólares",
-        "plazo fijo"
+        "economia",
+        "dolar",
+        "inflacion",
+        "argentina"
       ]
     },
     {
-      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
-      "titulo": "Notepad.exe: un editor de código ultra rápido y ligero para Mac",
-      "resumen": "Esta aplicación es un editor de código ultra rápido y ligero para Mac.",
-      "categoria": "Apple",
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "titulo": "Inversores de cripto miran más allá de los rankings por capitalización de mercado",
+      "resumen": "Los inversores están empezando a juzgar los tokens de cripto por el uso, la economía y la captura de valor en lugar del ranking por capitalización de mercado, según ejecutivos de la industria.",
+      "categoria": "Finance",
       "fuentes": [
-        "9to5Mac"
+        "CoinDesk"
       ],
       "urls": [
-        "https://9to5mac.com/2026/08/15/indie-app-spotlight-notepad-exe-is-an-ultra-fast-lightweight-code-editor-for-your-mac/"
+        "https://www.coindesk.com/business/2026/08/16/crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals"
       ],
       "score": 100,
       "tags": [
-        "Apple",
-        "herramientas",
-        "productividad",
-        "Mac"
+        "criptomonedas",
+        "inversion",
+        "mercado"
       ]
     },
     {
-      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
-      "titulo": "Wall Street reduce su exposición en Argentina por baja del apoyo al Gobierno",
-      "resumen": "El apoyo a la gestión oficial se estancó en el 35%, insuficiente para ganar en 2027. Los inversores no quieren arriesgar en un escenario electoral complicado.",
-      "categoria": "Argentina",
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "titulo": "Crocs presenta a Niles, su nueva mascota, para enriquecer la narrativa de marca",
+      "resumen": "El reptil de 1,80 metros, que aparece en una nueva serie social donde interactúa con empleados reales, se espera que sea un elemento a largo plazo del marketing de Crocs.",
+      "categoria": "Marketing",
       "fuentes": [
-        "Infobae Economia"
+        "Marketing Dive"
       ],
       "urls": [
-        "https://www.infobae.com/economia/2026/08/16/wall-street-reduce-su-exposicion-en-argentina-hay-alerta-por-la-baja-del-apoyo-al-gobierno/"
+        "https://www.marketingdive.com/news/crocs-hatches-new-mascot-niles-to-enrich-brand-storytelling/827895/"
       ],
       "score": 100,
       "tags": [
-        "Argentina",
-        "inversión",
-        "mercados",
-        "política"
+        "marketing",
+        "marca",
+        "storytelling"
       ]
     }
   ],
   "loImportante": [
-    "La IA sigue integrándose en herramientas de productividad como Google Sheets, permitiendo la creación de paneles interactivos con indicaciones simples.",
-    "En Argentina, los plazos fijos en dólares ofrecen mejores rendimientos online, lo que puede ser una opción para inversores locales.",
-    "La preocupación por el uso indebido de IA para generar contenido explícito subraya la necesidad de regulaciones y ética en el desarrollo de estas tecnologías.",
-    "El mercado argentino enfrenta una reducción de exposición por parte de Wall Street, influenciada por el panorama político y electoral de 2027.",
-    "Apple continúa con el desarrollo de iOS 27 y se anticipan novedades para los próximos modelos de iPhone."
+    "Google avanza en IA médica con AMIE, un sistema para consultas de video en tiempo real.",
+    "ChatGPT introduce una función de historial en macOS que registra la actividad del usuario, lo que podría impactar la automatización y la privacidad.",
+    "En Argentina, Carlos Melconian advierte sobre el atraso cambiario y la necesidad de cambios en la política económica.",
+    "Los inversores en criptomonedas están reorientando su foco hacia los fundamentos y el uso real de los tokens, más allá de la capitalización de mercado.",
+    "Crocs apuesta por una nueva mascota para fortalecer su estrategia de storytelling de marca."
   ],
   "oportunidades": [
     {
-      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "categoria": "AI",
-      "titulo": "Automatización de datos con Sheets Canvas",
-      "detalle": "La nueva función de Google Sheets permite transformar datos en paneles interactivos y rastreadores personalizados usando prompts, lo que puede optimizar flujos de trabajo en retoque fotográfico y arte con IA.",
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "Automation",
+      "titulo": "Aprovechar el historial de ChatGPT para automatización personalizada",
+      "detalle": "La nueva función de historial de ChatGPT en macOS puede aprender cómo trabajás y sugerir automatizaciones. Esto abre una oportunidad para optimizar flujos de trabajo en retoque fotográfico y arte con IA.",
       "acciones": [
-        "Explorar Sheets Canvas para organizar proyectos y datos de clientes.",
-        "Probar la creación de paneles interactivos para seguimiento de proyectos o finanzas personales."
+        "Explorar cómo esta función puede integrarse en herramientas de IA para optimizar procesos creativos.",
+        "Evaluar la capacidad de ChatGPT para aprender tareas repetitivas y automatizarlas."
       ]
     },
     {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Investing",
-      "titulo": "Mejores rendimientos en plazos fijos en dólares online",
-      "detalle": "Las entidades bancarias en Argentina están ofreciendo tasas de interés más atractivas para plazos fijos en dólares si se operan de forma online.",
+      "titulo": "Reevaluar inversiones en cripto basándose en fundamentos",
+      "detalle": "La tendencia de los inversores de criptomonedas a mirar más allá de la capitalización de mercado y enfocarse en el uso y los fundamentos ofrece una oportunidad para identificar proyectos con valor real a largo plazo.",
       "acciones": [
-        "Revisar las tasas actuales de plazos fijos en dólares en bancos locales.",
-        "Considerar la opción online para obtener mejores rendimientos en inversiones a corto plazo."
+        "Investigar proyectos de cripto con modelos de uso y economía sólidos.",
+        "Considerar la diversificación de la cartera de cripto basándose en análisis fundamental."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "categoria": "AI",
-      "titulo": "Uso indebido de IA para generar imágenes explícitas",
-      "detalle": "Una mujer denunció que su padrastro usó Grok para transformar una foto de su infancia en imágenes explícitas, lo que resalta los riesgos éticos y de seguridad de las herramientas de IA.",
-      "mitigacion": "Mantenerse informado sobre las políticas de uso y seguridad de las herramientas de IA. Ser cauteloso con la información personal y las imágenes que se suben a plataformas de IA."
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "Privacy",
+      "titulo": "Riesgo de privacidad con el historial de ChatGPT",
+      "detalle": "La función de historial de ChatGPT que registra clics y pulsaciones de teclas podría generar preocupaciones sobre la privacidad y la seguridad de los datos personales y profesionales.",
+      "mitigacion": "Revisar la configuración de privacidad de ChatGPT y limitar el acceso a datos sensibles. Evaluar alternativas o herramientas que ofrezcan mayor control sobre la información personal."
     },
     {
-      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Market",
-      "titulo": "Reducción de exposición de Wall Street en Argentina",
-      "detalle": "Wall Street está reduciendo su exposición en Argentina debido a la baja del apoyo al gobierno y un escenario electoral complicado para 2027, lo que podría impactar la inversión y la estabilidad económica.",
-      "mitigacion": "Diversificar inversiones y no depender exclusivamente del mercado local. Monitorear de cerca el panorama político y económico de Argentina."
+      "titulo": "Incertidumbre económica en Argentina por el dólar",
+      "detalle": "Las advertencias de Carlos Melconian sobre el atraso cambiario y la necesidad de cambios en la política económica sugieren un período de incertidumbre y posibles ajustes en el mercado argentino.",
+      "mitigacion": "Monitorear de cerca las decisiones económicas del gobierno y sus efectos en el tipo de cambio. Considerar estrategias de inversión que mitiguen la volatilidad cambiaria."
     }
   ],
-  "conexiones": [
-    {
-      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
-      "titulo": "Finanzas tradicionales y activos digitales: una nueva era",
-      "historias": [
-        "La era de 'long bitcoin, short the bankers' terminó, ya que los gigantes de las finanzas tradicionales adoptan los activos digitales.",
-        "Wall Street reduce su exposición en Argentina, lo que podría llevar a buscar nuevas formas de inversión y diversificación, incluyendo activos digitales."
-      ],
-      "conclusion": "La integración de las finanzas tradicionales con los activos digitales podría ofrecer nuevas vías de inversión en un contexto donde los mercados emergentes, como Argentina, enfrentan incertidumbre."
-    }
-  ],
+  "conexiones": [],
   "noticias": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
       "categoria": "AI",
       "fuente": "Google AI Blog",
-      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-      "tituloOriginal": "Bring your spreadsheet data to life with Sheets canvas",
-      "tituloLimpio": "Google Sheets Canvas transforma datos en paneles interactivos con IA",
-      "resumen": "Sheets Canvas convierte datos en paneles interactivos, rastreadores de estudio personalizados y más, todo con una simple indicación.",
-      "porQueImporta": "Para Guido, que trabaja con IA y automatización, esta herramienta de Google puede simplificar la gestión de datos y la creación de visualizaciones interactivas para proyectos o finanzas.",
-      "publicadoEn": "2026-08-13T16:45:00.000Z",
-      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp",
-      "globalScore": 98,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+      "tituloOriginal": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "tituloLimpio": "Google presenta AMIE, un sistema de IA médica para consultas de video en tiempo real",
+      "resumen": "Google introduce AMIE para consultas de video clínicas en tiempo real en entornos simulados.",
+      "porQueImporta": "Muestra el avance de la IA en aplicaciones prácticas y sensibles como la medicina, lo que podría influir en el desarrollo de otras herramientas de IA aplicada.",
+      "publicadoEn": "2026-08-11T17:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIME_SIZZLE_THUMBNAIL.Aug10.max-600x600.format-webp.webp",
+      "globalScore": 88,
       "personalScore": 100,
       "tags": [
-        "AI",
-        "Tools & Automation",
-        "Google"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "categoria": "Apple",
-      "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/08/15/top-stories-ios-27-beta-5/",
-      "tituloOriginal": "Top Stories: iOS 27 Beta 5, iPhone 18 Pro Rumors, and More",
-      "tituloLimpio": "Apple avanza con iOS 27 Beta 5 y rumores del iPhone 18 Pro",
-      "resumen": "Apple está finalizando el trabajo en la versión inicial de iOS 27 mientras se prepara para instalar el sistema operativo en los nuevos modelos de iPhone que saldrán el próximo mes. También hubo rumores sobre una batería del próximo iPhone 18 Pro Max.",
-      "porQueImporta": "Como usuario de Apple, Guido estará interesado en las novedades de iOS y los futuros modelos de iPhone, que podrían influir en su trabajo o uso personal.",
-      "publicadoEn": "2026-08-15T13:00:12.000Z",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "Apple",
-        "iPhone",
-        "iOS"
+        "ia",
+        "medicina",
+        "investigacion"
       ],
       "tambienVistoEn": []
     },
@@ -182,18 +168,20 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/plazo-fijo-dolares-cuanto-se-gana-30-dias-si-invierto-us500-n6310852",
-      "tituloOriginal": "Plazo fijo en dólares: cuánto se gana a 30 días si invierto u$s500",
-      "tituloLimpio": "Plazo fijo en dólares en Argentina: cuánto se puede ganar a 30 días",
-      "resumen": "Las entidades actualizaron sus tasas de interés y ofrecen mejores rendimientos para quienes eligen operar de forma online.",
-      "porQueImporta": "Esta noticia es directamente relevante para Guido, que vive en Argentina y le interesa la inversión, ya que le informa sobre opciones para rentabilizar sus dólares localmente.",
-      "publicadoEn": "2026-08-16T11:00:00.000Z",
+      "url": "https://www.ambito.com/economia/carlos-melconian-alerto-el-dolar-y-advirtio-javier-milei-el-gobierno-va-tener-que-cambiar-n6311337",
+      "tituloOriginal": "Carlos Melconian alertó por el dólar y advirtió a Javier Milei: \"El Gobierno va a tener que cambiar\"",
+      "tituloLimpio": "Carlos Melconian alertó por el dólar y advirtió que el Gobierno deberá cambiar",
+      "resumen": "El economista cuestionó el atraso cambiario, alertó por los costos en dólares y sostuvo que el Gobierno deberá elegir entre comprar reservas, reactivar o bajar la inflación.",
+      "porQueImporta": "Es una señal importante sobre la situación económica argentina y las posibles decisiones que el gobierno podría tomar, afectando directamente el poder adquisitivo y las inversiones.",
+      "publicadoEn": "2026-08-16T16:26:00.000Z",
+      "imagen": "https://media.ambito.com/p/9fa7d760589092fdbad82baa653b9679/adjuntos/239/imagenes/043/322/0043322259/carlos-melconian.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "Argentina",
-        "Finance",
-        "Inversión"
+        "economia",
+        "dolar",
+        "inflacion",
+        "argentina"
       ],
       "tambienVistoEn": []
     },
@@ -204,15 +192,15 @@
       "url": "https://www.marketingdive.com/news/crocs-hatches-new-mascot-niles-to-enrich-brand-storytelling/827895/",
       "tituloOriginal": "Crocs hatches new mascot Niles to enrich brand storytelling",
       "tituloLimpio": "Crocs presenta a Niles, su nueva mascota, para enriquecer la narrativa de marca",
-      "resumen": "El reptil de 1.80 metros, que aparece en una nueva serie social interactuando con empleados reales, se espera que sea un elemento a largo plazo del marketing de Crocs.",
-      "porQueImporta": "Para Guido, interesado en marketing, es un ejemplo de cómo las marcas utilizan personajes y storytelling para conectar con la audiencia, algo aplicable a estrategias de marketing digital o de IA.",
+      "resumen": "El reptil de 1,80 metros, que aparece en una nueva serie social donde interactúa con empleados reales, se espera que sea un elemento a largo plazo del marketing de Crocs.",
+      "porQueImporta": "Ejemplo de cómo las marcas buscan innovar en su storytelling y marketing para conectar con la audiencia, relevante para entender tendencias en el sector.",
       "publicadoEn": "2026-08-14T14:40:00.000Z",
       "globalScore": 88,
       "personalScore": 100,
       "tags": [
-        "Marketing",
-        "Branding",
-        "Storytelling"
+        "marketing",
+        "marca",
+        "storytelling"
       ],
       "tambienVistoEn": []
     },
@@ -220,18 +208,18 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-      "tituloOriginal": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-      "tituloLimpio": "Denuncia de uso de Grok para transformar foto de infancia en imágenes explícitas",
-      "resumen": "Una mujer afirmó que las herramientas de IA están 'convirtiendo la vida cotidiana en abuso sexual infantil'.",
-      "porQueImporta": "Esta noticia es crucial para Guido, que trabaja con arte e IA, ya que resalta los riesgos éticos y las implicaciones negativas del uso de la inteligencia artificial, generando conciencia sobre la seguridad y la responsabilidad.",
-      "publicadoEn": "2026-08-15T21:29:19.000Z",
-      "globalScore": 94,
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "tituloOriginal": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "tituloLimpio": "El CEO de Anthropic dice que la reacción negativa a la IA es una crisis de confianza",
+      "resumen": "Dario Amodei está rechazando la idea de que ha estado pintando una imagen demasiado pesimista de la IA.",
+      "porQueImporta": "Refleja el debate actual sobre la percepción pública de la IA y la importancia de la confianza en su desarrollo y adopción, crucial para el futuro de la industria.",
+      "publicadoEn": "2026-08-16T16:53:51.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "AI",
-        "Ética",
-        "Seguridad"
+        "ia",
+        "confianza",
+        "etica"
       ],
       "tambienVistoEn": []
     },
@@ -239,36 +227,19 @@
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
       "fuente": "The Verge AI",
-      "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
-      "tituloOriginal": "Have a laugh at AI’s expense by roleplaying as a chatbot",
-      "tituloLimpio": "Roleplaying como chatbot para reírse de la IA",
-      "resumen": "La simplicidad de 'Your AI Slop Bores Me' es brillante. Hay dos pestañas: humano y LARP como una IA. En un lado ingresas una solicitud. En el otro, envías una respuesta.",
-      "porQueImporta": "Para Guido, que trabaja con IA, esta noticia ofrece una perspectiva lúdica y crítica sobre la interacción con chatbots, útil para entender las limitaciones y la percepción pública de la IA.",
-      "publicadoEn": "2026-08-15T20:45:00.000Z",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+      "tituloOriginal": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+      "tituloLimpio": "El historial de ChatGPT registra clics y pulsaciones de teclas",
+      "resumen": "La aplicación de escritorio de ChatGPT en macOS tiene una nueva función llamada Historial de la Computadora que convierte tus acciones en datos de entrenamiento, aprendiendo cómo trabajás, sugiriendo automatizaciones e incluso retomando tareas que dejaste a medio hacer.",
+      "porQueImporta": "Esta función puede ser muy útil para la automatización y la productividad, pero también plantea interrogantes sobre la privacidad de los datos en el uso de herramientas de IA.",
+      "publicadoEn": "2026-08-16T14:56:40.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "AI",
-        "Entretenimiento"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "categoria": "AI",
-      "fuente": "MIT Technology Review AI",
-      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-      "tituloOriginal": "Flock is tightening its rules in response to a growing surveillance backlash",
-      "tituloLimpio": "Flock endurece sus reglas ante la creciente reacción contra la vigilancia",
-      "resumen": "El gigante de la tecnología policial Flock anuncia hoy que cambiará el acceso de los oficiales a su red nacional de lectores de matrículas, en un aparente esfuerzo por calmar una creciente reacción y recuperar contratos perdidos.",
-      "porQueImporta": "Aunque no es directamente sobre arte o retoque, la noticia sobre la vigilancia y la IA es relevante para Guido por el impacto social y ético de la tecnología, y cómo las empresas responden a las preocupaciones públicas.",
-      "publicadoEn": "2026-08-13T13:41:10.000Z",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "AI",
-        "Vigilancia",
-        "Regulación"
+        "chatgpt",
+        "macos",
+        "automatizacion",
+        "privacidad"
       ],
       "tambienVistoEn": []
     },
@@ -278,55 +249,38 @@
       "fuente": "9to5Mac",
       "url": "https://9to5mac.com/2026/08/15/indie-app-spotlight-notepad-exe-is-an-ultra-fast-lightweight-code-editor-for-your-mac/",
       "tituloOriginal": "Indie App Spotlight: ‘Notepad.exe’ is an ultra-fast, lightweight code editor for your Mac",
-      "tituloLimpio": "Notepad.exe: un editor de código ultra rápido y ligero para Mac",
-      "resumen": "Esta aplicación es un editor de código ultra rápido y ligero para Mac.",
-      "porQueImporta": "Como usuario de Mac y alguien interesado en herramientas de productividad, Guido podría encontrar este editor útil para tareas de codificación rápidas o para experimentar con scripts de automatización.",
+      "tituloLimpio": "Notepad.exe es un editor de código ultrarrápido y ligero para Mac",
+      "resumen": "Notepad.exe es un editor de código ultrarrápido y ligero para tu Mac.",
+      "porQueImporta": "Una herramienta útil para desarrolladores y artistas de IA que trabajen con código en Mac, ofreciendo una alternativa eficiente a editores más pesados.",
       "publicadoEn": "2026-08-15T19:30:00.000Z",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "Apple",
-        "Tools & Automation",
-        "Productividad"
+        "apple",
+        "herramientas",
+        "desarrollo",
+        "mac"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
-      "categoria": "Apple",
-      "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/20/08/23/apple-versus-epic-games-fortnite-app-store-saga----the-story-so-far?utm_source=rss",
-      "tituloOriginal": "Epic Games vs Apple -- The continuing six-year App Store saga",
-      "tituloLimpio": "La saga Epic Games vs. Apple por la App Store continúa por seis años",
-      "resumen": "El juicio antimonopolio de Epic Games 'Fortnite' contra la App Store de Apple ha completado su última semana. Aquí está lo que necesita saber sobre la saga, con los argumentos finales pendientes.",
-      "porQueImporta": "Para Guido, como usuario de Apple, es importante seguir las disputas legales que afectan el ecosistema de aplicaciones, ya que pueden influir en el desarrollo de software y las políticas de la plataforma.",
-      "publicadoEn": "2026-08-15T14:55:34.000Z",
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cud3Nq",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.wsj.com/personal-finance/a-breakdown-of-the-financial-advice-thats-flying-all-over-tiktok-2c466e70?siteid=yhoof2&yptr=yahoo",
+      "tituloOriginal": "A Breakdown of the Financial Advice That’s Flying All Over TikTok",
+      "tituloLimpio": "Un análisis de los consejos financieros que circulan en TikTok",
+      "resumen": "",
+      "porQueImporta": "Es relevante para entender cómo se difunde la información financiera hoy en día y la necesidad de discernir entre consejos útiles y desinformación, especialmente para inversores.",
+      "publicadoEn": "2026-08-16T16:16:00.000Z",
+      "imagen": "https://media.zenfs.com/en/wsj.com/45cc5054bdf324cc4e012684247086dc.jpg",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "Apple",
-        "Business",
-        "Legal"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
-      "categoria": "Apple",
-      "fuente": "MacStories",
-      "url": "https://www.macstories.net/news/jungle-shot-11-music-videos-in-four-days-with-apple-creator-studio/",
-      "tituloOriginal": "Jungle Shot 11 Music Videos in Four Days with Apple Creator Studio",
-      "tituloLimpio": "Jungle filmó 11 videos musicales en cuatro días con Apple Creator Studio",
-      "resumen": "Jungle lanzó su quinto álbum de estudio, Sunshine. Junto con el lanzamiento, Apple publicó cómo la banda usó Apple Creator Studio para filmar 11 videos musicales en solo cuatro días.",
-      "porQueImporta": "Para Guido, que trabaja en arte y retoque fotográfico, esta noticia muestra el potencial de las herramientas de Apple para la producción creativa a gran escala y en poco tiempo, lo que podría inspirar sus propios flujos de trabajo.",
-      "publicadoEn": "2026-08-15T00:06:08.000Z",
-      "imagen": "https://cdn.macstories.net/images/uploads/2026/08/14/jungle-transparent-16x9-1786751182429-7620eb5e2f.mp4",
-      "globalScore": 90,
-      "personalScore": 100,
-      "tags": [
-        "Apple",
-        "Creatividad",
-        "Producción"
+        "finanzas",
+        "redes-sociales",
+        "inversion",
+        "consejos"
       ],
       "tambienVistoEn": []
     },
@@ -334,19 +288,19 @@
       "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
       "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets",
-      "tituloOriginal": "The 'long bitcoin, short the bankers' era is officially over as TradFi giants embrace digital assets",
-      "tituloLimpio": "La era de 'long bitcoin, short the bankers' termina con la adopción de activos digitales por gigantes financieros",
-      "resumen": "Las firmas financieras se asocian con especialistas para construir infraestructura, difuminando las líneas entre las finanzas tradicionales y descentralizadas en un sector unificado.",
-      "porQueImporta": "Para Guido, interesado en inversiones, esta noticia indica un cambio significativo en el panorama financiero global, con la integración de criptoactivos en las finanzas tradicionales, lo que podría abrir nuevas oportunidades de inversión.",
-      "publicadoEn": "2026-08-16T12:00:00.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/b6799ddec98f4a85e8d4c72c273a8bac2f2efd4c-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "url": "https://www.coindesk.com/business/2026/08/16/crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals",
+      "tituloOriginal": "Crypto investors are looking past market-cap rankings and back to fundamentals",
+      "tituloLimpio": "Inversores de cripto miran más allá de los rankings por capitalización de mercado",
+      "resumen": "Los inversores están empezando a juzgar los tokens de cripto por el uso, la economía y la captura de valor en lugar del ranking por capitalización de mercado, según ejecutivos de la industria.",
+      "porQueImporta": "Indica un cambio en la mentalidad de inversión en criptomonedas, priorizando los fundamentos y el valor real, lo que es clave para decisiones de inversión a largo plazo.",
+      "publicadoEn": "2026-08-16T16:00:00.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/e32c73c877e257ea0e665dae0d3fa751d19cf3cc-1920x1231.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
       "globalScore": 96,
       "personalScore": 100,
       "tags": [
-        "Finance",
-        "Criptomonedas",
-        "Inversión"
+        "criptomonedas",
+        "inversion",
+        "mercado"
       ],
       "tambienVistoEn": []
     },
@@ -354,38 +308,20 @@
       "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
       "categoria": "Finance",
       "fuente": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "tituloOriginal": "Ethereum devs to narrow 66 proposals tied to Hegotá upgrade",
-      "tituloLimpio": "Desarrolladores de Ethereum reducirán 66 propuestas para la actualización Hegotá",
-      "resumen": "La actualización Hegotá tiene como objetivo introducir más privacidad nativa para las aplicaciones de Ethereum.",
-      "porQueImporta": "Para Guido, que sigue el mundo de la inversión, las actualizaciones de plataformas como Ethereum son importantes porque pueden afectar el valor y la funcionalidad de los activos digitales.",
-      "publicadoEn": "2026-08-16T11:12:51.000Z",
-      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-ethereum-encryption.jpg",
-      "globalScore": 90,
+      "url": "https://cointelegraph.com/news/defillama-delayed-app-launch-fake-phishing-apps-apple?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "DefiLlama delayed mobile launch over phishing apps on Apple Store, founder says",
+      "tituloLimpio": "DefiLlama retrasó el lanzamiento de su app móvil por apps de phishing en la App Store",
+      "resumen": "El fundador de DefiLlama dijo que Apple eliminó una aplicación falsa a los pocos días de que la empresa documentara que estaba vaciando fondos de una pequeña billetera de criptomonedas.",
+      "porQueImporta": "Destaca los riesgos de seguridad en el ecosistema de aplicaciones y la importancia de la vigilancia, especialmente en el ámbito de las finanzas y las criptomonedas.",
+      "publicadoEn": "2026-08-16T12:48:09.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-hackers-fishing.jpg",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "Finance",
-        "Criptomonedas",
-        "Ethereum"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
-      "categoria": "Argentina",
-      "fuente": "Clarin Politica",
-      "url": "https://www.clarin.com/politica/25-minutos-llamada-karina-macri-hora-media-javier-milei-daniel-hadad-quinta-olivos_0_RA9ZG9WjfJ.html",
-      "tituloOriginal": "Los 25 minutos de la llamada Karina-Macri y la hora y media de Javier Milei con Daniel Hadad en la Quinta de Olivos",
-      "tituloLimpio": "Llamada Karina-Macri y reunión de Milei con Daniel Hadad en Olivos",
-      "resumen": "De qué hablaron la hermana del Presidente y el fundador del PRO, el rol de Santilli y las desconfianzas mutuas. La pelea de los outsiders, la visita del empresario al jefe de Estado y el revuelo en el PJ.",
-      "porQueImporta": "Como residente en Argentina, Guido se beneficia de estar informado sobre los movimientos políticos que pueden influir en la economía y el clima de negocios del país.",
-      "publicadoEn": "2026-08-16T10:05:23.000Z",
-      "imagen": "https://www.clarin.com/img/2025/07/26/ekpd_QmPL_1200x630__1.jpg",
-      "globalScore": 98,
-      "personalScore": 100,
-      "tags": [
-        "Argentina",
-        "Política"
+        "apple",
+        "seguridad",
+        "criptomonedas",
+        "apps"
       ],
       "tambienVistoEn": []
     },
@@ -393,39 +329,20 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/08/16/wall-street-reduce-su-exposicion-en-argentina-hay-alerta-por-la-baja-del-apoyo-al-gobierno/",
-      "tituloOriginal": "Wall Street reduce su exposición en Argentina: hay alerta por la baja del apoyo al Gobierno",
-      "tituloLimpio": "Wall Street reduce su exposición en Argentina por baja del apoyo al Gobierno",
-      "resumen": "El apoyo a la gestión oficial se estancó en el 35%, insuficiente para ganar en 2027. Los inversores no quieren arriesgar en un escenario electoral complicado.",
-      "porQueImporta": "Esta noticia es crucial para Guido, ya que impacta directamente en el clima de inversión en Argentina y en la percepción de los mercados internacionales sobre el país.",
-      "publicadoEn": "2026-08-16T12:12:04.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/FBP2RG4W7VFENEHO3ZFZUUUMYI.JPG?auth=cfd3baae2469a4fc206b7b392f1cae6c1e49da53a99d7ab6976eeb470f7e7d7f&smart=true&width=4743&height=3162",
+      "url": "https://www.infobae.com/economia/2026/08/16/cual-es-el-detalle-en-la-reglamentacion-del-fondo-de-indemnizaciones-con-el-que-economia-relego-a-los-gobiernos-provinciales/",
+      "tituloOriginal": "Cuál es el detalle en la reglamentación del fondo de indemnizaciones con el que Economía relegó a los gobiernos provinciales",
+      "tituloLimpio": "Detalles en la reglamentación del fondo de indemnizaciones que relegó a las provincias",
+      "resumen": "Los Fondos de Asistencia Laboral (FAL) podrán invertirse en activos con una calificación que no posee ninguna provincia argentina.",
+      "porQueImporta": "Muestra cómo las decisiones económicas a nivel nacional pueden impactar a las provincias y genera interrogantes sobre la capacidad de inversión de estos fondos.",
+      "publicadoEn": "2026-08-16T16:28:24.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/CUXK6JZDARHC7OWP3W73B736GA.jpg?auth=884ba9f8f386ae22636bf57719ff5ffc7a9d27d235b7d15692a2112febf5b2ff&smart=true&width=1920&height=1280",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "Argentina",
-        "Finance",
-        "Inversión",
-        "Política"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
-      "categoria": "Argentina",
-      "fuente": "Infobae Politica",
-      "url": "https://www.infobae.com/politica/2026/08/16/interrogantes-y-fragilidades-que-persisten-tras-la-senal-de-unidad-que-dio-el-peronismo/",
-      "tituloOriginal": "Interrogantes y fragilidades que persisten tras la señal de unidad que dio el peronismo",
-      "tituloLimpio": "Interrogantes y fragilidades persisten tras la señal de unidad del peronismo",
-      "resumen": "La reunión entre Axel Kicillof, Sergio Massa, Máximo Kirchner y otros dirigentes abrió un nuevo tiempo de diálogos cruzados. Las incógnitas que subsisten y que son fundamentales para construir una alternativa sólida en 2027.",
-      "porQueImporta": "Para Guido, es relevante entender el panorama político argentino, especialmente de cara a las elecciones de 2027, ya que esto puede influir en las políticas económicas y el ambiente de negocios.",
-      "publicadoEn": "2026-08-16T12:04:58.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/4RA4KF56GBCZND6VKIUN6ZAS2I.jpg?auth=2411f3a5f2ea7303ba494dff7b4f0e16151912a7e0bd90c6e2ec553301ca7961&smart=true&width=1920&height=1080",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "Argentina",
-        "Política"
+        "argentina",
+        "economia",
+        "provincias",
+        "inversion"
       ],
       "tambienVistoEn": []
     },
@@ -433,25 +350,26 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/campo/pablo-ginestet-presidente-de-carbap-lamentablemente-otra-vez-los-productores-tendran-que-arreglarse-nid16082026/",
-      "tituloOriginal": "Pablo Ginestet, presidente de Carbap: “Lamentablemente, otra vez los productores tendrán que arreglarse como puedan”",
-      "tituloLimpio": "Carbap advierte que productores deberán 'arreglárselas como puedan' ante El Niño",
-      "resumen": "Carbap advirtió que la provincia llega ante El Niño con una infraestructura deteriorada, pocas obras hidráulicas y 120.000 kilómetros de caminos rurales con escaso mantenimiento.",
-      "porQueImporta": "Esta noticia es importante para Guido porque las condiciones climáticas y la infraestructura rural pueden afectar la economía general de Argentina, incluyendo la inflación y la disponibilidad de productos.",
-      "publicadoEn": "2026-08-16T12:00:00.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/RVGR3IXCY5HKHA5NKJW72UYIPY.jpeg?auth=112d935c3fd1c31890d84114a5fdc67a2b6e565ff1f6fa64b43b4a1e003e3bd4&smart=true&width=679&height=382",
+      "url": "https://www.lanacion.com.ar/economia/campo/martin-ghiozzi-argentino-con-carnicerias-en-estados-unidos-no-alcanza-con-vender-un-buen-producto-nid16082026/",
+      "tituloOriginal": "Martín Ghiozzi, argentino con carnicerías en Estados Unidos: “No alcanza con vender un buen producto; hay que construir una experiencia”",
+      "tituloLimpio": "Martín Ghiozzi, argentino con carnicerías en EE.UU.: “No alcanza con vender un buen producto; hay que construir una experiencia”",
+      "resumen": "Silvio Siracussa y Martín Ghiozzi cuentan con cuatro sucursales en Florida; el plan para los próximos meses incluye la apertura de cinco nuevos locales propios y, en paralelo, el desarrollo de un sistema de franquicias.",
+      "porQueImporta": "Un ejemplo de emprendimiento argentino exitoso en el exterior y una lección de marketing sobre la importancia de la experiencia del cliente, aplicable a cualquier negocio.",
+      "publicadoEn": "2026-08-16T14:36:24.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/X677PE3DOBDFPG76LTPVBUM64Q.jpg?auth=ef196b66e5d0763a386240e566588350d0b3f6cf7c88c200b91897ea42c2831d&smart=true&width=3681&height=5430",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "Argentina",
-        "Economía",
-        "Clima"
+        "negocios",
+        "marketing",
+        "emprendimiento",
+        "experiencia-cliente"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-08-16T12:43:22.564Z"
+    "generadoEn": "2026-08-16T17:18:40.077Z"
   }
 }
