@@ -1,0 +1,457 @@
+{
+  "fecha": "2026-08-16",
+  "generadoEn": "2026-08-16T12:43:22.564Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "Esta semana, Google presentó Sheets Canvas para transformar datos en paneles interactivos con IA. Apple sigue ajustando iOS 27 y se conocieron rumores del iPhone 18 Pro. En Argentina, el plazo fijo en dólares ofrece mejores rendimientos online, mientras Wall Street reduce su exposición por la baja del apoyo al gobierno. El peronismo busca unidad de cara a 2027 y Carbap advierte sobre la infraestructura rural ante El Niño. En el ámbito de la IA, surgieron preocupaciones por el uso de Grok para generar imágenes explícitas. Además, se destacó un editor de código ligero para Mac y la saga legal entre Epic Games y Apple continúa.",
+  "radarPersonal": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Google Sheets Canvas: Transformá datos en paneles interactivos con IA",
+      "resumen": "Sheets Canvas convierte datos en paneles interactivos, rastreadores de estudio personalizados y más, todo con una simple indicación.",
+      "categoria": "AI",
+      "fuentes": [
+        "Google AI Blog"
+      ],
+      "urls": [
+        "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/"
+      ],
+      "score": 100,
+      "tags": [
+        "Google",
+        "Sheets",
+        "Canvas",
+        "IA",
+        "automatización"
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Plazo fijo en dólares en Argentina: cuánto se gana a 30 días",
+      "resumen": "Las entidades actualizaron sus tasas de interés y ofrecen mejores rendimientos para quienes eligen operar de forma online.",
+      "categoria": "Finance",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/plazo-fijo-dolares-cuanto-se-gana-30-dias-si-invierto-us500-n6310852"
+      ],
+      "score": 100,
+      "tags": [
+        "Argentina",
+        "inversión",
+        "dólares",
+        "plazo fijo"
+      ]
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "titulo": "Notepad.exe: un editor de código ultra rápido y ligero para Mac",
+      "resumen": "Esta aplicación es un editor de código ultra rápido y ligero para Mac.",
+      "categoria": "Apple",
+      "fuentes": [
+        "9to5Mac"
+      ],
+      "urls": [
+        "https://9to5mac.com/2026/08/15/indie-app-spotlight-notepad-exe-is-an-ultra-fast-lightweight-code-editor-for-your-mac/"
+      ],
+      "score": 100,
+      "tags": [
+        "Apple",
+        "herramientas",
+        "productividad",
+        "Mac"
+      ]
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "titulo": "Wall Street reduce su exposición en Argentina por baja del apoyo al Gobierno",
+      "resumen": "El apoyo a la gestión oficial se estancó en el 35%, insuficiente para ganar en 2027. Los inversores no quieren arriesgar en un escenario electoral complicado.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Infobae Economia"
+      ],
+      "urls": [
+        "https://www.infobae.com/economia/2026/08/16/wall-street-reduce-su-exposicion-en-argentina-hay-alerta-por-la-baja-del-apoyo-al-gobierno/"
+      ],
+      "score": 100,
+      "tags": [
+        "Argentina",
+        "inversión",
+        "mercados",
+        "política"
+      ]
+    }
+  ],
+  "loImportante": [
+    "La IA sigue integrándose en herramientas de productividad como Google Sheets, permitiendo la creación de paneles interactivos con indicaciones simples.",
+    "En Argentina, los plazos fijos en dólares ofrecen mejores rendimientos online, lo que puede ser una opción para inversores locales.",
+    "La preocupación por el uso indebido de IA para generar contenido explícito subraya la necesidad de regulaciones y ética en el desarrollo de estas tecnologías.",
+    "El mercado argentino enfrenta una reducción de exposición por parte de Wall Street, influenciada por el panorama político y electoral de 2027.",
+    "Apple continúa con el desarrollo de iOS 27 y se anticipan novedades para los próximos modelos de iPhone."
+  ],
+  "oportunidades": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "titulo": "Automatización de datos con Sheets Canvas",
+      "detalle": "La nueva función de Google Sheets permite transformar datos en paneles interactivos y rastreadores personalizados usando prompts, lo que puede optimizar flujos de trabajo en retoque fotográfico y arte con IA.",
+      "acciones": [
+        "Explorar Sheets Canvas para organizar proyectos y datos de clientes.",
+        "Probar la creación de paneles interactivos para seguimiento de proyectos o finanzas personales."
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Investing",
+      "titulo": "Mejores rendimientos en plazos fijos en dólares online",
+      "detalle": "Las entidades bancarias en Argentina están ofreciendo tasas de interés más atractivas para plazos fijos en dólares si se operan de forma online.",
+      "acciones": [
+        "Revisar las tasas actuales de plazos fijos en dólares en bancos locales.",
+        "Considerar la opción online para obtener mejores rendimientos en inversiones a corto plazo."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "titulo": "Uso indebido de IA para generar imágenes explícitas",
+      "detalle": "Una mujer denunció que su padrastro usó Grok para transformar una foto de su infancia en imágenes explícitas, lo que resalta los riesgos éticos y de seguridad de las herramientas de IA.",
+      "mitigacion": "Mantenerse informado sobre las políticas de uso y seguridad de las herramientas de IA. Ser cauteloso con la información personal y las imágenes que se suben a plataformas de IA."
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Market",
+      "titulo": "Reducción de exposición de Wall Street en Argentina",
+      "detalle": "Wall Street está reduciendo su exposición en Argentina debido a la baja del apoyo al gobierno y un escenario electoral complicado para 2027, lo que podría impactar la inversión y la estabilidad económica.",
+      "mitigacion": "Diversificar inversiones y no depender exclusivamente del mercado local. Monitorear de cerca el panorama político y económico de Argentina."
+    }
+  ],
+  "conexiones": [
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "titulo": "Finanzas tradicionales y activos digitales: una nueva era",
+      "historias": [
+        "La era de 'long bitcoin, short the bankers' terminó, ya que los gigantes de las finanzas tradicionales adoptan los activos digitales.",
+        "Wall Street reduce su exposición en Argentina, lo que podría llevar a buscar nuevas formas de inversión y diversificación, incluyendo activos digitales."
+      ],
+      "conclusion": "La integración de las finanzas tradicionales con los activos digitales podría ofrecer nuevas vías de inversión en un contexto donde los mercados emergentes, como Argentina, enfrentan incertidumbre."
+    }
+  ],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+      "tituloOriginal": "Bring your spreadsheet data to life with Sheets canvas",
+      "tituloLimpio": "Google Sheets Canvas transforma datos en paneles interactivos con IA",
+      "resumen": "Sheets Canvas convierte datos en paneles interactivos, rastreadores de estudio personalizados y más, todo con una simple indicación.",
+      "porQueImporta": "Para Guido, que trabaja con IA y automatización, esta herramienta de Google puede simplificar la gestión de datos y la creación de visualizaciones interactivas para proyectos o finanzas.",
+      "publicadoEn": "2026-08-13T16:45:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Tools & Automation",
+        "Google"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/08/15/top-stories-ios-27-beta-5/",
+      "tituloOriginal": "Top Stories: iOS 27 Beta 5, iPhone 18 Pro Rumors, and More",
+      "tituloLimpio": "Apple avanza con iOS 27 Beta 5 y rumores del iPhone 18 Pro",
+      "resumen": "Apple está finalizando el trabajo en la versión inicial de iOS 27 mientras se prepara para instalar el sistema operativo en los nuevos modelos de iPhone que saldrán el próximo mes. También hubo rumores sobre una batería del próximo iPhone 18 Pro Max.",
+      "porQueImporta": "Como usuario de Apple, Guido estará interesado en las novedades de iOS y los futuros modelos de iPhone, que podrían influir en su trabajo o uso personal.",
+      "publicadoEn": "2026-08-15T13:00:12.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "iPhone",
+        "iOS"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/plazo-fijo-dolares-cuanto-se-gana-30-dias-si-invierto-us500-n6310852",
+      "tituloOriginal": "Plazo fijo en dólares: cuánto se gana a 30 días si invierto u$s500",
+      "tituloLimpio": "Plazo fijo en dólares en Argentina: cuánto se puede ganar a 30 días",
+      "resumen": "Las entidades actualizaron sus tasas de interés y ofrecen mejores rendimientos para quienes eligen operar de forma online.",
+      "porQueImporta": "Esta noticia es directamente relevante para Guido, que vive en Argentina y le interesa la inversión, ya que le informa sobre opciones para rentabilizar sus dólares localmente.",
+      "publicadoEn": "2026-08-16T11:00:00.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Finance",
+        "Inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/crocs-hatches-new-mascot-niles-to-enrich-brand-storytelling/827895/",
+      "tituloOriginal": "Crocs hatches new mascot Niles to enrich brand storytelling",
+      "tituloLimpio": "Crocs presenta a Niles, su nueva mascota, para enriquecer la narrativa de marca",
+      "resumen": "El reptil de 1.80 metros, que aparece en una nueva serie social interactuando con empleados reales, se espera que sea un elemento a largo plazo del marketing de Crocs.",
+      "porQueImporta": "Para Guido, interesado en marketing, es un ejemplo de cómo las marcas utilizan personajes y storytelling para conectar con la audiencia, algo aplicable a estrategias de marketing digital o de IA.",
+      "publicadoEn": "2026-08-14T14:40:00.000Z",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "Branding",
+        "Storytelling"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "tituloOriginal": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "tituloLimpio": "Denuncia de uso de Grok para transformar foto de infancia en imágenes explícitas",
+      "resumen": "Una mujer afirmó que las herramientas de IA están 'convirtiendo la vida cotidiana en abuso sexual infantil'.",
+      "porQueImporta": "Esta noticia es crucial para Guido, que trabaja con arte e IA, ya que resalta los riesgos éticos y las implicaciones negativas del uso de la inteligencia artificial, generando conciencia sobre la seguridad y la responsabilidad.",
+      "publicadoEn": "2026-08-15T21:29:19.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Ética",
+        "Seguridad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+      "tituloOriginal": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+      "tituloLimpio": "Roleplaying como chatbot para reírse de la IA",
+      "resumen": "La simplicidad de 'Your AI Slop Bores Me' es brillante. Hay dos pestañas: humano y LARP como una IA. En un lado ingresas una solicitud. En el otro, envías una respuesta.",
+      "porQueImporta": "Para Guido, que trabaja con IA, esta noticia ofrece una perspectiva lúdica y crítica sobre la interacción con chatbots, útil para entender las limitaciones y la percepción pública de la IA.",
+      "publicadoEn": "2026-08-15T20:45:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Entretenimiento"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+      "tituloOriginal": "Flock is tightening its rules in response to a growing surveillance backlash",
+      "tituloLimpio": "Flock endurece sus reglas ante la creciente reacción contra la vigilancia",
+      "resumen": "El gigante de la tecnología policial Flock anuncia hoy que cambiará el acceso de los oficiales a su red nacional de lectores de matrículas, en un aparente esfuerzo por calmar una creciente reacción y recuperar contratos perdidos.",
+      "porQueImporta": "Aunque no es directamente sobre arte o retoque, la noticia sobre la vigilancia y la IA es relevante para Guido por el impacto social y ético de la tecnología, y cómo las empresas responden a las preocupaciones públicas.",
+      "publicadoEn": "2026-08-13T13:41:10.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "AI",
+        "Vigilancia",
+        "Regulación"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/15/indie-app-spotlight-notepad-exe-is-an-ultra-fast-lightweight-code-editor-for-your-mac/",
+      "tituloOriginal": "Indie App Spotlight: ‘Notepad.exe’ is an ultra-fast, lightweight code editor for your Mac",
+      "tituloLimpio": "Notepad.exe: un editor de código ultra rápido y ligero para Mac",
+      "resumen": "Esta aplicación es un editor de código ultra rápido y ligero para Mac.",
+      "porQueImporta": "Como usuario de Mac y alguien interesado en herramientas de productividad, Guido podría encontrar este editor útil para tareas de codificación rápidas o para experimentar con scripts de automatización.",
+      "publicadoEn": "2026-08-15T19:30:00.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "Tools & Automation",
+        "Productividad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/20/08/23/apple-versus-epic-games-fortnite-app-store-saga----the-story-so-far?utm_source=rss",
+      "tituloOriginal": "Epic Games vs Apple -- The continuing six-year App Store saga",
+      "tituloLimpio": "La saga Epic Games vs. Apple por la App Store continúa por seis años",
+      "resumen": "El juicio antimonopolio de Epic Games 'Fortnite' contra la App Store de Apple ha completado su última semana. Aquí está lo que necesita saber sobre la saga, con los argumentos finales pendientes.",
+      "porQueImporta": "Para Guido, como usuario de Apple, es importante seguir las disputas legales que afectan el ecosistema de aplicaciones, ya que pueden influir en el desarrollo de software y las políticas de la plataforma.",
+      "publicadoEn": "2026-08-15T14:55:34.000Z",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "Business",
+        "Legal"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/news/jungle-shot-11-music-videos-in-four-days-with-apple-creator-studio/",
+      "tituloOriginal": "Jungle Shot 11 Music Videos in Four Days with Apple Creator Studio",
+      "tituloLimpio": "Jungle filmó 11 videos musicales en cuatro días con Apple Creator Studio",
+      "resumen": "Jungle lanzó su quinto álbum de estudio, Sunshine. Junto con el lanzamiento, Apple publicó cómo la banda usó Apple Creator Studio para filmar 11 videos musicales en solo cuatro días.",
+      "porQueImporta": "Para Guido, que trabaja en arte y retoque fotográfico, esta noticia muestra el potencial de las herramientas de Apple para la producción creativa a gran escala y en poco tiempo, lo que podría inspirar sus propios flujos de trabajo.",
+      "publicadoEn": "2026-08-15T00:06:08.000Z",
+      "imagen": "https://cdn.macstories.net/images/uploads/2026/08/14/jungle-transparent-16x9-1786751182429-7620eb5e2f.mp4",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "Creatividad",
+        "Producción"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets",
+      "tituloOriginal": "The 'long bitcoin, short the bankers' era is officially over as TradFi giants embrace digital assets",
+      "tituloLimpio": "La era de 'long bitcoin, short the bankers' termina con la adopción de activos digitales por gigantes financieros",
+      "resumen": "Las firmas financieras se asocian con especialistas para construir infraestructura, difuminando las líneas entre las finanzas tradicionales y descentralizadas en un sector unificado.",
+      "porQueImporta": "Para Guido, interesado en inversiones, esta noticia indica un cambio significativo en el panorama financiero global, con la integración de criptoactivos en las finanzas tradicionales, lo que podría abrir nuevas oportunidades de inversión.",
+      "publicadoEn": "2026-08-16T12:00:00.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/b6799ddec98f4a85e8d4c72c273a8bac2f2efd4c-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "Finance",
+        "Criptomonedas",
+        "Inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Ethereum devs to narrow 66 proposals tied to Hegotá upgrade",
+      "tituloLimpio": "Desarrolladores de Ethereum reducirán 66 propuestas para la actualización Hegotá",
+      "resumen": "La actualización Hegotá tiene como objetivo introducir más privacidad nativa para las aplicaciones de Ethereum.",
+      "porQueImporta": "Para Guido, que sigue el mundo de la inversión, las actualizaciones de plataformas como Ethereum son importantes porque pueden afectar el valor y la funcionalidad de los activos digitales.",
+      "publicadoEn": "2026-08-16T11:12:51.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-ethereum-encryption.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Finance",
+        "Criptomonedas",
+        "Ethereum"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/25-minutos-llamada-karina-macri-hora-media-javier-milei-daniel-hadad-quinta-olivos_0_RA9ZG9WjfJ.html",
+      "tituloOriginal": "Los 25 minutos de la llamada Karina-Macri y la hora y media de Javier Milei con Daniel Hadad en la Quinta de Olivos",
+      "tituloLimpio": "Llamada Karina-Macri y reunión de Milei con Daniel Hadad en Olivos",
+      "resumen": "De qué hablaron la hermana del Presidente y el fundador del PRO, el rol de Santilli y las desconfianzas mutuas. La pelea de los outsiders, la visita del empresario al jefe de Estado y el revuelo en el PJ.",
+      "porQueImporta": "Como residente en Argentina, Guido se beneficia de estar informado sobre los movimientos políticos que pueden influir en la economía y el clima de negocios del país.",
+      "publicadoEn": "2026-08-16T10:05:23.000Z",
+      "imagen": "https://www.clarin.com/img/2025/07/26/ekpd_QmPL_1200x630__1.jpg",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Política"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/08/16/wall-street-reduce-su-exposicion-en-argentina-hay-alerta-por-la-baja-del-apoyo-al-gobierno/",
+      "tituloOriginal": "Wall Street reduce su exposición en Argentina: hay alerta por la baja del apoyo al Gobierno",
+      "tituloLimpio": "Wall Street reduce su exposición en Argentina por baja del apoyo al Gobierno",
+      "resumen": "El apoyo a la gestión oficial se estancó en el 35%, insuficiente para ganar en 2027. Los inversores no quieren arriesgar en un escenario electoral complicado.",
+      "porQueImporta": "Esta noticia es crucial para Guido, ya que impacta directamente en el clima de inversión en Argentina y en la percepción de los mercados internacionales sobre el país.",
+      "publicadoEn": "2026-08-16T12:12:04.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/FBP2RG4W7VFENEHO3ZFZUUUMYI.JPG?auth=cfd3baae2469a4fc206b7b392f1cae6c1e49da53a99d7ab6976eeb470f7e7d7f&smart=true&width=4743&height=3162",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Finance",
+        "Inversión",
+        "Política"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/08/16/interrogantes-y-fragilidades-que-persisten-tras-la-senal-de-unidad-que-dio-el-peronismo/",
+      "tituloOriginal": "Interrogantes y fragilidades que persisten tras la señal de unidad que dio el peronismo",
+      "tituloLimpio": "Interrogantes y fragilidades persisten tras la señal de unidad del peronismo",
+      "resumen": "La reunión entre Axel Kicillof, Sergio Massa, Máximo Kirchner y otros dirigentes abrió un nuevo tiempo de diálogos cruzados. Las incógnitas que subsisten y que son fundamentales para construir una alternativa sólida en 2027.",
+      "porQueImporta": "Para Guido, es relevante entender el panorama político argentino, especialmente de cara a las elecciones de 2027, ya que esto puede influir en las políticas económicas y el ambiente de negocios.",
+      "publicadoEn": "2026-08-16T12:04:58.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/4RA4KF56GBCZND6VKIUN6ZAS2I.jpg?auth=2411f3a5f2ea7303ba494dff7b4f0e16151912a7e0bd90c6e2ec553301ca7961&smart=true&width=1920&height=1080",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Política"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/campo/pablo-ginestet-presidente-de-carbap-lamentablemente-otra-vez-los-productores-tendran-que-arreglarse-nid16082026/",
+      "tituloOriginal": "Pablo Ginestet, presidente de Carbap: “Lamentablemente, otra vez los productores tendrán que arreglarse como puedan”",
+      "tituloLimpio": "Carbap advierte que productores deberán 'arreglárselas como puedan' ante El Niño",
+      "resumen": "Carbap advirtió que la provincia llega ante El Niño con una infraestructura deteriorada, pocas obras hidráulicas y 120.000 kilómetros de caminos rurales con escaso mantenimiento.",
+      "porQueImporta": "Esta noticia es importante para Guido porque las condiciones climáticas y la infraestructura rural pueden afectar la economía general de Argentina, incluyendo la inflación y la disponibilidad de productos.",
+      "publicadoEn": "2026-08-16T12:00:00.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/RVGR3IXCY5HKHA5NKJW72UYIPY.jpeg?auth=112d935c3fd1c31890d84114a5fdc67a2b6e565ff1f6fa64b43b4a1e003e3bd4&smart=true&width=679&height=382",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Economía",
+        "Clima"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-08-16T12:43:22.564Z"
+  }
+}
