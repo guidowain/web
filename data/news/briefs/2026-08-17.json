@@ -1,140 +1,116 @@
 {
   "fecha": "2026-08-17",
-  "generadoEn": "2026-08-17T12:49:25.920Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "La industria argentina muestra una \"extrema fragilidad\" con pérdida de empleo formal. En el ámbito de la IA, Anthropic detalla cómo funcionarán las marcas de agua invisibles en el texto de Claude, y Stripe estaría por adquirir OpenRouter. Apple Fitness+ podría incorporar contenido en vivo, y se reportan problemas con AirTag en casos de seguimiento. En finanzas, se observa el movimiento del dólar en Argentina y se analizan acciones en Wall Street.",
+  "generadoEn": "2026-08-17T17:26:36.660Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "En el panorama tecnológico, Apple sigue liberando betas de sus sistemas operativos, incluyendo visionOS 27 con Siri AI, y se observan descuentos en iPads M4. Google, por su parte, integra Gemini y Pixel en el fútbol y se reporta que Amazon estaría destruyendo libros raros para entrenar IA. En Argentina, la situación económica sigue ajustada, con la mayoría de los salarios agotándose antes de fin de mes y una nueva caída de bonos, mientras que se lanzó un programa de desendeudamiento en CABA. En finanzas, los mercados de crédito muestran un problema de deuda y la CFTC busca opinión pública sobre futuros de cómputo de IA.",
   "radarPersonal": [
     {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "La industria argentina lidera la pérdida de empleo formal y crece la alerta por el cierre de empresas",
-      "resumen": "La industria manufacturera explicó más de uno de cada tres empleos asalariados privados perdidos desde noviembre de 2023, sumado a informes que advierten por la fragilidad del entramado productivo, el avance de la informalidad y la caída en la cantidad de empresas.",
-      "categoria": "Argentina",
-      "fuentes": [
-        "Ambito"
-      ],
-      "urls": [
-        "https://www.ambito.com/economia/extrema-fragilidad-la-industria-lidera-la-perdida-empleo-formal-y-crece-la-alerta-el-cierre-empresas-n6311515"
-      ],
-      "score": 100,
-      "tags": [
-        "empleo",
-        "industria",
-        "argentina",
-        "economia"
-      ]
-    },
-    {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "titulo": "Anthropic explica cómo funcionarán las marcas de agua invisibles de texto de Claude",
-      "resumen": "Anthropic aclaró cómo planea aplicar marcas de agua invisibles al texto generado por Claude para cumplir con las reglas de transparencia de IA de Europa. El sistema de marcado de texto de Claude es \"una versión del enfoque SynthID-Text\", una tecnología de marca de agua de código abierto desarrollada por Google DeepMind.",
-      "categoria": "AI",
-      "fuentes": [
-        "The Verge AI"
-      ],
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system"
-      ],
-      "score": 100,
-      "tags": [
-        "anthropic",
-        "claude",
-        "ia",
-        "marcas de agua"
-      ]
-    },
-    {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "titulo": "Stripe adquiriría la startup de pasarela de IA OpenRouter por más de 7 mil millones de dólares",
-      "resumen": "El CEO de OpenRouter describió recientemente a la startup como el Stripe para IA.",
-      "categoria": "AI",
-      "fuentes": [
-        "TechCrunch AI"
-      ],
-      "urls": [
-        "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
-      ],
-      "score": 100,
-      "tags": [
-        "stripe",
-        "ia",
-        "adquisicion",
-        "openrouter"
-      ]
-    },
-    {
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "Una oferta de trabajo sugiere que Apple Fitness+ podría tener contenido en vivo",
-      "resumen": "Apple está buscando un productor de estudio para su servicio Fitness+ con experiencia en producción en vivo, lo que podría indicar el futuro del servicio. La oferta de trabajo se publicó el mes pasado y detalla un puesto presencial en el estudio de Apple en Santa Mónica.",
+      "titulo": "Apple lanza la sexta beta de visionOS 27 para desarrolladores",
+      "resumen": "Apple lanzó la sexta beta de una próxima actualización de visionOS 27 para desarrolladores. visionOS 27 introduce Siri AI, una versión más inteligente y capaz.",
       "categoria": "Apple",
       "fuentes": [
         "MacRumors"
       ],
       "urls": [
-        "https://www.macrumors.com/2026/08/17/apple-fitness-could-get-live-content/"
+        "https://www.macrumors.com/2026/08/17/apple-seeds-sixth-visionos-27-developer-beta/"
       ],
       "score": 100,
       "tags": [
-        "apple",
-        "fitness+",
-        "contenido en vivo"
+        "Apple",
+        "visionOS",
+        "beta",
+        "desarrolladores",
+        "Siri AI"
+      ]
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "titulo": "Apple lanza la beta 6 para iPadOS 27, tvOS 27 y más",
+      "resumen": "La Beta 6 se está implementando para iPadOS 27, tvOS 27, watchOS 27, HomePod 27 y más, acercando el nuevo software a su lanzamiento.",
+      "categoria": "Apple",
+      "fuentes": [
+        "9to5Mac"
+      ],
+      "urls": [
+        "https://9to5mac.com/2026/08/17/apple-releases-beta-6-for-ipados-27-tvos-27-and-more/"
+      ],
+      "score": 100,
+      "tags": [
+        "Apple",
+        "iPadOS",
+        "tvOS",
+        "watchOS",
+        "HomePod",
+        "beta"
       ]
     },
     {
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
-      "titulo": "Mujeres de Michigan demandan a Apple por fallas en la protección anti-acoso de AirTag",
-      "resumen": "Apple enfrenta otra demanda por AirTag, después de que dos mujeres en Detroit alegaran haber sido rastreadas por sus exparejas usando el accesorio, sin ser alertadas de dicho seguimiento. La demanda acusa a Apple de no proteger adecuadamente.",
+      "titulo": "Descuentos de hasta $150 en el iPad Air M4 de Apple en Amazon",
+      "resumen": "Los descuentos de Amazon en el iPad Air M4 actual ofrecen los precios más bajos de la temporada, con rebajas de $100 a $150 en modelos de 11 y 13 pulgadas.",
       "categoria": "Apple",
       "fuentes": [
         "AppleInsider"
       ],
       "urls": [
-        "https://appleinsider.com/articles/26/08/17/michigan-women-sue-apple-over-airtag-anti-stalking-protection-failures?utm_source=rss"
+        "https://appleinsider.com/articles/26/08/17/save-100-to-150-on-apples-m4-ipad-air-after-amazon-issues-steeper-markdowns?utm_source=rss"
       ],
       "score": 100,
       "tags": [
-        "apple",
-        "airtag",
-        "demanda",
-        "privacidad"
+        "Apple",
+        "iPad Air M4",
+        "descuentos",
+        "Amazon"
+      ]
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "titulo": "La CFTC busca opinión pública sobre contratos de futuros de cómputo de IA",
+      "resumen": "La revisión regulatoria podría dar forma a un mercado emergente que permite a empresas e inversores negociar y cubrir el costo de la potencia de cómputo de IA.",
+      "categoria": "Finance",
+      "fuentes": [
+        "CoinTelegraph"
+      ],
+      "urls": [
+        "https://cointelegraph.com/news/cftc-ai-compute-futures-cme-october-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      ],
+      "score": 100,
+      "tags": [
+        "CFTC",
+        "futuros",
+        "IA",
+        "cómputo",
+        "mercado"
       ]
     }
   ],
   "loImportante": [
-    "La industria argentina enfrenta una \"extrema fragilidad\" con pérdida de empleo formal y cierre de empresas.",
-    "Anthropic detalla cómo funcionarán las marcas de agua invisibles en el texto de Claude para cumplir con las regulaciones de IA.",
-    "Stripe estaría en proceso de adquirir la startup de pasarela de IA OpenRouter por más de 7 mil millones de dólares.",
-    "Apple Fitness+ podría incorporar contenido en vivo, según una oferta de trabajo para un productor de estudio.",
-    "YPF implementa una fórmula innovadora en sus licitaciones, apelando a un \"efecto psicológico\" para conseguir precios más bajos."
+    "Apple continúa con el desarrollo de sus sistemas operativos, lanzando nuevas betas para visionOS, iPadOS, tvOS y watchOS, lo que indica avances en la integración de IA como Siri.",
+    "Se observan descuentos significativos en productos Apple como el iPad Air M4, lo que podría ser una oportunidad para adquirir tecnología a menor costo.",
+    "La situación económica en Argentina sigue siendo un desafío, con la mayoría de los salarios agotándose antes de fin de mes y una caída en el valor de los bonos.",
+    "El mercado de crédito global enfrenta un problema de deuda, aunque por ahora se considera que reduce el riesgo.",
+    "La regulación de futuros de cómputo de IA está en discusión, lo que podría impactar la inversión y el acceso a la potencia de procesamiento de IA."
   ],
   "oportunidades": [
     {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Productivity",
+      "titulo": "Aprovechar descuentos en iPad Air M4",
+      "detalle": "Amazon ofrece descuentos de hasta $150 en el iPad Air M4, lo que representa una oportunidad para adquirir un dispositivo potente para retoque fotográfico y otras tareas.",
+      "acciones": [
+        "Evaluar la necesidad de un nuevo iPad Air M4.",
+        "Comparar precios y modelos disponibles en Amazon."
+      ]
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
       "categoria": "Investing",
-      "titulo": "Stripe adquiriría la startup de pasarela de IA OpenRouter por más de 7 mil millones de dólares",
-      "detalle": "La posible adquisición de OpenRouter por parte de Stripe, una startup descrita como el 'Stripe para IA', indica un fuerte interés y valor en las plataformas de pasarela de IA. Esto podría señalar una tendencia de consolidación y crecimiento en el sector de infraestructura de IA.",
+      "titulo": "Explorar futuros de cómputo de IA",
+      "detalle": "La CFTC está evaluando contratos de futuros de cómputo de IA, lo que podría abrir un nuevo mercado para invertir o cubrir costos de potencia de procesamiento de IA.",
       "acciones": [
-        "Investigar el modelo de negocio de OpenRouter y su impacto en el ecosistema de IA.",
-        "Analizar otras startups similares en el sector de pasarelas de IA para posibles oportunidades de inversión."
-      ]
-    },
-    {
-      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
-      "categoria": "Business",
-      "titulo": "YPF usa una fórmula innovadora en licitaciones para conseguir el precio más bajo",
-      "detalle": "YPF implementó una fórmula de licitación que funciona como una subasta a la inversa, donde los oferentes compiten hacia abajo. Esto ya les ahorró más de USD 150 millones en su primera aplicación, demostrando una estrategia efectiva para optimizar costos.",
-      "acciones": [
-        "Estudiar la metodología de subasta inversa de YPF para evaluar su aplicabilidad en otros contextos de negocio o adquisiciones.",
-        "Considerar cómo esta técnica podría ser adaptada para negociaciones con proveedores o clientes en proyectos de arte o retoque."
-      ]
-    },
-    {
-      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
-      "categoria": "General",
-      "titulo": "Investigadora premiada busca cultivos que puedan rebrotar después de la cosecha",
-      "detalle": "La investigación de Renata Reinheimer sobre cultivos perennes, que descubrió que ancestros silvestres de trigo y maíz eran perennes, podría tener un impacto significativo en la agricultura y la sostenibilidad. Esto abre la puerta a nuevas innovaciones en la producción de alimentos.",
-      "acciones": [
-        "Seguir de cerca los avances en agricultura sostenible y biotecnología, ya que estas innovaciones pueden generar nuevas tendencias o mercados.",
-        "Explorar cómo la IA podría aplicarse en la investigación agrícola para acelerar descubrimientos como este."
+        "Investigar más sobre los futuros de cómputo de IA y su potencial.",
+        "Monitorear el desarrollo de este mercado emergente."
       ]
     }
   ],
@@ -142,45 +118,26 @@
     {
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Market",
-      "titulo": "La industria argentina lidera la pérdida de empleo formal y crece la alerta por el cierre de empresas",
-      "detalle": "La \"extrema fragilidad\" de la industria manufacturera argentina, con pérdida de empleo formal y cierre de empresas, indica un deterioro del entramado productivo y un aumento de la informalidad. Esto puede impactar negativamente en la economía general y el poder adquisitivo.",
-      "mitigacion": "Monitorear de cerca los indicadores económicos de Argentina y diversificar las fuentes de ingresos o inversiones para mitigar el impacto de la inestabilidad económica local."
+      "titulo": "Poder adquisitivo en Argentina",
+      "detalle": "El 60% de los argentinos agota sus ingresos antes del día 20 del mes, lo que indica una disminución del poder de compra a pesar de mejoras nominales en los sueldos.",
+      "mitigacion": "Revisar y ajustar el presupuesto personal. Explorar fuentes adicionales de ingresos o inversiones que protejan contra la inflación."
     },
     {
-      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
-      "categoria": "Platform",
-      "titulo": "Mujeres de Michigan demandan a Apple por fallas en la protección anti-acoso de AirTag",
-      "detalle": "La demanda contra Apple por fallas en las protecciones anti-acoso de AirTag resalta un riesgo de seguridad y privacidad en el uso de estos dispositivos. Aunque no es un problema directo para Guido, la percepción de seguridad de los productos Apple podría verse afectada.",
-      "mitigacion": "Mantenerse informado sobre las actualizaciones de seguridad y privacidad de los dispositivos Apple y evaluar el uso de AirTags para asegurar que se utilicen de manera responsable y segura."
-    },
-    {
-      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Market",
-      "titulo": "Harmony planea revertir transacciones después de un exploit",
-      "detalle": "Harmony planea revertir 109,000 transacciones después de un exploit, lo que podría generar un estado inconsistente en la cadena. Este tipo de eventos en el mundo cripto subraya la volatilidad y los riesgos de seguridad en las inversiones en activos digitales.",
-      "mitigacion": "Ser cauteloso con las inversiones en criptomonedas y proyectos blockchain, priorizando aquellos con historiales sólidos de seguridad y transparencia. Diversificar las inversiones para no depender excesivamente de un solo activo digital."
-    }
-  ],
-  "conexiones": [
-    {
-      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "titulo": "Google Gemini y Pixel se asocian con clubes de fútbol para mejorar la experiencia del fan con IA",
-      "historias": [
-        "La noticia de Google Gemini y Pixel usando IA para mejorar la experiencia de los fans en el fútbol se conecta con el interés de Guido en la IA aplicada y el marketing.",
-        "También se relaciona con el hecho de que el partido de fútbol más visto en la historia de EE.UU. tuvo menos de un tercio de las vistas del Super Bowl, lo que sugiere que hay espacio para innovar en la interacción con los fans para aumentar el engagement."
-      ],
-      "conclusion": "La aplicación de IA en eventos deportivos, como la que propone Google, podría ser una forma de aumentar el engagement de los fans y monetizar la experiencia, lo cual es relevante para el marketing y la inversión en entretenimiento."
+      "titulo": "Caída de bonos y aumento del riesgo país en Argentina",
+      "detalle": "Los bonos argentinos vuelven a caer y el riesgo país supera los 480 puntos, desacoplándose de otros países emergentes, lo que señala inestabilidad económica.",
+      "mitigacion": "Monitorear de cerca los indicadores económicos y financieros de Argentina. Diversificar inversiones para mitigar el riesgo local."
     },
     {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "titulo": "Anthropic explica cómo funcionarán las marcas de agua invisibles de texto de Claude",
-      "historias": [
-        "La explicación de Anthropic sobre las marcas de agua invisibles en el texto de Claude para cumplir con las regulaciones de IA se conecta con la creciente necesidad de transparencia y ética en el desarrollo de la inteligencia artificial.",
-        "Esto se relaciona con el interés de Guido en la IA aplicada y las herramientas, ya que la implementación de estas marcas de agua podría influir en cómo se utilizan y se confía en los modelos de lenguaje en el futuro."
-      ],
-      "conclusion": "La transparencia en la IA, a través de mecanismos como las marcas de agua, será crucial para la adopción y regulación de estas tecnologías, impactando directamente en el desarrollo de herramientas y la confianza del usuario."
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "titulo": "Destrucción de libros raros para entrenar IA",
+      "detalle": "Amazon estaría destruyendo textos raros para entrenar modelos de IA, lo que plantea preocupaciones sobre la preservación del conocimiento y el acceso a información única para el entrenamiento de LLMs.",
+      "mitigacion": "Considerar las implicaciones éticas y de acceso a la información en el desarrollo de IA. Apoyar iniciativas de digitalización y preservación de materiales raros."
     }
   ],
+  "conexiones": [],
   "noticias": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
@@ -188,18 +145,20 @@
       "fuente": "Google AI Blog",
       "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
       "tituloOriginal": "Get closer to the game with Gemini and Pixel",
-      "tituloLimpio": "Google Gemini y Pixel se asocian con clubes de fútbol para mejorar la experiencia del fan con IA",
-      "resumen": "Google Gemini y Pixel se asocian con cinco clubes de fútbol globales para elevar la experiencia del fan en el día del partido a través de la IA y la tecnología de smartphones.",
-      "porQueImporta": "Muestra cómo la IA se aplica en el marketing y la experiencia del usuario en eventos masivos, algo relevante para entender tendencias y posibles aplicaciones en otros campos.",
+      "tituloLimpio": "Google Gemini y Pixel se asocian con clubes de fútbol",
+      "resumen": "Google Gemini y Pixel se asocian con cinco clubes de fútbol globales para mejorar la experiencia de los fans con IA y tecnología de smartphones.",
+      "porQueImporta": "Muestra cómo la IA y la tecnología móvil se integran en eventos masivos, lo que podría generar nuevas oportunidades de marketing y experiencia de usuario.",
       "publicadoEn": "2026-08-17T08:00:00.000Z",
       "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "ia",
-        "marketing",
-        "experiencia de usuario",
-        "google"
+        "Google",
+        "Gemini",
+        "Pixel",
+        "IA",
+        "fútbol",
+        "marketing"
       ],
       "tambienVistoEn": []
     },
@@ -207,19 +166,41 @@
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Apple",
       "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/08/17/apple-fitness-could-get-live-content/",
-      "tituloOriginal": "Job Listing Suggests Apple Fitness+ Could Get Live Content",
-      "tituloLimpio": "Una oferta de trabajo sugiere que Apple Fitness+ podría tener contenido en vivo",
-      "resumen": "Apple está buscando un productor de estudio para su servicio Fitness+ con experiencia en producción en vivo, lo que podría indicar el futuro del servicio.",
-      "porQueImporta": "Podría significar una evolución en los servicios de Apple, ofreciendo nuevas formas de contenido interactivo que podrían influir en el mercado de fitness digital y la producción de medios.",
-      "publicadoEn": "2026-08-17T08:02:07.000Z",
+      "url": "https://www.macrumors.com/2026/08/17/apple-seeds-sixth-visionos-27-developer-beta/",
+      "tituloOriginal": "Apple Seeds Sixth visionOS 27 Beta to Developers",
+      "tituloLimpio": "Apple lanza la sexta beta de visionOS 27 para desarrolladores",
+      "resumen": "Apple proporcionó a los desarrolladores la sexta beta de una próxima actualización de visionOS 27 para pruebas. visionOS 27 introduce Siri AI.",
+      "porQueImporta": "Indica el avance en el desarrollo de visionOS y la integración de Siri AI, relevante para el ecosistema Apple y las capacidades futuras de IA.",
+      "publicadoEn": "2026-08-17T17:24:42.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "apple",
-        "fitness+",
-        "contenido en vivo",
-        "servicios"
+        "Apple",
+        "visionOS",
+        "beta",
+        "desarrolladores",
+        "Siri AI"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "categoria": "Finance",
+      "fuente": "Sherwood",
+      "url": "https://sherwood.news/markets/credit-markets-have-a-debt-problem-not-a-risk-problem/",
+      "tituloOriginal": "Credit markets have a “debt” problem, not a “risk” problem",
+      "tituloLimpio": "Los mercados de crédito tienen un problema de deuda, no de riesgo",
+      "resumen": "Se está obteniendo mucho endeudamiento, y ese endeudamiento está reduciendo el riesgo por ahora.",
+      "porQueImporta": "Ofrece una perspectiva sobre la situación actual de los mercados de crédito, útil para entender el contexto financiero global.",
+      "publicadoEn": "2026-08-17T15:33:26.000Z",
+      "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/1405907094_new-york-new-york-a-view-of-the-atlas-statue-with-st-patricks-cathedral-in-the-back-at.jpg",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "crédito",
+        "deuda",
+        "riesgo"
       ],
       "tambienVistoEn": []
     },
@@ -227,20 +208,21 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/extrema-fragilidad-la-industria-lidera-la-perdida-empleo-formal-y-crece-la-alerta-el-cierre-empresas-n6311515",
-      "tituloOriginal": "\"Extrema fragilidad\": la industria lidera la pérdida de empleo formal y crece la alerta por el cierre de empresas",
-      "tituloLimpio": "La industria argentina lidera la pérdida de empleo formal y crece la alerta por el cierre de empresas",
-      "resumen": "La industria manufacturera explicó más de uno de cada tres empleos asalariados privados perdidos desde noviembre de 2023. A ese deterioro se suman informes que advierten por la fragilidad del entramado productivo, el avance de la informalidad y la caída en la cantidad de empresas.",
-      "porQueImporta": "Es una noticia clave sobre la situación económica de Argentina, que impacta directamente en el entorno de negocios y la estabilidad laboral del país.",
-      "publicadoEn": "2026-08-17T12:14:00.000Z",
-      "imagen": "https://media.ambito.com/p/d1f0bcb09201673744f337c0dd23f3f2/adjuntos/239/imagenes/043/585/0043585559/1200x675/913x374:933x394/industria-empleo-pymes-actividad-economica.jpg",
-      "globalScore": 98,
+      "url": "https://www.ambito.com/economia/sobra-mes-al-salario-el-60-los-argentinos-agota-sus-ingresos-antes-del-dia-20-n6311532",
+      "tituloOriginal": "Sobra mes al salario: el 60% de los argentinos agota sus ingresos antes del día 20",
+      "tituloLimpio": "El 60% de los argentinos agota sus ingresos antes del día 20",
+      "resumen": "Los sueldos mejoran en términos nominales, pero el poder de compra no acompaña. Casi la mitad de los trabajadores busca otros empleos.",
+      "porQueImporta": "Refleja la difícil situación económica en Argentina, impactando directamente en el poder adquisitivo y la búsqueda de ingresos adicionales.",
+      "publicadoEn": "2026-08-17T13:41:59.000Z",
+      "imagen": "https://media.ambito.com/p/acb15ae676a1182d85a308de203e6e55/adjuntos/239/imagenes/043/585/0043585667/1200x675/866x433:886x453/salarios-ingresos-sueldo.jpg",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "economia",
-        "empleo",
-        "industria"
+        "Argentina",
+        "economía",
+        "salario",
+        "ingresos",
+        "empleo"
       ],
       "tambienVistoEn": []
     },
@@ -248,19 +230,19 @@
       "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
       "categoria": "Marketing",
       "fuente": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/jcpenney-parodies-off-price-retailers-with-wellness-themed-campaign/827878/",
-      "tituloOriginal": "JCPenney parodies off-price retailers with wellness-themed campaign",
-      "tituloLimpio": "JCPenney parodia a minoristas de bajo precio con una campaña temática de bienestar",
-      "resumen": "Marisa Thalberg, directora de clientes y marketing de Catalyst Brands, detalla un Retiro de Rejuvenecimiento Minorista que busca cambiar los hábitos de compra.",
-      "porQueImporta": "Ofrece un ejemplo de estrategia de marketing creativa y cómo las marcas buscan diferenciarse y cambiar la percepción del consumidor, relevante para profesionales del marketing.",
-      "publicadoEn": "2026-08-17T04:01:00.000Z",
-      "globalScore": 94,
+      "url": "https://www.marketingdive.com/news/why-starkist-chose-to-consolidate-its-marketing-at-one-agency/827873/",
+      "tituloOriginal": "Why StarKist chose to consolidate its marketing at one agency",
+      "tituloLimpio": "StarKist consolidó su marketing en una sola agencia",
+      "resumen": "La marca de atún contrató a Tombras para posicionarse mejor como proteína lista para comer y explorar formas más culturales de usar su mascota Charlie.",
+      "porQueImporta": "Ejemplo práctico de estrategia de marketing y consolidación de agencias, relevante para entender tendencias en la industria.",
+      "publicadoEn": "2026-08-17T14:17:54.000Z",
+      "globalScore": 96,
       "personalScore": 100,
       "tags": [
         "marketing",
-        "campaña",
-        "retail",
-        "estrategia"
+        "estrategia",
+        "agencias",
+        "marca"
       ],
       "tambienVistoEn": []
     },
@@ -268,19 +250,20 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-      "tituloOriginal": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-      "tituloLimpio": "Stripe adquiriría la startup de pasarela de IA OpenRouter por más de 7 mil millones de dólares",
-      "resumen": "El CEO de OpenRouter describió recientemente a la startup como el Stripe para IA.",
-      "porQueImporta": "Una adquisición de esta magnitud en el sector de IA indica una consolidación y un fuerte valor en las herramientas y plataformas de inteligencia artificial, relevante para inversores y desarrolladores de IA.",
-      "publicadoEn": "2026-08-16T20:57:04.000Z",
-      "globalScore": 90,
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "tituloOriginal": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "tituloLimpio": "Amazon destruye libros raros para entrenar IA",
+      "resumen": "Los libros raros son valiosos para entrenar LLMs, ya que estos modelos ya se han entrenado con lo disponible en línea.",
+      "porQueImporta": "Plantea una discusión ética sobre el uso de recursos para el entrenamiento de IA y el valor de la información única.",
+      "publicadoEn": "2026-08-17T16:38:44.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "ia",
-        "inversion",
-        "adquisicion",
-        "startup"
+        "IA",
+        "Amazon",
+        "libros",
+        "entrenamiento",
+        "ética"
       ],
       "tambienVistoEn": []
     },
@@ -288,19 +271,19 @@
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
       "fuente": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-      "tituloOriginal": "Anthropic explains how Claude’s invisible text watermarks will work",
-      "tituloLimpio": "Anthropic explica cómo funcionarán las marcas de agua invisibles de texto de Claude",
-      "resumen": "Anthropic aclaró cómo planea aplicar marcas de agua invisibles al texto generado por Claude para cumplir con las reglas de transparencia de IA de Europa.",
-      "porQueImporta": "Es fundamental para entender la evolución de la IA y la regulación, especialmente en cuanto a la autenticidad y la transparencia del contenido generado por máquinas.",
-      "publicadoEn": "2026-08-17T10:57:13.000Z",
-      "globalScore": 100,
+      "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+      "tituloOriginal": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+      "tituloLimpio": "Roleplay como un chatbot de IA para reírse",
+      "resumen": "Your AI Slop Bores Me es brillante en su simplicidad. Hay dos pestañas: humano y LARP como una IA. En un lado se ingresa una solicitud. En el otro, se envía una respuesta.",
+      "porQueImporta": "Una herramienta o juego que permite interactuar y entender mejor cómo funcionan los chatbots de IA, útil para quienes trabajan con IA.",
+      "publicadoEn": "2026-08-15T20:45:00.000Z",
+      "globalScore": 96,
       "personalScore": 100,
       "tags": [
-        "ia",
-        "regulacion",
-        "transparencia",
-        "anthropic"
+        "IA",
+        "chatbot",
+        "herramientas",
+        "humor"
       ],
       "tambienVistoEn": []
     },
@@ -310,17 +293,39 @@
       "fuente": "MIT Technology Review AI",
       "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
       "tituloOriginal": "What happens when a kid’s robot best friend dies?",
-      "tituloLimpio": "¿Qué pasa cuando muere el mejor amigo robot de un niño?",
-      "resumen": "Cuando Xander conoció a Moxie, ella le enseñó que cuando estaba ansioso, podía calmarse exhalando por los labios para zumbar como una abeja. Practicaron respirar como dragones para manejar el enojo y olfatear como conejos para aumentar su energía.",
-      "porQueImporta": "Plantea preguntas éticas y emocionales sobre la interacción humana con la IA y los robots, relevante para el futuro de la tecnología y su impacto social.",
+      "tituloLimpio": "¿Qué pasa cuando el robot mejor amigo de un niño muere?",
+      "resumen": "Cuando Xander conoció a Moxie, ella le enseñó a calmarse exhalando como una abeja. Practicaron respirar como dragones para manejar el enojo y olfatear como conejos para aumentar la energía.",
+      "porQueImporta": "Explora la relación emocional entre humanos y robots con IA, un tema relevante a medida que la IA se integra más en la vida cotidiana.",
       "publicadoEn": "2026-08-17T09:00:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "ia",
-        "robotica",
-        "etica",
-        "sociedad"
+        "IA",
+        "robots",
+        "emociones",
+        "niños"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/17/apple-releases-beta-6-for-ipados-27-tvos-27-and-more/",
+      "tituloOriginal": "Apple releases beta 6 for iPadOS 27, tvOS 27, and more",
+      "tituloLimpio": "Apple lanza la beta 6 para iPadOS 27, tvOS 27 y más",
+      "resumen": "La Beta 6 se está implementando para iPadOS 27, tvOS 27, watchOS 27, HomePod 27 y más, acercando el nuevo software a su lanzamiento.",
+      "porQueImporta": "Muestra el progreso en el desarrollo de los sistemas operativos de Apple, importante para usuarios y desarrolladores del ecosistema.",
+      "publicadoEn": "2026-08-17T17:22:59.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "iPadOS",
+        "tvOS",
+        "watchOS",
+        "HomePod",
+        "beta"
       ],
       "tambienVistoEn": []
     },
@@ -328,19 +333,19 @@
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
       "categoria": "Apple",
       "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/08/17/michigan-women-sue-apple-over-airtag-anti-stalking-protection-failures?utm_source=rss",
-      "tituloOriginal": "Michigan women sue Apple over AirTag anti-stalking protection failures",
-      "tituloLimpio": "Mujeres de Michigan demandan a Apple por fallas en la protección anti-acoso de AirTag",
-      "resumen": "Apple ha sido arrastrada a otra demanda por AirTag, después de que dos mujeres en Detroit alegaran haber sido rastreadas por sus exparejas usando el accesorio, pero no fueron alertadas de dicho seguimiento.",
-      "porQueImporta": "Destaca preocupaciones de privacidad y seguridad en productos de Apple, lo cual es importante para cualquier usuario de tecnología y para la reputación de la marca.",
-      "publicadoEn": "2026-08-17T12:09:42.000Z",
+      "url": "https://appleinsider.com/articles/26/08/17/save-100-to-150-on-apples-m4-ipad-air-after-amazon-issues-steeper-markdowns?utm_source=rss",
+      "tituloOriginal": "Save $100 to $150 on Apple's M4 iPad Air after Amazon issues steeper markdowns",
+      "tituloLimpio": "Ahorrá hasta $150 en el iPad Air M4 de Apple en Amazon",
+      "resumen": "Los descuentos de Amazon en el iPad Air M4 actual ofrecen los precios más bajos de la temporada. Ahorrá hasta $150 en el iPad Air M4 de Apple en Amazon.",
+      "porQueImporta": "Oportunidad para adquirir hardware Apple a un precio reducido, relevante para quienes buscan actualizar sus herramientas de trabajo.",
+      "publicadoEn": "2026-08-17T15:36:43.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "apple",
-        "airtag",
-        "privacidad",
-        "seguridad"
+        "Apple",
+        "iPad Air M4",
+        "descuentos",
+        "Amazon"
       ],
       "tambienVistoEn": []
     },
@@ -350,18 +355,19 @@
       "fuente": "MacStories",
       "url": "https://www.macstories.net/news/jungle-shot-11-music-videos-in-four-days-with-apple-creator-studio/",
       "tituloOriginal": "Jungle Shot 11 Music Videos in Four Days with Apple Creator Studio",
-      "tituloLimpio": "Jungle grabó 11 videos musicales en cuatro días con Apple Creator Studio",
-      "resumen": "Jungle lanzó su quinto álbum de estudio, Sunshine. Junto con el lanzamiento, Apple publicó cómo la banda usó Apple Creator Studio para filmar 11 videos musicales en solo cuatro días.",
-      "porQueImporta": "Muestra la eficiencia y las capacidades de las herramientas de Apple para la producción creativa, relevante para artistas y profesionales del retoque fotográfico y video.",
+      "tituloLimpio": "Jungle filmó 11 videos musicales en cuatro días con Apple Creator Studio",
+      "resumen": "Jungle lanzó su quinto álbum de estudio, Sunshine. Apple publicó cómo la banda usó Apple Creator Studio para filmar 11 videos musicales en solo cuatro días.",
+      "porQueImporta": "Destaca la eficiencia y capacidad de las herramientas de Apple para la producción creativa, útil para artistas y retocadores fotográficos.",
       "publicadoEn": "2026-08-15T00:06:08.000Z",
       "imagen": "https://cdn.macstories.net/images/uploads/2026/08/14/jungle-transparent-16x9-1786751182429-7620eb5e2f.mp4",
       "globalScore": 90,
       "personalScore": 100,
       "tags": [
-        "apple",
-        "herramientas",
-        "produccion",
-        "creatividad"
+        "Apple",
+        "Creator Studio",
+        "música",
+        "producción",
+        "herramientas"
       ],
       "tambienVistoEn": []
     },
@@ -369,20 +375,20 @@
       "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
       "categoria": "Finance",
       "fuente": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-bill-ackman-doubles-down-020300181.html",
-      "tituloOriginal": "Billionaire Bill Ackman doubles down on these stocks in Q2",
-      "tituloLimpio": "El multimillonario Bill Ackman duplica su apuesta en estas acciones en el segundo trimestre",
-      "resumen": "No se proporcionó un resumen detallado en la fuente original.",
-      "porQueImporta": "Ofrece una visión de las estrategias de inversión de grandes figuras del mercado, lo cual puede ser de interés para quienes siguen el mercado de valores y ETFs.",
-      "publicadoEn": "2026-08-16T02:03:00.000Z",
-      "imagen": "https://media.zenfs.com/en/thestreet_881/a14d98365db6b4ab1e963ff1b13bce6b.jpg",
-      "globalScore": 86,
+      "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-berkshire-raises-stake-214700937.html",
+      "tituloOriginal": "Warren Buffett's Berkshire raises stake in world's largest airline",
+      "tituloLimpio": "Berkshire de Warren Buffett aumenta su participación en la aerolínea más grande del mundo",
+      "resumen": "Warren Buffett's Berkshire raises stake in world's largest airline",
+      "porQueImporta": "Indica movimientos de inversión de grandes actores del mercado, relevante para quienes siguen tendencias de inversión.",
+      "publicadoEn": "2026-08-16T21:47:00.000Z",
+      "imagen": "https://media.zenfs.com/en/thestreet_881/9945e220c99e322c9afe275edd24c775.jpg",
+      "globalScore": 92,
       "personalScore": 100,
       "tags": [
         "finanzas",
-        "inversion",
-        "acciones",
-        "mercado"
+        "inversión",
+        "Warren Buffett",
+        "Berkshire Hathaway"
       ],
       "tambienVistoEn": []
     },
@@ -390,41 +396,20 @@
       "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
       "categoria": "Finance",
       "fuente": "Yahoo Finance",
-      "url": "https://www.investors.com/etfs-and-funds/sectors/sp500-stocks-with-this-number-of-letters-in-their-symbols-do-best/?src=A00220&yptr=yahoo",
-      "tituloOriginal": "Stocks With This Number Of Letters In Their Symbols Do Best",
-      "tituloLimpio": "Las acciones con esta cantidad de letras en sus símbolos rinden mejor",
-      "resumen": "No se proporcionó un resumen detallado en la fuente original.",
-      "porQueImporta": "Un dato curioso sobre el mercado de valores que podría ser de interés para inversores que buscan patrones o curiosidades en el rendimiento de las acciones.",
-      "publicadoEn": "2026-08-17T12:00:29.000Z",
-      "imagen": "https://media.zenfs.com/en/ibd.com/9c6fc3b6aab5ae2481d36f8c881d9f46.jpg",
+      "url": "https://www.investors.com/news/vix-stock-market-fear-gauge/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "'Fear Gauge' Falls To Year's Low. A Bad Sign For The Stock Market?",
+      "tituloLimpio": "El 'indicador de miedo' cae al mínimo del año",
+      "resumen": "Fear Gauge' Falls To Year's Low. A Bad Sign For The Stock Market?",
+      "porQueImporta": "Un indicador clave sobre el sentimiento del mercado, útil para evaluar el riesgo y las oportunidades de inversión.",
+      "publicadoEn": "2026-08-17T17:04:55.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/35262e4db24627befc65c311b453a800.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "finanzas",
-        "inversion",
-        "acciones",
-        "mercado"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "yahoo-finance-aHR0cHM6Ly93d3cud3Nq",
-      "categoria": "Finance",
-      "fuente": "Yahoo Finance",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/stocks-to-watch-alibaba-diana-shipping-bhp-xNrQSBdGgZVZiqNTks2N?siteid=yhoof2&yptr=yahoo",
-      "tituloOriginal": "Stocks to Watch: Alibaba, L3Harris, Diana Shipping, BHP",
-      "tituloLimpio": "Acciones a seguir: Alibaba, L3Harris, Diana Shipping, BHP",
-      "resumen": "No se proporcionó un resumen detallado en la fuente original.",
-      "porQueImporta": "Proporciona nombres de empresas específicas que están en el radar de los analistas, útil para quienes buscan ideas de inversión o monitorean el mercado.",
-      "publicadoEn": "2026-08-17T12:22:40.000Z",
-      "imagen": "https://media.zenfs.com/en/wsj.com/57c1a48aa97bfc416871916e3dd86730.jpg",
-      "globalScore": 98,
-      "personalScore": 100,
-      "tags": [
-        "finanzas",
-        "inversion",
-        "acciones",
-        "mercado"
+        "mercado",
+        "VIX",
+        "inversión"
       ],
       "tambienVistoEn": []
     },
@@ -432,20 +417,42 @@
       "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
       "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/17/no-change-in-bitcoin-holdings-as-strategy-lifted-dollar-reserve-and-bought-back-more-strc-last-week",
-      "tituloOriginal": "No change in bitcoin holdings as Strategy boosted dollar reserve, bought back more STRC last week",
-      "tituloLimpio": "Sin cambios en las tenencias de bitcoin mientras Strategy aumentó la reserva en dólares y recompró más STRC la semana pasada",
-      "resumen": "La compañía, liderada por el presidente ejecutivo Michael Saylor, recaudó 333.7 millones de dólares mediante la venta de acciones comunes.",
-      "porQueImporta": "Informa sobre movimientos importantes en el mercado de criptomonedas y la estrategia de una empresa relevante, lo cual es de interés para inversores en activos digitales.",
-      "publicadoEn": "2026-08-17T12:19:45.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/d00d58cb37e792985dd1a2d7a5b976dca32d84c0-720x406.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "url": "https://www.coindesk.com/business/2026/08/17/bitmart-founder-dismisses-calls-for-audit-as-users-report-blocked-funds-unpaid-employees",
+      "tituloOriginal": "BitMart founder dismisses calls for audit as users report blocked funds, unpaid employees",
+      "tituloLimpio": "Fundador de BitMart desestima pedidos de auditoría",
+      "resumen": "Sheldon Lee dijo que una cuenta de X en chino que hacía las afirmaciones fue hackeada. Los usuarios quieren que se revelen billeteras, activos y pasivos.",
+      "porQueImporta": "Noticia relevante para quienes invierten en criptomonedas, señalando posibles problemas de transparencia y confianza en plataformas.",
+      "publicadoEn": "2026-08-17T16:40:08.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/49be1ebccbc9a0cf5576123027361e2caf08bc8e-5999x3999.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "finanzas",
-        "bitcoin",
         "criptomonedas",
-        "inversion"
+        "BitMart",
+        "auditoría"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/cftc-ai-compute-futures-cme-october-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "CFTC seeks public input on AI compute futures contracts as CME eyes October launch",
+      "tituloLimpio": "La CFTC busca opinión pública sobre contratos de futuros de cómputo de IA",
+      "resumen": "La revisión regulatoria podría dar forma a un mercado emergente que permite a empresas e inversores negociar y cubrir el costo de la potencia de cómputo de IA.",
+      "porQueImporta": "Podría abrir nuevas vías de inversión y gestión de costos en el ámbito de la IA, relevante para quienes trabajan con IA y finanzas.",
+      "publicadoEn": "2026-08-17T17:11:39.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/dollars-fly-away-cftc.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "finanzas",
+        "futuros",
+        "CFTC",
+        "cómputo"
       ],
       "tambienVistoEn": []
     },
@@ -453,20 +460,21 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-lunes-17-agosto_0_CIBaL8Nv5y.html",
-      "tituloOriginal": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este lunes 17 de agosto",
-      "tituloLimpio": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este lunes 17 de agosto",
-      "resumen": "Desde el oficial hasta el blue y el turista, todos los tipos de cambio. Mirá la cotización minuto a minuto.",
-      "porQueImporta": "Información esencial para cualquier persona en Argentina, ya que el valor del dólar impacta directamente en la economía personal y empresarial.",
-      "publicadoEn": "2026-08-17T12:00:01.000Z",
-      "imagen": "https://www.clarin.com/img/2012/07/16/HyHLc5htVx_1200x630.jpg",
+      "url": "https://www.clarin.com/economia/bonos-vuelven-caer-riesgo-pais-supera-vez-480-puntos-factores-explican-suba_0_f1qDnrUV5F.html",
+      "tituloOriginal": "Los bonos vuelven a caer y el riesgo país supera otra vez los 480 puntos: qué factores explican la suba",
+      "tituloLimpio": "Los bonos vuelven a caer y el riesgo país supera los 480 puntos",
+      "resumen": "El indicador de la banca JP Morgan llega a las 483 unidades. La deuda se desacopla de la de los países emergentes.",
+      "porQueImporta": "Información crucial sobre la economía argentina, afectando directamente las decisiones de inversión y el panorama financiero local.",
+      "publicadoEn": "2026-08-17T16:05:41.000Z",
+      "imagen": "https://www.clarin.com/img/2026/08/17/4qvqs3bCq_1200x630__1.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "economia",
-        "dolar",
-        "finanzas"
+        "Argentina",
+        "economía",
+        "bonos",
+        "riesgo país",
+        "inversión"
       ],
       "tambienVistoEn": []
     },
@@ -474,20 +482,21 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/08/17/la-innovadora-formula-que-usa-ypf-para-sus-licitaciones-apela-al-efecto-psicologico-para-conseguir-el-precio-mas-bajo/",
-      "tituloOriginal": "La innovadora fórmula que usa YPF para sus licitaciones: apela al “efecto psicológico” para conseguir el precio más bajo",
-      "tituloLimpio": "La innovadora fórmula que usa YPF para sus licitaciones: apela al “efecto psicológico” para conseguir el precio más bajo",
-      "resumen": "Funciona como una subasta tradicional pero al revés: en lugar de pujar hacia arriba, los oferentes compiten hacia abajo. La petrolera ya lo implementó y se ahorró más de USD 150 millones en su primera aplicación.",
-      "porQueImporta": "Un ejemplo práctico de innovación en procesos de negocio que puede generar ahorros significativos, relevante para la gestión empresarial y la optimización de costos.",
-      "publicadoEn": "2026-08-17T12:42:37.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/WT4Y3KOEUJAB3IPBPROYMFR5E4.jpeg?auth=f6be6fcaf7170ce292ccbd128447e5e603046f0c0af497688deee77d697e55b5&smart=true&width=1280&height=854",
+      "url": "https://www.infobae.com/economia/2026/08/17/ya-son-nueve-los-bancos-que-se-sumaron-al-programa-de-desendeudamiento-en-caba-como-es-y-quienes-pueden-acceder/",
+      "tituloOriginal": "Ya son nueve los bancos que se sumaron al programa de desendeudamiento en CABA: cómo es y quiénes pueden acceder",
+      "tituloLimpio": "Nueve bancos se sumaron al programa de desendeudamiento en CABA",
+      "resumen": "La iniciativa apunta a vecinos porteños con deudas en mora en tarjetas de crédito y préstamos personales; fija una tasa fija máxima del 35% y vence el 13 de octubre.",
+      "porQueImporta": "Oportunidad para residentes de CABA con deudas, ofreciendo una vía para reestructurar sus finanzas personales.",
+      "publicadoEn": "2026-08-17T17:07:00.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/PRMHGW46FVA43GKTHLVTR3XJIE.png?auth=fbe66d163161d8db9e4d4ddc535946dd2934294077593314cdbd9acaf087aa0a&smart=true&width=1408&height=768",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "negocios",
-        "innovacion",
-        "gestion"
+        "Argentina",
+        "CABA",
+        "finanzas personales",
+        "deudas",
+        "bancos"
       ],
       "tambienVistoEn": []
     },
@@ -495,46 +504,26 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/campo/renata-reinheimer-investigadora-premiada-nuestro-sueno-es-que-existan-cultivos-que-puedan-rebrotar-nid16082026/",
-      "tituloOriginal": "Renata Reinheimer, investigadora premiada: “Nuestro sueño es que existan cultivos que puedan rebrotar después de la cosecha”",
-      "tituloLimpio": "Renata Reinheimer, investigadora premiada: “Nuestro sueño es que existan cultivos que puedan rebrotar después de la cosecha”",
-      "resumen": "La experta, junto a colegas, descubrió que los cultivos actuales, como el trigo o el maíz, tienen ancestros silvestres que eran perennes; es decir, que vivían varios años.",
-      "porQueImporta": "Una noticia sobre investigación científica con potencial impacto en la sostenibilidad y la producción de alimentos, relevante para el futuro de la tecnología y el medio ambiente.",
-      "publicadoEn": "2026-08-17T12:43:58.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/UA7DTB5XIVB77HYRRFDV7IX6NU.jpg?auth=9101b7d9a3cfe1020b609f1e3d6a9c003aba408a0792e8026fbca7a4da4ba410&smart=true&width=995&height=560",
-      "globalScore": 100,
+      "url": "https://www.lanacion.com.ar/economia/travel-sale-2026-cuando-es-y-que-se-sabe-nid17082026/",
+      "tituloOriginal": "Travel Sale 2026: cuándo es y qué se sabe",
+      "tituloLimpio": "Travel Sale 2026: cuándo es y qué se sabe",
+      "resumen": "Las ofertas para viajes y estadías se prolongan por una semana; cuáles son las fechas y recomendaciones a tener en cuenta.",
+      "porQueImporta": "Información útil para planificar viajes y aprovechar descuentos, relevante para la vida personal.",
+      "publicadoEn": "2026-08-17T17:19:06.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/HR4GYAV7OBH5VCMI4SOKJNPJIE.JPG?auth=6c924f778f373c9d1bf0969938241ab5e91b4b556c7370bf50a70672d266d3ea&smart=true&width=2000&height=1333",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "ciencia",
-        "investigacion",
-        "sostenibilidad",
-        "agricultura"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
-      "categoria": "Marketing",
-      "fuente": "Adweek",
-      "url": "https://www.adweek.com/brand-marketing/10-gen-z-marketing-makeovers-and-whether-theyre-working/",
-      "tituloOriginal": "10 Gen Z Marketing Makeovers, And Whether They’re Working",
-      "tituloLimpio": "10 cambios de imagen de marketing de la Generación Z, y si están funcionando",
-      "resumen": "Desde American Eagle hasta Gap y McDonald’s, aquí se muestra cómo están funcionando algunos de los mayores cambios de imagen de marketing de la Generación Z.",
-      "porQueImporta": "Ofrece insights sobre las estrategias de marketing dirigidas a la Generación Z, crucial para entender las tendencias actuales y futuras en publicidad y branding.",
-      "publicadoEn": "2026-08-17T06:13:40.000Z",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "marketing",
-        "generacion z",
-        "tendencias",
-        "branding"
+        "Argentina",
+        "viajes",
+        "ofertas",
+        "Travel Sale"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-08-17T12:49:25.920Z"
+    "generadoEn": "2026-08-17T17:26:36.660Z"
   }
 }
