@@ -1,151 +1,171 @@
 {
   "fecha": "2026-08-18",
-  "generadoEn": "2026-08-18T12:51:17.758Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "Hoy tenemos novedades importantes en el ámbito de la IA, con Google y Anthropic destacándose. En Apple, hay expectativas por un posible iPhone Ultra y cambios en la privacidad en Europa. La situación económica en Argentina muestra un aumento en el peso de las tarifas en los salarios y el riesgo país en alza. También hay movimientos en el marketing para captar a consumidores que buscan valor.",
+  "generadoEn": "2026-08-18T17:26:09.197Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Apple ajusta sus tarifas en la App Store de la UE por la Ley de Mercados Digitales. En Argentina, la demora en los pagos es una preocupación creciente para las pymes industriales, mientras que los mercados financieros locales y globales muestran caídas. En el ámbito de la IA, la valoración de Etched se duplicó y Firefox integra funciones de IA en su navegador.",
   "radarPersonal": [
     {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "El peso de las tarifas en los salarios se duplicó desde 2023",
-      "resumen": "La canasta de servicios públicos llegó a $295.826 durante julio de 2026, una suba del 4,6% en comparación con el mes anterior y un salto interanual del 53%. El transporte fue el rubro de mayor peso, con el 41% del costo total.",
-      "categoria": "Argentina",
-      "fuentes": [
-        "Ambito"
-      ],
-      "urls": [
-        "https://www.ambito.com/economia/el-peso-las-tarifas-los-salarios-se-duplico-2023-cuanto-aumentaron-los-servicios-esenciales-n6311810"
-      ],
-      "score": 100,
-      "tags": [
-        "tarifas",
-        "salarios",
-        "servicios",
-        "esenciales",
-        "argentina"
-      ]
-    },
-    {
-      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
-      "titulo": "El riesgo país se acerca a los 500 puntos básicos",
-      "resumen": "Factores externos y locales se combinan para explicar el comportamiento del indicador elaborado por JP Morgan, que ascendió a 494 unidades en la apertura de los mercados.",
-      "categoria": "Argentina",
-      "fuentes": [
-        "Infobae Economia"
-      ],
-      "urls": [
-        "https://www.infobae.com/economia/2026/08/18/por-que-el-riesgo-pais-toco-el-nivel-mas-alto-desde-junio-y-se-acerco-a-los-500-puntos-basicos/"
-      ],
-      "score": 100,
-      "tags": [
-        "riesgo país",
-        "mercados",
-        "argentina"
-      ]
-    },
-    {
-      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
-      "titulo": "Dólar hoy y dólar blue, EN VIVO",
-      "resumen": "La divisa oficial operó a $1515 para la venta en el Banco Nación; el dólar blue cotizó a $1540 para esa operación; qué pasa con el MEP y el CCL.",
-      "categoria": "Argentina",
-      "fuentes": [
-        "La Nacion Economia"
-      ],
-      "urls": [
-        "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid18082026/"
-      ],
-      "score": 100,
-      "tags": [
-        "dólar",
-        "dólar blue",
-        "cotización",
-        "argentina"
-      ]
-    },
-    {
-      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
-      "titulo": "Rothschild's AAPL price target soars to $400 on iPhone Ultra expectations",
-      "resumen": "Financial advice group Rothschild & Co Redburn has raised its Apple price target by a huge $140, specifically because it believes that an iPhone Ultra is a \"match made in heaven\" for the company. Analysts believe Apple will do well in the Q3 results. Rothschild & Co Redburn doesn't seem to concentrate much on Apple, and its usual price targets tend to lag be",
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Apple modifica las tarifas de la App Store en la UE por la Ley de Mercados Digitales",
+      "resumen": "Apple anunció cambios en las políticas y tarifas de su App Store en la Unión Europea para cumplir con la Ley de Mercados Digitales.",
       "categoria": "Apple",
       "fuentes": [
-        "AppleInsider"
+        "MacRumors"
       ],
       "urls": [
-        "https://appleinsider.com/articles/26/08/18/rothschilds-aapl-price-target-soars-to-400-on-iphone-ultra-expectations?utm_source=rss"
+        "https://www.macrumors.com/2026/08/18/eu-app-store-fee-change/"
       ],
       "score": 100,
       "tags": [
         "apple",
-        "iphone ultra",
-        "inversión"
+        "app store",
+        "tarifas",
+        "ue",
+        "digital markets act"
       ]
     },
     {
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "titulo": "Anthropic’s annualized revenue surges to $65B",
-      "resumen": "The model maker added $18 billion in annualized revenue in two months.",
+      "titulo": "La valoración de Etched se duplica a 21 mil millones de dólares en un mes",
+      "resumen": "Jane Street instaló el primer sistema de clúster de IA de Etched y, según la startup, quedó tan impresionada que lideró otra ronda de inversión masiva.",
       "categoria": "AI",
       "fuentes": [
         "TechCrunch AI"
       ],
       "urls": [
-        "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/"
+        "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/"
       ],
       "score": 100,
       "tags": [
-        "anthropic",
+        "etched",
+        "valoracion",
         "ia",
-        "negocios"
+        "inversion"
+      ]
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "La 'Smart Window' de Firefox promete un mejor navegador con IA",
+      "resumen": "Los chats de IA en el modo de navegación 'Smart Window' de Firefox pueden usar información web actual y mostrar enlaces de origen en las respuestas, gracias a una asociación con Exa. 'Smart Window' también puede sugerir grupos de pestañas y mostrar vistas previas visuales de páginas visitadas al buscar en el historial de navegación.",
+      "categoria": "AI",
+      "fuentes": [
+        "The Verge AI"
+      ],
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features"
+      ],
+      "score": 100,
+      "tags": [
+        "firefox",
+        "ia",
+        "navegador",
+        "smart window"
+      ]
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "titulo": "La demora en los pagos es la segunda preocupación de las pymes industriales en Argentina",
+      "resumen": "El temor a que se corte la cadena de pagos superó a la suba de costos de las materias primas entre las preocupaciones. La principal inquietud es la caída de la demanda y la producción.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Clarin Economia"
+      ],
+      "urls": [
+        "https://www.clarin.com/economia/demora-pagos-segunda-preocupacion-pymes-industriales-62-sufrio-atraso-1-4-pudo-abonar-tiempo_0_s9H8Tdz8CP.html"
+      ],
+      "score": 100,
+      "tags": [
+        "pymes",
+        "argentina",
+        "economia",
+        "pagos",
+        "industria"
+      ]
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "titulo": "Mercados: las bolsas negocian en rojo y la caída de los bonos argentinos impulsa el riesgo país",
+      "resumen": "Los índices de Wall Street caen hasta 1,3% y el S&P Merval cede 1% tras el feriado. Los bonos en dólares de Argentina restan un 0,9% en promedio.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Infobae Economia"
+      ],
+      "urls": [
+        "https://www.infobae.com/economia/2026/08/18/mercados-las-bolsas-negocian-en-rojo-y-la-caida-de-los-bonos-argentinos-impulsa-el-riesgo-pais/"
+      ],
+      "score": 100,
+      "tags": [
+        "mercados",
+        "argentina",
+        "bonos",
+        "riesgo pais",
+        "economia"
       ]
     }
   ],
   "loImportante": [
-    "El peso de las tarifas en los salarios argentinos se duplicó desde 2023, impactando directamente el poder adquisitivo.",
-    "El riesgo país en Argentina alcanzó su nivel más alto desde junio, acercándose a los 500 puntos básicos, reflejando la incertidumbre económica.",
-    "Anthropic, una empresa de IA, vio un aumento significativo en sus ingresos anualizados, mostrando el crecimiento del sector.",
-    "Apple está realizando ocho cambios en su política de Transparencia de Seguimiento de Aplicaciones en Europa, lo que podría sentar precedentes globales.",
-    "Los mercados de crédito tienen un problema de deuda, no de riesgo, según un análisis, lo que sugiere un panorama financiero particular."
+    "Apple está reestructurando sus tarifas de App Store en la UE, lo que podría influir en el modelo de negocio de desarrolladores y la competencia.",
+    "La valoración de Etched, una empresa de IA, se duplicó en un mes, señalando un fuerte interés inversor en el sector.",
+    "Firefox integra funciones de IA en su 'Smart Window', mejorando la experiencia de navegación y búsqueda.",
+    "Las pymes industriales en Argentina enfrentan problemas de demora en los pagos, lo que afecta la cadena de valor.",
+    "Los mercados financieros, tanto globales como argentinos, muestran una tendencia a la baja, con impacto en bonos y riesgo país."
   ],
   "oportunidades": [
     {
-      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
-      "categoria": "Marketing",
-      "titulo": "Marcas ajustan marketing para 'buscadores de hipervalor'",
-      "detalle": "Las marcas están cambiando sus estrategias de marketing para el regreso a clases, enfocándose en consumidores que buscan valor extremo. Esto implica diversificar más allá de los influencers y ajustar las mezclas de medios para ser más específicos.",
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "titulo": "Integración de IA en navegadores como Firefox",
+      "detalle": "La 'Smart Window' de Firefox incorpora IA para mejorar la búsqueda y organización de pestañas, usando información web actual y mostrando fuentes. Esto abre la puerta a nuevas formas de interacción y productividad en el navegador.",
       "acciones": [
-        "Analizar cómo las marcas están redefiniendo el 'valor' en sus mensajes.",
-        "Explorar nuevas tácticas de marketing digital que no dependan solo de influencers de alto perfil.",
-        "Considerar la aplicación de estas estrategias en campañas de marketing para servicios de retoque fotográfico o arte con IA, destacando el valor y la eficiencia."
+        "Explorar las nuevas funcionalidades de IA en Firefox para optimizar el flujo de trabajo de investigación y organización.",
+        "Analizar cómo estas integraciones de IA pueden aplicarse en herramientas de automatización o gestión de información."
       ]
     },
     {
-      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
-      "categoria": "Investing",
-      "titulo": "Mercados de crédito con problema de deuda, no de riesgo",
-      "detalle": "Se observa un alto nivel de endeudamiento que, por ahora, reduce el riesgo. Esto podría indicar oportunidades en ciertos instrumentos de deuda o estrategias de inversión que capitalicen esta dinámica.",
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "Campañas de marketing disruptivas y con causa",
+      "detalle": "Liquid Death y Garage Beer lanzaron una campaña peculiar contra los centros de datos de IA, mostrando cómo marcas desafiantes usan el humor y causas sociales para generar impacto y diferenciarse.",
       "acciones": [
-        "Investigar ETFs o fondos que inviertan en mercados de crédito con esta característica.",
-        "Evaluar la exposición a deuda corporativa o gubernamental en el portafolio de inversión.",
-        "Consultar con un asesor financiero sobre cómo esta tendencia podría afectar las inversiones a mediano plazo."
+        "Estudiar la estrategia de estas marcas para aplicar principios de marketing disruptivo en proyectos propios.",
+        "Considerar cómo integrar causas sociales o ambientales de manera auténtica en campañas de marketing."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Market",
-      "titulo": "Riesgo país en Argentina alcanza máximo desde junio",
-      "detalle": "El riesgo país se acercó a los 500 puntos básicos, su nivel más alto desde junio, debido a factores externos y locales. Esto puede generar incertidumbre en los mercados y afectar la inversión en activos argentinos.",
-      "mitigacion": "Revisar la exposición a activos argentinos en el portafolio de inversión. Considerar la diversificación geográfica y en diferentes clases de activos para mitigar el impacto de la volatilidad local."
+      "titulo": "Demora en pagos a pymes industriales en Argentina",
+      "detalle": "La demora en los pagos es la segunda preocupación para las pymes industriales en Argentina, con un 62% sufriendo atrasos. Esto puede generar un corte en la cadena de pagos y afectar la liquidez de las empresas.",
+      "mitigacion": "Monitorear de cerca los flujos de caja y las cuentas por cobrar. Evaluar la diversificación de clientes y la implementación de políticas de cobro más estrictas. Considerar seguros de crédito o factoring si es viable."
     },
     {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Market",
-      "titulo": "El peso de las tarifas en los salarios se duplicó",
-      "detalle": "El aumento significativo de las tarifas de servicios esenciales en Argentina impacta directamente el poder adquisitivo de los salarios, lo que puede reducir el consumo y afectar la economía general.",
-      "mitigacion": "Monitorear de cerca la inflación y el poder adquisitivo. Ajustar las proyecciones financieras personales y de negocio considerando estos aumentos. Evaluar la eficiencia energética y de servicios en el hogar y el trabajo."
+      "titulo": "Caída de mercados y bonos argentinos",
+      "detalle": "Las bolsas negocian en rojo y la caída de los bonos argentinos impulsa el riesgo país. Esto indica una mayor percepción de riesgo en la economía local y puede afectar las inversiones.",
+      "mitigacion": "Revisar la composición de la cartera de inversiones, priorizando activos con menor volatilidad o diversificación geográfica. Mantenerse informado sobre las políticas económicas y sus posibles impactos en el mercado local."
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "titulo": "Falta de transparencia en el uso real de la IA",
+      "detalle": "Investigadores de IA señalan que las empresas como Anthropic y OpenAI solo publican datos seleccionados sobre cómo se usan sus productos, sin fuentes independientes que corroboren la información.",
+      "mitigacion": "Mantener una postura crítica sobre los informes de uso de IA. Buscar múltiples fuentes y análisis independientes al evaluar tendencias o aplicaciones de la IA. Considerar la experimentación personal para entender las capacidades y limitaciones."
     }
   ],
-  "conexiones": [],
+  "conexiones": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Cambios en la App Store de la UE y el ecosistema Apple",
+      "historias": [
+        "Apple Overhauls EU App Store Fees to Settle Digital Markets Act Dispute",
+        "New EU App Store terms lower both costs and bar to entry for external payments"
+      ],
+      "conclusion": "Las modificaciones de Apple en las tarifas y políticas de la App Store en la Unión Europea, impulsadas por la Ley de Mercados Digitales, buscan simplificar la estructura de costos y facilitar la entrada para pagos externos. Esto podría tener un impacto significativo en los desarrolladores y en la competencia dentro del ecosistema de aplicaciones de Apple, potencialmente abriendo nuevas oportunidades para la distribución y monetización."
+    }
+  ],
   "noticias": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
@@ -153,9 +173,9 @@
       "fuente": "Google AI Blog",
       "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
       "tituloOriginal": "Get closer to the game with Gemini and Pixel",
-      "tituloLimpio": "Google Gemini y Pixel se asocian con clubes de fútbol",
-      "resumen": "Google Gemini y Pixel se asocian con cinco clubes de fútbol globales para mejorar la experiencia de los hinchas en los partidos a través de la IA y la tecnología de smartphones.",
-      "porQueImporta": "Muestra cómo la IA se aplica en experiencias de usuario masivas, en este caso, en el deporte. Podría inspirar ideas para integrar IA en proyectos de arte o retoque fotográfico para mejorar la interacción con el público.",
+      "tituloLimpio": "Google Gemini y Pixel se asocian con clubes de fútbol para mejorar la experiencia del fan",
+      "resumen": "Google Gemini y Pixel se asocian con cinco clubes de fútbol globales para mejorar la experiencia del día del partido de los fans a través de la IA y la tecnología de smartphones.",
+      "porQueImporta": "Muestra cómo la IA se aplica en el marketing deportivo y la experiencia del usuario, un área de interés para Guido por su trabajo en arte con IA y marketing.",
       "publicadoEn": "2026-08-17T08:00:00.000Z",
       "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp",
       "globalScore": 100,
@@ -165,7 +185,29 @@
         "gemini",
         "pixel",
         "ia",
-        "deporte"
+        "marketing",
+        "deportes"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/08/18/eu-app-store-fee-change/",
+      "tituloOriginal": "Apple Overhauls EU App Store Fees to Settle Digital Markets Act Dispute",
+      "tituloLimpio": "Apple modifica las tarifas de la App Store en la UE por la Ley de Mercados Digitales",
+      "resumen": "Apple anunció cambios en las políticas y tarifas de su App Store en la Unión Europea para cumplir con la Ley de Mercados Digitales.",
+      "porQueImporta": "Es relevante para Guido por su interés en Apple y cómo las regulaciones impactan los modelos de negocio de las plataformas, lo que podría influir en el desarrollo de herramientas o aplicaciones.",
+      "publicadoEn": "2026-08-18T16:29:08.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "app store",
+        "tarifas",
+        "ue",
+        "digital markets act"
       ],
       "tambienVistoEn": []
     },
@@ -175,18 +217,18 @@
       "fuente": "Sherwood",
       "url": "https://sherwood.news/markets/credit-markets-have-a-debt-problem-not-a-risk-problem/",
       "tituloOriginal": "Credit markets have a “debt” problem, not a “risk” problem",
-      "tituloLimpio": "Los mercados de crédito tienen un problema de deuda, no de riesgo",
-      "resumen": "Hay mucho endeudamiento, y ese endeudamiento está reduciendo el riesgo, por ahora.",
-      "porQueImporta": "Es una perspectiva interesante sobre el estado actual de los mercados de crédito, relevante para entender el panorama de inversión y las dinámicas financieras globales.",
+      "tituloLimpio": "Los mercados de crédito tienen un problema de 'deuda', no de 'riesgo'",
+      "resumen": "Hay mucho endeudamiento, y ese endeudamiento está reduciendo el riesgo (¡por ahora!).",
+      "porQueImporta": "Ofrece una perspectiva sobre la dinámica actual de los mercados de crédito, útil para Guido en su interés por las inversiones y el análisis financiero.",
       "publicadoEn": "2026-08-17T15:33:26.000Z",
       "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/1405907094_new-york-new-york-a-view-of-the-atlas-statue-with-st-patricks-cathedral-in-the-back-at.jpg",
-      "globalScore": 96,
+      "globalScore": 90,
       "personalScore": 100,
       "tags": [
-        "finanzas",
-        "mercados",
+        "mercados de credito",
         "deuda",
-        "riesgo"
+        "riesgo",
+        "finanzas"
       ],
       "tambienVistoEn": []
     },
@@ -194,20 +236,20 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/el-peso-las-tarifas-los-salarios-se-duplico-2023-cuanto-aumentaron-los-servicios-esenciales-n6311810",
-      "tituloOriginal": "El peso de las tarifas en los salarios se duplicó desde 2023: cuánto aumentaron los servicios esenciales",
-      "tituloLimpio": "El peso de las tarifas en los salarios se duplicó desde 2023",
-      "resumen": "La canasta de servicios públicos llegó a $295.826 durante julio de 2026, una suba del 4,6% en comparación con el mes anterior y un salto interanual del 53%. El transporte fue el rubro de mayor peso, con el 41% del costo total.",
-      "porQueImporta": "Impacta directamente en la economía personal y familiar en Argentina, afectando el poder adquisitivo y la planificación financiera.",
-      "publicadoEn": "2026-08-18T11:46:00.000Z",
-      "imagen": "https://media.ambito.com/p/56a8d3618565d3483ac0ebdb7866ed26/adjuntos/239/imagenes/041/400/0041400110/1200x675/smart/servicios-publicos-agua-luz-gas-transportepng.png",
+      "url": "https://www.ambito.com/economia/la-produccion-industrial-eeuu-se-acelera-julio-y-crece-segundo-mes-consecutivo-n6311952",
+      "tituloOriginal": "La producción industrial de EEUU se acelera en julio y crece por segundo mes consecutivo",
+      "tituloLimpio": "La producción industrial de EEUU se acelera en julio y crece por segundo mes consecutivo",
+      "resumen": "Se vio impulsada por manufacturas (0,2%) y servicios públicos (0,5%), con minería también en alza.",
+      "porQueImporta": "Aunque es de EEUU, la producción industrial es un indicador económico global que puede influir en los mercados y decisiones de inversión de Guido.",
+      "publicadoEn": "2026-08-18T15:27:00.000Z",
+      "imagen": "https://media.ambito.com/p/e2bad53ed6927fb66dd2c228acf9e80e/adjuntos/239/imagenes/043/143/0043143482/1200x675/1051x777:1071x797/industria-eeuu.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "economía",
-        "tarifas",
-        "salarios"
+        "produccion industrial",
+        "eeuu",
+        "economia",
+        "mercados"
       ],
       "tambienVistoEn": []
     },
@@ -215,18 +257,18 @@
       "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
       "categoria": "Marketing",
       "fuente": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/brands-shake-up-back-to-school-marketing-to-reach-hyper-value-seekers/827821/",
-      "tituloOriginal": "Brands shake up back-to-school marketing to reach ‘hyper value-seekers’",
-      "tituloLimpio": "Las marcas cambian el marketing de regreso a clases para llegar a 'buscadores de hipervalor'",
-      "resumen": "Minoristas como American Eagle están diversificando más allá de los influencers y ajustando sus mezclas de medios para ser más específicos esta temporada.",
-      "porQueImporta": "Muestra una tendencia en marketing sobre cómo las marcas se adaptan a consumidores que buscan valor. Útil para pensar estrategias de marketing para servicios de arte con IA o retoque fotográfico.",
-      "publicadoEn": "2026-08-18T12:00:00.000Z",
+      "url": "https://www.marketingdive.com/news/liquid-death-and-garage-beer-take-on-ai-data-centers-with-pee/827879/",
+      "tituloOriginal": "Liquid Death and Garage Beer take on AI data centers — with pee",
+      "tituloLimpio": "Liquid Death y Garage Beer abordan los centros de datos de IA con una campaña peculiar",
+      "resumen": "Las marcas desafiantes se unieron con Jason Kelce para hacer una petición particular a los consumidores unidos en su oposición a la construcción de centros de datos.",
+      "porQueImporta": "Ejemplo de marketing creativo y disruptivo que aborda temas actuales (IA y su infraestructura), relevante para el interés de Guido en marketing y arte con IA.",
+      "publicadoEn": "2026-08-18T13:00:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "marketing",
-        "consumidor",
-        "estrategia",
+        "ia",
+        "campañas",
         "marcas"
       ],
       "tambienVistoEn": []
@@ -235,19 +277,20 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-      "tituloOriginal": "Anthropic’s annualized revenue surges to $65B",
-      "tituloLimpio": "Los ingresos anualizados de Anthropic aumentan a 65 mil millones de dólares",
-      "resumen": "El creador de modelos añadió 18 mil millones de dólares en ingresos anualizados en dos meses.",
-      "porQueImporta": "Destaca el rápido crecimiento y la rentabilidad en el sector de la IA, lo que es relevante para entender el panorama de inversión y las oportunidades en esta tecnología.",
-      "publicadoEn": "2026-08-17T23:56:26.000Z",
-      "globalScore": 90,
+      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+      "tituloOriginal": "Etched’s valuation doubles to $21B in a month",
+      "tituloLimpio": "La valoración de Etched se duplica a 21 mil millones de dólares en un mes",
+      "resumen": "Jane Street instaló el primer sistema de clúster de IA de Etched y, según la startup, quedó tan impresionada que lideró otra ronda de inversión masiva.",
+      "porQueImporta": "Destaca el rápido crecimiento y el interés inversor en empresas de IA, relevante para el interés de Guido en la IA aplicada y las oportunidades de inversión.",
+      "publicadoEn": "2026-08-18T17:21:58.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
+        "etched",
         "ia",
-        "negocios",
-        "inversión",
-        "anthropic"
+        "valoracion",
+        "inversion",
+        "startups"
       ],
       "tambienVistoEn": []
     },
@@ -255,19 +298,20 @@
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
       "fuente": "The Verge AI",
-      "url": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
-      "tituloOriginal": "Google’s Pet Memory forgot who my cats are",
-      "tituloLimpio": "La función 'Pet Memory' de Google olvidó quiénes son mis gatos",
-      "resumen": "Una de las mejores cosas que hace mi hogar inteligente es ayudarme a cuidar a mis mascotas, y las cámaras de seguridad son particularmente útiles para seguir a mis muchos animales. Pero la avalancha de notificaciones que envían a menudo significa que me pierdo las importantes. Así que, cuando Google anunció su nueva función Pet Memory para Gemini para el Hogar, [...]",
-      "porQueImporta": "Aunque anecdótico, subraya los desafíos y limitaciones actuales de la IA en aplicaciones prácticas y cotidianas, incluso en funciones aparentemente simples.",
-      "publicadoEn": "2026-08-18T12:01:29.000Z",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+      "tituloOriginal": "Firefox’s Smart Window promises a better AI browser",
+      "tituloLimpio": "La 'Smart Window' de Firefox promete un mejor navegador con IA",
+      "resumen": "Los chats de IA en el modo de navegación 'Smart Window' de Firefox pueden usar información web actual y mostrar enlaces de origen en las respuestas, gracias a una asociación con Exa.",
+      "porQueImporta": "Muestra la integración de la IA en herramientas de uso diario como los navegadores, lo que puede mejorar la productividad y la forma en que Guido interactúa con la información.",
+      "publicadoEn": "2026-08-18T13:00:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "google",
+        "firefox",
         "ia",
-        "hogar inteligente",
-        "gemini"
+        "navegador",
+        "productividad",
+        "herramientas"
       ],
       "tambienVistoEn": []
     },
@@ -278,16 +322,16 @@
       "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
       "tituloOriginal": "We still don’t know how people are really using AI",
       "tituloLimpio": "Todavía no sabemos cómo la gente está usando realmente la IA",
-      "resumen": "Las empresas de IA como Anthropic y OpenAI publican regularmente informes sobre cómo la gente usa productos como Claude y ChatGPT, pero solo publican los datos que quieren que veamos, dicen los investigadores de IA.",
-      "porQueImporta": "Plantea una cuestión crítica sobre la transparencia y la verdadera adopción de la IA, relevante para cualquier persona que trabaje o invierta en este campo.",
+      "resumen": "Empresas de IA como Anthropic y OpenAI publican informes sobre el uso de productos como Claude y ChatGPT, pero solo divulgan los datos que desean que se vean, según investigadores de IA.",
+      "porQueImporta": "Plantea una cuestión crítica sobre la transparencia y la comprensión del impacto real de la IA, importante para Guido como artista de IA y para su visión crítica de la tecnología.",
       "publicadoEn": "2026-08-18T10:06:43.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "ia",
-        "investigación",
+        "uso de ia",
         "transparencia",
-        "uso"
+        "investigacion"
       ],
       "tambienVistoEn": []
     },
@@ -295,19 +339,21 @@
       "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Apple",
       "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/18/the-eight-changes-apple-is-making-to-app-tracking-transparency-in-europe/",
-      "tituloOriginal": "The eight changes Apple is making to App Tracking Transparency in Europe",
-      "tituloLimpio": "Los ocho cambios que Apple está haciendo en la Transparencia de Seguimiento de Aplicaciones en Europa",
-      "resumen": "Se informó ayer que Apple acordó cumplir con reglas de Transparencia de Seguimiento de Aplicaciones más 'justas' en la UE, tras una investigación del regulador antimonopolio alemán. Apple dijo que cumplía voluntariamente, y entendemos que hará un total de ocho cambios para hacerlo.",
-      "porQueImporta": "Estos cambios en la política de privacidad de Apple en Europa podrían tener implicaciones globales para desarrolladores y usuarios, afectando el marketing y la recopilación de datos.",
-      "publicadoEn": "2026-08-18T12:38:49.000Z",
+      "url": "https://9to5mac.com/2026/08/18/anthropic-says-claude-cowork-is-now-available-on-mobile-for-all-paid-plans/",
+      "tituloOriginal": "Anthropic says Claude Cowork is now available on mobile for all paid plans",
+      "tituloLimpio": "Anthropic anuncia que Claude Cowork ya está disponible en móvil para todos los planes pagos",
+      "resumen": "El mes pasado, Anthropic anunció planes para expandir Claude Cowork de Mac a iPhone y iPad. El lanzamiento comenzó con el plan pago más caro de Anthropic.",
+      "porQueImporta": "La expansión de herramientas de IA a plataformas móviles de Apple es relevante para Guido, quien usa productos Apple y busca herramientas de automatización y productividad.",
+      "publicadoEn": "2026-08-18T17:09:16.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
+        "anthropic",
+        "claude cowork",
+        "ia",
         "apple",
-        "privacidad",
-        "europa",
-        "app tracking transparency"
+        "movil",
+        "herramientas"
       ],
       "tambienVistoEn": []
     },
@@ -315,19 +361,42 @@
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
       "categoria": "Apple",
       "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/08/18/rothschilds-aapl-price-target-soars-to-400-on-iphone-ultra-expectations?utm_source=rss",
-      "tituloOriginal": "Rothschild's AAPL price target soars to $400 on iPhone Ultra expectations",
-      "tituloLimpio": "El precio objetivo de AAPL de Rothschild se dispara a $400 por expectativas de iPhone Ultra",
-      "resumen": "El grupo de asesoramiento financiero Rothschild & Co Redburn ha elevado su precio objetivo para Apple en 140 dólares, específicamente porque cree que un iPhone Ultra es una 'combinación perfecta' para la empresa.",
-      "porQueImporta": "Indica altas expectativas en el mercado sobre futuros productos de Apple y su impacto en el valor de la empresa, relevante para inversores en acciones de tecnología.",
-      "publicadoEn": "2026-08-18T12:30:32.000Z",
-      "globalScore": 100,
+      "url": "https://appleinsider.com/articles/26/08/18/new-eu-app-store-terms-lower-both-costs-and-bar-to-entry-for-external-payments?utm_source=rss",
+      "tituloOriginal": "New EU App Store terms lower both costs and bar to entry for external payments",
+      "tituloLimpio": "Nuevos términos de la App Store en la UE reducen costos y barreras para pagos externos",
+      "resumen": "Apple implementó nuevos términos y estructuras de tarifas más simples para desarrolladores en la UE. Las tarifas de tecnología central se eliminan en su mayoría, reemplazadas por porcentajes.",
+      "porQueImporta": "Complementa la noticia anterior sobre Apple y la UE, detallando cómo los cambios pueden beneficiar a los desarrolladores al reducir costos y facilitar opciones de pago, impactando el ecosistema de apps.",
+      "publicadoEn": "2026-08-18T17:14:20.000Z",
+      "globalScore": 96,
       "personalScore": 100,
       "tags": [
         "apple",
-        "iphone",
-        "inversión",
-        "mercado"
+        "app store",
+        "ue",
+        "desarrolladores",
+        "pagos"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/wells-fargo-revamps-gold-price-160300985.html",
+      "tituloOriginal": "Wells Fargo revamps gold price target for the rest of 2026",
+      "tituloLimpio": "Wells Fargo revisa su objetivo de precio del oro para el resto de 2026",
+      "resumen": "",
+      "porQueImporta": "Noticia de finanzas que puede influir en las decisiones de inversión de Guido, especialmente si considera el oro como parte de su cartera.",
+      "publicadoEn": "2026-08-18T16:03:00.000Z",
+      "imagen": "https://media.zenfs.com/en/thestreet_881/8706f00233467cd5e08ba98ddcbbbdb7.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "wells fargo",
+        "oro",
+        "precio",
+        "inversion",
+        "finanzas"
       ],
       "tambienVistoEn": []
     },
@@ -335,20 +404,21 @@
       "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
       "categoria": "Finance",
       "fuente": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-nvidia-stock-nvda/?src=A00220&yptr=yahoo",
-      "tituloOriginal": "Stock Market Today: Tech Futures Sink As Treasury Yields Jump; Nvidia, Micron, Sandisk All Tumble (Live Coverage)",
-      "tituloLimpio": "Mercado de valores hoy: Futuros tecnológicos caen mientras los rendimientos del Tesoro suben",
+      "url": "https://www.investors.com/news/technology/chip-stocks-micron-nvidia-drop-dog-days-summer/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Micron, Other Chip Stocks Drop During Dog Days Of Summer",
+      "tituloLimpio": "Las acciones de Micron y otras empresas de chips caen durante los 'días de perros' del verano",
       "resumen": "",
-      "porQueImporta": "Refleja la volatilidad actual en el mercado tecnológico y cómo los rendimientos del Tesoro pueden influir en las acciones, información clave para decisiones de inversión.",
-      "publicadoEn": "2026-08-18T12:12:17.000Z",
-      "imagen": "https://media.zenfs.com/en/ibd.com/f84dddde254e978a0083114ec56c1e2b.jpg",
-      "globalScore": 98,
+      "porQueImporta": "Información sobre el rendimiento de acciones tecnológicas, relevante para Guido por su interés en inversión y el sector tecnológico.",
+      "publicadoEn": "2026-08-18T16:39:56.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/ed4ed91f9d95f365e6cfd4385b41dbc5.jpg",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "finanzas",
-        "mercado",
-        "tecnología",
-        "inversión"
+        "micron",
+        "acciones",
+        "chips",
+        "tecnologia",
+        "mercados"
       ],
       "tambienVistoEn": []
     },
@@ -356,20 +426,21 @@
       "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
       "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/18/visa-is-looking-for-a-new-stablecoin-settlement-partner-now-that-bvnk-is-owned-by-mastercard",
-      "tituloOriginal": "Visa looking for new stablecoin settlement partner after BVNK sale to Mastercard",
-      "tituloLimpio": "Visa busca nuevo socio para liquidación de stablecoins tras venta de BVNK a Mastercard",
-      "resumen": "La solicitud de producto (RFP) de Visa habla de la necesidad de soportar una gama de stablecoins.",
-      "porQueImporta": "Muestra el interés de grandes empresas financieras en las stablecoins y la evolución del ecosistema de pagos digitales, relevante para el futuro de las finanzas y la tecnología.",
-      "publicadoEn": "2026-08-18T12:20:48.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/989b5d9f334511be32f765ead619e6010b3c17ff-1200x675.avif?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-has-gone-quiet-as-traders-chase-5x-or-10x-payoffs-elsewhere",
+      "tituloOriginal": "Bitcoin has gone quiet as traders chase ‘5x or 10x’ payoffs elsewhere",
+      "tituloLimpio": "Bitcoin se ha calmado mientras los traders buscan ganancias de '5x o 10x' en otros lugares",
+      "resumen": "Las oscilaciones de precio de Bitcoin alcanzaron un mínimo cíclico, presionadas por una lucha de mercado sin un ganador claro. Los traders que antes vivían de su caos han llevado su apetito por el riesgo a otros lugares.",
+      "porQueImporta": "Análisis del mercado de criptomonedas, relevante para Guido si tiene interés en activos digitales o busca diversificar sus inversiones.",
+      "publicadoEn": "2026-08-18T17:00:00.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/6672a5d2a8a0b0c765a25b027489beb81e47b436-7875x5250.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
       "globalScore": 92,
       "personalScore": 100,
       "tags": [
-        "finanzas",
-        "visa",
-        "stablecoins",
-        "pagos"
+        "bitcoin",
+        "criptomonedas",
+        "traders",
+        "mercado",
+        "inversion"
       ],
       "tambienVistoEn": []
     },
@@ -377,20 +448,44 @@
       "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
       "categoria": "Finance",
       "fuente": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/south-korea-block-polymarket-gambling-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "tituloOriginal": "South Korea moves to block Polymarket over gambling concerns",
-      "tituloLimpio": "Corea del Sur busca bloquear Polymarket por preocupaciones de juego",
-      "resumen": "La Comisión de Medios y Comunicaciones de Corea dijo que la estructura y operaciones de Polymarket equivalen a juego ilegal a pesar de su diseño sin custodia y contratos inteligentes.",
-      "porQueImporta": "Destaca los desafíos regulatorios que enfrentan las plataformas descentralizadas y las criptomonedas, un riesgo a considerar en el espacio de las finanzas digitales.",
-      "publicadoEn": "2026-08-18T08:39:57.000Z",
-      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-you-are-once-again-banning-crypto-content-polymarket.jpg",
+      "url": "https://cointelegraph.com/news/neuberger-launches-tokenized-fixed-income-fund-with-securitize?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Neuberger teams with Securitize on multi-chain tokenized fixed-income fund launch",
+      "tituloLimpio": "Neuberger se asocia con Securitize para lanzar un fondo de renta fija tokenizado multi-cadena",
+      "resumen": "El gestor de activos de 613 mil millones de dólares subasesorará un fondo de alto rendimiento tokenizado en Ethereum, Solana, Avalanche y Sui.",
+      "porQueImporta": "Muestra la evolución de las finanzas descentralizadas y la tokenización de activos tradicionales, un área de interés para Guido por su impacto en la inversión y la tecnología.",
+      "publicadoEn": "2026-08-18T15:59:54.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-sbuidl-blackrocks-tokenized-treasury-fund.png",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "neuberger",
+        "securitize",
+        "tokenizado",
+        "renta fija",
+        "cripto",
+        "finanzas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/demora-pagos-segunda-preocupacion-pymes-industriales-62-sufrio-atraso-1-4-pudo-abonar-tiempo_0_s9H8Tdz8CP.html",
+      "tituloOriginal": "La demora en los pagos ya es la segunda preocupación entre las pymes industriales: 62% sufrió un atraso y 1 de cada 4 no pudo abonar a tiempo",
+      "tituloLimpio": "La demora en los pagos es la segunda preocupación de las pymes industriales en Argentina",
+      "resumen": "El temor a que se corte la cadena de pagos superó a la suba de costos de las materias primas entre las preocupaciones. La principal inquietud es la caída de la demanda y la producción.",
+      "porQueImporta": "Información crucial sobre la economía argentina que afecta directamente a las empresas y el clima de negocios, relevante para Guido por su ubicación y posibles inversiones locales.",
+      "publicadoEn": "2026-08-18T16:47:03.000Z",
+      "imagen": "https://www.clarin.com/img/2024/10/03/Nbzju9T1N_1200x630__1.jpg",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "finanzas",
-        "criptomonedas",
-        "regulación",
-        "corea del sur"
+        "pymes",
+        "argentina",
+        "economia",
+        "pagos",
+        "industria"
       ],
       "tambienVistoEn": []
     },
@@ -398,20 +493,20 @@
       "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Politica",
-      "url": "https://www.clarin.com/politica/javier-milei-medidas-vivo-gobierno-vuelve-reunir-mesa-politica-recibe-iglesia-organizar-visita-papa-leon-xiv-argentina_0_vrt7kCtA2h.html",
-      "tituloOriginal": "Javier Milei y sus medidas, EN VIVO: el Gobierno vuelve a reunir a la Mesa Política y recibe a la Iglesia para organizar la visita del papa León XIV a la Argentina",
-      "tituloLimpio": "Javier Milei y sus medidas, EN VIVO: el Gobierno vuelve a reunir a la Mesa Política",
-      "resumen": "El encuentro de la cúpula libertaria comenzará a las 13 en la Casa Rosada, donde buscarán afinar la agenda legislativa 'urgente'. Previamente el vocero Adrián Ravier dará una conferencia de prensa.",
-      "porQueImporta": "Actualidad política de Argentina, relevante para entender el contexto socioeconómico y las posibles direcciones del gobierno.",
-      "publicadoEn": "2026-08-18T11:47:20.000Z",
-      "imagen": "https://www.clarin.com/img/2026/07/21/fKcQ4Kl_N_1200x630__1.jpg",
-      "globalScore": 98,
+      "url": "https://www.clarin.com/politica/luis-caputo-pone-overol-politico-gestos-micro-gobernadores-sale-bancar-karina-milei-acuerdos-define_0_oyZoLmayuU.html",
+      "tituloOriginal": "Luis Caputo se pone el overol político con gestos a la micro y los gobernadores y sale a bancar a Karina Milei: \"los acuerdos los define ella\"",
+      "tituloLimpio": "Luis Caputo se involucra políticamente con gestos a la micro y gobernadores",
+      "resumen": "El ministro de Economía visitó una heladería en Palermo. Evitó hablar de la polémica entre Estados Unidos y China por la inversión en Vaca Muerta.",
+      "porQueImporta": "Noticia política y económica de Argentina que puede influir en el clima de negocios y las decisiones de inversión, relevante para Guido.",
+      "publicadoEn": "2026-08-18T16:13:24.000Z",
+      "imagen": "https://www.clarin.com/img/2026/08/18/y-gjEVw3s_1200x630__1.jpg",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
+        "luis caputo",
         "argentina",
-        "política",
-        "gobierno",
-        "milei"
+        "politica",
+        "economia"
       ],
       "tambienVistoEn": []
     },
@@ -419,41 +514,21 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/08/18/por-que-el-riesgo-pais-toco-el-nivel-mas-alto-desde-junio-y-se-acerco-a-los-500-puntos-basicos/",
-      "tituloOriginal": "El riesgo país se acerca a los 500 puntos básicos y ya llegó a su nivel más alto desde junio",
-      "tituloLimpio": "El riesgo país se acerca a los 500 puntos básicos y ya llegó a su nivel más alto desde junio",
-      "resumen": "Factores externos y locales se combinan para explicar el comportamiento del indicador elaborado por JP Morgan, que ascendió a 494 unidades en la apertura de los mercados.",
-      "porQueImporta": "Un indicador clave de la percepción de riesgo sobre la economía argentina, fundamental para decisiones de inversión y planificación financiera en el país.",
-      "publicadoEn": "2026-08-18T12:35:15.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/WPVUDTD5WBFAXH235RRXEW4E7E.jpg?auth=091dfc2e7a02335a83f1a06dd9c4b04435ccd1574b45d192bca81035c15317ab&smart=true&width=1920&height=1080",
-      "globalScore": 94,
+      "url": "https://www.infobae.com/economia/2026/08/18/mercados-las-bolsas-negocian-en-rojo-y-la-caida-de-los-bonos-argentinos-impulsa-el-riesgo-pais/",
+      "tituloOriginal": "Mercados: las bolsas negocian en rojo y la caída de los bonos argentinos impulsa el riesgo país",
+      "tituloLimpio": "Mercados: las bolsas negocian en rojo y la caída de los bonos argentinos impulsa el riesgo país",
+      "resumen": "Los índices de Wall Street caen hasta 1,3% y el S&P Merval cede 1% tras el feriado. Los bonos en dólares de Argentina restan un 0,9% en promedio.",
+      "porQueImporta": "Información directa sobre el rendimiento de los mercados financieros en Argentina y su impacto en el riesgo país, esencial para las decisiones de inversión de Guido.",
+      "publicadoEn": "2026-08-18T17:24:10.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/WPFP6LFJZBBDVJJGBYNUHSOOAQ.JPG?auth=153f81787e5e5f94039dc8bdde8791914aaa3d490b6b674637898f858fcae889&smart=true&width=4054&height=2702",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
+        "mercados",
         "argentina",
-        "economía",
-        "riesgo país",
-        "mercados"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
-      "categoria": "Argentina",
-      "fuente": "Infobae Politica",
-      "url": "https://www.infobae.com/politica/2026/08/18/emilio-monzo-alerto-sobre-el-desgaste-de-la-polarizacion-la-demanda-social-pide-una-alternativa-de-centro/",
-      "tituloOriginal": "Emilio Monzó alertó sobre el desgaste de la polarización: “La demanda social pide una alternativa de centro”",
-      "tituloLimpio": "Emilio Monzó alertó sobre el desgaste de la polarización",
-      "resumen": "El ex diputado cuestionó el estilo confrontativo del gobierno actual. También valoró la figura de Lionel Scaloni como modelo de liderazgo.",
-      "porQueImporta": "Ofrece una perspectiva sobre el panorama político argentino y la búsqueda de alternativas de centro, relevante para entender el clima social y político.",
-      "publicadoEn": "2026-08-18T12:40:29.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/4UMRRYSLVFE35M5XHBWJINCFDE.png?auth=731f7d6fe9a8bf3bc02a81e3af5833af2c82fc0d2256b9bf11e8f93082dff27a&smart=true&width=1035&height=586",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "argentina",
-        "política",
-        "polarización",
-        "monzó"
+        "bonos",
+        "riesgo pais",
+        "economia"
       ],
       "tambienVistoEn": []
     },
@@ -461,26 +536,26 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid18082026/",
-      "tituloOriginal": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 18 de agosto, minuto a minuto",
-      "tituloLimpio": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y el paralelo",
-      "resumen": "La divisa oficial operó a $1515 para la venta en el Banco Nación; el dólar blue cotizó a $1540 para esa operación; qué pasa con el MEP y el CCL.",
-      "porQueImporta": "Información esencial para la economía diaria en Argentina, afectando precios, inversiones y decisiones financieras personales.",
-      "publicadoEn": "2026-08-18T12:24:14.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/2PKGQIKZFRC5DNV5AWHJTAJM7Y.jpg?auth=3a1f8af0d3878b01d6e12134f43c8c8f51dfd5d06262fa04e9e6a6f2a49aaa3b&smart=true&width=2000&height=1333",
+      "url": "https://www.lanacion.com.ar/economia/voucher-educativo-desde-ahora-quienes-adeuden-cuotas-escolares-seguiran-cobrando-el-beneficio-nid18082026/",
+      "tituloOriginal": "Voucher educativo: desde ahora, quienes adeuden cuotas escolares seguirán cobrando el beneficio",
+      "tituloLimpio": "Voucher educativo: quienes adeuden cuotas escolares seguirán cobrando el beneficio",
+      "resumen": "El Gobierno dejó sin efecto la condición que cancelaba la acreditación del dinero cuando había morosidad.",
+      "porQueImporta": "Noticia de política económica en Argentina que afecta a la población y puede tener implicaciones sociales y económicas, relevante para Guido como residente.",
+      "publicadoEn": "2026-08-18T17:20:53.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/43C26WJIB5A4FHZBAK5DJMNCO4.JPG?auth=359edd2f2b6aa3798c7fff4e9194c4039eaf8afce49d713f89a3454f09c60a38&smart=true&width=2000&height=1328",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
+        "voucher educativo",
         "argentina",
-        "dólar",
-        "dólar blue",
-        "cotización"
+        "gobierno",
+        "economia"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-08-18T12:51:17.758Z"
+    "generadoEn": "2026-08-18T17:26:09.197Z"
   }
 }
