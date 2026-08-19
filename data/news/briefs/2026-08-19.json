@@ -1,0 +1,464 @@
+{
+  "fecha": "2026-08-19",
+  "generadoEn": "2026-08-19T12:52:09.485Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "Hoy, el foco está en la evolución de la IA, con debates sobre su aplicación en medicina y el uso de datos para entrenamiento. En Apple, hay rumores sobre el iPad Mini 8 y novedades en automatización del hogar. A nivel local, el Gobierno aprobó un crédito del BID para salud y se sigue de cerca la cotización del dólar. También se destaca una nueva estrategia de marketing de Chipotle y el avance de la robótica con un humanoide que corre rápido.",
+  "radarPersonal": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "iPad Mini 8: fecha de lanzamiento, precio y expectativas",
+      "resumen": "Según los últimos rumores, Apple estaría cerca de lanzar su próxima generación de iPad mini, con un chip A19 Pro.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/08/19/ipad-mini-8-release-date-pricing-what-to-expect/"
+      ],
+      "score": 100,
+      "tags": [
+        "iPad Mini",
+        "Apple",
+        "lanzamiento"
+      ]
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "titulo": "Un AirTag oculto confirmaría el escaneo ilícito de libros para entrenar IA",
+      "resumen": "Un AirTag encontrado en un libro vendido a granel sugiere que empresas de IA compran libros usados para escanearlos y usarlos como material de entrenamiento sin consentimiento.",
+      "categoria": "AI",
+      "fuentes": [
+        "9to5Mac"
+      ],
+      "urls": [
+        "https://9to5mac.com/2026/08/19/hidden-airtag-appears-to-confirm-suspicions-about-illicit-ai-book-scanning/"
+      ],
+      "score": 100,
+      "tags": [
+        "AI",
+        "ética",
+        "datos",
+        "Apple"
+      ]
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "titulo": "El hardware de automatización del hogar de Apple funcionaría más como un Apple Watch que un HomePod",
+      "resumen": "Nuevas referencias de código en macOS Tahoe describen cómo funcionaría el rumoreado HomeHub, con una interfaz similar a la del Apple Watch.",
+      "categoria": "Apple",
+      "fuentes": [
+        "AppleInsider"
+      ],
+      "urls": [
+        "https://appleinsider.com/articles/26/08/19/apples-home-automation-hardware-will-work-more-like-an-apple-watch-than-a-homepod?utm_source=rss"
+      ],
+      "score": 100,
+      "tags": [
+        "Apple",
+        "automatización",
+        "HomeHub"
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "titulo": "Chipotle amplía su estrategia de marketing para la Generación Alpha con una colaboración",
+      "resumen": "Una asociación con una estrella de YouTube y TikTok de 16 años marca la primera vez que la marca incorpora un pedido personalizado de un creador a su Kid’s Meal.",
+      "categoria": "Marketing",
+      "fuentes": [
+        "Marketing Dive"
+      ],
+      "urls": [
+        "https://www.marketingdive.com/news/chipotle-broadens-gen-alpha-marketing-strategy-with-salish-matter-collab/828178/"
+      ],
+      "score": 100,
+      "tags": [
+        "Marketing",
+        "Generación Alpha",
+        "influencers"
+      ]
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "titulo": "Unitree presentó un robot humanoide que corre más rápido que un humano, pero le cuesta frenar",
+      "resumen": "En su debut en la bolsa, las acciones de la compañía china, líder en robótica, aumentaron de precio un 460% sobre el valor inicial.",
+      "categoria": "AI",
+      "fuentes": [
+        "La Nacion Economia"
+      ],
+      "urls": [
+        "https://www.lanacion.com.ar/tecnologia/unitree-presento-un-robot-humanoide-capaz-de-correr-mas-rapido-que-un-humano-pero-le-cuesta-frenar-nid19082026/"
+      ],
+      "score": 100,
+      "tags": [
+        "Robótica",
+        "IA",
+        "innovación"
+      ]
+    }
+  ],
+  "loImportante": [
+    "La IA aún no está cerca de curar el cáncer, y el problema principal es la falta de datos adecuados.",
+    "Apple estaría por lanzar el iPad Mini 8 con un chip A19 Pro, y su hardware de automatización del hogar podría funcionar como un Apple Watch.",
+    "El Gobierno argentino aprobó una línea de crédito de 700 millones de dólares del BID para modernizar la atención sanitaria.",
+    "El mercado de crédito tiene un problema de deuda, no de riesgo, con mucho endeudamiento que reduce el riesgo por ahora.",
+    "Se sospecha que empresas de IA están escaneando libros de forma ilícita para entrenar sus modelos, sin consentimiento de los autores."
+  ],
+  "oportunidades": [
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "Marketing para la Generación Alpha: lecciones de Chipotle",
+      "detalle": "Chipotle está usando colaboraciones con influencers jóvenes para llegar a la Generación Alpha. Esto muestra una tendencia en marketing para conectar con audiencias más jóvenes a través de creadores de contenido.",
+      "acciones": [
+        "Analizar estrategias de marketing con influencers para audiencias jóvenes.",
+        "Evaluar la posibilidad de colaboraciones con creadores de contenido para proyectos de arte con IA o retoque fotográfico."
+      ]
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "AI",
+      "titulo": "Avances en robótica humanoide y su impacto",
+      "detalle": "Unitree presentó un robot humanoide muy rápido, lo que indica un avance significativo en robótica. Esto puede generar nuevas herramientas o aplicaciones en el futuro.",
+      "acciones": [
+        "Monitorear el desarrollo de robots humanoides y sus posibles aplicaciones en automatización o asistencia.",
+        "Explorar cómo la robótica avanzada podría integrarse con la IA para nuevas soluciones."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "AI",
+      "titulo": "Riesgo de uso ilícito de datos para entrenamiento de IA",
+      "detalle": "La confirmación de escaneo de libros sin consentimiento para entrenar IA plantea preocupaciones sobre la ética y legalidad del uso de datos. Esto puede afectar la percepción pública y la regulación de la IA.",
+      "mitigacion": "Mantenerse informado sobre las regulaciones de derechos de autor y uso de datos en IA. Considerar el origen de los datos de entrenamiento en proyectos de IA."
+    },
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "categoria": "Market",
+      "titulo": "Problema de deuda en los mercados de crédito",
+      "detalle": "Los mercados de crédito tienen un problema de deuda, no de riesgo, con mucho endeudamiento. Esto podría generar inestabilidad a largo plazo, aunque por ahora reduce el riesgo.",
+      "mitigacion": "Revisar la exposición a instrumentos de crédito y monitorear la evolución de los mercados financieros. Diversificar las inversiones en ETFs."
+    }
+  ],
+  "conexiones": [],
+  "noticias": [
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+      "tituloOriginal": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+      "tituloLimpio": "La IA no está cerca de curar el cáncer; una startup dice saber qué se necesita",
+      "resumen": "El problema es la información, según una startup.",
+      "porQueImporta": "Para Guido, que trabaja con IA, es relevante entender las limitaciones y desafíos de la IA aplicada en campos complejos como la medicina, especialmente en el manejo de datos.",
+      "publicadoEn": "2026-08-19T12:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "salud",
+        "datos"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/08/19/ipad-mini-8-release-date-pricing-what-to-expect/",
+      "tituloOriginal": "iPad Mini 8: Release Date, Pricing, and What to Expect",
+      "tituloLimpio": "iPad Mini 8: fecha de lanzamiento, precio y qué esperar",
+      "resumen": "Según los últimos rumores, Apple estaría cerca de lanzar su próxima generación de iPad mini. Se espera que incluya el chip A19 Pro.",
+      "porQueImporta": "Guido, como usuario de Apple, estará interesado en las novedades de productos, especialmente si son dispositivos portátiles que pueden complementar su trabajo.",
+      "publicadoEn": "2026-08-19T12:17:28.000Z",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "iPad",
+        "lanzamiento"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
+      "categoria": "Finance",
+      "fuente": "Sherwood",
+      "url": "https://sherwood.news/markets/credit-markets-have-a-debt-problem-not-a-risk-problem/",
+      "tituloOriginal": "Credit markets have a “debt” problem, not a “risk” problem",
+      "tituloLimpio": "Los mercados de crédito tienen un problema de 'deuda', no de 'riesgo'",
+      "resumen": "Hay mucho endeudamiento, y ese endeudamiento está reduciendo el riesgo por ahora.",
+      "porQueImporta": "Como inversor en ETFs y mercados, Guido necesita entender las dinámicas del mercado de crédito y cómo el endeudamiento puede afectar la estabilidad financiera.",
+      "publicadoEn": "2026-08-17T15:33:26.000Z",
+      "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/1405907094_new-york-new-york-a-view-of-the-atlas-statue-with-st-patricks-cathedral-in-the-back-at.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "mercados",
+        "deuda"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/el-gobierno-aprobo-una-linea-credito-us700-millones-del-bid-n6312292",
+      "tituloOriginal": "El Gobierno aprobó una línea de crédito de hasta u$s700 millones del BID",
+      "tituloLimpio": "El Gobierno aprobó una línea de crédito de hasta u$s700 millones del BID",
+      "resumen": "La línea de crédito tendrá una vigencia de diez años y estará destinada a proyectos de inversión para modernizar la atención sanitaria.",
+      "porQueImporta": "Noticia relevante para Argentina, que puede impactar en la economía y la infraestructura del país.",
+      "publicadoEn": "2026-08-19T12:20:00.000Z",
+      "imagen": "https://media.ambito.com/p/f41867f91288821d0ad19a22440cd96f/adjuntos/239/imagenes/042/616/0042616861/1200x675/smart/bid.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/chipotle-broadens-gen-alpha-marketing-strategy-with-salish-matter-collab/828178/",
+      "tituloOriginal": "Chipotle broadens Gen Alpha marketing with Salish Matter collab",
+      "tituloLimpio": "Chipotle amplía su marketing para la Generación Alpha con una colaboración",
+      "resumen": "Una asociación con una estrella de YouTube y TikTok de 16 años marca la primera vez que la marca incorpora un pedido personalizado de un creador a su Kid’s Meal.",
+      "porQueImporta": "Guido, interesado en marketing, puede ver aquí una estrategia innovadora para conectar con audiencias jóvenes a través de influencers y contenido personalizado.",
+      "publicadoEn": "2026-08-19T11:53:00.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "Generación Alpha",
+        "influencers"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+      "tituloOriginal": "Nvidia’s new financial strategy does not compute",
+      "tituloLimpio": "La nueva estrategia financiera de Nvidia no funciona",
+      "resumen": "El cómputo es ahora una clase de activo. Se vuelve a hablar de innovación financiera.",
+      "porQueImporta": "Nvidia es un actor clave en el sector de la IA. Entender sus estrategias financieras y cómo el 'cómputo' se convierte en un activo es importante para Guido, que sigue la IA y las inversiones.",
+      "publicadoEn": "2026-08-19T12:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "Nvidia",
+        "finanzas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "tituloOriginal": "We still don’t know how people are really using AI",
+      "tituloLimpio": "Todavía no sabemos cómo la gente está usando realmente la IA",
+      "resumen": "Las empresas de IA publican informes sobre el uso de sus productos, pero solo muestran los datos que quieren que veamos, según investigadores.",
+      "porQueImporta": "Para Guido, que trabaja con IA, es crucial entender cómo se utiliza realmente esta tecnología y la falta de datos independientes sobre su uso real.",
+      "publicadoEn": "2026-08-18T10:06:43.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "investigación",
+        "datos"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/19/hidden-airtag-appears-to-confirm-suspicions-about-illicit-ai-book-scanning/",
+      "tituloOriginal": "Hidden AirTag appears to confirm suspicions about illicit AI book scanning",
+      "tituloLimpio": "Un AirTag oculto parece confirmar sospechas sobre el escaneo ilícito de libros para entrenar IA",
+      "resumen": "Un AirTag escondido en un libro vendido a granel parece confirmar la teoría de que empresas de IA compran libros para escanearlos y usarlos como material de entrenamiento.",
+      "porQueImporta": "Esta noticia es relevante por la intersección entre Apple (AirTag) y la IA, y plantea cuestiones éticas y de derechos de autor en el uso de datos para el entrenamiento de modelos de IA.",
+      "publicadoEn": "2026-08-19T12:20:38.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "IA",
+        "ética",
+        "derechos de autor"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/08/19/apples-home-automation-hardware-will-work-more-like-an-apple-watch-than-a-homepod?utm_source=rss",
+      "tituloOriginal": "Apple's home automation hardware might work more like Apple Watch than a HomePod",
+      "tituloLimpio": "El hardware de automatización del hogar de Apple podría funcionar más como un Apple Watch que un HomePod",
+      "resumen": "Nuevas referencias de código encontradas en macOS Tahoe describen cómo funcionaría el rumoreado HomeHub.",
+      "porQueImporta": "Guido, como usuario de Apple, estará interesado en las novedades de automatización del hogar y cómo se integran con el ecosistema de Apple.",
+      "publicadoEn": "2026-08-19T12:46:47.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "automatización",
+        "HomeHub"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-openais-growth-disappoints-meta-trial-continues-132945569.html",
+      "tituloOriginal": "Tech stocks today: OpenAI's growth disappoints, Meta trial continues",
+      "tituloLimpio": "Acciones tecnológicas hoy: el crecimiento de OpenAI decepciona, el juicio de Meta continúa",
+      "resumen": "Sin resumen disponible.",
+      "porQueImporta": "Para un inversor como Guido, el rendimiento de empresas clave en tecnología y IA como OpenAI y Meta es un indicador importante del estado del mercado.",
+      "publicadoEn": "2026-08-17T13:29:45.000Z",
+      "imagen": "https://s.yimg.com/uu/api/res/1.2/LcxqJ8DJBXE2HR6VZGbIyw--~B/aD0zMTgzO3c9NDc0NDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-04/604a927e-7254-408c-91bc-bc0660353dfd",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "acciones",
+        "IA"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-minutes-nvidia-sk-hynix-skhy/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Stock Market Today: Dow Rises Ahead Of Fed Minutes; Moderna Soars On Cancer Drug News (Live Coverage)",
+      "tituloLimpio": "Mercado de valores hoy: el Dow sube antes de las actas de la Fed; Moderna se dispara por noticias de fármacos contra el cáncer",
+      "resumen": "Sin resumen disponible.",
+      "porQueImporta": "Guido, como inversor, necesita estar al tanto de los movimientos del mercado y los factores que los impulsan, como las noticias de la Fed y los resultados de empresas.",
+      "publicadoEn": "2026-08-19T12:28:18.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/8e3f0f90c622d76c522be98b9f3975ee.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "mercado",
+        "inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-is-flashing-8-of-12-capitulation-signals-but-its-not-a-bottom-yet",
+      "tituloOriginal": "Bitcoin is flashing 8 of 12 capitulation signals, but bottom's not yet in, says VanEck",
+      "tituloLimpio": "Bitcoin muestra 8 de 12 señales de capitulación, pero aún no es el fondo, dice VanEck",
+      "resumen": "Configuraciones similares históricamente produjeron retornos de bitcoin por debajo del promedio a 90 y 180 días, dijo el gestor de activos.",
+      "porQueImporta": "Para un inversor, entender las señales del mercado de criptomonedas y las proyecciones de expertos como VanEck es crucial para tomar decisiones informadas.",
+      "publicadoEn": "2026-08-19T12:45:35.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/b5c969ee70de7444f1035edf7701cc88d16ae253-3000x2001.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "Finanzas",
+        "Bitcoin",
+        "inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-miercoles-19-agosto_0_vuM6jEfqnM.html",
+      "tituloOriginal": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este miércoles 19 de agosto",
+      "tituloLimpio": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este miércoles 19 de agosto",
+      "resumen": "Desde el oficial hasta el blue y el turista, todos los tipos de cambio. Mirá la cotización minuto a minuto.",
+      "porQueImporta": "La cotización del dólar es una noticia de interés diario para cualquier residente en Argentina, incluyendo a Guido, por su impacto en la economía personal y profesional.",
+      "publicadoEn": "2026-08-19T12:00:01.000Z",
+      "imagen": "https://www.clarin.com/img/2019/11/29/W92lPof3_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "dólar",
+        "economía"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/08/19/cual-hubiera-sido-la-inflacion-mayorista-de-julio-sin-el-impacto-de-la-baja-de-9-en-el-precio-del-petroleo/",
+      "tituloOriginal": "Cuál hubiera sido la inflación mayorista de julio sin el impacto de la baja de 9% en el precio del petróleo",
+      "tituloLimpio": "Cuál hubiera sido la inflación mayorista de julio sin el impacto de la baja de 9% en el precio del petróleo",
+      "resumen": "El índice de precios al por mayor se ubicó por debajo del 1% el mes pasado, aunque los analistas atribuyen este resultado a un factor puntual.",
+      "porQueImporta": "Noticia económica relevante para Argentina, que ayuda a entender los factores detrás de la inflación y su impacto en el poder adquisitivo.",
+      "publicadoEn": "2026-08-19T12:12:14.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/PISLVVF3CFEZBOEGPAZMMPNQYU.png?auth=9ff17711f87ec1bf835514968f6cb8c49a3d6e51b846f2be87c08fc18482f706&smart=true&width=1536&height=1024",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "inflación",
+        "economía"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/tecnologia/unitree-presento-un-robot-humanoide-capaz-de-correr-mas-rapido-que-un-humano-pero-le-cuesta-frenar-nid19082026/",
+      "tituloOriginal": "Unitree presentó un robot humanoide capaz de correr más rápido que un humano, pero le cuesta frenar",
+      "tituloLimpio": "Unitree presentó un robot humanoide capaz de correr más rápido que un humano, pero le cuesta frenar",
+      "resumen": "En su debut en la bolsa, las acciones de la compañía china, líder en robótica, aumentaron de precio un 460% sobre el valor inicial.",
+      "porQueImporta": "Guido, interesado en IA aplicada y herramientas, encontrará relevante el avance en robótica humanoide y el éxito financiero de la empresa.",
+      "publicadoEn": "2026-08-19T12:17:41.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/IOUAWT6GIJFR3FMERYOXPKV7HA.jpg?auth=42949cd29e6a9ef9a5ee372fd09e8a6171741f8454a0d8634c7140d73c70c1f4&smart=true&width=1280&height=720",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "robótica",
+        "tecnología"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "fuente": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/data-giant-sass-deal-with-liverpool-fc-signals-a-broader-b2b-shift/",
+      "tituloOriginal": "Data Giant SAS’s Deal With Liverpool FC Signals a Broader B2B Shift",
+      "tituloLimpio": "El acuerdo de SAS con el Liverpool FC señala un cambio más amplio en B2B",
+      "resumen": "La asociación de la empresa de tecnología empresarial con el club popular muestra cómo los especialistas en marketing de negocios heredados toman prestado de los manuales del consumidor.",
+      "porQueImporta": "Para Guido, que le interesa el marketing, esta noticia muestra una tendencia en el marketing B2B que adopta estrategias del marketing de consumo, lo que puede ser útil para sus propios proyectos.",
+      "publicadoEn": "2026-08-19T06:00:00.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "B2B",
+        "estrategia"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-08-19T12:52:09.485Z"
+  }
+}
