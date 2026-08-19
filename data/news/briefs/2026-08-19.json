@@ -1,203 +1,151 @@
 {
   "fecha": "2026-08-19",
-  "generadoEn": "2026-08-19T12:52:09.485Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "Hoy, el foco está en la evolución de la IA, con debates sobre su aplicación en medicina y el uso de datos para entrenamiento. En Apple, hay rumores sobre el iPad Mini 8 y novedades en automatización del hogar. A nivel local, el Gobierno aprobó un crédito del BID para salud y se sigue de cerca la cotización del dólar. También se destaca una nueva estrategia de marketing de Chipotle y el avance de la robótica con un humanoide que corre rápido.",
+  "generadoEn": "2026-08-19T17:26:47.561Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Hoy, Apple tuvo una filtración importante de más de 10 productos nuevos en una actualización de macOS, incluyendo AirPods con cámaras infrarrojas y un iPhone plegable. En el ámbito de la IA, OpenAI frenó el desarrollo de algunos proyectos para reforzar la seguridad, mientras que Google Gemini se asocia con clubes de fútbol para mejorar la experiencia de los fans. En Argentina, el riesgo país bajó tras alcanzar su nivel más alto en tres meses, y una cautelar frenó la nueva VTV. A nivel global, la inflación en la zona euro subió al 2,9% en julio, y el Bitcoin superó los 68.000 dólares.",
   "radarPersonal": [
     {
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "iPad Mini 8: fecha de lanzamiento, precio y expectativas",
-      "resumen": "Según los últimos rumores, Apple estaría cerca de lanzar su próxima generación de iPad mini, con un chip A19 Pro.",
+      "titulo": "Apple filtró más de 10 productos nuevos en una actualización de macOS",
+      "resumen": "Una actualización de macOS 26.7 reveló referencias a AirPods con cámaras infrarrojas, un iPhone plegable, un nuevo centro de hogar inteligente de Apple y modelos de MacBook y iPad mini con pantallas OLED.",
       "categoria": "Apple",
       "fuentes": [
         "MacRumors"
       ],
       "urls": [
-        "https://www.macrumors.com/2026/08/19/ipad-mini-8-release-date-pricing-what-to-expect/"
+        "https://www.macrumors.com/2026/08/19/apple-leak-macos-26-7/"
       ],
       "score": 100,
       "tags": [
-        "iPad Mini",
-        "Apple",
-        "lanzamiento"
+        "apple",
+        "filtración",
+        "macos",
+        "productos"
       ]
     },
     {
-      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
-      "titulo": "Un AirTag oculto confirmaría el escaneo ilícito de libros para entrenar IA",
-      "resumen": "Un AirTag encontrado en un libro vendido a granel sugiere que empresas de IA compran libros usados para escanearlos y usarlos como material de entrenamiento sin consentimiento.",
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "OpenAI frenó el desarrollo de IA para reforzar la seguridad",
+      "resumen": "OpenAI ralentizó el ritmo de desarrollo de algunas IA para ajustar la seguridad y las salvaguardas, incluyendo una pausa de dos semanas.",
       "categoria": "AI",
       "fuentes": [
-        "9to5Mac"
+        "The Verge AI"
       ],
       "urls": [
-        "https://9to5mac.com/2026/08/19/hidden-airtag-appears-to-confirm-suspicions-about-illicit-ai-book-scanning/"
+        "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai"
       ],
       "score": 100,
       "tags": [
-        "AI",
-        "ética",
-        "datos",
-        "Apple"
+        "openai",
+        "seguridad",
+        "desarrollo"
       ]
     },
     {
-      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
-      "titulo": "El hardware de automatización del hogar de Apple funcionaría más como un Apple Watch que un HomePod",
-      "resumen": "Nuevas referencias de código en macOS Tahoe describen cómo funcionaría el rumoreado HomeHub, con una interfaz similar a la del Apple Watch.",
-      "categoria": "Apple",
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "titulo": "El riesgo país argentino bajó a 509 puntos",
+      "resumen": "El riesgo país tuvo un respiro y bajó a 509 puntos, después de haber alcanzado su nivel más alto en tres meses.",
+      "categoria": "Argentina",
       "fuentes": [
-        "AppleInsider"
+        "Clarin Economia"
       ],
       "urls": [
-        "https://appleinsider.com/articles/26/08/19/apples-home-automation-hardware-will-work-more-like-an-apple-watch-than-a-homepod?utm_source=rss"
+        "https://www.clarin.com/economia/respiro-riesgo-pais-baja-509-alcanzar-mayor-nivel-3-meses_0_tO5IpLcBCY.html"
       ],
       "score": 100,
       "tags": [
-        "Apple",
-        "automatización",
-        "HomeHub"
+        "riesgo país",
+        "argentina",
+        "bonos"
       ]
     },
     {
-      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
-      "titulo": "Chipotle amplía su estrategia de marketing para la Generación Alpha con una colaboración",
-      "resumen": "Una asociación con una estrella de YouTube y TikTok de 16 años marca la primera vez que la marca incorpora un pedido personalizado de un creador a su Kid’s Meal.",
-      "categoria": "Marketing",
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "titulo": "Bitcoin superó los 68.000 dólares",
+      "resumen": "Bitcoin subió aproximadamente un 6%, liquidando 1.400 millones de dólares en posiciones cortas, impulsado por la duplicación de las recompras de bonos del Tesoro.",
+      "categoria": "Finance",
       "fuentes": [
-        "Marketing Dive"
+        "CoinDesk"
       ],
       "urls": [
-        "https://www.marketingdive.com/news/chipotle-broadens-gen-alpha-marketing-strategy-with-salish-matter-collab/828178/"
+        "https://www.coindesk.com/markets/2026/08/19/bitcoin-surges-above-usd68-000-liquidating-usd1-4-billion-shorts-as-treasury-buybacks-boost-risk-appetite"
       ],
       "score": 100,
       "tags": [
-        "Marketing",
-        "Generación Alpha",
-        "influencers"
-      ]
-    },
-    {
-      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
-      "titulo": "Unitree presentó un robot humanoide que corre más rápido que un humano, pero le cuesta frenar",
-      "resumen": "En su debut en la bolsa, las acciones de la compañía china, líder en robótica, aumentaron de precio un 460% sobre el valor inicial.",
-      "categoria": "AI",
-      "fuentes": [
-        "La Nacion Economia"
-      ],
-      "urls": [
-        "https://www.lanacion.com.ar/tecnologia/unitree-presento-un-robot-humanoide-capaz-de-correr-mas-rapido-que-un-humano-pero-le-cuesta-frenar-nid19082026/"
-      ],
-      "score": 100,
-      "tags": [
-        "Robótica",
-        "IA",
-        "innovación"
+        "bitcoin",
+        "criptomonedas",
+        "mercado"
       ]
     }
   ],
   "loImportante": [
-    "La IA aún no está cerca de curar el cáncer, y el problema principal es la falta de datos adecuados.",
-    "Apple estaría por lanzar el iPad Mini 8 con un chip A19 Pro, y su hardware de automatización del hogar podría funcionar como un Apple Watch.",
-    "El Gobierno argentino aprobó una línea de crédito de 700 millones de dólares del BID para modernizar la atención sanitaria.",
-    "El mercado de crédito tiene un problema de deuda, no de riesgo, con mucho endeudamiento que reduce el riesgo por ahora.",
-    "Se sospecha que empresas de IA están escaneando libros de forma ilícita para entrenar sus modelos, sin consentimiento de los autores."
+    "Apple filtró más de 10 productos nuevos en una actualización de macOS, incluyendo un iPhone plegable y AirPods con cámaras infrarrojas.",
+    "OpenAI frenó el desarrollo de algunas IA para reforzar la seguridad y las salvaguardas.",
+    "El riesgo país argentino bajó a 509 puntos, tras alcanzar su mayor nivel en tres meses.",
+    "La inflación en la zona euro trepó al 2,9% en julio, impulsada por las subas en la energía.",
+    "El Bitcoin superó los 68.000 dólares, liquidando 1.400 millones de dólares en posiciones cortas."
   ],
   "oportunidades": [
     {
-      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
-      "categoria": "Marketing",
-      "titulo": "Marketing para la Generación Alpha: lecciones de Chipotle",
-      "detalle": "Chipotle está usando colaboraciones con influencers jóvenes para llegar a la Generación Alpha. Esto muestra una tendencia en marketing para conectar con audiencias más jóvenes a través de creadores de contenido.",
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Productivity",
+      "titulo": "Nuevas herramientas de Apple para el ecosistema",
+      "detalle": "La filtración de macOS 26.7 sugiere la llegada de AirPods con cámaras infrarrojas para inteligencia visual, un iPhone plegable y nuevos dispositivos de hogar inteligente. Esto podría abrir nuevas posibilidades para la automatización y la interacción con el ecosistema Apple.",
       "acciones": [
-        "Analizar estrategias de marketing con influencers para audiencias jóvenes.",
-        "Evaluar la posibilidad de colaboraciones con creadores de contenido para proyectos de arte con IA o retoque fotográfico."
+        "Estar atento a los anuncios oficiales de Apple sobre estos productos.",
+        "Investigar cómo las cámaras infrarrojas en AirPods podrían integrarse con herramientas de IA para retoque o arte."
       ]
     },
     {
-      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
-      "categoria": "AI",
-      "titulo": "Avances en robótica humanoide y su impacto",
-      "detalle": "Unitree presentó un robot humanoide muy rápido, lo que indica un avance significativo en robótica. Esto puede generar nuevas herramientas o aplicaciones en el futuro.",
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "Nuevas regulaciones de IA en publicidad",
+      "detalle": "El IAB está revisando la divulgación de IA en anuncios debido a la multiplicación de requisitos legales. Esto crea una oportunidad para desarrollar estrategias de marketing transparentes y éticas con IA, diferenciándose de la competencia.",
       "acciones": [
-        "Monitorear el desarrollo de robots humanoides y sus posibles aplicaciones en automatización o asistencia.",
-        "Explorar cómo la robótica avanzada podría integrarse con la IA para nuevas soluciones."
+        "Revisar las directrices del IAB sobre el uso de IA en publicidad.",
+        "Considerar la implementación de políticas claras de divulgación de IA en campañas de marketing."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
-      "titulo": "Riesgo de uso ilícito de datos para entrenamiento de IA",
-      "detalle": "La confirmación de escaneo de libros sin consentimiento para entrenar IA plantea preocupaciones sobre la ética y legalidad del uso de datos. Esto puede afectar la percepción pública y la regulación de la IA.",
-      "mitigacion": "Mantenerse informado sobre las regulaciones de derechos de autor y uso de datos en IA. Considerar el origen de los datos de entrenamiento en proyectos de IA."
+      "titulo": "Ralentización en el desarrollo de IA de OpenAI",
+      "detalle": "OpenAI frenó el desarrollo de algunas IA para reforzar la seguridad. Esto podría indicar desafíos en la implementación segura de nuevas tecnologías de IA, afectando el ritmo de innovación en el sector.",
+      "mitigacion": "Monitorear de cerca los comunicados de OpenAI y otras empresas de IA sobre seguridad y desarrollo. Diversificar las herramientas de IA utilizadas para no depender de un único proveedor."
     },
     {
-      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
-      "categoria": "Market",
-      "titulo": "Problema de deuda en los mercados de crédito",
-      "detalle": "Los mercados de crédito tienen un problema de deuda, no de riesgo, con mucho endeudamiento. Esto podría generar inestabilidad a largo plazo, aunque por ahora reduce el riesgo.",
-      "mitigacion": "Revisar la exposición a instrumentos de crédito y monitorear la evolución de los mercados financieros. Diversificar las inversiones en ETFs."
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "titulo": "Falta de transparencia en el uso real de la IA",
+      "detalle": "Las empresas de IA no publican datos independientes sobre cómo se usan realmente sus productos. Esto genera incertidumbre sobre el impacto y la efectividad de las herramientas de IA en el mundo real.",
+      "mitigacion": "Ser crítico con los informes de uso de IA de las empresas. Buscar fuentes independientes y estudios de caso para evaluar la utilidad de las herramientas de IA antes de adoptarlas."
     }
   ],
   "conexiones": [],
   "noticias": [
     {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "categoria": "AI",
-      "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
-      "tituloOriginal": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
-      "tituloLimpio": "La IA no está cerca de curar el cáncer; una startup dice saber qué se necesita",
-      "resumen": "El problema es la información, según una startup.",
-      "porQueImporta": "Para Guido, que trabaja con IA, es relevante entender las limitaciones y desafíos de la IA aplicada en campos complejos como la medicina, especialmente en el manejo de datos.",
-      "publicadoEn": "2026-08-19T12:00:00.000Z",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "IA",
-        "salud",
-        "datos"
-      ],
-      "tambienVistoEn": []
-    },
-    {
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Apple",
       "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/08/19/ipad-mini-8-release-date-pricing-what-to-expect/",
-      "tituloOriginal": "iPad Mini 8: Release Date, Pricing, and What to Expect",
-      "tituloLimpio": "iPad Mini 8: fecha de lanzamiento, precio y qué esperar",
-      "resumen": "Según los últimos rumores, Apple estaría cerca de lanzar su próxima generación de iPad mini. Se espera que incluya el chip A19 Pro.",
-      "porQueImporta": "Guido, como usuario de Apple, estará interesado en las novedades de productos, especialmente si son dispositivos portátiles que pueden complementar su trabajo.",
-      "publicadoEn": "2026-08-19T12:17:28.000Z",
-      "globalScore": 92,
+      "url": "https://www.macrumors.com/2026/08/19/apple-leak-macos-26-7/",
+      "tituloOriginal": "Apple Accidentally Leaked More Than 10 New Products in macOS Update",
+      "tituloLimpio": "Apple filtró más de 10 productos nuevos en una actualización de macOS",
+      "resumen": "Apple filtró más de 10 productos nuevos en una actualización de macOS, incluyendo AirPods con cámaras infrarrojas para inteligencia visual, un iPhone plegable, un nuevo centro de hogar inteligente de Apple y modelos de MacBook y iPad mini con pantallas OLED.",
+      "porQueImporta": "Esta filtración es muy relevante para Guido, ya que revela posibles innovaciones en el ecosistema Apple que podrían impactar su trabajo en retoque fotográfico (AirPods con cámaras) y su interés en la tecnología de consumo (iPhone plegable, OLED en Mac y iPad).",
+      "publicadoEn": "2026-08-19T15:03:06.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "Apple",
-        "iPad",
-        "lanzamiento"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
-      "categoria": "Finance",
-      "fuente": "Sherwood",
-      "url": "https://sherwood.news/markets/credit-markets-have-a-debt-problem-not-a-risk-problem/",
-      "tituloOriginal": "Credit markets have a “debt” problem, not a “risk” problem",
-      "tituloLimpio": "Los mercados de crédito tienen un problema de 'deuda', no de 'riesgo'",
-      "resumen": "Hay mucho endeudamiento, y ese endeudamiento está reduciendo el riesgo por ahora.",
-      "porQueImporta": "Como inversor en ETFs y mercados, Guido necesita entender las dinámicas del mercado de crédito y cómo el endeudamiento puede afectar la estabilidad financiera.",
-      "publicadoEn": "2026-08-17T15:33:26.000Z",
-      "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/1405907094_new-york-new-york-a-view-of-the-atlas-statue-with-st-patricks-cathedral-in-the-back-at.jpg",
-      "globalScore": 90,
-      "personalScore": 100,
-      "tags": [
-        "Finanzas",
-        "mercados",
-        "deuda"
+        "apple",
+        "filtración",
+        "macos",
+        "productos",
+        "airpods",
+        "iphone",
+        "macbook",
+        "ipad"
       ],
       "tambienVistoEn": []
     },
@@ -205,19 +153,19 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/el-gobierno-aprobo-una-linea-credito-us700-millones-del-bid-n6312292",
-      "tituloOriginal": "El Gobierno aprobó una línea de crédito de hasta u$s700 millones del BID",
-      "tituloLimpio": "El Gobierno aprobó una línea de crédito de hasta u$s700 millones del BID",
-      "resumen": "La línea de crédito tendrá una vigencia de diez años y estará destinada a proyectos de inversión para modernizar la atención sanitaria.",
-      "porQueImporta": "Noticia relevante para Argentina, que puede impactar en la economía y la infraestructura del país.",
-      "publicadoEn": "2026-08-19T12:20:00.000Z",
-      "imagen": "https://media.ambito.com/p/f41867f91288821d0ad19a22440cd96f/adjuntos/239/imagenes/042/616/0042616861/1200x675/smart/bid.jpg",
+      "url": "https://www.ambito.com/economia/la-inflacion-la-zona-euro-trepo-al-29-julio-el-impacto-las-subas-la-energia-n6312386",
+      "tituloOriginal": "La inflación de la zona euro trepó al 2,9% en julio por el impacto de las subas en la energía",
+      "tituloLimpio": "La inflación de la zona euro trepó al 2,9% en julio",
+      "resumen": "La inflación de la zona euro trepó al 2,9% en julio, impulsada por las subas en la energía. El Banco Central Europeo prevé que la inflación ronde el 3% durante el resto del año.",
+      "porQueImporta": "Aunque es de la zona euro, la inflación global y las subas de energía son factores que impactan los mercados internacionales y, por ende, las inversiones de Guido en ETFs globales.",
+      "publicadoEn": "2026-08-19T14:36:00.000Z",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "Argentina",
-        "economía",
-        "inversión"
+        "finanzas",
+        "inflación",
+        "zona euro",
+        "energía"
       ],
       "tambienVistoEn": []
     },
@@ -225,18 +173,39 @@
       "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
       "categoria": "Marketing",
       "fuente": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/chipotle-broadens-gen-alpha-marketing-strategy-with-salish-matter-collab/828178/",
-      "tituloOriginal": "Chipotle broadens Gen Alpha marketing with Salish Matter collab",
-      "tituloLimpio": "Chipotle amplía su marketing para la Generación Alpha con una colaboración",
-      "resumen": "Una asociación con una estrella de YouTube y TikTok de 16 años marca la primera vez que la marca incorpora un pedido personalizado de un creador a su Kid’s Meal.",
-      "porQueImporta": "Guido, interesado en marketing, puede ver aquí una estrategia innovadora para conectar con audiencias jóvenes a través de influencers y contenido personalizado.",
-      "publicadoEn": "2026-08-19T11:53:00.000Z",
-      "globalScore": 96,
+      "url": "https://www.marketingdive.com/news/iab-revisits-ai-disclosure-in-ads-as-legal-requirements-multiply/828182/",
+      "tituloOriginal": "IAB revisits AI disclosure in ads as legal requirements multiply",
+      "tituloLimpio": "El IAB revisa la divulgación de IA en anuncios",
+      "resumen": "El IAB está revisando la divulgación de IA en anuncios debido a la multiplicación de requisitos legales, buscando establecer una base para la industria, aunque la implementación sigue siendo incierta.",
+      "porQueImporta": "Para Guido, interesado en marketing y IA, esta noticia es clave. Las regulaciones sobre el uso de IA en publicidad afectarán cómo se crean y distribuyen los anuncios, y cómo se deben comunicar las herramientas de IA utilizadas.",
+      "publicadoEn": "2026-08-19T12:52:00.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "Marketing",
-        "Generación Alpha",
-        "influencers"
+        "marketing",
+        "ia",
+        "publicidad",
+        "regulación"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+      "tituloOriginal": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+      "tituloLimpio": "El reactor nuclear de TerraPower tiene una ventaja para centros de datos de IA",
+      "resumen": "La central nuclear de TerraPower posee una ventaja estratégica sobre sus competidores, especialmente para acuerdos con centros de datos.",
+      "porQueImporta": "Aunque no es directamente aplicable a su trabajo, Guido, interesado en IA, puede ver cómo la infraestructura energética es crucial para el desarrollo y escalabilidad de la inteligencia artificial, especialmente en grandes centros de datos.",
+      "publicadoEn": "2026-08-19T15:44:53.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "energía",
+        "tecnología",
+        "infraestructura"
       ],
       "tambienVistoEn": []
     },
@@ -244,18 +213,19 @@
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
       "fuente": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
-      "tituloOriginal": "Nvidia’s new financial strategy does not compute",
-      "tituloLimpio": "La nueva estrategia financiera de Nvidia no funciona",
-      "resumen": "El cómputo es ahora una clase de activo. Se vuelve a hablar de innovación financiera.",
-      "porQueImporta": "Nvidia es un actor clave en el sector de la IA. Entender sus estrategias financieras y cómo el 'cómputo' se convierte en un activo es importante para Guido, que sigue la IA y las inversiones.",
-      "publicadoEn": "2026-08-19T12:00:00.000Z",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+      "tituloOriginal": "OpenAI hit the brakes. Now what?",
+      "tituloLimpio": "OpenAI frenó el desarrollo de IA para reforzar la seguridad",
+      "resumen": "OpenAI ralentizó el ritmo de desarrollo de algunas IA para ajustar la seguridad y las salvaguardas, incluyendo una pausa de dos semanas.",
+      "porQueImporta": "Es importante para Guido, que trabaja con IA, saber que uno de los principales actores del sector está priorizando la seguridad. Esto puede influir en la disponibilidad y las características de futuras herramientas de IA.",
+      "publicadoEn": "2026-08-19T17:10:09.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "IA",
-        "Nvidia",
-        "finanzas"
+        "openai",
+        "ia",
+        "seguridad",
+        "desarrollo"
       ],
       "tambienVistoEn": []
     },
@@ -265,36 +235,17 @@
       "fuente": "MIT Technology Review AI",
       "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
       "tituloOriginal": "We still don’t know how people are really using AI",
-      "tituloLimpio": "Todavía no sabemos cómo la gente está usando realmente la IA",
-      "resumen": "Las empresas de IA publican informes sobre el uso de sus productos, pero solo muestran los datos que quieren que veamos, según investigadores.",
-      "porQueImporta": "Para Guido, que trabaja con IA, es crucial entender cómo se utiliza realmente esta tecnología y la falta de datos independientes sobre su uso real.",
+      "tituloLimpio": "Aún no se sabe cómo la gente usa realmente la IA",
+      "resumen": "Investigadores de IA señalan que las empresas de IA solo publican los datos que quieren que se vean sobre cómo se usan sus productos, sin una fuente independiente que los corrobore.",
+      "porQueImporta": "Guido, que trabaja con IA, debería ser consciente de la falta de transparencia en el uso real de estas herramientas. Esto subraya la importancia de la investigación independiente y la cautela al evaluar la efectividad de las IA.",
       "publicadoEn": "2026-08-18T10:06:43.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "IA",
+        "ia",
         "investigación",
+        "transparencia",
         "datos"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
-      "categoria": "Apple",
-      "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/19/hidden-airtag-appears-to-confirm-suspicions-about-illicit-ai-book-scanning/",
-      "tituloOriginal": "Hidden AirTag appears to confirm suspicions about illicit AI book scanning",
-      "tituloLimpio": "Un AirTag oculto parece confirmar sospechas sobre el escaneo ilícito de libros para entrenar IA",
-      "resumen": "Un AirTag escondido en un libro vendido a granel parece confirmar la teoría de que empresas de IA compran libros para escanearlos y usarlos como material de entrenamiento.",
-      "porQueImporta": "Esta noticia es relevante por la intersección entre Apple (AirTag) y la IA, y plantea cuestiones éticas y de derechos de autor en el uso de datos para el entrenamiento de modelos de IA.",
-      "publicadoEn": "2026-08-19T12:20:38.000Z",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "Apple",
-        "IA",
-        "ética",
-        "derechos de autor"
       ],
       "tambienVistoEn": []
     },
@@ -302,58 +253,20 @@
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
       "categoria": "Apple",
       "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/08/19/apples-home-automation-hardware-will-work-more-like-an-apple-watch-than-a-homepod?utm_source=rss",
-      "tituloOriginal": "Apple's home automation hardware might work more like Apple Watch than a HomePod",
-      "tituloLimpio": "El hardware de automatización del hogar de Apple podría funcionar más como un Apple Watch que un HomePod",
-      "resumen": "Nuevas referencias de código encontradas en macOS Tahoe describen cómo funcionaría el rumoreado HomeHub.",
-      "porQueImporta": "Guido, como usuario de Apple, estará interesado en las novedades de automatización del hogar y cómo se integran con el ecosistema de Apple.",
-      "publicadoEn": "2026-08-19T12:46:47.000Z",
+      "url": "https://appleinsider.com/articles/26/08/19/what-to-expect-from-the-2026-apple-tv-4k-siri-ai-siri-remote-better-networking-more?utm_source=rss",
+      "tituloOriginal": "What to expect from the 2026 Apple TV 4K: Siri AI, Siri Remote, better networking, more!",
+      "tituloLimpio": "Qué esperar del Apple TV 4K de 2026: Siri AI y mejor conectividad",
+      "resumen": "Apple está preparando al menos dos grandes cambios para el Apple TV 4K de 2026, incluyendo Siri AI y una mejor conectividad.",
+      "porQueImporta": "Para Guido, usuario de Apple, las mejoras en el Apple TV 4K, especialmente la integración de Siri AI, pueden significar una experiencia de usuario más fluida y nuevas posibilidades de automatización en el hogar.",
+      "publicadoEn": "2026-08-19T17:25:19.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "Apple",
-        "automatización",
-        "HomeHub"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
-      "categoria": "Finance",
-      "fuente": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-openais-growth-disappoints-meta-trial-continues-132945569.html",
-      "tituloOriginal": "Tech stocks today: OpenAI's growth disappoints, Meta trial continues",
-      "tituloLimpio": "Acciones tecnológicas hoy: el crecimiento de OpenAI decepciona, el juicio de Meta continúa",
-      "resumen": "Sin resumen disponible.",
-      "porQueImporta": "Para un inversor como Guido, el rendimiento de empresas clave en tecnología y IA como OpenAI y Meta es un indicador importante del estado del mercado.",
-      "publicadoEn": "2026-08-17T13:29:45.000Z",
-      "imagen": "https://s.yimg.com/uu/api/res/1.2/LcxqJ8DJBXE2HR6VZGbIyw--~B/aD0zMTgzO3c9NDc0NDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-04/604a927e-7254-408c-91bc-bc0660353dfd",
-      "globalScore": 90,
-      "personalScore": 100,
-      "tags": [
-        "Finanzas",
-        "acciones",
-        "IA"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
-      "categoria": "Finance",
-      "fuente": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-minutes-nvidia-sk-hynix-skhy/?src=A00220&yptr=yahoo",
-      "tituloOriginal": "Stock Market Today: Dow Rises Ahead Of Fed Minutes; Moderna Soars On Cancer Drug News (Live Coverage)",
-      "tituloLimpio": "Mercado de valores hoy: el Dow sube antes de las actas de la Fed; Moderna se dispara por noticias de fármacos contra el cáncer",
-      "resumen": "Sin resumen disponible.",
-      "porQueImporta": "Guido, como inversor, necesita estar al tanto de los movimientos del mercado y los factores que los impulsan, como las noticias de la Fed y los resultados de empresas.",
-      "publicadoEn": "2026-08-19T12:28:18.000Z",
-      "imagen": "https://media.zenfs.com/en/ibd.com/8e3f0f90c622d76c522be98b9f3975ee.jpg",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "Finanzas",
-        "mercado",
-        "inversión"
+        "apple",
+        "apple tv",
+        "siri",
+        "ia",
+        "hogar inteligente"
       ],
       "tambienVistoEn": []
     },
@@ -361,19 +274,42 @@
       "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
       "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-is-flashing-8-of-12-capitulation-signals-but-its-not-a-bottom-yet",
-      "tituloOriginal": "Bitcoin is flashing 8 of 12 capitulation signals, but bottom's not yet in, says VanEck",
-      "tituloLimpio": "Bitcoin muestra 8 de 12 señales de capitulación, pero aún no es el fondo, dice VanEck",
-      "resumen": "Configuraciones similares históricamente produjeron retornos de bitcoin por debajo del promedio a 90 y 180 días, dijo el gestor de activos.",
-      "porQueImporta": "Para un inversor, entender las señales del mercado de criptomonedas y las proyecciones de expertos como VanEck es crucial para tomar decisiones informadas.",
-      "publicadoEn": "2026-08-19T12:45:35.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/b5c969ee70de7444f1035edf7701cc88d16ae253-3000x2001.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "globalScore": 96,
+      "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-surges-above-usd68-000-liquidating-usd1-4-billion-shorts-as-treasury-buybacks-boost-risk-appetite",
+      "tituloOriginal": "Bitcoin surges above $68,000, liquidating $1.4 billion shorts as Treasury buybacks boost risk appetite",
+      "tituloLimpio": "Bitcoin superó los 68.000 dólares",
+      "resumen": "Bitcoin subió aproximadamente un 6%, liquidando 1.400 millones de dólares en posiciones cortas, impulsado por la duplicación de las recompras de bonos del Tesoro.",
+      "porQueImporta": "Guido, como inversor, sigue de cerca los mercados. El repunte de Bitcoin es una noticia relevante en el ámbito de las criptomonedas y puede indicar un aumento del apetito por el riesgo en los mercados.",
+      "publicadoEn": "2026-08-19T16:18:04.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/6eb2747023363cfbe065c8a674c044f684490782-1520x856.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 92,
       "personalScore": 100,
       "tags": [
-        "Finanzas",
-        "Bitcoin",
-        "inversión"
+        "finanzas",
+        "bitcoin",
+        "criptomonedas",
+        "mercado"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/standard-chartered-hsbc-execute-first-live-transaction-on-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "StanChart, HSBC execute first live transaction on Swift blockchain ledger",
+      "tituloLimpio": "StanChart y HSBC realizan la primera transacción en vivo en el libro mayor de blockchain de Swift",
+      "resumen": "La transacción conectó los sistemas de depósitos tokenizados de los bancos a través del libro mayor de Swift, marcando un paso hacia pagos transfronterizos interoperables y 24/7.",
+      "porQueImporta": "Esta noticia es relevante para Guido por su interés en finanzas y tecnología. La interoperabilidad de blockchain en pagos transfronterizos puede simplificar y acelerar las transacciones internacionales, lo que podría impactar en el futuro de las inversiones y transferencias.",
+      "publicadoEn": "2026-08-19T16:30:12.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/cross-border-transaction-stablecoin-swift.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "blockchain",
+        "swift",
+        "pagos",
+        "tecnología"
       ],
       "tambienVistoEn": []
     },
@@ -381,19 +317,20 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-miercoles-19-agosto_0_vuM6jEfqnM.html",
-      "tituloOriginal": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este miércoles 19 de agosto",
-      "tituloLimpio": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este miércoles 19 de agosto",
-      "resumen": "Desde el oficial hasta el blue y el turista, todos los tipos de cambio. Mirá la cotización minuto a minuto.",
-      "porQueImporta": "La cotización del dólar es una noticia de interés diario para cualquier residente en Argentina, incluyendo a Guido, por su impacto en la economía personal y profesional.",
-      "publicadoEn": "2026-08-19T12:00:01.000Z",
-      "imagen": "https://www.clarin.com/img/2019/11/29/W92lPof3_1200x630__1.jpg",
-      "globalScore": 94,
+      "url": "https://www.clarin.com/economia/respiro-riesgo-pais-baja-509-alcanzar-mayor-nivel-3-meses_0_tO5IpLcBCY.html",
+      "tituloOriginal": "Un respiro para el riesgo país: baja a 509, tras alcanzar su mayor nivel en 3 meses",
+      "tituloLimpio": "El riesgo país argentino bajó a 509 puntos",
+      "resumen": "El riesgo país tuvo un respiro y bajó a 509 puntos, después de haber alcanzado su nivel más alto en tres meses.",
+      "porQueImporta": "Como inversor en ETFs y mercados, Guido se beneficia de la estabilidad económica. La baja del riesgo país es una señal positiva para los bonos argentinos y el clima de inversión local.",
+      "publicadoEn": "2026-08-19T15:25:46.000Z",
+      "imagen": "https://www.clarin.com/img/2026/08/19/6a1n88meJ_1200x630__1.jpg",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "Argentina",
-        "dólar",
-        "economía"
+        "argentina",
+        "finanzas",
+        "riesgo país",
+        "inversión"
       ],
       "tambienVistoEn": []
     },
@@ -401,19 +338,20 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/08/19/cual-hubiera-sido-la-inflacion-mayorista-de-julio-sin-el-impacto-de-la-baja-de-9-en-el-precio-del-petroleo/",
-      "tituloOriginal": "Cuál hubiera sido la inflación mayorista de julio sin el impacto de la baja de 9% en el precio del petróleo",
-      "tituloLimpio": "Cuál hubiera sido la inflación mayorista de julio sin el impacto de la baja de 9% en el precio del petróleo",
-      "resumen": "El índice de precios al por mayor se ubicó por debajo del 1% el mes pasado, aunque los analistas atribuyen este resultado a un factor puntual.",
-      "porQueImporta": "Noticia económica relevante para Argentina, que ayuda a entender los factores detrás de la inflación y su impacto en el poder adquisitivo.",
-      "publicadoEn": "2026-08-19T12:12:14.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/PISLVVF3CFEZBOEGPAZMMPNQYU.png?auth=9ff17711f87ec1bf835514968f6cb8c49a3d6e51b846f2be87c08fc18482f706&smart=true&width=1536&height=1024",
-      "globalScore": 94,
+      "url": "https://www.infobae.com/economia/2026/08/19/otra-cautelar-frena-la-nueva-vtv-que-pasara-con-los-cambios-impulsados-por-el-gobierno/",
+      "tituloOriginal": "Otra cautelar frena la nueva VTV: qué pasará con los cambios impulsados por el Gobierno",
+      "tituloLimpio": "Otra cautelar frena la nueva VTV en Argentina",
+      "resumen": "Un segundo recurso judicial frenó los cambios en la normativa de la VTV impulsados por el Gobierno. La ciudad de Buenos Aires es la única jurisdicción que sancionó una ley en consonancia con la reforma.",
+      "porQueImporta": "Como residente de Buenos Aires, Guido se ve directamente afectado por las normativas de la VTV. Esta noticia es importante para entender el estado actual de los cambios y si debe realizar la verificación bajo las reglas anteriores.",
+      "publicadoEn": "2026-08-19T17:17:09.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/XGVCC3JIKZH67FIOHSCQJX7OGU.jpg?auth=e6829cb471f3a879f503d1c4460a74d1d16f09c86ed4b43be5a97213475495ee&smart=true&width=1920&height=1081",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "Argentina",
-        "inflación",
-        "economía"
+        "argentina",
+        "vtv",
+        "regulación",
+        "gobierno"
       ],
       "tambienVistoEn": []
     },
@@ -421,44 +359,26 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/tecnologia/unitree-presento-un-robot-humanoide-capaz-de-correr-mas-rapido-que-un-humano-pero-le-cuesta-frenar-nid19082026/",
-      "tituloOriginal": "Unitree presentó un robot humanoide capaz de correr más rápido que un humano, pero le cuesta frenar",
-      "tituloLimpio": "Unitree presentó un robot humanoide capaz de correr más rápido que un humano, pero le cuesta frenar",
-      "resumen": "En su debut en la bolsa, las acciones de la compañía china, líder en robótica, aumentaron de precio un 460% sobre el valor inicial.",
-      "porQueImporta": "Guido, interesado en IA aplicada y herramientas, encontrará relevante el avance en robótica humanoide y el éxito financiero de la empresa.",
-      "publicadoEn": "2026-08-19T12:17:41.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/IOUAWT6GIJFR3FMERYOXPKV7HA.jpg?auth=42949cd29e6a9ef9a5ee372fd09e8a6171741f8454a0d8634c7140d73c70c1f4&smart=true&width=1280&height=720",
+      "url": "https://www.lanacion.com.ar/economia/campo/la-banana-subio-casi-un-56-en-ocho-semanas-por-el-cierre-del-principal-paso-con-chile-nid19082026/",
+      "tituloOriginal": "La banana subió casi un 56% en ocho semanas por el cierre del principal paso con Chile",
+      "tituloLimpio": "La banana subió casi un 56% en ocho semanas por el cierre del paso con Chile",
+      "resumen": "El precio promedio de la banana en el Mercado Central pasó de $1117 a $1742 por kilo desde fines de junio, debido a las trabas para el ingreso de fruta ecuatoriana por Cristo Redentor.",
+      "porQueImporta": "Esta noticia es relevante para Guido como residente de Argentina, ya que muestra el impacto directo de problemas logísticos y fronterizos en los precios de productos básicos, afectando el costo de vida.",
+      "publicadoEn": "2026-08-19T17:18:54.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/STJ7YUY5KJDKBMQDVASGUUFR74.jpg?auth=ab11fc7226b1dfa252682a7bb0d3ec1e86c313861513787de13e0f8c364bd02f&smart=true&width=1280&height=853",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "IA",
-        "robótica",
-        "tecnología"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
-      "categoria": "Marketing",
-      "fuente": "Adweek",
-      "url": "https://www.adweek.com/brand-marketing/data-giant-sass-deal-with-liverpool-fc-signals-a-broader-b2b-shift/",
-      "tituloOriginal": "Data Giant SAS’s Deal With Liverpool FC Signals a Broader B2B Shift",
-      "tituloLimpio": "El acuerdo de SAS con el Liverpool FC señala un cambio más amplio en B2B",
-      "resumen": "La asociación de la empresa de tecnología empresarial con el club popular muestra cómo los especialistas en marketing de negocios heredados toman prestado de los manuales del consumidor.",
-      "porQueImporta": "Para Guido, que le interesa el marketing, esta noticia muestra una tendencia en el marketing B2B que adopta estrategias del marketing de consumo, lo que puede ser útil para sus propios proyectos.",
-      "publicadoEn": "2026-08-19T06:00:00.000Z",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "Marketing",
-        "B2B",
-        "estrategia"
+        "argentina",
+        "economía",
+        "precios",
+        "logística"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-08-19T12:52:09.485Z"
+    "generadoEn": "2026-08-19T17:26:47.561Z"
   }
 }
