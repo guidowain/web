@@ -1,172 +1,166 @@
 {
   "fecha": "2026-08-20",
-  "generadoEn": "2026-08-20T12:53:59.056Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "Hoy, 20 de agosto de 2026, las noticias destacadas incluyen novedades de Apple con iOS 27 y el almacenamiento de iCloud, la incursión de Meta AI en Mac con dictado por voz, y el panorama económico argentino con declaraciones de Mario Grinman y la marcha de la CGT. En marketing, Estée Lauder se suma a Fortnite. También hay alertas sobre ciberseguridad en criptomonedas y un análisis sobre los mercados de crédito.",
+  "generadoEn": "2026-08-20T17:28:22.868Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Hoy, el foco está en la reaparición de las cuasimonedas en Argentina con los 'Chachos' de La Rioja y el cierre de Aeroparque por obras. En tecnología, se rumorea un nuevo MacBook Ultra y un estudio revela que un tercio de las páginas web desde el lanzamiento de ChatGPT muestran signos de autoría de IA. También hay novedades sobre la reestructuración de OpenAI y mejoras en YouTube para TV conectada. En finanzas, se analiza el impacto de las recompras del Tesoro en Bitcoin y la inversión de mineros de Bitcoin en IA.",
   "radarPersonal": [
     {
-      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "Álbumes Compartidos de iOS 27 Usan Almacenamiento de iCloud a Resolución Completa",
-      "resumen": "En iOS 27, los nuevos Álbumes Compartidos en la app Fotos mantienen la calidad de resolución completa por primera vez, pero ahora consumen espacio de almacenamiento de iCloud, incluyendo los ítems agregados por otros colaboradores.",
-      "categoria": "Apple",
-      "fuentes": [
-        "MacRumors"
-      ],
-      "urls": [
-        "https://www.macrumors.com/2026/08/20/ios-27-shared-albums-eat-into-icloud-storage/"
-      ],
-      "score": 100,
-      "tags": [
-        "icloud",
-        "almacenamiento",
-        "fotos",
-        "ios"
-      ]
-    },
-    {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "titulo": "La Nueva App de Meta AI para Mac Permite Hablar con las Aplicaciones",
-      "resumen": "Meta dijo que su modelo Muse Spark está impulsando la función de dictado.",
-      "categoria": "AI",
-      "fuentes": [
-        "TechCrunch AI"
-      ],
-      "urls": [
-        "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/"
-      ],
-      "score": 100,
-      "tags": [
-        "meta",
-        "ai",
-        "mac",
-        "dictado",
-        "productividad"
-      ]
-    },
-    {
-      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
-      "titulo": "Los Mercados de Crédito Tienen un Problema de Deuda, No de Riesgo",
-      "resumen": "Estamos obteniendo mucho endeudamiento, y ese endeudamiento está reduciendo el riesgo (¡por ahora!).",
-      "categoria": "Finance",
-      "fuentes": [
-        "Sherwood"
-      ],
-      "urls": [
-        "https://sherwood.news/markets/credit-markets-have-a-debt-problem-not-a-risk-problem/"
-      ],
-      "score": 100,
-      "tags": [
-        "mercados",
-        "crédito",
-        "deuda",
-        "riesgo",
-        "inversión"
-      ]
-    },
-    {
-      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
-      "titulo": "Jo Malone de Estée Lauder se Lanza a 'Fortnite' para su Primera Activación en Gaming",
-      "resumen": "La activación dentro del juego está acompañada por una campaña que incluye creadores de gaming, transmisiones en vivo y una serie de contenido social.",
-      "categoria": "Marketing",
-      "fuentes": [
-        "Marketing Dive"
-      ],
-      "urls": [
-        "https://www.marketingdive.com/news/estee-lauders-jo-malone-turns-to-fortnite-for-first-gaming-activation/828061/"
-      ],
-      "score": 100,
-      "tags": [
-        "marketing",
-        "gaming",
-        "fortnite",
-        "estee lauder",
-        "campaña"
-      ]
-    },
-    {
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "Mario Grinman Habló de la Actividad Económica: \"Los Cambios Implican Sacrificios\"",
-      "resumen": "En la apertura del Council 2026, el presidente de la Cámara Argentina de Comercio y Servicios reconoció que “hay empresas que han cerrado y se han perdido puestos de trabajo”, pero sostuvo que los costos del proceso son necesarios para transformar la Argentina y alcanzar un país “normal y creíble”.",
+      "titulo": "La Rioja vuelve a emitir 'Chachos': el debate sobre las cuasimonedas en Argentina",
+      "resumen": "La Rioja volvió a emitir Chachos y reabrió el debate sobre las cuasimonedas que marcaron la crisis de 2001 y llegaron a circular en 15 provincias.",
       "categoria": "Argentina",
       "fuentes": [
         "Ambito"
       ],
       "urls": [
-        "https://www.ambito.com/economia/mario-grinman-hablo-la-actividad-economica-los-cambios-implican-sacrificios-n6312777"
+        "https://www.ambito.com/economia/que-son-los-chachos-la-rioja-que-vuelven-las-cuasimonedas-y-cuales-circularon-argentina-n6312898"
       ],
       "score": 100,
       "tags": [
+        "cuasimonedas",
         "argentina",
-        "economía",
-        "empresas",
-        "empleo",
-        "política"
+        "economia"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "Un tercio de las páginas web publicadas desde el lanzamiento de ChatGPT muestran signos de autoría de IA",
+      "resumen": "ChatGPT y otros modelos de IA están escribiendo y editando gran parte de la nueva web.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/"
+      ],
+      "score": 100,
+      "tags": [
+        "ia",
+        "chatgpt",
+        "web"
+      ]
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "titulo": "Seis nuevas características esperadas para el MacBook Ultra que se lanzaría este otoño",
+      "resumen": "Apple tiene un nuevo MacBook Ultra que se rumorea que se lanzará este otoño como parte de su línea 'Ultra' en expansión. Aquí hay seis nuevas características esperadas con el MacBook Ultra.",
+      "categoria": "Apple",
+      "fuentes": [
+        "9to5Mac"
+      ],
+      "urls": [
+        "https://9to5mac.com/2026/08/20/macbook-ultra-is-coming-six-new-features-launching-this-fall/"
+      ],
+      "score": 100,
+      "tags": [
+        "apple",
+        "macbook",
+        "lanzamiento"
+      ]
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "titulo": "Mineros de Bitcoin invierten miles de millones en IA, superando los ingresos",
+      "resumen": "Nueve mineros públicos generaron 341 millones de dólares de operaciones de IA y HPC en la primera mitad de 2026 después de gastar más de 5 mil millones de dólares en activos de capital.",
+      "categoria": "Finance",
+      "fuentes": [
+        "CoinTelegraph"
+      ],
+      "urls": [
+        "https://cointelegraph.com/news/bitcoin-miners-ai-hpc-capex-revenue-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      ],
+      "score": 100,
+      "tags": [
+        "bitcoin",
+        "ia",
+        "inversion"
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "titulo": "YouTube lanza mejoras para televisores conectados",
+      "resumen": "La compañía agregó múltiples características nuevas, incluyendo la capacidad de convertir listas de reproducción de creadores en programas para que los espectadores puedan transmitir videos episódicamente.",
+      "categoria": "Marketing",
+      "fuentes": [
+        "Marketing Dive"
+      ],
+      "urls": [
+        "https://www.marketingdive.com/news/sociable-youtube-rolls-out-improvements-for-connected-tv/828408/"
+      ],
+      "score": 100,
+      "tags": [
+        "youtube",
+        "marketing",
+        "tv"
       ]
     }
   ],
   "loImportante": [
-    "Los Álbumes Compartidos de iOS 27 ahora consumen almacenamiento de iCloud al guardar fotos en resolución completa.",
-    "Meta AI lanzó una aplicación para Mac que permite interactuar con las apps mediante dictado por voz, impulsado por su modelo Muse Spark.",
-    "El presidente de la Cámara Argentina de Comercio y Servicios, Mario Grinman, afirmó que los cambios económicos en Argentina implican sacrificios, incluyendo cierres de empresas y pérdida de empleos.",
-    "Estée Lauder, a través de su marca Jo Malone, incursionó en el gaming con una activación en Fortnite, acompañada de una campaña con creadores y livestreams.",
-    "Un informe de ciberseguridad reveló una campaña de phishing que apunta a casi un millón de números de teléfono para robar criptomonedas."
+    "La Rioja reintroduce los 'Chachos', reabriendo el debate sobre las cuasimonedas en Argentina.",
+    "Un estudio revela que un tercio de las páginas web creadas desde el lanzamiento de ChatGPT muestran signos de autoría de IA.",
+    "Se esperan seis nuevas características para el rumoreado MacBook Ultra de Apple, que se lanzaría este otoño.",
+    "Mineros de Bitcoin están invirtiendo miles de millones en IA, con gastos de capital superando los ingresos.",
+    "YouTube implementa mejoras para televisores conectados, incluyendo la conversión de listas de reproducción en programas."
   ],
   "oportunidades": [
     {
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
-      "titulo": "Integración de IA por Voz en Flujos de Trabajo en Mac",
-      "detalle": "La nueva app de Meta AI para Mac permite interactuar con las aplicaciones mediante dictado por voz, lo que podría optimizar procesos de retoque fotográfico y arte con IA al integrar comandos de voz.",
+      "titulo": "El auge de la autoría de IA en la web",
+      "detalle": "Un tercio de las páginas web publicadas desde el lanzamiento de ChatGPT muestran signos de autoría de IA. Esto indica una creciente integración de la IA en la creación de contenido web.",
       "acciones": [
-        "Explorar la app de Meta AI para Mac y sus capacidades de dictado.",
-        "Evaluar cómo esta tecnología puede integrarse en el flujo de trabajo de retoque fotográfico y creación de arte con IA."
+        "Explorar herramientas de IA para la creación de contenido web.",
+        "Analizar cómo la IA puede optimizar el retoque fotográfico y el arte con IA."
+      ]
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Investing",
+      "titulo": "Inversión de mineros de Bitcoin en IA",
+      "detalle": "Mineros de Bitcoin están invirtiendo miles de millones en IA, con gastos de capital superando los ingresos. Esto podría indicar una tendencia de diversificación y crecimiento en el sector.",
+      "acciones": [
+        "Investigar empresas mineras de Bitcoin que invierten en IA.",
+        "Evaluar el potencial de inversión en el cruce de criptomonedas y IA."
       ]
     },
     {
       "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
       "categoria": "Marketing",
-      "titulo": "Marketing en Plataformas de Gaming como Fortnite",
-      "detalle": "La incursión de Jo Malone en Fortnite demuestra el potencial de las plataformas de gaming para campañas de marketing. Esto podría ser relevante para futuros proyectos de marketing o para entender nuevas tendencias de engagement con audiencias jóvenes.",
+      "titulo": "Nuevas funcionalidades de YouTube para TV conectada",
+      "detalle": "YouTube implementa mejoras para televisores conectados, incluyendo la capacidad de convertir listas de reproducción en programas. Esto abre nuevas vías para la distribución de contenido y el engagement de la audiencia.",
       "acciones": [
-        "Analizar el caso de estudio de Jo Malone en Fortnite para entender estrategias de marketing en gaming.",
-        "Considerar la relevancia de estas plataformas para clientes o proyectos futuros que apunten a audiencias similares."
-      ]
-    },
-    {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "categoria": "AI",
-      "titulo": "Modelos de Mercado para Identificar Nuevas Fuentes de Ingresos",
-      "detalle": "La aplicación de modelos de mercado para desbloquear fuentes de ingresos ocultas, como se describe en el artículo, puede ofrecer ideas para optimizar estrategias de precios o identificar nichos en negocios relacionados con el arte digital o servicios de retoque.",
-      "acciones": [
-        "Investigar cómo los modelos de mercado pueden aplicarse para analizar la demanda y precios en el sector de retoque fotográfico y arte con IA.",
-        "Explorar herramientas o metodologías basadas en IA para identificar oportunidades de monetización."
+        "Analizar cómo estas nuevas funciones pueden impactar las estrategias de marketing de video.",
+        "Explorar oportunidades para la creación de contenido episódico en YouTube."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "categoria": "Platform",
-      "titulo": "Mayor Consumo de Almacenamiento en iCloud por iOS 27",
-      "detalle": "Los Álbumes Compartidos en iOS 27 ahora usan almacenamiento de iCloud a resolución completa, lo que podría llevar a un consumo más rápido del espacio disponible y la necesidad de adquirir planes de almacenamiento más grandes.",
-      "mitigacion": "Revisar el uso actual del almacenamiento de iCloud y considerar la gestión de fotos en Álbumes Compartidos para evitar costos adicionales o quedarse sin espacio. Evaluar la necesidad de mantener todas las fotos en resolución completa en álbumes compartidos."
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Market",
+      "titulo": "Reaparición de cuasimonedas en Argentina",
+      "detalle": "La Rioja volvió a emitir 'Chachos', reabriendo el debate sobre las cuasimonedas. Esto puede generar incertidumbre económica y afectar la estabilidad financiera.",
+      "mitigacion": "Monitorear de cerca las políticas económicas y la evolución de las cuasimonedas en Argentina. Diversificar inversiones para mitigar riesgos cambiarios."
     },
     {
-      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
-      "categoria": "Market",
-      "titulo": "Campaña de Phishing de Criptomonedas a Gran Escala",
-      "detalle": "Una firma de ciberseguridad reveló una campaña de phishing que apunta a 885.000 números de teléfono para robar criptomonedas, redirigiendo a los usuarios a sitios web falsos de proveedores de billeteras.",
-      "mitigacion": "Mantenerse alerta ante mensajes sospechosos relacionados con criptomonedas. Verificar siempre la autenticidad de los sitios web antes de ingresar credenciales o información sensible. Utilizar autenticación de dos factores y billeteras de hardware para proteger los activos digitales."
-    },
-    {
-      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
-      "categoria": "Market",
-      "titulo": "Aumento de Costos de Endeudamiento en Estados Unidos",
-      "detalle": "El reordenamiento económico en Estados Unidos sugiere que los altos costos de endeudamiento serán menos sensibles a las dinámicas tradicionales, lo que podría impactar indirectamente los mercados globales y las inversiones en ETFs.",
-      "mitigacion": "Monitorear las tendencias de los mercados financieros y los informes sobre tasas de interés en EE.UU. para ajustar estrategias de inversión en ETFs. Diversificar la cartera y considerar el impacto de la política monetaria global en los activos."
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "titulo": "Debates sobre la conciencia de la IA como una trampa",
+      "detalle": "Los debates sobre la conciencia de la IA son presentados como una trampa, con retórica que sugiere que los agentes de IA son conscientes y enojados. Esto puede desviar la atención de problemas más prácticos y generar miedo infundado.",
+      "mitigacion": "Enfocarse en la aplicación práctica y ética de la IA, evitando caer en debates especulativos que no aportan valor real."
     }
   ],
-  "conexiones": [],
+  "conexiones": [
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "titulo": "La inversión de mineros de Bitcoin en IA y el futuro de la creación de contenido",
+      "historias": [
+        "Mineros de Bitcoin invierten miles de millones en IA, con gastos de capital superando los ingresos.",
+        "Un tercio de las páginas web publicadas desde el lanzamiento de ChatGPT muestran signos de autoría de IA."
+      ],
+      "conclusion": "La creciente inversión en IA por parte de sectores como la minería de Bitcoin, junto con la proliferación de contenido generado por IA en la web, sugiere una convergencia donde la IA no solo optimiza procesos técnicos sino que también se convierte en una herramienta fundamental para la creación de contenido y la automatización, impactando directamente en el trabajo de retoque fotográfico y arte con IA."
+    }
+  ],
   "noticias": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
@@ -174,61 +168,17 @@
       "fuente": "Google AI Blog",
       "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
       "tituloOriginal": "5 new ways to level up your learning with Search",
-      "tituloLimpio": "Cinco Nuevas Formas de Mejorar el Aprendizaje con la Búsqueda de Google",
-      "resumen": "Así es como se pueden usar las herramientas de Búsqueda de Google para estudiar para clases y exámenes estandarizados.",
-      "porQueImporta": "Guido puede encontrar herramientas de Google útiles para la investigación o el aprendizaje continuo en sus áreas de interés, como IA o marketing.",
+      "tituloLimpio": "Cinco nuevas formas de mejorar el aprendizaje con la Búsqueda de Google",
+      "resumen": "Aquí se explica cómo se pueden usar las herramientas de Búsqueda de Google para estudiar para clases y exámenes estandarizados.",
+      "porQueImporta": "Nuevas herramientas de Google pueden ser útiles para la productividad y el aprendizaje, aspectos que interesan a Guido en su búsqueda de automatización y herramientas.",
       "publicadoEn": "2026-08-19T19:00:00.000Z",
       "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "google",
-        "aprendizaje",
         "herramientas",
-        "búsqueda"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "categoria": "Apple",
-      "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/08/20/ios-27-shared-albums-eat-into-icloud-storage/",
-      "tituloOriginal": "iOS 27 Shared Albums Go Full Res at the Cost of Your iCloud Storage",
-      "tituloLimpio": "Los Álbumes Compartidos de iOS 27 Usan Almacenamiento de iCloud a Resolución Completa",
-      "resumen": "En iOS 27, los nuevos Álbumes Compartidos que se crean en la app Fotos mantienen la calidad de resolución completa por primera vez, pero ahora consumen espacio de almacenamiento de iCloud, incluyendo los ítems agregados por otros colaboradores.",
-      "porQueImporta": "Impacta directamente a Guido como usuario de Apple, ya que el cambio en el almacenamiento de iCloud para fotos compartidas podría requerir ajustes en su plan o gestión de espacio.",
-      "publicadoEn": "2026-08-20T12:48:31.000Z",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "apple",
-        "ios",
-        "icloud",
-        "fotos",
-        "almacenamiento"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "sherwood-aHR0cHM6Ly9zaGVyd29v",
-      "categoria": "Finance",
-      "fuente": "Sherwood",
-      "url": "https://sherwood.news/markets/credit-markets-have-a-debt-problem-not-a-risk-problem/",
-      "tituloOriginal": "Credit markets have a “debt” problem, not a “risk” problem",
-      "tituloLimpio": "Los Mercados de Crédito Tienen un Problema de Deuda, No de Riesgo",
-      "resumen": "Estamos obteniendo mucho endeudamiento, y ese endeudamiento está reduciendo el riesgo (¡por ahora!).",
-      "porQueImporta": "Relevante para Guido por su interés en inversión y mercados, ya que ofrece una perspectiva sobre la dinámica actual de los mercados de crédito y el endeudamiento.",
-      "publicadoEn": "2026-08-17T15:33:26.000Z",
-      "imagen": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/1405907094_new-york-new-york-a-view-of-the-atlas-statue-with-st-patricks-cathedral-in-the-back-at.jpg",
-      "globalScore": 90,
-      "personalScore": 100,
-      "tags": [
-        "finanzas",
-        "mercados",
-        "crédito",
-        "deuda",
-        "inversión"
+        "productividad"
       ],
       "tambienVistoEn": []
     },
@@ -236,21 +186,19 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/mario-grinman-hablo-la-actividad-economica-los-cambios-implican-sacrificios-n6312777",
-      "tituloOriginal": "Mario Grinman habló de la actividad económica: \"Los cambios implican sacrificios\"",
-      "tituloLimpio": "Mario Grinman Habló de la Actividad Económica: \"Los Cambios Implican Sacrificios\"",
-      "resumen": "En la apertura del Council 2026, el presidente de la Cámara Argentina de Comercio y Servicios reconoció que “hay empresas que han cerrado y se han perdido puestos de trabajo”, pero sostuvo que los costos del proceso son necesarios para transformar la Argentina y alcanzar un país “normal y creíble”.",
-      "porQueImporta": "Noticia clave para Guido por su residencia en Argentina, brindando una visión sobre la situación económica actual del país y el impacto en el sector empresarial y laboral.",
-      "publicadoEn": "2026-08-20T12:42:00.000Z",
-      "imagen": "https://media.ambito.com/p/9d9d3945a7d60044b03dd3bc3bfb2c8d/adjuntos/239/imagenes/040/084/0040084471/mario-grinman-cacjpg.jpg",
+      "url": "https://www.ambito.com/economia/que-son-los-chachos-la-rioja-que-vuelven-las-cuasimonedas-y-cuales-circularon-argentina-n6312898",
+      "tituloOriginal": "Qué son los Chachos de La Rioja: por qué vuelven las cuasimonedas y cuáles circularon en Argentina",
+      "tituloLimpio": "La Rioja vuelve a emitir 'Chachos': el debate sobre las cuasimonedas en Argentina",
+      "resumen": "La Rioja volvió a emitir Chachos y reabrió el debate sobre las cuasimonedas que marcaron la crisis de 2001 y llegaron a circular en 15 provincias.",
+      "porQueImporta": "La reaparición de cuasimonedas en Argentina es un tema económico relevante que puede impactar la estabilidad financiera y el poder adquisitivo en el país.",
+      "publicadoEn": "2026-08-20T15:54:00.000Z",
+      "imagen": "https://media.ambito.com/p/52c0eca29e448b2e4112f3816be52a15/adjuntos/239/imagenes/043/593/0043593461/1200x675/smart/chanchos-la-rioja.jpg",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "economía",
-        "empresas",
-        "empleo",
-        "política"
+        "economia",
+        "cuasimonedas"
       ],
       "tambienVistoEn": []
     },
@@ -258,20 +206,18 @@
       "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
       "categoria": "Marketing",
       "fuente": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/estee-lauders-jo-malone-turns-to-fortnite-for-first-gaming-activation/828061/",
-      "tituloOriginal": "Estée Lauder’s Jo Malone turns to ‘Fortnite’ for first gaming activation",
-      "tituloLimpio": "Jo Malone de Estée Lauder se Lanza a 'Fortnite' para su Primera Activación en Gaming",
-      "resumen": "La activación dentro del juego está acompañada por una campaña que incluye creadores de gaming, transmisiones en vivo y una serie de contenido social.",
-      "porQueImporta": "Interesante para Guido por su interés en marketing, mostrando una nueva tendencia de activación de marca en plataformas de gaming y el uso de influencers.",
-      "publicadoEn": "2026-08-20T12:00:00.000Z",
-      "globalScore": 100,
+      "url": "https://www.marketingdive.com/news/sociable-youtube-rolls-out-improvements-for-connected-tv/828408/",
+      "tituloOriginal": "Sociable: YouTube rolls out improvements for connected TV",
+      "tituloLimpio": "YouTube lanza mejoras para televisores conectados",
+      "resumen": "La compañía agregó múltiples características nuevas, incluyendo la capacidad de convertir listas de reproducción de creadores en programas para que los espectadores puedan transmitir videos episódicamente.",
+      "porQueImporta": "Estas mejoras en YouTube son relevantes para estrategias de marketing y distribución de contenido, ofreciendo nuevas formas de engagement con la audiencia.",
+      "publicadoEn": "2026-08-20T16:39:00.000Z",
+      "globalScore": 96,
       "personalScore": 100,
       "tags": [
         "marketing",
-        "gaming",
-        "fortnite",
-        "estee lauder",
-        "campaña"
+        "youtube",
+        "tv"
       ],
       "tambienVistoEn": []
     },
@@ -279,20 +225,18 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
-      "tituloOriginal": "Meta AI’s new Mac app wants you to talk to your apps",
-      "tituloLimpio": "La Nueva App de Meta AI para Mac Permite Hablar con las Aplicaciones",
-      "resumen": "Meta dijo que su modelo Muse Spark está impulsando la función de dictado.",
-      "porQueImporta": "Directamente relevante para Guido por su trabajo con IA y su uso de Mac, ya que esta herramienta podría mejorar la productividad y la interacción con software.",
-      "publicadoEn": "2026-08-20T12:11:57.000Z",
+      "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+      "tituloOriginal": "A third of webpages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "tituloLimpio": "Un tercio de las páginas web publicadas desde el lanzamiento de ChatGPT muestran signos de autoría de IA",
+      "resumen": "ChatGPT y otros modelos de IA están escribiendo y editando gran parte de la nueva web.",
+      "porQueImporta": "Esta noticia es crucial para entender la creciente influencia de la IA en la creación de contenido digital, relevante para el trabajo de Guido en arte con IA y retoque fotográfico.",
+      "publicadoEn": "2026-08-20T17:18:58.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "meta",
-        "ai",
-        "mac",
-        "dictado",
-        "productividad"
+        "ia",
+        "contenido",
+        "web"
       ],
       "tambienVistoEn": []
     },
@@ -300,20 +244,18 @@
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
       "fuente": "The Verge AI",
-      "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
-      "tituloOriginal": "Slack is launching collaborative vibe-coding channels",
-      "tituloLimpio": "Slack Lanza Canales Colaborativos de 'Vibe-Coding'",
-      "resumen": "Slack está introduciendo canales dedicados donde los equipos pueden 'vibe-code' juntos con agentes de IA en lugar de saltar entre diferentes herramientas y conversaciones.",
-      "porQueImporta": "Puede ser útil para Guido si trabaja en equipos o busca herramientas de automatización y colaboración, especialmente con la integración de IA en flujos de trabajo.",
-      "publicadoEn": "2026-08-20T12:00:00.000Z",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+      "tituloOriginal": "It’s Greg Brockman’s OpenAI now",
+      "tituloLimpio": "Greg Brockman asume un rol ampliado en OpenAI",
+      "resumen": "OpenAI ha tenido un año difícil. La compañía pasó meses luchando contra el ex cofundador Elon Musk en un juicio, fue demandada por Apple por secretos comerciales y enfrentó escrutinio después de que un modelo no lanzado hackeara otra compañía de IA.",
+      "porQueImporta": "Los cambios en el liderazgo de OpenAI y los desafíos legales son importantes para entender la dirección de una de las principales empresas de IA, relevante para el trabajo de Guido.",
+      "publicadoEn": "2026-08-20T15:45:55.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "slack",
-        "colaboración",
         "ia",
-        "herramientas",
-        "automatización"
+        "openai",
+        "negocios"
       ],
       "tambienVistoEn": []
     },
@@ -321,41 +263,57 @@
       "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
       "categoria": "AI",
       "fuente": "MIT Technology Review AI",
-      "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-      "tituloOriginal": "Unlocking hidden revenue streams with market models",
-      "tituloLimpio": "Desbloqueando Fuentes de Ingresos Ocultas con Modelos de Mercado",
-      "resumen": "Cada día, una aerolínea transporta decenas de miles de pasajeros en cientos de vuelos. A menudo, estas no son rutas directas, y los pasajeros requieren múltiples conexiones. La aerolínea puede considerar potencialmente cientos de variables para fijar el precio de cada uno de estos viajes: demanda, temporada, hora del día, eventos actuales, mercados globales y competencia.",
-      "porQueImporta": "Interesante para Guido por su interés en IA aplicada y negocios, ya que explora cómo los modelos de mercado pueden identificar oportunidades de monetización y optimización de precios.",
-      "publicadoEn": "2026-08-20T09:47:22.000Z",
+      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "tituloOriginal": "Debates over AI consciousness are a trap",
+      "tituloLimpio": "Los debates sobre la conciencia de la IA son una trampa",
+      "resumen": "La retórica actual sugiere que los agentes de IA son conscientes y enojados. Líderes tecnológicos impulsan la regulación de estos sistemas, mientras que otra facción se opone.",
+      "porQueImporta": "Es importante para Guido entender cómo se enmarcan los debates sobre la IA, para enfocarse en aplicaciones prácticas y evitar distracciones especulativas.",
+      "publicadoEn": "2026-08-20T15:42:39.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "ia",
-        "negocios",
-        "ingresos",
-        "modelos de mercado",
-        "optimización"
+        "etica",
+        "debate"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Apple",
-      "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/08/20/samsung-and-apple-are-now-neck-and-neck-in-europes-declining-smartphone-market?utm_source=rss",
-      "tituloOriginal": "Samsung and Apple are now neck and neck in Europe's declining smartphone market",
-      "tituloLimpio": "Samsung y Apple Están Empatados en el Declive del Mercado de Smartphones en Europa",
-      "resumen": "Las ventas europeas de smartphones han alcanzado un nuevo mínimo de tres años, pero el iPhone de Apple ha aumentado su cuota para empatar con Samsung.",
-      "porQueImporta": "Relevante para Guido como usuario de Apple y por su interés en tendencias de mercado, mostrando la posición competitiva de Apple en un mercado en declive.",
-      "publicadoEn": "2026-08-20T11:46:45.000Z",
-      "globalScore": 100,
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/20/macbook-ultra-is-coming-six-new-features-launching-this-fall/",
+      "tituloOriginal": "MacBook Ultra is coming: Six new features launching this fall",
+      "tituloLimpio": "Seis nuevas características esperadas para el MacBook Ultra que se lanzaría este otoño",
+      "resumen": "Apple tiene un nuevo MacBook Ultra que se rumorea que se lanzará este otoño como parte de su línea 'Ultra' en expansión. Aquí hay seis nuevas características esperadas con el MacBook Ultra.",
+      "porQueImporta": "Guido, como usuario de Apple, se beneficiará de conocer las posibles novedades de un producto de alta gama como el MacBook Ultra, que podría impactar su flujo de trabajo.",
+      "publicadoEn": "2026-08-20T16:18:00.000Z",
+      "globalScore": 96,
       "personalScore": 100,
       "tags": [
         "apple",
-        "samsung",
-        "smartphones",
+        "macbook",
+        "lanzamiento"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-threat-walmart-stock-wmt/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Stock Market Today: Dow Off On 'Economic D-Day' Threat; These Oil Stocks, ETFs Catch Fire (Live Coverage)",
+      "tituloLimpio": "Mercado de valores hoy: Dow baja por amenaza de 'Día D económico'; acciones y ETFs de petróleo se encienden",
+      "resumen": "",
+      "porQueImporta": "Guido, interesado en ETFs y mercados, necesita estar al tanto de los movimientos diarios del mercado de valores y los factores que los influyen.",
+      "publicadoEn": "2026-08-20T16:51:22.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/0ca81e6508f802ce0781c7e21939a763.jpg",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
         "mercado",
-        "europa"
+        "etfs"
       ],
       "tambienVistoEn": []
     },
@@ -363,21 +321,19 @@
       "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
       "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/web3/2026/08/20/optimism-funded-team-s-deciding-vote-shifts-usd49-million-in-op-tokens-away-from-users",
-      "tituloOriginal": "Optimism-funded team's deciding vote shifts $49 million in OP tokens away from users",
-      "tituloLimpio": "Voto Decisivo de Equipo Financiado por Optimism Desvía $49 Millones en Tokens OP de Usuarios",
-      "resumen": "El plan aprobado reasigna 546.9 millones de OP de airdrops de usuarios a un Fondo Estratégico del Ecosistema controlado por la Fundación.",
-      "porQueImporta": "Importante para Guido si tiene inversiones en criptomonedas o sigue el mercado, ya que muestra movimientos significativos en la asignación de tokens y la gobernanza de proyectos.",
-      "publicadoEn": "2026-08-20T12:00:25.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/060af3ed3f5d2b59c0f5e667dc87bfe6c68907fc-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "globalScore": 96,
+      "url": "https://www.coindesk.com/markets/2026/08/20/treasury-buybacks-could-set-up-bitcoin-s-next-move-toward-usd180-000",
+      "tituloOriginal": "Treasury buybacks could set up Bitcoin’s next move toward $180,000, says strategist",
+      "tituloLimpio": "Las recompras del Tesoro podrían impulsar el próximo movimiento de Bitcoin hacia los $180.000, según estratega",
+      "resumen": "El inversor del mercado de bonos Mark Connors ve que las recompras rutinarias de bonos del gobierno mejoran la liquidez y acercan el próximo repunte de bitcoin.",
+      "porQueImporta": "Una perspectiva sobre el futuro de Bitcoin es relevante para Guido, quien invierte en ETFs y mercados, y busca entender los factores que influyen en las criptomonedas.",
+      "publicadoEn": "2026-08-20T16:17:32.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/bea6e36a9c3235f583f5960c57adaaa640180fd5-4858x3239.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 92,
       "personalScore": 100,
       "tags": [
+        "bitcoin",
         "finanzas",
-        "criptomonedas",
-        "optimism",
-        "tokens",
-        "inversión"
+        "inversion"
       ],
       "tambienVistoEn": []
     },
@@ -385,21 +341,19 @@
       "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
       "categoria": "Finance",
       "fuente": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/cybersecurity-unveils-crypto-phishing-885000-phone-numbers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "tituloOriginal": "Cybersecurity firm unveils crypto phishing campaign targeting 885,000 phone numbers",
-      "tituloLimpio": "Firma de Ciberseguridad Revela Campaña de Phishing de Criptomonedas Dirigida a 885.000 Números de Teléfono",
-      "resumen": "Rapid7 reveló una nueva campaña de phishing de criptomonedas dirigida a 885.000 números de teléfono, con el objetivo de robar las tenencias de los inversores redirigiéndolos a sitios web falsos de proveedores de billeteras.",
-      "porQueImporta": "Alerta importante para Guido por su interés en inversión, especialmente en criptomonedas, destacando un riesgo de seguridad significativo.",
-      "publicadoEn": "2026-08-20T12:35:32.000Z",
-      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-crypto-money-mule-scam-and-how-to-avoid-it.jpg",
+      "url": "https://cointelegraph.com/news/bitcoin-miners-ai-hpc-capex-revenue-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Bitcoin miners pour billions into AI as capex outpaces revenue 15-to-1",
+      "tituloLimpio": "Mineros de Bitcoin invierten miles de millones en IA, con gastos de capital superando los ingresos",
+      "resumen": "Nueve mineros públicos generaron 341 millones de dólares de operaciones de IA y HPC en la primera mitad de 2026 después de gastar más de 5 mil millones de dólares en activos de capital.",
+      "porQueImporta": "Esta noticia muestra una tendencia de inversión en IA dentro del sector de las criptomonedas, relevante para Guido por su interés en finanzas e IA aplicada.",
+      "publicadoEn": "2026-08-20T16:12:00.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-eu-vote-on-bitcoin-mining2.jpg",
       "globalScore": 90,
       "personalScore": 100,
       "tags": [
-        "ciberseguridad",
-        "criptomonedas",
-        "phishing",
-        "seguridad",
-        "inversión"
+        "bitcoin",
+        "ia",
+        "inversion"
       ],
       "tambienVistoEn": []
     },
@@ -407,86 +361,19 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-jueves-20-agosto_0_TI8nh3SjG6.html",
-      "tituloOriginal": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este jueves 20 de agosto",
-      "tituloLimpio": "Dólar Hoy: Cotización del Oficial y Diferentes Tipos de Cambio este Jueves 20 de Agosto",
-      "resumen": "Desde el oficial hasta el blue y el turista, todos los tipos de cambio. Mirá la cotización minuto a minuto.",
-      "porQueImporta": "Información esencial para Guido como residente en Argentina, ya que el valor del dólar impacta directamente en su economía personal y decisiones de inversión.",
-      "publicadoEn": "2026-08-20T12:00:02.000Z",
-      "imagen": "https://www.clarin.com/img/2020/03/04/XTskgx7L_1200x630__1.jpg",
-      "globalScore": 94,
+      "url": "https://www.clarin.com/economia/aeroparque-cierra-obras-convertirse-principal-aeropuerto-argentina-tiempo-pasa-vuelos_0_MOPRLJXaLk.html",
+      "tituloOriginal": "Aeroparque cierra por obras tras convertirse en el principal aeropuerto de la Argentina: por cuánto tiempo y qué pasa con los vuelos",
+      "tituloLimpio": "Aeroparque cierra por obras tras convertirse en el principal aeropuerto de Argentina",
+      "resumen": "Aeroparque desplazó en 2025 a Ezeiza en cantidad de pasajeros movilizados. El concesionario, Aeropuertos Argentina, encara reformas con una inversión de más de US$ 80 millones. Las aerolíneas adaptaron sus programaciones y una parte de las operaciones se moverá a Ezeiza.",
+      "porQueImporta": "El cierre de Aeroparque por obras y su impacto en los vuelos es una noticia importante para la logística y el transporte en Argentina, afectando a viajeros y la economía local.",
+      "publicadoEn": "2026-08-20T15:55:30.000Z",
+      "imagen": "https://www.clarin.com/img/2026/08/20/7EXwpCDsM_1200x630__1.jpg",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "dólar",
-        "economía",
-        "cotización",
-        "finanzas"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
-      "categoria": "Argentina",
-      "fuente": "Clarin Politica",
-      "url": "https://www.clarin.com/politica/alejandra-monteoliva-dio-pistas-lugares-visitara-leon-xiv-visita-argentina_0_zTOw2lrcFi.html",
-      "tituloOriginal": "Alejandra Monteoliva dio pistas de los lugares que visitará León XIV en su visita a la Argentina",
-      "tituloLimpio": "Alejandra Monteoliva Dio Pistas de los Lugares que Visitará León XIV en su Visita a la Argentina",
-      "resumen": "El Papa llegará al país el 8 de noviembre y pasará por la ciudad y la provincia de Buenos Aires, y Córdoba. Se espera que de al menos tres misas, una en cada distrito.",
-      "porQueImporta": "Noticia de interés general en Argentina, que puede tener un impacto en la logística y el ambiente social del país.",
-      "publicadoEn": "2026-08-20T12:24:35.000Z",
-      "imagen": "https://www.clarin.com/img/2026/08/19/CqpC8WcaW_1200x630__1.jpg",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "argentina",
-        "política",
-        "sociedad",
-        "visita papal"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
-      "categoria": "Argentina",
-      "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/america/the-new-york-times/2026/08/20/estados-unidos-esta-a-punto-de-volverse-mas-caro/",
-      "tituloOriginal": "Estados Unidos está a punto de volverse más caro",
-      "tituloLimpio": "Estados Unidos Está a Punto de Volverse Más Caro",
-      "resumen": "El reordenamiento económico sugiere que los altos costos de endeudamiento serán mucho menos sensibles a las dinámicas tradicionales que han estabilizado los mercados en el pasado.",
-      "porQueImporta": "Aunque no es una noticia directa de Argentina, el aumento de costos en EE.UU. y las dinámicas de endeudamiento pueden influir en los mercados globales y, por ende, en las inversiones de Guido.",
-      "publicadoEn": "2026-08-20T12:44:51.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/RHKJKFG74FC4BGTMJYHTHLINEE.jpg?auth=517411cde0997e713b536def83518e85f8c333cd5ed69977b5c490426f8ee499&smart=true&width=1280&height=736",
-      "globalScore": 90,
-      "personalScore": 100,
-      "tags": [
-        "estados unidos",
-        "economía",
-        "endeudamiento",
-        "mercados",
-        "finanzas"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
-      "categoria": "Argentina",
-      "fuente": "Infobae Politica",
-      "url": "https://www.infobae.com/politica/2026/08/20/marcha-de-la-cgt-y-los-movimientos-sociales-contra-el-endeudamiento-familiar-hora-convocatoria-y-cortes-de-calle/",
-      "tituloOriginal": "Marcha de la CGT y los movimientos sociales contra el endeudamiento familiar: hora, convocatoria y cortes de calle",
-      "tituloLimpio": "Marcha de la CGT y Movimientos Sociales Contra el Endeudamiento Familiar",
-      "resumen": "La Confederación General del Trabajo, la Unión de Trabajadores de la Economía Popular y las dos CTA protestarán en el centro porteño con duras críticas al gobierno de Javier Milei.",
-      "porQueImporta": "Noticia relevante para Guido por su residencia en Argentina, ya que refleja el clima social y político del país, con posibles impactos en la economía y la vida cotidiana.",
-      "publicadoEn": "2026-08-20T11:41:44.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/4EW6BIEJENDIJMHVI4YMWU3SFE.jpeg?auth=c05afdf873fb9442951d070a0f0e6b0b0685febdff43e1b69c857e08d75da54b&smart=true&width=1920&height=1080",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "argentina",
-        "política",
-        "sociedad",
-        "endeudamiento",
-        "protesta"
+        "infraestructura",
+        "transporte"
       ],
       "tambienVistoEn": []
     },
@@ -494,27 +381,25 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/una-de-las-principales-camaras-empresariales-admitio-que-hay-empresas-que-la-estan-pasando-mal-pero-nid20082026/",
-      "tituloOriginal": "Una de las principales cámaras empresariales admitió que “hay empresas que la están pasando mal” pero defendió el rumbo económico en el Council of the Americas",
-      "tituloLimpio": "Cámara Empresarial Admitió que \"Hay Empresas que la Están Pasando Mal\" pero Defendió el Rumbo Económico",
-      "resumen": "Mario Grinman, presidente de la Cámara Argentina de Comercio y Servicios, abrió por 23º año consecutivo el foro empresarial en el Hotel Alvear con un discurso centrado en el ejercicio de la libertad y sus costos económicos.",
-      "porQueImporta": "Complementa la noticia de Ámbito sobre las declaraciones de Grinman, ofreciendo una perspectiva más profunda sobre la situación económica y el apoyo al rumbo actual del gobierno en Argentina.",
-      "publicadoEn": "2026-08-20T12:43:00.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/XV4K3FJ43NGYXCEBLNES4EN2UQ.png?auth=0d4b39e0ba5b362e73afa229d0ef069b5a895eb3b66eee3fee98895b4e5c9fca&smart=true&width=1360&height=910",
-      "globalScore": 100,
+      "url": "https://www.lanacion.com.ar/economia/plazo-fijo-cual-es-la-tasa-de-interes-banco-por-banco-este-jueves-20-de-agosto-nid20082026/",
+      "tituloOriginal": "Plazo fijo: cuál es la tasa de interés banco por banco este jueves 20 de agosto",
+      "tituloLimpio": "Plazo fijo: cuál es la tasa de interés banco por banco este jueves 20 de agosto",
+      "resumen": "El Banco Central de la República Argentina (BCRA) permite a los ahorristas conocer el rendimiento de estos instrumentos de inversión en pesos con una tabla comparativa de tasas.",
+      "porQueImporta": "Información clave para inversores en Argentina, permitiendo comparar tasas de interés de plazos fijos y tomar decisiones financieras informadas.",
+      "publicadoEn": "2026-08-20T16:39:43.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/LQUY5DXZXFFL5PBXW6BC7UIUDI.JPG?auth=779e4b00a99100f0a46e95ff472de9277b0d71cd7e023f44ee94869e7e24e7bd&smart=true&width=2000&height=1333",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "economía",
-        "empresas",
-        "política",
-        "council of the americas"
+        "finanzas",
+        "inversion"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-08-20T12:53:59.056Z"
+    "generadoEn": "2026-08-20T17:28:22.868Z"
   }
 }
