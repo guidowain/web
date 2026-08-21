@@ -1,0 +1,500 @@
+{
+  "fecha": "2026-08-21",
+  "generadoEn": "2026-08-21T12:52:56.850Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "El mercado de bonos de EE.UU. muestra tensión, mientras que en Argentina, la industria láctea está concentrada en pocas empresas. En el ámbito tecnológico, Apple despidió empleados del grupo Vision Products, y Google está integrando IA en su feed Discover. La demanda de datos para entrenamiento de IA sigue en auge. Además, se discute el impacto de la IA en la conciencia y se reportan rumores sobre AirPods con cámaras.",
+  "radarPersonal": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Apple habría despedido a 60 empleados del grupo Vision Products",
+      "resumen": "Apple habría despedido a un equipo dedicado al desarrollo de realidad virtual, con al menos 60 empleados afectados del Apple Vision Group.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/08/21/apple-lays-off-vision-products-employees/"
+      ],
+      "score": 100,
+      "tags": [
+        "apple",
+        "despidos",
+        "vision pro",
+        "realidad virtual"
+      ]
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "Google Discover incorporará un feed ajustado por chatbot de IA",
+      "resumen": "Google permitirá personalizar el feed de Discover describiendo lo que se quiere ver, usando IA para ajustar el feed y recordar preferencias futuras.",
+      "categoria": "AI",
+      "fuentes": [
+        "The Verge AI"
+      ],
+      "urls": [
+        "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed"
+      ],
+      "score": 100,
+      "tags": [
+        "google",
+        "discover",
+        "ia",
+        "personalización"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "La startup de datos de IA Micro1 alcanza una tasa de ejecución bruta de 500 millones de dólares en medio del auge del entrenamiento de IA",
+      "resumen": "La creciente demanda de datos para el entrenamiento de IA está impulsando un rápido crecimiento para la startup y sus competidores.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/"
+      ],
+      "score": 100,
+      "tags": [
+        "ia",
+        "datos",
+        "startup",
+        "crecimiento"
+      ]
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "titulo": "Standard Chartered duda sobre su pronóstico de Bitcoin a 100 mil dólares para fin de año, dice que podría ser 'demasiado bajo'",
+      "resumen": "Geoff Kendrick de Standard Chartered dijo que Bitcoin podría acercarse a su máximo histórico de 126 mil dólares después del 6 de octubre, a medida que se recuperan las entradas de ETF de Bitcoin al contado.",
+      "categoria": "Finance",
+      "fuentes": [
+        "CoinTelegraph"
+      ],
+      "urls": [
+        "https://cointelegraph.com/news/standard-chartered-100k-bitcoin-2026-prediction-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      ],
+      "score": 100,
+      "tags": [
+        "bitcoin",
+        "inversión",
+        "pronóstico",
+        "etf"
+      ]
+    }
+  ],
+  "loImportante": [
+    "Apple despidió empleados de su grupo Vision Products, lo que podría indicar un reajuste en su estrategia de desarrollo de realidad virtual.",
+    "Google está integrando IA en su feed Discover, permitiendo una personalización más avanzada para los usuarios.",
+    "La demanda de datos para el entrenamiento de IA está generando un crecimiento significativo en startups del sector.",
+    "La tensión en los bonos de EE.UU. persiste, a pesar de los intentos de calmar los mercados.",
+    "En Argentina, la industria láctea muestra una alta concentración en pocas empresas."
+  ],
+  "oportunidades": [
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "titulo": "Auge en la demanda de datos para entrenamiento de IA",
+      "detalle": "La startup Micro1 está experimentando un crecimiento rápido debido a la alta demanda de datos para entrenar modelos de IA. Esto sugiere un mercado en expansión para servicios y herramientas relacionados con la preparación y gestión de datos para IA.",
+      "acciones": [
+        "Explorar herramientas de automatización para la curación y etiquetado de datos de IA.",
+        "Investigar oportunidades de inversión en empresas que proveen infraestructura o servicios de datos para IA."
+      ]
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "titulo": "Personalización de feeds con IA en Google Discover",
+      "detalle": "Google permitirá a los usuarios personalizar su feed de Discover con descripciones, utilizando IA para ajustar el contenido. Esto abre nuevas vías para el marketing y la creación de contenido dirigido.",
+      "acciones": [
+        "Analizar cómo esta nueva funcionalidad puede impactar las estrategias de contenido y SEO.",
+        "Experimentar con la creación de contenido optimizado para feeds personalizados por IA."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Market",
+      "titulo": "Volatilidad en los bonos de EE.UU.",
+      "detalle": "A pesar de los intentos de calmar los mercados, la tensión y la volatilidad persisten en los bonos de EE.UU. Esto puede generar incertidumbre en los mercados financieros globales.",
+      "mitigacion": "Monitorear de cerca los mercados de bonos y diversificar las inversiones para mitigar el riesgo de volatilidad."
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Technology",
+      "titulo": "Despidos en el grupo Vision Products de Apple",
+      "detalle": "Apple despidió a 60 empleados de su equipo de desarrollo de realidad virtual. Esto podría indicar desafíos o un cambio de dirección en el desarrollo de productos de realidad virtual/aumentada de Apple.",
+      "mitigacion": "Mantenerse informado sobre los desarrollos de Apple en AR/VR y evaluar el impacto en el ecosistema de aplicaciones y herramientas."
+    }
+  ],
+  "conexiones": [
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "titulo": "El debate sobre la conciencia de la IA es una trampa",
+      "historias": [
+        "macstories-aHR0cHM6Ly93d3cubWFj",
+        "the-verge-ai-aHR0cHM6Ly93d3cudGhl"
+      ],
+      "conclusion": "Mientras se debate la conciencia de la IA, la tecnología sigue avanzando con aplicaciones prácticas como la personalización de feeds en Google Discover y la definición de 'agente harness'. Es importante enfocarse en el desarrollo y uso ético de la IA, más allá de las discusiones filosóficas."
+    }
+  ],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "tituloOriginal": "5 new ways to level up your learning with Search",
+      "tituloLimpio": "Cinco nuevas formas de mejorar el aprendizaje con la búsqueda de Google",
+      "resumen": "Así se pueden usar las herramientas de búsqueda de Google para estudiar para clases y exámenes estandarizados.",
+      "porQueImporta": "Guido, como profesional que busca herramientas y eficiencia, puede encontrar útiles estas nuevas funciones de Google Search para el aprendizaje o la investigación, aplicando la IA para mejorar sus procesos.",
+      "publicadoEn": "2026-08-19T19:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "google",
+        "ia",
+        "aprendizaje",
+        "herramientas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/08/21/apple-lays-off-vision-products-employees/",
+      "tituloOriginal": "Apple Reportedly Lays Off 60 Vision Products Group Employees",
+      "tituloLimpio": "Apple habría despedido a 60 empleados del grupo Vision Products",
+      "resumen": "Apple habría despedido a un equipo dedicado al desarrollo de realidad virtual, con al menos 60 empleados afectados del Apple Vision Group.",
+      "porQueImporta": "Esta noticia es relevante para Guido por su interés en Apple y la IA aplicada. Los despidos en un área clave como Vision Products podrían indicar un cambio de estrategia o desafíos en el desarrollo de productos de realidad virtual/aumentada de Apple.",
+      "publicadoEn": "2026-08-21T11:28:57.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "despidos",
+        "vision pro",
+        "realidad virtual"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/tension-los-bonos-eeuu-scott-bessent-intenta-llevar-calma-los-mercados-pero-la-volatilidad-sigue-n6313245",
+      "tituloOriginal": "Tensión por los bonos de EEUU: Scott Bessent intenta llevar calma a los mercados, pero la volatilidad sigue",
+      "tituloLimpio": "Tensión por los bonos de EE.UU.: Scott Bessent intenta llevar calma a los mercados, pero la volatilidad sigue",
+      "resumen": "Menos de 24 horas después de anunciar que duplicará el volumen de sus recompras de deuda, el secretario del Tesoro de Estados Unidos se vio obligado a declarar nuevamente, afirmando que el tope de recompras anunciado no es un techo y que podría ampliarse.",
+      "porQueImporta": "Guido, interesado en inversiones y mercados, debe estar al tanto de la volatilidad en los bonos de EE.UU., ya que puede impactar los mercados globales y sus propias decisiones de inversión.",
+      "publicadoEn": "2026-08-21T12:01:00.000Z",
+      "globalScore": 86,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "bonos",
+        "eeuu",
+        "mercados",
+        "volatilidad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/ann-taylor-stages-a-brand-comeback-with-substack-fall-fashion-blitz/828397/",
+      "tituloOriginal": "Ann Taylor stages a brand comeback with Substack, fall fashion blitz",
+      "tituloLimpio": "Ann Taylor busca un regreso de marca con Substack y una campaña de moda de otoño",
+      "resumen": "La primera gran campaña integrada de la marca en casi una década sigue a iniciativas centradas en fomentar una comunidad de fans, como un boletín editorial.",
+      "porQueImporta": "Para Guido, que se interesa en marketing, este es un ejemplo de cómo una marca establecida intenta revitalizarse usando plataformas como Substack y estrategias de comunidad, lo que puede ofrecer ideas para sus propios proyectos o clientes.",
+      "publicadoEn": "2026-08-21T12:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "marca",
+        "substack",
+        "estrategia"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+      "tituloOriginal": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+      "tituloLimpio": "La startup de datos de IA Micro1 alcanza una tasa de ejecución bruta de 500 millones de dólares en medio del auge del entrenamiento de IA",
+      "resumen": "La creciente demanda de datos para el entrenamiento de IA está impulsando un rápido crecimiento para la startup y sus competidores.",
+      "porQueImporta": "Guido, interesado en IA aplicada, debe saber que el sector de datos para entrenamiento de IA está en auge, lo que puede generar oportunidades de negocio o inversión en este nicho.",
+      "publicadoEn": "2026-08-21T00:13:44.000Z",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "datos",
+        "startup",
+        "crecimiento"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+      "tituloOriginal": "Google Discover is getting an AI chatbot-tuned feed",
+      "tituloLimpio": "Google Discover incorporará un feed ajustado por chatbot de IA",
+      "resumen": "Google pronto permitirá personalizar el feed de Discover describiendo lo que se quiere ver. La nueva función, que se lanzará en la aplicación de Google en los 'próximos días', usará IA para ajustar automáticamente el feed y 'recordar' las preferencias para futuras visitas.",
+      "porQueImporta": "Esta es una noticia clave para Guido por su interés en IA y herramientas. La personalización de feeds con IA en Google Discover puede cambiar la forma en que se consume contenido y ofrecer nuevas vías para estrategias de marketing y visibilidad.",
+      "publicadoEn": "2026-08-20T21:50:22.000Z",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "google",
+        "ia",
+        "personalización",
+        "herramientas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "tituloOriginal": "Debates over AI consciousness are a trap",
+      "tituloLimpio": "Los debates sobre la conciencia de la IA son una trampa",
+      "resumen": "La retórica actual sugiere que los agentes de IA no solo están despiertos y conscientes, sino enojados con sus creadores. Líderes tecnológicos prominentes impulsan la regulación de estos sistemas 'superhumanos', mientras que otra facción se opone.",
+      "porQueImporta": "Para Guido, que trabaja con IA, es importante entender las narrativas y debates alrededor de la conciencia de la IA, para discernir entre la especulación y los avances prácticos, y cómo esto puede influir en la percepción pública y la regulación del sector.",
+      "publicadoEn": "2026-08-20T15:42:39.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "ética",
+        "debate",
+        "regulación"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/21/the-camera-i-always-have-with-me-keeps-paying-dividends/",
+      "tituloOriginal": "The camera I always have with me keeps paying dividends",
+      "tituloLimpio": "La cámara que siempre tengo conmigo sigue dando frutos",
+      "resumen": "Hay un viejo dicho en fotografía que dice que la mejor cámara es la que se tiene encima en ese momento. El iPhone es la cámara que la mayoría de nosotros tiene encima la mayor parte del tiempo, y eso es un beneficio enorme para fotos de niños, eventos sociales, etc. Pero un proyecto de video actual destacó otra ventaja.",
+      "porQueImporta": "Como retocador fotográfico y usuario de Apple, Guido puede apreciar este recordatorio sobre la versatilidad y calidad de la cámara del iPhone, que sigue siendo una herramienta fundamental para la captura de imágenes y video en el día a día.",
+      "publicadoEn": "2026-08-21T12:45:11.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "iphone",
+        "fotografía",
+        "herramientas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/08/21/airpods-with-cameras-leak-apple-maps-ads-siri-ai-on-the-appleinsider-podcast?utm_source=rss",
+      "tituloOriginal": "AirPods with cameras leak, Apple Maps ads, & Siri AI on the AppleInsider Podcast",
+      "tituloLimpio": "Rumores de AirPods con cámaras, anuncios en Apple Maps y Siri AI en el podcast de AppleInsider",
+      "resumen": "Apple filtró accidentalmente números de identificación de gran parte de su próxima línea de productos, los rumores de AirPods con cámaras desatan un nuevo debate sobre la privacidad, y Siri AI obtiene artículos asociados en el podcast de AppleInsider.",
+      "porQueImporta": "Guido, como usuario de Apple, encontrará interesantes los rumores sobre AirPods con cámaras, ya que esto podría cambiar la interacción con el ecosistema Apple y plantear nuevas consideraciones sobre privacidad y uso de la tecnología.",
+      "publicadoEn": "2026-08-21T12:23:27.000Z",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "airpods",
+        "cámaras",
+        "rumores",
+        "privacidad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/linked/defining-an-agent-harness/",
+      "tituloOriginal": "Defining an “Agent Harness”",
+      "tituloLimpio": "Definiendo un 'Agent Harness'",
+      "resumen": "Recientemente me pidieron que explicara qué es un 'agent harness'. Me di cuenta de que era uno de esos conceptos que podía entender intuitivamente pero no articular del todo. Afortunadamente, otras personas lo han explicado mejor que yo.",
+      "porQueImporta": "Para Guido, que trabaja con IA y herramientas, entender conceptos como 'agent harness' es crucial para comprender la arquitectura y el funcionamiento de sistemas de IA más complejos y cómo se integran en flujos de trabajo.",
+      "publicadoEn": "2026-08-20T23:57:27.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "conceptos",
+        "herramientas",
+        "automatización"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/08/21/coldcard-ships-firmware-after-usd114-million-bitcoin-theft-says-ai-helped-catch-more-bugs",
+      "tituloOriginal": "Coldcard ships firmware after $114 million bitcoin theft; says AI helped catch more bugs",
+      "tituloLimpio": "Coldcard lanza firmware después de un robo de Bitcoin de 114 millones de dólares; dice que la IA ayudó a encontrar más errores",
+      "resumen": "Tres semanas de revisión revelaron problemas no relacionados con la falla que costó a los usuarios 114 millones de dólares, pero la actualización aún no hace que una billetera comprometida sea segura.",
+      "porQueImporta": "Guido, interesado en finanzas y tecnología, puede ver cómo la IA se utiliza en la seguridad de criptomonedas, incluso después de incidentes graves. Esto resalta la importancia de la ciberseguridad y el rol de la IA en la detección de vulnerabilidades.",
+      "publicadoEn": "2026-08-21T12:10:55.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/17e2199d1d92db776ca604acd66f78a2a5052896-1754x804.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "bitcoin",
+        "seguridad",
+        "ia",
+        "criptomonedas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/standard-chartered-100k-bitcoin-2026-prediction-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Standard Chartered wavers on $100K Bitcoin year-end call, says it may be ‘too low’",
+      "tituloLimpio": "Standard Chartered duda sobre su pronóstico de Bitcoin a 100 mil dólares para fin de año, dice que podría ser 'demasiado bajo'",
+      "resumen": "Geoff Kendrick de Standard Chartered dijo que Bitcoin podría acercarse a su máximo histórico de 126 mil dólares después del 6 de octubre, a medida que se recuperan las entradas de ETF de Bitcoin al contado.",
+      "porQueImporta": "Para Guido, que invierte en ETFs y mercados, las proyecciones sobre Bitcoin y las entradas de ETFs son información clave para evaluar el potencial de este activo digital y su impacto en el panorama financiero.",
+      "publicadoEn": "2026-08-21T11:58:10.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-raiffeisen-is-at-100k-are-such-targets-realistic-1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "bitcoin",
+        "inversión",
+        "etf",
+        "mercados"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/ranking-industria-lactea-5-empresas-concentran-36-produccion-cooperativas-apenas-3-firmas-participan-mercado_0_VnGXZ2ymG1.html",
+      "tituloOriginal": "Ranking de la industria láctea: 5 empresas concentran el 36% de la producción, las cooperativas apenas el 3% y hay firmas que ya no participan del mercado",
+      "tituloLimpio": "Ranking de la industria láctea: 5 empresas concentran el 36% de la producción, las cooperativas apenas el 3% y hay firmas que ya no participan del mercado",
+      "resumen": "Saputo, La Serenísima y Savencia ocupan el podio. Las dos primeras empresas tienen nuevos dueños. Lácteos Verónica ya no integra el conteo, mientras La Suipachense podría volver a aparecer el año que viene.",
+      "porQueImporta": "Como residente en Argentina, Guido puede interesarse en la concentración de la industria láctea, un sector clave de la economía local. Esto puede influir en precios, disponibilidad y tendencias del mercado interno.",
+      "publicadoEn": "2026-08-21T11:22:27.000Z",
+      "imagen": "https://www.clarin.com/img/2015/09/14/H1c5ZZJVx_1200x630.jpg",
+      "globalScore": 86,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "economía",
+        "industria",
+        "lácteos"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/javier-milei-medidas-vivo-hora-discurso-presidente-bolsa-comercio-rosario_0_yuSKzEr5GU.html",
+      "tituloOriginal": "Javier Milei y sus medidas, EN VIVO: a qué hora será el discurso del Presidente en la Bolsa de Comercio de Rosario",
+      "tituloLimpio": "Javier Milei dará un discurso en la Bolsa de Comercio de Rosario",
+      "resumen": "Tras su explosivo mensaje en el Council of the Americas, el jefe de Estado irá esta tarde a esa ciudad santafesina en un acto por el 142° aniversario de la entidad.",
+      "porQueImporta": "Para Guido, como ciudadano argentino, es relevante estar al tanto de los discursos y apariciones del presidente, especialmente en foros económicos, para entender las posibles direcciones de la política económica y su impacto en el país.",
+      "publicadoEn": "2026-08-21T10:44:07.000Z",
+      "imagen": "https://www.clarin.com/img/2026/06/20/EOAT0zBDG_1200x630__1.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "política",
+        "economía",
+        "milei"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/estados-unidos/2026/08/21/donald-trump-anuncio-la-suspension-temporal-de-aranceles-a-la-importacion-de-carne-molida/",
+      "tituloOriginal": "Donald Trump anunció la suspensión temporal de aranceles a la importación de carne molida",
+      "tituloLimpio": "Donald Trump anunció la suspensión temporal de aranceles a la importación de carne molida",
+      "resumen": "El presidente de Estados Unidos indicó que la medida permitirá el ingreso sin gravámenes de hasta 300.000 toneladas durante los próximos 90 días.",
+      "porQueImporta": "Aunque es una medida de EE.UU., tiene un impacto global. Para Guido, esta noticia es relevante porque la suspensión de aranceles a la carne puede influir en los precios internacionales y, potencialmente, en las exportaciones argentinas de carne.",
+      "publicadoEn": "2026-08-21T12:39:59.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/RSAKOSUF2FBSBH4MY5PCK5SJZA.jpg?auth=078c6b95d12e14a452ec2fcb05f214128e4df134971f4bf32e8728231d700df0&smart=true&width=4051&height=2701",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "eeuu",
+        "comercio",
+        "carne",
+        "aranceles",
+        "global"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/08/21/la-hora-de-los-outsiders-milei-entre-la-inquietud-y-la-tension-por-los-nuevos-jugadores/",
+      "tituloOriginal": "¿La hora de los “outsiders”? Milei, entre la inquietud y la tensión por los nuevos jugadores",
+      "tituloLimpio": "La hora de los “outsiders”: Milei, entre la inquietud y la tensión por los nuevos jugadores",
+      "resumen": "El Gobierno mira con atención a un trío de apellidos que coquetean con la idea de presentarse en las elecciones de 2027. El pastor que planea llenar un estadio. El banquero que juega al silencio mientras hace cuentas. El empresario que ya mandó a hacer sondeos y se puso una fecha límite.",
+      "porQueImporta": "Como ciudadano argentino, Guido puede interesarse en el panorama político y la aparición de nuevos actores, ya que esto puede influir en el futuro del país y en las políticas económicas que afecten su vida y negocios.",
+      "publicadoEn": "2026-08-21T11:56:00.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/F2NTC53IAJBR3CXBFE33XDEK7A.JPG?auth=a5c5e9a03891ff4fd74ca7806a87e984d1ad6b9c48d54217112b6945cd7796f5&smart=true&width=5500&height=3668",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "política",
+        "elecciones",
+        "milei"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/campo/impacto-internacional-trump-anuncio-la-importacion-de-300000-toneladas-de-carne-sin-aranceles-nid21082026/",
+      "tituloOriginal": "Expectativa mundial: Trump anunció la importación de 300.000 toneladas de carne sin aranceles",
+      "tituloLimpio": "Expectativa mundial: Trump anunció la importación de 300.000 toneladas de carne sin aranceles",
+      "resumen": "El presidente de Estados Unidos comunicó la medida en redes para bajar el precio de este producto para la industria; el gobierno argentino busca precisiones mientras el sector sigue de cerca el impacto sobre las exportaciones.",
+      "porQueImporta": "Esta noticia es crucial para Guido por su impacto global y en Argentina. La decisión de Trump puede afectar directamente las exportaciones de carne argentina y los precios internos, un tema relevante para la economía del país.",
+      "publicadoEn": "2026-08-21T12:37:35.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/YAPXJOTP4ZF4TOEV7TORXE27H4.JPG?auth=69c2d90482ba1ba4a7c1cc30f3ce447a684d0b19275da0815596a7607f52ed11&smart=true&width=2016&height=1344",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "eeuu",
+        "comercio",
+        "carne",
+        "exportaciones"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-08-21T12:52:56.850Z"
+  }
+}
