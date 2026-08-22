@@ -1,13 +1,31 @@
 {
   "fecha": "2026-08-22",
-  "generadoEn": "2026-08-22T12:43:20.629Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "Hoy, las noticias giran en torno a la situación económica y política en Argentina, con la pérdida de empleos y la inflación como temas centrales. En el ámbito tecnológico, Apple enfrenta despidos y se revelan detalles sobre el nombre inicial de Vision Pro. La IA sigue generando debate sobre su conciencia y se descubren fallas en la moderación de contenido de Anthropic. También hay novedades sobre el uso de IA en marketing y herramientas de estudio de Google.",
+  "generadoEn": "2026-08-22T17:19:33.762Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "El mercado laboral privado en Argentina muestra una caída significativa, con la pérdida de más de 240.000 empleos asalariados desde noviembre de 2023, acercándose a los niveles de la crisis de Macri. Sin embargo, el consumo masivo moderó su caída en julio. En el ámbito tecnológico, Google presenta nuevas herramientas de búsqueda para el estudio, y LinkedIn reporta que más de un millón de usuarios han utilizado su botón para reportar contenido generado por IA. Apple enfrenta despidos que se extienden más allá de los equipos de Vision Pro, afectando también al equipo de Siri. En el sector financiero, el Bitcoin tuvo su mejor semana en tres años, con una suba del 22%.",
   "radarPersonal": [
     {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Google lanza 5 nuevas formas de mejorar el aprendizaje con su buscador",
+      "resumen": "Google presenta herramientas de búsqueda para estudiar para clases y exámenes estandarizados.",
+      "categoria": "AI",
+      "fuentes": [
+        "Google AI Blog"
+      ],
+      "urls": [
+        "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/"
+      ],
+      "score": 100,
+      "tags": [
+        "aprendizaje",
+        "búsqueda",
+        "herramientas"
+      ]
+    },
+    {
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "Con Milei se perdieron 241.020 empleos asalariados privados, camino a la crisis de Macri",
-      "resumen": "Actualmente hay 140.000 asalariados privados menos que en mayo de 2018, pero la baja desde noviembre de 2023 es similar a la que hubo entre mayo de 2018 y noviembre de 2019. En este marco, las contrataciones continúan en niveles mínimos y los despidos avanzan.",
+      "titulo": "Se perdieron 241.020 empleos asalariados privados en Argentina con el gobierno actual",
+      "resumen": "Actualmente hay 140.000 asalariados privados menos que en mayo de 2018, y la baja desde noviembre de 2023 es similar a la de 2018-2019. Las contrataciones están en mínimos y los despidos avanzan.",
       "categoria": "Argentina",
       "fuentes": [
         "Ambito"
@@ -18,93 +36,81 @@
       "score": 100,
       "tags": [
         "empleo",
-        "economia",
-        "argentina"
+        "economía",
+        "Argentina"
       ]
     },
     {
-      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
-      "titulo": "Los despidos de Apple se extienden más allá de los equipos de desarrollo de Vision Pro",
-      "resumen": "Un día después de que se diera a conocer la noticia de unos 60 despidos en el proyecto Apple Vision, se reportan más en el equipo de Siri también. Citing people familiar with the matter, the same as we did , Mark Gurman from Bloomberg has exposed more layoffs inside Apple. This time, beyond the Apple Vision team, Apple is also l",
-      "categoria": "Apple",
-      "fuentes": [
-        "AppleInsider"
-      ],
-      "urls": [
-        "https://appleinsider.com/articles/26/08/21/apples-latest-layoffs-extend-past-just-vision-pro-development-teams?utm_source=rss"
-      ],
-      "score": 100,
-      "tags": [
-        "apple",
-        "despidos",
-        "vision pro",
-        "siri"
-      ]
-    },
-    {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "titulo": "Los debates sobre la conciencia de la IA son una trampa",
-      "resumen": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” systems, while a separate faction, led by policy organizatio",
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "Más de un millón de personas usaron el botón de 'contenido IA' de LinkedIn",
+      "resumen": "LinkedIn anunció un botón para reportar contenido que 'parece generado por IA' y la compañía dice que más de un millón de personas ya lo usaron.",
       "categoria": "AI",
       "fuentes": [
-        "MIT Technology Review AI"
+        "The Verge AI"
       ],
       "urls": [
-        "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/"
+        "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message"
       ],
       "score": 100,
       "tags": [
-        "ia",
-        "conciencia",
-        "debate"
-      ]
-    },
-    {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "titulo": "Opus 4.6 de Anthropic es una máquina de contenido explícito",
-      "resumen": "Anthropic prohíbe a sus modelos Claude generar contenido sexualmente explícito. Pero una serie de pruebas realizadas por TechCrunch encontraron que no se necesitaba mucho para superar la restricción.",
-      "categoria": "AI",
-      "fuentes": [
-        "TechCrunch AI"
-      ],
-      "urls": [
-        "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/"
-      ],
-      "score": 100,
-      "tags": [
-        "ia",
-        "anthropic",
-        "claude",
+        "IA",
+        "LinkedIn",
         "contenido"
+      ]
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "titulo": "El Bitcoin cerró su mejor semana en tres años con una suba del 22%",
+      "resumen": "La criptomoneda terminó el viernes en torno a los USD 78.500, impulsada por el retorno del apetito por el riesgo global.",
+      "categoria": "Finance",
+      "fuentes": [
+        "Infobae Economia"
+      ],
+      "urls": [
+        "https://www.infobae.com/economia/2026/08/22/revivio-el-bitcoin-cerro-la-mejor-semana-en-tres-anos-con-una-suba-en-su-precio-del-22-por-ciento/"
+      ],
+      "score": 100,
+      "tags": [
+        "Bitcoin",
+        "criptomoneda",
+        "inversión"
+      ]
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "titulo": "La revolución tecnológica en el campo argentino: Pergamino no tiene nada que envidiarle a Iowa",
+      "resumen": "Un investigador fundamenta que Argentina tiene en el campo una actividad que transita una revolución técnica global.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Clarin Economia"
+      ],
+      "urls": [
+        "https://www.clarin.com/economia/revolucion-tecnologica-campo-pergamino-envidiarle-iowa_0_BnEPZ6FbaM.html"
+      ],
+      "score": 100,
+      "tags": [
+        "tecnología",
+        "campo",
+        "Argentina"
       ]
     }
   ],
   "loImportante": [
-    "La economía argentina muestra una pérdida significativa de empleos asalariados privados, alcanzando niveles similares a la crisis de Macri.",
-    "Apple está realizando despidos que afectan no solo a los equipos de Vision Pro, sino también al equipo de Siri.",
-    "El debate sobre la conciencia de la IA es considerado una trampa por expertos, desviando la atención de otros problemas.",
-    "Se descubrió que los modelos Claude de Anthropic pueden generar contenido sexualmente explícito a pesar de las restricciones.",
-    "LinkedIn reporta que más de un millón de personas han usado su botón para reportar contenido generado por IA de baja calidad."
+    "La pérdida de empleo asalariado privado en Argentina es un tema crítico, con una caída de 241.020 puestos desde noviembre de 2023, lo que impacta directamente en la economía local.",
+    "El Bitcoin experimentó su mejor semana en tres años, con un aumento del 22%, lo que puede indicar un renovado interés en las criptomonedas como inversión.",
+    "Google está lanzando nuevas herramientas de búsqueda enfocadas en el aprendizaje, lo que podría ser útil para la investigación y el desarrollo de habilidades.",
+    "LinkedIn reporta que más de un millón de usuarios han utilizado su botón para reportar contenido generado por IA, lo que subraya la creciente preocupación por la calidad y autenticidad del contenido en plataformas profesionales.",
+    "Apple está realizando despidos que afectan a equipos más allá de Vision Pro, incluyendo el de Siri, lo que podría señalar una reestructuración interna o cambios en las prioridades de desarrollo."
   ],
   "oportunidades": [
     {
-      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "categoria": "AI",
-      "titulo": "Nuevas formas de mejorar el aprendizaje con la Búsqueda de Google",
-      "detalle": "Google lanzó 5 nuevas herramientas de búsqueda para estudiar para clases y exámenes estandarizados.",
-      "acciones": [
-        "Explorar las nuevas herramientas de Google Search para optimizar el estudio y la investigación.",
-        "Evaluar cómo estas herramientas pueden integrarse en flujos de trabajo de aprendizaje o investigación personal."
-      ]
-    },
-    {
       "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
-      "categoria": "Marketing",
-      "titulo": "Cómo hacer de la IA tu superpoder creativo",
-      "detalle": "Convertir ideas imposibles en historias de marca que resuenen.",
+      "categoria": "AI",
+      "titulo": "Cómo usar la IA como superpoder creativo",
+      "detalle": "La IA puede transformar ideas imposibles en historias de marca que resuenan.",
       "acciones": [
-        "Investigar las estrategias de Nik Kleverov de Native Foreign para aplicar IA en procesos creativos de marketing.",
-        "Experimentar con herramientas de IA para transformar conceptos abstractos en narrativas de marca."
+        "Explorar herramientas de IA para potenciar la creatividad en proyectos de retoque fotográfico y arte.",
+        "Aplicar la IA para generar conceptos y narrativas en campañas de marketing."
       ]
     }
   ],
@@ -112,36 +118,19 @@
     {
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Market",
-      "titulo": "Pérdida de empleos asalariados privados en Argentina",
-      "detalle": "Con Milei se perdieron 241.020 empleos asalariados privados, camino al nivel de la crisis de Macri. Las contrataciones continúan en niveles mínimos y los despidos avanzan.",
-      "mitigacion": "Monitorear de cerca la evolución del mercado laboral en Argentina y ajustar estrategias de inversión o planificación financiera según las tendencias."
+      "titulo": "Pérdida de empleo asalariado privado en Argentina",
+      "detalle": "Se perdieron 241.020 empleos asalariados privados desde noviembre de 2023, acercándose a los niveles de la crisis de Macri, con contrataciones en mínimos y despidos en aumento.",
+      "mitigacion": "Monitorear la situación económica y laboral en Argentina para ajustar estrategias de inversión y planificación personal. Considerar diversificar fuentes de ingresos o buscar oportunidades en sectores menos afectados."
     },
     {
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
-      "categoria": "Business",
-      "titulo": "Despidos en Apple más allá de Vision Pro",
-      "detalle": "Los últimos despidos de Apple se extienden más allá de los equipos de desarrollo de Vision Pro, afectando también al equipo de Siri.",
-      "mitigacion": "Observar el impacto de estos despidos en la innovación y el desarrollo de productos clave de Apple, especialmente en áreas como la IA y la realidad aumentada."
-    },
-    {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "categoria": "AI",
-      "titulo": "Fallas en la moderación de contenido de Anthropic",
-      "detalle": "Opus 4.6 de Anthropic es una máquina de contenido explícito. Se encontró que no se necesitaba mucho para superar las restricciones de generación de contenido sexualmente explícito.",
-      "mitigacion": "Ser cauteloso al usar modelos de IA para generación de contenido, especialmente si se requiere moderación estricta. Evaluar la robustez de los filtros de seguridad de cualquier herramienta de IA antes de su implementación."
+      "categoria": "Technology",
+      "titulo": "Despidos en Apple más allá de Vision Pro, incluyendo el equipo de Siri",
+      "detalle": "Los despidos en Apple se extienden a equipos como el de Siri, lo que podría indicar una reestructuración o cambios en las prioridades de desarrollo de la compañía.",
+      "mitigacion": "Estar atento a las tendencias y cambios en las grandes empresas tecnológicas como Apple, ya que sus decisiones pueden influir en el mercado de herramientas y plataformas."
     }
   ],
-  "conexiones": [
-    {
-      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "Apple Vision Pro casi se llamó 'Reality Pro'",
-      "historias": [
-        "macrumors-aHR0cHM6Ly93d3cubWFj",
-        "appleinsider-aHR0cHM6Ly9hcHBsZWlu"
-      ],
-      "conclusion": "La noticia de que Vision Pro casi se llamó 'Reality Pro' se conecta con los recientes despidos en Apple, incluyendo equipos de Vision Pro. Esto sugiere que el desarrollo del producto ha tenido sus desafíos y cambios internos, lo que podría estar relacionado con las reestructuraciones actuales de la empresa."
-    }
-  ],
+  "conexiones": [],
   "noticias": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
@@ -149,37 +138,18 @@
       "fuente": "Google AI Blog",
       "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
       "tituloOriginal": "5 new ways to level up your learning with Search",
-      "tituloLimpio": "Cinco nuevas formas de mejorar el aprendizaje con la Búsqueda de Google",
-      "resumen": "Aquí se explica cómo se pueden usar las herramientas de la Búsqueda de Google para estudiar para clases y exámenes estandarizados.",
-      "porQueImporta": "Guido, como profesional que valora las herramientas y la automatización, podría encontrar útiles estas nuevas funcionalidades de Google para optimizar su aprendizaje o investigación personal.",
+      "tituloLimpio": "Google presenta 5 nuevas formas de mejorar el aprendizaje con su buscador",
+      "resumen": "Google presenta herramientas de búsqueda para estudiar para clases y exámenes estandarizados.",
+      "porQueImporta": "Guido, como profesional que busca herramientas y automatización, puede encontrar estas nuevas funciones de Google útiles para la investigación, el aprendizaje continuo o incluso para optimizar procesos de búsqueda de información en su trabajo.",
       "publicadoEn": "2026-08-19T19:00:00.000Z",
       "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "google",
-        "ia",
+        "aprendizaje",
+        "búsqueda",
         "herramientas",
-        "aprendizaje"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "categoria": "Apple",
-      "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/08/22/vision-pro-was-almost-called-reality-pro/",
-      "tituloOriginal": "Apple Vision Pro Was Almost Called 'Reality Pro'",
-      "tituloLimpio": "El Apple Vision Pro casi se llamó 'Reality Pro'",
-      "resumen": "El visor Vision Pro se llamó internamente 'Reality Pro' durante una parte significativa de su desarrollo antes de que Apple se decidiera por el nombre con el que finalmente se lanzó.",
-      "porQueImporta": "Es un dato interesante sobre el proceso de desarrollo de un producto clave de Apple, relevante para Guido por su interés en la marca y la tecnología.",
-      "publicadoEn": "2026-08-22T07:30:49.000Z",
-      "globalScore": 92,
-      "personalScore": 100,
-      "tags": [
-        "apple",
-        "vision pro",
-        "desarrollo"
+        "IA"
       ],
       "tambienVistoEn": []
     },
@@ -189,18 +159,17 @@
       "fuente": "Ambito",
       "url": "https://www.ambito.com/economia/dos-gobiernos-un-mismo-problema-milei-se-perdieron-241020-empleos-asalariados-privados-camino-al-nivel-la-crisis-macri-n6313518",
       "tituloOriginal": "Dos gobiernos, un mismo problema: con Milei se perdieron 241.020 empleos asalariados privados, camino al nivel de la crisis de Macri",
-      "tituloLimpio": "Con Milei se perdieron 241.020 empleos asalariados privados, camino al nivel de la crisis de Macri",
-      "resumen": "Actualmente hay 140.000 asalariados privados menos que en mayo de 2018, pero la baja desde noviembre de 2023 es similar a la que hubo entre mayo de 2018 y noviembre de 2019. En este marco, las contrataciones continúan en niveles mínimos y los despidos avanzan.",
-      "porQueImporta": "Noticia de alto impacto para Guido, ya que vive en Argentina y la situación económica y laboral del país afecta directamente su entorno y posibles decisiones de inversión.",
+      "tituloLimpio": "Se perdieron 241.020 empleos asalariados privados en Argentina con el gobierno actual",
+      "resumen": "Actualmente hay 140.000 asalariados privados menos que en mayo de 2018, y la baja desde noviembre de 2023 es similar a la de 2018-2019. Las contrataciones están en mínimos y los despidos avanzan.",
+      "porQueImporta": "Esta noticia es crucial para Guido, ya que vive en Argentina. La situación del empleo privado impacta directamente en la economía del país, el consumo y el clima de negocios, lo que puede influir en sus decisiones de inversión y en el panorama general de su actividad profesional.",
       "publicadoEn": "2026-08-22T03:00:00.000Z",
       "imagen": "https://media.ambito.com/p/a648a06171f16e5b7aa69d96f45a06d2/adjuntos/239/imagenes/042/860/0042860345/empleo-desempleo-despido.jpg",
       "globalScore": 92,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "economia",
         "empleo",
-        "milei"
+        "economía",
+        "Argentina"
       ],
       "tambienVistoEn": []
     },
@@ -210,17 +179,17 @@
       "fuente": "Marketing Dive",
       "url": "https://www.marketingdive.com/news/ann-taylor-stages-a-brand-comeback-with-substack-fall-fashion-blitz/828397/",
       "tituloOriginal": "Ann Taylor stages a brand comeback with Substack, fall fashion blitz",
-      "tituloLimpio": "Ann Taylor busca un regreso de marca con Substack y una campaña de moda de otoño",
-      "resumen": "La primera gran campaña integrada de la marca en casi una década sigue a iniciativas centradas en fomentar una comunidad de fans, como un boletín editorial.",
-      "porQueImporta": "Guido, interesado en marketing, podría encontrar relevante este caso de estudio sobre cómo una marca busca revitalizarse utilizando nuevas plataformas como Substack y estrategias de comunidad.",
+      "tituloLimpio": "Ann Taylor busca relanzar su marca con Substack y una campaña de moda de otoño",
+      "resumen": "La primera gran campaña integrada de la marca en casi una década sigue iniciativas enfocadas en fomentar una comunidad de fans, como un newsletter editorial.",
+      "porQueImporta": "Para Guido, interesado en marketing, esta noticia muestra una estrategia de relanzamiento de marca que utiliza plataformas como Substack y newsletters, lo que puede ofrecer ideas sobre cómo construir comunidades y aplicar tácticas de marketing digital.",
       "publicadoEn": "2026-08-21T12:00:00.000Z",
       "globalScore": 88,
       "personalScore": 100,
       "tags": [
         "marketing",
         "marca",
-        "substack",
-        "estrategia"
+        "Substack",
+        "newsletter"
       ],
       "tambienVistoEn": []
     },
@@ -228,19 +197,18 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-      "tituloOriginal": "Anthropic’s Opus 4.6 is a smut-machine",
-      "tituloLimpio": "Opus 4.6 de Anthropic es una máquina de contenido explícito",
-      "resumen": "Anthropic prohíbe a sus modelos Claude generar contenido sexualmente explícito. Pero una serie de pruebas realizadas por TechCrunch encontraron que no se necesitaba mucho para superar la restricción.",
-      "porQueImporta": "Es importante para Guido, dado su interés en la IA aplicada, entender las limitaciones y desafíos en la moderación de contenido de los modelos de IA, especialmente si trabaja con generación de imágenes o texto.",
-      "publicadoEn": "2026-08-21T23:07:25.000Z",
-      "globalScore": 98,
+      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "tituloOriginal": "OpenAI says California should strengthen its AI safety bill",
+      "tituloLimpio": "OpenAI sugiere a California fortalecer su proyecto de ley de seguridad de IA",
+      "resumen": "OpenAI pide a California que fortalezca el proyecto de ley SB 53 sobre seguridad de IA, al que la compañía se había opuesto previamente.",
+      "porQueImporta": "Guido, interesado en IA aplicada, debe estar al tanto de las discusiones sobre la regulación de la IA. La postura de OpenAI sobre la seguridad de la IA es relevante para entender las tendencias y posibles marcos legales que afectarán el desarrollo y uso de estas tecnologías.",
+      "publicadoEn": "2026-08-22T16:30:34.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "ia",
-        "anthropic",
-        "moderacion",
-        "contenido"
+        "IA",
+        "regulación",
+        "seguridad"
       ],
       "tambienVistoEn": []
     },
@@ -250,37 +218,37 @@
       "fuente": "The Verge AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
       "tituloOriginal": "Over 1 million people have clicked LinkedIn’s AI slop button",
-      "tituloLimpio": "Más de un millón de personas han hecho clic en el botón de 'contenido de IA de baja calidad' de LinkedIn",
-      "resumen": "LinkedIn anunció un botón de 'Parece contenido de IA de baja calidad' el 30 de julio, y la compañía dice que muchas personas ya lo han usado. Según una publicación del director de producto Hari Srinivasan, 'más de un millón de personas' han hecho clic en el botón.",
-      "porQueImporta": "Revela una tendencia importante en la percepción del contenido generado por IA y la necesidad de herramientas para filtrar la 'basura' de IA, relevante para Guido en su trabajo con arte con IA y marketing.",
+      "tituloLimpio": "Más de un millón de personas usaron el botón de 'contenido IA' de LinkedIn",
+      "resumen": "LinkedIn anunció un botón para reportar contenido que 'parece generado por IA' y la compañía dice que más de un millón de personas ya lo usaron.",
+      "porQueImporta": "Esta noticia es importante para Guido, que trabaja con arte e IA. Refleja la creciente preocupación por la autenticidad del contenido generado por IA en plataformas profesionales y la necesidad de herramientas para identificarlo, lo que puede influir en cómo se percibe y valora el trabajo con IA.",
       "publicadoEn": "2026-08-21T21:25:50.000Z",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "ia",
-        "linkedin",
+        "IA",
+        "LinkedIn",
         "contenido",
-        "calidad"
+        "ética"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "categoria": "AI",
-      "fuente": "MIT Technology Review AI",
-      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-      "tituloOriginal": "Debates over AI consciousness are a trap",
-      "tituloLimpio": "Los debates sobre la conciencia de la IA son una trampa",
-      "resumen": "La retórica actual sobre IA “descontrolada”, agentes “rebeldes” y actores “autónomos” haría creer que los agentes de IA no solo están despiertos y conscientes, sino enojados con sus creadores.",
-      "porQueImporta": "Ofrece una perspectiva crítica sobre el discurso en torno a la IA, ayudando a Guido a discernir entre el sensacionalismo y la realidad en un campo que le interesa profundamente.",
-      "publicadoEn": "2026-08-20T15:42:39.000Z",
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/22/apple-work-most-it-leaders-want-ai-to-manage-their-macs-but-few-are-ready-for-it/",
+      "tituloOriginal": "Apple @ Work: Most IT leaders want AI to help manage their Macs, but few are ready for it",
+      "tituloLimpio": "La mayoría de los líderes de TI quieren que la IA gestione sus Macs, pero pocos están listos",
+      "resumen": "La mayoría de los líderes de TI quieren que la IA ayude a gestionar sus Macs, pero pocos están listos para ello.",
+      "porQueImporta": "Guido, como usuario de Apple y con interés en automatización, esta noticia es relevante. Muestra una tendencia en la gestión de dispositivos Apple con IA, lo que podría abrir nuevas oportunidades para herramientas y flujos de trabajo automatizados en entornos profesionales.",
+      "publicadoEn": "2026-08-22T13:30:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "ia",
-        "conciencia",
-        "debate",
-        "etica"
+        "Apple",
+        "IA",
+        "automatización",
+        "gestión"
       ],
       "tambienVistoEn": []
     },
@@ -291,16 +259,37 @@
       "url": "https://appleinsider.com/articles/26/08/21/apples-latest-layoffs-extend-past-just-vision-pro-development-teams?utm_source=rss",
       "tituloOriginal": "Apple's latest layoffs extend past just Vision Pro development teams",
       "tituloLimpio": "Los últimos despidos de Apple se extienden más allá de los equipos de desarrollo de Vision Pro",
-      "resumen": "Un día después de que se diera a conocer la noticia de unos 60 despidos en el proyecto Apple Vision, se reportan más en el equipo de Siri también.",
-      "porQueImporta": "Noticia relevante para Guido por su interés en Apple. Los despidos pueden indicar reestructuraciones internas o cambios en las prioridades de la empresa, afectando futuros productos o servicios.",
+      "resumen": "Un día después de la noticia de unos 60 despidos en el proyecto Apple Vision, se reportan más en el equipo de Siri.",
+      "porQueImporta": "Como usuario de Apple, Guido debe estar al tanto de los movimientos internos de la compañía. Los despidos, especialmente en el equipo de Siri, podrían indicar cambios en las prioridades de desarrollo de IA de Apple, lo que es relevante para su interés en la IA aplicada y el ecosistema de Apple.",
       "publicadoEn": "2026-08-21T19:14:47.000Z",
       "globalScore": 90,
       "personalScore": 100,
       "tags": [
-        "apple",
+        "Apple",
         "despidos",
-        "vision pro",
-        "siri"
+        "Siri",
+        "IA"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Dow Jones Futures: Market Rally Repairs Some Damage As Nvidia Looms; New Trump Tariffs On Canada",
+      "tituloLimpio": "Dow Jones Futures: El mercado se recupera mientras Nvidia se acerca; Nuevos aranceles de Trump a Canadá",
+      "resumen": "El mercado se recupera mientras Nvidia se acerca; Nuevos aranceles de Trump a Canadá.",
+      "porQueImporta": "Guido, interesado en inversiones y mercados, debe seguir las noticias sobre el Dow Jones y empresas clave como Nvidia. Los movimientos del mercado y las políticas comerciales (como los aranceles) pueden afectar sus inversiones en ETFs y el panorama económico global.",
+      "publicadoEn": "2026-08-22T15:25:48.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/87053150d8f8a61cbb65ef74d7aa6c34.jpg",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "mercado",
+        "inversión",
+        "Nvidia"
       ],
       "tambienVistoEn": []
     },
@@ -308,21 +297,41 @@
       "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
       "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/22/bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musk-s-x-wants-to-pay-creators-in-stablecoins-crypto-week-in-5-stories",
-      "tituloOriginal": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto week in 5 stories",
-      "tituloLimpio": "Los 'osos' de Bitcoin y Ether son diezmados en un repunte impulsado por 'squeeze' y X de Musk quiere pagar a creadores en stablecoins",
-      "resumen": "Bitcoin y las criptomonedas protagonizaron su repunte más fuerte en meses, ya que la intervención del Tesoro, los movimientos regulatorios y un 'short squeeze' histórico colisionaron, mientras que los bancos y las empresas de tecnología se adentraron más en las stablecoins.",
-      "porQueImporta": "Guido invierte en ETFs y mercados, por lo que la volatilidad y las tendencias en criptomonedas, así como el interés de grandes empresas como X en stablecoins, son datos financieros relevantes.",
-      "publicadoEn": "2026-08-22T12:00:00.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/e5935e0dfa2e7f85bd8761d8a1d6e4e8f1cce2c3-8192x5464.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "globalScore": 92,
+      "url": "https://www.coindesk.com/business/2026/08/22/crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-announcing-shutdown",
+      "tituloOriginal": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
+      "tituloLimpio": "El exchange de criptomonedas BitMart evalúa un reinicio parcial y pagos a acreedores",
+      "resumen": "El exchange contrató a White & Case como asesor de reestructuración, con una hoja de ruta detallada esperada para el 9 de septiembre.",
+      "porQueImporta": "Para Guido, que invierte en ETFs y monitorea el mercado, esta noticia sobre un exchange de criptomonedas es relevante. Muestra la volatilidad y los riesgos asociados al sector cripto, y cómo las empresas manejan las crisis, lo que puede influir en su percepción de este tipo de activos.",
+      "publicadoEn": "2026-08-22T15:16:41.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/420f2af41b8e84b394d9798060c7ccfa92703ed7-2280x1284.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "finanzas",
         "criptomonedas",
-        "bitcoin",
-        "stablecoins",
-        "mercados"
+        "finanzas",
+        "exchange",
+        "riesgo"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/revolucion-tecnologica-campo-pergamino-envidiarle-iowa_0_BnEPZ6FbaM.html",
+      "tituloOriginal": "La revolución tecnológica en el campo: \"Pergamino no tiene nada que envidiarle a Iowa\"",
+      "tituloLimpio": "La revolución tecnológica en el campo argentino: 'Pergamino no tiene nada que envidiarle a Iowa'",
+      "resumen": "Un investigador fundamenta que Argentina tiene en el campo una actividad que transita una revolución técnica global.",
+      "porQueImporta": "Para Guido, que vive en Argentina y le interesan las tendencias tecnológicas, esta noticia destaca el avance de la tecnología en un sector clave del país. Puede ofrecer una perspectiva sobre la innovación local y las oportunidades de aplicación de nuevas herramientas o IA en industrias tradicionales.",
+      "publicadoEn": "2026-08-22T14:21:09.000Z",
+      "imagen": "https://www.clarin.com/img/2026/08/22/nnS6xwPrP_1200x630__1.jpg",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "tecnología",
+        "campo",
+        "Argentina",
+        "innovación"
       ],
       "tambienVistoEn": []
     },
@@ -330,41 +339,20 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/08/22/que-pasara-con-la-inflacion-de-este-mes-el-08-que-dio-el-dato-mayorista-alienta-al-gobierno-pero-el-petroleo-abre-dudas/",
-      "tituloOriginal": "¿Qué pasará con la inflación de este mes?: el 0,8% que dio el dato mayorista alienta al Gobierno, pero el petróleo abre dudas",
-      "tituloLimpio": "¿Qué pasará con la inflación de este mes?: el 0,8% del dato mayorista alienta al Gobierno, pero el petróleo abre dudas",
-      "resumen": "Milei celebró el dato de julio como una señal de desaceleración, aunque la suba del Brent podría ponerle un piso al IPC de agosto, que consultoras ubican otra vez cerca del 2 por ciento.",
-      "porQueImporta": "Información económica crucial para Guido en Argentina, ya que la inflación afecta directamente su poder adquisitivo y sus decisiones de inversión.",
-      "publicadoEn": "2026-08-22T12:11:30.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/ZXX6R2MSNFDPBMZPEJHMFODBFI.JPG?auth=da3a0ab61f24c0f0ff6b3596a9eb183b16ca2ab0357d817e9087363e0231be9e&smart=true&width=4478&height=3089",
-      "globalScore": 86,
+      "url": "https://www.infobae.com/economia/2026/08/22/revivio-el-bitcoin-cerro-la-mejor-semana-en-tres-anos-con-una-suba-en-su-precio-del-22-por-ciento/",
+      "tituloOriginal": "Revivió el Bitcoin: cerró la mejor semana en tres años con una suba en su precio del 22 por ciento",
+      "tituloLimpio": "El Bitcoin revivió: cerró la mejor semana en tres años con una suba del 22%",
+      "resumen": "La criptomoneda terminó el viernes en torno a los USD 78.500 impulsada por el retorno del apetito por el riesgo global.",
+      "porQueImporta": "Esta es una noticia muy importante para Guido, dado su interés en inversiones y mercados. La fuerte suba del Bitcoin puede indicar un cambio en el sentimiento del mercado hacia las criptomonedas, lo que podría influir en sus decisiones de inversión o en la observación de tendencias financieras.",
+      "publicadoEn": "2026-08-22T16:12:40.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/XMJ4CED4TFDVNDA6K3QLWVZURU.jpg?auth=397b8a846ea55aee83824e4984de77e8ae55edb8153590ec3e2c6b5ea483a48a&smart=true&width=1920&height=1080",
+      "globalScore": 90,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "economia",
-        "inflacion",
-        "petroleo"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
-      "categoria": "Argentina",
-      "fuente": "Infobae Politica",
-      "url": "https://www.infobae.com/politica/2026/08/22/los-proyectos-para-paliar-el-endeudamiento-ganan-terreno-en-el-congreso-y-tensionan-al-gobierno/",
-      "tituloOriginal": "Los proyectos para paliar el endeudamiento ganan terreno en el Congreso y tensionan al Gobierno",
-      "tituloLimpio": "Los proyectos para paliar el endeudamiento ganan terreno en el Congreso y tensionan al Gobierno",
-      "resumen": "El oficialismo sostiene que la situación debe resolverse entre particulares, mientras las bancadas opositoras proponen refinanciaciones, límites a las cuotas, reglas al financiamiento y alivios para quienes ya entraron en mora.",
-      "porQueImporta": "Noticia política y económica relevante para Guido en Argentina, ya que el endeudamiento es un tema sensible que puede impactar la estabilidad económica y social.",
-      "publicadoEn": "2026-08-22T08:13:13.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/W2MAUYLYYVH5XLRK7OSXBHNSSE.jpg?auth=edcb9e5b239fba02f5ebad32d3e4cd29906f1b6c849554c44a8109f4cee3199a&smart=true&width=5712&height=4284",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "argentina",
-        "politica",
-        "economia",
-        "endeudamiento"
+        "Bitcoin",
+        "criptomoneda",
+        "inversión",
+        "mercado"
       ],
       "tambienVistoEn": []
     },
@@ -372,20 +360,40 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-sabado-22-de-agosto-nid22082026/",
-      "tituloOriginal": "Dólar hoy y dólar blue hoy: a cuánto cotiza este sábado 22 de agosto",
-      "tituloLimpio": "Dólar hoy y dólar blue hoy: a cuánto cotiza este sábado 22 de agosto",
-      "resumen": "La cotización de la moneda estadounidense se mantiene igual que el último día hábil; cómo fue el comportamiento de la divisa informal y los dólares financieros.",
-      "porQueImporta": "Información esencial para Guido en Argentina, donde la cotización del dólar es un indicador clave de la economía y afecta decisiones financieras y de inversión.",
-      "publicadoEn": "2026-08-22T10:21:20.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/Y6OM5XZEONEFRC7AKCEI53D4QA.JPG?auth=99c193ae9b854c001805e21c98e9a5d7b301a5c05515c97735ec536a03e46e79&smart=true&width=2000&height=1333",
+      "url": "https://www.lanacion.com.ar/economia/el-consumo-masivo-volvio-a-caer-en-julio-aunque-modero-la-baja-con-respecto-al-mes-anterior-nid21082026/",
+      "tituloOriginal": "El consumo masivo volvió a caer en julio, aunque moderó la baja",
+      "tituloLimpio": "El consumo masivo volvió a caer en julio, aunque moderó la baja",
+      "resumen": "Las ventas cayeron 2,6% interanual, pero crecieron 4,2% frente a junio, según Scentia; en el acumulado de los primeros siete meses del año, la retracción alcanza el 2,9%.",
+      "porQueImporta": "Esta noticia es relevante para Guido por su impacto en la economía argentina. La caída del consumo masivo es un indicador de la situación económica general, lo que puede influir en el clima de negocios y en sus decisiones de inversión en el contexto local.",
+      "publicadoEn": "2026-08-22T17:04:08.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/HXUXZ7OZCJHCRH2OIS6V5EVE3M.jpeg?auth=90184643706842209fd66bc8b3876a852776fb54f286372416188a9cc7ea2064&smart=true&width=2000&height=1333",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "economia",
-        "dolar",
-        "finanzas"
+        "consumo",
+        "economía",
+        "Argentina",
+        "mercado"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Politica",
+      "url": "https://www.lanacion.com.ar/politica/uno-de-cada-cinco-laboratorios-habilitados-en-la-argentina-no-tiene-inspecciones-hace-mas-de-cinco-nid22082026/",
+      "tituloOriginal": "Uno de cada cinco laboratorios habilitados en la Argentina no tiene inspecciones hace más de cinco años",
+      "tituloLimpio": "Uno de cada cinco laboratorios habilitados en Argentina no tiene inspecciones hace más de cinco años",
+      "resumen": "Información oficial da cuenta de que 51 de los 235 establecimientos farmacéuticos habilitados en el país no recibieron una inspección de ANMAT en más de un lustro.",
+      "porQueImporta": "Aunque no directamente relacionado con sus intereses principales, esta noticia sobre la falta de inspecciones en laboratorios en Argentina es importante para Guido como ciudadano. Refleja problemas de regulación y control que pueden tener implicaciones en la salud pública y la transparencia institucional en el país.",
+      "publicadoEn": "2026-08-22T16:18:22.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/GZAR5XXNHRCXRLI24BCM27QDEA.jpg?auth=e431af027aa24ab4fd587d5b3d689544b438fc7ba3dfd4882f955de4584f8f2e&smart=true&width=4062&height=2708",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "regulación",
+        "salud"
       ],
       "tambienVistoEn": []
     },
@@ -395,23 +403,23 @@
       "fuente": "Adweek",
       "url": "https://www.adweek.com/brand-marketing/how-to-make-ai-your-creative-superpower-with-native-foreigns-nik-kleverov/",
       "tituloOriginal": "How to Make AI Your Creative Superpower with Native Foreign’s Nik Kleverov",
-      "tituloLimpio": "Cómo hacer de la IA tu superpoder creativo con Nik Kleverov de Native Foreign",
-      "resumen": "Convertir ideas imposibles en historias de marca que resuenen.",
-      "porQueImporta": "Guido, que trabaja con arte con IA y marketing, podría encontrar inspiración y estrategias prácticas en este enfoque sobre cómo usar la IA para potenciar la creatividad en la construcción de marcas.",
+      "tituloLimpio": "Cómo usar la IA como superpoder creativo con Nik Kleverov de Native Foreign",
+      "resumen": "Transformar ideas imposibles en historias de marca que resuenan.",
+      "porQueImporta": "Para Guido, que trabaja en retoque fotográfico y arte con IA, esta noticia es muy relevante. Ofrece una perspectiva sobre cómo la IA puede ser una herramienta para potenciar la creatividad y desarrollar narrativas de marca, lo que puede inspirar nuevas aplicaciones en su propio trabajo.",
       "publicadoEn": "2026-08-21T14:36:38.000Z",
-      "globalScore": 88,
+      "globalScore": 82,
       "personalScore": 100,
       "tags": [
-        "marketing",
-        "ia",
+        "IA",
         "creatividad",
-        "negocios"
+        "marketing",
+        "arte"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-08-22T12:43:20.629Z"
+    "generadoEn": "2026-08-22T17:19:33.762Z"
   }
 }
