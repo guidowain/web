@@ -1,13 +1,32 @@
 {
   "fecha": "2026-08-23",
-  "generadoEn": "2026-08-23T12:44:31.543Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "En el panorama actual, la inteligencia artificial sigue avanzando, con Google y Harvard explorando nuevas aplicaciones. Apple enfrenta desafíos con sus productos, mientras que el mercado financiero muestra movimientos en criptomonedas y acciones. A nivel local en Argentina, la economía atraviesa un momento complejo con debates sobre inflación y políticas de gobierno, y se detectan nuevas modalidades de juego clandestino.",
+  "generadoEn": "2026-08-23T17:19:41.285Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "En el ámbito tecnológico, Apple se prepara para lanzar un iMac actualizado con chip M6 y nuevos colores antes de fin de año. En IA, Google Gemini se asocia con clubes de fútbol para mejorar la experiencia del hincha, mientras que LinkedIn reporta que más de un millón de usuarios han usado su botón para marcar contenido generado por IA. En Argentina, la guerra comercial entre EE.UU. y Canadá escala con aranceles del 50%, y las expectativas económicas muestran una fuerte caída, con la mayoría de los argentinos creyendo que su situación empeorará. En el mercado de criptomonedas, XRP registra su mayor ganancia semanal en 21 meses.",
   "radarPersonal": [
     {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "titulo": "Apple lanzaría un iMac actualizado con chip M6 y nuevos colores este año",
+      "resumen": "Apple está trabajando en un nuevo iMac con el chip M6 y opciones de color actualizadas, que se lanzaría antes de fin de año.",
+      "categoria": "Apple",
+      "fuentes": [
+        "9to5Mac"
+      ],
+      "urls": [
+        "https://9to5mac.com/2026/08/23/apple-refreshed-imac-m6-chip-new-colors/"
+      ],
+      "score": 100,
+      "tags": [
+        "imac",
+        "m6",
+        "apple",
+        "lanzamiento"
+      ]
+    },
+    {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "titulo": "Google Gemini y Pixel se asocian con clubes de fútbol para mejorar la experiencia del hincha con IA",
-      "resumen": "Google Gemini y Pixel se asocian con cinco clubes de fútbol globales para mejorar la experiencia del hincha en el día del partido a través de la IA y la tecnología de smartphones.",
+      "titulo": "Google Gemini y Pixel se asocian con clubes de fútbol para mejorar la experiencia del hincha",
+      "resumen": "Google Gemini y Pixel se asocian con cinco clubes de fútbol globales para mejorar la experiencia del hincha en los partidos mediante IA y tecnología de smartphones.",
       "categoria": "AI",
       "fuentes": [
         "Google AI Blog"
@@ -20,71 +39,14 @@
         "google",
         "gemini",
         "pixel",
-        "futbol",
-        "ia"
-      ]
-    },
-    {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "titulo": "El bootcamp de startups de Harvard ofrece avatares de IA de sus instructores",
-      "resumen": "En el programa HBS Foundry, los avatares de IA brindan retroalimentación durante las presentaciones de práctica y las reuniones de directorio.",
-      "categoria": "AI",
-      "fuentes": [
-        "TechCrunch AI"
-      ],
-      "urls": [
-        "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/"
-      ],
-      "score": 100,
-      "tags": [
-        "harvard",
-        "bootcamp",
         "ia",
-        "avatares"
-      ]
-    },
-    {
-      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
-      "titulo": "El nuevo Pixel 11 de Google ofrece una función de cámara que Apple debería copiar",
-      "resumen": "Google presentó su nueva línea Pixel 11. Los teléfonos eran similares a la línea Pixel 10 anterior, aunque ofrecen algunas mejoras. Una de ellas es un nuevo conjunto de opciones de procesamiento de cámara, que permite tener más control sobre el aspecto de la foto.",
-      "categoria": "Apple",
-      "fuentes": [
-        "9to5Mac"
-      ],
-      "urls": [
-        "https://9to5mac.com/2026/08/22/pixel-11-new-camera-feature-apple-should-copy/"
-      ],
-      "score": 100,
-      "tags": [
-        "google",
-        "pixel",
-        "camara",
-        "apple"
-      ]
-    },
-    {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "Martín Rapetti: “El programa desinflacionario está agotado y el grueso de la economía, en depresión”",
-      "resumen": "El director ejecutivo de Equilibra advierte por el nivel de actividad y cambios en el mercado de trabajo. Además, cuestiona la política cambiaria y plantea la necesidad de una estrategia productiva para la industria.",
-      "categoria": "Argentina",
-      "fuentes": [
-        "Ambito"
-      ],
-      "urls": [
-        "https://www.ambito.com/economia/martin-rapetti-el-programa-desinflacionario-esta-agotado-y-el-grueso-la-depresion-n6313559"
-      ],
-      "score": 100,
-      "tags": [
-        "argentina",
-        "economia",
-        "inflacion",
-        "rapetti"
+        "deporte"
       ]
     },
     {
       "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
-      "titulo": "Ann Taylor regresa con una campaña de moda de otoño y Substack",
-      "resumen": "La primera gran campaña integrada de la marca en casi una década sigue a iniciativas centradas en fomentar una comunidad de fans, como un boletín editorial.",
+      "titulo": "Ann Taylor busca un regreso de marca con Substack y una campaña de moda de otoño",
+      "resumen": "La primera gran campaña integrada de la marca en casi una década sigue a iniciativas centradas en fomentar una comunidad de fans, como un newsletter editorial.",
       "categoria": "Marketing",
       "fuentes": [
         "Marketing Dive"
@@ -99,24 +61,53 @@
         "substack",
         "campaña"
       ]
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "titulo": "Cómo usar la IA como superpoder creativo, según Nik Kleverov de Native Foreign",
+      "resumen": "Se explica cómo convertir ideas imposibles en historias de marca que resuenen.",
+      "categoria": "Marketing",
+      "fuentes": [
+        "Adweek"
+      ],
+      "urls": [
+        "https://www.adweek.com/brand-marketing/how-to-make-ai-your-creative-superpower-with-native-foreigns-nik-kleverov/"
+      ],
+      "score": 100,
+      "tags": [
+        "ia",
+        "creatividad",
+        "marketing",
+        "marcas"
+      ]
     }
   ],
   "loImportante": [
-    "La IA se integra cada vez más en productos de consumo y educación, como en Google Pixel y en bootcamps de Harvard.",
-    "En Argentina, la situación económica es crítica, con el programa desinflacionario agotado y la economía en depresión, según Martín Rapetti.",
-    "El gobierno argentino enfrenta desafíos para recuperar el control político en medio de la ortodoxia económica y la creciente morosidad.",
-    "Se detecta el uso de menores como intermediarios en el juego clandestino en Argentina, una nueva modalidad de fraude.",
-    "El debate sobre la conciencia de la IA es una distracción, según expertos, que desvía la atención de los problemas reales."
+    "Apple planea lanzar un iMac actualizado con chip M6 y nuevos colores antes de fin de año, lo que podría ser relevante para quienes buscan renovar equipos.",
+    "La guerra comercial entre EE.UU. y Canadá escala con aranceles del 50%, lo que podría tener implicaciones en los mercados globales y la economía argentina.",
+    "Las expectativas económicas en Argentina muestran una fuerte caída, con un 60% de los argentinos creyendo que su situación empeorará, lo que indica un clima de pesimismo generalizado.",
+    "XRP registra su mayor ganancia semanal en 21 meses, lo que podría ser de interés para inversores en criptomonedas.",
+    "Más de un millón de personas han usado el botón de LinkedIn para marcar contenido generado por IA, lo que sugiere una creciente preocupación por la calidad del contenido de IA en plataformas profesionales."
   ],
   "oportunidades": [
     {
       "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
       "categoria": "AI",
-      "titulo": "Cómo usar la IA como superpoder creativo",
-      "detalle": "La IA puede transformar ideas imposibles en historias de marca que resuenen.",
+      "titulo": "Aprovechar la IA como herramienta creativa en marketing",
+      "detalle": "La IA puede ser un 'superpoder creativo' para transformar ideas en historias de marca que resuenen, según Nik Kleverov de Native Foreign.",
       "acciones": [
-        "Explorar herramientas de IA para la generación de ideas y contenido creativo en proyectos de retoque fotográfico y arte con IA.",
-        "Aplicar la IA para desarrollar narrativas de marca más impactantes y personalizadas."
+        "Explorar herramientas de IA para la generación de ideas y contenido en proyectos de retoque fotográfico y arte con IA.",
+        "Investigar casos de éxito de marcas que utilizan IA para campañas creativas."
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "Estrategias de regreso de marca y construcción de comunidad",
+      "detalle": "Ann Taylor está buscando un regreso de marca con Substack y una campaña de moda, enfocándose en fomentar una comunidad de fans a través de un newsletter editorial.",
+      "acciones": [
+        "Analizar la estrategia de Ann Taylor para aplicar principios de construcción de comunidad y uso de newsletters en proyectos propios o de clientes.",
+        "Considerar Substack u otras plataformas para crear contenido editorial y conectar con audiencias específicas."
       ]
     }
   ],
@@ -124,34 +115,34 @@
     {
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Market",
-      "titulo": "Programa desinflacionario agotado y economía en depresión en Argentina",
-      "detalle": "El director ejecutivo de Equilibra advierte sobre el nivel de actividad y los cambios en el mercado de trabajo, cuestionando la política cambiaria y la falta de una estrategia productiva para la industria.",
-      "mitigacion": "Monitorear de cerca los indicadores económicos locales y ajustar estrategias de inversión y negocio para mitigar el impacto de la recesión y la inestabilidad económica."
+      "titulo": "Escalada de guerra comercial entre EE.UU. y Canadá",
+      "detalle": "EE.UU. aplicó aranceles del 50% sobre productos canadienses, y Canadá planea responder con aranceles equivalentes. Donald Trump amenazó con consecuencias 'devastadoras'.",
+      "mitigacion": "Monitorear el impacto de esta guerra comercial en los mercados globales y en la economía argentina, especialmente en sectores relacionados con exportaciones e importaciones."
     },
     {
-      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
-      "categoria": "Regulatory",
-      "titulo": "Dudas sobre el nuevo sistema de cobro con transferencia para créditos en Argentina",
-      "detalle": "El mecanismo de cobro con transferencia, que debería entrar en vigencia el 31 de agosto, genera dudas entre bancos y fintech sobre su efectividad para mejorar el débito de cuotas en un contexto de morosidad creciente.",
-      "mitigacion": "Estar atento a las regulaciones y la implementación de nuevos sistemas de pago en Argentina, evaluando su impacto en la gestión financiera y la automatización de cobros."
-    },
-    {
-      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Market",
-      "titulo": "Uso de menores como intermediarios en juego clandestino en Argentina",
-      "detalle": "Empresas de juego clandestino utilizan cuentas a nombre de menores de edad para recibir pagos y dar crédito para apuestas online, según documentos judiciales.",
-      "mitigacion": "Ser cauteloso con las plataformas de inversión y servicios financieros online, verificando su legalidad y reputación para evitar caer en esquemas fraudulentos o ilegales."
+      "titulo": "Fuerte caída en las expectativas económicas en Argentina",
+      "detalle": "El 60% de los argentinos cree que su situación económica empeorará en los próximos meses, y la desocupación es la principal preocupación. Casi la mitad no llega a fin de mes.",
+      "mitigacion": "Revisar y ajustar estrategias de inversión y ahorro, priorizando la liquidez y la diversificación. Estar atento a las políticas económicas y sus posibles impactos en el poder adquisitivo y el empleo."
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "titulo": "Creciente rechazo a la tecnología de vigilancia con IA",
+      "detalle": "Flock Safety enfrenta una creciente protesta pública por preocupaciones sobre el posible mal uso de su tecnología de vigilancia.",
+      "mitigacion": "Ser consciente de las implicaciones éticas y de privacidad al desarrollar o utilizar herramientas de IA, especialmente aquellas con capacidades de vigilancia o recolección de datos sensibles. Priorizar la transparencia y el uso responsable de la IA."
     }
   ],
   "conexiones": [
     {
       "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "titulo": "Los debates sobre la conciencia de la IA son una trampa",
+      "titulo": "Debates sobre la conciencia de la IA son una trampa",
       "historias": [
-        "La retórica actual sobre la IA como agentes 'fugitivos' o 'autónomos' sugiere que están conscientes y enojados con sus creadores.",
-        "Líderes tecnológicos prominentes impulsan la regulación de estos sistemas 'superhumanos', mientras otra facción aboga por la cautela."
+        "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+        "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1"
       ],
-      "conclusion": "La discusión sobre la conciencia de la IA desvía la atención de los problemas reales y las aplicaciones prácticas de la tecnología. Es más útil enfocarse en cómo la IA puede mejorar productos (como en Google Pixel) o procesos (como en el bootcamp de Harvard) que en debates filosóficos sin base práctica inmediata."
+      "conclusion": "Mientras algunos líderes tecnológicos impulsan la regulación de sistemas 'superhumanos' y se debate la 'conciencia' de la IA, la realidad es que la preocupación práctica se centra en el uso y la calidad. El botón de 'AI slop' de LinkedIn y el rechazo a la vigilancia con IA demuestran que los usuarios y el público están más enfocados en el impacto tangible de la IA que en debates filosóficos."
     }
   ],
   "noticias": [
@@ -161,9 +152,9 @@
       "fuente": "Google AI Blog",
       "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
       "tituloOriginal": "Get closer to the game with Gemini and Pixel",
-      "tituloLimpio": "Google Gemini y Pixel se asocian con clubes de fútbol para mejorar la experiencia del hincha con IA",
-      "resumen": "Google Gemini y Pixel se asocian con cinco clubes de fútbol globales para mejorar la experiencia del hincha en el día del partido a través de la IA y la tecnología de smartphones.",
-      "porQueImporta": "Muestra una aplicación práctica de la IA en el entretenimiento y la experiencia del usuario, relevante para entender cómo la tecnología se integra en la vida cotidiana.",
+      "tituloLimpio": "Google Gemini y Pixel se asocian con clubes de fútbol para mejorar la experiencia del hincha",
+      "resumen": "Google Gemini y Pixel se asocian con cinco clubes de fútbol globales para mejorar la experiencia del hincha en los partidos mediante IA y tecnología de smartphones.",
+      "porQueImporta": "Muestra una aplicación práctica de la IA en el entretenimiento y la interacción con el usuario, relevante para entender cómo la IA se integra en la vida cotidiana y el marketing deportivo.",
       "publicadoEn": "2026-08-17T08:00:00.000Z",
       "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp",
       "globalScore": 88,
@@ -171,9 +162,8 @@
       "tags": [
         "ia",
         "google",
-        "pixel",
-        "deportes",
-        "experiencia-usuario"
+        "marketing",
+        "deporte"
       ],
       "tambienVistoEn": []
     },
@@ -181,21 +171,19 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/martin-rapetti-el-programa-desinflacionario-esta-agotado-y-el-grueso-la-depresion-n6313559",
-      "tituloOriginal": "Martín Rapetti: “El programa desinflacionario está agotado y el grueso de la economía, en depresión”",
-      "tituloLimpio": "Martín Rapetti: “El programa desinflacionario está agotado y el grueso de la economía, en depresión”",
-      "resumen": "El director ejecutivo de Equilibra advierte por el nivel de actividad y cambios en el mercado de trabajo. Además, cuestiona la política cambiaria y plantea la necesidad de una estrategia productiva para la industria.",
-      "porQueImporta": "Análisis crítico de la situación económica argentina, fundamental para entender el contexto local y tomar decisiones de inversión o negocio.",
-      "publicadoEn": "2026-08-23T03:00:00.000Z",
-      "imagen": "https://media.ambito.com/p/35bf60033015039ae4873f7520468cd0/adjuntos/239/imagenes/043/597/0043597923/1200x675/smart/rapetti-2.jpg",
-      "globalScore": 88,
+      "url": "https://www.ambito.com/economia/escala-la-guerra-comercial-eeuu-y-canada-aranceles-del-50-y-trump-amenazo-consecuencias-desvastadoras-n6313839",
+      "tituloOriginal": "Escala la guerra comercial entre EEUU y Canadá: aranceles del 50% y Donald Trump amenazó con consecuencias \"devastadoras\"",
+      "tituloLimpio": "Escala la guerra comercial entre EE.UU. y Canadá: aranceles del 50% y amenaza de consecuencias",
+      "resumen": "Tras el fracaso de las negociaciones, Washington aplicó nuevos gravámenes sobre productos canadienses por unos US$20.000 millones. Ottawa anunció que responderá con aranceles equivalentes desde septiembre.",
+      "porQueImporta": "Una escalada en la guerra comercial entre dos economías importantes puede tener repercusiones globales, afectando cadenas de suministro, precios y la estabilidad económica, lo cual es relevante para la inversión y el contexto argentino.",
+      "publicadoEn": "2026-08-23T16:49:00.000Z",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "economia",
-        "inflacion",
-        "depresion-economica",
-        "politica-cambiaria"
+        "finanzas",
+        "comercio",
+        "geopolítica"
       ],
       "tambienVistoEn": []
     },
@@ -205,17 +193,16 @@
       "fuente": "Marketing Dive",
       "url": "https://www.marketingdive.com/news/ann-taylor-stages-a-brand-comeback-with-substack-fall-fashion-blitz/828397/",
       "tituloOriginal": "Ann Taylor stages a brand comeback with Substack, fall fashion blitz",
-      "tituloLimpio": "Ann Taylor regresa con una campaña de moda de otoño y Substack",
-      "resumen": "La primera gran campaña integrada de la marca en casi una década sigue a iniciativas centradas en fomentar una comunidad de fans, como un boletín editorial.",
-      "porQueImporta": "Ejemplo de estrategia de marketing y construcción de marca, utilizando plataformas como Substack para conectar con la audiencia, relevante para profesionales del marketing.",
+      "tituloLimpio": "Ann Taylor busca un regreso de marca con Substack y una campaña de moda de otoño",
+      "resumen": "La primera gran campaña integrada de la marca en casi una década sigue a iniciativas centradas en fomentar una comunidad de fans, como un newsletter editorial.",
+      "porQueImporta": "Interesante caso de estudio sobre estrategias de marketing y construcción de marca, especialmente el uso de plataformas como Substack para crear comunidad y contenido editorial.",
       "publicadoEn": "2026-08-21T12:00:00.000Z",
       "globalScore": 88,
       "personalScore": 100,
       "tags": [
         "marketing",
-        "marca",
-        "substack",
-        "campaña",
+        "marcas",
+        "contenido",
         "comunidad"
       ],
       "tambienVistoEn": []
@@ -224,20 +211,19 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-      "tituloOriginal": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-      "tituloLimpio": "El bootcamp de startups de Harvard ofrece avatares de IA de sus instructores",
-      "resumen": "En el programa HBS Foundry, los avatares de IA brindan retroalimentación durante las presentaciones de práctica y las reuniones de directorio.",
-      "porQueImporta": "Muestra cómo la IA se aplica en la educación y el desarrollo profesional, ofreciendo herramientas de automatización para la retroalimentación y el aprendizaje.",
-      "publicadoEn": "2026-08-22T21:46:56.000Z",
-      "globalScore": 98,
+      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+      "tituloOriginal": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+      "tituloLimpio": "CEO de Flock pide 'compromiso' ante creciente rechazo a su empresa de vigilancia",
+      "resumen": "Flock Safety enfrenta una creciente protesta pública por preocupaciones sobre el posible mal uso de su tecnología de vigilancia.",
+      "porQueImporta": "Destaca las preocupaciones éticas y de privacidad asociadas con la IA y la tecnología de vigilancia, un tema importante para cualquier profesional que trabaje con IA.",
+      "publicadoEn": "2026-08-23T15:30:00.000Z",
+      "globalScore": 96,
       "personalScore": 100,
       "tags": [
         "ia",
-        "educacion",
-        "startups",
-        "harvard",
-        "avatares"
+        "ética",
+        "privacidad",
+        "tecnología"
       ],
       "tambienVistoEn": []
     },
@@ -247,18 +233,17 @@
       "fuente": "The Verge AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
       "tituloOriginal": "Over 1 million people have clicked LinkedIn’s AI slop button",
-      "tituloLimpio": "Más de un millón de personas han hecho clic en el botón de 'contenido de IA' de LinkedIn",
-      "resumen": "LinkedIn anunció un botón de 'Parece contenido de IA' y la compañía dice que más de un millón de personas ya lo han usado.",
-      "porQueImporta": "Indica una creciente preocupación por la calidad del contenido generado por IA y la necesidad de herramientas para identificarlo, relevante para creadores de contenido y profesionales del marketing.",
+      "tituloLimpio": "Más de un millón de personas han usado el botón de 'AI slop' de LinkedIn",
+      "resumen": "LinkedIn anunció un botón 'Parece contenido de IA' y la compañía dice que más de un millón de personas ya lo han usado.",
+      "porQueImporta": "Indica una preocupación creciente entre los usuarios sobre la calidad y autenticidad del contenido generado por IA en plataformas profesionales, relevante para creadores de contenido y profesionales del marketing.",
       "publicadoEn": "2026-08-21T21:25:50.000Z",
       "globalScore": 92,
       "personalScore": 100,
       "tags": [
         "ia",
-        "linkedin",
         "contenido",
-        "calidad",
-        "redes-sociales"
+        "linkedin",
+        "calidad"
       ],
       "tambienVistoEn": []
     },
@@ -269,16 +254,16 @@
       "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
       "tituloOriginal": "Debates over AI consciousness are a trap",
       "tituloLimpio": "Los debates sobre la conciencia de la IA son una trampa",
-      "resumen": "La retórica actual sobre la IA como agentes 'fugitivos' o 'autónomos' sugiere que están conscientes y enojados con sus creadores. Líderes tecnológicos prominentes impulsan la regulación de estos sistemas 'superhumanos'.",
-      "porQueImporta": "Ofrece una perspectiva crítica sobre la discusión de la IA, sugiriendo que el foco debería estar en sus aplicaciones prácticas y no en debates filosóficos que pueden ser una distracción.",
+      "resumen": "La retórica actual sobre IA 'fugitiva' o 'autónoma' sugiere que los agentes de IA están conscientes y enojados. Líderes tecnológicos impulsan la regulación de estos sistemas 'superhumanos'.",
+      "porQueImporta": "Ofrece una perspectiva crítica sobre el discurso en torno a la IA, sugiriendo que el foco en la 'conciencia' puede desviar la atención de problemas más prácticos y éticos.",
       "publicadoEn": "2026-08-20T15:42:39.000Z",
-      "globalScore": 100,
+      "globalScore": 86,
       "personalScore": 100,
       "tags": [
         "ia",
-        "filosofia",
-        "regulacion",
-        "debate"
+        "filosofía",
+        "regulación",
+        "ética"
       ],
       "tambienVistoEn": []
     },
@@ -286,20 +271,39 @@
       "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Apple",
       "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/22/pixel-11-new-camera-feature-apple-should-copy/",
-      "tituloOriginal": "Google’s new Pixel 11 offers an incredible camera feature that Apple should copy",
-      "tituloLimpio": "El nuevo Pixel 11 de Google ofrece una función de cámara que Apple debería copiar",
-      "resumen": "Google presentó su nueva línea Pixel 11. Los teléfonos eran similares a la línea Pixel 10 anterior, aunque ofrecen algunas mejoras. Una de esas es un nuevo conjunto de opciones de procesamiento de cámara, que permite tener mucho más control sobre el aspecto de la foto.",
-      "porQueImporta": "Destaca una innovación en tecnología de cámaras de smartphones que podría influir en el desarrollo de productos de Apple, relevante para entusiastas de la tecnología y el retoque fotográfico.",
-      "publicadoEn": "2026-08-22T20:43:49.000Z",
-      "globalScore": 94,
+      "url": "https://9to5mac.com/2026/08/23/apple-refreshed-imac-m6-chip-new-colors/",
+      "tituloOriginal": "Report: Apple launching updated iMac with M6 chip and new colors later this year",
+      "tituloLimpio": "Apple lanzaría un iMac actualizado con chip M6 y nuevos colores este año",
+      "resumen": "Apple está trabajando en un nuevo iMac con el chip M6 y opciones de color actualizadas, que se lanzaría antes de fin de año.",
+      "porQueImporta": "Noticia relevante para los interesados en productos Apple, especialmente si están considerando una actualización de hardware o siguen las novedades de la marca.",
+      "publicadoEn": "2026-08-23T15:20:34.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "apple",
-        "google",
-        "pixel",
-        "camara",
-        "innovacion"
+        "imac",
+        "hardware",
+        "lanzamiento"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/08/23/m6-imac-refresh-expected-before-the-end-of-2026?utm_source=rss",
+      "tituloOriginal": "M6 iMac refresh expected before the end of 2026",
+      "tituloLimpio": "Se espera una actualización del iMac con M6 antes de fin de 2026",
+      "resumen": "Un informe afirma que una versión M6 del iMac se enviará antes de fin de 2026, pero no se espera una gran actualización.",
+      "porQueImporta": "Confirma la noticia del nuevo iMac, dando más detalles sobre la expectativa de que no será una renovación mayor, útil para quienes siguen de cerca los productos de Apple.",
+      "publicadoEn": "2026-08-23T16:49:08.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "imac",
+        "hardware",
+        "actualización"
       ],
       "tambienVistoEn": []
     },
@@ -309,38 +313,38 @@
       "fuente": "MacStories",
       "url": "https://www.macstories.net/linked/defining-an-agent-harness/",
       "tituloOriginal": "Defining an “Agent Harness”",
-      "tituloLimpio": "Definiendo un “Agent Harness”",
-      "resumen": "Se ha pedido explicar qué es un “agent harness”, un concepto que se entiende intuitivamente pero no se articula fácilmente. Otras personas lo han explicado mejor.",
-      "porQueImporta": "Introduce un concepto técnico en el ámbito de la automatización y las herramientas, relevante para quienes buscan entender y aplicar nuevas metodologías en su trabajo.",
+      "tituloLimpio": "Definiendo un 'Agent Harness'",
+      "resumen": "Se explica qué es un 'agent harness', un concepto que se entiende intuitivamente pero es difícil de articular.",
+      "porQueImporta": "Puede ser útil para entender conceptos emergentes en el campo de la automatización y la IA, especialmente para quienes trabajan con herramientas y sistemas inteligentes.",
       "publicadoEn": "2026-08-20T23:57:27.000Z",
       "globalScore": 90,
       "personalScore": 100,
       "tags": [
+        "ia",
+        "automatización",
         "herramientas",
-        "automatizacion",
-        "tecnologia",
-        "definiciones"
+        "conceptos"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
       "categoria": "Finance",
       "fuente": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/iconic-fast-food-fried-chicken-184700958.html",
-      "tituloOriginal": "Iconic fast-food fried chicken chain closes over 300 restaurants",
-      "tituloLimpio": "Cadena de comida rápida de pollo frito cierra más de 300 restaurantes",
-      "resumen": "Una icónica cadena de comida rápida de pollo frito cierra más de 300 restaurantes.",
-      "porQueImporta": "Indica tendencias en el sector de la restauración y el impacto económico, relevante para entender el panorama empresarial y las dinámicas del mercado.",
-      "publicadoEn": "2026-08-22T18:47:00.000Z",
-      "imagen": "https://media.zenfs.com/en/thestreet_881/5df20c9f675d8dc6903d707a8bd709d7.jpg",
-      "globalScore": 92,
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Dow Jones Futures Due; Nvidia Earnings, Canada Tariffs, Warsh In Focus",
+      "tituloLimpio": "Futuros del Dow Jones; ganancias de Nvidia, aranceles de Canadá, Warsh en foco",
+      "resumen": "No se proporcionó resumen para esta noticia.",
+      "porQueImporta": "Indica los temas clave que afectan los mercados financieros, como las ganancias de grandes empresas y las tensiones comerciales, relevante para inversores.",
+      "publicadoEn": "2026-08-23T16:56:06.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/87053150d8f8a61cbb65ef74d7aa6c34.jpg",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "negocios",
-        "mercado",
-        "restaurantes",
-        "economia"
+        "finanzas",
+        "mercados",
+        "inversión",
+        "nvidia"
       ],
       "tambienVistoEn": []
     },
@@ -348,20 +352,20 @@
       "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
       "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/22/crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-announcing-shutdown",
-      "tituloOriginal": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
-      "tituloLimpio": "El exchange de criptomonedas BitMart evalúa un reinicio parcial y pagos a acreedores tras anunciar su cierre",
-      "resumen": "El exchange ha contratado a White & Case como asesor de reestructuración, y se espera una hoja de ruta detallada para el 9 de septiembre.",
-      "porQueImporta": "Noticia relevante para inversores en criptomonedas, mostrando la volatilidad y los desafíos regulatorios en el sector.",
-      "publicadoEn": "2026-08-22T15:16:41.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/420f2af41b8e84b394d9798060c7ccfa92703ed7-2280x1284.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "globalScore": 94,
+      "url": "https://www.coindesk.com/markets/2026/08/23/xrp-on-track-for-biggest-weekly-gain-in-21-months-as-treasury-buyback-spurs-curve-control-hopes",
+      "tituloOriginal": "XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes",
+      "tituloLimpio": "XRP en camino a su mayor ganancia semanal en 21 meses",
+      "resumen": "El precio de XRP ha subido un 50% esta semana, su mejor rendimiento desde noviembre de 2024.",
+      "porQueImporta": "Noticia importante para quienes invierten en criptomonedas, ya que destaca un movimiento significativo en el precio de XRP.",
+      "publicadoEn": "2026-08-23T15:52:21.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/5f60efd49e0a819f81091f39acbb1766f5bf3819-2961x995.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 96,
       "personalScore": 100,
       "tags": [
         "finanzas",
         "criptomonedas",
-        "bitmart",
-        "inversion"
+        "xrp",
+        "inversión"
       ],
       "tambienVistoEn": []
     },
@@ -369,21 +373,20 @@
       "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
       "categoria": "Finance",
       "fuente": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitget-ceo-sees-bitcoin-near-current-levels-at-year-end-doubts-us-will-buy-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "tituloOriginal": "Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC",
-      "tituloLimpio": "El CEO de Bitget ve a Bitcoin cerca de los niveles actuales a fin de año y duda que EE.UU. compre BTC",
-      "resumen": "Gracy Chen dice que la incertidumbre macroeconómica podría mantener a Bitcoin dentro de un rango de $10,000 a $20,000 de los niveles actuales, mientras que las compras del gobierno de EE.UU. siguen siendo improbables en los próximos dos años.",
-      "porQueImporta": "Proyección sobre el futuro de Bitcoin y el mercado de criptomonedas, útil para inversores y para entender las tendencias financieras globales.",
-      "publicadoEn": "2026-08-21T20:26:16.000Z",
-      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-true-or-false-about-bitcoin-and-crypto-are-totally-wrong-1.jpg",
-      "globalScore": 82,
+      "url": "https://cointelegraph.com/news/fed-study-finds-crypto-investors-driven-by-beliefs-easily-swayed-by-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Fed study finds crypto investors driven by beliefs, easily swayed by returns",
+      "tituloLimpio": "Estudio de la Fed encuentra que inversores en cripto se guían por creencias y son influenciados por retornos",
+      "resumen": "Un estudio del Banco de la Reserva Federal de Cleveland encuentra que los inversores en cripto tienen puntos de vista muy diferentes sobre retornos y riesgo, y que la información sobre ganancias pasadas de Bitcoin puede aumentar las asignaciones deseadas y las compras reales de cripto.",
+      "porQueImporta": "Ofrece una visión sobre la psicología del inversor en criptomonedas, útil para entender el comportamiento del mercado y tomar decisiones de inversión más informadas.",
+      "publicadoEn": "2026-08-23T15:30:53.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-the-future-of-public-finance-will-be-crypto-assets-for-liquid-democracy.jpg",
+      "globalScore": 90,
       "personalScore": 100,
       "tags": [
         "finanzas",
-        "bitcoin",
         "criptomonedas",
-        "inversion",
-        "mercado"
+        "inversión",
+        "psicología"
       ],
       "tambienVistoEn": []
     },
@@ -391,21 +394,20 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/euro-hoy-en-venezuela-precio-y-cotizacion-de-la-divisa-este-domingo-23-de-agosto-de-2026_0_5PVbK0Smyd.html",
-      "tituloOriginal": "Euro hoy en Venezuela: precio y cotización de la divisa este domingo 23 de agosto de 2026",
-      "tituloLimpio": "Euro hoy en Venezuela: precio y cotización de la divisa este domingo 23 de agosto de 2026",
-      "resumen": "Mirá la cotización del euro en Venezuela, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
-      "porQueImporta": "Aunque es sobre Venezuela, la cotización del euro es un indicador económico global que puede influir en el análisis de mercados y divisas, relevante para inversores.",
-      "publicadoEn": "2026-08-23T10:45:16.000Z",
-      "imagen": "https://www.clarin.com/img/2021/11/23/DMEZ4i0la_1200x630__1.jpg",
+      "url": "https://www.clarin.com/rural/puede-hacer-historia-vendio-50-toro-precio-record-300-millones_0_iHPl4tJxOO.html",
+      "tituloOriginal": "\"Puede hacer historia\": se vendió el 50% de un toro por un precio récord de $300 millones",
+      "tituloLimpio": "Se vendió el 50% de un toro por un precio récord de $300 millones en Argentina",
+      "resumen": "El reproductor fue vendido por la Cabaña Santa Rosa a un consorcio de criadores y cabañeros de La Pampa. El animal había obtenido dos logros muy importantes este año.",
+      "porQueImporta": "Aunque es una noticia específica del sector rural, el monto récord de la venta es un indicador de movimientos económicos significativos en Argentina y puede ser de interés general.",
+      "publicadoEn": "2026-08-23T12:29:48.000Z",
+      "imagen": "https://www.clarin.com/img/2026/08/23/5UpOlhOrd_1200x630__1.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "finanzas",
-        "euro",
-        "venezuela",
-        "cotizacion",
-        "divisas"
+        "argentina",
+        "economía",
+        "negocios",
+        "rural"
       ],
       "tambienVistoEn": []
     },
@@ -413,21 +415,20 @@
       "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Politica",
-      "url": "https://www.clarin.com/politica/queres-llorar-llora-javier-milei-mueve-plan-desafia-gente-nerviosa_0_7wE3RNO8gS.html",
-      "tituloOriginal": "Si querés llorar, llorá: Javier Milei no se mueve de su plan, desafía a todos y hay gente muy nerviosa",
-      "tituloLimpio": "Javier Milei no se mueve de su plan, desafía a todos y hay gente muy nerviosa",
-      "resumen": "Los encuentros privados del Presidente, sus reacciones y la discusión por el modelo económico.",
-      "porQueImporta": "Refleja la situación política y económica de Argentina, crucial para entender el clima de negocios y las posibles direcciones del país.",
-      "publicadoEn": "2026-08-23T10:01:09.000Z",
-      "imagen": "https://www.clarin.com/img/2026/08/22/cf_gaAzdN_1200x630__1.jpg",
-      "globalScore": 94,
+      "url": "https://www.clarin.com/politica/presidenta-libertad-avanza-ciudad-apunto-jorge-macri-falta-reconocernos-copyright_0_XyIxOprLov.html",
+      "tituloOriginal": "La presidenta de La Libertad Avanza en la Ciudad le apuntó a Jorge Macri: \"Le falta reconocernos el copyright\"",
+      "tituloLimpio": "La presidenta de La Libertad Avanza en CABA apuntó a Jorge Macri: 'Le falta reconocernos el copyright'",
+      "resumen": "Pilar Ramírez puso en duda si las medidas que tomó el jefe de Gobierno para ordenar la Ciudad fueron por convicción 'o es sólo un focus group y una foto'.",
+      "porQueImporta": "Refleja las tensiones políticas internas en Argentina, relevantes para entender el panorama político local y sus posibles impactos en el entorno de negocios.",
+      "publicadoEn": "2026-08-23T14:52:16.000Z",
+      "imagen": "https://www.clarin.com/img/2026/06/08/TlQONp0SV_1200x630__1.jpg",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "politica",
-        "milei",
-        "economia",
-        "gobierno"
+        "política",
+        "caba",
+        "elecciones"
       ],
       "tambienVistoEn": []
     },
@@ -435,22 +436,20 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/08/23/cobro-con-transferencia-en-medio-del-debate-por-la-mora-hay-dudas-por-el-nuevo-sistema-para-debitar-las-cuotas-de-los-creditos/",
-      "tituloOriginal": "Cobro con transferencia: en medio del debate por la mora, hay dudas por el nuevo sistema para debitar las cuotas de los créditos",
-      "tituloLimpio": "Cobro con transferencia: hay dudas por el nuevo sistema para debitar las cuotas de los créditos",
-      "resumen": "El mecanismo debiera entrar en vigencia el 31 de agosto. Los bancos y las fintech ven pocas chances de utilización como una vía para mejorar el débito de las cuotas, en un contexto de morosidad creciente.",
-      "porQueImporta": "Impacta en el sistema financiero argentino y la gestión de créditos, relevante para quienes operan con bancos o fintech en el país.",
-      "publicadoEn": "2026-08-23T12:31:08.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/4MYHYWX5XZHOND5FHTCFGBTYGU.png?auth=725a11019bf6f87a733ca676b7f5d5f64a5ba1fc67b7812ba6c9c7ffa12ce94b&smart=true&width=1408&height=768",
+      "url": "https://www.infobae.com/economia/2026/08/23/para-el-presidente-de-la-camara-argentina-de-comercio-si-gana-el-kirchnerismo-sera-el-apocalipsis/",
+      "tituloOriginal": "Para el presidente de la Cámara Argentina de Comercio, si gana el kirchnerismo “será el apocalipsis”",
+      "tituloLimpio": "Para el presidente de la Cámara Argentina de Comercio, si gana el kirchnerismo 'será el apocalipsis'",
+      "resumen": "Mario Grinman defendió sus dichos sobre el cierre de empresas a la vez que respaldó el rumbo económico del Gobierno.",
+      "porQueImporta": "Muestra la polarización y las fuertes opiniones sobre el futuro económico y político de Argentina, crucial para entender el clima de negocios y las decisiones de inversión.",
+      "publicadoEn": "2026-08-23T15:57:24.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/6IM5CGYBBJA6JJYHTGTEJWRO2I.jpeg?auth=3c3876006bfd7e824f6f7aa4c9c4e03224a4d99f4a37663ab3facba88b9ad2c3&smart=true&width=5712&height=3179",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "finanzas",
-        "bancos",
-        "fintech",
-        "creditos",
-        "transferencias"
+        "economía",
+        "política",
+        "negocios"
       ],
       "tambienVistoEn": []
     },
@@ -458,21 +457,20 @@
       "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Politica",
-      "url": "https://www.infobae.com/politica/2026/08/23/atrapado-en-la-ortodoxia-de-milei-el-gobierno-intenta-recuperar-el-control-politico/",
-      "tituloOriginal": "Atrapado en la ortodoxia de Milei, el Gobierno intenta recuperar el control político",
-      "tituloLimpio": "Atrapado en la ortodoxia de Milei, el Gobierno intenta recuperar el control político",
-      "resumen": "Caputo avisó al Gabinete que se vienen tres meses complicados, pero les pidió que confíen en el largo plazo. Bullrich reclamó en público lo que sostiene en privado: mayor velocidad en los resultados. Crecen las voces internas que hablan de fallas en el plan.",
-      "porQueImporta": "Análisis de la situación política interna del gobierno argentino, clave para comprender la estabilidad y dirección del país.",
-      "publicadoEn": "2026-08-23T12:19:04.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/TWT2ETRRRVAJLEXPJVI43EAW6A.JPG?auth=551882068ac862e3f73b50a9fc34d07b7b535aff58e3bf7874f6f369559b4855&smart=true&width=6016&height=4016",
-      "globalScore": 94,
+      "url": "https://www.infobae.com/politica/2026/08/23/fuerte-caida-en-las-expectativas-economicas-6-de-cada-10-argentinos-cree-que-su-situacion-empeorara-en-los-proximos-meses/",
+      "tituloOriginal": "Fuerte caída en las expectativas económicas: 6 de cada 10 argentinos cree que su situación empeorará en los próximos meses",
+      "tituloLimpio": "Fuerte caída en las expectativas económicas: 6 de cada 10 argentinos cree que su situación empeorará",
+      "resumen": "La última encuesta realizada por Opina Argentina reveló que el pesimismo sobre el futuro económico saltó 7 puntos en el último mes. La desocupación se consolida como la principal preocupación de las familias y casi la mitad asegura que no llega a fin de mes.",
+      "porQueImporta": "Un indicador clave del sentimiento económico en Argentina, que puede influir en el consumo, la inversión y la estabilidad social. Es fundamental para la planificación financiera personal y de negocios.",
+      "publicadoEn": "2026-08-23T16:45:24.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/7GGZDZRNLVEWLHIHSYJ4FHPCRI.jpg?auth=757771b5b854afc6fdd2903728b6793697a4ea8f1d07bd069a63d796f026fc9d&smart=true&width=1456&height=816",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "politica",
-        "gobierno",
-        "milei",
-        "economia"
+        "economía",
+        "sociedad",
+        "expectativas"
       ],
       "tambienVistoEn": []
     },
@@ -484,39 +482,16 @@
       "tituloOriginal": "A cuánto llega la PUAM en septiembre de 2026 con el aumento confirmado",
       "tituloLimpio": "A cuánto llega la PUAM en septiembre de 2026 con el aumento confirmado",
       "resumen": "La prestación de Anses se incrementa en un 2,11%; cuáles son las nuevas cifras vigentes.",
-      "porQueImporta": "Información sobre prestaciones sociales en Argentina, relevante para entender el impacto de las políticas económicas en la población.",
-      "publicadoEn": "2026-08-23T12:39:55.000Z",
+      "porQueImporta": "Información práctica sobre un beneficio social en Argentina, relevante para quienes gestionan finanzas personales o familiares y para entender el contexto económico local.",
+      "publicadoEn": "2026-08-23T15:00:22.000Z",
       "imagen": "https://resizer.glanacion.com/resizer/v2/HMVRV6B2WBDAFDMKIGZB5HHIYY.jpg?auth=ddec52603b5e8901eee860f2e639e76c501b53c42581cbfd8d26049e78f91bf7&smart=true&width=1327&height=885",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "economia",
+        "finanzas",
         "anses",
-        "puam",
-        "aumento"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
-      "categoria": "Argentina",
-      "fuente": "La Nacion Politica",
-      "url": "https://www.lanacion.com.ar/politica/los-cajeritos-las-empresas-de-juego-clandestino-llegan-a-usar-menores-como-intermediarios-nid23082026/",
-      "tituloOriginal": "Los “cajeritos”, las empresas de juego clandestino llegan a usar menores como intermediarios",
-      "tituloLimpio": "Los “cajeritos”: empresas de juego clandestino usan menores como intermediarios",
-      "resumen": "Cuentas a nombre de menores de edad recibieron pagos a cambio de dar crédito para apuestas online, según detectó LA NACION en documentos judiciales.",
-      "porQueImporta": "Alerta sobre una nueva modalidad de fraude y actividad ilegal en Argentina, con implicaciones éticas y de seguridad financiera.",
-      "publicadoEn": "2026-08-23T10:41:56.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/OQVOOM3PFVFMBFT55VYTY2SE3I.png?auth=d6c241877a6467e037983ee7d17f6819c6edbfbfa158fdece32f5631388abd7b&smart=true&width=402&height=551",
-      "globalScore": 98,
-      "personalScore": 100,
-      "tags": [
-        "argentina",
-        "delito",
-        "juego-clandestino",
-        "menores",
-        "fraude"
+        "economía"
       ],
       "tambienVistoEn": []
     },
@@ -526,24 +501,23 @@
       "fuente": "Adweek",
       "url": "https://www.adweek.com/brand-marketing/how-to-make-ai-your-creative-superpower-with-native-foreigns-nik-kleverov/",
       "tituloOriginal": "How to Make AI Your Creative Superpower with Native Foreign’s Nik Kleverov",
-      "tituloLimpio": "Cómo hacer de la IA tu superpoder creativo con Nik Kleverov de Native Foreign",
-      "resumen": "Transformar ideas imposibles en historias de marca que resuenen.",
-      "porQueImporta": "Ofrece una perspectiva sobre el uso de la IA en la creatividad y el marketing, útil para profesionales que buscan innovar en sus estrategias.",
+      "tituloLimpio": "Cómo usar la IA como superpoder creativo, según Nik Kleverov de Native Foreign",
+      "resumen": "Se explica cómo convertir ideas imposibles en historias de marca que resuenen.",
+      "porQueImporta": "Ofrece una perspectiva sobre el uso de la IA en la creatividad y el marketing, directamente aplicable al trabajo de Guido en retoque fotográfico y arte con IA.",
       "publicadoEn": "2026-08-21T14:36:38.000Z",
       "globalScore": 82,
       "personalScore": 100,
       "tags": [
         "ia",
-        "marketing",
         "creatividad",
-        "marcas",
-        "innovacion"
+        "marketing",
+        "herramientas"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-08-23T12:44:31.543Z"
+    "generadoEn": "2026-08-23T17:19:41.285Z"
   }
 }
