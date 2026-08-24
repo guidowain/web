@@ -1,147 +1,128 @@
 {
   "fecha": "2026-08-24",
-  "generadoEn": "2026-08-24T12:54:56.450Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "Esta semana, Apple se destaca con novedades sobre el diseño del próximo iPhone, actualizaciones de iOS y la integración de música generada por IA en Apple Music. En el ámbito de la IA, se observa un crecimiento en el uso de herramientas para detectar contenido generado por IA en LinkedIn y la aparición de un misterioso modelo 'Ox Alpha'. Argentina presenta noticias sobre la adjudicación de corredores viales, la actividad legislativa del Gobierno y la cotización del dólar. En finanzas, se reporta una caída en el crédito hipotecario y movimientos en el mercado de criptomonedas y commodities. El marketing explora cómo Fanta busca posicionarse con una estrategia de 'universo cinematográfico' para Halloween.",
+  "generadoEn": "2026-08-24T17:30:19.801Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Hoy se destaca el regreso de Javier Milei a Casa Rosada para una reunión de gabinete, la caída de escrituras de compraventa en Argentina y un nuevo récord de producción petrolera en Vaca Muerta. En tecnología, Apple se prepara para lanzar el Watch Series 12 y una actualización importante de Siri con iOS 27 beta 7. Además, Coinbase lanzó acciones tokenizadas en su red Base, y Google Gemini se asocia con clubes de fútbol. En el ámbito de la IA, una startup de robótica recibió una valuación de 6 mil millones de dólares, y LinkedIn reporta que más de un millón de personas usaron su botón para reportar contenido generado por IA.",
   "radarPersonal": [
     {
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "El diseño de vidrio curvo del iPhone 20 se fabricará como el iPhone Air",
-      "resumen": "El iPhone del 20º aniversario de Apple se fabricará utilizando el mismo proceso de fabricación de vidrio desarrollado para el iPhone Air.",
+      "titulo": "Apple Watch Series 12: Novedades esperadas para el próximo mes",
+      "resumen": "El Apple Watch Series 12 se presentaría en el evento anual del iPhone el próximo mes, con rumores que sugieren una actualización discreta. El diseño no cambiaría por tercer año consecutivo.",
       "categoria": "Apple",
       "fuentes": [
         "MacRumors"
       ],
       "urls": [
-        "https://www.macrumors.com/2026/08/24/iphone-20-curved-glass-to-be-like-iphone-air/"
+        "https://www.macrumors.com/2026/08/24/apple-watch-series-12-everything-to-expect/"
       ],
       "score": 100,
       "tags": [
-        "iphone",
-        "diseño",
-        "vidrio",
-        "apple"
+        "apple",
+        "watch",
+        "lanzamiento"
       ]
     },
     {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "titulo": "Los niños aprenden más rápido que la IA y aún no se sabe por qué",
-      "resumen": "Solo un niño humano podía aprender un lenguaje humano con fluidez perfecta. Ahora hay dos.",
-      "categoria": "AI",
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "titulo": "iOS 27 beta 7 ya disponible, con una importante mejora de Siri con IA",
+      "resumen": "Apple lanzó la séptima beta de iOS 27 para desarrolladores, continuando el ciclo de pruebas antes del lanzamiento público en septiembre. Se espera una mejora importante de Siri con IA.",
+      "categoria": "Apple",
       "fuentes": [
-        "MIT Technology Review AI"
+        "9to5Mac"
       ],
       "urls": [
-        "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/"
+        "https://9to5mac.com/2026/08/24/ios-27-beta-7/"
+      ],
+      "score": 100,
+      "tags": [
+        "apple",
+        "ios",
+        "siri",
+        "ia"
+      ]
+    },
+    {
+      "id": "coinbase-aHR0cHM6Ly93d3cuY29p",
+      "titulo": "Coinbase lanza acciones tokenizadas en su red Base",
+      "resumen": "El exchange de criptomonedas Coinbase presentó versiones tokenizadas de acciones de Apple, Nvidia, Meta y Alphabet, emitidas bajo su nuevo marco de Abu Dhabi.",
+      "categoria": "Finance",
+      "fuentes": [
+        "CoinDesk"
+      ],
+      "urls": [
+        "https://www.coindesk.com/business/2026/08/24/coinbase-debuts-tokenized-stocks-on-base-network-joining-race-to-bring-equities-on-blockchain"
+      ],
+      "score": 100,
+      "tags": [
+        "finanzas",
+        "cripto",
+        "blockchain",
+        "inversión"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "Startup de IA General Intuition valorada en 6 mil millones de dólares, incursiona en robótica",
+      "resumen": "General Intuition, una startup que desarrolla un modelo fundamental para entrenar agentes de IA generalizados en movimiento espacial y temporal, está en conversaciones para recaudar fondos con una valuación de 6 mil millones de dólares.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/"
       ],
       "score": 100,
       "tags": [
         "ia",
-        "aprendizaje",
-        "lenguaje"
-      ]
-    },
-    {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "El Gobierno adjudicó ocho corredores viales de casi 4.000 kms y avanza con la concesión de rutas nacionales por 20 años",
-      "resumen": "La medida fue oficializada mediante la Resolución 1379/2026. Los corredores suman más de 3.900 kilómetros y quedaron en manos de distintos consorcios y empresas privadas. La concesión incluye obras, mantenimiento y explotación mediante peaje.",
-      "categoria": "Argentina",
-      "fuentes": [
-        "Ambito"
-      ],
-      "urls": [
-        "https://www.ambito.com/economia/el-gobierno-adjudico-ocho-corredores-viales-casi-4000-kms-y-avanza-la-concesion-rutas-nacionales-20-anos-n6313995"
-      ],
-      "score": 100,
-      "tags": [
-        "argentina",
-        "gobierno",
-        "viales",
-        "concesión"
-      ]
-    },
-    {
-      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
-      "titulo": "Cómo el nuevo Universo Embrujado de Fanta ayuda a convertir Halloween en una plataforma",
-      "resumen": "La campaña de Halloween 2025 de la marca Coca-Cola generó 10 mil millones de impresiones con un compromiso e impacto significativos en las ventas.",
-      "categoria": "Marketing",
-      "fuentes": [
-        "Marketing Dive"
-      ],
-      "urls": [
-        "https://www.marketingdive.com/news/how-fantas-haunted-universe-helps-turn-halloween-into-a-platform/828481/"
-      ],
-      "score": 100,
-      "tags": [
-        "marketing",
-        "fanta",
-        "halloween",
-        "campaña"
-      ]
-    },
-    {
-      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
-      "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este lunes 24 de agosto, minuto a minuto",
-      "resumen": "La divisa oficial opera a $1520 para la venta en el Banco Nación; el dólar blue cotiza a $1550 para esa operación; qué pasa con el MEP y el CCL.",
-      "categoria": "Argentina",
-      "fuentes": [
-        "La Nacion Economia"
-      ],
-      "urls": [
-        "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid24082026/"
-      ],
-      "score": 100,
-      "tags": [
-        "argentina",
-        "dólar",
-        "finanzas",
-        "cotización"
+        "robótica",
+        "inversión",
+        "startup"
       ]
     }
   ],
   "loImportante": [
-    "Apple avanza en el diseño de futuros iPhones y en la gestión de contenido musical generado por IA.",
-    "La IA sigue generando debate sobre sus capacidades de aprendizaje frente a las humanas y la detección de contenido generado por máquinas.",
-    "Argentina impulsa la infraestructura vial y enfrenta desafíos económicos con la caída del crédito hipotecario.",
-    "Las marcas exploran nuevas estrategias de marketing inmersivo para eventos estacionales como Halloween.",
-    "Los mercados financieros muestran volatilidad en commodities y criptomonedas, con movimientos significativos en Solana y el oro."
+    "Apple se prepara para el lanzamiento del Apple Watch Series 12 y una importante actualización de Siri con IA en iOS 27.",
+    "Coinbase introduce acciones tokenizadas de grandes empresas como Apple y Nvidia en su red Base, marcando un avance en la integración de finanzas tradicionales y blockchain.",
+    "En Argentina, la producción petrolera en Vaca Muerta alcanzó un récord, mientras que las escrituras de compraventa de propiedades cayeron un 9% en julio.",
+    "Javier Milei retomó la actividad en Casa Rosada con una reunión de gabinete enfocada en la morosidad.",
+    "La guerra comercial entre EE.UU. y Canadá se intensifica con la imposición de aranceles del 50% a autos y acero por parte de Donald Trump desde 2027."
   ],
   "oportunidades": [
     {
-      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
-      "categoria": "Marketing",
-      "titulo": "Fanta convierte Halloween en una plataforma de marketing",
-      "detalle": "La campaña de Halloween 2025 de Fanta generó 10 mil millones de impresiones y tuvo un impacto significativo en las ventas, mostrando el potencial de las campañas temáticas inmersivas.",
+      "id": "coinbase-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Investing",
+      "titulo": "Explorar acciones tokenizadas en la red Base de Coinbase",
+      "detalle": "Coinbase lanzó versiones tokenizadas de acciones de empresas como Apple, Nvidia, Meta y Alphabet en su red Base. Esto podría ofrecer nuevas vías de inversión y diversificación a través de la blockchain.",
       "acciones": [
-        "Analizar estrategias de marketing estacionales y de 'universo cinematográfico' para aplicar en proyectos de clientes.",
-        "Explorar la creación de contenido temático y experiencias inmersivas para campañas de marketing digital."
+        "Investigar la accesibilidad y regulación de estas acciones tokenizadas para inversores en Argentina.",
+        "Analizar el potencial de estas nuevas herramientas para la diversificación de carteras."
       ]
     },
     {
-      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
-      "categoria": "Investing",
-      "titulo": "Posible aumento en la quema diaria de SOL y desaceleración en la creación de tokens",
-      "detalle": "Una nueva votación en Solana podría reducir el crecimiento de la oferta de SOL al acelerar la disminución de la inflación y aumentar la quema diaria de tarifas.",
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "titulo": "Monitorear el avance de la IA en robótica con General Intuition",
+      "detalle": "La startup General Intuition, valorada en 6 mil millones de dólares, está desarrollando un modelo fundamental para entrenar agentes de IA en movimiento espacial y temporal, lo que podría tener implicaciones significativas para la robótica y la automatización.",
       "acciones": [
-        "Monitorear la votación de Solana y su impacto potencial en el valor de SOL.",
-        "Evaluar oportunidades de inversión en criptomonedas con mecanismos de deflación o quema de tokens."
+        "Seguir de cerca los desarrollos de General Intuition y otras empresas en IA aplicada a la robótica.",
+        "Evaluar cómo estas tecnologías podrían integrarse en procesos de automatización o creación artística con IA."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Market",
-      "titulo": "Caída del crédito hipotecario en Argentina",
-      "detalle": "El crédito hipotecario en Argentina cayó un 42% en el primer semestre, a pesar de un repunte en 2025, lo que indica una desaceleración en el financiamiento.",
-      "mitigacion": "Evaluar el impacto de la desaceleración económica en el poder adquisitivo y las inversiones a largo plazo en Argentina. Considerar diversificar inversiones fuera del mercado inmobiliario local si la tendencia persiste."
+      "titulo": "Escalada de guerra comercial entre EE.UU. y Canadá",
+      "detalle": "Donald Trump planea imponer aranceles del 50% a autos y acero canadienses desde 2027, lo que podría generar inestabilidad en los mercados globales y afectar cadenas de suministro.",
+      "mitigacion": "Monitorear el impacto de las tensiones comerciales en los mercados de commodities y acciones, y ajustar estrategias de inversión si es necesario."
     },
     {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "categoria": "AI",
-      "titulo": "Más de un millón de personas han usado el botón 'parece contenido IA' de LinkedIn",
-      "detalle": "La adopción masiva del botón de detección de 'contenido IA' en LinkedIn sugiere una creciente preocupación por la calidad y autenticidad del contenido generado por IA en plataformas profesionales.",
-      "mitigacion": "Asegurar que el contenido generado por IA para clientes o proyectos personales sea de alta calidad y no sea percibido como 'slop' o de baja calidad. Implementar revisiones humanas rigurosas para mantener la autenticidad y el valor."
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Market",
+      "titulo": "Caída en escrituras de compraventa y hipotecas en Argentina",
+      "detalle": "Las escrituras de compraventa cayeron un 9% en julio y las hipotecas pierden terreno, lo que indica una retracción del crédito y un mercado inmobiliario limitado en Argentina.",
+      "mitigacion": "Considerar el impacto de la situación inmobiliaria en la economía general y en posibles inversiones locales. Evaluar la estabilidad del mercado financiero argentino."
     }
   ],
   "conexiones": [],
@@ -152,19 +133,18 @@
       "fuente": "Google AI Blog",
       "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
       "tituloOriginal": "Get closer to the game with Gemini and Pixel",
-      "tituloLimpio": "Google Gemini y Pixel se asocian con clubes de fútbol para mejorar la experiencia del fan",
-      "resumen": "Google Gemini y Pixel se asocian con cinco clubes de fútbol globales para mejorar la experiencia del fan en los partidos a través de la IA y la tecnología de smartphones.",
-      "porQueImporta": "Muestra cómo la IA y la tecnología móvil se integran en experiencias de usuario masivas, relevante para entender tendencias de aplicación de IA en el entretenimiento y el marketing deportivo.",
+      "tituloLimpio": "Google Gemini y Pixel se asocian con clubes de fútbol para mejorar la experiencia del hincha con IA",
+      "resumen": "Google Gemini y Pixel se asociaron con cinco clubes de fútbol globales para mejorar la experiencia del hincha en los partidos mediante tecnología de IA y smartphones.",
+      "porQueImporta": "Muestra cómo la IA se aplica en el marketing deportivo y la experiencia del usuario, un área de interés para Guido por su trabajo con IA y marketing.",
       "publicadoEn": "2026-08-17T08:00:00.000Z",
       "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp",
       "globalScore": 88,
       "personalScore": 100,
       "tags": [
-        "ai",
-        "google",
-        "pixel",
+        "ia",
+        "marketing",
         "deportes",
-        "marketing"
+        "google"
       ],
       "tambienVistoEn": []
     },
@@ -172,19 +152,18 @@
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Apple",
       "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/08/24/iphone-20-curved-glass-to-be-like-iphone-air/",
-      "tituloOriginal": "iPhone 20's Curved Glass Design to Be Made Like iPhone Air",
-      "tituloLimpio": "El diseño de vidrio curvo del iPhone 20 se fabricará como el iPhone Air",
-      "resumen": "El iPhone del 20º aniversario de Apple se fabricará utilizando el mismo proceso de fabricación de vidrio desarrollado para el iPhone Air.",
-      "porQueImporta": "Indica una posible dirección de diseño para futuros iPhones, relevante para el interés en Apple y las tendencias en tecnología de dispositivos.",
-      "publicadoEn": "2026-08-24T12:42:09.000Z",
+      "url": "https://www.macrumors.com/2026/08/24/apple-watch-series-12-everything-to-expect/",
+      "tituloOriginal": "Apple Watch Series 12: Everything to Expect Next Month",
+      "tituloLimpio": "Apple Watch Series 12: Novedades esperadas para el próximo mes",
+      "resumen": "El Apple Watch Series 12 se presentaría en el evento anual del iPhone el próximo mes, con rumores que sugieren una actualización discreta. El diseño no cambiaría por tercer año consecutivo.",
+      "porQueImporta": "Noticia clave para Guido, interesado en Apple. Ofrece una visión de los próximos lanzamientos y la evolución de los productos de la marca.",
+      "publicadoEn": "2026-08-24T15:55:45.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "apple",
-        "iphone",
-        "diseño",
-        "tecnología"
+        "watch",
+        "lanzamiento"
       ],
       "tambienVistoEn": []
     },
@@ -192,19 +171,19 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/el-gobierno-adjudico-ocho-corredores-viales-casi-4000-kms-y-avanza-la-concesion-rutas-nacionales-20-anos-n6313995",
-      "tituloOriginal": "El Gobierno adjudicó ocho corredores viales de casi 4.000 kms y avanza con la concesión de rutas nacionales por 20 años",
-      "tituloLimpio": "El Gobierno adjudicó ocho corredores viales de casi 4.000 kms y avanza con la concesión de rutas nacionales por 20 años",
-      "resumen": "La medida fue oficializada mediante la Resolución 1379/2026. Los corredores suman más de 3.900 kilómetros y quedaron en manos de distintos consorcios y empresas privadas. La concesión incluye obras, mantenimiento y explotación mediante peaje.",
-      "porQueImporta": "Noticia de impacto directo en la infraestructura y economía argentina, relevante para entender el panorama de inversión y desarrollo local.",
-      "publicadoEn": "2026-08-24T11:07:00.000Z",
+      "url": "https://www.ambito.com/economia/donald-trump-acelera-la-guerra-comercial-canada-impondra-aranceles-del-50-autos-y-acero-2027-n6314199",
+      "tituloOriginal": "Donald Trump acelera la guerra comercial con Canadá: impondrá aranceles del 50% a autos y acero desde 2027",
+      "tituloLimpio": "Donald Trump acelera la guerra comercial con Canadá: impondrá aranceles del 50% a autos y acero desde 2027",
+      "resumen": "La medida responde a un supuesto trato desigual de Canadá a productos estadounidenses. Ottawa anunció aranceles de represalia ante el fracaso de las negociaciones bilaterales.",
+      "porQueImporta": "Impacta en la economía global y las cadenas de suministro, relevante para entender el contexto de inversión y negocios.",
+      "publicadoEn": "2026-08-24T17:10:00.000Z",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "gobierno",
-        "infraestructura",
-        "inversión"
+        "economía",
+        "política",
+        "comercio",
+        "aranceles"
       ],
       "tambienVistoEn": []
     },
@@ -212,20 +191,18 @@
       "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
       "categoria": "Marketing",
       "fuente": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/how-fantas-haunted-universe-helps-turn-halloween-into-a-platform/828481/",
-      "tituloOriginal": "How Fanta’s new Haunted Universe helps turn Halloween into a platform",
-      "tituloLimpio": "Cómo el nuevo Universo Embrujado de Fanta ayuda a convertir Halloween en una plataforma",
-      "resumen": "La campaña de Halloween 2025 de la marca Coca-Cola generó 10 mil millones de impresiones con un compromiso e impacto significativos en las ventas.",
-      "porQueImporta": "Ejemplo de marketing innovador y efectivo que utiliza la creación de un 'universo' para una festividad, útil para ideas en campañas de marketing.",
-      "publicadoEn": "2026-08-24T12:00:00.000Z",
+      "url": "https://www.marketingdive.com/news/publicis-tackles-fragmented-nil-market-with-travis-kelce-3-arts-sports/828498/",
+      "tituloOriginal": "Publicis tackles fragmented NIL market with Travis Kelce, 3 Arts Sports",
+      "tituloLimpio": "Publicis aborda el mercado fragmentado de NIL con Travis Kelce y 3 Arts Sports",
+      "resumen": "Una nueva empresa conjunta llamada Tekta busca simplificar las activaciones de marketing de NIL y hacerlas más medibles para los clientes de Publicis.",
+      "porQueImporta": "Relevante para Guido por su interés en marketing, ya que aborda la fragmentación del mercado y la medición de resultados en campañas.",
+      "publicadoEn": "2026-08-24T14:52:00.000Z",
       "globalScore": 96,
       "personalScore": 100,
       "tags": [
         "marketing",
-        "fanta",
-        "halloween",
-        "campaña",
-        "estrategia"
+        "publicidad",
+        "negocios"
       ],
       "tambienVistoEn": []
     },
@@ -233,18 +210,19 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-      "tituloOriginal": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-      "tituloLimpio": "Quién está detrás del nuevo 'modelo sigiloso' Ox Alpha",
-      "resumen": "Un misterioso nuevo modelo de IA llamado Ox Alpha ha generado especulaciones en internet.",
-      "porQueImporta": "La aparición de nuevos modelos de IA, incluso si son 'sigilosos', es relevante para mantenerse al tanto de la evolución del campo y posibles competidores o innovaciones.",
-      "publicadoEn": "2026-08-23T20:01:36.000Z",
-      "globalScore": 94,
+      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "tituloOriginal": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "tituloLimpio": "Valor y Point72 respaldan a General Intuition con una valuación de 6 mil millones de dólares mientras la startup de IA avanza en robótica",
+      "resumen": "General Intuition, la startup que construye un modelo fundamental que entrena agentes de IA generalizados para moverse en el espacio y el tiempo, está en conversaciones para recaudar fondos con una valuación de 6 mil millones de dólares.",
+      "porQueImporta": "Destaca una inversión significativa en IA aplicada a la robótica, un campo de interés para Guido por su trabajo con IA y automatización.",
+      "publicadoEn": "2026-08-24T15:24:18.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "ai",
-        "modelo",
-        "tecnología"
+        "ia",
+        "robótica",
+        "inversión",
+        "startup"
       ],
       "tambienVistoEn": []
     },
@@ -254,17 +232,17 @@
       "fuente": "The Verge AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
       "tituloOriginal": "Over 1 million people have clicked LinkedIn’s AI slop button",
-      "tituloLimpio": "Más de 1 millón de personas han usado el botón 'parece contenido IA' de LinkedIn",
-      "resumen": "LinkedIn anunció un botón 'Parece contenido IA' el 30 de julio, y la compañía dice que muchas personas ya lo han usado.",
-      "porQueImporta": "Indica una creciente preocupación por la autenticidad del contenido generado por IA y la necesidad de herramientas de detección, relevante para creadores de contenido y profesionales de marketing.",
+      "tituloLimpio": "Más de 1 millón de personas hicieron clic en el botón de LinkedIn para reportar contenido generado por IA",
+      "resumen": "LinkedIn anunció un botón para reportar contenido que 'parece generado por IA' y la compañía dice que más de un millón de personas ya lo usaron.",
+      "porQueImporta": "Muestra la preocupación y la interacción de los usuarios con el contenido generado por IA, relevante para Guido como artista de IA y profesional del marketing.",
       "publicadoEn": "2026-08-21T21:25:50.000Z",
       "globalScore": 92,
       "personalScore": 100,
       "tags": [
-        "ai",
-        "linkedin",
+        "ia",
+        "redes sociales",
         "contenido",
-        "autenticidad"
+        "ética"
       ],
       "tambienVistoEn": []
     },
@@ -272,19 +250,19 @@
       "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
       "categoria": "AI",
       "fuente": "MIT Technology Review AI",
-      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-      "tituloOriginal": "Kids outlearn AI—and we still don’t know why",
-      "tituloLimpio": "Los niños aprenden más rápido que la IA y aún no se sabe por qué",
-      "resumen": "Solo un niño humano podía aprender un lenguaje humano con fluidez perfecta. Ahora hay dos.",
-      "porQueImporta": "Plantea preguntas fundamentales sobre las capacidades de aprendizaje de la IA en comparación con los humanos, relevante para entender los límites y el potencial de la tecnología.",
-      "publicadoEn": "2026-08-24T09:00:00.000Z",
+      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "tituloOriginal": "How to encourage smarter AI use in the classroom",
+      "tituloLimpio": "Cómo fomentar un uso más inteligente de la IA en el aula",
+      "resumen": "Este artículo de MIT Technology Review examina cómo aplicar los LLM en diversas industrias, enfocándose en el uso de chatbots en las escuelas.",
+      "porQueImporta": "Aunque enfocado en educación, el artículo aborda el uso práctico de LLM, lo que puede dar ideas a Guido sobre aplicaciones de IA en otros contextos.",
+      "publicadoEn": "2026-08-24T14:20:19.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "ai",
-        "aprendizaje",
-        "lenguaje",
-        "investigación"
+        "ia",
+        "educación",
+        "llm",
+        "aplicaciones"
       ],
       "tambienVistoEn": []
     },
@@ -292,19 +270,39 @@
       "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Apple",
       "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/24/ios-27-fixes-three-of-the-most-annoying-messages-bugs/",
-      "tituloOriginal": "iOS 27 fixes three of the most annoying Messages bugs",
-      "tituloLimpio": "iOS 27 corrige tres de los errores más molestos de Mensajes",
-      "resumen": "iOS 27 se enfoca en correcciones de errores y mejoras de rendimiento en aplicaciones como Safari, Mail, Calendar y más. En la aplicación Mensajes, iOS 27 corrige tres errores.",
-      "porQueImporta": "Las actualizaciones de iOS son importantes para los usuarios de Apple, ya que mejoran la experiencia y la funcionalidad del sistema operativo.",
-      "publicadoEn": "2026-08-24T12:11:38.000Z",
+      "url": "https://9to5mac.com/2026/08/24/ios-27-beta-7/",
+      "tituloOriginal": "iOS 27 beta 7 now available as Apple tests major Siri AI upgrade",
+      "tituloLimpio": "iOS 27 beta 7 ya disponible mientras Apple prueba una importante mejora de Siri con IA",
+      "resumen": "Apple lanzó la séptima beta de iOS 27 para desarrolladores. iOS 27 beta 7 continúa el ciclo de pruebas de Apple antes del lanzamiento público en septiembre, con una importante mejora de Siri con IA.",
+      "porQueImporta": "Noticia clave para Guido, interesado en Apple y la IA. Indica avances en la integración de IA en los productos de Apple.",
+      "publicadoEn": "2026-08-24T17:28:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "apple",
         "ios",
-        "actualización",
-        "software"
+        "siri",
+        "ia"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/08/24/apple-smart-home-display-rumors-sonos-gambit-soundbar-leak-on-smart-home-insider?utm_source=rss",
+      "tituloOriginal": "Apple smart home display rumors & Sonos Gambit soundbar leak on Smart Home Insider",
+      "tituloLimpio": "Rumores sobre la pantalla inteligente de Apple y filtración de la barra de sonido Sonos Gambit",
+      "resumen": "El podcast Smart Home Insider resume los últimos rumores sobre la pantalla inteligente de Apple y cubre noticias sobre Sonos, incluyendo un nuevo producto y una nueva función.",
+      "porQueImporta": "Interesante para Guido por su interés en Apple y las herramientas, ya que explora posibles nuevos productos y la evolución del ecosistema de hogar inteligente.",
+      "publicadoEn": "2026-08-24T16:45:34.000Z",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "hogar inteligente",
+        "rumores",
+        "productos"
       ],
       "tambienVistoEn": []
     },
@@ -314,81 +312,59 @@
       "fuente": "MacStories",
       "url": "https://www.macstories.net/linked/apple-music-to-launch-labels-on-ai-songs/",
       "tituloOriginal": "Apple Music to Launch Labels on AI “Songs”",
-      "tituloLimpio": "Apple Music lanzará etiquetas en 'canciones' de IA",
-      "resumen": "Apple Music pronto lanzará etiquetas en canciones creadas con inteligencia artificial, según un correo electrónico enviado a socios de la industria.",
-      "porQueImporta": "Muestra cómo Apple se adapta a la música generada por IA, relevante para la industria creativa y el futuro del arte con IA.",
+      "tituloLimpio": "Apple Music lanzará etiquetas para 'canciones' de IA",
+      "resumen": "Apple Music pronto lanzará etiquetas para canciones creadas con inteligencia artificial, según un correo electrónico enviado a socios de la industria.",
+      "porQueImporta": "Relevante para Guido por su trabajo con IA y arte. Muestra cómo la industria musical se adapta a la IA y cómo se diferenciará el contenido generado por máquinas.",
       "publicadoEn": "2026-08-20T22:51:39.000Z",
       "globalScore": 84,
       "personalScore": 100,
       "tags": [
         "apple",
-        "music",
-        "ai",
-        "arte",
-        "música"
+        "música",
+        "ia",
+        "contenido"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
       "categoria": "Finance",
-      "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/08/24/new-solana-vote-could-ramp-daily-sol-burns-to-usd800-000-and-slow-new-token-creation",
-      "tituloOriginal": "New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation",
-      "tituloLimpio": "Nueva votación de Solana podría aumentar la quema diaria de SOL a $800,000 y ralentizar la creación de nuevos tokens",
-      "resumen": "Dos de las tres propuestas reducirían el crecimiento de la oferta de SOL al acelerar la disminución de la inflación de Solana y aumentar la quema diaria de tarifas.",
-      "porQueImporta": "Impacta directamente en el ecosistema de Solana y el valor de su criptomoneda, relevante para inversores en criptoactivos.",
-      "publicadoEn": "2026-08-24T12:52:30.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/9a77266875bd5ba03807c057c4d6412491668d63-3622x2717.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "globalScore": 96,
-      "personalScore": 100,
-      "tags": [
-        "finanzas",
-        "criptomonedas",
-        "solana",
-        "inversión"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
-      "categoria": "Finance",
-      "fuente": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/strategy-2-billion-raise-strc-136-million-bitcoin-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "tituloOriginal": "Strategy pauses BTC buys, launches $1.6B cash pool after $2B raise",
-      "tituloLimpio": "Strategy pausa compras de BTC y lanza un fondo de efectivo de $1.6B después de una recaudación de $2B",
-      "resumen": "Strategy detuvo nuevas compras de Bitcoin, manteniendo sus tenencias en 840,447 BTC, mientras lanzaba un fondo de efectivo de $1.59 mil millones después de recaudar $2 mil millones de ventas de acciones de MSTR.",
-      "porQueImporta": "Muestra movimientos estratégicos de grandes inversores en Bitcoin, relevante para entender la dinámica del mercado de criptomonedas.",
-      "publicadoEn": "2026-08-24T12:43:00.000Z",
-      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-how-michael-saylors-strategy-became-the-largest-bitcoin-holder-2.jpg",
-      "globalScore": 90,
-      "personalScore": 100,
-      "tags": [
-        "finanzas",
-        "bitcoin",
-        "inversión",
-        "criptomonedas"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
-      "categoria": "Argentina",
-      "fuente": "Clarin Politica",
-      "url": "https://www.clarin.com/politica/javier-milei-medidas-vivo-gobierno-inicia-semana-clave-congreso-reformas-oposicion-presiona-proyectos-morosidad_0_K644E3Ql2L.html",
-      "tituloOriginal": "Javier Milei y sus medidas, EN VIVO: El Gobierno inicia una semana clave en el Congreso con reformas y la oposición presiona con proyectos sobre la morosidad",
-      "tituloLimpio": "Javier Milei y sus medidas, EN VIVO: El Gobierno inicia una semana clave en el Congreso con reformas",
-      "resumen": "Luego de un parate de más de dos meses, la Cámara de Diputados retomará su actividad el próximo miércoles con la discusión de proyectos claves para el oficialismo.",
-      "porQueImporta": "Noticia política de Argentina que puede influir en la economía y el clima de negocios, relevante para entender el contexto local.",
-      "publicadoEn": "2026-08-24T10:47:16.000Z",
-      "imagen": "https://www.clarin.com/img/2026/08/24/gcKeGpZIf_1200x630__1.jpg",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/oil-falls-1-ahead-us-231835385.html",
+      "tituloOriginal": "Oil slips ahead of US announcement of new sanctions on Iran",
+      "tituloLimpio": "El petróleo cae antes del anuncio de nuevas sanciones de EE.UU. a Irán",
+      "resumen": "El petróleo cae antes del anuncio de nuevas sanciones de EE.UU. a Irán.",
+      "porQueImporta": "Impacta en los mercados financieros y el precio de la energía, relevante para las decisiones de inversión de Guido.",
+      "publicadoEn": "2026-08-24T17:17:29.000Z",
+      "imagen": "https://media.zenfs.com/en/reuters.com/980d3f1cfc5402dd477c31c3bb578835.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
+        "finanzas",
+        "petróleo",
+        "mercado",
+        "sanciones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/energia-y-mineria/record-petrolero-ano-crecio-25-produccion-barriles-corazon-vaca-muerta_0_fpCxHlheAD.html",
+      "tituloOriginal": "Récord petrolero: en un año creció 25% la producción de barriles en el \"corazón\" de Vaca Muerta",
+      "tituloLimpio": "Récord petrolero: en un año creció 25% la producción de barriles en el 'corazón' de Vaca Muerta",
+      "resumen": "Neuquén produjo más de 650 mil barriles, un máximo histórico. El petróleo no convencional representa el 97% de su extracción.",
+      "porQueImporta": "Noticia económica relevante para Argentina, que puede impactar en la economía del país y en posibles inversiones locales.",
+      "publicadoEn": "2026-08-24T15:15:08.000Z",
+      "imagen": "https://www.clarin.com/img/2024/07/15/oT8zQKArE_1200x630__1.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
         "argentina",
-        "política",
-        "gobierno",
-        "congreso"
+        "economía",
+        "petróleo",
+        "vaca muerta"
       ],
       "tambienVistoEn": []
     },
@@ -396,20 +372,40 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/08/24/el-credito-hipotecario-cayo-42-en-el-primer-semestre-cuantas-operaciones-se-realizaron-en-el-ano/",
-      "tituloOriginal": "El crédito hipotecario cayó 42% en el primer semestre: cuántas operaciones se realizaron en el año",
-      "tituloLimpio": "El crédito hipotecario cayó 42% en el primer semestre en Argentina",
-      "resumen": "Tras el fuerte repunte de 2025, el financiamiento entró en una etapa de desaceleración. No obstante, los montos otorgados subieron y el mercado se mantiene activo.",
-      "porQueImporta": "Indica una tendencia en el mercado inmobiliario y financiero argentino, relevante para decisiones de inversión y planificación económica.",
-      "publicadoEn": "2026-08-24T12:38:02.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/G46SCWVYQ5DXFLJTNDRLAI5B5E.jpg?auth=e8bb17eee56e298d364e29ddc8e810e107d4c3ac10c3297892e3bccf67906286&smart=true&width=1920&height=1081",
+      "url": "https://www.infobae.com/economia/2026/08/24/cayeron-9-las-escrituras-de-compraventa-en-julio-y-las-hipotecas-pierden-cada-vez-mas-terreno/",
+      "tituloOriginal": "Cayeron 9% las escrituras de compraventa en julio y las hipotecas pierden cada vez más terreno",
+      "tituloLimpio": "Cayeron 9% las escrituras de compraventa en julio y las hipotecas pierden cada vez más terreno",
+      "resumen": "El mercado inmobiliario sigue limitado por la retracción del crédito, aunque mantiene cierta estabilidad.",
+      "porQueImporta": "Información clave sobre la economía argentina y el mercado inmobiliario, relevante para decisiones de inversión y planificación financiera.",
+      "publicadoEn": "2026-08-24T17:22:16.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/KWBNW4VKHFE4HEDYL72GICXGGQ.png?auth=0767ceb5249b3a146a88d22d1ffc62550ff1404f757a2911fd352d08cd7d6c11&smart=true&width=1408&height=768",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "finanzas",
-        "crédito",
-        "economía"
+        "economía",
+        "inmobiliario",
+        "crédito"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/08/24/javier-milei-retomo-la-actividad-en-casa-rosada-encabeza-una-nueva-reunion-de-gabinete/",
+      "tituloOriginal": "Javier Milei volvió a la actividad en la Casa Rosada: encabezó una reunión de Gabinete enfocada en la morosidad",
+      "tituloLimpio": "Javier Milei volvió a la actividad en la Casa Rosada: encabezó una reunión de Gabinete enfocada en la morosidad",
+      "resumen": "Luego de varias semanas en la quinta de Olivos, el Presidente convocó al equipo completo y se involucra de lleno en la actividad legislativa.",
+      "porQueImporta": "Noticia política relevante para Argentina, que indica el regreso del presidente a la actividad oficial y los temas prioritarios de su gobierno.",
+      "publicadoEn": "2026-08-24T17:27:25.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/EVUTRMZA6BCSNFATLK5EIRXB4Q.jpg?auth=7990a193b36363ab5ed21156f0814a3b5f67457b58a4435f10ac10c3de483226&smart=true&width=2569&height=1445",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "política",
+        "gobierno"
       ],
       "tambienVistoEn": []
     },
@@ -420,64 +416,23 @@
       "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid24082026/",
       "tituloOriginal": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este lunes 24 de agosto, minuto a minuto",
       "tituloLimpio": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este lunes 24 de agosto",
-      "resumen": "La divisa oficial opera a $1520 para la venta en el Banco Nación; el dólar blue cotiza a $1550 para esa operación; qué pasa con el MEP y el CCL.",
-      "porQueImporta": "Información esencial para cualquier residente en Argentina, dado el impacto del dólar en la economía diaria y las inversiones.",
-      "publicadoEn": "2026-08-24T12:45:00.000Z",
+      "resumen": "La divisa oficial opera a $1525 para la venta en el Banco Nación; el dólar blue cotiza a $1560 para esa operación.",
+      "porQueImporta": "Información esencial para Guido, residente en Argentina, para entender la situación económica y planificar sus finanzas.",
+      "publicadoEn": "2026-08-24T17:19:24.000Z",
       "imagen": "https://resizer.glanacion.com/resizer/v2/2PKGQIKZFRC5DNV5AWHJTAJM7Y.jpg?auth=3a1f8af0d3878b01d6e12134f43c8c8f51dfd5d06262fa04e9e6a6f2a49aaa3b&smart=true&width=2000&height=1333",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "argentina",
+        "economía",
         "dólar",
-        "finanzas",
-        "cotización"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
-      "categoria": "Argentina",
-      "fuente": "La Nacion Politica",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-volvio-a-la-casa-rosada-tras-23-dias-y-reune-al-gabinete-nid24082026/",
-      "tituloOriginal": "Javier Milei volvió a la Casa Rosada tras 23 días y reúne al gabinete",
-      "tituloLimpio": "Javier Milei volvió a la Casa Rosada tras 23 días y reúne al gabinete",
-      "resumen": "El primer mandatario convocó a sus ministros; el último encuentro fue hace un mes y medio; la agenda legislativa y la situación de Sturzenegger, en la agenda.",
-      "porQueImporta": "Indica actividad gubernamental y posibles decisiones políticas que pueden afectar el panorama económico y social de Argentina.",
-      "publicadoEn": "2026-08-24T12:37:45.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/XSOCMJ33D5B3BETMAVCDZS3EJU.jpg?auth=ea0720a1645d3eb01858f4554f6ee1d0d141a78c057bcf8da5a9e1acfa1677bb&smart=true&width=1600&height=1066",
-      "globalScore": 98,
-      "personalScore": 100,
-      "tags": [
-        "argentina",
-        "política",
-        "gobierno"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
-      "categoria": "Marketing",
-      "fuente": "Adweek",
-      "url": "https://www.adweek.com/creativity/fantas-big-bet-to-own-halloween-an-original-cinematic-universe/",
-      "tituloOriginal": "Fanta’s Big Bet to Own Halloween: An Original Cinematic Universe",
-      "tituloLimpio": "La gran apuesta de Fanta para adueñarse de Halloween: un universo cinematográfico original",
-      "resumen": "Fanta apuesta por el entretenimiento original para reclamar la temporada de Halloween.",
-      "porQueImporta": "Refuerza la estrategia de marketing de Fanta, mostrando cómo las marcas buscan crear experiencias inmersivas y narrativas para conectar con los consumidores.",
-      "publicadoEn": "2026-08-24T08:00:00.000Z",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "marketing",
-        "fanta",
-        "halloween",
-        "estrategia",
-        "creatividad"
+        "finanzas"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-08-24T12:54:56.450Z"
+    "generadoEn": "2026-08-24T17:30:19.801Z"
   }
 }
