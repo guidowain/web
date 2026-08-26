@@ -1,187 +1,149 @@
 {
   "fecha": "2026-08-26",
-  "generadoEn": "2026-08-26T12:57:25.421Z",
-  "actualizacion": "09:00",
-  "resumenEjecutivo": "Bill Gates expresó una profunda preocupación por el impacto de la IA en el empleo y pidió una respuesta urgente. En Argentina, el consumo de combustibles cayó un 6,4% interanual en julio, y se debate la reforma de la carta orgánica del Banco Central. En el ámbito de Apple, un 75% de los adultos en EE.UU. no está interesado en un iPhone plegable, aunque se filtró una posible placa madre del iPhone Ultra. En finanzas, Bernstein pronostica que Bitcoin podría alcanzar los $125.000 para fines de 2026.",
+  "generadoEn": "2026-08-26T19:01:49.150Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Septiembre llega con varios aumentos en Argentina, incluyendo transporte, alquileres y prepagas. Apple anunció un evento para el 9 de septiembre donde se esperan nuevos iPhones y otros dispositivos. En el ámbito de la IA, Google y otras empresas están mejorando las capacidades de transcripción y análisis de audio. También hay novedades sobre el mercado de criptomonedas y la reforma del Banco Central en Argentina.",
   "radarPersonal": [
     {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "titulo": "Bill Gates, preocupado por la IA, rompe el silencio",
-      "resumen": "Bill Gates reflexionó sobre la IA y pasó de ser optimista a pesimista sobre su futuro colectivo. Tras un período de silencio, Gates publicó un ensayo extenso.",
-      "categoria": "AI",
-      "fuentes": [
-        "The Verge AI"
-      ],
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet"
-      ],
-      "score": 100,
-      "tags": [
-        "bill gates",
-        "ia",
-        "preocupacion"
-      ]
-    },
-    {
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "Desplome del consumo de combustibles en Argentina",
-      "resumen": "Las ventas de combustibles retrocedieron un 6,4% interanual en julio. Solo tres provincias registraron avances mínimos, mientras que 21 cayeron, con Salta, Jujuy y Tucumán liderando las bajas.",
+      "titulo": "Septiembre llega con aumentos en transporte, alquileres y prepagas en Argentina",
+      "resumen": "El Estado y las empresas ya definieron los incrementos de tarifas y servicios clave para el próximo mes. Los nuevos montos entrarán en vigencia el martes 1° de septiembre.",
       "categoria": "Argentina",
       "fuentes": [
         "Ambito"
       ],
       "urls": [
-        "https://www.ambito.com/economia/desplome-del-consumo-combustibles-ocho-provincias-la-caida-supero-el-10-n6314898"
+        "https://www.ambito.com/economia/septiembre-llega-aumentos-transporte-alquileres-prepagas-y-mas-todos-los-detalles-n6315077"
       ],
       "score": 100,
       "tags": [
-        "consumo",
-        "combustibles",
-        "argentina",
-        "economia"
+        "aumentos",
+        "tarifas",
+        "servicios",
+        "argentina"
       ]
     },
     {
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "Poco interés en un iPhone plegable en EE.UU.",
-      "resumen": "Según una encuesta, el 75% de los adultos en EE.UU. no tiene interés en comprar un iPhone plegable. Aquellos interesados no pagarían el precio rumoreado de más de 2.000 dólares.",
+      "titulo": "Apple Event Livestream: Dónde y cuándo ver el 9 de septiembre",
+      "resumen": "Tras el anuncio del evento del iPhone que tendrá lugar el 9 de septiembre, Apple añadió un marcador de posición del evento a su canal de YouTube. Apple transmitirá el evento “Surprise and Shine” en YouTube, en el sitio web de Apple Events y en la app Apple TV donde esté disponible.",
       "categoria": "Apple",
       "fuentes": [
         "MacRumors"
       ],
       "urls": [
-        "https://www.macrumors.com/2026/08/26/most-arent-interested-in-a-foldable-iphone/"
+        "https://www.macrumors.com/2026/08/26/apple-event-livestream-youtube/"
       ],
       "score": 100,
       "tags": [
-        "iphone",
-        "plegable",
         "apple",
-        "mercado"
+        "evento",
+        "iphone",
+        "livestream"
       ]
     },
     {
-      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
-      "titulo": "Bernstein pronostica que Bitcoin alcanzará los $125K para fines de 2026",
-      "resumen": "Bernstein espera que Bitcoin recupere los $125.000 para fines de 2026, antes de llegar a los $300.000 en 2029 en su escenario base, con un caso alcista de $500.000.",
-      "categoria": "Finance",
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "La nueva transcripción de IA de Google elimina tus 'eh' y 'ah'",
+      "resumen": "Google actualizó Gemini Audio con algunos modelos Gemini 3.5, introduciendo nuevas capacidades de transcripción que detectan automáticamente jerga especializada y más de 85 idiomas. Gemini 3.5 Live, 3.5 Live Experimental y 3.5 Transcribe están diseñados para proporcionar mayor precisión para las funciones de IA controladas por voz de Google, sin problemas con el ruido de fondo.",
+      "categoria": "AI",
       "fuentes": [
-        "CoinTelegraph"
+        "The Verge AI"
       ],
       "urls": [
-        "https://cointelegraph.com/markets/bernstein-predicts-bitcoin-reclaim-125000-year-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai"
       ],
       "score": 100,
       "tags": [
-        "bitcoin",
-        "pronostico",
-        "inversion",
-        "criptomonedas"
+        "google",
+        "ia",
+        "transcripción",
+        "audio"
       ]
     },
     {
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "titulo": "Arga desarrolla una mejor forma de entrenar agentes de IA empresariales",
-      "resumen": "Arga recaudó 10 millones de dólares en una ronda de financiación inicial liderada por General Catalyst, con participación de Box Group, Emergence, Gradient y SV Angel.",
+      "titulo": "Radar hace que los podcasts sean buscables y utilizables por agentes de IA",
+      "resumen": "La nueva plataforma de inteligencia de podcasts de Particle transcribe y analiza más de 130.000 podcasts, haciendo que sus conversaciones sean buscables en la web y accesibles para agentes de IA a través de una API y MCP.",
       "categoria": "AI",
       "fuentes": [
         "TechCrunch AI"
       ],
       "urls": [
-        "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/"
+        "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/"
       ],
       "score": 100,
       "tags": [
         "ia",
-        "empresarial",
-        "financiacion",
-        "tecnologia"
+        "podcasts",
+        "búsqueda",
+        "automatización"
       ]
     }
   ],
   "loImportante": [
-    "Bill Gates advierte sobre la amenaza de la IA al empleo y pide una respuesta urgente.",
-    "El consumo de combustibles en Argentina cayó un 6,4% interanual en julio, con fuertes bajas en varias provincias.",
-    "Diputados debate la reforma de la carta orgánica del Banco Central y otros proyectos de ley.",
-    "Bernstein proyecta que Bitcoin podría alcanzar los $125.000 para fines de 2026.",
-    "Un 75% de los adultos en EE.UU. no muestra interés en un iPhone plegable, según una encuesta."
+    "Septiembre trae aumentos significativos en servicios esenciales en Argentina.",
+    "Apple realizará un evento clave el 9 de septiembre, con posibles lanzamientos de nuevos iPhones y otros dispositivos.",
+    "Las herramientas de IA de Google y otras empresas están mejorando la transcripción y el análisis de audio, lo que podría impactar la creación de contenido y la automatización.",
+    "Se debate en el Congreso argentino una reforma del Banco Central y el oficialismo bloqueó proyectos de la oposición sobre endeudamiento."
   ],
   "oportunidades": [
     {
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
-      "titulo": "Inversión en IA empresarial: Arga recauda $10 millones para entrenar agentes de IA",
-      "detalle": "Arga obtuvo una financiación significativa para mejorar el entrenamiento de agentes de IA para empresas. Esto indica un crecimiento en el sector de soluciones de IA para negocios.",
+      "titulo": "Aprovechar la IA para analizar y buscar contenido en podcasts",
+      "detalle": "La plataforma Radar permite transcribir y analizar podcasts, haciéndolos buscables y accesibles para agentes de IA. Esto abre la puerta a nuevas formas de consumir y reutilizar contenido de audio.",
       "acciones": [
-        "Investigar las tendencias en el entrenamiento de IA empresarial.",
-        "Analizar las aplicaciones de agentes de IA en el retoque fotográfico y arte con IA."
+        "Investigar cómo integrar herramientas de análisis de audio con IA en flujos de trabajo de contenido.",
+        "Explorar el uso de APIs para acceder a información de podcasts para proyectos de IA."
       ]
     },
     {
-      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
-      "categoria": "Investing",
-      "titulo": "Pronóstico alcista para Bitcoin: Bernstein proyecta $125K para 2026",
-      "detalle": "Bernstein espera que Bitcoin recupere los $125.000 para fines de 2026 y alcance los $300.000 en 2029. Esto sugiere un potencial de crecimiento en el mercado de criptomonedas.",
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "titulo": "Mejorar la calidad de audio y transcripciones con IA de Google",
+      "detalle": "Las nuevas capacidades de Gemini 3.5 de Google mejoran la precisión de las transcripciones de audio, detectando jerga especializada y eliminando ruidos de fondo. Esto es útil para la edición de audio y la creación de contenido.",
       "acciones": [
-        "Revisar el desempeño de Bitcoin y otras criptomonedas.",
-        "Considerar la diversificación de inversiones en activos digitales."
+        "Probar las nuevas funciones de transcripción de Google para mejorar la calidad de los audios.",
+        "Considerar el uso de estas herramientas para automatizar la edición de voz en proyectos."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "categoria": "AI",
-      "titulo": "Preocupación de Bill Gates por el impacto de la IA en el empleo",
-      "detalle": "Bill Gates expresó un profundo pesimismo sobre lo que la IA significa para el futuro colectivo, especialmente en relación con el empleo, y pidió una respuesta urgente.",
-      "mitigacion": "Mantenerse actualizado sobre las tendencias de la IA y sus implicaciones en el mercado laboral. Explorar nuevas habilidades y herramientas de IA para adaptarse a los cambios."
-    },
-    {
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Market",
-      "titulo": "Desplome del consumo de combustibles en Argentina",
-      "detalle": "Las ventas de combustibles retrocedieron un 6,4% interanual en julio, con caídas significativas en la mayoría de las provincias. Esto puede indicar una desaceleración económica general.",
-      "mitigacion": "Monitorear de cerca los indicadores económicos locales. Evaluar el impacto de la situación económica en los costos operativos y la demanda de servicios."
-    }
-  ],
-  "conexiones": [
-    {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "titulo": "La preocupación de Bill Gates por la IA y la amenaza al empleo",
-      "historias": [
-        "Bill Gates advirtió sobre la amenaza de la IA al empleo y pidió una respuesta urgente: “No hay ningún plan” (Infobae Economia)",
-        "Bill Gates está profundamente preocupado por la IA y ya no se queda callado (The Verge AI)"
-      ],
-      "conclusion": "Ambas noticias resaltan la creciente preocupación de Bill Gates sobre el impacto de la inteligencia artificial en el mercado laboral y la necesidad de una estrategia global para afrontar esta transición."
+      "titulo": "Impacto de los aumentos de tarifas en Argentina",
+      "detalle": "Los incrementos en transporte, alquileres y prepagas a partir de septiembre afectarán el poder adquisitivo y los costos operativos de negocios en Argentina.",
+      "mitigacion": "Revisar y ajustar presupuestos personales y de negocios. Buscar alternativas de ahorro en servicios afectados."
     },
     {
-      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
-      "titulo": "El debate en Diputados sobre la reforma del Banco Central y otros proyectos",
-      "historias": [
-        "Diputados hoy, EN VIVO: a qué hora arranca el debate por la reforma de la carta orgánica del Banco Central e Inocencia Fiscal II (Clarin Politica)",
-        "Diputados, en vivo: últimas noticias sobre el debate de Inocencia Fiscal, la reforma del BCRA y todos los proyectos de ley (Infobae Politica)"
-      ],
-      "conclusion": "Las dos fuentes cubren el mismo evento legislativo en Argentina, destacando la importancia del debate sobre la reforma de la carta orgánica del Banco Central y otros proyectos clave, que podrían tener un impacto significativo en la economía local."
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Regulatory",
+      "titulo": "Incertidumbre por la reforma del Banco Central en Argentina",
+      "detalle": "La propuesta de reforma del Banco Central, que busca eliminar adelantos transitorios al Tesoro y restringir la compra de deuda pública, podría generar cambios en la política monetaria y la estabilidad económica.",
+      "mitigacion": "Mantenerse informado sobre el avance de la reforma y sus posibles implicaciones en el mercado financiero local."
     }
   ],
+  "conexiones": [],
   "noticias": [
     {
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Apple",
       "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/08/26/most-arent-interested-in-a-foldable-iphone/",
-      "tituloOriginal": "75% of US Adults Aren't Interested in a Foldable iPhone",
-      "tituloLimpio": "El 75% de los adultos en EE.UU. no está interesado en un iPhone plegable",
-      "resumen": "Tres de cada cuatro adultos en EE.UU. dicen no tener interés en comprar un iPhone plegable, según una nueva encuesta. La encuesta encontró que el 75% no está interesado en un dispositivo plegable de Apple.",
-      "porQueImporta": "Aunque es un dato de EE.UU., refleja una tendencia general del mercado y el posible recibimiento de un producto de Apple. Es relevante para entender la demanda de futuros dispositivos.",
-      "publicadoEn": "2026-08-26T12:53:46.000Z",
-      "globalScore": 96,
+      "url": "https://www.macrumors.com/2026/08/26/apple-event-livestream-youtube/",
+      "tituloOriginal": "Apple Event Livestream: Where and When to Watch on September 9",
+      "tituloLimpio": "Apple Event Livestream: Dónde y cuándo ver el 9 de septiembre",
+      "resumen": "Tras el anuncio del evento del iPhone que tendrá lugar el 9 de septiembre, Apple añadió un marcador de posición del evento a su canal de YouTube. Apple transmitirá el evento “Surprise and Shine” en YouTube, en el sitio web de Apple Events y en la app Apple TV donde esté disponible.",
+      "porQueImporta": "Es el evento principal de Apple donde se esperan los nuevos iPhones y posibles novedades de hardware y software.",
+      "publicadoEn": "2026-08-26T16:41:37.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "iphone",
-        "plegable",
         "apple",
-        "mercado"
+        "evento",
+        "iphone",
+        "livestream"
       ],
       "tambienVistoEn": []
     },
@@ -189,20 +151,19 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/desplome-del-consumo-combustibles-ocho-provincias-la-caida-supero-el-10-n6314898",
-      "tituloOriginal": "Desplome del consumo de combustibles: en ocho provincias la caída superó el 10%",
-      "tituloLimpio": "Desplome del consumo de combustibles: en ocho provincias la caída superó el 10%",
-      "resumen": "Las ventas de combustibles retrocedieron un 6,4% interanual en julio, y solo tres provincias registraron avances mínimos: 21 cayeron, con Salta, Jujuy y Tucumán liderando las bajas.",
-      "porQueImporta": "Indica una desaceleración económica en Argentina, lo que puede afectar el poder adquisitivo y el consumo en general. Es relevante para entender el contexto económico local.",
-      "publicadoEn": "2026-08-26T12:42:00.000Z",
-      "imagen": "https://media.ambito.com/p/89fa1e10a7dccd67c430e332fe76a6db/adjuntos/239/imagenes/043/560/0043560632/nafta-precios-inflacion-combustible.jpg",
-      "globalScore": 98,
+      "url": "https://www.ambito.com/economia/septiembre-llega-aumentos-transporte-alquileres-prepagas-y-mas-todos-los-detalles-n6315077",
+      "tituloOriginal": "Septiembre llega con aumentos en transporte, alquileres, prepagas y más: todos los detalles",
+      "tituloLimpio": "Septiembre llega con aumentos en transporte, alquileres y prepagas en Argentina",
+      "resumen": "El Estado y las empresas ya definieron los incrementos de tarifas y servicios clave para el próximo mes. Los nuevos montos que entrarán en vigencia el martes 1° de septiembre.",
+      "porQueImporta": "Impacta directamente en el costo de vida y los gastos operativos en Argentina.",
+      "publicadoEn": "2026-08-26T18:44:00.000Z",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "consumo",
-        "combustibles",
-        "argentina",
-        "economia"
+        "aumentos",
+        "tarifas",
+        "servicios",
+        "argentina"
       ],
       "tambienVistoEn": []
     },
@@ -210,19 +171,19 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
-      "tituloOriginal": "Arga is building a better way to train enterprise AI agents",
-      "tituloLimpio": "Arga desarrolla una mejor forma de entrenar agentes de IA empresariales",
-      "resumen": "Arga recaudó 10 millones de dólares en una ronda de financiación inicial que fue liderada por General Catalyst, con participación de Box Group, Emergence, Gradient y SV Angel.",
-      "porQueImporta": "Muestra el avance y la inversión en soluciones de IA para empresas, un área de interés para Guido por su trabajo con IA y automatización.",
-      "publicadoEn": "2026-08-26T12:55:28.000Z",
+      "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+      "tituloOriginal": "Radar makes podcasts searchable — and usable by AI agents",
+      "tituloLimpio": "Radar hace que los podcasts sean buscables y utilizables por agentes de IA",
+      "resumen": "La nueva plataforma de inteligencia de podcasts de Particle transcribe y analiza más de 130.000 podcasts, haciendo que sus conversaciones sean buscables en la web y accesibles para agentes de IA a través de una API y MCP.",
+      "porQueImporta": "Ofrece nuevas posibilidades para la automatización y el análisis de contenido de audio, relevante para la creación de contenido y la investigación.",
+      "publicadoEn": "2026-08-26T15:47:28.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "ia",
-        "empresarial",
-        "financiacion",
-        "tecnologia"
+        "podcasts",
+        "búsqueda",
+        "automatización"
       ],
       "tambienVistoEn": []
     },
@@ -230,19 +191,59 @@
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
       "fuente": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
-      "tituloOriginal": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
-      "tituloLimpio": "Bill Gates está profundamente preocupado por la IA y ya no se queda callado",
-      "resumen": "Bill Gates ha estado reflexionando mucho sobre la IA últimamente, y el proceso ha provocado un claro despertar. Antes un optimista de la IA, el cofundador de Microsoft ahora es profundamente pesimista sobre lo que la IA significa para nuestro futuro colectivo.",
-      "porQueImporta": "La opinión de una figura influyente como Bill Gates sobre los riesgos de la IA es crucial para entender el panorama general y las posibles implicaciones futuras de esta tecnología.",
-      "publicadoEn": "2026-08-26T11:07:40.000Z",
+      "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+      "tituloOriginal": "Google’s new AI transcription edits out your ‘ums’ and ‘ahs’",
+      "tituloLimpio": "La nueva transcripción de IA de Google edita tus 'eh' y 'ah'",
+      "resumen": "Google actualizó Gemini Audio con algunos modelos Gemini 3.5, introduciendo nuevas capacidades de transcripción que detectan automáticamente jerga especializada y más de 85 idiomas. Gemini 3.5 Live, 3.5 Live Experimental y 3.5 Transcribe están diseñados para proporcionar mayor precisión para las funciones de IA controladas por voz de Google, sin problemas con el ruido de fondo.",
+      "porQueImporta": "Mejora la calidad de las transcripciones de audio, útil para retoque de voz, creación de contenido y herramientas de productividad.",
+      "publicadoEn": "2026-08-26T17:00:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "bill gates",
+        "google",
         "ia",
-        "preocupacion",
-        "futuro"
+        "transcripción",
+        "audio"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/26/leaker-says-iphone-ultra-will-come-in-these-colors-with-one-surprise/",
+      "tituloOriginal": "Leaker says iPhone Ultra will come in these colors, with one surprise",
+      "tituloLimpio": "Un filtrador dice que el iPhone Ultra vendrá en estos colores, con una sorpresa",
+      "resumen": "El filtrador Evan Blass acaba de publicar lo que afirma son los tres colores que llegarán al iPhone Ultra, e incluyen una sorprendente opción roja.",
+      "porQueImporta": "Anticipa detalles sobre el diseño de un posible nuevo modelo de iPhone, relevante para entusiastas de Apple.",
+      "publicadoEn": "2026-08-26T18:17:53.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "iphone",
+        "apple",
+        "filtración",
+        "colores"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81Z29v",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5google.com/2026/08/25/pebblebee-loc8-android-iphone-bike-tracker/",
+      "tituloOriginal": "This new Android & iPhone tracker hides in your bike or golf clubs with 3-year battery life [Gallery]",
+      "tituloLimpio": "Este nuevo rastreador para Android y iPhone se esconde en tu bicicleta o palos de golf con 3 años de batería",
+      "resumen": "Pebblebee lanzó “LÔC8”, un nuevo y único rastreador Android Find Hub / Apple Find My diseñado para esconderse dentro de los manillares de tu bicicleta, palos de golf y otros lugares para ayudarte a controlar tu equipo.",
+      "porQueImporta": "Una herramienta práctica para el seguimiento de objetos de valor, compatible con los ecosistemas de Apple y Android.",
+      "publicadoEn": "2026-08-25T18:48:18.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "rastreador",
+        "apple",
+        "android",
+        "herramientas"
       ],
       "tambienVistoEn": []
     },
@@ -250,40 +251,39 @@
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
       "categoria": "Apple",
       "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/08/26/iphone-ultra-motherboard-may-just-have-leaked?utm_source=rss",
-      "tituloOriginal": "iPhone Ultra motherboard may just have leaked",
-      "tituloLimpio": "Posible filtración de la placa madre del iPhone Ultra",
-      "resumen": "Apple ha mantenido los detalles de producción del iPhone Ultra bajo llave mejor que con el iPhone Air, pero por fin hay una filtración de componentes. O un engaño muy detallado.",
-      "porQueImporta": "Es una noticia relevante para los interesados en Apple y sus próximos lanzamientos, especialmente si se trata de un nuevo modelo de iPhone de alta gama.",
-      "publicadoEn": "2026-08-26T12:34:51.000Z",
-      "globalScore": 96,
+      "url": "https://appleinsider.com/inside/iphone-18/tips/how-to-watch-apples-iphone-18-pro-iphone-ultra-launch-live?utm_source=rss",
+      "tituloOriginal": "How to watch Apple's iPhone 18 Pro & iPhone Ultra launch live",
+      "tituloLimpio": "Cómo ver en vivo el lanzamiento del iPhone 18 Pro y iPhone Ultra de Apple",
+      "resumen": "El lanzamiento del iPhone Ultra plegable y el iPhone 18 Pro se acerca. Aquí te explicamos cómo y cuándo ver el evento en vivo.",
+      "porQueImporta": "Guía para seguir el evento de lanzamiento de los próximos productos clave de Apple.",
+      "publicadoEn": "2026-08-26T18:07:19.000Z",
+      "globalScore": 92,
       "personalScore": 100,
       "tags": [
-        "iphone",
-        "ultra",
         "apple",
-        "filtracion"
+        "iphone",
+        "evento",
+        "lanzamiento"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
-      "categoria": "Finance",
-      "fuente": "Yahoo Finance",
-      "url": "https://www.investors.com/news/technology/google-stock-blodget-openai-ipo-netscape/?src=A00220&yptr=yahoo",
-      "tituloOriginal": "Does OpenAI Face A Netscape Moment? How That Could Boost Google Stock.",
-      "tituloLimpio": "OpenAI podría enfrentar un 'momento Netscape' y cómo eso podría impulsar las acciones de Google",
-      "resumen": "",
-      "porQueImporta": "Analiza la dinámica competitiva en el sector de la IA, con posibles implicaciones para grandes jugadores como Google y OpenAI, lo cual es relevante para el interés de Guido en IA y finanzas.",
-      "publicadoEn": "2026-08-26T12:22:05.000Z",
-      "imagen": "https://media.zenfs.com/en/ibd.com/921fca0fed67c44d5c91125e7f2a1a75.jpg",
-      "globalScore": 98,
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/news/apple-announces-september-9-surprise-and-shine-event/",
+      "tituloOriginal": "Apple Announces September 9 Surprise and Shine Event",
+      "tituloLimpio": "Apple anuncia el evento “Surprise and Shine” para el 9 de septiembre",
+      "resumen": "Hoy, Apple anunció que organizará un evento que llama “Surprise and Shine” el 9 de septiembre de 2026, a las 10:00 AM hora del Pacífico. Se espera que la compañía anuncie la línea iPhone 18 Pro, el muy esperado iPhone “Ultra”, así como nuevos Apple Watches y potencialmente nuevos AirPods y dispositivos HomeKit.",
+      "porQueImporta": "Confirmación oficial del evento de Apple y expectativas sobre los productos que se presentarán.",
+      "publicadoEn": "2026-08-26T16:10:33.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "openai",
-        "google",
-        "ia",
-        "acciones"
+        "apple",
+        "evento",
+        "iphone",
+        "lanzamiento"
       ],
       "tambienVistoEn": []
     },
@@ -291,20 +291,21 @@
       "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
       "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/26/dallas-fed-warns-tokenized-deposits-could-strip-usd700-billion-from-u-s-banks-lending-capacity",
-      "tituloOriginal": "Dallas Fed warns tokenized deposits could strip $700 billion from U.S. banks' lending capacity",
-      "tituloLimpio": "La Fed de Dallas advierte que los depósitos tokenizados podrían quitar $700 mil millones de la capacidad de préstamo de los bancos de EE.UU.",
-      "resumen": "Los depósitos programables y los agentes de IA pueden permitir el cambio instantáneo y automatizado de bancos para obtener mayores rendimientos, lo que eleva los costos de financiación bancaria.",
-      "porQueImporta": "Aunque se refiere a bancos de EE.UU., la advertencia sobre el impacto de los depósitos tokenizados y la IA en la banca es una tendencia global que podría influir en el futuro de las finanzas y las inversiones.",
-      "publicadoEn": "2026-08-26T11:46:19.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/1f36f4b6075554c7a225b5bdef6b7d0bb9142a62-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "globalScore": 96,
+      "url": "https://www.coindesk.com/business/2026/08/26/south-korea-s-shinhan-financial-joins-visa-to-build-stablecoin-infrastructure",
+      "tituloOriginal": "Shinhan and Visa team up to test stablecoin issuance and B2B settlements in South Korea",
+      "tituloLimpio": "Shinhan y Visa se asocian para probar la emisión de stablecoins y liquidaciones B2B en Corea del Sur",
+      "resumen": "Shinhan Financial Group utilizará la plataforma de Visa para probar la emisión, remesa y redención de stablecoins mientras construye nuevos modelos de pago impulsados por IA.",
+      "porQueImporta": "Muestra la adopción de stablecoins y la integración de IA en servicios financieros por parte de grandes actores, indicando tendencias en el sector.",
+      "publicadoEn": "2026-08-26T15:15:13.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/0b33f1bb25f1192885403a37624d1c465d514180-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "finanzas",
+        "criptomonedas",
+        "stablecoin",
         "ia",
-        "bancos",
-        "criptomonedas"
+        "visa"
       ],
       "tambienVistoEn": []
     },
@@ -312,20 +313,20 @@
       "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
       "categoria": "Finance",
       "fuente": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bernstein-predicts-bitcoin-reclaim-125000-year-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "tituloOriginal": "Bernstein forecasts Bitcoin to reclaim $125K by late 2026 ahead of cycle peak",
-      "tituloLimpio": "Bernstein pronostica que Bitcoin recuperará los $125K para fines de 2026",
-      "resumen": "Bernstein espera que Bitcoin recupere los $125.000 para fines de 2026 antes de alcanzar los $300.000 en 2029 en su escenario base, con un caso alcista de $500.000.",
-      "porQueImporta": "Un pronóstico de este tipo es relevante para Guido, interesado en inversiones y mercados, especialmente en criptomonedas como Bitcoin.",
-      "publicadoEn": "2026-08-26T12:32:36.000Z",
-      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-blockchain-powered-prediction-markets-governance-and-uses-beyond-death-pools-bitcoin-2.jpg",
+      "url": "https://cointelegraph.com/news/chainalysis-estimates-457b-in-potentially-taxable-crypto-activity-says-carf-misses-most-onchain-flows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Chainalysis estimates $457B in taxable crypto activity, says CARF misses most",
+      "tituloLimpio": "Chainalysis estima $457 mil millones en actividad cripto potencialmente gravable",
+      "resumen": "La firma de análisis de blockchain dijo que solo el 14% de la actividad en cadena que identificó está cubierta por el marco internacional de informes fiscales de criptomonedas de la OCDE.",
+      "porQueImporta": "Destaca la brecha en la regulación fiscal de las criptomonedas y el volumen de actividad no reportada, relevante para inversores y el futuro del mercado.",
+      "publicadoEn": "2026-08-26T17:48:34.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-taxes-on-restricted-crypto-and-options-can-be-confusing.png",
       "globalScore": 90,
       "personalScore": 100,
       "tags": [
-        "bitcoin",
-        "pronostico",
-        "inversion",
-        "criptomonedas"
+        "criptomonedas",
+        "impuestos",
+        "regulación",
+        "finanzas"
       ],
       "tambienVistoEn": []
     },
@@ -333,20 +334,20 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/rural/denuncian-recibidores-granos-acataron-conciliacion-obligatoria-bahia-blanca-mantienen-paralizados-400-camiones_0_LO8MuI9Czg.html",
-      "tituloOriginal": "Denuncian que los recibidores de granos no acataron la conciliación obligatoria en Bahía Blanca y mantienen paralizados 400 camiones",
-      "tituloLimpio": "Denuncian que recibidores de granos no acataron conciliación obligatoria en Bahía Blanca y mantienen paralizados 400 camiones",
-      "resumen": "Así lo advirtió la Cámara de Puertos Privados Comerciales (CPPC). La medida se dictó la semana pasada y tiene una vigencia de 15 días.",
-      "porQueImporta": "Un conflicto gremial en un puerto clave como Bahía Blanca puede tener impacto en la economía y el comercio exterior de Argentina, afectando la logística y los precios.",
-      "publicadoEn": "2026-08-26T12:03:30.000Z",
-      "imagen": "https://www.clarin.com/img/2019/05/30/6iKFSP-5K_1200x630__1.jpg",
+      "url": "https://www.clarin.com/economia/reforma-banco-central-claves-iniciativa-empuja-oficialismo-diputados-modificar-entidad-monetaria_0_Ot80TxeHHz.html",
+      "tituloOriginal": "Reforma del Banco Central: cuáles son las claves de la iniciativa que empuja el oficialismo en Diputados para modificar la entidad monetaria",
+      "tituloLimpio": "Reforma del Banco Central: claves de la iniciativa que impulsa el oficialismo en Diputados",
+      "resumen": "El proyecto elimina los adelantos transitorios al Tesoro. Restringe la compra de deuda pública en el mercado primario y modifica el régimen de utilidades y reservas. Qué pasa con los funcionarios actuales.",
+      "porQueImporta": "Propone cambios estructurales en la política monetaria argentina, con posibles efectos en la economía y los mercados.",
+      "publicadoEn": "2026-08-26T17:31:23.000Z",
+      "imagen": "https://www.clarin.com/img/2026/03/01/ThgYqawMg_1200x630__1.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "economia",
-        "conflicto",
-        "granos"
+        "banco central",
+        "reforma",
+        "economía"
       ],
       "tambienVistoEn": []
     },
@@ -354,26 +355,68 @@
       "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Politica",
-      "url": "https://www.clarin.com/politica/diputados-hoy-vivo-hora-arranca-debate-reforma-carta-organica-banco-central-inocencia-fiscal-ii_0_o2HxIVDova.html",
-      "tituloOriginal": "Diputados hoy, EN VIVO: a qué hora arranca el debate por la reforma de la carta orgánica del Banco Central e Inocencia Fiscal II",
-      "tituloLimpio": "Diputados: debate por la reforma de la carta orgánica del Banco Central e Inocencia Fiscal II",
-      "resumen": "El oficialismo buscará darle media sanción a ambos proyectos y también al Tratado de Cooperación en materia de Patentes (PCT). La sesión fue solicitada por legisladores de distintas bancadas.",
-      "porQueImporta": "Estas reformas son cruciales para la economía argentina y pueden tener un impacto directo en la estabilidad financiera y las políticas monetarias del país.",
-      "publicadoEn": "2026-08-26T11:49:45.000Z",
-      "imagen": "https://www.clarin.com/img/2026/06/24/WRaYwdOBD_1200x630__1.jpg",
+      "url": "https://www.clarin.com/politica/oficialismo-bloqueo-proyectos-oposicion-endeudamiento-morosidad_0_0SUdqPRfoT.html",
+      "tituloOriginal": "El oficialismo bloqueó los proyectos de la oposición por el endeudamiento y la morosidad",
+      "tituloLimpio": "El oficialismo bloqueó proyectos de la oposición sobre endeudamiento y morosidad",
+      "resumen": "Los bloques opositores presentaron expedientes para abordar el tema, pero no alcanzaron los votos necesarios para incorporar las iniciativas al debate parlamentario.",
+      "porQueImporta": "Refleja la dinámica política y las dificultades para abordar temas económicos clave en el Congreso argentino.",
+      "publicadoEn": "2026-08-26T17:14:02.000Z",
+      "imagen": "https://www.clarin.com/img/2026/08/26/ei_Vrg2Jg_1200x630__1.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "politica",
-        "economia",
-        "banco central"
+        "política",
+        "endeudamiento",
+        "congreso"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/08/26/dolar-hoy-en-vivo-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-miercoles-26-de-agosto/",
+      "tituloOriginal": "Dólar hoy en vivo: a cuánto operaron todas las cotizaciones minuto a minuto este miércoles 26 de agosto",
+      "tituloLimpio": "Dólar hoy en vivo: a cuánto operaron todas las cotizaciones este miércoles 26 de agosto",
+      "resumen": "El billete al público subió a $1.535 para la venta en el Banco Nación, un máximo nominal. El blue cedió a $1.555.",
+      "porQueImporta": "Información diaria sobre la cotización del dólar en Argentina, crucial para decisiones financieras y de inversión.",
+      "publicadoEn": "2026-08-26T18:44:43.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/MIPCSSOZ3JG6BJG6MP2EPIYMPM.jpg?auth=04097573f6be54a71ab02aa90989ca48c0062cea2328904c6fb269929b24c6f2&smart=true&width=4500&height=2999",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "dólar",
+        "cotización",
+        "finanzas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/08/26/el-senado-sesionara-manana-con-una-agenda-enfocada-en-pliegos-judiciales-y-tratados-internacionales/",
+      "tituloOriginal": "El Senado sesionará mañana con una agenda enfocada en pliegos judiciales y convenios internacionales",
+      "tituloLimpio": "El Senado sesionará mañana con agenda enfocada en pliegos judiciales y convenios internacionales",
+      "resumen": "Se definió en la reunión de Labor Parlamentaria realizada en el despacho de la vicepresidenta y titular de la Cámara alta, Victoria Villarruel. Estiman un encuentro de pocas horas. Inicio desde las 11.",
+      "porQueImporta": "Indica la agenda legislativa del Senado argentino, con temas que pueden tener impacto en la justicia y las relaciones exteriores.",
+      "publicadoEn": "2026-08-26T18:55:57.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/OWDHTROEPNFGFML4YMAIN3QGKE.JPG?auth=08e5b7a703bc0b9f50499ce59093fbe69b69db19000caf00a5f9b3ca9fc09d19&smart=true&width=3000&height=2000",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "senado",
+        "política",
+        "justicia"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-08-26T12:57:25.421Z"
+    "generadoEn": "2026-08-26T19:01:49.150Z"
   }
 }
