@@ -1,0 +1,379 @@
+{
+  "fecha": "2026-08-26",
+  "generadoEn": "2026-08-26T12:57:25.421Z",
+  "actualizacion": "09:00",
+  "resumenEjecutivo": "Bill Gates expresó una profunda preocupación por el impacto de la IA en el empleo y pidió una respuesta urgente. En Argentina, el consumo de combustibles cayó un 6,4% interanual en julio, y se debate la reforma de la carta orgánica del Banco Central. En el ámbito de Apple, un 75% de los adultos en EE.UU. no está interesado en un iPhone plegable, aunque se filtró una posible placa madre del iPhone Ultra. En finanzas, Bernstein pronostica que Bitcoin podría alcanzar los $125.000 para fines de 2026.",
+  "radarPersonal": [
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "Bill Gates, preocupado por la IA, rompe el silencio",
+      "resumen": "Bill Gates reflexionó sobre la IA y pasó de ser optimista a pesimista sobre su futuro colectivo. Tras un período de silencio, Gates publicó un ensayo extenso.",
+      "categoria": "AI",
+      "fuentes": [
+        "The Verge AI"
+      ],
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet"
+      ],
+      "score": 100,
+      "tags": [
+        "bill gates",
+        "ia",
+        "preocupacion"
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Desplome del consumo de combustibles en Argentina",
+      "resumen": "Las ventas de combustibles retrocedieron un 6,4% interanual en julio. Solo tres provincias registraron avances mínimos, mientras que 21 cayeron, con Salta, Jujuy y Tucumán liderando las bajas.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/desplome-del-consumo-combustibles-ocho-provincias-la-caida-supero-el-10-n6314898"
+      ],
+      "score": 100,
+      "tags": [
+        "consumo",
+        "combustibles",
+        "argentina",
+        "economia"
+      ]
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Poco interés en un iPhone plegable en EE.UU.",
+      "resumen": "Según una encuesta, el 75% de los adultos en EE.UU. no tiene interés en comprar un iPhone plegable. Aquellos interesados no pagarían el precio rumoreado de más de 2.000 dólares.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/08/26/most-arent-interested-in-a-foldable-iphone/"
+      ],
+      "score": 100,
+      "tags": [
+        "iphone",
+        "plegable",
+        "apple",
+        "mercado"
+      ]
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "titulo": "Bernstein pronostica que Bitcoin alcanzará los $125K para fines de 2026",
+      "resumen": "Bernstein espera que Bitcoin recupere los $125.000 para fines de 2026, antes de llegar a los $300.000 en 2029 en su escenario base, con un caso alcista de $500.000.",
+      "categoria": "Finance",
+      "fuentes": [
+        "CoinTelegraph"
+      ],
+      "urls": [
+        "https://cointelegraph.com/markets/bernstein-predicts-bitcoin-reclaim-125000-year-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      ],
+      "score": 100,
+      "tags": [
+        "bitcoin",
+        "pronostico",
+        "inversion",
+        "criptomonedas"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "Arga desarrolla una mejor forma de entrenar agentes de IA empresariales",
+      "resumen": "Arga recaudó 10 millones de dólares en una ronda de financiación inicial liderada por General Catalyst, con participación de Box Group, Emergence, Gradient y SV Angel.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/"
+      ],
+      "score": 100,
+      "tags": [
+        "ia",
+        "empresarial",
+        "financiacion",
+        "tecnologia"
+      ]
+    }
+  ],
+  "loImportante": [
+    "Bill Gates advierte sobre la amenaza de la IA al empleo y pide una respuesta urgente.",
+    "El consumo de combustibles en Argentina cayó un 6,4% interanual en julio, con fuertes bajas en varias provincias.",
+    "Diputados debate la reforma de la carta orgánica del Banco Central y otros proyectos de ley.",
+    "Bernstein proyecta que Bitcoin podría alcanzar los $125.000 para fines de 2026.",
+    "Un 75% de los adultos en EE.UU. no muestra interés en un iPhone plegable, según una encuesta."
+  ],
+  "oportunidades": [
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "titulo": "Inversión en IA empresarial: Arga recauda $10 millones para entrenar agentes de IA",
+      "detalle": "Arga obtuvo una financiación significativa para mejorar el entrenamiento de agentes de IA para empresas. Esto indica un crecimiento en el sector de soluciones de IA para negocios.",
+      "acciones": [
+        "Investigar las tendencias en el entrenamiento de IA empresarial.",
+        "Analizar las aplicaciones de agentes de IA en el retoque fotográfico y arte con IA."
+      ]
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Investing",
+      "titulo": "Pronóstico alcista para Bitcoin: Bernstein proyecta $125K para 2026",
+      "detalle": "Bernstein espera que Bitcoin recupere los $125.000 para fines de 2026 y alcance los $300.000 en 2029. Esto sugiere un potencial de crecimiento en el mercado de criptomonedas.",
+      "acciones": [
+        "Revisar el desempeño de Bitcoin y otras criptomonedas.",
+        "Considerar la diversificación de inversiones en activos digitales."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "titulo": "Preocupación de Bill Gates por el impacto de la IA en el empleo",
+      "detalle": "Bill Gates expresó un profundo pesimismo sobre lo que la IA significa para el futuro colectivo, especialmente en relación con el empleo, y pidió una respuesta urgente.",
+      "mitigacion": "Mantenerse actualizado sobre las tendencias de la IA y sus implicaciones en el mercado laboral. Explorar nuevas habilidades y herramientas de IA para adaptarse a los cambios."
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Market",
+      "titulo": "Desplome del consumo de combustibles en Argentina",
+      "detalle": "Las ventas de combustibles retrocedieron un 6,4% interanual en julio, con caídas significativas en la mayoría de las provincias. Esto puede indicar una desaceleración económica general.",
+      "mitigacion": "Monitorear de cerca los indicadores económicos locales. Evaluar el impacto de la situación económica en los costos operativos y la demanda de servicios."
+    }
+  ],
+  "conexiones": [
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "La preocupación de Bill Gates por la IA y la amenaza al empleo",
+      "historias": [
+        "Bill Gates advirtió sobre la amenaza de la IA al empleo y pidió una respuesta urgente: “No hay ningún plan” (Infobae Economia)",
+        "Bill Gates está profundamente preocupado por la IA y ya no se queda callado (The Verge AI)"
+      ],
+      "conclusion": "Ambas noticias resaltan la creciente preocupación de Bill Gates sobre el impacto de la inteligencia artificial en el mercado laboral y la necesidad de una estrategia global para afrontar esta transición."
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "titulo": "El debate en Diputados sobre la reforma del Banco Central y otros proyectos",
+      "historias": [
+        "Diputados hoy, EN VIVO: a qué hora arranca el debate por la reforma de la carta orgánica del Banco Central e Inocencia Fiscal II (Clarin Politica)",
+        "Diputados, en vivo: últimas noticias sobre el debate de Inocencia Fiscal, la reforma del BCRA y todos los proyectos de ley (Infobae Politica)"
+      ],
+      "conclusion": "Las dos fuentes cubren el mismo evento legislativo en Argentina, destacando la importancia del debate sobre la reforma de la carta orgánica del Banco Central y otros proyectos clave, que podrían tener un impacto significativo en la economía local."
+    }
+  ],
+  "noticias": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/08/26/most-arent-interested-in-a-foldable-iphone/",
+      "tituloOriginal": "75% of US Adults Aren't Interested in a Foldable iPhone",
+      "tituloLimpio": "El 75% de los adultos en EE.UU. no está interesado en un iPhone plegable",
+      "resumen": "Tres de cada cuatro adultos en EE.UU. dicen no tener interés en comprar un iPhone plegable, según una nueva encuesta. La encuesta encontró que el 75% no está interesado en un dispositivo plegable de Apple.",
+      "porQueImporta": "Aunque es un dato de EE.UU., refleja una tendencia general del mercado y el posible recibimiento de un producto de Apple. Es relevante para entender la demanda de futuros dispositivos.",
+      "publicadoEn": "2026-08-26T12:53:46.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "iphone",
+        "plegable",
+        "apple",
+        "mercado"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/desplome-del-consumo-combustibles-ocho-provincias-la-caida-supero-el-10-n6314898",
+      "tituloOriginal": "Desplome del consumo de combustibles: en ocho provincias la caída superó el 10%",
+      "tituloLimpio": "Desplome del consumo de combustibles: en ocho provincias la caída superó el 10%",
+      "resumen": "Las ventas de combustibles retrocedieron un 6,4% interanual en julio, y solo tres provincias registraron avances mínimos: 21 cayeron, con Salta, Jujuy y Tucumán liderando las bajas.",
+      "porQueImporta": "Indica una desaceleración económica en Argentina, lo que puede afectar el poder adquisitivo y el consumo en general. Es relevante para entender el contexto económico local.",
+      "publicadoEn": "2026-08-26T12:42:00.000Z",
+      "imagen": "https://media.ambito.com/p/89fa1e10a7dccd67c430e332fe76a6db/adjuntos/239/imagenes/043/560/0043560632/nafta-precios-inflacion-combustible.jpg",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "consumo",
+        "combustibles",
+        "argentina",
+        "economia"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+      "tituloOriginal": "Arga is building a better way to train enterprise AI agents",
+      "tituloLimpio": "Arga desarrolla una mejor forma de entrenar agentes de IA empresariales",
+      "resumen": "Arga recaudó 10 millones de dólares en una ronda de financiación inicial que fue liderada por General Catalyst, con participación de Box Group, Emergence, Gradient y SV Angel.",
+      "porQueImporta": "Muestra el avance y la inversión en soluciones de IA para empresas, un área de interés para Guido por su trabajo con IA y automatización.",
+      "publicadoEn": "2026-08-26T12:55:28.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "empresarial",
+        "financiacion",
+        "tecnologia"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
+      "tituloOriginal": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
+      "tituloLimpio": "Bill Gates está profundamente preocupado por la IA y ya no se queda callado",
+      "resumen": "Bill Gates ha estado reflexionando mucho sobre la IA últimamente, y el proceso ha provocado un claro despertar. Antes un optimista de la IA, el cofundador de Microsoft ahora es profundamente pesimista sobre lo que la IA significa para nuestro futuro colectivo.",
+      "porQueImporta": "La opinión de una figura influyente como Bill Gates sobre los riesgos de la IA es crucial para entender el panorama general y las posibles implicaciones futuras de esta tecnología.",
+      "publicadoEn": "2026-08-26T11:07:40.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "bill gates",
+        "ia",
+        "preocupacion",
+        "futuro"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/08/26/iphone-ultra-motherboard-may-just-have-leaked?utm_source=rss",
+      "tituloOriginal": "iPhone Ultra motherboard may just have leaked",
+      "tituloLimpio": "Posible filtración de la placa madre del iPhone Ultra",
+      "resumen": "Apple ha mantenido los detalles de producción del iPhone Ultra bajo llave mejor que con el iPhone Air, pero por fin hay una filtración de componentes. O un engaño muy detallado.",
+      "porQueImporta": "Es una noticia relevante para los interesados en Apple y sus próximos lanzamientos, especialmente si se trata de un nuevo modelo de iPhone de alta gama.",
+      "publicadoEn": "2026-08-26T12:34:51.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "iphone",
+        "ultra",
+        "apple",
+        "filtracion"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/news/technology/google-stock-blodget-openai-ipo-netscape/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Does OpenAI Face A Netscape Moment? How That Could Boost Google Stock.",
+      "tituloLimpio": "OpenAI podría enfrentar un 'momento Netscape' y cómo eso podría impulsar las acciones de Google",
+      "resumen": "",
+      "porQueImporta": "Analiza la dinámica competitiva en el sector de la IA, con posibles implicaciones para grandes jugadores como Google y OpenAI, lo cual es relevante para el interés de Guido en IA y finanzas.",
+      "publicadoEn": "2026-08-26T12:22:05.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/921fca0fed67c44d5c91125e7f2a1a75.jpg",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "openai",
+        "google",
+        "ia",
+        "acciones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/26/dallas-fed-warns-tokenized-deposits-could-strip-usd700-billion-from-u-s-banks-lending-capacity",
+      "tituloOriginal": "Dallas Fed warns tokenized deposits could strip $700 billion from U.S. banks' lending capacity",
+      "tituloLimpio": "La Fed de Dallas advierte que los depósitos tokenizados podrían quitar $700 mil millones de la capacidad de préstamo de los bancos de EE.UU.",
+      "resumen": "Los depósitos programables y los agentes de IA pueden permitir el cambio instantáneo y automatizado de bancos para obtener mayores rendimientos, lo que eleva los costos de financiación bancaria.",
+      "porQueImporta": "Aunque se refiere a bancos de EE.UU., la advertencia sobre el impacto de los depósitos tokenizados y la IA en la banca es una tendencia global que podría influir en el futuro de las finanzas y las inversiones.",
+      "publicadoEn": "2026-08-26T11:46:19.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/1f36f4b6075554c7a225b5bdef6b7d0bb9142a62-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "ia",
+        "bancos",
+        "criptomonedas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/bernstein-predicts-bitcoin-reclaim-125000-year-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Bernstein forecasts Bitcoin to reclaim $125K by late 2026 ahead of cycle peak",
+      "tituloLimpio": "Bernstein pronostica que Bitcoin recuperará los $125K para fines de 2026",
+      "resumen": "Bernstein espera que Bitcoin recupere los $125.000 para fines de 2026 antes de alcanzar los $300.000 en 2029 en su escenario base, con un caso alcista de $500.000.",
+      "porQueImporta": "Un pronóstico de este tipo es relevante para Guido, interesado en inversiones y mercados, especialmente en criptomonedas como Bitcoin.",
+      "publicadoEn": "2026-08-26T12:32:36.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/hi-blockchain-powered-prediction-markets-governance-and-uses-beyond-death-pools-bitcoin-2.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "bitcoin",
+        "pronostico",
+        "inversion",
+        "criptomonedas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/rural/denuncian-recibidores-granos-acataron-conciliacion-obligatoria-bahia-blanca-mantienen-paralizados-400-camiones_0_LO8MuI9Czg.html",
+      "tituloOriginal": "Denuncian que los recibidores de granos no acataron la conciliación obligatoria en Bahía Blanca y mantienen paralizados 400 camiones",
+      "tituloLimpio": "Denuncian que recibidores de granos no acataron conciliación obligatoria en Bahía Blanca y mantienen paralizados 400 camiones",
+      "resumen": "Así lo advirtió la Cámara de Puertos Privados Comerciales (CPPC). La medida se dictó la semana pasada y tiene una vigencia de 15 días.",
+      "porQueImporta": "Un conflicto gremial en un puerto clave como Bahía Blanca puede tener impacto en la economía y el comercio exterior de Argentina, afectando la logística y los precios.",
+      "publicadoEn": "2026-08-26T12:03:30.000Z",
+      "imagen": "https://www.clarin.com/img/2019/05/30/6iKFSP-5K_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "economia",
+        "conflicto",
+        "granos"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/diputados-hoy-vivo-hora-arranca-debate-reforma-carta-organica-banco-central-inocencia-fiscal-ii_0_o2HxIVDova.html",
+      "tituloOriginal": "Diputados hoy, EN VIVO: a qué hora arranca el debate por la reforma de la carta orgánica del Banco Central e Inocencia Fiscal II",
+      "tituloLimpio": "Diputados: debate por la reforma de la carta orgánica del Banco Central e Inocencia Fiscal II",
+      "resumen": "El oficialismo buscará darle media sanción a ambos proyectos y también al Tratado de Cooperación en materia de Patentes (PCT). La sesión fue solicitada por legisladores de distintas bancadas.",
+      "porQueImporta": "Estas reformas son cruciales para la economía argentina y pueden tener un impacto directo en la estabilidad financiera y las políticas monetarias del país.",
+      "publicadoEn": "2026-08-26T11:49:45.000Z",
+      "imagen": "https://www.clarin.com/img/2026/06/24/WRaYwdOBD_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "politica",
+        "economia",
+        "banco central"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-08-26T12:57:25.421Z"
+  }
+}
