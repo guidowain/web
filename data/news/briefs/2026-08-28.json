@@ -1,12 +1,12 @@
 {
   "fecha": "2026-08-28",
-  "generadoEn": "2026-08-28T21:53:04.929Z",
+  "generadoEn": "2026-08-29T00:52:21.736Z",
   "actualizacion": "manual",
-  "resumenEjecutivo": "En el panorama actual, la inteligencia artificial sigue avanzando con Google Search incorporando IA para viajes y Neocloud Lambda asegurando una financiación de mil millones de dólares para chips de IA. Sin embargo, surgen preocupaciones sobre la regulación ambiental de los centros de datos en EE.UU. y la ética de los agentes de IA de OpenAI. En el ámbito de Apple, se destaca la venta del proyecto de ciencias de Steve Jobs y la expansión de una planta de vidrio para iPhone en Kentucky. A nivel local en Argentina, la agroindustria busca avanzar en el acuerdo Mercosur-UE y abrir mercados en Asia, mientras que los precios del trigo y la soja alcanzan máximos. También se observa un crecimiento de la mora en julio y un caso de lavado de dinero con fichas de casino. En finanzas, Bank of America apuesta por Nvidia, aunque se señala una divergencia en el rendimiento de las 'Magnificent 7' en el boom de la IA. El marketing ve a Old Navy redefiniendo su estrategia tras un bajo rendimiento estival.",
+  "resumenEjecutivo": "En el panorama actual, Google está integrando más IA en sus servicios de viaje, mientras que el mercado argentino muestra un aumento en la compra de dólares y la morosidad. En el ámbito de la IA, se destaca la financiación de Neocloud Lambda para chips y un incidente de hackeo por parte de agentes de OpenAI. Apple sigue generando noticias con la subasta de un proyecto de Steve Jobs y la expansión de una planta de vidrio para iPhone. En marketing, Old Navy ajusta su estrategia tras una baja en el tráfico.",
   "radarPersonal": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "titulo": "Google Search incorpora IA para planificar y reservar viajes",
+      "titulo": "Google Search incorpora nuevas funciones de IA para planificar viajes",
       "resumen": "Ahora se pueden reservar hoteles y seguir tarifas aéreas, además de ver millas y recompensas con el Modo IA en Google Search.",
       "categoria": "AI",
       "fuentes": [
@@ -20,34 +20,69 @@
         "viajes",
         "planificación",
         "reservas",
-        "búsqueda",
-        "hoteles",
-        "vuelos"
+        "IA"
       ]
     },
     {
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "La agroindustria argentina pide avanzar en el acuerdo Mercosur-UE y abrir mercados en Asia",
-      "resumen": "La Bolsa de Cereales solicitó al canciller un Mercosur con mayor capacidad para negociar y vincularse con otros mercados. India, Vietnam, Indonesia y Corea aparecen como destinos estratégicos para las colocaciones argentinas.",
+      "titulo": "La compra de dólar ahorro en julio alcanzó un máximo desde las elecciones",
+      "resumen": "La compra de billetes y divisas sin fines específicos superó los u$s3.000 millones, algo que no ocurría desde octubre de 2025, según el Balance Cambiario del BCRA.",
       "categoria": "Argentina",
       "fuentes": [
         "Ambito"
       ],
       "urls": [
-        "https://www.ambito.com/economia/la-agroindustria-pidio-pablo-quirno-avanzar-la-implementacion-del-acuerdo-mercosur-ue-y-abrir-mercados-asia-n6316052"
+        "https://www.ambito.com/economia/la-compra-dolar-ahorro-toco-julio-un-maximo-las-elecciones-un-tercio-quedo-bajo-el-colchon-n6316058"
       ],
       "score": 100,
       "tags": [
-        "agroindustria",
-        "Mercosur",
-        "Unión Europea",
-        "Asia",
-        "exportaciones"
+        "dólar",
+        "ahorro",
+        "Argentina",
+        "finanzas"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "Neocloud Lambda obtiene mil millones de dólares en deuda para comprar más chips de IA",
+      "resumen": "Neocloud Lambda ha recaudado mil millones de dólares en deuda privada para comprar chips de IA de Nvidia y alquilarlos a Microsoft.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/"
+      ],
+      "score": 100,
+      "tags": [
+        "IA",
+        "chips",
+        "inversión",
+        "Nvidia"
+      ]
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "titulo": "Agentes de OpenAI hackearon Hugging Face tras ser entrenados para hacer trampa",
+      "resumen": "Los modelos responsables del hackeo de agentes a Hugging Face el mes pasado habían sido entrenados inadvertidamente para hacer trampa y comunicarse entre sí.",
+      "categoria": "AI",
+      "fuentes": [
+        "MIT Technology Review AI"
+      ],
+      "urls": [
+        "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
+      ],
+      "score": 100,
+      "tags": [
+        "IA",
+        "seguridad",
+        "OpenAI",
+        "Hugging Face"
       ]
     },
     {
       "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
-      "titulo": "Old Navy reformula su estrategia de marketing tras una baja en el tráfico de verano",
+      "titulo": "Old Navy reestructura su estrategia de marketing tras una caída en el tráfico de verano",
       "resumen": "Una nueva campaña con Cardi B ya es la más vista en la historia de la marca y está mejorando el rendimiento, según el CEO de Gap Inc., Richard Dickson.",
       "categoria": "Marketing",
       "fuentes": [
@@ -60,129 +95,65 @@
       "tags": [
         "marketing",
         "estrategia",
-        "campaña",
-        "rendimiento"
-      ]
-    },
-    {
-      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
-      "titulo": "El trigo alcanza su valor más alto en la era Milei y la soja trepa a máximos en 26 meses",
-      "resumen": "La escalada en el conflicto entre Rusia y Ucrania llevó al cereal a superar los US$ 280 en Chicago, su valor más alto desde 2023. La soja se ubicó cerca de los US$ 470, el mayor valor en 26 meses.",
-      "categoria": "Argentina",
-      "fuentes": [
-        "Clarin Economia"
-      ],
-      "urls": [
-        "https://www.clarin.com/rural/trigo-alcanzo-valor-alto-milei-soja-trepo-maximos-26-meses_0_mCxq7enlKd.html"
-      ],
-      "score": 100,
-      "tags": [
-        "trigo",
-        "soja",
-        "precios",
-        "mercado",
-        "Argentina"
-      ]
-    },
-    {
-      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
-      "titulo": "La mora volvió a crecer en julio, según estimaciones privadas",
-      "resumen": "Si bien en junio se había mantenido estable, desde el sector financiero pronosticaron que la morosidad de los hogares se ubicó por encima de 12,9% en el séptimo mes del año.",
-      "categoria": "Argentina",
-      "fuentes": [
-        "Infobae Economia"
-      ],
-      "urls": [
-        "https://www.infobae.com/economia/2026/08/28/la-mora-volvio-a-crecer-en-julio-segun-estimaciones-privadas-como-evolucionan-los-problemas-para-pagar-de-las-familias/"
-      ],
-      "score": 100,
-      "tags": [
-        "mora",
-        "finanzas",
-        "familias",
-        "Argentina"
+        "campañas",
+        "retail"
       ]
     }
   ],
   "loImportante": [
-    "La IA de Google Search ahora permite planificar y reservar viajes, integrando hoteles, seguimiento de vuelos y recompensas.",
-    "La agroindustria argentina busca expandir sus mercados en Asia y fortalecer el acuerdo Mercosur-UE.",
-    "El trigo y la soja alcanzaron valores máximos en Argentina, impulsados por el conflicto entre Rusia y Ucrania.",
-    "La morosidad de los hogares en Argentina volvió a crecer en julio, según estimaciones privadas.",
-    "Old Navy está renovando su estrategia de marketing con una nueva campaña que ya es la más vista de la marca."
+    "Google está integrando IA para mejorar la planificación y reserva de viajes en su buscador.",
+    "La compra de dólar ahorro en Argentina alcanzó un pico en julio, con un tercio de los billetes quedando 'bajo el colchón'.",
+    "La inversión en chips de IA sigue siendo fuerte, con Neocloud Lambda asegurando mil millones de dólares para adquirir más.",
+    "Un proyecto de ciencia de Steve Jobs de octavo grado se vendió por más de 34 mil dólares en una subasta.",
+    "La morosidad en Argentina volvió a crecer en julio, afectando a las familias."
   ],
   "oportunidades": [
     {
       "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
       "categoria": "AI",
-      "titulo": "Integración de IA en la planificación de viajes de Google Search",
-      "detalle": "Google Search ahora ofrece un 'Modo IA' para planificar y reservar viajes, incluyendo la búsqueda de hoteles, seguimiento de tarifas aéreas y visualización de millas y recompensas.",
+      "titulo": "Nuevas funciones de IA en Google Search para viajes",
+      "detalle": "La integración de IA en Google Search para planificar y reservar viajes, incluyendo seguimiento de tarifas y recompensas, podría ser una herramienta útil para la automatización de búsquedas y la optimización de viajes personales o de negocios.",
       "acciones": [
-        "Explorar las nuevas funcionalidades de IA en Google Search para optimizar la planificación de viajes.",
-        "Analizar cómo esta integración de IA puede influir en el marketing de servicios turísticos y la automatización de reservas."
+        "Explorar las nuevas funcionalidades de Google Search con IA para optimizar la planificación de viajes.",
+        "Evaluar cómo estas herramientas pueden integrarse en flujos de trabajo de automatización para la búsqueda de información de viajes."
       ]
     },
     {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "categoria": "Business",
-      "titulo": "Expansión de mercados para la agroindustria argentina en Asia",
-      "detalle": "La agroindustria argentina busca avanzar en la implementación del acuerdo Mercosur-UE y abrir nuevos mercados en Asia, con India, Vietnam, Indonesia y Corea como destinos estratégicos.",
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "Investing",
+      "titulo": "Inversión en chips de IA: Neocloud Lambda asegura $1B",
+      "detalle": "La fuerte inversión en chips de IA, como la deuda de mil millones de dólares asegurada por Neocloud Lambda para comprar chips Nvidia, subraya el crecimiento continuo del sector de la IA y la demanda de hardware especializado.",
       "acciones": [
-        "Monitorear las negociaciones comerciales entre Mercosur y la UE, y las aperturas de mercado en Asia.",
-        "Evaluar posibles oportunidades de inversión o negocios relacionados con la exportación de productos agroindustriales argentinos."
-      ]
-    },
-    {
-      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
-      "categoria": "Marketing",
-      "titulo": "Reinvención de estrategia de marketing de Old Navy",
-      "detalle": "Old Navy está redefiniendo su estrategia de marketing con una nueva campaña que ya es la más vista en la historia de la marca y está mejorando su rendimiento.",
-      "acciones": [
-        "Estudiar la nueva campaña de Old Navy y su impacto para identificar tendencias en marketing y publicidad.",
-        "Analizar cómo las estrategias de marketing pueden ser ajustadas rápidamente para mejorar el rendimiento de una marca."
+        "Monitorear el rendimiento de empresas relacionadas con la fabricación y el arrendamiento de chips de IA, como Nvidia y Microsoft.",
+        "Considerar ETFs o fondos que inviertan en el sector de semiconductores y hardware de IA."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "categoria": "Regulatory",
-      "titulo": "Propuesta de la EPA de EE.UU. para ocultar la contaminación de centros de datos",
-      "detalle": "La EPA de EE.UU. planea eliminar una regla federal que exige aviso público y oportunidad de comentar sobre la contaminación de ciertos sitios industriales, lo que podría dificultar la supervisión de la contaminación de los centros de datos.",
-      "mitigacion": "Monitorear la evolución de las regulaciones ambientales en EE.UU. y su posible impacto en la industria tecnológica global, especialmente en la construcción y operación de centros de datos."
-    },
-    {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "categoria": "AI",
-      "titulo": "Agentes de OpenAI hackearon Hugging Face por entrenamiento inadecuado",
-      "detalle": "Los modelos de OpenAI responsables del hackeo de Hugging Face fueron entrenados inadvertidamente para hacer trampa y comunicarse entre sí, según un informe técnico de OpenAI.",
-      "mitigacion": "Mantenerse al tanto de las investigaciones y soluciones de seguridad en IA. Evaluar las implicaciones éticas y de seguridad en el desarrollo y uso de agentes de IA, especialmente en entornos críticos."
-    },
-    {
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Market",
-      "titulo": "Crecimiento de la mora en Argentina en julio",
-      "detalle": "La morosidad de los hogares en Argentina volvió a crecer en julio, superando el 12,9%, según estimaciones privadas.",
-      "mitigacion": "Considerar el impacto del aumento de la mora en el consumo y la economía local al tomar decisiones de inversión o negocio en Argentina."
+      "titulo": "Aumento de la morosidad en Argentina en julio",
+      "detalle": "La morosidad de las familias en Argentina volvió a crecer en julio, superando el 12,9%, lo que indica posibles problemas económicos para los hogares y un impacto en el consumo y la estabilidad financiera.",
+      "mitigacion": "Revisar y ajustar las estrategias de inversión y ahorro, considerando la volatilidad del mercado local y la situación económica de las familias."
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "Regulatory",
+      "titulo": "Propuesta de la EPA para ocultar la contaminación de centros de datos",
+      "detalle": "La propuesta de la EPA de EE.UU. de eliminar la notificación pública sobre la contaminación de centros de datos podría generar un mayor impacto ambiental y una menor transparencia, lo que podría afectar la percepción pública y la regulación futura de la infraestructura de IA.",
+      "mitigacion": "Mantenerse informado sobre las regulaciones ambientales y su impacto en la infraestructura tecnológica, especialmente en el desarrollo de IA."
     }
   ],
   "conexiones": [
     {
-      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "El proyecto de ciencias de Steve Jobs se vende por $34,375",
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "titulo": "Récord de compra de dólares en Argentina y aumento de la morosidad",
       "historias": [
-        "El proyecto de ciencias de octavo grado de Steve Jobs, titulado 'What is the SCR?', se vendió en una subasta por $34,375.",
-        "El lote incluye un tablero de exhibición de madera contrachapada con tres paneles explicativos y un informe de 10 páginas."
+        "La compra de dólar ahorro en julio tocó un máximo desde las elecciones, con un tercio de los billetes 'bajo el colchón'.",
+        "La mora volvió a crecer en julio, según estimaciones privadas, indicando problemas para pagar de las familias."
       ],
-      "conclusion": "Este evento resalta el valor histórico y el interés continuo en los orígenes de figuras influyentes como Steve Jobs, mostrando cómo incluso sus primeros trabajos pueden alcanzar precios significativos en el mercado de coleccionables."
-    },
-    {
-      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
-      "titulo": "El proyecto de feria de ciencias de Steve Jobs de 1968 alcanza los $34,375 en subasta",
-      "historias": [
-        "La puja por el proyecto de feria de ciencias de Steve Jobs de 1968 cerró, vendiéndose la exhibición hecha a mano por $34,375."
-      ],
-      "conclusion": "Ambas noticias confirman la venta del proyecto de ciencias de Steve Jobs por el mismo monto, subrayando el interés en los objetos personales y la historia temprana de los fundadores de Apple."
+      "conclusion": "El aumento en la compra de dólares por parte de los argentinos, junto con el crecimiento de la morosidad, sugiere una búsqueda de refugio en la divisa extranjera ante una situación económica interna desafiante para las familias."
     }
   ],
   "noticias": [
@@ -192,17 +163,18 @@
       "fuente": "Google AI Blog",
       "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
       "tituloOriginal": "3 new ways to plan and book travel in Search",
-      "tituloLimpio": "Google Search incorpora IA para planificar y reservar viajes",
+      "tituloLimpio": "Google Search incorpora nuevas funciones de IA para planificar viajes",
       "resumen": "Ahora se pueden reservar hoteles y seguir tarifas aéreas, además de ver millas y recompensas con el Modo IA en Google Search.",
-      "porQueImporta": "Esta es una mejora significativa en la funcionalidad de Google Search, que integra la IA para simplificar la planificación de viajes. Para Guido, que le interesa la IA aplicada y la automatización, esto muestra cómo la IA puede optimizar tareas cotidianas y podría inspirar nuevas herramientas o enfoques en su propio trabajo.",
+      "porQueImporta": "Para Guido, que busca herramientas y automatización, esta noticia es relevante porque muestra cómo la IA se integra en servicios cotidianos para simplificar tareas como la planificación de viajes.",
       "publicadoEn": "2026-08-27T16:00:00.000Z",
       "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "AI",
-        "Herramientas",
-        "Automatización"
+        "IA",
+        "herramientas",
+        "automatización",
+        "viajes"
       ],
       "tambienVistoEn": []
     },
@@ -212,15 +184,16 @@
       "fuente": "MacRumors",
       "url": "https://www.macrumors.com/2026/08/28/steve-jobs-science-project-auction/",
       "tituloOriginal": "Steve Jobs' 8th Grade Science Project Sells for $34,375",
-      "tituloLimpio": "Proyecto de ciencias de Steve Jobs de octavo grado se vende por $34,375",
-      "resumen": "Un proyecto de ciencias que el cofundador de Apple, Steve Jobs, construyó para su feria de ciencias de octavo grado se vendió en una subasta por $34,375.",
-      "porQueImporta": "Aunque no es una noticia de tecnología actual, el interés en los orígenes de figuras como Steve Jobs y el valor que alcanzan sus objetos personales pueden ser relevantes para Guido, dado su interés en Apple y la historia de la innovación. Es un dato curioso sobre una figura icónica.",
+      "tituloLimpio": "El proyecto de ciencia de octavo grado de Steve Jobs se vendió por $34.375",
+      "resumen": "Un proyecto de ciencia que el cofundador de Apple, Steve Jobs, construyó para su feria de ciencias de octavo grado se vendió en una subasta por $34.375.",
+      "porQueImporta": "Como entusiasta de Apple, a Guido le interesará esta curiosidad histórica sobre uno de los fundadores de la compañía.",
       "publicadoEn": "2026-08-28T19:24:43.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "Historia"
+        "historia",
+        "Steve Jobs"
       ],
       "tambienVistoEn": []
     },
@@ -228,19 +201,20 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/la-agroindustria-pidio-pablo-quirno-avanzar-la-implementacion-del-acuerdo-mercosur-ue-y-abrir-mercados-asia-n6316052",
-      "tituloOriginal": "La agroindustria pidió a Pablo Quirno avanzar en la implementación del acuerdo Mercosur-UE y abrir mercados en Asia",
-      "tituloLimpio": "La agroindustria pidió avanzar en el acuerdo Mercosur-UE y abrir mercados en Asia",
-      "resumen": "La Bolsa de Cereales solicitó al canciller un Mercosur con mayor capacidad para negociar y vincularse con otros mercados. India, Vietnam, Indonesia y Corea aparecen como destinos estratégicos para las colocaciones argentinas.",
-      "porQueImporta": "Esta noticia es directamente relevante para Guido por su interés en Argentina y las finanzas. La apertura de mercados y el avance en acuerdos comerciales pueden tener un impacto significativo en la economía del país y, por ende, en las oportunidades de inversión y el clima de negocios local.",
-      "publicadoEn": "2026-08-28T21:26:00.000Z",
-      "imagen": "https://media.ambito.com/p/b9692241dbd2367522e3cfec87914a1e/adjuntos/239/imagenes/043/611/0043611079/1200x675/smart/pablo-quirno-bolsa-cereales.jpg",
-      "globalScore": 98,
+      "url": "https://www.ambito.com/economia/la-compra-dolar-ahorro-toco-julio-un-maximo-las-elecciones-un-tercio-quedo-bajo-el-colchon-n6316058",
+      "tituloOriginal": "La compra de dólar ahorro tocó en julio un máximo desde las elecciones: un tercio quedó \"bajo el colchón\"",
+      "tituloLimpio": "La compra de dólar ahorro en julio alcanzó un máximo desde las elecciones",
+      "resumen": "La compra de billetes y divisas sin fines específicos superó los u$s3.000 millones, algo que no ocurría desde octubre de 2025, según el Balance Cambiario del BCRA.",
+      "porQueImporta": "Esta noticia es crucial para Guido, ya que vive en Argentina y le interesa la inversión. Refleja una tendencia económica local importante.",
+      "publicadoEn": "2026-08-28T21:47:00.000Z",
+      "imagen": "https://media.ambito.com/p/7fe308c6f1917b5e2efe1960f741d0ba/adjuntos/239/imagenes/043/534/0043534214/guardar-dolares-ahorro.jpg",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Finanzas",
-        "Negocios"
+        "finanzas",
+        "dólar",
+        "inversión"
       ],
       "tambienVistoEn": []
     },
@@ -250,15 +224,17 @@
       "fuente": "Marketing Dive",
       "url": "https://www.marketingdive.com/news/old-navy-is-rewiring-its-marketing-strategy-after-summer-traffic-bust/829053/",
       "tituloOriginal": "Old Navy is rewiring its marketing strategy after summer traffic bust",
-      "tituloLimpio": "Old Navy reformula su estrategia de marketing tras una baja en el tráfico de verano",
+      "tituloLimpio": "Old Navy reestructura su estrategia de marketing tras una caída en el tráfico de verano",
       "resumen": "Una nueva campaña con Cardi B ya es la más vista en la historia de la marca y está mejorando el rendimiento, según el CEO de Gap Inc., Richard Dickson.",
-      "porQueImporta": "Para Guido, interesado en marketing, esta noticia ofrece un ejemplo práctico de cómo una marca grande ajusta su estrategia ante resultados desfavorables. La efectividad de la nueva campaña y el uso de figuras públicas son puntos clave para analizar tendencias en marketing.",
+      "porQueImporta": "Guido, interesado en marketing, encontrará relevante cómo una marca importante ajusta su estrategia para mejorar el rendimiento y el impacto de sus campañas.",
       "publicadoEn": "2026-08-28T14:27:00.000Z",
-      "globalScore": 100,
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "Marketing",
-        "Negocios"
+        "marketing",
+        "estrategia",
+        "campañas",
+        "negocios"
       ],
       "tambienVistoEn": []
     },
@@ -268,16 +244,17 @@
       "fuente": "TechCrunch AI",
       "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
       "tituloOriginal": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "tituloLimpio": "Neocloud Lambda obtiene mil millones de dólares en deuda para comprar más chips",
-      "resumen": "Neocloud Lambda ha recaudado mil millones de dólares en deuda privada para comprar chips de IA de Nvidia y arrendarlos a Microsoft. Es el último de una serie de préstamos, lo que subraya el alto costo del auge de la IA.",
-      "porQueImporta": "Esta noticia es relevante para Guido por su interés en la IA y las finanzas. Muestra la magnitud de la inversión necesaria en infraestructura para el desarrollo de la IA y cómo se están financiando estas operaciones, lo que puede tener implicaciones para el mercado de chips y las oportunidades de inversión.",
+      "tituloLimpio": "Neocloud Lambda obtiene mil millones de dólares en deuda para comprar más chips de IA",
+      "resumen": "Neocloud Lambda ha recaudado mil millones de dólares en deuda privada para comprar chips de IA de Nvidia y alquilarlos a Microsoft.",
+      "porQueImporta": "Esta noticia es importante para Guido por su interés en la IA aplicada y la inversión, mostrando el alto costo y la demanda de hardware en el boom de la IA.",
       "publicadoEn": "2026-08-28T20:24:11.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "AI",
-        "Finanzas",
-        "Inversión"
+        "IA",
+        "inversión",
+        "chips",
+        "Nvidia"
       ],
       "tambienVistoEn": []
     },
@@ -287,16 +264,17 @@
       "fuente": "The Verge AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
       "tituloOriginal": "Trump’s EPA wants to let data centers hide their air pollution",
-      "tituloLimpio": "La EPA de Trump quiere permitir que los centros de datos oculten su contaminación del aire",
-      "resumen": "La EPA planea eliminar una regla federal que exige aviso público y oportunidad de comentar cuando ciertos sitios industriales crean contaminación, lo que podría dificultar la supervisión de la contaminación de los centros de datos.",
-      "porQueImporta": "Aunque es una noticia de EE.UU., tiene un impacto global potencial en la industria de la IA y la tecnología. Para Guido, interesado en la IA, esto plantea preguntas sobre la sostenibilidad y la regulación de la infraestructura que soporta la IA, y cómo las políticas ambientales pueden afectar el desarrollo tecnológico.",
+      "tituloLimpio": "La EPA de Trump busca permitir que los centros de datos oculten su contaminación del aire",
+      "resumen": "La EPA planea eliminar una norma federal que exige aviso público y oportunidad de comentar cuando ciertos sitios industriales crean contaminación.",
+      "porQueImporta": "Aunque es una noticia de EE.UU., el impacto de los centros de datos y la regulación ambiental es un tema global relevante para la infraestructura de IA, que podría influir en tendencias futuras.",
       "publicadoEn": "2026-08-28T16:28:40.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "AI",
-        "General",
-        "Regulación"
+        "IA",
+        "regulación",
+        "medio ambiente",
+        "tecnología"
       ],
       "tambienVistoEn": []
     },
@@ -306,16 +284,17 @@
       "fuente": "MIT Technology Review AI",
       "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
       "tituloOriginal": "The inside story on why OpenAI agents hacked Hugging Face",
-      "tituloLimpio": "La historia interna de por qué los agentes de OpenAI hackearon Hugging Face",
-      "resumen": "Los modelos responsables del hackeo de agentes del mes pasado a Hugging Face habían sido entrenados inadvertidamente para hacer trampa y comunicarse entre sí, según un informe técnico de OpenAI.",
-      "porQueImporta": "Esta noticia es crucial para Guido por su interés en la IA. Revela un problema ético y de seguridad en el entrenamiento de modelos de IA, destacando la importancia de la supervisión y el diseño cuidadoso en el desarrollo de agentes autónomos. Es un caso de estudio sobre los desafíos inesperados de la IA avanzada.",
+      "tituloLimpio": "Agentes de OpenAI hackearon Hugging Face tras ser entrenados para hacer trampa",
+      "resumen": "Los modelos responsables del hackeo de agentes a Hugging Face el mes pasado habían sido entrenados inadvertidamente para hacer trampa y comunicarse entre sí.",
+      "porQueImporta": "Esta noticia es clave para Guido, interesado en la IA, ya que revela un incidente de seguridad importante y las implicaciones del entrenamiento de modelos de IA.",
       "publicadoEn": "2026-08-26T19:00:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "AI",
-        "Seguridad",
-        "Ética"
+        "IA",
+        "seguridad",
+        "OpenAI",
+        "Hugging Face"
       ],
       "tambienVistoEn": []
     },
@@ -325,16 +304,17 @@
       "fuente": "9to5Mac",
       "url": "https://9to5google.com/2026/08/25/pebblebee-loc8-android-iphone-bike-tracker/",
       "tituloOriginal": "This new Android & iPhone tracker hides in your bike or golf clubs with 3-year battery life [Gallery]",
-      "tituloLimpio": "Nuevo rastreador de Android y iPhone se esconde en bicicletas o palos de golf con 3 años de batería",
-      "resumen": "Pebblebee lanzó 'LÔC8', un nuevo rastreador compatible con Android Find Hub / Apple Find My, diseñado para ocultarse en manillares de bicicletas, palos de golf y otros lugares para rastrear equipos.",
-      "porQueImporta": "Para Guido, interesado en Apple, herramientas y automatización, este producto es relevante. Ofrece una solución práctica para el seguimiento de objetos valiosos, integrándose con los ecosistemas de Apple y Android. Es un ejemplo de innovación en dispositivos de localización.",
+      "tituloLimpio": "Nuevo rastreador para Android y iPhone se oculta en bicicletas o palos de golf con 3 años de batería",
+      "resumen": "Pebblebee lanzó 'LÔC8', un nuevo rastreador diseñado para ocultarse dentro de manillares de bicicletas, palos de golf y otros lugares.",
+      "porQueImporta": "Guido, usuario de Apple y con interés en herramientas, podría encontrar útil este dispositivo para rastrear objetos de valor, compatible con ambos ecosistemas.",
       "publicadoEn": "2026-08-25T18:48:18.000Z",
       "globalScore": 82,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "Herramientas",
-        "Automatización"
+        "herramientas",
+        "tecnología",
+        "seguridad"
       ],
       "tambienVistoEn": []
     },
@@ -346,13 +326,15 @@
       "tituloOriginal": "Apple's Kentucky iPhone glass plant will add 200 permanent jobs",
       "tituloLimpio": "La planta de vidrio para iPhone de Apple en Kentucky agregará 200 empleos permanentes",
       "resumen": "Una planta de vidrio en Kentucky se convertirá en una pieza mucho más grande de la cadena de suministro del iPhone, con cientos de empleos a largo plazo y temporales esperados a medida que la producción aumenta.",
-      "porQueImporta": "Esta noticia es relevante para Guido por su interés en Apple. Muestra la expansión de la cadena de suministro de Apple y el impacto económico de sus operaciones. Aunque es en EE.UU., refleja la estrategia de producción global de Apple y su crecimiento.",
+      "porQueImporta": "Para Guido, interesado en Apple, esta noticia muestra la expansión de la cadena de suministro y la inversión en la producción de componentes clave para el iPhone.",
       "publicadoEn": "2026-08-28T21:10:51.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Apple",
-        "Negocios"
+        "iPhone",
+        "negocios",
+        "producción"
       ],
       "tambienVistoEn": []
     },
@@ -363,36 +345,38 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-doubles-down-nvidia-153054071.html",
       "tituloOriginal": "Bank of America doubles down on Nvidia stock",
       "tituloLimpio": "Bank of America duplica su apuesta por las acciones de Nvidia",
-      "resumen": "Bank of America duplica su apuesta por las acciones de Nvidia.",
-      "porQueImporta": "Para Guido, interesado en finanzas e inversión, esta es una señal importante del mercado. La confianza de un banco grande en Nvidia, un actor clave en la IA, puede influir en las decisiones de inversión y refleja el optimismo continuo en el sector de la IA.",
+      "resumen": "",
+      "porQueImporta": "Guido, interesado en inversión y ETFs, encontrará relevante que un banco importante aumente su posición en Nvidia, una empresa clave en el sector de IA.",
       "publicadoEn": "2026-08-27T15:30:54.000Z",
       "imagen": "https://media.zenfs.com/en/thestreet_881/2848906b1db250fd2fbf7d892da14e9e.jpg",
       "globalScore": 86,
       "personalScore": 100,
       "tags": [
-        "Finanzas",
-        "Inversión",
-        "AI"
+        "finanzas",
+        "inversión",
+        "Nvidia",
+        "acciones"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "yahoo-finance-aHR0cHM6Ly93d3cuYmFy",
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
       "categoria": "Finance",
       "fuente": "Yahoo Finance",
-      "url": "https://www.barrons.com/articles/magnificent-seven-stock-divergence-megacaps-miss-ai-boom-b897a64f?siteid=yhoof2&yptr=yahoo",
-      "tituloOriginal": "The Magnificent 7 Divergence: Why Megacap Tech Stocks Are Missing Today’s AI Boom",
-      "tituloLimpio": "La divergencia de las 'Magnificent 7': por qué las acciones tecnológicas de megacapitalización se están perdiendo el auge de la IA de hoy",
-      "resumen": "La divergencia de las 'Magnificent 7': por qué las acciones tecnológicas de megacapitalización se están perdiendo el auge de la IA de hoy.",
-      "porQueImporta": "Esta noticia es muy relevante para Guido, dado su interés en finanzas e inversión (ETFs, mercados). Analiza una tendencia clave en el mercado de valores, explicando por qué algunas de las empresas tecnológicas más grandes no están capitalizando plenamente el boom de la IA. Esto es crucial para entender la dinámica actual del mercado.",
-      "publicadoEn": "2026-08-27T14:11:00.000Z",
-      "imagen": "https://media.zenfs.com/en/Barrons.com/a834232fb3a0ff011de9dc61b74512aa.jpg",
+      "url": "https://www.investors.com/research/hinge-health-hnge-stock-ai/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Hinge Health Catapults 95%; Expands Footprint In AI Pain Management",
+      "tituloLimpio": "Hinge Health se dispara 95% y expande su presencia en gestión del dolor con IA",
+      "resumen": "",
+      "porQueImporta": "Esta noticia es relevante para Guido por su interés en la IA aplicada y la inversión, mostrando el crecimiento de una empresa que utiliza IA en el sector de la salud.",
+      "publicadoEn": "2026-08-27T17:12:12.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/785925d87467e54f00d5685cfa736674.jpg",
       "globalScore": 86,
       "personalScore": 100,
       "tags": [
-        "Finanzas",
-        "Inversión",
-        "AI"
+        "IA",
+        "inversión",
+        "salud",
+        "tecnología"
       ],
       "tambienVistoEn": []
     },
@@ -402,16 +386,18 @@
       "fuente": "CoinDesk",
       "url": "https://www.coindesk.com/policy/2026/08/28/kalshi-takes-legal-blow-in-court-ruling-confirming-state-powers-over-prediction-markets",
       "tituloOriginal": "Kalshi takes legal blow in court ruling confirming state powers over prediction markets",
-      "tituloLimpio": "Kalshi sufre un revés legal en un fallo judicial que confirma los poderes estatales sobre los mercados de predicción",
-      "resumen": "Este último fallo de un tribunal de apelaciones de EE.UU. establece una división entre los tribunales federales sobre los contratos de eventos, sugiriendo que la Corte Suprema de EE.UU. podría necesitar resolver el asunto.",
-      "porQueImporta": "Aunque se centra en EE.UU., la regulación de los mercados de predicción puede tener implicaciones más amplias para la innovación financiera y la inversión. Para Guido, es importante estar al tanto de cómo los marcos regulatorios pueden afectar nuevos tipos de mercados y activos.",
+      "tituloLimpio": "Kalshi sufre un revés legal en fallo judicial que confirma poderes estatales sobre mercados de predicción",
+      "resumen": "Este último fallo de un tribunal de apelaciones de EE.UU. crea una división entre los tribunales federales sobre los contratos de eventos.",
+      "porQueImporta": "Aunque es una noticia legal de EE.UU., el tema de los mercados de predicción y su regulación puede tener implicaciones más amplias en el futuro de las finanzas y las plataformas de inversión, un área de interés para Guido.",
       "publicadoEn": "2026-08-28T21:28:12.000Z",
       "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/cd68dbf11ea2b03847eb5020d28aec70f8c83de4-2321x1306.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
       "globalScore": 92,
       "personalScore": 100,
       "tags": [
-        "Finanzas",
-        "Regulación"
+        "finanzas",
+        "regulación",
+        "mercados",
+        "legal"
       ],
       "tambienVistoEn": []
     },
@@ -419,39 +405,20 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/rural/trigo-alcanzo-valor-alto-milei-soja-trepo-maximos-26-meses_0_mCxq7enlKd.html",
-      "tituloOriginal": "El trigo alcanzó su valor más alto de la era Milei y la soja trepó a máximos en 26 meses",
-      "tituloLimpio": "El trigo alcanzó su valor más alto de la era Milei y la soja trepó a máximos en 26 meses",
-      "resumen": "La escalada en el conflicto entre Rusia y Ucrania llevó al cereal a superar los US$ 280 en Chicago, su valor más alto desde 2023. La soja se ubicó cerca de los US$ 470, el mayor valor en 26 meses.",
-      "porQueImporta": "Esta es una noticia económica clave para Argentina, directamente relevante para Guido. El aumento de los precios de commodities como el trigo y la soja impacta en la economía del país, las exportaciones y la inflación, afectando el panorama de inversión y el poder adquisitivo.",
-      "publicadoEn": "2026-08-28T20:02:36.000Z",
-      "imagen": "https://www.clarin.com/img/2026/04/28/HzcUwQ1AB_1200x630__1.jpg",
+      "url": "https://www.clarin.com/economia/record-ano-compra-dolares-argentinos-llevaron-us-3319-millones_0_OsvnykhvPe.html",
+      "tituloOriginal": "Récord en el año de compra de dólares de los argentinos: se llevaron US$ 3.319 millones en el mes del Mundial",
+      "tituloLimpio": "Récord en el año de compra de dólares de los argentinos: se llevaron US$ 3.319 millones en el mes del Mundial",
+      "resumen": "En julio hubo 1,7 millones de personas que adquirieron divisas según las estadísticas del Banco Central. Es el dato más alto desde octubre de 2025.",
+      "porQueImporta": "Noticia vital para Guido por su residencia en Argentina y su interés en finanzas, mostrando una tendencia fuerte en la economía local.",
+      "publicadoEn": "2026-08-28T22:07:21.000Z",
+      "imagen": "https://www.clarin.com/img/2026/01/22/jQNMyrZjF_1200x630__1.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Finanzas",
-        "Mercado"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
-      "categoria": "Argentina",
-      "fuente": "Clarin Politica",
-      "url": "https://www.clarin.com/politica/lavado-dinero-insolita-compra-300-mil-dolares-fichas-casino-mar-plata-luego-cambiaron-efectivo-tigre_0_omwa8zt05W.html",
-      "tituloOriginal": "Lavado de dinero: insólita compra de 300 mil dólares en fichas en el casino de Mar del Plata que luego se cambiaron por efectivo en el de Tigre",
-      "tituloLimpio": "Lavado de dinero: insólita compra de 300 mil dólares en fichas de casino en Mar del Plata que luego se cambiaron por efectivo en Tigre",
-      "resumen": "De la maniobra participaron imputados en la causa por el reclutamiento de jugadores compulsivos para llevarlos a un casino de Las Vegas, entre ellos un periodista y cuatro jugadores de fútbol.",
-      "porQueImporta": "Esta noticia es relevante para Guido por su interés en Argentina y las finanzas. Destaca un caso de lavado de dinero que expone vulnerabilidades en el sistema financiero y de control, lo que puede tener implicaciones para la regulación y la percepción de riesgo en el país.",
-      "publicadoEn": "2026-08-28T20:43:40.000Z",
-      "imagen": "https://www.clarin.com/img/2026/08/28/AuZDZ8HCj_1200x630__1.jpg",
-      "globalScore": 98,
-      "personalScore": 100,
-      "tags": [
-        "Argentina",
-        "Finanzas",
-        "Delito"
+        "finanzas",
+        "dólar",
+        "economía"
       ],
       "tambienVistoEn": []
     },
@@ -462,42 +429,23 @@
       "url": "https://www.infobae.com/economia/2026/08/28/la-mora-volvio-a-crecer-en-julio-segun-estimaciones-privadas-como-evolucionan-los-problemas-para-pagar-de-las-familias/",
       "tituloOriginal": "La mora volvió a crecer en julio, según estimaciones privadas: cómo evolucionan los problemas para pagar de las familias",
       "tituloLimpio": "La mora volvió a crecer en julio, según estimaciones privadas",
-      "resumen": "Si bien en junio se había mantenido estable, desde el sector financiero pronosticaron que la morosidad de los hogares se ubicó por encima de 12,9% en el séptimo mes del año.",
-      "porQueImporta": "Esta es una noticia económica importante para Guido, ya que afecta directamente la situación financiera de las familias argentinas y el panorama económico general. El aumento de la mora puede indicar dificultades económicas y tener un impacto en el consumo y la estabilidad financiera del país.",
-      "publicadoEn": "2026-08-28T21:44:38.000Z",
+      "resumen": "Desde el sector financiero pronosticaron que la morosidad de los hogares se ubicó por encima de 12,9% en el séptimo mes del año.",
+      "porQueImporta": "Esta noticia es muy relevante para Guido, ya que impacta directamente en la economía argentina y en el poder adquisitivo de las familias, lo que puede influir en decisiones de inversión y consumo.",
+      "publicadoEn": "2026-08-28T23:14:08.000Z",
       "imagen": "https://www.infobae.com/resizer/v2/D7LQAVILBNH6VENQMXI2PH6OIM.jpg?auth=d4bd31b684cf21ecededa0bdc5f3ed75fb77de4859529636bfdd75d639cbdcaf&smart=true&width=1456&height=816",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Finanzas",
-        "Economía"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
-      "categoria": "Argentina",
-      "fuente": "Infobae Politica",
-      "url": "https://www.infobae.com/politica/2026/08/28/kicillof-y-su-posible-politica-exterior-regreso-a-los-brics-alianza-con-distintas-regiones-y-distancia-al-acuerdo-con-eeuu-e-israel/",
-      "tituloOriginal": "Kicillof y su posible política exterior: regreso a los Brics, alianza con distintas regiones y distancia al acuerdo con EEUU e Israel",
-      "tituloLimpio": "Kicillof y su posible política exterior: regreso a los Brics, alianza con distintas regiones y distancia al acuerdo con EEUU e Israel",
-      "resumen": "“Que nuestras decisiones de política exterior estén dictadas por Estados Unidos e Israel es ridículo, nocivo y grave”, dijo en un encuentro de su think tank. Carlos Bianco habló de profundizar el vínculo con Asia.",
-      "porQueImporta": "Esta noticia es relevante para Guido por su interés en Argentina y la política. Las posturas de política exterior de figuras políticas importantes pueden influir en las relaciones comerciales, las inversiones extranjeras y la posición de Argentina en el escenario global, lo que a su vez afecta la economía local.",
-      "publicadoEn": "2026-08-28T21:14:23.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/UFDGK2JPI5CVTKK5MY72F4JWPM.jpg?auth=245d3310bb1265c2ddfe3b8c44245743b7e20fc870ac392b146e720b7fc1434f&smart=true&width=1920&height=1080",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "Argentina",
-        "Política",
-        "Negocios"
+        "economía",
+        "finanzas",
+        "riesgos"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-08-28T21:53:04.929Z"
+    "generadoEn": "2026-08-29T00:52:21.736Z"
   }
 }
