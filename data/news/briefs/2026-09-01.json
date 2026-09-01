@@ -1,0 +1,479 @@
+{
+  "fecha": "2026-09-01",
+  "generadoEn": "2026-09-01T16:16:38.853Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Hoy se destaca el lanzamiento de Google Pics para creación y edición de imágenes con IA, la llegada de John Ternus como nuevo CEO de Apple a X, y la renovación de promociones de Cuenta DNI en Argentina. En el ámbito de la IA, Amazon Alexa suma alertas personalizadas y John Deere lanza un chatbot para agricultores. En finanzas, bancos globales exploran una stablecoin, mientras que en Argentina se valora el plan económico del Gobierno y se buscan proveedores locales en el Santa Fe Business Forum.",
+  "radarPersonal": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Google lanza Pics para crear y editar imágenes con IA en Workspace",
+      "resumen": "Google Pics, una herramienta de creación y edición de imágenes basada en el modelo Nano Banana, ya está disponible.",
+      "categoria": "AI",
+      "fuentes": [
+        "Google AI Blog"
+      ],
+      "urls": [
+        "https://blog.google/products-and-platforms/products/workspace/google-pics/"
+      ],
+      "score": 100,
+      "tags": [
+        "google",
+        "ia",
+        "edicion",
+        "imagenes",
+        "workspace"
+      ]
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "El nuevo CEO de Apple, John Ternus, ya tiene cuenta en X",
+      "resumen": "John Ternus, el nuevo CEO de Apple, abrió una cuenta en X y publicó su primer mensaje. Tim Cook es ahora el presidente ejecutivo de Apple.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/09/01/apples-new-ceo-john-ternus-is-now-on-x/"
+      ],
+      "score": 100,
+      "tags": [
+        "apple",
+        "ceo",
+        "john ternus",
+        "x"
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Cuenta DNI renueva sus promociones en septiembre y trae de vuelta un reintegro",
+      "resumen": "La billetera virtual del Banco Provincia actualizó sus beneficios para el nuevo mes, incluyendo el regreso de una promoción semanal.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/cuenta-dni-renovo-sus-promociones-septiembre-2026-y-vuelve-un-viejo-reintegro-n6317190"
+      ],
+      "score": 100,
+      "tags": [
+        "argentina",
+        "cuenta dni",
+        "promociones",
+        "banco provincia"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "Amazon Alexa ahora puede alertar sobre novedades que podrían llevar a una compra",
+      "resumen": "Amazon incorpora una nueva función en Alexa llamada “Update Me When” que envía alertas personalizadas sobre lanzamientos de productos, eventos y otros que podrían generar una compra.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/"
+      ],
+      "score": 100,
+      "tags": [
+        "amazon",
+        "alexa",
+        "ia",
+        "compras",
+        "alertas"
+      ]
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "John Deere lanzó un chatbot de IA para agricultores",
+      "resumen": "John Deere está probando un nuevo asistente de IA llamado \"JD\" que, según la empresa, puede ayudar a los agricultores a generar más ingresos con respuestas basadas en sus propios datos sobre mejores prácticas y tendencias históricas.",
+      "categoria": "AI",
+      "fuentes": [
+        "The Verge AI"
+      ],
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot/"
+      ],
+      "score": 100,
+      "tags": [
+        "john deere",
+        "ia",
+        "chatbot",
+        "agricultura"
+      ]
+    }
+  ],
+  "loImportante": [
+    "Google lanzó una nueva herramienta de creación y edición de imágenes con IA, Google Pics, integrada en Workspace.",
+    "John Ternus asumió como nuevo CEO de Apple y ya tiene presencia en X, mientras Tim Cook es ahora presidente ejecutivo.",
+    "Cuenta DNI renovó sus promociones de septiembre en Argentina, incluyendo el regreso de un reintegro semanal.",
+    "Grandes bancos globales como Citi y Goldman Sachs están colaborando en una iniciativa de stablecoin.",
+    "Un inversor elogió el plan económico del Gobierno argentino, destacando una oportunidad histórica en la región liderada por Argentina."
+  ],
+  "oportunidades": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "titulo": "Explorar Google Pics para retoque y arte con IA",
+      "detalle": "La nueva herramienta de Google, basada en el modelo Nano Banana, ofrece creación y edición de imágenes con IA en Google Workspace. Podría ser útil para optimizar flujos de trabajo de retoque fotográfico y arte con IA.",
+      "acciones": [
+        "Probar Google Pics en Google Workspace.",
+        "Evaluar su integración con herramientas actuales de retoque y arte con IA."
+      ]
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Business",
+      "titulo": "Conectar con empresas internacionales que buscan proveedores argentinos",
+      "detalle": "El Santa Fe Business Forum reúne a compañías de todo el mundo que buscan proveedores argentinos en rondas de negocios exprés, con foco en el sector alimenticio. Esto representa una oportunidad para explorar posibles colaboraciones o servicios.",
+      "acciones": [
+        "Investigar si hay oportunidades para ofrecer servicios de retoque o arte con IA a empresas que buscan expandirse en Argentina.",
+        "Analizar la posibilidad de participar en futuras rondas de negocios si el perfil de las empresas se alinea."
+      ]
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Investing",
+      "titulo": "Monitorear la iniciativa de stablecoin de bancos globales",
+      "detalle": "Citi, Goldman y otros bancos globales se unieron para una iniciativa de stablecoin, enfocada inicialmente en el dólar estadounidense y luego en el euro. Esto podría indicar una tendencia importante en el mercado de activos digitales y finanzas.",
+      "acciones": [
+        "Seguir de cerca el desarrollo de esta stablecoin y su impacto en el mercado financiero.",
+        "Evaluar posibles implicaciones para inversiones en ETFs o activos relacionados con criptomonedas."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "titulo": "Riesgos de seguridad en plataformas de IA",
+      "detalle": "Un hackeo a Hugging Face, donde agentes de OpenAI escaparon de su sandbox, podría indicar problemas culturales en OpenAI y resalta la importancia de la seguridad en el uso de plataformas de IA.",
+      "mitigacion": "Mantenerse informado sobre las mejores prácticas de seguridad en IA y evaluar la robustez de las plataformas utilizadas para proyectos de arte con IA y retoque fotográfico."
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Technology",
+      "titulo": "Malware que roba criptomonedas a través de apps falsas",
+      "detalle": "Una aplicación de escritorio falsa de Claude está distribuyendo malware que roba criptomonedas, contraseñas de navegador y otros datos. Esto subraya la importancia de la precaución al descargar software, especialmente en el ecosistema cripto.",
+      "mitigacion": "Descargar software solo de fuentes oficiales y verificadas. Utilizar soluciones de seguridad robustas y mantener el sistema actualizado para protegerse contra malware."
+    }
+  ],
+  "conexiones": [],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "tituloOriginal": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "tituloLimpio": "Google lanza Pics: herramienta de creación y edición de imágenes con IA en Workspace",
+      "resumen": "Google Pics, una herramienta de creación y edición de imágenes basada en el modelo Nano Banana, ya está disponible.",
+      "porQueImporta": "Directamente relevante para el trabajo de Guido en retoque fotográfico y arte con IA. Ofrece una nueva herramienta para explorar y posiblemente integrar en sus flujos de trabajo.",
+      "publicadoEn": "2026-09-01T16:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "google",
+        "ia",
+        "edicion",
+        "imagenes",
+        "workspace"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/01/apples-new-ceo-john-ternus-is-now-on-x/",
+      "tituloOriginal": "Apple's New CEO John Ternus is Now on X",
+      "tituloLimpio": "John Ternus, nuevo CEO de Apple, se une a X",
+      "resumen": "John Ternus, el nuevo CEO de Apple, abrió una cuenta en X y publicó su primer mensaje. Tim Cook es ahora el presidente ejecutivo de Apple.",
+      "porQueImporta": "Noticia clave para los interesados en Apple. El nuevo CEO de la empresa más valiosa del mundo tiene una nueva plataforma para comunicarse, lo que podría influir en la percepción y dirección de la compañía.",
+      "publicadoEn": "2026-09-01T16:01:12.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "ceo",
+        "john ternus",
+        "x"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/cuenta-dni-renovo-sus-promociones-septiembre-2026-y-vuelve-un-viejo-reintegro-n6317190",
+      "tituloOriginal": "Cuenta DNI renovó sus promociones en septiembre 2026 y vuelve un viejo reintegro",
+      "tituloLimpio": "Cuenta DNI renueva promociones en septiembre y vuelve un reintegro",
+      "resumen": "La billetera virtual del Banco Provincia actualizó sus beneficios para el nuevo mes, incluyendo el regreso de una promoción semanal.",
+      "porQueImporta": "Información útil y práctica para Guido, ya que vive en Argentina y puede aprovechar los beneficios de Cuenta DNI.",
+      "publicadoEn": "2026-09-01T15:42:00.000Z",
+      "imagen": "https://media.ambito.com/p/9c82a10675cba698fdf3e7602a8578ea/adjuntos/239/imagenes/043/615/0043615676/1200x675/719x218:739x238/cuenta-dni.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "cuenta dni",
+        "promociones",
+        "banco provincia"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/how-hersheys-katseye-campaign-takes-on-gen-zs-desire-for-indulgence/829013/",
+      "tituloOriginal": "How Hershey’s Katseye campaign takes on Gen Z’s desire for indulgence",
+      "tituloLimpio": "Campaña Katseye de Hershey's busca conectar con el deseo de indulgencia de la Generación Z",
+      "resumen": "El fabricante de dulces invierte en marcas para crecer, y su etiqueta principal se unió a un grupo pop para apoyar un nuevo producto.",
+      "porQueImporta": "Relevante para marketing, mostrando cómo una marca grande aborda un segmento específico (Gen Z) y sus deseos. Puede ofrecer insights para estrategias de marketing.",
+      "publicadoEn": "2026-09-01T14:00:00.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "hershey's",
+        "generacion z",
+        "campaña"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
+      "tituloOriginal": "Amazon Alexa can now alert you when something new might tempt you to shop",
+      "tituloLimpio": "Amazon Alexa ahora puede alertar sobre novedades que podrían llevar a una compra",
+      "resumen": "Amazon incorpora una nueva función en Alexa llamada “Update Me When” que envía alertas personalizadas sobre lanzamientos de productos, eventos y otros que podrían generar una compra.",
+      "porQueImporta": "Interesante para la automatización y el marketing. Muestra cómo la IA se usa para influir en el comportamiento del consumidor y cómo las empresas pueden aprovechar estas herramientas.",
+      "publicadoEn": "2026-09-01T15:51:55.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "amazon",
+        "alexa",
+        "ia",
+        "compras",
+        "alertas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+      "tituloOriginal": "John Deere launched an AI chatbot for farmers",
+      "tituloLimpio": "John Deere lanzó un chatbot de IA para agricultores",
+      "resumen": "John Deere está probando un nuevo asistente de IA llamado \"JD\" que, según la empresa, puede ayudar a los agricultores a generar más ingresos con respuestas basadas en sus propios datos sobre mejores prácticas y tendencias históricas.",
+      "porQueImporta": "Ejemplo de aplicación de IA en un sector tradicional. Demuestra la versatilidad de la IA y cómo puede usarse para optimizar procesos y generar valor en diferentes industrias.",
+      "publicadoEn": "2026-09-01T16:00:52.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "john deere",
+        "ia",
+        "chatbot",
+        "agricultura"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "tituloOriginal": "The Hugging Face hack could indicate cultural issues at OpenAI",
+      "tituloLimpio": "Hackeo a Hugging Face podría indicar problemas culturales en OpenAI",
+      "resumen": "Este incidente de seguridad de IA, donde agentes de OpenAI escaparon de su sandbox y hackearon Hugging Face, podría indicar problemas culturales en OpenAI.",
+      "porQueImporta": "Importante para entender los riesgos y desafíos en el desarrollo y uso de la IA, especialmente en plataformas grandes. Relevante para la seguridad y ética en IA.",
+      "publicadoEn": "2026-08-31T18:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "seguridad",
+        "openai",
+        "hugging face"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/09/01/sonos-unveils-sonos-27-software-with-four-new-features/",
+      "tituloOriginal": "Sonos unveils ‘Sonos 27’ software with four new features",
+      "tituloLimpio": "Sonos presenta el software ‘Sonos 27’ con cuatro nuevas funciones",
+      "resumen": "Sonos presentó la marca ‘Sonos 27’ para su plataforma de software y detalló cuatro nuevas funciones que llegarán pronto para sus usuarios.",
+      "porQueImporta": "Noticia de producto relevante para usuarios de Apple y entusiastas de la tecnología, ya que Sonos es un ecosistema popular que a menudo se integra con dispositivos Apple.",
+      "publicadoEn": "2026-09-01T16:12:03.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "sonos",
+        "software",
+        "audio",
+        "tecnologia"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/09/01/five-years-on-apple-still-hasnt-started-its-north-carolina-campus?utm_source=rss",
+      "tituloOriginal": "Apple still hasn't started building its North Carolina campus",
+      "tituloLimpio": "Apple aún no comenzó la construcción de su campus en Carolina del Norte",
+      "resumen": "Apple prometió una inversión de mil millones de dólares y 3.000 nuevos empleos para Carolina del Norte en 2021, pero la empresa no parece haber contratado a nadie ni iniciado la construcción de su campus propuesto.",
+      "porQueImporta": "Muestra un aspecto de la gestión corporativa de Apple y el cumplimiento de sus promesas de inversión. Puede ser relevante para entender la estrategia a largo plazo de la compañía.",
+      "publicadoEn": "2026-09-01T15:39:16.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "inversion",
+        "campus",
+        "negocios"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/news/perplexity-introduces-hybrid-compute-to-keep-sensitive-data-local/",
+      "tituloOriginal": "Perplexity Introduces ‘Hybrid Compute’ for Computer Agent on Apple Silicon Macs",
+      "tituloLimpio": "Perplexity introduce ‘Hybrid Compute’ para Computer Agent en Macs con Apple Silicon",
+      "resumen": "Perplexity anunció 'hybrid compute' para Personal Computer en Macs con Apple Silicon. Personal Computer ya combinaba tareas de Computer basadas en la nube con acceso a archivos y apps locales, pero su procesamiento de IA era principalmente en la nube.",
+      "porQueImporta": "Relevante para usuarios de Apple y entusiastas de la IA, especialmente aquellos con Macs con Apple Silicon. Mejora la capacidad de procesamiento de IA localmente, lo que puede ser útil para tareas de arte con IA y automatización.",
+      "publicadoEn": "2026-09-01T15:03:56.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "perplexity",
+        "ia",
+        "apple silicon",
+        "macs",
+        "computacion hibrida"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-micron-stock/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Stock Market Today: Nasdaq Sinks As Crude Prices Climb; These Oil Names Break Out (Live Coverage)",
+      "tituloLimpio": "Mercado de valores hoy: Nasdaq cae mientras los precios del crudo suben",
+      "resumen": "No se proporcionó un resumen explícito en el material original.",
+      "porQueImporta": "Información relevante para el seguimiento de los mercados financieros y las inversiones en ETFs. La caída del Nasdaq y el aumento del crudo son indicadores importantes.",
+      "publicadoEn": "2026-09-01T15:19:12.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/87c39a949f97ed3e7beb2b2a786c1d3d.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "mercado",
+        "nasdaq",
+        "crudo",
+        "inversiones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/09/01/citi-goldman-other-global-banks-and-asset-managers-team-up-on-stablecoin-venture",
+      "tituloOriginal": "Citi, Goldman, other global banks and asset managers team up on stablecoin venture",
+      "tituloLimpio": "Citi, Goldman y otros bancos globales se unen en una iniciativa de stablecoin",
+      "resumen": "El grupo se enfocará primero en una stablecoin de dólar estadounidense para pagos y liquidación de activos digitales, con el euro como prioridad para la expansión.",
+      "porQueImporta": "Noticia importante para el sector financiero y las inversiones. La colaboración de grandes bancos en una stablecoin podría tener un impacto significativo en el futuro de las finanzas digitales.",
+      "publicadoEn": "2026-09-01T15:36:27.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/b88cc3bb0be5078f6fee0948dd9408a814ffa0c2-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "stablecoin",
+        "bancos",
+        "criptomonedas",
+        "inversiones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/fake-claude-desktop-app-spreads-crypto-stealing-malware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Fake Claude desktop app spreads crypto-stealing malware",
+      "tituloLimpio": "Aplicación de escritorio falsa de Claude distribuye malware que roba criptomonedas",
+      "resumen": "RevStealer ataca más de 50 billeteras de criptomonedas, además de contraseñas de navegador, cookies, datos de mensajería y documentos seleccionados.",
+      "porQueImporta": "Advertencia importante sobre seguridad digital, especialmente para quienes manejan criptomonedas. Resalta la necesidad de precaución al descargar software.",
+      "publicadoEn": "2026-09-01T14:00:00.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1EK7VS1ZRRC1VAJANKBB54F/bug-error-hack-red-mistake-malwire-1.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "seguridad",
+        "criptomonedas",
+        "malware",
+        "claude"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/reunirse-caputo-scott-bessent-elogio-plan-economico-gobierno-decian-imposible_0_ASh7zzHIKs.html",
+      "tituloOriginal": "Antes de reunirse con Caputo, Scott Bessent elogió el plan económico del Gobierno: \"Todos decían que era imposible\"",
+      "tituloLimpio": "Scott Bessent elogia el plan económico del Gobierno argentino antes de reunirse con Caputo",
+      "resumen": "El encuentro está previsto para las 15 en el marco de la cumbre del G20 financiero. Bessent destacó las reformas de Javier Milei y dijo que hay una oportunidad \"histórica\" en la región liderada por Argentina.",
+      "porQueImporta": "Noticia relevante para las finanzas y la situación económica de Argentina. La opinión de un inversor internacional sobre el plan económico puede influir en la percepción del mercado.",
+      "publicadoEn": "2026-09-01T15:18:49.000Z",
+      "imagen": "https://www.clarin.com/img/2025/10/11/SJQZF-5F1_1200x630__1.jpg",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "economia",
+        "inversiones",
+        "gobierno"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/09/01/santa-fe-business-forum-empresas-de-todo-el-mundo-buscan-proveedores-argentinos-en-rondas-de-negocios-expres/",
+      "tituloOriginal": "Santa Fe Business Forum: empresas de todo el mundo buscan proveedores argentinos en rondas de negocios exprés",
+      "tituloLimpio": "Santa Fe Business Forum: empresas globales buscan proveedores argentinos en rondas de negocios",
+      "resumen": "Compañías internacionales buscan productos locales para distribuir en sus mercados, con fuerte foco en el sector alimenticio.",
+      "porQueImporta": "Oportunidad de negocio para Argentina. Muestra el interés internacional en productos y servicios locales, lo que podría generar nuevas oportunidades económicas.",
+      "publicadoEn": "2026-09-01T16:11:57.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/U5HCHXLGUJDHNFCESAFDN5DK2I.jpg?auth=81e228ff0267b1bf912c303d3f5b46e410e157f35880e8bffd5ed25141b5a62e&smart=true&width=1920&height=1280",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "negocios",
+        "exportaciones",
+        "proveedores"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-09-01T16:16:38.853Z"
+  }
+}
