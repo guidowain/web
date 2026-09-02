@@ -1,191 +1,400 @@
 {
   "fecha": "2026-09-02",
-  "generadoEn": "2026-09-02T16:12:57.494Z",
+  "generadoEn": "2026-09-02T19:38:32.522Z",
   "actualizacion": "14:00",
-  "resumenEjecutivo": "Hoy destacamos novedades en IA con Google y Perplexity, lanzamientos de Apple como el M6 MacBook Pro y un cargador portátil, y noticias financieras con la bancarrota de una cadena de restaurantes y el análisis de la Carta Orgánica del BCRA en Argentina. También hay novedades sobre ciberseguridad y marketing de marcas.",
+  "resumenEjecutivo": "Hoy se destaca la preocupación de industriales argentinos por embargos y la suba del gas, junto con la propuesta de la UIA para la economía. En tecnología, Apple introduce una función de 'iPhone Handoff' en iOS 27, y varias empresas mejoran la integración de IA, incluyendo la detección de correos falsos de Amazon y herramientas para contadores en Argentina. Google esquivó una división de su negocio publicitario.",
   "radarPersonal": [
     {
-      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "titulo": "Google lanza programa de ciberdefensa proactiva para gobiernos y empresas",
-      "resumen": "El programa Fairwind es de acceso limitado para gobiernos y socios de confianza que quieran usar las herramientas de ciberdefensa de Google.",
-      "categoria": "AI",
-      "fuentes": [
-        "Google AI Blog"
-      ],
-      "urls": [
-        "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/"
-      ],
-      "score": 100,
-      "tags": [
-        "ciberseguridad",
-        "defensa",
-        "gobiernos",
-        "empresas"
-      ]
-    },
-    {
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "Acceso rápido a la configuración de apps desde el Centro de Control en iPhone",
-      "resumen": "Un truco para acceder rápidamente al menú de configuración de la app abierta en tu iPhone, usando un atajo simple.",
+      "titulo": "iOS 27 introduce la función 'iPhone Handoff'",
+      "resumen": "Apple agregó una nueva función 'iPhone Handoff' a iOS 27 que permitirá cambiar entre dos iPhones usando el mismo número de teléfono en cada dispositivo.",
       "categoria": "Apple",
       "fuentes": [
         "MacRumors"
       ],
       "urls": [
-        "https://www.macrumors.com/how-to/open-the-current-apps-settings-from-control-center/"
+        "https://www.macrumors.com/2026/09/02/ios-27-iphone-handoff-feature/"
       ],
       "score": 100,
       "tags": [
+        "iOS",
         "iPhone",
-        "atajos",
-        "productividad"
-      ]
-    },
-    {
-      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
-      "titulo": "Tres nuevas mejoras para el M6 MacBook Pro que se lanza este otoño",
-      "resumen": "Apple lanzará un nuevo M6 MacBook Pro de 14 pulgadas con el diseño industrial actual. Se esperan tres mejoras con el nuevo chip M6.",
-      "categoria": "Apple",
-      "fuentes": [
-        "9to5Mac"
-      ],
-      "urls": [
-        "https://9to5mac.com/2026/09/02/m6-macbook-pro-three-new-upgrades-launching-this-fall/"
-      ],
-      "score": 100,
-      "tags": [
-        "MacBook Pro",
-        "M6",
-        "lanzamiento"
-      ]
-    },
-    {
-      "id": "9to5mac-aHR0cHM6Ly85dG81dG95",
-      "titulo": "Probado: el nuevo cargador portátil de metal de Sharge con pantalla",
-      "resumen": "Un nuevo cargador portátil con un diseño de metal, pantalla, capacidad para cargar dos MacBooks a la vez e iluminación RGB.",
-      "categoria": "Apple",
-      "fuentes": [
-        "9to5Mac"
-      ],
-      "urls": [
-        "https://9to5toys.com/2026/08/29/sharge-impressive-metal-power-bank-display-review/"
-      ],
-      "score": 100,
-      "tags": [
-        "cargador",
-        "accesorios",
-        "MacBook"
+        "Handoff",
+        "Apple"
       ]
     },
     {
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "Créditos hipotecarios en Córdoba: ¿cuánto cuesta comprar un departamento en 2026?",
-      "resumen": "El mercado cordobés ofrece precios muy diversos según el barrio. La ubicación, antigüedad y estado son determinantes para elegir la opción más conveniente.",
+      "titulo": "Industriales argentinos en alerta por embargos de ARCA y suba del gas",
+      "resumen": "La UIA reclamó el fin de los embargos y advierte que las pymes están al borde de la quiebra si les cortan el flujo de fondos.",
       "categoria": "Argentina",
       "fuentes": [
         "Ambito"
       ],
       "urls": [
-        "https://www.ambito.com/economia/creditos-hipotecarios-cordoba-cuanto-cuesta-comprar-un-departamento-2026-n6317197"
+        "https://www.ambito.com/economia/industriales-del-pais-guardia-contra-los-embargos-arca-las-pymes-y-la-suba-del-gas-n6317785"
       ],
       "score": 100,
       "tags": [
-        "créditos hipotecarios",
-        "Córdoba",
-        "inversión inmobiliaria"
+        "Argentina",
+        "industria",
+        "pymes",
+        "economía"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "La detección de IA es más difícil que distinguir entre 'real o falso'",
+      "resumen": "El internet tiene un problema de confianza, y no es solo porque las redes sociales se llenan de contenido generado por IA. El texto y las imágenes generadas por IA están llegando a solicitudes de empleo, reseñas de productos e incluso reclamos de seguros.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/"
+      ],
+      "score": 100,
+      "tags": [
+        "IA",
+        "detección",
+        "confianza",
+        "contenido generado"
+      ]
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "El asistente de IA de Amazon puede detectar correos electrónicos falsos de la compañía",
+      "resumen": "Amazon busca combatir estafas de suplantación de identidad con una nueva función que permite usar su asistente de IA para determinar si un correo electrónico, mensaje de texto o llamada telefónica provino realmente de la compañía.",
+      "categoria": "AI",
+      "fuentes": [
+        "The Verge AI"
+      ],
+      "urls": [
+        "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails"
+      ],
+      "score": 100,
+      "tags": [
+        "Amazon",
+        "IA",
+        "seguridad",
+        "estafas"
+      ]
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "titulo": "Errepar lanzó una herramienta de IA para contadores",
+      "resumen": "Una editorial argentina desarrolló una herramienta para que los contadores puedan trabajar con ayuda de la IA.",
+      "categoria": "AI",
+      "fuentes": [
+        "La Nacion Economia"
+      ],
+      "urls": [
+        "https://www.lanacion.com.ar/tecnologia/errepar-lanzo-una-herramienta-de-ia-entrenada-por-y-para-contadores-nid02092026/"
+      ],
+      "score": 100,
+      "tags": [
+        "Argentina",
+        "IA",
+        "contabilidad",
+        "herramientas"
       ]
     }
   ],
   "loImportante": [
-    "Google lanza un programa de ciberdefensa proactiva para gobiernos y empresas, usando sus herramientas de IA.",
-    "Apple presenta el nuevo M6 MacBook Pro con tres mejoras importantes y un cargador portátil de Sharge con diseño innovador.",
-    "Perplexity introduce 'Hybrid Compute' para sus agentes de IA en Macs con Apple Silicon, combinando tareas en la nube con acceso local.",
-    "En Argentina, se debate la Carta Orgánica del BCRA, que sería la más estricta de la región, y el Gobierno busca frenar proyectos de control a bancos y billeteras.",
-    "La marca Axe busca un posicionamiento más maduro en su marketing, mientras que Newman's Own se enfoca en el equilibrio entre producto y propósito."
+    "La Unión Industrial Argentina (UIA) presentó 7 puntos clave para la transición económica y la recuperación de la actividad, incluyendo mejorar el acceso al crédito y bajar el costo argentino.",
+    "El ministro de Economía, Caputo, respondió a las quejas de industriales, afirmando que defiende los intereses de los argentinos, no de empresarios específicos.",
+    "Google esquivó un intento del Departamento de Justicia de EE.UU. para dividir su negocio de publicidad, manteniendo intacta su unidad de tecnología publicitaria.",
+    "Perplexity introdujo 'Hybrid Compute' para su agente de computadora en Macs con Apple Silicon, combinando tareas en la nube con acceso a archivos locales.",
+    "Anthropic actualizó el uso de computadora de Claude para que se ejecute en segundo plano en Mac."
   ],
   "oportunidades": [
     {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "AI",
-      "titulo": "Integración de IA con simplicidad a escala para empresas",
-      "detalle": "La integración de IA puede simplificar operaciones y evitar silos de datos, mejorando la toma de decisiones en empresas que escalan.",
+      "titulo": "Nueva herramienta de IA para contadores en Argentina",
+      "detalle": "Errepar, una editorial argentina, lanzó una herramienta de IA diseñada específicamente para contadores, lo que podría optimizar procesos y tareas en el sector.",
       "acciones": [
-        "Evaluar soluciones de IA para optimizar procesos internos y evitar la fragmentación de datos.",
-        "Considerar cómo la IA puede transformar la gestión de operaciones y la coordinación de respuestas."
+        "Investigar la herramienta de IA de Errepar para entender su funcionalidad y potencial de aplicación en el ámbito de la inversión o gestión de finanzas personales.",
+        "Evaluar si esta herramienta o sus principios pueden ser replicados o adaptados para otras áreas de trabajo con IA o automatización."
       ]
     },
     {
-      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
-      "categoria": "Marketing",
-      "titulo": "Axe busca un posicionamiento de marca más maduro",
-      "detalle": "La marca Axe está renovando su imagen para atraer a un público más adulto, manteniendo un guiño a sus orígenes.",
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "Automation",
+      "titulo": "Facilitación de la integración de IA a escala",
+      "detalle": "La integración de IA con simplicidad a escala busca resolver problemas de sistemas desconectados y silos de datos en empresas, lo que puede mejorar la coordinación y toma de decisiones.",
       "acciones": [
-        "Analizar estrategias de reposicionamiento de marca para entender cómo evolucionar la percepción del público.",
-        "Estudiar campañas que logran equilibrar la nostalgia con una nueva identidad de marca."
-      ]
-    },
-    {
-      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
-      "categoria": "Marketing",
-      "titulo": "Newman's Own y el equilibrio entre producto y propósito",
-      "detalle": "La marca Newman's Own está enfocándose en equilibrar el producto con su propósito, yendo más allá de la comunicación caritativa.",
-      "acciones": [
-        "Investigar cómo las marcas pueden integrar su propósito social de manera efectiva sin que opaque el producto.",
-        "Explorar estrategias de marketing que comuniquen valor y propósito de forma equilibrada."
+        "Analizar cómo los principios de 'simplicidad a escala' en la integración de IA pueden aplicarse a proyectos personales de automatización o gestión de datos.",
+        "Buscar herramientas o metodologías que promuevan la integración simplificada de IA en flujos de trabajo existentes."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Market",
+      "titulo": "Riesgo de quiebra para pymes argentinas por embargos y suba del gas",
+      "detalle": "La UIA advierte que los embargos de ARCA y el aumento del gas ponen a las pymes al borde de la quiebra al cortarles el flujo de fondos.",
+      "mitigacion": "Monitorear de cerca las políticas económicas y regulatorias en Argentina que afectan a las pymes, ya que esto puede impactar la estabilidad económica general y el consumo."
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
-      "titulo": "OpenAI enfrenta demandas por 'ayudar e incitar' en un tiroteo masivo",
-      "detalle": "OpenAI y su CEO Sam Altman enfrentan 30 nuevas demandas que los acusan de proporcionar 'asistencia y aliento sustanciales' al sospechoso de un tiroteo escolar.",
-      "mitigacion": "Monitorear el desarrollo de estas demandas para entender las implicaciones legales y éticas para las empresas de IA y el uso de sus tecnologías."
-    },
-    {
-      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
-      "categoria": "Technology",
-      "titulo": "153 millones de licencias de conducir robadas exponen un problema de identificación creciente",
-      "detalle": "Más de 150 millones de escaneos de licencias de conducir fueron puestos a la venta en la dark web, destacando los riesgos de entregar identificaciones físicas.",
-      "mitigacion": "Evaluar la seguridad de los datos personales y considerar la adopción de identificaciones digitales para mitigar riesgos de filtraciones."
-    },
-    {
-      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
-      "categoria": "Regulatory",
-      "titulo": "El Gobierno busca frenar proyectos para controlar bancos y billeteras",
-      "detalle": "El Gobierno envía economistas al Congreso para detener 34 proyectos que buscan aliviar la deuda de las familias y controlar a bancos y billeteras.",
-      "mitigacion": "Seguir de cerca los debates legislativos sobre la regulación de servicios financieros y billeteras, ya que pueden impactar el ecosistema de pagos y finanzas personales."
+      "titulo": "Dificultad en la detección de contenido generado por IA",
+      "detalle": "La detección de IA es más compleja que simplemente distinguir entre 'real o falso', ya que el contenido generado por IA se está infiltrando en diversas áreas como solicitudes de empleo y reseñas, generando un problema de confianza en internet.",
+      "mitigacion": "Desarrollar un ojo crítico para el contenido digital y verificar fuentes. Estar al tanto de las herramientas de detección de IA y sus limitaciones. Considerar la implementación de procesos de verificación en proyectos que involucren contenido generado por IA."
     }
   ],
   "conexiones": [
     {
-      "id": "perplexity-apple-silicon-macs",
-      "titulo": "La IA de Perplexity en Macs con Apple Silicon y la integración de IA a escala",
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Industriales en guardia y la UIA plantea 7 puntos",
       "historias": [
-        "Perplexity introduce 'Hybrid Compute' para su agente de IA en Macs con Apple Silicon, combinando tareas en la nube con acceso a archivos y apps locales.",
-        "La integración de IA con simplicidad a escala es crucial para las empresas, ya que los sistemas desconectados pueden generar silos de datos y dificultar la toma de decisiones."
+        "ambito-aHR0cHM6Ly93d3cuYW1i",
+        "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+        "infobae-economia-aHR0cHM6Ly93d3cuaW5m"
       ],
-      "conclusion": "La capacidad de Perplexity de procesar IA localmente en Macs con Apple Silicon es un ejemplo de cómo la integración de IA puede mejorar la eficiencia y la seguridad de los datos. Esto se alinea con la necesidad de las empresas de escalar la IA de manera simple para evitar la fragmentación de la información y optimizar las operaciones."
+      "conclusion": "Las noticias de Ambito, Clarín e Infobae muestran una fuerte preocupación del sector industrial argentino. La UIA reclama por los embargos de ARCA y la suba del gas, advirtiendo sobre la quiebra de pymes, y al mismo tiempo presenta una agenda de 7 puntos para la recuperación económica. El ministro Caputo respondió a estas quejas, defendiendo los intereses generales de los argentinos. Esto refleja una tensión entre el gobierno y el sector productivo sobre las medidas económicas actuales."
     }
   ],
   "noticias": [
     {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      "tituloOriginal": "Proactive cyber defense for governments and enterprises",
+      "tituloLimpio": "Programa Fairwind de Google para ciberdefensa proactiva en gobiernos y empresas",
+      "resumen": "El Programa Fairwind es un programa de acceso limitado para gobiernos y socios de confianza que permite usar herramientas de ciberdefensa de Google.",
+      "porQueImporta": "Aunque es de acceso limitado, muestra la dirección de Google en ciberseguridad con IA, un área relevante para la protección de datos y sistemas, incluso a nivel personal o de pequeños negocios.",
+      "publicadoEn": "2026-09-02T15:40:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "proactive",
+        "cyber",
+        "defense",
+        "governments",
+        "enterprises",
+        "fairwind",
+        "program",
+        "limited",
+        "access",
+        "trusted"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/02/ios-27-iphone-handoff-feature/",
+      "tituloOriginal": "iOS 27 Introduces New 'iPhone Handoff' Feature",
+      "tituloLimpio": "iOS 27 introduce la función 'iPhone Handoff'",
+      "resumen": "Apple agregó una nueva función 'iPhone Handoff' a iOS 27 que permitirá cambiar entre dos iPhones usando el mismo número de teléfono en cada dispositivo.",
+      "porQueImporta": "Es una novedad interesante para usuarios de Apple que tengan más de un iPhone, mejorando la continuidad y la experiencia de usuario. Podría simplificar la gestión de comunicaciones para quienes usan múltiples dispositivos.",
+      "publicadoEn": "2026-09-02T19:35:53.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "introduces",
+        "iphone",
+        "handoff",
+        "feature",
+        "apple",
+        "added",
+        "that",
+        "will",
+        "allow"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/industriales-del-pais-guardia-contra-los-embargos-arca-las-pymes-y-la-suba-del-gas-n6317785",
+      "tituloOriginal": "Industriales del país en guardia contra los embargos de ARCA en las pymes y por la suba del gas",
+      "tituloLimpio": "Industriales argentinos en alerta por embargos de ARCA y suba del gas",
+      "resumen": "La UIA reclamó el fin de los embargos y advierte que las pymes están al borde de la quiebra si les cortan el flujo de fondos.",
+      "porQueImporta": "Impacta directamente en la economía argentina y el sector productivo, lo que puede tener consecuencias en el empleo y la estabilidad económica general. Es crucial para entender el panorama local.",
+      "publicadoEn": "2026-09-02T19:21:00.000Z",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "industriales",
+        "pais",
+        "guardia",
+        "contra",
+        "embargos",
+        "arca",
+        "pymes",
+        "suba",
+        "reclamo",
+        "hace",
+        "semana"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/axe-vies-for-more-mature-brand-positioning-while-nodding-to-y2k-roots/829426/",
+      "tituloOriginal": "Axe vies for more mature brand positioning while nodding to Y2K roots",
+      "tituloLimpio": "Axe busca un posicionamiento de marca más maduro con guiños a sus orígenes de los 2000",
+      "resumen": "Nuevos anuncios de la marca Unilever muestran a hombres volviendo brevemente a su yo adolescente, con cuellos levantados, mientras Axe afirma: 'Mejoraste. Nosotros también'.",
+      "porQueImporta": "Interesante caso de estudio en marketing sobre cómo una marca establecida intenta evolucionar su imagen y conectar con una audiencia más madura sin perder su esencia, relevante para estrategias de branding y comunicación.",
+      "publicadoEn": "2026-09-02T14:48:00.000Z",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "vies",
+        "more",
+        "mature",
+        "brand",
+        "positioning",
+        "while",
+        "nodding",
+        "roots",
+        "unilever",
+        "show",
+        "briefly"
+      ],
+      "tambienVistoEn": []
+    },
+    {
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
-      "tituloOriginal": "Wonderful more than doubles its valuation to $5B in under 6 months",
-      "tituloLimpio": "Wonderful duplica su valuación a 5 mil millones de dólares en menos de 6 meses",
-      "resumen": "La Serie C de 550 millones de dólares de Wonderful fue liderada por Insight Partners, con la participación de Salesforce, Index Ventures, IVP, Vine Ventures, 9Yards y Bessemer.",
-      "porQueImporta": "Esta noticia muestra el rápido crecimiento y la alta valuación de empresas en el sector de la IA, lo que puede indicar oportunidades de inversión o tendencias en el mercado tecnológico.",
-      "publicadoEn": "2026-09-02T16:04:10.000Z",
-      "globalScore": 96,
+      "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+      "tituloOriginal": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+      "tituloLimpio": "La detección de IA es más difícil que distinguir entre 'real o falso'",
+      "resumen": "El internet tiene un problema de confianza, y no es solo porque las redes sociales se llenan de contenido generado por IA. El texto y las imágenes generadas por IA están llegando a solicitudes de empleo, reseñas de productos e incluso reclamos de seguros.",
+      "porQueImporta": "Subraya la creciente complejidad de identificar contenido generado por IA, lo cual es fundamental para el trabajo de Guido en arte con IA y retoque fotográfico, y para la confianza en la información digital en general.",
+      "publicadoEn": "2026-09-02T17:18:13.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "IA",
-        "inversión",
-        "valuación"
+        "pangram",
+        "spero",
+        "detection",
+        "harder",
+        "than",
+        "real",
+        "fake",
+        "internet",
+        "trust",
+        "problem",
+        "just",
+        "because"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+      "tituloOriginal": "Amazon’s AI assistant can now spot fake emails from the company",
+      "tituloLimpio": "El asistente de IA de Amazon puede detectar correos electrónicos falsos de la compañía",
+      "resumen": "Amazon busca combatir estafas de suplantación de identidad con una nueva función que permite usar su asistente de IA para determinar si un correo electrónico, mensaje de texto o llamada telefónica provino realmente de la compañía.",
+      "porQueImporta": "Una aplicación práctica de la IA para la seguridad del usuario, relevante para protegerse de estafas y para entender cómo las grandes empresas usan la IA para mejorar la confianza y la seguridad.",
+      "publicadoEn": "2026-09-02T17:52:56.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "amazon",
+        "assistant",
+        "spot",
+        "fake",
+        "emails",
+        "from",
+        "company",
+        "trying",
+        "combat",
+        "impersonation",
+        "scams"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+      "tituloOriginal": "Facilitating AI integration with simplicity at scale",
+      "tituloLimpio": "Facilitando la integración de IA con simplicidad a escala",
+      "resumen": "A medida que las empresas escalan, la tecnología que soporta las operaciones puede convertirse en un pasivo tan rápidamente como en un activo. Sistemas desconectados, herramientas específicas del sitio, hojas de cálculo y soluciones manuales pueden crear silos de datos.",
+      "porQueImporta": "Destaca la importancia de una integración eficiente de la IA para evitar problemas de escalabilidad y silos de datos, un concepto clave para la automatización y la optimización de flujos de trabajo.",
+      "publicadoEn": "2026-09-02T14:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "facilitating",
+        "integration",
+        "with",
+        "simplicity",
+        "scale",
+        "companies",
+        "technology",
+        "supporting",
+        "operations",
+        "become",
+        "liability"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/09/02/anthropic-upgrades-claude-codes-computer-use-to-run-in-the-background-on-mac/",
+      "tituloOriginal": "Anthropic upgrades Claude’s computer use to run in the background on Mac",
+      "tituloLimpio": "Anthropic mejora el uso de computadora de Claude para ejecutarse en segundo plano en Mac",
+      "resumen": "Aunque el uso de computadora no es nuevo para Claude en el escritorio, ejecutarlo en segundo plano es una buena mejora.",
+      "porQueImporta": "Mejora la eficiencia y la experiencia de usuario para quienes utilizan herramientas de IA como Claude en Macs, permitiendo un trabajo más fluido y multitarea.",
+      "publicadoEn": "2026-09-02T19:14:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "anthropic",
+        "upgrades",
+        "claude",
+        "computer",
+        "background",
+        "while",
+        "desktop",
+        "running",
+        "nice"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/09/02/judge-rejects-doj-bid-to-split-advertising-business-from-google?utm_source=rss",
+      "tituloOriginal": "Judge rejects DOJ bid to split advertising business from Google",
+      "tituloLimpio": "Juez rechaza intento del Departamento de Justicia de dividir el negocio publicitario de Google",
+      "resumen": "Google volvió a esquivar un fallo antimonopolio que podría haber dividido su negocio, y mantiene intacta su unidad de tecnología publicitaria tras escapar del intento del Departamento de Justicia de una ruptura ordenada por la corte.",
+      "porQueImporta": "Tiene implicaciones significativas para el mercado publicitario digital y la posición de Google, afectando a empresas y profesionales del marketing que dependen de sus plataformas.",
+      "publicadoEn": "2026-09-02T17:26:38.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "judge",
+        "rejects",
+        "split",
+        "advertising",
+        "business",
+        "from",
+        "google",
+        "again",
+        "dodged",
+        "potentially",
+        "business-splitting"
       ],
       "tambienVistoEn": []
     },
@@ -195,118 +404,23 @@
       "fuente": "MacStories",
       "url": "https://www.macstories.net/news/perplexity-introduces-hybrid-compute-to-keep-sensitive-data-local/",
       "tituloOriginal": "Perplexity Introduces ‘Hybrid Compute’ for Computer Agent on Apple Silicon Macs",
-      "tituloLimpio": "Perplexity introduce 'Hybrid Compute' para su agente de IA en Macs con Apple Silicon",
-      "resumen": "Perplexity ha anunciado 'Hybrid Compute' para Personal Computer en Macs con Apple Silicon. Esto combina tareas de Computer basadas en la nube con acceso a archivos y apps locales.",
-      "porQueImporta": "Es relevante para Guido por su interés en IA aplicada y Apple, ya que muestra cómo la IA se integra con el hardware de Apple para un procesamiento más eficiente y local.",
+      "tituloLimpio": "Perplexity introduce 'Hybrid Compute' para su agente de computadora en Macs con Apple Silicon",
+      "resumen": "Perplexity anunció 'hybrid compute' para Personal Computer en Macs con Apple Silicon. Personal Computer ya combinaba tareas de computadora basadas en la nube con acceso a archivos y aplicaciones locales, pero su procesamiento de IA era principalmente en la nube.",
+      "porQueImporta": "Representa un avance en la integración de IA local en dispositivos Apple, lo que puede mejorar la privacidad, velocidad y eficiencia para usuarios de Macs con Apple Silicon.",
       "publicadoEn": "2026-09-01T15:03:56.000Z",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "IA",
-        "Apple",
-        "Mac",
-        "procesamiento local"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
-      "categoria": "Finance",
-      "fuente": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/small-business/articles/denny-rival-dining-chain-files-153300154.html",
-      "tituloOriginal": "Denny’s rival dining chain files for Chapter 11 bankruptcy",
-      "tituloLimpio": "Cadena de restaurantes rival de Denny's se declara en bancarrota",
-      "resumen": "Una cadena de restaurantes rival de Denny's se ha declarado en bancarrota bajo el Capítulo 11.",
-      "porQueImporta": "Indica tendencias económicas en el sector de la restauración y puede ser un indicador de la salud general del mercado, relevante para inversores.",
-      "publicadoEn": "2026-09-01T15:33:00.000Z",
-      "imagen": "https://media.zenfs.com/en/thestreet_881/d00c84f7209ad2fcb7973604023f2bb6.jpg",
-      "globalScore": 86,
-      "personalScore": 100,
-      "tags": [
-        "finanzas",
-        "bancarrota",
-        "mercado"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
-      "categoria": "Finance",
-      "fuente": "Yahoo Finance",
-      "url": "https://www.investors.com/news/technology/palo-alto-stock-panw-palo-alto-earnings-aug26/?src=A00220&yptr=yahoo",
-      "tituloOriginal": "Palo Alto Stock Tumbles As Analysts Mull Fiscal Q4 Organic Growth, Acquisitions",
-      "tituloLimpio": "Las acciones de Palo Alto caen mientras analistas evalúan el crecimiento orgánico y adquisiciones del cuarto trimestre fiscal",
-      "resumen": "Las acciones de Palo Alto cayeron mientras los analistas evalúan el crecimiento orgánico y las adquisiciones del cuarto trimestre fiscal.",
-      "porQueImporta": "Relevante para inversores que siguen el mercado de valores y el sector tecnológico, especialmente en ciberseguridad.",
-      "publicadoEn": "2026-09-02T15:52:34.000Z",
-      "imagen": "https://media.zenfs.com/en/ibd.com/dc1e75b3cb03fba4445045c62a360c11.jpg",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "finanzas",
-        "acciones",
-        "tecnología"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "yahoo-finance-aHR0cHM6Ly93d3cuYmFy",
-      "categoria": "Finance",
-      "fuente": "Yahoo Finance",
-      "url": "https://www.barrons.com/articles/ast-spacemobile-stock-buy-rating-price-146b0862?siteid=yhoof2&yptr=yahoo",
-      "tituloOriginal": "AST SpaceMobile Stock Soars on New Buy Call",
-      "tituloLimpio": "Las acciones de AST SpaceMobile suben tras una nueva recomendación de compra",
-      "resumen": "Las acciones de AST SpaceMobile subieron tras una nueva recomendación de compra.",
-      "porQueImporta": "Interesante para inversores que buscan oportunidades en el mercado de valores, especialmente en el sector de tecnología espacial.",
-      "publicadoEn": "2026-09-02T15:46:00.000Z",
-      "imagen": "https://media.zenfs.com/en/Barrons.com/8df788e1065359574ac840ddd627953b.jpg",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "finanzas",
-        "acciones",
-        "inversión"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
-      "categoria": "Finance",
-      "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/09/02/crypto-long-and-short-crypto-vcs-are-mistaking-consensus-for-discipline",
-      "tituloOriginal": "Crypto Long & Short: Crypto VCs are mistaking consensus for discipline",
-      "tituloLimpio": "Capitales de riesgo en cripto confunden consenso con disciplina",
-      "resumen": "Varun Datta de Truth Ventures escribe que el retiro del capital de riesgo en cripto hacia acuerdos de etapa posterior es un comercio de consenso disfrazado de disciplina.",
-      "porQueImporta": "Ofrece una perspectiva crítica sobre las tendencias de inversión en criptomonedas, útil para entender la dinámica del mercado de activos digitales.",
-      "publicadoEn": "2026-09-02T15:15:02.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/b88cc3bb0be5078f6fee0948dd9408a814ffa0c2-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "globalScore": 92,
-      "personalScore": 100,
-      "tags": [
-        "finanzas",
-        "cripto",
-        "inversión"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
-      "categoria": "Finance",
-      "fuente": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/g20-members-clear-pathways-digital-asset-innovation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "tituloOriginal": "G20 members tout ‘clear pathways’ for digital asset innovation",
-      "tituloLimpio": "Miembros del G20 promueven 'caminos claros' para la innovación de activos digitales",
-      "resumen": "Funcionarios del G20 reconocieron que los activos digitales podrían apoyar el 'crecimiento económico generalizado' y pidieron mejoras en las transacciones transfronterizas.",
-      "porQueImporta": "Indica un reconocimiento global de los activos digitales y su potencial, lo que podría influir en futuras regulaciones y adopción, relevante para el sector financiero.",
-      "publicadoEn": "2026-09-02T15:34:06.000Z",
-      "imagen": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1H85V728VXBM9KYCSEJAD01/g20-discuss-crypto-desk-table-meeting-hand-paper-people2.jpg",
-      "globalScore": 90,
-      "personalScore": 100,
-      "tags": [
-        "finanzas",
-        "cripto",
-        "G20",
-        "regulación"
+        "perplexity",
+        "introduces",
+        "hybrid",
+        "compute",
+        "computer",
+        "agent",
+        "apple",
+        "silicon",
+        "macs",
+        "source"
       ],
       "tambienVistoEn": []
     },
@@ -314,20 +428,28 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/deuda-familias-gobierno-envia-economistas-congreso-frenar-proyectos-controlar-bancos-billeteras_0_gXiiv87pFI.html",
-      "tituloOriginal": "Deuda en las familias: el Gobierno envía a economistas al Congreso a frenar los proyectos para controlar a bancos y billeteras",
-      "tituloLimpio": "Deuda en las familias: el Gobierno envía economistas al Congreso para frenar proyectos de control a bancos y billeteras",
-      "resumen": "La reunión de comisión será esta tarde para analizar 34 proyectos que buscan un alivio sobre las familias. Se convocó a economistas y exfuncionarios por el Gobierno y bloques aliados.",
-      "porQueImporta": "Impacta directamente en la economía argentina y en cómo se regulan los servicios financieros, afectando a los usuarios de bancos y billeteras digitales.",
-      "publicadoEn": "2026-09-02T15:10:42.000Z",
-      "imagen": "https://www.clarin.com/img/2026/09/02/5UNJdgkwI_1200x630__1.jpg",
-      "globalScore": 94,
+      "url": "https://www.clarin.com/economia/7-puntos-planteo-uia-asegurar-transicion-economia-recuperar-actividad_0_nHq9AUi7tX.html",
+      "tituloOriginal": "Los 7 puntos que planteó la UIA para asegurar la transición de la economía y recuperar la actividad",
+      "tituloLimpio": "La UIA planteó 7 puntos para asegurar la transición económica y recuperar la actividad",
+      "resumen": "La Unión Industrial Argentina presentó una agenda que va desde mejorar el acceso al crédito hasta trabajar para bajar el costo argentino. El titular de la UIA advirtió por la caída de la producción y la pérdida de 90.000 puestos de trabajo registrados desde agosto de 2023.",
+      "porQueImporta": "Ofrece una visión clara de las demandas del sector industrial argentino y las áreas clave para la recuperación económica, relevante para entender el contexto de inversión y negocios en el país.",
+      "publicadoEn": "2026-09-02T17:22:11.000Z",
+      "imagen": "https://www.clarin.com/img/2026/09/02/ZfVty0NL-_1200x630__1.jpg",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "Argentina",
-        "economía",
-        "finanzas",
-        "regulación"
+        "puntos",
+        "planteo",
+        "para",
+        "asegurar",
+        "transicion",
+        "economia",
+        "recuperar",
+        "actividad",
+        "union",
+        "industrial",
+        "argentina",
+        "presento"
       ],
       "tambienVistoEn": []
     },
@@ -335,19 +457,28 @@
       "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Politica",
-      "url": "https://www.clarin.com/politica/detuvieron-corrupcion-ex-funcionario-mano-derecha-ricardo-echegaray-afip_0_jLVNFIoldK.html",
-      "tituloOriginal": "Detuvieron por corrupción al ex funcionario que fue mano derecha de Ricardo Echegaray en la AFIP",
-      "tituloLimpio": "Detuvieron por corrupción a ex funcionario que fue mano derecha de Ricardo Echegaray en la AFIP",
-      "resumen": "Rafael Resnick Brenner se entregó luego de que la Corte dejara firme su condena a cuatro años de prisión por coimas durante el gobierno de Cristina Kirchner.",
-      "porQueImporta": "Noticia de interés general en Argentina, relacionada con la política y la corrupción, que puede influir en la percepción pública de las instituciones.",
-      "publicadoEn": "2026-09-02T15:19:40.000Z",
-      "imagen": "https://www.clarin.com/img/2018/11/08/gVzSciXNJ_1200x630__1.jpg",
+      "url": "https://www.clarin.com/politica/giro-endeudamiento-lla-ahora-empuja-proyecto-propio-oposicion-denuncia-trampa-ratifica-sesion_0_3YMRZ0cngc.html",
+      "tituloOriginal": "Giro por endeudamiento: LLA ahora empuja un proyecto propio, pero la oposición denuncia una \"trampa\" y ratifica su sesión",
+      "tituloLimpio": "Giro por endeudamiento: LLA impulsa un proyecto propio, la oposición denuncia 'trampa'",
+      "resumen": "El oficialismo abrió la comisión de Finanzas para discutir los proyectos y fijó el 30 de septiembre como fecha de dictamen. La oposición señala que es una movida dilatoria para dejar sin quórum la sesión que pidieron para el miércoles que viene.",
+      "porQueImporta": "Refleja la dinámica política y legislativa en Argentina en torno a un tema económico crucial como el endeudamiento, lo que puede influir en la estabilidad y las decisiones de inversión.",
+      "publicadoEn": "2026-09-02T18:33:06.000Z",
+      "imagen": "https://www.clarin.com/img/2026/09/02/lDmopLJpt_1200x630__1.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "Argentina",
-        "política",
-        "corrupción"
+        "giro",
+        "endeudamiento",
+        "ahora",
+        "empuja",
+        "proyecto",
+        "propio",
+        "pero",
+        "oposicion",
+        "denuncia",
+        "trampa",
+        "ratifica",
+        "sesion"
       ],
       "tambienVistoEn": []
     },
@@ -355,20 +486,28 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/09/02/la-carta-organica-del-bcra-que-propone-el-gobierno-sera-la-mas-estricta-de-la-region-segun-una-asociacion-de-bancos/",
-      "tituloOriginal": "La Carta Orgánica del BCRA que propone el Gobierno será la más estricta de la región, según una asociación de bancos",
-      "tituloLimpio": "La Carta Orgánica del BCRA propuesta por el Gobierno será la más estricta de la región, según una asociación de bancos",
-      "resumen": "El Instituto de Finanzas Internacionales analizó la reforma del Gobierno y comparó cada punto con otros países latinoamericanos.",
-      "porQueImporta": "Fundamental para entender el futuro de la política monetaria y financiera en Argentina, con implicaciones para la inversión y la estabilidad económica.",
-      "publicadoEn": "2026-09-02T16:01:05.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/DUSMUQ4Y6JEN7PBXJUACPHO6I4.JPG?auth=51123731af7ef80fab8902b6de29fc872f24f0bf8f5ef04943e337a63ac3c113&smart=true&width=5500&height=3695",
+      "url": "https://www.infobae.com/economia/2026/09/02/caputo-respondio-a-las-quejas-de-industriales-me-toca-defender-los-intereses-de-los-argentinos-no-de-determinados-empresarios/",
+      "tituloOriginal": "Caputo respondió a las quejas de industriales: “Me toca defender los intereses de los argentinos, no de determinados empresarios”",
+      "tituloLimpio": "Caputo respondió a las quejas de industriales: 'Me toca defender los intereses de los argentinos, no de determinados empresarios'",
+      "resumen": "El ministro de Economía le respondió al vicepresidente de la Unión Industrial Argentina (UIA), Guillermo Moretti, que aseguró que 'estamos manejados por un trader que no sabe lo que es un torno'.",
+      "porQueImporta": "Muestra la tensión entre el gobierno y el sector industrial en Argentina, lo que es un factor importante a considerar en el análisis del clima de negocios y las políticas económicas.",
+      "publicadoEn": "2026-09-02T19:33:08.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/WQMOGXMIANG3DISE4DZ5253XHE.jpg?auth=986b5d91aa1af785128e606cc7a7742bf5dc0e4d9cdf81b033ef252470f5515c&smart=true&width=8192&height=5464",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "Argentina",
-        "economía",
-        "BCRA",
-        "regulación"
+        "caputo",
+        "respondio",
+        "quejas",
+        "industriales",
+        "toca",
+        "defender",
+        "intereses",
+        "argentinos",
+        "determinados",
+        "empresarios",
+        "ministro",
+        "economia"
       ],
       "tambienVistoEn": []
     },
@@ -376,19 +515,28 @@
       "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Politica",
-      "url": "https://www.infobae.com/politica/2026/09/02/rio-negro-la-justicia-autorizo-un-embargo-de-casi-30000-dolares-contra-la-diputada-lorena-villaverde-por-un-conflicto-con-un-loteo-privado/",
-      "tituloOriginal": "Río Negro: la Justicia autorizó un embargo de casi 30.000 dólares contra la diputada Lorena Villaverde por un conflicto con un loteo privado",
-      "tituloLimpio": "Río Negro: la Justicia autorizó un embargo de casi 30.000 dólares contra la diputada Lorena Villaverde por un conflicto con un loteo privado",
-      "resumen": "La medida cautelar fue dictada en el marco de un reclamo por presuntos incumplimientos en la entrega de un terreno del emprendimiento Tajamar, ubicado en Las Grutas.",
-      "porQueImporta": "Noticia de interés político y legal en Argentina, que muestra conflictos relacionados con la propiedad y la actuación de figuras públicas.",
-      "publicadoEn": "2026-09-02T15:54:33.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/6AOKBAOUPVALTEYBAI6TAY5KIU.png?auth=23080f0c5a4b2c6eebaf57efd2f74c5e8888d595d5d17da39975adfc80d3d8fc&smart=true&width=702&height=448",
+      "url": "https://www.infobae.com/politica/2026/09/02/chaco-aprobo-la-suspension-de-las-paso-de-quien-fue-el-voto-clave-y-como-impacta-en-el-escenario-nacional/",
+      "tituloOriginal": "Chaco aprobó la suspensión de las PASO: de quién fue el voto clave y cómo impacta en el escenario nacional",
+      "tituloLimpio": "Chaco aprobó la suspensión de las PASO",
+      "resumen": "El proyecto que fue impulsado por el gobernador Leandro Zdero fue aprobado por la Legislatura chaqueña. Una representante que llegó de la mano del Frente Renovador fue clave para avanzar con la iniciativa y fue expulsada del interbloque.",
+      "porQueImporta": "Un cambio significativo en el sistema electoral de una provincia argentina, que puede sentar un precedente y tener implicaciones para el panorama político nacional.",
+      "publicadoEn": "2026-09-02T18:52:58.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/SEA5SKICMJHQPAKTAGAK54BC3U.jpg?auth=15d03d517a2919ab6523cd9874e68dc88d7817bff755798bf946ccb05d4d2d32&smart=true&width=1920&height=1080",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "Argentina",
-        "política",
-        "justicia"
+        "chaco",
+        "aprobo",
+        "suspension",
+        "paso",
+        "quien",
+        "voto",
+        "clave",
+        "como",
+        "impacta",
+        "escenario",
+        "nacional",
+        "proyecto"
       ],
       "tambienVistoEn": []
     },
@@ -396,19 +544,26 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/campo/alberto-frola-un-dirigente-rural-dialoguista-que-dejo-huella-en-el-campo-argentino-nid02092026/",
-      "tituloOriginal": "Alberto Frola, un dirigente rural dialoguista que dejó huella en el campo argentino",
-      "tituloLimpio": "Alberto Frola, un dirigente rural dialoguista que dejó huella en el campo argentino",
-      "resumen": "Nacido en 1947 y presidente de Carbap entre 2010 y 2012, fue tercera generación de productores agropecuarios y un destacado abogado y docente.",
-      "porQueImporta": "Relevante para entender la historia y el liderazgo en el sector agropecuario argentino, un pilar de la economía del país.",
-      "publicadoEn": "2026-09-02T15:48:21.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/565ASYEQ7VE6PIN2QAJCFPQ7YM.jpg?auth=5546ffe61e5a1dc9d6d2bfed66f1ce4e68b85dd931138e9f6a9e940156417a23&smart=true&width=2000&height=1333",
-      "globalScore": 98,
+      "url": "https://www.lanacion.com.ar/tecnologia/errepar-lanzo-una-herramienta-de-ia-entrenada-por-y-para-contadores-nid02092026/",
+      "tituloOriginal": "Errepar lanzó una herramienta de IA entrenada por y para contadores",
+      "tituloLimpio": "Errepar lanzó una herramienta de IA entrenada por y para contadores",
+      "resumen": "Una histórica editorial argentina desarrolló una herramienta para que los contadores puedan trabajar con ayuda de la IA.",
+      "porQueImporta": "Una aplicación directa de la IA en un sector profesional en Argentina, mostrando cómo la tecnología puede optimizar tareas y procesos en el ámbito local.",
+      "publicadoEn": "2026-09-02T19:36:39.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/NICTKJ25DVBNLBDNRNTVREWOWQ.jpg?auth=1925beac4f6b24c52ddb1e90c2d4219ce8378659e820a739750386685d60496c&smart=true&width=5760&height=3840",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "Argentina",
-        "economía",
-        "campo"
+        "errepar",
+        "lanzo",
+        "herramienta",
+        "entrenada",
+        "para",
+        "contadores",
+        "historica",
+        "editorial",
+        "argentina",
+        "desarrollo"
       ],
       "tambienVistoEn": []
     },
@@ -416,25 +571,34 @@
       "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Politica",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-las-repercusiones-de-la-cumbre-del-g-20-y-la-planificacion-de-la-nid02092026/",
-      "tituloOriginal": "Javier Milei y sus medidas, en vivo: las repercusiones de la cumbre del G-20 y las reuniones por la visita del Papa",
-      "tituloLimpio": "Javier Milei y sus medidas: repercusiones de la cumbre del G-20 y reuniones por la visita del Papa",
-      "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones desde la oposición y las declaraciones de los funcionarios.",
-      "porQueImporta": "Noticia central sobre la política argentina, que informa sobre las acciones del presidente y eventos internacionales relevantes para el país.",
-      "publicadoEn": "2026-09-02T16:07:01.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/4TBYV6RSW5AZJK5YJC7QY7KSNY.JPG?auth=64e851fee85e64bd8a1109316117e3dba35dd56283b507a7a0cb54b3db3b7199&smart=true&width=1305&height=979",
-      "globalScore": 94,
+      "url": "https://www.lanacion.com.ar/politica/visita-del-papa-leon-xiv-a-la-argentina-que-se-sabe-de-la-misa-central-y-toda-la-agenda-oficial-nid02092026/",
+      "tituloOriginal": "Visita del Papa León XIV a la Argentina: qué se sabe de la misa central y toda la agenda oficial",
+      "tituloLimpio": "Visita del Papa León XIV a la Argentina: se conoce la agenda oficial",
+      "resumen": "El Pontífice estará en el país del 8 al 11 de noviembre; se proyectan celebraciones en Palermo, Luján y Córdoba, además de visitas a la cárcel de Devoto y al Cottolengo de Claypole; el programa definitivo será anunciado por la Santa Sede.",
+      "porQueImporta": "Un evento de relevancia nacional e internacional que impactará en la agenda pública y la logística del país durante esos días.",
+      "publicadoEn": "2026-09-02T19:21:32.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/PFHDODYDQZAL7EKL2275Q3UXFQ.jpg?auth=2ae6c0a72ee0c6c0530878e00daecd8a059a29cf8ebf6fa13897d8762b017c7f&smart=true&width=8306&height=5537",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "Argentina",
-        "política",
-        "G20"
+        "visita",
+        "papa",
+        "leon",
+        "argentina",
+        "sabe",
+        "misa",
+        "central",
+        "toda",
+        "agenda",
+        "oficial",
+        "pontifice",
+        "estara"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-09-02T16:12:57.494Z"
+    "generadoEn": "2026-09-02T19:38:32.522Z"
   }
 }
