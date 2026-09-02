@@ -1,0 +1,440 @@
+{
+  "fecha": "2026-09-02",
+  "generadoEn": "2026-09-02T16:12:57.494Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Hoy destacamos novedades en IA con Google y Perplexity, lanzamientos de Apple como el M6 MacBook Pro y un cargador portátil, y noticias financieras con la bancarrota de una cadena de restaurantes y el análisis de la Carta Orgánica del BCRA en Argentina. También hay novedades sobre ciberseguridad y marketing de marcas.",
+  "radarPersonal": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Google lanza programa de ciberdefensa proactiva para gobiernos y empresas",
+      "resumen": "El programa Fairwind es de acceso limitado para gobiernos y socios de confianza que quieran usar las herramientas de ciberdefensa de Google.",
+      "categoria": "AI",
+      "fuentes": [
+        "Google AI Blog"
+      ],
+      "urls": [
+        "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/"
+      ],
+      "score": 100,
+      "tags": [
+        "ciberseguridad",
+        "defensa",
+        "gobiernos",
+        "empresas"
+      ]
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Acceso rápido a la configuración de apps desde el Centro de Control en iPhone",
+      "resumen": "Un truco para acceder rápidamente al menú de configuración de la app abierta en tu iPhone, usando un atajo simple.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/how-to/open-the-current-apps-settings-from-control-center/"
+      ],
+      "score": 100,
+      "tags": [
+        "iPhone",
+        "atajos",
+        "productividad"
+      ]
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "titulo": "Tres nuevas mejoras para el M6 MacBook Pro que se lanza este otoño",
+      "resumen": "Apple lanzará un nuevo M6 MacBook Pro de 14 pulgadas con el diseño industrial actual. Se esperan tres mejoras con el nuevo chip M6.",
+      "categoria": "Apple",
+      "fuentes": [
+        "9to5Mac"
+      ],
+      "urls": [
+        "https://9to5mac.com/2026/09/02/m6-macbook-pro-three-new-upgrades-launching-this-fall/"
+      ],
+      "score": 100,
+      "tags": [
+        "MacBook Pro",
+        "M6",
+        "lanzamiento"
+      ]
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81dG95",
+      "titulo": "Probado: el nuevo cargador portátil de metal de Sharge con pantalla",
+      "resumen": "Un nuevo cargador portátil con un diseño de metal, pantalla, capacidad para cargar dos MacBooks a la vez e iluminación RGB.",
+      "categoria": "Apple",
+      "fuentes": [
+        "9to5Mac"
+      ],
+      "urls": [
+        "https://9to5toys.com/2026/08/29/sharge-impressive-metal-power-bank-display-review/"
+      ],
+      "score": 100,
+      "tags": [
+        "cargador",
+        "accesorios",
+        "MacBook"
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Créditos hipotecarios en Córdoba: ¿cuánto cuesta comprar un departamento en 2026?",
+      "resumen": "El mercado cordobés ofrece precios muy diversos según el barrio. La ubicación, antigüedad y estado son determinantes para elegir la opción más conveniente.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/creditos-hipotecarios-cordoba-cuanto-cuesta-comprar-un-departamento-2026-n6317197"
+      ],
+      "score": 100,
+      "tags": [
+        "créditos hipotecarios",
+        "Córdoba",
+        "inversión inmobiliaria"
+      ]
+    }
+  ],
+  "loImportante": [
+    "Google lanza un programa de ciberdefensa proactiva para gobiernos y empresas, usando sus herramientas de IA.",
+    "Apple presenta el nuevo M6 MacBook Pro con tres mejoras importantes y un cargador portátil de Sharge con diseño innovador.",
+    "Perplexity introduce 'Hybrid Compute' para sus agentes de IA en Macs con Apple Silicon, combinando tareas en la nube con acceso local.",
+    "En Argentina, se debate la Carta Orgánica del BCRA, que sería la más estricta de la región, y el Gobierno busca frenar proyectos de control a bancos y billeteras.",
+    "La marca Axe busca un posicionamiento más maduro en su marketing, mientras que Newman's Own se enfoca en el equilibrio entre producto y propósito."
+  ],
+  "oportunidades": [
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "titulo": "Integración de IA con simplicidad a escala para empresas",
+      "detalle": "La integración de IA puede simplificar operaciones y evitar silos de datos, mejorando la toma de decisiones en empresas que escalan.",
+      "acciones": [
+        "Evaluar soluciones de IA para optimizar procesos internos y evitar la fragmentación de datos.",
+        "Considerar cómo la IA puede transformar la gestión de operaciones y la coordinación de respuestas."
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "Axe busca un posicionamiento de marca más maduro",
+      "detalle": "La marca Axe está renovando su imagen para atraer a un público más adulto, manteniendo un guiño a sus orígenes.",
+      "acciones": [
+        "Analizar estrategias de reposicionamiento de marca para entender cómo evolucionar la percepción del público.",
+        "Estudiar campañas que logran equilibrar la nostalgia con una nueva identidad de marca."
+      ]
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "titulo": "Newman's Own y el equilibrio entre producto y propósito",
+      "detalle": "La marca Newman's Own está enfocándose en equilibrar el producto con su propósito, yendo más allá de la comunicación caritativa.",
+      "acciones": [
+        "Investigar cómo las marcas pueden integrar su propósito social de manera efectiva sin que opaque el producto.",
+        "Explorar estrategias de marketing que comuniquen valor y propósito de forma equilibrada."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "titulo": "OpenAI enfrenta demandas por 'ayudar e incitar' en un tiroteo masivo",
+      "detalle": "OpenAI y su CEO Sam Altman enfrentan 30 nuevas demandas que los acusan de proporcionar 'asistencia y aliento sustanciales' al sospechoso de un tiroteo escolar.",
+      "mitigacion": "Monitorear el desarrollo de estas demandas para entender las implicaciones legales y éticas para las empresas de IA y el uso de sus tecnologías."
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Technology",
+      "titulo": "153 millones de licencias de conducir robadas exponen un problema de identificación creciente",
+      "detalle": "Más de 150 millones de escaneos de licencias de conducir fueron puestos a la venta en la dark web, destacando los riesgos de entregar identificaciones físicas.",
+      "mitigacion": "Evaluar la seguridad de los datos personales y considerar la adopción de identificaciones digitales para mitigar riesgos de filtraciones."
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Regulatory",
+      "titulo": "El Gobierno busca frenar proyectos para controlar bancos y billeteras",
+      "detalle": "El Gobierno envía economistas al Congreso para detener 34 proyectos que buscan aliviar la deuda de las familias y controlar a bancos y billeteras.",
+      "mitigacion": "Seguir de cerca los debates legislativos sobre la regulación de servicios financieros y billeteras, ya que pueden impactar el ecosistema de pagos y finanzas personales."
+    }
+  ],
+  "conexiones": [
+    {
+      "id": "perplexity-apple-silicon-macs",
+      "titulo": "La IA de Perplexity en Macs con Apple Silicon y la integración de IA a escala",
+      "historias": [
+        "Perplexity introduce 'Hybrid Compute' para su agente de IA en Macs con Apple Silicon, combinando tareas en la nube con acceso a archivos y apps locales.",
+        "La integración de IA con simplicidad a escala es crucial para las empresas, ya que los sistemas desconectados pueden generar silos de datos y dificultar la toma de decisiones."
+      ],
+      "conclusion": "La capacidad de Perplexity de procesar IA localmente en Macs con Apple Silicon es un ejemplo de cómo la integración de IA puede mejorar la eficiencia y la seguridad de los datos. Esto se alinea con la necesidad de las empresas de escalar la IA de manera simple para evitar la fragmentación de la información y optimizar las operaciones."
+    }
+  ],
+  "noticias": [
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+      "tituloOriginal": "Wonderful more than doubles its valuation to $5B in under 6 months",
+      "tituloLimpio": "Wonderful duplica su valuación a 5 mil millones de dólares en menos de 6 meses",
+      "resumen": "La Serie C de 550 millones de dólares de Wonderful fue liderada por Insight Partners, con la participación de Salesforce, Index Ventures, IVP, Vine Ventures, 9Yards y Bessemer.",
+      "porQueImporta": "Esta noticia muestra el rápido crecimiento y la alta valuación de empresas en el sector de la IA, lo que puede indicar oportunidades de inversión o tendencias en el mercado tecnológico.",
+      "publicadoEn": "2026-09-02T16:04:10.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "inversión",
+        "valuación"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/news/perplexity-introduces-hybrid-compute-to-keep-sensitive-data-local/",
+      "tituloOriginal": "Perplexity Introduces ‘Hybrid Compute’ for Computer Agent on Apple Silicon Macs",
+      "tituloLimpio": "Perplexity introduce 'Hybrid Compute' para su agente de IA en Macs con Apple Silicon",
+      "resumen": "Perplexity ha anunciado 'Hybrid Compute' para Personal Computer en Macs con Apple Silicon. Esto combina tareas de Computer basadas en la nube con acceso a archivos y apps locales.",
+      "porQueImporta": "Es relevante para Guido por su interés en IA aplicada y Apple, ya que muestra cómo la IA se integra con el hardware de Apple para un procesamiento más eficiente y local.",
+      "publicadoEn": "2026-09-01T15:03:56.000Z",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "Apple",
+        "Mac",
+        "procesamiento local"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/small-business/articles/denny-rival-dining-chain-files-153300154.html",
+      "tituloOriginal": "Denny’s rival dining chain files for Chapter 11 bankruptcy",
+      "tituloLimpio": "Cadena de restaurantes rival de Denny's se declara en bancarrota",
+      "resumen": "Una cadena de restaurantes rival de Denny's se ha declarado en bancarrota bajo el Capítulo 11.",
+      "porQueImporta": "Indica tendencias económicas en el sector de la restauración y puede ser un indicador de la salud general del mercado, relevante para inversores.",
+      "publicadoEn": "2026-09-01T15:33:00.000Z",
+      "imagen": "https://media.zenfs.com/en/thestreet_881/d00c84f7209ad2fcb7973604023f2bb6.jpg",
+      "globalScore": 86,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "bancarrota",
+        "mercado"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/news/technology/palo-alto-stock-panw-palo-alto-earnings-aug26/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Palo Alto Stock Tumbles As Analysts Mull Fiscal Q4 Organic Growth, Acquisitions",
+      "tituloLimpio": "Las acciones de Palo Alto caen mientras analistas evalúan el crecimiento orgánico y adquisiciones del cuarto trimestre fiscal",
+      "resumen": "Las acciones de Palo Alto cayeron mientras los analistas evalúan el crecimiento orgánico y las adquisiciones del cuarto trimestre fiscal.",
+      "porQueImporta": "Relevante para inversores que siguen el mercado de valores y el sector tecnológico, especialmente en ciberseguridad.",
+      "publicadoEn": "2026-09-02T15:52:34.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/dc1e75b3cb03fba4445045c62a360c11.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "acciones",
+        "tecnología"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuYmFy",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.barrons.com/articles/ast-spacemobile-stock-buy-rating-price-146b0862?siteid=yhoof2&yptr=yahoo",
+      "tituloOriginal": "AST SpaceMobile Stock Soars on New Buy Call",
+      "tituloLimpio": "Las acciones de AST SpaceMobile suben tras una nueva recomendación de compra",
+      "resumen": "Las acciones de AST SpaceMobile subieron tras una nueva recomendación de compra.",
+      "porQueImporta": "Interesante para inversores que buscan oportunidades en el mercado de valores, especialmente en el sector de tecnología espacial.",
+      "publicadoEn": "2026-09-02T15:46:00.000Z",
+      "imagen": "https://media.zenfs.com/en/Barrons.com/8df788e1065359574ac840ddd627953b.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "acciones",
+        "inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/09/02/crypto-long-and-short-crypto-vcs-are-mistaking-consensus-for-discipline",
+      "tituloOriginal": "Crypto Long & Short: Crypto VCs are mistaking consensus for discipline",
+      "tituloLimpio": "Capitales de riesgo en cripto confunden consenso con disciplina",
+      "resumen": "Varun Datta de Truth Ventures escribe que el retiro del capital de riesgo en cripto hacia acuerdos de etapa posterior es un comercio de consenso disfrazado de disciplina.",
+      "porQueImporta": "Ofrece una perspectiva crítica sobre las tendencias de inversión en criptomonedas, útil para entender la dinámica del mercado de activos digitales.",
+      "publicadoEn": "2026-09-02T15:15:02.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/b88cc3bb0be5078f6fee0948dd9408a814ffa0c2-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "cripto",
+        "inversión"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/g20-members-clear-pathways-digital-asset-innovation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "G20 members tout ‘clear pathways’ for digital asset innovation",
+      "tituloLimpio": "Miembros del G20 promueven 'caminos claros' para la innovación de activos digitales",
+      "resumen": "Funcionarios del G20 reconocieron que los activos digitales podrían apoyar el 'crecimiento económico generalizado' y pidieron mejoras en las transacciones transfronterizas.",
+      "porQueImporta": "Indica un reconocimiento global de los activos digitales y su potencial, lo que podría influir en futuras regulaciones y adopción, relevante para el sector financiero.",
+      "publicadoEn": "2026-09-02T15:34:06.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1H85V728VXBM9KYCSEJAD01/g20-discuss-crypto-desk-table-meeting-hand-paper-people2.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "cripto",
+        "G20",
+        "regulación"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/deuda-familias-gobierno-envia-economistas-congreso-frenar-proyectos-controlar-bancos-billeteras_0_gXiiv87pFI.html",
+      "tituloOriginal": "Deuda en las familias: el Gobierno envía a economistas al Congreso a frenar los proyectos para controlar a bancos y billeteras",
+      "tituloLimpio": "Deuda en las familias: el Gobierno envía economistas al Congreso para frenar proyectos de control a bancos y billeteras",
+      "resumen": "La reunión de comisión será esta tarde para analizar 34 proyectos que buscan un alivio sobre las familias. Se convocó a economistas y exfuncionarios por el Gobierno y bloques aliados.",
+      "porQueImporta": "Impacta directamente en la economía argentina y en cómo se regulan los servicios financieros, afectando a los usuarios de bancos y billeteras digitales.",
+      "publicadoEn": "2026-09-02T15:10:42.000Z",
+      "imagen": "https://www.clarin.com/img/2026/09/02/5UNJdgkwI_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "finanzas",
+        "regulación"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/detuvieron-corrupcion-ex-funcionario-mano-derecha-ricardo-echegaray-afip_0_jLVNFIoldK.html",
+      "tituloOriginal": "Detuvieron por corrupción al ex funcionario que fue mano derecha de Ricardo Echegaray en la AFIP",
+      "tituloLimpio": "Detuvieron por corrupción a ex funcionario que fue mano derecha de Ricardo Echegaray en la AFIP",
+      "resumen": "Rafael Resnick Brenner se entregó luego de que la Corte dejara firme su condena a cuatro años de prisión por coimas durante el gobierno de Cristina Kirchner.",
+      "porQueImporta": "Noticia de interés general en Argentina, relacionada con la política y la corrupción, que puede influir en la percepción pública de las instituciones.",
+      "publicadoEn": "2026-09-02T15:19:40.000Z",
+      "imagen": "https://www.clarin.com/img/2018/11/08/gVzSciXNJ_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "política",
+        "corrupción"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/09/02/la-carta-organica-del-bcra-que-propone-el-gobierno-sera-la-mas-estricta-de-la-region-segun-una-asociacion-de-bancos/",
+      "tituloOriginal": "La Carta Orgánica del BCRA que propone el Gobierno será la más estricta de la región, según una asociación de bancos",
+      "tituloLimpio": "La Carta Orgánica del BCRA propuesta por el Gobierno será la más estricta de la región, según una asociación de bancos",
+      "resumen": "El Instituto de Finanzas Internacionales analizó la reforma del Gobierno y comparó cada punto con otros países latinoamericanos.",
+      "porQueImporta": "Fundamental para entender el futuro de la política monetaria y financiera en Argentina, con implicaciones para la inversión y la estabilidad económica.",
+      "publicadoEn": "2026-09-02T16:01:05.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/DUSMUQ4Y6JEN7PBXJUACPHO6I4.JPG?auth=51123731af7ef80fab8902b6de29fc872f24f0bf8f5ef04943e337a63ac3c113&smart=true&width=5500&height=3695",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "BCRA",
+        "regulación"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/09/02/rio-negro-la-justicia-autorizo-un-embargo-de-casi-30000-dolares-contra-la-diputada-lorena-villaverde-por-un-conflicto-con-un-loteo-privado/",
+      "tituloOriginal": "Río Negro: la Justicia autorizó un embargo de casi 30.000 dólares contra la diputada Lorena Villaverde por un conflicto con un loteo privado",
+      "tituloLimpio": "Río Negro: la Justicia autorizó un embargo de casi 30.000 dólares contra la diputada Lorena Villaverde por un conflicto con un loteo privado",
+      "resumen": "La medida cautelar fue dictada en el marco de un reclamo por presuntos incumplimientos en la entrega de un terreno del emprendimiento Tajamar, ubicado en Las Grutas.",
+      "porQueImporta": "Noticia de interés político y legal en Argentina, que muestra conflictos relacionados con la propiedad y la actuación de figuras públicas.",
+      "publicadoEn": "2026-09-02T15:54:33.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/6AOKBAOUPVALTEYBAI6TAY5KIU.png?auth=23080f0c5a4b2c6eebaf57efd2f74c5e8888d595d5d17da39975adfc80d3d8fc&smart=true&width=702&height=448",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "política",
+        "justicia"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/campo/alberto-frola-un-dirigente-rural-dialoguista-que-dejo-huella-en-el-campo-argentino-nid02092026/",
+      "tituloOriginal": "Alberto Frola, un dirigente rural dialoguista que dejó huella en el campo argentino",
+      "tituloLimpio": "Alberto Frola, un dirigente rural dialoguista que dejó huella en el campo argentino",
+      "resumen": "Nacido en 1947 y presidente de Carbap entre 2010 y 2012, fue tercera generación de productores agropecuarios y un destacado abogado y docente.",
+      "porQueImporta": "Relevante para entender la historia y el liderazgo en el sector agropecuario argentino, un pilar de la economía del país.",
+      "publicadoEn": "2026-09-02T15:48:21.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/565ASYEQ7VE6PIN2QAJCFPQ7YM.jpg?auth=5546ffe61e5a1dc9d6d2bfed66f1ce4e68b85dd931138e9f6a9e940156417a23&smart=true&width=2000&height=1333",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "campo"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Politica",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-las-repercusiones-de-la-cumbre-del-g-20-y-la-planificacion-de-la-nid02092026/",
+      "tituloOriginal": "Javier Milei y sus medidas, en vivo: las repercusiones de la cumbre del G-20 y las reuniones por la visita del Papa",
+      "tituloLimpio": "Javier Milei y sus medidas: repercusiones de la cumbre del G-20 y reuniones por la visita del Papa",
+      "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones desde la oposición y las declaraciones de los funcionarios.",
+      "porQueImporta": "Noticia central sobre la política argentina, que informa sobre las acciones del presidente y eventos internacionales relevantes para el país.",
+      "publicadoEn": "2026-09-02T16:07:01.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/4TBYV6RSW5AZJK5YJC7QY7KSNY.JPG?auth=64e851fee85e64bd8a1109316117e3dba35dd56283b507a7a0cb54b3db3b7199&smart=true&width=1305&height=979",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "política",
+        "G20"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-09-02T16:12:57.494Z"
+  }
+}
