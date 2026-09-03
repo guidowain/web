@@ -1,53 +1,33 @@
 {
   "fecha": "2026-09-03",
-  "generadoEn": "2026-09-03T16:02:20.167Z",
+  "generadoEn": "2026-09-03T19:39:39.292Z",
   "actualizacion": "14:00",
-  "resumenEjecutivo": "Hoy se destaca la adquisición de Hugging Face por parte de Nvidia, consolidando su apuesta por la IA de código abierto. En el ámbito de Apple, se reveló una hoja de ruta para nuevos modelos de Mac y iPad, mientras que la empresa enfrenta una demanda por sus reglas de seguimiento de apps. Google, por su parte, lanzó una nueva versión de su modelo de IA para pronóstico del tiempo. En Argentina, se oficializaron aumentos y un bono para empleadas domésticas, y los bonos argentinos subieron con la caída del riesgo país. El dólar blue se mantiene cerca del oficial.",
+  "resumenEjecutivo": "El panorama actual muestra avances significativos en IA, con OpenAI lanzando GPT-6 Astra y Google reforzando la ciberseguridad. Apple enfrenta una demanda millonaria por sus reglas de seguimiento de apps, mientras que en Argentina, la situación económica es compleja con la dueña de Musimundo en quiebra y la \"motosierra\" de Milei bajo presión. En marketing, Hoka innova con campañas digitales que usan datos de Strava.",
   "radarPersonal": [
     {
-      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
-      "titulo": "Nvidia compra Hugging Face por casi 13 mil millones de dólares",
-      "resumen": "Esta adquisición es la segunda más grande del fabricante de chips, que apuesta su futuro a la IA de código abierto.",
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "OpenAI lanza GPT-6 Astra, un modelo de IA que marca un \"salto generacional\"",
+      "resumen": "OpenAI presenta su nuevo modelo de IA, GPT-6 Astra, descrito como un \"salto generacional en capacidad\" para áreas como ciberseguridad, trabajo profesional, ingeniería de software, ciencia y uso de computadoras.",
       "categoria": "AI",
       "fuentes": [
-        "Adweek"
+        "The Verge AI"
       ],
       "urls": [
-        "https://www.adweek.com/dealroom/nvidia-confirms-purchase-of-hugging-face-for-nearly-13-billion/"
+        "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release"
       ],
       "score": 100,
       "tags": [
-        "nvidia",
-        "hugging face",
-        "adquisición",
+        "openai",
+        "gpt-6",
         "ia",
-        "código abierto"
-      ]
-    },
-    {
-      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
-      "titulo": "Se revela la hoja de ruta de Apple para nuevos modelos de Mac y iPad",
-      "resumen": "Un nuevo informe ofrece detalles sobre los planes de Apple para futuros modelos de MacBook Pro, MacBook Air y iPad.",
-      "categoria": "Apple",
-      "fuentes": [
-        "9to5Mac"
-      ],
-      "urls": [
-        "https://9to5mac.com/2026/09/03/apples-big-roadmap-for-new-mac-and-ipad-models-revealed-report/"
-      ],
-      "score": 100,
-      "tags": [
-        "apple",
-        "mac",
-        "ipad",
-        "roadmap",
-        "futuros modelos"
+        "modelo",
+        "ciberseguridad"
       ]
     },
     {
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "Apple enfrenta una demanda de 2.7 mil millones de dólares por reglas de seguimiento de apps",
-      "resumen": "Apple enfrenta una demanda en Londres que la acusa de imponer reglas de Transparencia de Seguimiento de Apps más estrictas a desarrolladores externos que a sus propios servicios de publicidad.",
+      "titulo": "Apple enfrenta una demanda de 2.700 millones de dólares por reglas de seguimiento de apps",
+      "resumen": "Apple es demandada por 2.700 millones de dólares en Londres, acusada de imponer reglas más estrictas de Transparencia de Seguimiento de Apps a desarrolladores externos que a sus propios servicios de publicidad.",
       "categoria": "Apple",
       "fuentes": [
         "MacRumors"
@@ -60,76 +40,105 @@
         "apple",
         "demanda",
         "app tracking transparency",
-        "privacidad",
-        "publicidad"
+        "privacidad"
       ]
     },
     {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "titulo": "El último modelo de IA de Google para el clima busca mejorar los pronósticos",
-      "resumen": "WeatherNext 3 es la última versión de un cambio en la meteorología impulsado por técnicas de aprendizaje profundo. Google dice que se integrará en la información meteorológica que los usuarios ven en la búsqueda, Google Maps y Gemini.",
-      "categoria": "AI",
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "El acuerdo con el FMI bajo presión: la \"motosierra\" de Milei se agota y pone en riesgo la meta fiscal",
+      "resumen": "El acuerdo con el FMI está bajo presión, ya que la \"motosierra\" de Milei se agota y pone en riesgo la meta fiscal. El resultado de agosto será clave.",
+      "categoria": "Argentina",
       "fuentes": [
-        "TechCrunch AI"
+        "Ambito"
       ],
       "urls": [
-        "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/"
+        "https://www.ambito.com/economia/el-acuerdo-el-fmi-presion-la-motosierra-milei-se-agota-y-pone-riesgo-la-meta-fiscal-n6318226"
       ],
       "score": 100,
       "tags": [
-        "google",
-        "ia",
-        "clima",
-        "weathernext",
-        "pronóstico"
+        "argentina",
+        "fmi",
+        "milei",
+        "economia",
+        "fiscal"
       ]
     },
     {
-      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
-      "titulo": "Suben los bonos argentinos y cae el riesgo país",
-      "resumen": "Los títulos públicos avanzan y el riesgo país cae, mientras el barril de Brent alcanza un nuevo máximo de seis semanas.",
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "titulo": "Hoka integra estadísticas de Strava en su campaña digital OOH",
+      "resumen": "Hoka incorpora estadísticas de Strava en su campaña digital OOH. La marca enfrenta a los cinco distritos de Nueva York en un desafío de \"Corre tu ciudad\" y usará los resultados para la creatividad de la campaña.",
+      "categoria": "Marketing",
+      "fuentes": [
+        "Marketing Dive"
+      ],
+      "urls": [
+        "https://www.marketingdive.com/news/hoka-builds-strava-running-stats-into-digital-ooh-campaign/829480/"
+      ],
+      "score": 100,
+      "tags": [
+        "marketing",
+        "hoka",
+        "strava",
+        "ooh",
+        "digital"
+      ]
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "titulo": "Bill Gates advierte que la IA podría eliminar muchos trabajos para siempre",
+      "resumen": "Bill Gates afirma que \"muchos trabajos desaparecerán para siempre\" debido a la IA y aconseja construir una \"barrera de seguridad financiera\" antes de que la IA impacte.",
       "categoria": "Finance",
       "fuentes": [
-        "Infobae Economia"
+        "Yahoo Finance"
       ],
       "urls": [
-        "https://www.infobae.com/economia/2026/09/03/mercados-suben-las-acciones-y-los-bonos-argentinos-con-el-barril-de-petroleo-en-alza-y-cerca-de-los-100-dolares/"
+        "https://finance.yahoo.com/technology/ai/articles/many-jobs-disappear-forever-bill-104500952.html"
       ],
       "score": 100,
       "tags": [
-        "bonos argentinos",
-        "riesgo país",
-        "mercados",
-        "petróleo"
+        "ia",
+        "empleo",
+        "bill gates",
+        "finanzas"
       ]
     }
   ],
   "loImportante": [
-    "La adquisición de Hugging Face por Nvidia refuerza la apuesta por la IA de código abierto, relevante para el desarrollo y uso de herramientas de IA.",
-    "La hoja de ruta de Apple para Mac y iPad indica futuras innovaciones en hardware, clave para usuarios de la marca.",
-    "La demanda contra Apple por sus reglas de seguimiento de apps podría sentar un precedente sobre la privacidad y la competencia en el ecosistema de aplicaciones.",
-    "El nuevo modelo de IA de Google para el clima mejora la precisión de los pronósticos, con impacto en herramientas cotidianas como Google Maps y Gemini.",
-    "La suba de bonos argentinos y la caída del riesgo país son indicadores económicos positivos para el mercado local."
+    "OpenAI lanzó GPT-6 Astra, un modelo de IA que promete un \"salto generacional\" en diversas áreas, incluyendo ciberseguridad y desarrollo de software.",
+    "Apple enfrenta una demanda multimillonaria en Londres por sus políticas de seguimiento de aplicaciones, lo que podría sentar un precedente importante.",
+    "La situación económica en Argentina es delicada: la dueña de Musimundo quebró y el acuerdo con el FMI está bajo presión por el agotamiento de las medidas fiscales.",
+    "Google lanzó el programa Fairwind para ofrecer herramientas de ciberdefensa a gobiernos y socios, reforzando la seguridad digital a gran escala.",
+    "En marketing, Hoka implementó una campaña innovadora usando datos de Strava para generar contenido, mostrando cómo la integración de datos puede potenciar la creatividad."
   ],
   "oportunidades": [
     {
-      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
-      "titulo": "Nvidia invierte fuerte en IA de código abierto",
-      "detalle": "La compra de Hugging Face por Nvidia demuestra una consolidación en el sector de IA de código abierto, lo que podría generar nuevas herramientas y plataformas para desarrolladores y artistas de IA.",
+      "titulo": "Explorar las nuevas capacidades de GPT-6 Astra de OpenAI",
+      "detalle": "El lanzamiento de GPT-6 Astra, descrito como un \"salto generacional\", ofrece nuevas posibilidades en ciberseguridad, desarrollo de software y trabajo profesional. Podría ser una herramienta potente para la automatización y la creación de arte con IA.",
       "acciones": [
-        "Explorar nuevas herramientas y modelos de IA de código abierto que surjan de esta adquisición.",
-        "Evaluar el impacto en el ecosistema de desarrollo de IA y posibles integraciones con flujos de trabajo de retoque y arte con IA."
+        "Investigar las APIs y funcionalidades de GPT-6 Astra para posibles integraciones en flujos de trabajo de retoque fotográfico o arte con IA.",
+        "Evaluar cómo las mejoras en ciberseguridad pueden aplicarse a la protección de activos digitales."
       ]
     },
     {
-      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
-      "categoria": "Productivity",
-      "titulo": "Nuevos modelos de Mac y iPad en el horizonte de Apple",
-      "detalle": "La revelación de la hoja de ruta de Apple sugiere futuras actualizaciones significativas en sus líneas de Mac y iPad, lo que podría traer mejoras de rendimiento y nuevas funcionalidades útiles para el trabajo de retoque fotográfico y arte con IA.",
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "Aplicar estrategias de marketing basadas en datos de usuario como Hoka",
+      "detalle": "La campaña de Hoka que integra estadísticas de Strava para generar contenido creativo demuestra el potencial de usar datos de usuario para campañas de marketing digital. Esto podría inspirar enfoques similares en proyectos de marketing o para clientes.",
       "acciones": [
-        "Monitorear los anuncios de Apple sobre los próximos lanzamientos de Mac y iPad para evaluar posibles mejoras de hardware y software.",
-        "Considerar la planificación de futuras actualizaciones de equipos en función de estas novedades."
+        "Analizar cómo se pueden integrar datos de plataformas de terceros (con consentimiento) para crear campañas de marketing más personalizadas y atractivas.",
+        "Explorar herramientas que permitan la visualización y uso de datos de usuario en estrategias de marketing digital y OOH."
+      ]
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "Automation",
+      "titulo": "Simplificar la integración de IA para escalar operaciones",
+      "detalle": "La facilitación de la integración de IA con simplicidad a escala es clave para evitar que los sistemas desconectados se conviertan en un problema. Esto es relevante para la automatización y la eficiencia en cualquier negocio.",
+      "acciones": [
+        "Revisar los sistemas actuales para identificar silos de datos y oportunidades de integración de IA para mejorar la coordinación y la toma de decisiones.",
+        "Investigar soluciones de IA que prioricen la simplicidad y la escalabilidad para optimizar procesos internos o de clientes."
       ]
     }
   ],
@@ -137,48 +146,56 @@
     {
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Platform",
-      "titulo": "Demanda a Apple por reglas de seguimiento de apps",
-      "detalle": "La demanda de 2.7 mil millones de dólares contra Apple por sus reglas de App Tracking Transparency podría generar cambios en cómo las aplicaciones de terceros acceden a datos de usuario, afectando estrategias de marketing y publicidad digital.",
-      "mitigacion": "Mantenerse informado sobre el desarrollo de la demanda y sus posibles implicaciones para las políticas de privacidad y seguimiento de datos en el ecosistema de Apple, ajustando estrategias de marketing si fuera necesario."
+      "titulo": "Riesgo legal por las políticas de privacidad de Apple",
+      "detalle": "La demanda de 2.700 millones de dólares contra Apple por sus reglas de seguimiento de apps podría sentar un precedente sobre cómo las plataformas manejan la privacidad y la competencia. Esto podría afectar a desarrolladores y empresas que dependen de las políticas de Apple.",
+      "mitigacion": "Monitorear de cerca el desarrollo de esta demanda y sus implicaciones. Evaluar la dependencia de las políticas de Apple para el seguimiento de usuarios y explorar alternativas o estrategias de marketing que no dependan exclusivamente de estas reglas."
     },
     {
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Market",
-      "titulo": "Nuevos aranceles de EEUU a drones chinos",
-      "detalle": "La imposición de un arancel del 100% a los drones chinos por parte de EE.UU. podría impactar en la cadena de suministro global y en los precios de la tecnología, aunque el impacto directo en Argentina es incierto.",
-      "mitigacion": "Monitorear el impacto de estas políticas comerciales en la disponibilidad y costo de equipos tecnológicos relevantes, especialmente aquellos con componentes o fabricación china."
+      "titulo": "Inestabilidad económica en Argentina por presión sobre el acuerdo con el FMI",
+      "detalle": "El agotamiento de la \"motosierra\" de Milei y la presión sobre el acuerdo con el FMI ponen en riesgo la meta fiscal, lo que podría generar mayor inestabilidad económica en el país. Esto afecta directamente el poder adquisitivo y la inversión.",
+      "mitigacion": "Mantener una cartera de inversión diversificada, con exposición a activos que puedan proteger contra la inflación y la devaluación. Estar atento a las noticias económicas locales para ajustar estrategias de inversión y gastos."
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "AI",
+      "titulo": "Impacto de la IA en el mercado laboral y la desaparición de empleos",
+      "detalle": "La advertencia de Bill Gates sobre la desaparición de muchos trabajos debido a la IA subraya la necesidad de adaptarse a un mercado laboral cambiante. Esto podría afectar a diversas industrias, incluyendo el retoque fotográfico y el arte con IA si no se evoluciona.",
+      "mitigacion": "Invertir en el desarrollo de habilidades complementarias a la IA, enfocándose en la creatividad, el pensamiento crítico y la resolución de problemas. Explorar cómo la IA puede ser una herramienta para potenciar el trabajo en lugar de reemplazarlo, buscando nichos donde la colaboración humano-IA sea clave."
     }
   ],
   "conexiones": [
     {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "titulo": "Google mejora su IA para el clima",
+      "id": "ia-empleo-argentina",
+      "titulo": "La IA y el futuro del empleo en un contexto económico argentino complejo",
       "historias": [
-        "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-        "Google says its AI weather model is getting better"
+        "Bill Gates advierte que la IA podría eliminar muchos trabajos para siempre, sugiriendo construir una \"barrera de seguridad financiera\".",
+        "En Argentina, la \"motosierra\" de Milei se agota y pone en riesgo la meta fiscal, lo que genera inestabilidad económica.",
+        "La quiebra de la dueña de Musimundo en Argentina es un ejemplo de la fragilidad económica local."
       ],
-      "conclusion": "Ambas noticias de TechCrunch AI y The Verge AI confirman que Google está invirtiendo en mejorar la precisión de sus modelos de IA para el pronóstico del tiempo, lo que se traducirá en información más confiable para los usuarios en sus productos como Google Maps y Gemini."
+      "conclusion": "La advertencia de Bill Gates sobre el impacto de la IA en el empleo cobra una relevancia particular en Argentina, donde la economía ya enfrenta desafíos significativos. La inestabilidad fiscal y la quiebra de empresas locales sugieren que la adaptación a los cambios tecnológicos, como la IA, será aún más crítica para la estabilidad laboral y financiera personal en un entorno ya de por sí volátil."
     }
   ],
   "noticias": [
     {
-      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "categoria": "AI",
-      "fuente": "Google AI Blog",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-      "tituloOriginal": "Proactive cyber defense for governments and enterprises",
-      "tituloLimpio": "Google lanza el programa Fairwind para ciberdefensa proactiva",
-      "resumen": "El programa Fairwind es de acceso limitado para gobiernos y socios de confianza que deseen usar las herramientas de ciberdefensa de Google.",
-      "porQueImporta": "Aunque es un programa de acceso limitado, muestra la dirección de Google en ciberseguridad con IA, un área de interés general en tecnología.",
-      "publicadoEn": "2026-09-02T15:40:00.000Z",
-      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp",
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/03/apple-hit-with-lawsuit-over-app-tracking/",
+      "tituloOriginal": "Apple Hit With $2.7 Billion Lawsuit Over App Tracking Rules",
+      "tituloLimpio": "Apple enfrenta una demanda de 2.700 millones de dólares por reglas de seguimiento de apps",
+      "resumen": "Apple es demandada por 2.700 millones de dólares en Londres, acusada de imponer reglas más estrictas de Transparencia de Seguimiento de Apps a desarrolladores externos que a sus propios servicios de publicidad.",
+      "porQueImporta": "Esta demanda podría tener implicaciones importantes para las políticas de privacidad y publicidad en el ecosistema de Apple, afectando a desarrolladores y estrategias de marketing digital.",
+      "publicadoEn": "2026-09-03T14:46:47.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "ciberseguridad",
-        "ia",
-        "gobiernos",
-        "empresas"
+        "apple",
+        "demanda",
+        "privacidad",
+        "marketing",
+        "app tracking transparency"
       ],
       "tambienVistoEn": []
     },
@@ -186,21 +203,21 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/nuevos-aranceles-eeuu-china-donald-trump-puso-vigor-una-alicuota-100-los-drones-n6318018",
-      "tituloOriginal": "Nuevos aranceles de EEUU a China: Donald Trump puso en vigor una alícuota de 100% para los drones",
-      "tituloLimpio": "EEUU impone un arancel del 100% a drones chinos",
-      "resumen": "La medida responde a una orden firmada por Donald Trump, alertando sobre la amenaza de ciberespionaje, bloqueos en el suministro y desventajas tácticas. Así, EEUU alentará más la producción local de drones.",
-      "porQueImporta": "Esta decisión puede influir en el mercado global de tecnología y en la disponibilidad de drones, un insumo relevante para algunos trabajos creativos.",
-      "publicadoEn": "2026-09-03T12:27:00.000Z",
-      "imagen": "https://media.ambito.com/p/df6e933558a7ee68b46a8be67b467afa/adjuntos/239/imagenes/039/151/0039151297/1200x675/smart/dronesjpg.jpg",
-      "globalScore": 90,
+      "url": "https://www.ambito.com/economia/el-acuerdo-el-fmi-presion-la-motosierra-milei-se-agota-y-pone-riesgo-la-meta-fiscal-n6318226",
+      "tituloOriginal": "El acuerdo con el FMI bajo presión: la \"motosierra\" de Milei se agota y pone en riesgo la meta fiscal",
+      "tituloLimpio": "El acuerdo con el FMI bajo presión: la \"motosierra\" de Milei se agota y pone en riesgo la meta fiscal",
+      "resumen": "El acuerdo con el FMI está bajo presión, ya que la \"motosierra\" de Milei se agota y pone en riesgo la meta fiscal. El resultado de agosto será clave.",
+      "porQueImporta": "Es una noticia crucial para entender la situación económica de Argentina, con impacto directo en la inversión, el poder adquisitivo y el clima de negocios en el país.",
+      "publicadoEn": "2026-09-03T18:56:00.000Z",
+      "imagen": "https://media.ambito.com/p/58e6ebdb421bf240da58cca8d3736083/adjuntos/239/imagenes/041/587/0041587838/milei-georgieva-fmi-g7.jpg",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "aranceles",
-        "eeuu",
-        "china",
-        "drones",
-        "comercio"
+        "argentina",
+        "economia",
+        "fmi",
+        "milei",
+        "finanzas"
       ],
       "tambienVistoEn": []
     },
@@ -210,18 +227,59 @@
       "fuente": "Marketing Dive",
       "url": "https://www.marketingdive.com/news/hoka-builds-strava-running-stats-into-digital-ooh-campaign/829480/",
       "tituloOriginal": "Hoka builds Strava running stats into digital OOH campaign",
-      "tituloLimpio": "Hoka integra estadísticas de Strava en su campaña de publicidad exterior digital",
-      "resumen": "La marca está enfrentando a los cinco distritos de Nueva York en un desafío de 'Corre tu ciudad' y usará los resultados para la creatividad de la campaña.",
-      "porQueImporta": "Es un ejemplo interesante de marketing digital que combina datos de usuario con publicidad exterior, relevante para profesionales del marketing.",
+      "tituloLimpio": "Hoka integra estadísticas de Strava en su campaña digital OOH",
+      "resumen": "Hoka incorpora estadísticas de Strava en su campaña digital OOH. La marca enfrenta a los cinco distritos de Nueva York en un desafío de \"Corre tu ciudad\" y usará los resultados para la creatividad de la campaña.",
+      "porQueImporta": "Muestra una estrategia innovadora de marketing que utiliza datos de usuario para crear contenido dinámico y relevante, algo útil para Guido en su interés por el marketing y la creatividad.",
       "publicadoEn": "2026-09-03T15:00:00.000Z",
       "globalScore": 96,
       "personalScore": 100,
       "tags": [
         "marketing",
-        "publicidad digital",
+        "digital",
         "ooh",
-        "strava",
+        "datos",
         "campañas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+      "tituloOriginal": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+      "tituloLimpio": "Accel estaría en conversaciones para liderar una ronda de 1.000 millones de dólares para Thinking Machines",
+      "resumen": "Accel estaría en conversaciones para liderar una ronda de 1.000 millones de dólares para Thinking Machines, valorando la startup en 40.000 millones de dólares. La startup tiene una tasa de ingresos anuales de más de 100 millones de dólares.",
+      "porQueImporta": "Indica un fuerte interés y una gran inversión en startups de IA, lo que refleja el crecimiento y el potencial del sector, relevante para el interés de Guido en la IA aplicada y la inversión.",
+      "publicadoEn": "2026-09-03T19:36:29.000Z",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "inversion",
+        "startups",
+        "finanzas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "tituloOriginal": "OpenAI’s next big AI model has ‘entered the AGI era’",
+      "tituloLimpio": "OpenAI lanza GPT-6 Astra, un modelo de IA que marca un \"salto generacional\"",
+      "resumen": "OpenAI presenta su nuevo modelo de IA, GPT-6 Astra, descrito como un \"salto generacional en capacidad\" para áreas como ciberseguridad, trabajo profesional, ingeniería de software, ciencia y uso de computadoras.",
+      "porQueImporta": "Es un avance significativo en IA que podría cambiar la forma en que se abordan tareas complejas en ciberseguridad, desarrollo de software y arte con IA, impactando directamente en las herramientas y la automatización que Guido utiliza.",
+      "publicadoEn": "2026-09-03T18:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "openai",
+        "gpt-6",
+        "ciberseguridad",
+        "automatizacion"
       ],
       "tambienVistoEn": []
     },
@@ -232,57 +290,58 @@
       "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
       "tituloOriginal": "Facilitating AI integration with simplicity at scale",
       "tituloLimpio": "Facilitando la integración de IA con simplicidad a escala",
-      "resumen": "A medida que las empresas crecen, la tecnología que soporta las operaciones puede convertirse en un pasivo tan rápido como en un activo. Los sistemas desconectados, las herramientas específicas del sitio, las hojas de cálculo y las soluciones manuales pueden crear silos de datos que dificultan la detección temprana de problemas, la coordinación de respuestas y la toma de decisiones con confianza.",
-      "porQueImporta": "Destaca la importancia de la integración de IA para la eficiencia operativa en empresas, un tema clave para la automatización y herramientas.",
+      "resumen": "A medida que las empresas escalan, la tecnología puede convertirse en un problema si los sistemas están desconectados. La integración de IA con simplicidad a escala es clave para evitar silos de datos y mejorar la toma de decisiones.",
+      "porQueImporta": "Destaca la importancia de la automatización y la integración de IA para la eficiencia operativa, un tema clave para Guido en su interés por herramientas y automatización.",
       "publicadoEn": "2026-09-02T14:00:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "ia",
-        "integración",
-        "empresas",
-        "automatización"
+        "automatizacion",
+        "herramientas",
+        "negocios",
+        "escalabilidad"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "9to5mac-aHR0cHM6Ly85dG81dG95",
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Apple",
       "fuente": "9to5Mac",
-      "url": "https://9to5toys.com/2026/08/29/sharge-impressive-metal-power-bank-display-review/",
-      "tituloOriginal": "Tested: You have to see Sharge’s impressive new metal unibody power bank with display [Launch deal]",
-      "tituloLimpio": "Revisión de la nueva batería externa de metal de Sharge con pantalla",
-      "resumen": "Algunas baterías externas no son todas iguales. Algunas presentan uno de los diseños más impresionantes que he visto con una pantalla integrada, la capacidad de cargar dos MacBooks a la vez, iluminación RGB y un par de recortes de ventana en la carcasa de metal sólido para mostrar la tecnología interna.",
-      "porQueImporta": "Una herramienta útil para usuarios de Apple que necesitan cargar sus dispositivos, especialmente MacBooks, con un diseño innovador.",
-      "publicadoEn": "2026-08-29T15:51:36.000Z",
-      "globalScore": 82,
-      "personalScore": 100,
-      "tags": [
-        "apple",
-        "accesorios",
-        "batería externa",
-        "macbook",
-        "herramientas"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
-      "categoria": "Apple",
-      "fuente": "MacStories",
-      "url": "https://www.macstories.net/linked/designed-in-california-makes-its-official-debut/",
-      "tituloOriginal": "Designed in California Makes Its Official Debut",
-      "tituloLimpio": "El podcast 'Designed in California' de Apple hace su debut oficial",
-      "resumen": "Designed in California, el podcast de historia de Apple de Myke Hurley y Jason Snell, ya está disponible en Relay con dos nuevos episodios gratuitos, además de más contenido para los patrocinadores de Kickstarter y suscriptores de Relay.",
-      "porQueImporta": "Un recurso interesante para los entusiastas de Apple que buscan conocer más sobre la historia y el diseño de la compañía.",
-      "publicadoEn": "2026-09-03T15:59:43.000Z",
+      "url": "https://9to5mac.com/2026/09/03/apples-calendar-app-in-ios-27-has-brand-new-design-for-key-features/",
+      "tituloOriginal": "Apple’s Calendar app in iOS 27 has brand new design for key features",
+      "tituloLimpio": "La app Calendario de Apple en iOS 27 presenta un nuevo diseño para funciones clave",
+      "resumen": "iOS 27 añade nuevas funciones para apps populares como Notas, Recordatorios y Calendario. La app Calendario recibe cambios de diseño notables.",
+      "porQueImporta": "Guido, como usuario de Apple, se beneficia de conocer las novedades en el diseño y las funciones de las apps nativas, que pueden mejorar su productividad.",
+      "publicadoEn": "2026-09-03T19:02:28.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "apple",
-        "podcast",
-        "historia",
+        "ios",
+        "apps",
+        "productividad",
         "diseño"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/09/03/apple-tv-picks-up-sci-fi-thriller-waffle-house-index-in-seven-figure-deal?utm_source=rss",
+      "tituloOriginal": "Apple TV picks up sci-fi thriller 'Waffle House Index' in seven-figure deal",
+      "tituloLimpio": "Apple TV adquiere el thriller de ciencia ficción 'Waffle House Index' en un acuerdo de siete cifras",
+      "resumen": "Apple TV apuesta por 'Waffle House Index', un thriller de ciencia ficción sobre desastres que lleva la reputación del restaurante de permanecer abierto a su extremo lógico.",
+      "porQueImporta": "Muestra la continua inversión de Apple en contenido original, lo que puede ser de interés para Guido como usuario de Apple y consumidor de medios.",
+      "publicadoEn": "2026-09-03T18:43:03.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "apple tv",
+        "entretenimiento",
+        "contenido"
       ],
       "tambienVistoEn": []
     },
@@ -290,86 +349,20 @@
       "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
       "categoria": "Finance",
       "fuente": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-3-dow-sp-500-nasdaq-futures-081525933.html",
-      "tituloOriginal": "Stock market today: Dow, S&P 500, Nasdaq surge as traders pare rate-hike bets, bond yields ease",
-      "tituloLimpio": "Mercado de valores hoy: Dow, S&P 500, Nasdaq suben",
-      "resumen": "Los mercados suben mientras los traders reducen las apuestas de subida de tasas y los rendimientos de los bonos se relajan.",
-      "porQueImporta": "Un resumen rápido del estado del mercado de valores, relevante para inversores que siguen los índices principales.",
-      "publicadoEn": "2026-09-03T08:15:25.000Z",
-      "imagen": "https://s.yimg.com/uu/api/res/1.2/ba2B1sKWvYnd3YcvDAC5.A--~B/aD0zNTc2O3c9NTM2NDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-09/1b103577-947d-4ffe-bca6-5f711e19b32a",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "mercado de valores",
-        "dow",
-        "s&p 500",
-        "nasdaq",
-        "inversión"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
-      "categoria": "Finance",
-      "fuente": "Yahoo Finance",
-      "url": "https://www.investors.com/news/us-debt-ai-borrowing-bessent-bond-market-stocks-dollar/?src=A00220&yptr=yahoo",
-      "tituloOriginal": "U.S. Debt, AI Boom Triggers Historic Borrowing Binge, Pushing Up Rates. What To Know.",
-      "tituloLimpio": "La deuda de EE.UU. y el auge de la IA impulsan un endeudamiento histórico",
-      "resumen": "La deuda de EE.UU. y el auge de la IA impulsan un endeudamiento histórico, lo que empuja al alza las tasas.",
-      "porQueImporta": "Analiza la relación entre la deuda estadounidense, el crecimiento de la IA y su impacto en las tasas de interés, un factor clave para las inversiones.",
-      "publicadoEn": "2026-09-03T15:29:49.000Z",
-      "imagen": "https://media.zenfs.com/en/ibd.com/2a0fadecb648576739d0e81663275ba6.jpg",
-      "globalScore": 98,
-      "personalScore": 100,
-      "tags": [
-        "deuda",
-        "eeuu",
-        "ia",
-        "tasas de interés",
-        "finanzas"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
-      "categoria": "Finance",
-      "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/09/03/standard-chartered-first-top-global-bank-to-offer-bitcoin-and-ether-trading-in-uae",
-      "tituloOriginal": "Standard Chartered brings spot crypto trading to Dubai FX platform",
-      "tituloLimpio": "Standard Chartered ofrece trading de criptomonedas en Dubai",
-      "resumen": "El banco ahora ofrece trading institucional de criptomonedas al contado en la región, llevando BTC y ETH a las mismas plataformas eFX que las instituciones usan para operar con dólares y euros.",
-      "porQueImporta": "Indica una mayor adopción institucional de criptomonedas, lo que puede influir en el mercado de activos digitales.",
-      "publicadoEn": "2026-09-03T15:58:02.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/340d393dde0aee90bc02178a19a6f92588da4886-3200x1800.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "globalScore": 96,
-      "personalScore": 100,
-      "tags": [
-        "criptomonedas",
-        "trading",
-        "institucional",
-        "bitcoin",
-        "ethereum"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
-      "categoria": "Finance",
-      "fuente": "CoinTelegraph",
-      "url": "https://cointelegraph.com/magazine/recovery-specialists-crack-1b-crypto-wallet-but-find-just-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "tituloOriginal": "Recovery specialists crack $1B crypto wallet... but find just $10",
-      "tituloLimpio": "Especialistas recuperan billetera cripto de mil millones, pero encuentran solo 10 dólares",
-      "resumen": "Especialistas en recuperación de criptomonedas revelan cómo a veces se pueden recuperar billeteras perdidas, contraseñas y frases semilla, pero eso no sirve de nada si el dinero nunca estuvo allí en primer lugar.",
-      "porQueImporta": "Una anécdota que resalta los riesgos y la importancia de la seguridad en el manejo de criptomonedas.",
-      "publicadoEn": "2026-09-03T13:30:00.000Z",
-      "imagen": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1JCXG2R7DCZ2470D2Y6764D/magazine-crypto-sec-3.jpg",
+      "url": "https://finance.yahoo.com/technology/ai/articles/many-jobs-disappear-forever-bill-104500952.html",
+      "tituloOriginal": "‘Many jobs will disappear forever’: Bill Gates says AI could erase careers. Build a financial firewall before AI strikes",
+      "tituloLimpio": "Bill Gates dice que la IA podría eliminar muchos trabajos para siempre",
+      "resumen": "Bill Gates afirma que \"muchos trabajos desaparecerán para siempre\" debido a la IA y aconseja construir una \"barrera de seguridad financiera\" antes de que la IA impacte.",
+      "porQueImporta": "Es una advertencia importante sobre el futuro del empleo en la era de la IA, relevante para la planificación financiera y profesional de Guido.",
+      "publicadoEn": "2026-09-02T10:45:00.000Z",
+      "imagen": "https://media.zenfs.com/en/moneywise_ecomm_711/4b3ab5559b7ca2f3aee321b0be462036.jpg",
       "globalScore": 90,
       "personalScore": 100,
       "tags": [
-        "criptomonedas",
-        "seguridad",
-        "billeteras",
-        "recuperación"
+        "ia",
+        "empleo",
+        "finanzas",
+        "futuro"
       ],
       "tambienVistoEn": []
     },
@@ -377,42 +370,41 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/empleadas-domesticas-oficializan-aumentos-bono-especial-diciembre-2026_0_x6h29IuBep.html",
-      "tituloOriginal": "Empleadas domésticas: el Gobierno oficializa cómo serán los aumentos y el bono especial hasta diciembre 2026",
-      "tituloLimpio": "El Gobierno oficializa aumentos y bono para empleadas domésticas hasta diciembre de 2026",
-      "resumen": "Aunque recién se publica ahora, la nueva escala arrancó en agosto y establece subas para todos los meses hasta fin de año. Además, se paga una suma no remunerativa que se incorporará al salario básico en tres etapas.",
-      "porQueImporta": "Información económica relevante para Argentina, que afecta a un sector importante de la población y a los hogares.",
-      "publicadoEn": "2026-09-03T14:24:34.000Z",
-      "imagen": "https://www.clarin.com/img/2026/05/27/ssYXLT_RJ_1200x630__1.jpg",
-      "globalScore": 94,
+      "url": "https://www.clarin.com/economia/quebro-duena-musimundo-justicia-revoco-concurso-podria-desaparecer-historica-marca_0_OUrwx1E4uM.html",
+      "tituloOriginal": "Quebró la dueña de Musimundo: la Justicia revocó su concurso y podría desaparecer la histórica marca",
+      "tituloLimpio": "Quebró la dueña de Musimundo: la Justicia revocó su concurso y podría desaparecer la histórica marca",
+      "resumen": "El Juzgado Civil y Comercial N° 23 de Resistencia consideró que su estado de cesación de pagos hace inviable al concurso. La compañía argumentó que se frustró la operación para transferir 45 locales. Acumula una deuda superior a $ 63.500 millones y cheques rechazados por $ 1.593 millones por falta de fondos.",
+      "porQueImporta": "Refleja la difícil situación económica en Argentina y el impacto en el sector minorista, lo que puede afectar el consumo y el clima de negocios.",
+      "publicadoEn": "2026-09-03T17:52:08.000Z",
+      "imagen": "https://www.clarin.com/img/2014/10/28/SyHbhihXx_1200x630.jpg",
+      "globalScore": 86,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "economía",
-        "empleadas domésticas",
-        "aumentos",
-        "bono"
+        "economia",
+        "negocios",
+        "quiebra"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
-      "fuente": "Clarin Politica",
-      "url": "https://www.clarin.com/politica/alejandra-gils-carbo-sentara-banquillo-acusados-abogada-empresario-pago-coimas_0_fA8bNiy4Wp.html",
-      "tituloOriginal": "Alejandra Gils Carbó se sentará en el banquillo de los acusados, mientras es abogada de un empresario que pagó coimas",
-      "tituloLimpio": "Alejandra Gils Carbó será juzgada mientras defiende a empresario acusado de coimas",
-      "resumen": "La exprocuradora general de la Nación está acusada de negociaciones incompatibles con la función pública por la compra de un edificio. El juicio comienza el 22 de septiembre. A su vez, es la abogada del empresario K en el juicio por los cuadernos de las coimas.",
-      "porQueImporta": "Noticia política de alto perfil en Argentina, relevante para entender el panorama judicial y político del país.",
-      "publicadoEn": "2026-09-03T14:11:49.000Z",
-      "imagen": "https://www.clarin.com/img/2017/11/22/ryAJ88mez_1200x630.jpg",
-      "globalScore": 94,
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/09/03/cuales-son-los-10-autos-0-km-mas-baratos-de-la-argentina-por-primera-vez-no-hay-modelos-fabricados-en-el-pais/",
+      "tituloOriginal": "Cuáles son los 10 autos 0 Km más baratos de la Argentina: por primera vez no hay modelos fabricados en el país",
+      "tituloLimpio": "Cuáles son los 10 autos 0 Km más baratos de la Argentina: por primera vez no hay modelos fabricados en el país",
+      "resumen": "Con aumentos en las terminales locales y precios sin cambios entre varios importados, el listado de los 0 km más económicos muestra un vuelco inédito en el mercado en septiembre.",
+      "porQueImporta": "Ofrece una perspectiva sobre el mercado automotor argentino y la economía local, mostrando cómo los precios y la producción se ven afectados.",
+      "publicadoEn": "2026-09-03T19:29:40.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/OBY5463OKJHKNHLL6IZU7CZVVY.jpg?auth=8dcfe50c401b0633959c5f0a0f0d6abd57d34a583196fd8e93797131204bbb78&smart=true&width=1456&height=816",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "política",
-        "justicia",
-        "corrupción"
+        "economia",
+        "consumo",
+        "mercado automotor"
       ],
       "tambienVistoEn": []
     },
@@ -420,20 +412,20 @@
       "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Politica",
-      "url": "https://www.infobae.com/politica/2026/09/03/javier-milei-el-gobierno-de-macri-se-dejo-correr-por-los-que-tiraron-piedras-nosotros-no-lo-vamos-a-hacer-no-vamos-a-ceder-un-apice-en-nuestras-politicas/",
-      "tituloOriginal": "Javier Milei: “El gobierno de Macri se dejó correr por los que tiraron piedras, nosotros no lo vamos a hacer; no vamos a ceder un ápice en nuestras políticas”",
-      "tituloLimpio": "Javier Milei: 'El gobierno de Macri se dejó correr, nosotros no vamos a ceder'",
-      "resumen": "El presidente recordó la experiencia de Cambiemos y defendió el rumbo económico en un foro regional de derecha realizado en Santiago de Chile. Además, volvió a criticar a Pedro Sánchez y habló de 'un gobierno de ladrones' en España.",
-      "porQueImporta": "Declaraciones políticas del presidente argentino que marcan su postura y la dirección de su gobierno.",
-      "publicadoEn": "2026-09-03T15:35:55.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/SGI2ZMQIJ5BPZHKPNOVLSK7YMY.JPG?auth=7787251e040d9a0a6d87c55994f6b0c81eb71ddc52fc72dde1a147bb361314ce&smart=true&width=2197&height=1465",
-      "globalScore": 98,
+      "url": "https://www.infobae.com/politica/2026/09/03/argentina-pone-a-prueba-link-16-la-tecnologia-que-permitira-a-los-f-16-compartir-informacion-con-los-aviones-de-vigilancia-de-la-armada/",
+      "tituloOriginal": "Argentina pone a prueba Link 16, la tecnología que permitirá a los F-16 compartir información con los aviones de vigilancia de la Armada",
+      "tituloLimpio": "Argentina pone a prueba Link 16, la tecnología que permitirá a los F-16 compartir información con los aviones de vigilancia de la Armada",
+      "resumen": "Las primeras pruebas entre los F-16 y los P-3C Orion permiten avanzar en la coordinación de las capacidades de combate, vigilancia y reconocimiento de ambas fuerzas.",
+      "porQueImporta": "Es una noticia relevante sobre la modernización tecnológica de las fuerzas armadas argentinas, lo que puede tener implicaciones geopolíticas y de seguridad nacional.",
+      "publicadoEn": "2026-09-03T19:33:24.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/K7BNF5IS5NASPLU3WD3JCG7D2U.jpg?auth=cbcac4707c27065915df1f566db6d555ee95220cda07ae4279331a034cabb5a3&smart=true&width=1920&height=1245",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "política",
-        "javier milei",
-        "gobierno"
+        "tecnologia",
+        "defensa",
+        "seguridad"
       ],
       "tambienVistoEn": []
     },
@@ -441,21 +433,20 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid03092026/",
-      "tituloOriginal": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este jueves 3 de septiembre, minuto a minuto",
-      "tituloLimpio": "Dólar hoy y dólar blue en vivo: cotizaciones del oficial y paralelo",
-      "resumen": "La divisa oficial opera a $1535 para la venta en el Banco Nación; el dólar blue cotiza a $1540 para esa operación; qué pasa con el MEP y el CCL.",
-      "porQueImporta": "Información esencial sobre la cotización del dólar en Argentina, crucial para la economía personal y de negocios.",
-      "publicadoEn": "2026-09-03T15:36:22.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/LG4BIHEIJVDPBPOUIQCH54G5NU.jpg?auth=921cd60e3d7a49ccdd28449c9693494494e38e6e60d52cd9a87c7dc7eeb4ccde&smart=true&width=2000&height=1333",
-      "globalScore": 98,
+      "url": "https://www.lanacion.com.ar/economia/campo/periodo-de-prueba-tras-meses-de-crisis-una-planta-de-la-firma-lactea-veronica-reabrio-y-procesara-nid03092026/",
+      "tituloOriginal": "“Período de prueba”: tras meses de crisis, una planta de la firma láctea Verónica reabrió y procesará leche a fasón",
+      "tituloLimpio": "Una planta de la firma láctea Verónica reabrió y procesará leche a fasón",
+      "resumen": "En Suardi, Santa Fe, a través de la firma Copalac, una planta de la firma láctea Verónica reabrió y en una primera etapa elaborará leche en polvo y más adelante quesos.",
+      "porQueImporta": "Es una señal positiva de reactivación económica en el sector lácteo argentino, lo que puede indicar oportunidades de inversión o mejora en la cadena de valor.",
+      "publicadoEn": "2026-09-03T19:34:33.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/LG6WV4AAOFBVFIWWIUVU7DBTAE.png?auth=45c749958deda514d997bb54334f17e4b9f1b4543933a8e7df70548faa9accac&smart=true&width=2000&height=1333",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "dólar",
-        "dólar blue",
-        "economía",
-        "cotización"
+        "economia",
+        "negocios",
+        "industria lactea"
       ],
       "tambienVistoEn": []
     },
@@ -463,26 +454,26 @@
       "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Politica",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-tension-con-los-industriales-y-los-preparativos-para-la-visita-nid03092026/",
-      "tituloOriginal": "Javier Milei y sus medidas, en vivo: en Chile, Milei cuestionó a la izquierda global y trató de ladrón a Pedro Sánchez",
-      "tituloLimpio": "Javier Milei en Chile: cuestionó a la izquierda global y criticó a Pedro Sánchez",
-      "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios.",
-      "porQueImporta": "Más declaraciones de Milei desde un foro internacional, reforzando su postura ideológica y sus críticas a otros líderes.",
-      "publicadoEn": "2026-09-03T15:52:00.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/BUJMHFHK3BBQBGGMIGUKSQBN7U.JPG?auth=5f9c3ad9667445ec32a6b4051b858380747aa134a610cd88b8c215b2ad385975&smart=true&width=2000&height=1336",
-      "globalScore": 94,
+      "url": "https://www.lanacion.com.ar/politica/milei-vuelve-de-chile-y-graba-la-cadena-nacional-por-malvinas-acompanado-por-su-gabinete-nid03092026/",
+      "tituloOriginal": "Milei volvió de Chile y graba la cadena nacional por Malvinas acompañado por su Gabinete",
+      "tituloLimpio": "Milei graba cadena nacional por Malvinas acompañado por su Gabinete",
+      "resumen": "Milei volvió de Chile y graba la cadena nacional por Malvinas acompañado por su Gabinete. La grabación comenzó pasadas las 16 y se emitirá a las 21; el mensaje duraría unos 20 minutos.",
+      "porQueImporta": "Es un evento político importante en Argentina que refleja la postura del gobierno sobre un tema sensible y puede tener implicaciones en la política exterior y la opinión pública.",
+      "publicadoEn": "2026-09-03T19:30:56.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/ZXLXR3QTKNERDCIPFXH2RZCOF4.jpg?auth=96a1b1b5ef09ca40797115009354816d222a34a65750617f1e180e78be37da88&smart=true&width=2000&height=1333",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "política",
-        "javier milei",
-        "relaciones internacionales"
+        "politica",
+        "milei",
+        "malvinas"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-09-03T16:02:20.167Z"
+    "generadoEn": "2026-09-03T19:39:39.292Z"
   }
 }
