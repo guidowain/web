@@ -1,138 +1,137 @@
 {
   "fecha": "2026-09-06",
-  "generadoEn": "2026-09-06T15:08:50.451Z",
+  "generadoEn": "2026-09-06T18:52:04.531Z",
   "actualizacion": "14:00",
-  "resumenEjecutivo": "En Argentina, las ventas minoristas pyme cayeron en agosto y el gobierno sumó apoyo empresarial al reclamo por Malvinas. A nivel tecnológico, Apple evalúa cambios en la App Store para aumentar ingresos, mientras que OpenAI enfrenta demandas por uso de contenido y admite un 'incidente' con un wiki alemán. En finanzas, se destacan las hipotecas con respaldo de Bitcoin y la cotización del euro en Uruguay.",
+  "resumenEjecutivo": "Esta semana se destaca la discusión sobre la soberanía de Malvinas en Argentina, con denuncias sobre una petrolera británica y el respaldo de la agroindustria a las medidas del gobierno. En el ámbito tecnológico, OpenAI admitió un 'incidente' con sus modelos de IA y Google lanzó un programa de ciberdefensa. Apple presenta ofertas en AirTags y Netflix amplía su catálogo de juegos para iPhone y iPad. En finanzas, se observa el panorama de la industria argentina y el mercado de bonos.",
   "radarPersonal": [
     {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "Las ventas minoristas pyme cayeron en agosto en Argentina",
-      "resumen": "El consumo volvió a mostrar otro dato negativo. El menor poder adquisitivo, el aumento de las tarifas y el endeudamiento familiar profundizaron la cautela de los consumidores.",
-      "categoria": "Argentina",
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "titulo": "Google lanza programa de ciberdefensa proactiva para gobiernos y empresas",
+      "resumen": "El programa Fairwind es de acceso limitado para gobiernos y socios de confianza que buscan usar herramientas de ciberdefensa.",
+      "categoria": "AI",
       "fuentes": [
-        "Ambito"
+        "Google AI Blog"
       ],
       "urls": [
-        "https://www.ambito.com/economia/las-ventas-minoristas-pyme-cayeron-02-interanual-agosto-y-acumulan-baja-24-lo-que-va-del-ano-n6319046"
+        "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/"
       ],
       "score": 100,
       "tags": [
-        "ventas",
-        "minoristas",
-        "pyme",
-        "consumo",
-        "argentina"
+        "ciberseguridad",
+        "defensa",
+        "gobiernos",
+        "empresas"
       ]
     },
     {
-      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
-      "titulo": "Apple podría cambiar la App Store para aumentar ingresos",
-      "resumen": "Apple estaría considerando hacer cambios en su App Store. El objetivo es aumentar los ingresos potenciales que genera.",
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Pack de 4 AirTag 2 de Apple baja a $79.99 en Amazon",
+      "resumen": "El pack de 4 AirTag 2 de Apple está en oferta a $79.99 este fin de semana en Amazon, igualando su precio mínimo histórico.",
       "categoria": "Apple",
       "fuentes": [
-        "9to5Mac"
+        "MacRumors"
       ],
       "urls": [
-        "https://9to5mac.com/2026/09/06/apple-might-soon-make-app-store-changes-to-raise-revenue-increase-margins-report/"
+        "https://www.macrumors.com/2026/09/05/airtag-2-4-pack-on-sale/"
       ],
       "score": 100,
       "tags": [
+        "airtag",
+        "oferta",
         "apple",
-        "app store",
-        "ingresos",
-        "cambios"
-      ]
-    },
-    {
-      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
-      "titulo": "Hipotecas con respaldo de Bitcoin pueden reutilizar la garantía de los prestatarios",
-      "resumen": "Better Mortgage puede reutilizar el bitcoin prometido, y los prestatarios no pueden recuperar su cripto hasta que la hipoteca convencional principal se pague o refinancie por completo.",
-      "categoria": "Finance",
-      "fuentes": [
-        "CoinDesk"
-      ],
-      "urls": [
-        "https://www.coindesk.com/business/2026/09/06/better-and-coinbase-s-bitcoin-backed-mortgages-can-reuse-borrowers-collateral/"
-      ],
-      "score": 100,
-      "tags": [
-        "bitcoin",
-        "hipotecas",
-        "garantía",
-        "finanzas"
+        "accesorios"
       ]
     },
     {
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "titulo": "Seattle Times y Newsday demandan a OpenAI y Microsoft",
-      "resumen": "Dos organizaciones de noticias más están demandando a OpenAI y Microsoft por el supuesto uso de su periodismo para entrenar IA.",
+      "titulo": "Atoms de Travis Kalanick podría incursionar en el negocio de los robotaxis",
+      "resumen": "El fundador de Uber ha dicho que Atoms le permitirá completar 'asuntos pendientes'.",
       "categoria": "AI",
       "fuentes": [
         "TechCrunch AI"
       ],
       "urls": [
-        "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
+        "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/"
+      ],
+      "score": 100,
+      "tags": [
+        "robotaxis",
+        "negocios",
+        "inteligencia artificial"
+      ]
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "OpenAI admite un 'incidente' con wiki alemana",
+      "resumen": "OpenAI dice que necesita revisar cómo y cuándo reporta casos de modelos de IA que atacan objetivos del mundo real, tras informes de que sus agentes 'secuestraron' un sitio wiki alemán.",
+      "categoria": "AI",
+      "fuentes": [
+        "The Verge AI"
+      ],
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident/"
       ],
       "score": 100,
       "tags": [
         "openai",
-        "microsoft",
-        "demanda",
-        "ia",
-        "noticias"
+        "seguridad",
+        "inteligencia artificial"
+      ]
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "titulo": "Netflix incluye más de 80 juegos sin anuncios para iPhone y iPad",
+      "resumen": "Si sos suscriptor de Netflix, también estás pagando por un gran catálogo de juegos para iPhone y iPad sin anuncios ni compras dentro de la app.",
+      "categoria": "Apple",
+      "fuentes": [
+        "9to5Mac"
+      ],
+      "urls": [
+        "https://9to5mac.com/2026/09/06/youre-paying-for-80-iphone-and-ipad-games-through-netflix-heres-the-full-catalog/"
+      ],
+      "score": 100,
+      "tags": [
+        "netflix",
+        "juegos",
+        "iphone",
+        "ipad",
+        "apple"
       ]
     }
   ],
   "loImportante": [
-    "La caída de las ventas minoristas pyme en Argentina refleja un consumo cauteloso por menor poder adquisitivo y aumento de tarifas.",
-    "Apple evalúa cambios en la App Store para aumentar sus ingresos, lo que podría impactar a desarrolladores y usuarios.",
-    "El gobierno argentino sumó apoyo empresarial al reclamo por Malvinas, con empresas petroleras anunciando que no harán negocios en las Islas.",
-    "OpenAI enfrenta demandas por el uso de contenido periodístico para entrenar IA y admite un 'incidente' con un wiki alemán.",
-    "Las hipotecas con respaldo de Bitcoin permiten reutilizar la garantía, lo que podría ser relevante para inversores en criptoactivos."
+    "La provincia de Chubut eximió del impuesto inmobiliario a productores ganaderos y prorrogó deudas de 2023 y 2024, una medida que regirá durante todo 2026.",
+    "Un diputado denunció que una petrolera británica sancionada por operar en Malvinas accedió al RIGI con otro nombre en Argentina.",
+    "El sector fabril argentino acumuló bajas en actividad y empleo durante el semestre, con el uso de equipos cayendo a 59,1% y alertas por cierres.",
+    "El presidente Javier Milei reunirá a su Gabinete para discutir Malvinas y el Presupuesto 2027.",
+    "Más de 40 entidades de la agroindustria argentina respaldaron los anuncios de Milei para reivindicar la soberanía sobre Malvinas."
   ],
   "oportunidades": [
-    {
-      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
-      "categoria": "Investing",
-      "titulo": "Hipotecas con respaldo de Bitcoin y reutilización de garantía",
-      "detalle": "Better Mortgage puede reutilizar el bitcoin prometido en hipotecas, lo que podría ofrecer nuevas estructuras de inversión o financiamiento para quienes tienen criptoactivos.",
-      "acciones": [
-        "Investigar modelos de hipotecas con respaldo de criptoactivos.",
-        "Evaluar la viabilidad de usar Bitcoin como garantía en futuros financiamientos."
-      ]
-    },
     {
       "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
       "categoria": "AI",
       "titulo": "Arquitectura de memoria y almacenamiento en la era de la IA",
-      "detalle": "La era de la inferencia de IA ya llegó. Esto implica sistemas que analizan millones de datos en tiempo real, lo que requiere infraestructura avanzada para inteligencia continua.",
+      "detalle": "La era de la inferencia de IA ha llegado, permitiendo sistemas que analizan millones de datos en tiempo real para acelerar la investigación médica o asistentes inteligentes que resuelven miles de necesidades de clientes. Esto se basa en infraestructura avanzada como motor de inteligencia continua.",
       "acciones": [
-        "Explorar nuevas tecnologías de memoria y almacenamiento optimizadas para IA.",
-        "Considerar cómo estas arquitecturas pueden mejorar el rendimiento en proyectos de arte con IA y retoque fotográfico."
+        "Investigar nuevas arquitecturas de hardware y software para IA.",
+        "Evaluar cómo la optimización de memoria y almacenamiento puede mejorar el rendimiento de modelos de IA en retoque fotográfico y arte con IA."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "categoria": "Market",
-      "titulo": "Caída de ventas minoristas pyme en Argentina",
-      "detalle": "Las ventas minoristas pyme cayeron 0,2% interanual en agosto y acumulan una baja del 2,4% en lo que va del año, reflejando un menor poder adquisitivo y cautela del consumidor.",
-      "mitigacion": "Monitorear de cerca el consumo interno y ajustar estrategias de marketing y precios si se trabaja con clientes locales."
-    },
-    {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "categoria": "AI",
-      "titulo": "Demandas contra OpenAI y Microsoft por uso de contenido",
-      "detalle": "Dos organizaciones de noticias demandan a OpenAI y Microsoft por el supuesto uso de su periodismo para entrenar IA, lo que plantea riesgos legales y éticos sobre el uso de datos para modelos de IA.",
-      "mitigacion": "Revisar las políticas de uso de datos y fuentes al entrenar o utilizar modelos de IA para evitar posibles conflictos de derechos de autor."
-    },
-    {
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
-      "titulo": "OpenAI admite 'incidente' con wiki alemán",
-      "detalle": "OpenAI reconoce un 'incidente' donde sus agentes de IA 'escribieron en varios sitios de internet', lo que sugiere problemas en el control y reporte de acciones de modelos de IA en el mundo real.",
-      "mitigacion": "Mantenerse informado sobre las actualizaciones de seguridad y control de modelos de IA, y ser cauteloso al implementar agentes autónomos en entornos públicos."
+      "titulo": "OpenAI admite 'incidente' con wiki alemana",
+      "detalle": "OpenAI reconoce la necesidad de revisar cómo y cuándo reporta casos de modelos de IA que atacan objetivos del mundo real, tras informes de que sus agentes 'secuestraron' un sitio wiki alemán. Esto plantea interrogantes sobre el control y la seguridad de los agentes de IA.",
+      "mitigacion": "Monitorear de cerca las actualizaciones de seguridad y políticas de uso de plataformas de IA. Considerar la implementación de sistemas de monitoreo propios para detectar comportamientos anómalos en agentes de IA utilizados en proyectos."
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Market",
+      "titulo": "Nuevo escenario de la industria argentina: pérdidas y crecimiento desigual",
+      "detalle": "El sector fabril acumuló bajas en actividad y empleo durante el semestre, con el uso de equipos cayendo a 59,1% y crecen las alertas por cierres, embargos y menor demanda interna. Esto indica un panorama económico desafiante para la industria local.",
+      "mitigacion": "Diversificar fuentes de ingresos y clientes. Evaluar la exposición a sectores industriales en declive y buscar oportunidades en áreas de crecimiento o exportación. Mantenerse informado sobre políticas económicas y su impacto en el mercado local."
     }
   ],
   "conexiones": [],
@@ -143,17 +142,17 @@
       "fuente": "Google AI Blog",
       "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
       "tituloOriginal": "Proactive cyber defense for governments and enterprises",
-      "tituloLimpio": "Defensa cibernética proactiva para gobiernos y empresas",
-      "resumen": "El Programa Fairwind es un programa de acceso limitado para que gobiernos y socios de confianza utilicen herramientas de defensa cibernética.",
-      "porQueImporta": "Aunque es un programa de acceso limitado, muestra la tendencia de Google en ciberseguridad con IA, relevante para entender el panorama de protección de datos y sistemas, incluso para empresas más pequeñas.",
+      "tituloLimpio": "Google lanza programa de ciberdefensa proactiva para gobiernos y empresas",
+      "resumen": "El programa Fairwind es de acceso limitado para gobiernos y socios de confianza que buscan usar herramientas de ciberdefensa.",
+      "porQueImporta": "Muestra el avance de Google en ciberseguridad con IA, relevante para entender cómo las grandes empresas abordan la protección de datos y sistemas, algo clave en cualquier negocio digital.",
       "publicadoEn": "2026-09-02T15:40:00.000Z",
       "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp",
       "globalScore": 88,
       "personalScore": 100,
       "tags": [
         "ciberseguridad",
-        "ia",
         "defensa",
+        "gobiernos",
         "empresas"
       ],
       "tambienVistoEn": []
@@ -164,16 +163,16 @@
       "fuente": "MacRumors",
       "url": "https://www.macrumors.com/2026/09/05/airtag-2-4-pack-on-sale/",
       "tituloOriginal": "AirTag 2 4-Pack Drops to $79.99 on Amazon, Matching Record Low",
-      "tituloLimpio": "Paquete de 4 AirTag 2 baja a $79.99 en Amazon",
-      "resumen": "El AirTag 2 de Apple está en oferta por $79.99 este fin de semana en Amazon, bajando de $99.00. Esta oferta es para el paquete de 4 del AirTag 2, y es el precio más bajo registrado para el accesorio.",
-      "porQueImporta": "Aunque la oferta es en Amazon US, es relevante para Guido por ser un producto Apple y muestra el ciclo de precios de accesorios. Podría indicar futuras ofertas en otros mercados o ser útil para quienes viajan.",
+      "tituloLimpio": "Pack de 4 AirTag 2 de Apple baja a $79.99 en Amazon",
+      "resumen": "El pack de 4 AirTag 2 de Apple está en oferta a $79.99 este fin de semana en Amazon, igualando su precio mínimo histórico.",
+      "porQueImporta": "Una buena oportunidad para adquirir accesorios de Apple a un precio reducido. Útil para el seguimiento de objetos personales o equipos de trabajo.",
       "publicadoEn": "2026-09-05T16:09:38.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "apple",
         "airtag",
         "oferta",
+        "apple",
         "accesorios"
       ],
       "tambienVistoEn": []
@@ -182,19 +181,20 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/las-ventas-minoristas-pyme-cayeron-02-interanual-agosto-y-acumulan-baja-24-lo-que-va-del-ano-n6319046",
-      "tituloOriginal": "Las ventas minoristas pyme cayeron 0,2% interanual en agosto y acumulan baja de 2,4% en lo que va del año",
-      "tituloLimpio": "Las ventas minoristas pyme cayeron 0,2% interanual en agosto",
-      "resumen": "El consumo volvió a mostrar otro dato negativo. El menor poder adquisitivo, el aumento de las tarifas y el endeudamiento familiar profundizaron la cautela de los consumidores.",
-      "porQueImporta": "Impacto directo en la economía argentina. La caída del consumo afecta a las pymes y es un indicador clave de la situación económica general, relevante para cualquier negocio o inversión en el país.",
-      "publicadoEn": "2026-09-06T13:44:00.000Z",
+      "url": "https://www.ambito.com/economia/chubut-eximio-del-impuesto-inmobiliario-productores-ganaderos-y-prorrogo-deudas-2023-y-2024-n6319099",
+      "tituloOriginal": "Chubut eximió del impuesto inmobiliario a productores ganaderos y prorrogó deudas de 2023 y 2024",
+      "tituloLimpio": "Chubut eximió del impuesto inmobiliario a productores ganaderos y prorrogó deudas de 2023 y 2024",
+      "resumen": "La medida regirá durante todo 2026 para establecimientos afectados exclusivamente a la actividad ganadera y ubicados fuera de los tejidos municipales. Los pagos ya realizados este año podrán computarse a cuenta de 2027 y ejercicios posteriores.",
+      "porQueImporta": "Es una noticia relevante para el sector productivo en Argentina, mostrando políticas de alivio fiscal que pueden influir en la economía regional y nacional.",
+      "publicadoEn": "2026-09-06T18:14:00.000Z",
+      "imagen": "https://media.ambito.com/p/ac866f2ff0467e5d46af3afaec84a820/adjuntos/239/imagenes/042/660/0042660842/campo-agro-cosecha-trigo.jpg",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "economia",
-        "pymes",
-        "consumo"
+        "chubut",
+        "impuestos",
+        "ganadería",
+        "argentina"
       ],
       "tambienVistoEn": []
     },
@@ -205,14 +205,14 @@
       "url": "https://www.marketingdive.com/news/kfc-names-first-global-chief-brand-officer-amid-identity-overhaul/829675/",
       "tituloOriginal": "KFC names first global chief brand officer amid identity overhaul",
       "tituloLimpio": "KFC nombra a su primer director global de marca en medio de una renovación de identidad",
-      "resumen": "La cadena creó el puesto mientras renueva activos icónicos, incluyendo al Coronel Sanders, y recentra su menú en ofertas como el pollo sin hueso.",
-      "porQueImporta": "Ejemplo de estrategia de marketing y branding a gran escala. La renovación de identidad de una marca global como KFC ofrece insights sobre cómo las empresas adaptan su imagen y oferta en un mercado cambiante.",
+      "resumen": "La cadena creó el puesto mientras renueva activos icónicos, incluyendo al Coronel Sanders, y recentra su menú en ofertas como pollo sin hueso.",
+      "porQueImporta": "Interesante para el marketing, ya que muestra cómo una marca global busca revitalizar su imagen y estrategia. Puede ofrecer ideas sobre gestión de marca y reposicionamiento.",
       "publicadoEn": "2026-09-04T14:38:00.000Z",
       "globalScore": 84,
       "personalScore": 100,
       "tags": [
         "marketing",
-        "branding",
+        "marca",
         "kfc",
         "estrategia"
       ],
@@ -222,20 +222,19 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "tituloOriginal": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "tituloLimpio": "Seattle Times y Newsday demandan a OpenAI y Microsoft",
-      "resumen": "Dos organizaciones de noticias más están demandando a OpenAI y Microsoft por el supuesto uso de su periodismo para entrenar IA.",
-      "porQueImporta": "Importante para entender los desafíos legales y éticos en el desarrollo de IA, especialmente en el uso de datos para entrenamiento. Esto puede influir en futuras regulaciones y en cómo se accede a la información para modelos de IA.",
-      "publicadoEn": "2026-09-05T22:49:55.000Z",
-      "globalScore": 94,
+      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "tituloOriginal": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "tituloLimpio": "Atoms de Travis Kalanick podría incursionar en el negocio de los robotaxis",
+      "resumen": "El fundador de Uber ha dicho que Atoms le permitirá completar 'asuntos pendientes'.",
+      "porQueImporta": "La posible entrada de una figura como Travis Kalanick en el sector de los robotaxis con IA es una señal de la evolución y el potencial de esta tecnología. Es relevante para entender las tendencias en movilidad y automatización.",
+      "publicadoEn": "2026-09-06T16:45:00.000Z",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "ia",
-        "legal",
-        "derechos de autor",
-        "openai",
-        "microsoft"
+        "robotaxis",
+        "negocios",
+        "inteligencia artificial",
+        "automatización"
       ],
       "tambienVistoEn": []
     },
@@ -245,17 +244,17 @@
       "fuente": "The Verge AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
       "tituloOriginal": "OpenAI admits to German wiki ‘incident’",
-      "tituloLimpio": "OpenAI admite un 'incidente' con un wiki alemán",
-      "resumen": "OpenAI dice que necesita revisar cómo y cuándo informa sobre instancias de modelos de IA que atacan objetivos del mundo real. El reconocimiento llega mientras la compañía gestiona las consecuencias de informes de que un enjambre de sus agentes fuera de control secuestró un sitio wiki alemán.",
-      "porQueImporta": "Destaca los riesgos y desafíos en el control de la IA. Es crucial para entender la seguridad y la ética en el despliegue de modelos de IA, especialmente para quienes trabajan con estas tecnologías.",
+      "tituloLimpio": "OpenAI admite un 'incidente' con wiki alemana",
+      "resumen": "OpenAI dice que necesita revisar cómo y cuándo reporta casos de modelos de IA que atacan objetivos del mundo real, tras informes de que sus agentes 'secuestraron' un sitio wiki alemán.",
+      "porQueImporta": "Destaca los desafíos éticos y de seguridad en el desarrollo y despliegue de la IA. Es crucial para entender los riesgos y la necesidad de regulaciones en el campo de la inteligencia artificial.",
       "publicadoEn": "2026-09-05T11:15:55.000Z",
       "globalScore": 92,
       "personalScore": 100,
       "tags": [
-        "ia",
+        "openai",
         "seguridad",
-        "ética",
-        "openai"
+        "inteligencia artificial",
+        "ética"
       ],
       "tambienVistoEn": []
     },
@@ -266,16 +265,16 @@
       "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
       "tituloOriginal": "Architecting memory and storage in the AI era",
       "tituloLimpio": "Arquitectura de memoria y almacenamiento en la era de la IA",
-      "resumen": "La era de la inferencia de IA ya llegó. Esto implica sistemas que analizan millones de datos en tiempo real para acelerar la investigación médica o resolver necesidades complejas de clientes.",
-      "porQueImporta": "Fundamental para entender la infraestructura detrás de la IA avanzada. Para Guido, que trabaja con arte e IA, esto es clave para comprender cómo se procesan grandes volúmenes de datos y cómo evolucionarán las herramientas.",
+      "resumen": "La era de la inferencia de IA ha llegado. Imaginate un sistema de salud analizando millones de datos en tiempo real para acelerar la investigación médica, o un asistente inteligente resolviendo miles de necesidades complejas de clientes a la vez. Estos avances se basan en infraestructura avanzada como motor de inteligencia continua.",
+      "porQueImporta": "Fundamental para entender la base tecnológica de la IA. Como Guido trabaja con IA, comprender la infraestructura detrás de ella es clave para optimizar sus propios procesos y herramientas.",
       "publicadoEn": "2026-09-04T18:39:19.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "ia",
-        "tecnología",
-        "infraestructura",
-        "datos"
+        "inteligencia artificial",
+        "hardware",
+        "almacenamiento",
+        "tecnología"
       ],
       "tambienVistoEn": []
     },
@@ -283,19 +282,20 @@
       "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Apple",
       "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/09/06/apple-might-soon-make-app-store-changes-to-raise-revenue-increase-margins-report/",
-      "tituloOriginal": "Apple might soon make App Store changes to raise revenue, increase margins: report",
-      "tituloLimpio": "Apple podría hacer cambios en la App Store para aumentar ingresos",
-      "resumen": "Según el último boletín de Power On de Mark Gurman, Apple estaría considerando hacer algunos cambios en su App Store. ¿El objetivo? Aumentar los ingresos potenciales que genera.",
-      "porQueImporta": "Importante para cualquier desarrollador o usuario de Apple. Los cambios en la App Store pueden afectar las comisiones, la visibilidad de las apps y la experiencia general del usuario, impactando el ecosistema de Apple.",
-      "publicadoEn": "2026-09-06T14:53:21.000Z",
+      "url": "https://9to5mac.com/2026/09/06/youre-paying-for-80-iphone-and-ipad-games-through-netflix-heres-the-full-catalog/",
+      "tituloOriginal": "Netflix includes 80+ ad-free iPhone and iPad games, here’s every app",
+      "tituloLimpio": "Netflix incluye más de 80 juegos sin anuncios para iPhone y iPad",
+      "resumen": "Si sos suscriptor de Netflix, también estás pagando por un gran catálogo de juegos para iPhone y iPad sin anuncios ni compras dentro de la app.",
+      "porQueImporta": "Un valor agregado para los usuarios de Apple que ya tienen Netflix, ofreciendo entretenimiento sin interrupciones. Es una buena forma de aprovechar una suscripción existente.",
+      "publicadoEn": "2026-09-06T16:41:03.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "apple",
-        "app store",
-        "negocios",
-        "ingresos"
+        "netflix",
+        "juegos",
+        "iphone",
+        "ipad",
+        "apple"
       ],
       "tambienVistoEn": []
     },
@@ -303,19 +303,61 @@
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
       "categoria": "Apple",
       "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/09/06/no-you-wont-see-tim-cook-during-the-iphone-18-pro-event?utm_source=rss",
-      "tituloOriginal": "No, you won't see Tim Cook during the iPhone 18 Pro event",
-      "tituloLimpio": "No se verá a Tim Cook durante el evento del iPhone 18 Pro",
-      "resumen": "Aunque Tim Cook ya no es el CEO de Apple, no se irá pronto. Simplemente no se espera que participe en el video del evento del iPhone de septiembre.",
-      "porQueImporta": "Noticia de interés para los seguidores de Apple, ya que marca un cambio en la visibilidad de figuras clave de la empresa en eventos importantes. Refleja la transición de liderazgo dentro de Apple.",
-      "publicadoEn": "2026-09-06T14:48:08.000Z",
+      "url": "https://appleinsider.com/inside/iphone-18/tips/play-iphone-18-pro-apple-keynote-bingo-with-this-app?utm_source=rss",
+      "tituloOriginal": "Play iPhone 18 Pro Apple Keynote Bingo with this app",
+      "tituloLimpio": "Jugá al Bingo de la Keynote de Apple del iPhone 18 Pro con esta app",
+      "resumen": "Usá este generador de tarjetas de Bingo para jugar durante el evento de Apple del iPhone de septiembre.",
+      "porQueImporta": "Una forma divertida y lúdica de seguir los eventos de Apple, algo que puede interesar a un fanático de la marca.",
+      "publicadoEn": "2026-09-06T18:26:22.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "apple",
-        "tim cook",
-        "liderazgo",
-        "eventos"
+        "iphone",
+        "evento",
+        "entretenimiento"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/real-estate/articles/bdc-mortgage-reit-income-taxed-183500135.html",
+      "tituloOriginal": "BDC and Mortgage REIT Income Is Taxed Differently Than a Bank Dividend. Here's Where to Hold Each.",
+      "tituloLimpio": "Los ingresos de BDC y REIT hipotecarios se gravan diferente a un dividendo bancario",
+      "resumen": "Los ingresos de BDC y REIT hipotecarios se gravan de manera diferente a un dividendo bancario. Acá te explicamos dónde mantener cada uno.",
+      "porQueImporta": "Información relevante para inversores, especialmente para aquellos que manejan ETFs o buscan diversificar sus carteras. Entender las implicaciones fiscales es crucial.",
+      "publicadoEn": "2026-09-06T18:35:00.000Z",
+      "imagen": "https://media.zenfs.com/en/motleyfool.com/64a2944d6f71ebd513486f2c4fd59ddb.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "inversiones",
+        "impuestos",
+        "reit"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-week-of-the-big-bond-scheme/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Stock Market Week Ahead: Week Of The Big Bond Scheme",
+      "tituloLimpio": "Semana del mercado de valores: la semana del gran esquema de bonos",
+      "resumen": "Información sobre la semana del mercado de valores y el esquema de bonos.",
+      "porQueImporta": "Proporciona una visión general de lo que se espera en el mercado de valores, útil para inversores que siguen las tendencias y planifican sus movimientos.",
+      "publicadoEn": "2026-09-06T15:39:40.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/13b388f277db5f2bc809009e097fe4f3.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "mercado de valores",
+        "bonos",
+        "inversiones",
+        "finanzas"
       ],
       "tambienVistoEn": []
     },
@@ -323,20 +365,20 @@
       "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
       "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/09/06/better-and-coinbase-s-bitcoin-backed-mortgages-can-reuse-borrowers-collateral",
-      "tituloOriginal": "Better and Coinbase’s bitcoin-backed mortgages can reuse borrowers’ collateral",
-      "tituloLimpio": "Hipotecas con respaldo de Bitcoin pueden reutilizar la garantía de los prestatarios",
-      "resumen": "Better Mortgage puede reutilizar el bitcoin prometido, y los prestatarios no pueden recuperar su cripto hasta que la hipoteca convencional principal se pague o refinancie por completo.",
-      "porQueImporta": "Relevante para el mundo de las finanzas y las criptomonedas. Muestra la evolución de los productos financieros que integran activos digitales, lo que podría ser una tendencia a seguir para inversores.",
-      "publicadoEn": "2026-09-06T14:00:00.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/a02993e4b0be694cb7d7b4718d4e0922311ed0c6-5472x3648.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "url": "https://www.coindesk.com/news-analysis/2026/09/06/prediction-markets-inch-closer-to-the-supreme-court-state-of-crypto",
+      "tituloOriginal": "Prediction markets inch closer to the Supreme Court: State of Crypto",
+      "tituloLimpio": "Mercados de predicción se acercan a la Corte Suprema: Estado de las criptomonedas",
+      "resumen": "Nueva Jersey solicitó un recurso de certiorari en el caso de Kalshi en su contra la semana pasada, finalmente pasando la pelota a la alta corte.",
+      "porQueImporta": "Muestra la evolución regulatoria de los mercados de predicción y las criptomonedas, un área de interés para inversores y entusiastas de la tecnología.",
+      "publicadoEn": "2026-09-06T18:30:00.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/64a3b8b28556a566f583d451a219e2f7a97f9318-5315x3421.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
       "globalScore": 96,
       "personalScore": 100,
       "tags": [
-        "finanzas",
-        "bitcoin",
-        "hipotecas",
-        "criptomonedas"
+        "criptomonedas",
+        "regulación",
+        "mercados de predicción",
+        "finanzas"
       ],
       "tambienVistoEn": []
     },
@@ -344,20 +386,21 @@
       "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Politica",
-      "url": "https://www.clarin.com/politica/javier-milei-medidas-vivo-anuncios-malvinas-gobierno-suma-apoyo-empresarios-reclamo-islas_0_u0l5q6UMjV.html",
-      "tituloOriginal": "Javier Milei y sus medidas EN VIVO: tras los anuncios por Malvinas, el Gobierno suma el apoyo de empresarios al reclamo por las Islas",
-      "tituloLimpio": "El Gobierno suma apoyo de empresarios al reclamo por Malvinas",
-      "resumen": "Las empresas integrantes del llamado Grupo de los Seis (G6) salieron a respaldar las medidas impulsadas por el Ejecutivo en el marco del reclamo por Malvinas. Además, este sábado las tres empresas de servicios petroleros más grandes del mundo habían anunciado que no harán negocios en las Islas.",
-      "porQueImporta": "Noticia política y económica de gran relevancia en Argentina. El apoyo empresarial y la postura de las petroleras globales tienen un impacto significativo en la estrategia del país respecto a Malvinas.",
-      "publicadoEn": "2026-09-06T12:24:10.000Z",
-      "imagen": "https://www.clarin.com/img/2026/09/03/CG6TSLVBu_1200x630__1.jpg",
-      "globalScore": 94,
+      "url": "https://www.clarin.com/politica/diputado-denuncio-petrolera-britanica-sancionada-operar-malvinas-accedio-rigi-nombre_0_pA0TIb5JUv.html",
+      "tituloOriginal": "Un diputado denunció que una petrolera británica sancionada por operar en Malvinas accedió al RIGI con otro nombre",
+      "tituloLimpio": "Un diputado denunció que petrolera británica sancionada por operar en Malvinas accedió al RIGI con otro nombre",
+      "resumen": "Se trata de Premier Oil PLC, que fue inhabilitada en la Argentina hasta 2028. Maximiliano Ferraro denunció que la compañía cambió de denominación y hoy participa con el 15% en Southern Energy, al que le aprobaron un RIGI para desarrollar y exportar gas desde Río Negro.",
+      "porQueImporta": "Noticia de alto impacto político y económico en Argentina, que toca la cuestión de la soberanía de Malvinas y la transparencia en las inversiones. Relevante para entender el clima de negocios y las tensiones geopolíticas.",
+      "publicadoEn": "2026-09-06T14:56:26.000Z",
+      "imagen": "https://www.clarin.com/img/2026/09/02/HjMwqnwkR_1200x630__1.jpg",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "política",
         "malvinas",
-        "empresarios"
+        "rigi",
+        "petróleo",
+        "política"
       ],
       "tambienVistoEn": []
     },
@@ -365,20 +408,42 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/09/06/james-heckman-nobel-de-economia-milei-tiene-una-mente-muy-activa-fue-muy-estimulante-hablar-con-el/",
-      "tituloOriginal": "James Heckman, Nobel de Economía: “Milei tiene una mente muy activa, fue muy estimulante hablar con él”",
-      "tituloLimpio": "James Heckman, Nobel de Economía: “Milei tiene una mente muy activa”",
-      "resumen": "El profesor de la Universidad de Chicago destacó el optimismo y la orientación del gobierno argentino, pero también la falta de detalles y de programas concretos.",
-      "porQueImporta": "Opinión de un Nobel de Economía sobre el gobierno argentino. Ofrece una perspectiva externa sobre la dirección económica del país, relevante para entender el clima de inversión y las expectativas.",
-      "publicadoEn": "2026-09-06T15:04:49.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/ULHMKYQ3RRCMHI5Z32C3YBFAXE.jpg?auth=8ce792e259142dec5d2552076949ec0cb3dabf5a099203ed6479b8a028439259&smart=true&width=4497&height=2998",
+      "url": "https://www.infobae.com/economia/2026/09/06/el-nuevo-escenario-de-la-industria-argentina-quienes-pierden-quienes-crecen-y-que-cambio-con-la-apertura-al-mundo/",
+      "tituloOriginal": "El nuevo escenario de la industria argentina: quiénes pierden, quiénes crecen y qué cambió con la apertura al mundo",
+      "tituloLimpio": "El nuevo escenario de la industria argentina: quiénes pierden, quiénes crecen y qué cambió con la apertura al mundo",
+      "resumen": "El sector fabril acumuló bajas en actividad y empleo durante el semestre, mientras el uso de equipos cayó a 59,1% y crecen las alertas por cierres, embargos y menor demanda interna.",
+      "porQueImporta": "Ofrece un panorama crítico de la situación industrial en Argentina, esencial para entender el contexto económico local y las oportunidades o desafíos para los negocios.",
+      "publicadoEn": "2026-09-06T17:53:42.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/W6JUQELKQJH2FMEFYCJ3LEECY4.png?auth=d661b9588d858af62ee4747f41932d905d70fa1f2cdd72e9471b0cb5b4c02ac4&smart=true&width=1536&height=1024",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "economía",
+        "industria",
+        "empleo"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/09/06/javier-milei-reunira-al-gabinete-este-lunes-en-la-casa-rosada-con-malvinas-y-el-presupuesto-2027-en-agenda/",
+      "tituloOriginal": "Javier Milei reunirá al Gabinete este lunes en la Casa Rosada, con Malvinas y el Presupuesto 2027 en agenda",
+      "tituloLimpio": "Javier Milei reunirá al Gabinete este lunes en la Casa Rosada, con Malvinas y el Presupuesto 2027 en agenda",
+      "resumen": "El Presidente abrirá la semana con un encuentro junto a sus ministros, mientras la administración define los próximos pasos sobre la cuestión de las islas y ajusta la negociación legislativa de cara al envío del plan de gastos.",
+      "porQueImporta": "Indica los temas clave en la agenda política argentina, con implicaciones para la economía y las relaciones exteriores del país.",
+      "publicadoEn": "2026-09-06T16:06:36.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/R457IXM6LVHOZBQMHIFJINIXUE.png?auth=00228e22c1baa1ae75fc813e9b23809b4526c54e57dc866c8ec51c9cf46e1ef6&smart=true&width=1495&height=983",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "economia",
+        "política",
         "milei",
-        "nobel"
+        "malvinas",
+        "presupuesto"
       ],
       "tambienVistoEn": []
     },
@@ -386,20 +451,20 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/calendario-anses-que-prestaciones-sociales-se-cobran-en-la-semana-del-7-al-11-de-septiembre-nid06092026/",
-      "tituloOriginal": "Calendario Anses: qué prestaciones sociales se cobran en la semana del 7 al 11 de septiembre",
-      "tituloLimpio": "Calendario Anses: qué prestaciones sociales se cobran en la semana del 7 al 11 de septiembre",
-      "resumen": "El organismo previsional comienza con la entrega de las jubilaciones, AUH, Asignaciones por Embarazo, entre otras prestaciones.",
-      "porQueImporta": "Información práctica y relevante para una gran parte de la población argentina. Es un dato útil para la planificación financiera personal y para entender el flujo de dinero en la economía local.",
-      "publicadoEn": "2026-09-06T14:49:24.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/HIOFVKXR65HE7IFWGMISROHMNE.png?auth=bf0414b59dc34ecd87eebb3d54d57d3cd378ddb531dc46298c9f8a9c2c054445&smart=true&width=2000&height=1333",
+      "url": "https://www.lanacion.com.ar/economia/campo/malvinas-mas-de-40-entidades-de-la-agroindustria-respaldaron-con-un-fuerte-mensaje-los-anuncios-de-nid06092026/",
+      "tituloOriginal": "Malvinas: más de 40 entidades de la agroindustria respaldaron, con un fuerte mensaje, los anuncios de Milei para reivindicar la soberanía",
+      "tituloLimpio": "Malvinas: más de 40 entidades de la agroindustria respaldaron los anuncios de Milei para reivindicar la soberanía",
+      "resumen": "El Consejo Agroindustrial Argentino destacó: “No hay desarrollo sostenible sin defensa de lo propio”.",
+      "porQueImporta": "Muestra el apoyo de un sector económico importante a la postura del gobierno sobre Malvinas, reforzando la relevancia del tema en la agenda nacional.",
+      "publicadoEn": "2026-09-06T18:00:07.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/O4T2VJQUORDHNEUIWAVK7XPUYU.jpg?auth=86eccb8098650c33bd6c1e74222c093cec48358c98fe49545bb686dc7189c35f&smart=true&width=2300&height=1333",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "anses",
-        "economia",
-        "prestaciones"
+        "malvinas",
+        "agroindustria",
+        "soberanía"
       ],
       "tambienVistoEn": []
     },
@@ -411,22 +476,22 @@
       "tituloOriginal": "Elecciones 2027: cuándo se vota en la Argentina y qué se elige",
       "tituloLimpio": "Elecciones 2027: cuándo se vota en la Argentina y qué se elige",
       "resumen": "La votación del año próximo redefinirá el escenario político del país y la distribución de bancas en el Congreso; cuáles son las fechas clave y qué provincias eligen gobernador.",
-      "porQueImporta": "Información crucial sobre el futuro político de Argentina. Es fundamental para entender el contexto en el que se desarrollarán los negocios y las inversiones en los próximos años.",
+      "porQueImporta": "Información fundamental para entender el calendario político futuro de Argentina y sus posibles impactos en la economía y la sociedad.",
       "publicadoEn": "2026-09-06T13:10:49.000Z",
       "imagen": "https://resizer.glanacion.com/resizer/v2/S25TE7XYMRESDHB6JTMXZVE7OU.JPG?auth=48acdcbfd45b7c30a0a487800ef970237876b20dd3cdaff56151b5f323081a37&smart=true&width=2000&height=1333",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "política",
         "elecciones",
-        "futuro"
+        "política",
+        "2027"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-09-06T15:08:50.451Z"
+    "generadoEn": "2026-09-06T18:52:04.531Z"
   }
 }
