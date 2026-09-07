@@ -1,0 +1,492 @@
+{
+  "fecha": "2026-09-07",
+  "generadoEn": "2026-09-07T17:31:37.328Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Hoy tenemos novedades importantes en el ámbito de la IA, con Google ofreciendo herramientas de ciberdefensa a gobiernos y disputas por derechos de autor entre autores, editoriales y empresas de IA. En Apple, se filtraron posibles características de la cámara del iPhone 18 Pro y sorpresas en watchOS 27. A nivel local, el dólar se mantiene contenido por intervención del BCRA, vuelven los créditos hipotecarios para monotributistas y la inflación de agosto podría ser la más baja de la era Milei. También se destacan las exportaciones de seis provincias argentinas que se duplicaron en tres años.",
+  "radarPersonal": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Posibles características de la cámara del iPhone 18 Pro filtradas en código",
+      "resumen": "Apple estaría trabajando en mejoras para la app de Cámara en iOS 27, con cinco características que podrían llegar con nuevos modelos de iPhone o futuras actualizaciones de software.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/09/07/five-iphone-18-pro-camera-features-seemingly-leak/"
+      ],
+      "score": 100,
+      "tags": [
+        "iphone",
+        "cámara",
+        "filtraciones",
+        "iOS"
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Vuelven los créditos hipotecarios para monotributistas en Argentina",
+      "resumen": "Varios bancos ofrecen créditos para monotributistas, con la opción de juntar facturas para demostrar mejores ingresos.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/vuelven-los-creditos-hipotecarios-monotributistas-requisitos-y-mejores-alternativas-n6319330"
+      ],
+      "score": 100,
+      "tags": [
+        "créditos hipotecarios",
+        "monotributistas",
+        "Argentina",
+        "finanzas"
+      ]
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "titulo": "watchOS 27 tendrá sorpresas, aunque el Apple Watch Series 12 no",
+      "resumen": "Se esperan mejoras menores en el hardware del Apple Watch Series 12, pero el código sugiere que las sorpresas vendrán en watchOS 27.",
+      "categoria": "Apple",
+      "fuentes": [
+        "AppleInsider"
+      ],
+      "urls": [
+        "https://appleinsider.com/articles/26/09/07/watchos-27-will-still-have-surprises-even-if-apple-watch-series-12-wont?utm_source=rss"
+      ],
+      "score": 100,
+      "tags": [
+        "Apple Watch",
+        "watchOS",
+        "actualización",
+        "hardware"
+      ]
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "titulo": "La inflación de agosto podría acercarse al número más bajo de la era Milei",
+      "resumen": "Consultoras privadas ubican el índice de inflación en hasta 1,4% mensual, con la incógnita de si esta desaceleración se mantendrá.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Clarin Economia"
+      ],
+      "urls": [
+        "https://www.clarin.com/economia/inflacion-agosto-ipc-podria-acercarse-numero-milei_0_B4wNWK9l43.html"
+      ],
+      "score": 100,
+      "tags": [
+        "inflación",
+        "Argentina",
+        "economía",
+        "IPC"
+      ]
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "titulo": "Seis provincias argentinas duplicaron sus exportaciones en tres años",
+      "resumen": "Del petróleo de Vaca Muerta a la minería del NOA y Cuyo, se destacan los bienes y lugares que lideran el salto exportador y el cambio en la geografía productiva del país.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Infobae Economia"
+      ],
+      "urls": [
+        "https://www.infobae.com/economia/2026/09/07/seis-provincias-duplicaron-sus-exportaciones-en-tres-anos-cuanto-facturan-y-cuales-son-sus-productos-estrella/"
+      ],
+      "score": 100,
+      "tags": [
+        "exportaciones",
+        "provincias",
+        "Argentina",
+        "economía"
+      ]
+    }
+  ],
+  "loImportante": [
+    "Google ofrece herramientas de ciberdefensa a gobiernos y socios de confianza a través de su programa Fairwind.",
+    "La IA está transformando la arquitectura de memoria y almacenamiento, siendo clave para sistemas de salud y asistentes inteligentes.",
+    "En Argentina, el dólar se mantiene contenido gracias a la intervención del Banco Central, que canjeó títulos por US$2000 millones.",
+    "El marketing de 'vuelta al cole' en 2026 muestra una mezcla de tecnología de IA y mensajes de valor, aunque el uso de IA no siempre garantiza ahorro.",
+    "La industria editorial enfrenta desafíos legales por el uso de contenido para entrenar modelos de IA, con autores y medios demandando a empresas como OpenAI y Microsoft."
+  ],
+  "oportunidades": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "titulo": "Ciberdefensa proactiva con IA para gobiernos y empresas",
+      "detalle": "El programa Fairwind de Google ofrece herramientas de ciberdefensa a gobiernos y socios de confianza. Esto podría indicar una tendencia hacia soluciones de seguridad avanzadas basadas en IA.",
+      "acciones": [
+        "Investigar proveedores de ciberseguridad con IA.",
+        "Evaluar la aplicación de IA en la protección de datos y sistemas."
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Investing",
+      "titulo": "Créditos hipotecarios para monotributistas en Argentina",
+      "detalle": "La vuelta de los créditos hipotecarios para monotributistas en Argentina, con la posibilidad de juntar facturas para mejorar ingresos, abre una ventana para la inversión inmobiliaria o la adquisición de vivienda.",
+      "acciones": [
+        "Analizar las ofertas de bancos para créditos hipotecarios.",
+        "Evaluar la viabilidad de inversión en propiedades en Argentina."
+      ]
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "IA en marketing y mensajes de valor",
+      "detalle": "El marketing actual combina la tecnología de IA con mensajes de valor. Esto sugiere la importancia de integrar la IA para optimizar campañas y la necesidad de comunicar el valor real de los productos o servicios.",
+      "acciones": [
+        "Explorar herramientas de IA para marketing y personalización.",
+        "Reforzar la propuesta de valor en las estrategias de comunicación."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "titulo": "Disputas por derechos de autor en acuerdos de IA",
+      "detalle": "Autores y editoriales están en desacuerdo sobre la distribución de pagos en acuerdos con empresas de IA como Anthropic, lo que podría generar incertidumbre legal y afectar la disponibilidad de contenido para entrenamiento de IA.",
+      "mitigacion": "Monitorear el desarrollo de marcos legales y acuerdos de licencia en el uso de contenido para IA. Asegurar el cumplimiento de derechos de autor en cualquier proyecto de IA."
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "titulo": "Demandas por infracción de derechos de autor contra OpenAI y Microsoft",
+      "detalle": "Medios como Seattle Times y Newsday demandan a OpenAI y Microsoft por usar su periodismo como datos de entrenamiento sin permiso. Esto subraya el riesgo legal asociado al uso de datos para IA sin licencias claras.",
+      "mitigacion": "Revisar las políticas de uso de datos y fuentes para modelos de IA. Priorizar el uso de datos con licencias explícitas o de dominio público."
+    },
+    {
+      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Market",
+      "titulo": "Intervención del BCRA para contener el dólar",
+      "detalle": "El Gobierno canjeó US$2000 millones en títulos al Banco Central para mantener contenido al dólar. Esta intervención puede generar una estabilidad artificial y riesgos a futuro si no se acompaña de medidas estructurales.",
+      "mitigacion": "Diversificar inversiones para mitigar la dependencia de la estabilidad del dólar. Monitorear de cerca las políticas económicas y monetarias del gobierno argentino."
+    }
+  ],
+  "conexiones": [
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "titulo": "La arquitectura de memoria y almacenamiento en la era de la IA",
+      "historias": [
+        "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+        "macrumors-aHR0cHM6Ly93d3cubWFj"
+      ],
+      "conclusion": "La necesidad de una arquitectura de memoria y almacenamiento avanzada para la IA (MIT Technology Review) se conecta directamente con el desarrollo de herramientas de ciberdefensa de Google y las mejoras en las cámaras de los iPhones. Esto sugiere que la IA no solo impulsa nuevas funcionalidades, sino que también exige una infraestructura de hardware y software más robusta y eficiente para procesar grandes volúmenes de datos en tiempo real, desde la seguridad hasta la fotografía computacional."
+    }
+  ],
+  "noticias": [
+    {
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      "tituloOriginal": "Proactive cyber defense for governments and enterprises",
+      "tituloLimpio": "Google lanza el programa Fairwind para ciberdefensa proactiva de gobiernos y empresas",
+      "resumen": "El programa Fairwind es de acceso limitado para gobiernos y socios de confianza que deseen usar las herramientas de ciberdefensa de Google.",
+      "porQueImporta": "Muestra cómo Google está aplicando la IA en ciberseguridad a gran escala, ofreciendo soluciones avanzadas para proteger infraestructuras críticas. Es relevante para entender las tendencias en seguridad y el rol de la IA.",
+      "publicadoEn": "2026-09-02T15:40:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp",
+      "globalScore": 88,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "ciberseguridad",
+        "Google",
+        "seguridad"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/07/five-iphone-18-pro-camera-features-seemingly-leak/",
+      "tituloOriginal": "Five iPhone 18 Pro Camera Features Seemingly Leak in Code",
+      "tituloLimpio": "Se filtran cinco posibles características de la cámara del iPhone 18 Pro",
+      "resumen": "Apple está trabajando en mejoras para la aplicación de Cámara en iOS 27, según un análisis de código que apunta a cinco características que podrían llegar con nuevos modelos de iPhone o en una futura actualización de software.",
+      "porQueImporta": "Es una noticia clave para los usuarios de Apple, ya que adelanta posibles innovaciones en fotografía móvil que podrían influir en el trabajo de retoque fotográfico y arte con IA de Guido.",
+      "publicadoEn": "2026-09-07T16:07:47.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "iPhone",
+        "cámara",
+        "iOS",
+        "filtraciones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/vuelven-los-creditos-hipotecarios-monotributistas-requisitos-y-mejores-alternativas-n6319330",
+      "tituloOriginal": "Vuelven los créditos hipotecarios para monotributistas: requisitos y mejores alternativas",
+      "tituloLimpio": "Vuelven los créditos hipotecarios para monotributistas: requisitos y alternativas",
+      "resumen": "Varios bancos ofrecen créditos para monotributistas y dan la opción de juntar facturas para demostrar mejores ingresos.",
+      "porQueImporta": "Es una noticia muy relevante para Guido, como monotributista en Argentina, ya que abre nuevas posibilidades de inversión inmobiliaria o acceso a la vivienda propia.",
+      "publicadoEn": "2026-09-07T16:00:00.000Z",
+      "imagen": "https://media.ambito.com/p/665cd1998416907c5a78859dff97fad0/adjuntos/239/imagenes/043/626/0043626554/1200x675/926x496:946x516/creditos-freepik.jpg",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "finanzas",
+        "créditos hipotecarios",
+        "monotributistas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/back-to-school-marketing-is-a-mash-up-of-ai-tech-and-value-messaging/829626/",
+      "tituloOriginal": "Back-to-school marketing is a mash up of AI tech and value messaging",
+      "tituloLimpio": "El marketing de 'vuelta al cole' combina IA y mensajes de valor",
+      "resumen": "Los compradores de la 'vuelta al cole' de 2026 usaron herramientas digitales como la IA para ahorrar dinero, pero quienes usan la tecnología pueden terminar gastando más que quienes no.",
+      "porQueImporta": "Destaca la tendencia de la IA en marketing y cómo los consumidores la usan. Es útil para entender estrategias de marketing y cómo la IA influye en el comportamiento del consumidor.",
+      "publicadoEn": "2026-09-04T13:00:00.000Z",
+      "globalScore": 74,
+      "personalScore": 100,
+      "tags": [
+        "Marketing",
+        "IA",
+        "consumo",
+        "tendencias"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "tituloOriginal": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "tituloLimpio": "Autores reclaman a editoriales y agentes por acuerdos con Anthropic",
+      "resumen": "Los autores afirman que las editoriales parecen estar reclamando más de lo que les corresponde en los pagos de acuerdos.",
+      "porQueImporta": "Refleja las tensiones y desafíos en la industria creativa y de IA respecto a los derechos de autor y la compensación por el uso de contenido para entrenar modelos de IA.",
+      "publicadoEn": "2026-09-06T20:47:37.000Z",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "derechos de autor",
+        "autores",
+        "editoriales"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "tituloOriginal": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "tituloLimpio": "Seattle Times y Newsday demandan a OpenAI y Microsoft por infracción de derechos de autor",
+      "resumen": "Seattle Times y Newsday son los últimos en demandar a OpenAI, alegando infracción de derechos de autor por usar su periodismo como datos de entrenamiento para modelos de IA sin permiso.",
+      "porQueImporta": "Subraya el creciente conflicto legal sobre el uso de contenido para entrenar IA, un tema crucial para creadores de contenido y empresas que utilizan IA generativa.",
+      "publicadoEn": "2026-09-06T23:36:04.000Z",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "derechos de autor",
+        "OpenAI",
+        "Microsoft",
+        "demandas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "tituloOriginal": "Architecting memory and storage in the AI era",
+      "tituloLimpio": "Arquitectura de memoria y almacenamiento en la era de la IA",
+      "resumen": "La era de la inferencia de IA ha llegado. Los avances en infraestructura son el motor de la inteligencia continua, permitiendo sistemas de salud que analizan millones de datos en tiempo real o asistentes inteligentes que resuelven miles de necesidades complejas.",
+      "porQueImporta": "Explica la base tecnológica detrás de las aplicaciones de IA, fundamental para entender cómo funciona la IA a gran escala y las demandas de hardware que implica.",
+      "publicadoEn": "2026-09-04T18:39:19.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "tecnología",
+        "hardware",
+        "infraestructura"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/09/07/report-apple-tv-working-on-silo-spin-off/",
+      "tituloOriginal": "Report: Apple TV working on spin-off to its hit series Silo",
+      "tituloLimpio": "Apple TV estaría trabajando en un spin-off de su serie 'Silo'",
+      "resumen": "Apple TV, que acaba de terminar la tercera temporada de su serie 'Silo', estaría trabajando en un spin-off que podría entrar en preproducción este año.",
+      "porQueImporta": "Muestra la expansión de contenido de Apple TV, relevante para los usuarios de Apple y para entender la estrategia de la compañía en el entretenimiento.",
+      "publicadoEn": "2026-09-07T17:15:35.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "Apple TV",
+        "series",
+        "entretenimiento"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/09/07/watchos-27-will-still-have-surprises-even-if-apple-watch-series-12-wont?utm_source=rss",
+      "tituloOriginal": "watchOS 27 will still have surprises, even if Apple Watch Series 12 won't",
+      "tituloLimpio": "watchOS 27 tendrá sorpresas, aunque el Apple Watch Series 12 no",
+      "resumen": "Se esperan mejoras menores en el Apple Watch Series 12, pero el código descubierto sugiere que las sorpresas vendrán en watchOS 27.",
+      "porQueImporta": "Interesante para usuarios de Apple Watch, ya que indica que las innovaciones se centrarán en el software, lo que podría traer nuevas funcionalidades y automatizaciones.",
+      "publicadoEn": "2026-09-07T17:30:01.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "Apple Watch",
+        "watchOS",
+        "software"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/inflacion-agosto-ipc-podria-acercarse-numero-milei_0_B4wNWK9l43.html",
+      "tituloOriginal": "Inflación de agosto: el IPC podría acercarse al número más bajo de la era Milei",
+      "tituloLimpio": "Inflación de agosto: el IPC podría acercarse al número más bajo de la era Milei",
+      "resumen": "Las consultoras privadas ubican al índice de inflación en hasta 1,4% mensual. La pregunta es si la desaceleración de agosto puede sostenerse en los próximos meses.",
+      "porQueImporta": "Noticia económica clave para Argentina, que impacta directamente en el poder adquisitivo y las decisiones de inversión de Guido.",
+      "publicadoEn": "2026-09-07T16:25:39.000Z",
+      "imagen": "https://www.clarin.com/img/2026/04/19/S1JVDCAOV_1200x630__1.jpg",
+      "globalScore": 86,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "inflación",
+        "economía",
+        "IPC"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/eduardo-elsztain-explico-accionista-empresa-inglesa-monopoliza-negocios-malvinas-podia-ayudar-reclamo-soberania_0_aGrISPof27.html",
+      "tituloOriginal": "Eduardo Elsztain explicó por qué es accionista de la empresa inglesa que monopoliza los negocios en Malvinas: \"Podía ayudar en el reclamo de soberanía\"",
+      "tituloLimpio": "Eduardo Elsztain explica su rol como accionista en empresa de Malvinas",
+      "resumen": "El empresario argentino explicó por qué es accionista de la empresa inglesa que monopoliza los negocios en Malvinas, afirmando que 'podía ayudar en el reclamo de soberanía'.",
+      "porQueImporta": "Una noticia relevante para el contexto político y económico argentino, que toca un tema sensible como Malvinas y la participación de empresarios locales en negocios vinculados.",
+      "publicadoEn": "2026-09-07T15:31:13.000Z",
+      "imagen": "https://www.clarin.com/img/2026/04/24/UzJLlYfUQ_1200x630__1.jpg",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "Malvinas",
+        "política",
+        "negocios"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/09/07/seis-provincias-duplicaron-sus-exportaciones-en-tres-anos-cuanto-facturan-y-cuales-son-sus-productos-estrella/",
+      "tituloOriginal": "Seis provincias duplicaron sus exportaciones en tres años: cuánto facturan y cuáles son sus productos estrella",
+      "tituloLimpio": "Seis provincias argentinas duplicaron sus exportaciones en tres años",
+      "resumen": "Del petróleo de Vaca Muerta a la minería del NOA y Cuyo, se destacan los bienes y lugares que lideran el salto exportador y el cambio en la geografía productiva del país.",
+      "porQueImporta": "Muestra un panorama positivo de la economía regional argentina y posibles oportunidades de inversión o negocios en sectores exportadores.",
+      "publicadoEn": "2026-09-07T17:16:47.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/MR6TSQ5N4FEHTGLSYN3U3O5EUI.png?auth=55851b0ee4fe0f8c92e4d0936cefaa788e2f82adced54cf80e4ec58e09340c8d&smart=true&width=1536&height=1024",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "exportaciones",
+        "provincias"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/09/07/javier-milei-reune-al-gabinete-con-un-temario-de-alto-voltaje-las-paso-el-proyecto-de-malvinas-y-el-presupuesto-2027/",
+      "tituloOriginal": "Javier Milei reunió al Gabinete con un temario de alto voltaje: el proyecto de Malvinas y el Presupuesto 2027",
+      "tituloLimpio": "Javier Milei reúne al Gabinete con temario de alto voltaje: Malvinas y Presupuesto 2027",
+      "resumen": "La reunión se realiza tras la convocatoria de la oposición para tratar iniciativas sobre morosidad y discapacidad en la Cámara de Diputados.",
+      "porQueImporta": "Indica los temas centrales de la agenda política y económica del gobierno argentino, que pueden tener impacto en el clima de negocios y las decisiones de inversión.",
+      "publicadoEn": "2026-09-07T17:25:57.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/R457IXM6LVHOZBQMHIFJINIXUE.png?auth=00228e22c1baa1ae75fc813e9b23809b4526c54e57dc866c8ec51c9cf46e1ef6&smart=true&width=1495&height=983",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "política",
+        "gobierno",
+        "economía"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid07092026/",
+      "tituloOriginal": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este lunes 7 de septiembre, minuto a minuto",
+      "tituloLimpio": "Dólar hoy: cotización del oficial y el blue este lunes 7 de septiembre",
+      "resumen": "La divisa oficial opera a $1530 para la venta en el Banco Nación; el dólar blue cotiza a $1540 para esa operación.",
+      "porQueImporta": "Información esencial para Guido, ya que la cotización del dólar es un indicador clave de la economía argentina y afecta directamente sus finanzas y decisiones de inversión.",
+      "publicadoEn": "2026-09-07T17:29:09.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/YNUF7YO3RRHAHN6K474UWY3S7M.jpg?auth=48f250872e9a2dc1b3c2f32ddbc279a8c240808639451d946519ec2357912a04&smart=true&width=2000&height=1333",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "dólar",
+        "finanzas",
+        "mercado"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Politica",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-repercusiones-por-los-anuncios-sobre-malvinas-y-una-sesion-clave-nid07092026/",
+      "tituloOriginal": "Javier Milei y sus medidas, en vivo: el Gobierno le canjeó US$2000 millones en títulos al Banco Central para que mantenga contenido al dólar",
+      "tituloLimpio": "El Gobierno canjeó US$2000 millones en títulos al Banco Central para contener el dólar",
+      "resumen": "El minuto a minuto de las decisiones del jefe de Estado, las reacciones de la oposición y las declaraciones de los funcionarios.",
+      "porQueImporta": "Muestra una medida concreta del gobierno para influir en el mercado cambiario, relevante para entender la política económica y sus posibles efectos en la estabilidad del dólar.",
+      "publicadoEn": "2026-09-07T17:16:28.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/XFRS2SHFUBCU3B5VZUNIJDA2VE.jpg?auth=a3193e1d0a61b96f3a6cec221f8937b2f1e3f2307b72984f90cd9d481a312f1e&smart=true&width=2000&height=1333",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "dólar",
+        "gobierno",
+        "economía"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-09-07T17:31:37.328Z"
+  }
+}
