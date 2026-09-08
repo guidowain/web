@@ -1,0 +1,322 @@
+{
+  "fecha": "2026-09-08",
+  "generadoEn": "2026-09-08T16:16:05.161Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Apple lanzará una nueva app de bienestar, 'Readiness', y Logitech presentó un teclado numérico para automatización con IA. En el ámbito de la IA, Mistral recaudó 3 mil millones de euros y Google DeepMind lanzó una herramienta para el genoma humano. En Argentina, se reactivó el reparto de fondos a provincias y se probó una tablet TCL con pantalla versátil. Las exportaciones de Alemania retrocedieron, frenando el optimismo económico.",
+  "radarPersonal": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Apple presenta una nueva app de bienestar 'Readiness'",
+      "resumen": "Apple planea anunciar una nueva app llamada 'Readiness' en su evento 'Surprise and Shine'. Esta app sería una variante de la app Vitals del Apple Watch, buscando competir con software de Whoop y Oura.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/09/08/apple-to-announce-readiness-app/"
+      ],
+      "score": 100,
+      "tags": [
+        "apple",
+        "app",
+        "bienestar",
+        "salud"
+      ]
+    },
+    {
+      "id": "logitech-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Logitech lanza el teclado numérico MX Keypad para automatización con IA",
+      "resumen": "Logitech presentó el MX Keypad, un teclado numérico enfocado en desarrolladores para automatización con IA. Es una parte del MX Creative Console existente.",
+      "categoria": "Tools & Automation",
+      "fuentes": [
+        "MacStories"
+      ],
+      "urls": [
+        "https://www.macstories.net/news/logitech-releases-the-developer-focused-mx-keypad-for-ai-automation/"
+      ],
+      "score": 100,
+      "tags": [
+        "logitech",
+        "teclado",
+        "automatizacion",
+        "ia",
+        "herramientas"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "Mistral recauda 3 mil millones de euros y la IA soberana se vuelve un gran negocio",
+      "resumen": "El laboratorio francés de IA Mistral recaudó 3 mil millones de euros en una ronda de financiación Serie D, liderada por Samsung, Scaleup Europe y PSG Equity, alcanzando una valoración de 21 mil millones de euros.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/"
+      ],
+      "score": 100,
+      "tags": [
+        "mistral",
+        "ia",
+        "inversion",
+        "financiamiento"
+      ]
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "Google DeepMind lanza AlphaGenome Atlas para el genoma humano",
+      "resumen": "Google DeepMind presentó una herramienta de IA, AlphaGenome Atlas, que sus científicos afirman podría ayudar a entender el genoma humano y acelerar la investigación científica para nuevos tratamientos de enfermedades.",
+      "categoria": "AI",
+      "fuentes": [
+        "The Verge AI"
+      ],
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas/"
+      ],
+      "score": 100,
+      "tags": [
+        "google",
+        "deepmind",
+        "ia",
+        "genoma",
+        "investigacion"
+      ]
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "titulo": "Se probó la tablet TCL Nxtpaper 11 Plus con distintas experiencias de uso",
+      "resumen": "Se probó la tablet TCL Nxtpaper 11 Plus, que ofrece diferentes experiencias de uso en una misma pantalla. El mercado de tablets busca ocupar un lugar más amplio que el consumo de contenidos.",
+      "categoria": "Tools & Automation",
+      "fuentes": [
+        "La Nacion Economia"
+      ],
+      "urls": [
+        "https://www.lanacion.com.ar/tecnologia/probamos-la-tablet-tcl-nxtpaper-11-plus-que-ofrece-distintas-experiencias-de-uso-en-una-misma-nid08092026/"
+      ],
+      "score": 100,
+      "tags": [
+        "tablet",
+        "tcl",
+        "tecnologia",
+        "herramientas"
+      ]
+    }
+  ],
+  "loImportante": [
+    "Apple lanzará una nueva app de bienestar, 'Readiness', que competirá con Whoop y Oura.",
+    "Logitech presentó el MX Keypad, un teclado numérico para automatización con IA, útil para desarrolladores.",
+    "El laboratorio francés de IA Mistral recaudó 3 mil millones de euros, destacando el crecimiento de la 'IA soberana'.",
+    "Google DeepMind lanzó AlphaGenome Atlas, una herramienta de IA para el genoma humano que podría acelerar la investigación médica.",
+    "Las exportaciones de Alemania retrocedieron por primera vez en cinco meses, generando dudas sobre la recuperación económica europea."
+  ],
+  "oportunidades": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Productivity",
+      "titulo": "Nueva app 'Readiness' de Apple para monitoreo de bienestar",
+      "detalle": "Apple lanzará una app 'Readiness' que podría ofrecer nuevas formas de monitorear el bienestar y la salud, similar a Whoop y Oura. Esto podría integrarse en rutinas de productividad y autocuidado.",
+      "acciones": [
+        "Estar atento al lanzamiento y funcionalidades de la app.",
+        "Evaluar su integración con el ecosistema Apple para optimizar el monitoreo personal."
+      ]
+    },
+    {
+      "id": "logitech-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Automation",
+      "titulo": "Logitech MX Keypad para automatización con IA",
+      "detalle": "El nuevo teclado numérico de Logitech, diseñado para desarrolladores y automatización con IA, podría ser una herramienta valiosa para optimizar flujos de trabajo en retoque fotográfico o arte con IA.",
+      "acciones": [
+        "Investigar las capacidades de automatización del MX Keypad.",
+        "Considerar su integración para tareas repetitivas o complejas en el trabajo diario."
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "Investing",
+      "titulo": "Crecimiento de la 'IA soberana' y Mistral",
+      "detalle": "La gran inversión en Mistral resalta el auge de la 'IA soberana'. Esto indica un sector en expansión con potencial de inversión en empresas de IA no estadounidenses.",
+      "acciones": [
+        "Monitorear el desempeño de empresas de IA europeas y su impacto en el mercado global.",
+        "Evaluar posibles ETFs o fondos que inviertan en este segmento de IA."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Market",
+      "titulo": "Retroceso de exportaciones alemanas frena optimismo económico",
+      "detalle": "El retroceso de las exportaciones de Alemania, la mayor economía de Europa, genera dudas sobre la solidez de la recuperación económica global. Esto podría impactar en los mercados financieros y la inversión.",
+      "mitigacion": "Revisar la exposición a mercados europeos en el portafolio de inversiones. Mantenerse informado sobre indicadores económicos globales."
+    }
+  ],
+  "conexiones": [],
+  "noticias": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/08/apple-to-announce-readiness-app/",
+      "tituloOriginal": "Apple to Introduce All-New 'Readiness' App Tomorrow",
+      "tituloLimpio": "Apple presentará una nueva app 'Readiness' mañana",
+      "resumen": "Apple planea anunciar una nueva app llamada 'Readiness' en su evento 'Surprise and Shine'. Esta app sería una variante de la app Vitals del Apple Watch, buscando competir con software de Whoop y Oura.",
+      "porQueImporta": "Guido, como usuario de Apple, esta noticia es relevante por el lanzamiento de una nueva app de bienestar que podría ofrecer funcionalidades avanzadas para el monitoreo de la salud y el rendimiento personal, similar a otras herramientas que ya existen en el mercado.",
+      "publicadoEn": "2026-09-08T15:55:52.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "app",
+        "bienestar",
+        "salud"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/las-exportaciones-alemania-retroceden-primera-vez-cinco-meses-y-frenan-el-optimismo-n6319806",
+      "tituloOriginal": "Las exportaciones de Alemania retroceden por primera vez en cinco meses y frenan el optimismo",
+      "tituloLimpio": "Las exportaciones de Alemania retroceden por primera vez en cinco meses y frenan el optimismo",
+      "resumen": "El retroceso del 0,8% en julio superó las previsiones del mercado, arrastrado por la menor demanda de China y la zona euro. El mal dato reaviva las dudas sobre la solidez de la recuperación de la mayor economía del bloque europeo.",
+      "porQueImporta": "Esta noticia es importante para Guido por su interés en finanzas y mercados. El retroceso de las exportaciones de Alemania, una economía clave, puede indicar una desaceleración global que podría impactar en los mercados de inversión.",
+      "publicadoEn": "2026-09-08T14:22:00.000Z",
+      "imagen": "https://media.ambito.com/p/74c1a63d16515d4cdbc98287d41274ee/adjuntos/239/imagenes/043/628/0043628187/1200x675/smart/image-32.png",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "economia",
+        "alemania",
+        "exportaciones",
+        "mercados"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "fuente": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/campbells-heats-up-digital-focus-amid-marketing-reformulation/829764/",
+      "tituloOriginal": "Campbell’s heats up digital focus amid marketing reformulation",
+      "tituloLimpio": "Campbell's aumenta su enfoque digital en medio de una reformulación de marketing",
+      "resumen": "Canales como redes sociales, influencers y e-commerce representarán el 85% de los presupuestos de medios de Campbell's, buscando adaptarse a los gustos modernos del consumidor.",
+      "porQueImporta": "Para Guido, que le interesa el marketing, esta noticia muestra una tendencia clara en la asignación de presupuestos hacia canales digitales, incluyendo influencers y e-commerce. Es un ejemplo de cómo las grandes marcas se adaptan a los nuevos hábitos de consumo.",
+      "publicadoEn": "2026-09-08T14:10:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "digital",
+        "influencers",
+        "e-commerce"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+      "tituloOriginal": "Mistral raises €3B as sovereign AI becomes big business",
+      "tituloLimpio": "Mistral recauda 3 mil millones de euros mientras la IA soberana se convierte en un gran negocio",
+      "resumen": "El laboratorio francés de IA Mistral recaudó 3 mil millones de euros en una ronda de financiación Serie D, liderada por Samsung, Scaleup Europe y PSG Equity, alcanzando una valoración de 21 mil millones de euros.",
+      "porQueImporta": "Esta noticia es clave para Guido por el interés en IA y finanzas. Muestra una inversión significativa en un actor importante de la IA, destacando el crecimiento del sector y el concepto de 'IA soberana', lo que podría influir en el panorama tecnológico y de inversión.",
+      "publicadoEn": "2026-09-08T14:17:48.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "inversion",
+        "financiamiento",
+        "mistral"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
+      "tituloOriginal": "Google’s Atlas of the human genome could pave the way for new treatments",
+      "tituloLimpio": "El Atlas del genoma humano de Google podría abrir camino a nuevos tratamientos",
+      "resumen": "Google DeepMind presentó una herramienta de IA, AlphaGenome Atlas, que sus científicos afirman podría ayudar a entender el genoma humano y acelerar la investigación científica para nuevos tratamientos de enfermedades.",
+      "porQueImporta": "Guido, interesado en la IA aplicada, encontrará relevante esta noticia sobre cómo Google DeepMind utiliza la inteligencia artificial para avanzar en la comprensión del genoma humano, con el potencial de revolucionar la medicina y la investigación biológica.",
+      "publicadoEn": "2026-09-08T14:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "google",
+        "genoma",
+        "investigacion"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+      "tituloOriginal": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "tituloLimpio": "Emprendedor de IA desarrolla agentes que pueden planificar para lo inesperado",
+      "resumen": "Danijar Hafner está desarrollando agentes que pueden planificar con anticipación para lo inesperado.",
+      "porQueImporta": "Esta noticia es interesante para Guido por su interés en la IA aplicada y la automatización. El desarrollo de agentes de IA con capacidad de planificación anticipada podría tener implicaciones en la eficiencia y resiliencia de sistemas automatizados.",
+      "publicadoEn": "2026-09-08T10:34:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "ia",
+        "automatizacion",
+        "agentes"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/09/08/el-gobierno-reactivo-el-reparto-de-fondos-para-tres-provincias-antes-del-debate-por-el-presupuesto-y-la-reforma-politica/",
+      "tituloOriginal": "El Gobierno reactivó el reparto de fondos para tres provincias antes del debate por el Presupuesto y la Reforma Política",
+      "tituloLimpio": "El Gobierno reactivó el reparto de fondos para tres provincias antes del debate por el Presupuesto y la Reforma Política",
+      "resumen": "La administración nacional distribuyó Aportes del Tesoro Nacional (ATN) a una región encabezada por un gobernador aliado y a dos más alejadas del oficialismo; son montos menores y por emergencias puntuales. La Nación no había realizado desembolsos por casi dos meses.",
+      "porQueImporta": "Para Guido, que vive en Argentina, esta noticia es relevante porque muestra movimientos políticos y económicos a nivel nacional, especialmente en relación con la distribución de fondos a provincias, lo que puede tener implicaciones en la economía local y el clima de negocios.",
+      "publicadoEn": "2026-09-08T16:10:48.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/ZA6ZBT7YPFG4HAYMTY2NEBIQNE.jpeg?auth=4983ce803e3dce51dac0a6533a1b3ee2c9bff70159776746682d6a634c2a6f53&smart=true&width=4160&height=2774",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "politica",
+        "economia",
+        "fondos"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/tecnologia/probamos-la-tablet-tcl-nxtpaper-11-plus-que-ofrece-distintas-experiencias-de-uso-en-una-misma-nid08092026/",
+      "tituloOriginal": "Probamos la tablet TCL Nxtpaper 11 Plus, que ofrece distintas experiencias de uso en una misma pantalla",
+      "tituloLimpio": "Se probó la tablet TCL Nxtpaper 11 Plus, que ofrece distintas experiencias de uso en una misma pantalla",
+      "resumen": "Se probó la tablet TCL Nxtpaper 11 Plus, que ofrece diferentes experiencias de uso en una misma pantalla. El mercado de tablets busca ocupar un lugar más amplio que el consumo de contenidos.",
+      "porQueImporta": "Guido, interesado en herramientas y tecnología, encontrará útil esta reseña de una tablet que busca diversificar sus usos más allá del consumo de medios, lo que podría indicar tendencias en el desarrollo de dispositivos para productividad y creatividad.",
+      "publicadoEn": "2026-09-08T15:56:05.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/5BSC63YPBFENXJWOLLZYM6SHXY.webp?auth=66a44d62ded29e18fa5941b4449398bf02fe805be600d728c61cbd1e1d2ebdb0&smart=true&width=1920&height=982",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "tablet",
+        "tcl",
+        "tecnologia",
+        "herramientas"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-09-08T16:16:05.161Z"
+  }
+}
