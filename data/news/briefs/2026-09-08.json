@@ -1,32 +1,93 @@
 {
   "fecha": "2026-09-08",
-  "generadoEn": "2026-09-08T16:16:05.161Z",
+  "generadoEn": "2026-09-08T19:44:53.253Z",
   "actualizacion": "14:00",
-  "resumenEjecutivo": "Apple lanzará una nueva app de bienestar, 'Readiness', y Logitech presentó un teclado numérico para automatización con IA. En el ámbito de la IA, Mistral recaudó 3 mil millones de euros y Google DeepMind lanzó una herramienta para el genoma humano. En Argentina, se reactivó el reparto de fondos a provincias y se probó una tablet TCL con pantalla versátil. Las exportaciones de Alemania retrocedieron, frenando el optimismo económico.",
+  "resumenEjecutivo": "Apple se prepara para un evento clave donde se esperan nuevos iPhones y Apple Watch. En el ámbito de la IA, Meta lanza su agente Muse, mientras que Google presenta un programa de ciberdefensa. En Argentina, la industria sufrió una fuerte caída, pero se destacan inversiones en infraestructura y el primer tambo robot. El dólar se mantuvo estable. En finanzas, el yen alcanzó un máximo de seis meses y se discuten los riesgos de las tasas de interés.",
   "radarPersonal": [
     {
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "Apple presenta una nueva app de bienestar 'Readiness'",
-      "resumen": "Apple planea anunciar una nueva app llamada 'Readiness' en su evento 'Surprise and Shine'. Esta app sería una variante de la app Vitals del Apple Watch, buscando competir con software de Whoop y Oura.",
+      "titulo": "Apple realizará un evento el 9 de septiembre para presentar nuevos productos",
+      "resumen": "Apple organizará un evento de transmisión en línea para el público y la prensa el miércoles 9 de septiembre. Se espera que la compañía anuncie nuevos modelos de iPhone 18 Pro, un nuevo iPhone plegable, nuevos modelos de Apple Watch y potencialmente AirPods 5 y otros productos.",
       "categoria": "Apple",
       "fuentes": [
         "MacRumors"
       ],
       "urls": [
-        "https://www.macrumors.com/2026/09/08/apple-to-announce-readiness-app/"
+        "https://www.macrumors.com/how-to/watch-apple-september-9-iphone-event/"
       ],
       "score": 100,
       "tags": [
         "apple",
-        "app",
-        "bienestar",
-        "salud"
+        "evento",
+        "iphone",
+        "apple watch",
+        "lanzamiento"
       ]
     },
     {
-      "id": "logitech-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "Logitech lanza el teclado numérico MX Keypad para automatización con IA",
-      "resumen": "Logitech presentó el MX Keypad, un teclado numérico enfocado en desarrolladores para automatización con IA. Es una parte del MX Creative Console existente.",
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "Meta lanza su agente de IA Muse, buscando acceso a datos de usuarios",
+      "resumen": "El nuevo agente personal de IA de Meta, Muse, busca acceso al correo electrónico, calendarios, pagos y servicios de salud de los usuarios. Esto representa la mayor apuesta de IA de consumo de la compañía y una prueba de la confianza de los usuarios en Meta con sus datos.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/"
+      ],
+      "score": 100,
+      "tags": [
+        "meta",
+        "ia",
+        "muse",
+        "agente ia",
+        "privacidad"
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "La industria argentina sufrió en julio su mayor caída mensual en 16 meses",
+      "resumen": "Las series del INDEC retrocedieron a niveles de mediados de 2024. El retroceso fue extendido a casi todas las divisiones industriales.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/la-industria-sufrio-su-mayor-caida-mensual-16-meses-n6319994"
+      ],
+      "score": 100,
+      "tags": [
+        "argentina",
+        "industria",
+        "economia",
+        "indec",
+        "caída"
+      ]
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "titulo": "Comienza a operar el primer tambo robot de la raza Jersey en Argentina",
+      "resumen": "En María Juana, Santa Fe, la familia Dalmasso apuesta a un sistema automatizado para maximizar la producción.",
+      "categoria": "Argentina",
+      "fuentes": [
+        "La Nacion Economia"
+      ],
+      "urls": [
+        "https://www.lanacion.com.ar/economia/campo/marca-un-antes-y-un-despues-empieza-a-ordenar-en-el-pais-el-primer-tambo-robot-de-la-raza-jersey-nid08092026/"
+      ],
+      "score": 100,
+      "tags": [
+        "argentina",
+        "automatización",
+        "robotica",
+        "producción",
+        "campo"
+      ]
+    },
+    {
+      "id": "logitech-releases-the-developer-focused-mx-keypad-for-ai-automation",
+      "titulo": "Logitech lanza el MX Keypad, un teclado enfocado en desarrolladores para automatización con IA",
+      "resumen": "Logitech presentó el MX Keypad, que es una parte del MX Creative Console existente de Logitech. El MX Keypad es solo el teclado numérico.",
       "categoria": "Tools & Automation",
       "fuentes": [
         "MacStories"
@@ -37,138 +98,105 @@
       "score": 100,
       "tags": [
         "logitech",
-        "teclado",
-        "automatizacion",
+        "herramientas",
+        "automatización",
         "ia",
-        "herramientas"
-      ]
-    },
-    {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "titulo": "Mistral recauda 3 mil millones de euros y la IA soberana se vuelve un gran negocio",
-      "resumen": "El laboratorio francés de IA Mistral recaudó 3 mil millones de euros en una ronda de financiación Serie D, liderada por Samsung, Scaleup Europe y PSG Equity, alcanzando una valoración de 21 mil millones de euros.",
-      "categoria": "AI",
-      "fuentes": [
-        "TechCrunch AI"
-      ],
-      "urls": [
-        "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/"
-      ],
-      "score": 100,
-      "tags": [
-        "mistral",
-        "ia",
-        "inversion",
-        "financiamiento"
-      ]
-    },
-    {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "titulo": "Google DeepMind lanza AlphaGenome Atlas para el genoma humano",
-      "resumen": "Google DeepMind presentó una herramienta de IA, AlphaGenome Atlas, que sus científicos afirman podría ayudar a entender el genoma humano y acelerar la investigación científica para nuevos tratamientos de enfermedades.",
-      "categoria": "AI",
-      "fuentes": [
-        "The Verge AI"
-      ],
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas/"
-      ],
-      "score": 100,
-      "tags": [
-        "google",
-        "deepmind",
-        "ia",
-        "genoma",
-        "investigacion"
-      ]
-    },
-    {
-      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
-      "titulo": "Se probó la tablet TCL Nxtpaper 11 Plus con distintas experiencias de uso",
-      "resumen": "Se probó la tablet TCL Nxtpaper 11 Plus, que ofrece diferentes experiencias de uso en una misma pantalla. El mercado de tablets busca ocupar un lugar más amplio que el consumo de contenidos.",
-      "categoria": "Tools & Automation",
-      "fuentes": [
-        "La Nacion Economia"
-      ],
-      "urls": [
-        "https://www.lanacion.com.ar/tecnologia/probamos-la-tablet-tcl-nxtpaper-11-plus-que-ofrece-distintas-experiencias-de-uso-en-una-misma-nid08092026/"
-      ],
-      "score": 100,
-      "tags": [
-        "tablet",
-        "tcl",
-        "tecnologia",
-        "herramientas"
+        "desarrollo"
       ]
     }
   ],
   "loImportante": [
-    "Apple lanzará una nueva app de bienestar, 'Readiness', que competirá con Whoop y Oura.",
-    "Logitech presentó el MX Keypad, un teclado numérico para automatización con IA, útil para desarrolladores.",
-    "El laboratorio francés de IA Mistral recaudó 3 mil millones de euros, destacando el crecimiento de la 'IA soberana'.",
-    "Google DeepMind lanzó AlphaGenome Atlas, una herramienta de IA para el genoma humano que podría acelerar la investigación médica.",
-    "Las exportaciones de Alemania retrocedieron por primera vez en cinco meses, generando dudas sobre la recuperación económica europea."
+    "Apple se prepara para un evento importante el 9 de septiembre, donde se esperan nuevos iPhones y Apple Watch.",
+    "Meta lanza su agente de IA Muse, que busca acceso a datos sensibles de los usuarios, planteando desafíos de confianza.",
+    "La industria argentina sufrió una caída significativa en julio, alcanzando mínimos de la era de Javier Milei.",
+    "Se destaca la inversión en infraestructura, energía y crédito como claves para destrabar la inversión privada en Argentina.",
+    "El yen japonés alcanzó un máximo de seis meses, reflejando cambios en las perspectivas de tasas de interés."
   ],
   "oportunidades": [
     {
-      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "categoria": "Productivity",
-      "titulo": "Nueva app 'Readiness' de Apple para monitoreo de bienestar",
-      "detalle": "Apple lanzará una app 'Readiness' que podría ofrecer nuevas formas de monitorear el bienestar y la salud, similar a Whoop y Oura. Esto podría integrarse en rutinas de productividad y autocuidado.",
-      "acciones": [
-        "Estar atento al lanzamiento y funcionalidades de la app.",
-        "Evaluar su integración con el ecosistema Apple para optimizar el monitoreo personal."
-      ]
-    },
-    {
-      "id": "logitech-aHR0cHM6Ly93d3cubWFj",
+      "id": "logitech-releases-the-developer-focused-mx-keypad-for-ai-automation",
       "categoria": "Automation",
-      "titulo": "Logitech MX Keypad para automatización con IA",
-      "detalle": "El nuevo teclado numérico de Logitech, diseñado para desarrolladores y automatización con IA, podría ser una herramienta valiosa para optimizar flujos de trabajo en retoque fotográfico o arte con IA.",
+      "titulo": "Nuevo teclado Logitech MX Keypad para automatización con IA",
+      "detalle": "Logitech lanzó el MX Keypad, un teclado numérico diseñado para desarrolladores y automatización con IA. Podría ser una herramienta útil para optimizar flujos de trabajo.",
       "acciones": [
-        "Investigar las capacidades de automatización del MX Keypad.",
-        "Considerar su integración para tareas repetitivas o complejas en el trabajo diario."
+        "Investigar el MX Keypad de Logitech para ver cómo se integra con flujos de trabajo de automatización y IA.",
+        "Evaluar si el MX Keypad puede mejorar la eficiencia en tareas de retoque fotográfico o arte con IA."
       ]
     },
     {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "categoria": "Investing",
-      "titulo": "Crecimiento de la 'IA soberana' y Mistral",
-      "detalle": "La gran inversión en Mistral resalta el auge de la 'IA soberana'. Esto indica un sector en expansión con potencial de inversión en empresas de IA no estadounidenses.",
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Automation",
+      "titulo": "Primer tambo robot en Argentina: un caso de automatización avanzada",
+      "detalle": "La implementación del primer tambo robot de la raza Jersey en Santa Fe demuestra el potencial de la automatización avanzada en sectores tradicionales, buscando maximizar la producción.",
       "acciones": [
-        "Monitorear el desempeño de empresas de IA europeas y su impacto en el mercado global.",
-        "Evaluar posibles ETFs o fondos que inviertan en este segmento de IA."
+        "Analizar el modelo de automatización del tambo robot para identificar principios aplicables a otros negocios o procesos.",
+        "Considerar cómo la automatización y la robótica pueden transformar industrias más allá de la tecnología, incluyendo el arte y el retoque fotográfico."
+      ]
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Investing",
+      "titulo": "Claves para destrabar la inversión en Argentina: infraestructura, energía y crédito",
+      "detalle": "Empresarios y funcionarios señalan que rutas, trenes, puertos, energía y financiamiento son condiciones centrales para el crecimiento de la inversión privada en Argentina.",
+      "acciones": [
+        "Monitorear las políticas y proyectos relacionados con infraestructura y energía en Argentina para identificar posibles oportunidades de inversión a largo plazo.",
+        "Evaluar el impacto de la mejora del crédito y el financiamiento en el mercado local y en las empresas cotizantes."
       ]
     }
   ],
   "riesgos": [
     {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "titulo": "Riesgos de privacidad con el agente de IA Muse de Meta",
+      "detalle": "El nuevo agente de IA de Meta, Muse, busca acceso a datos sensibles como correo electrónico, calendarios y servicios de salud, lo que plantea preocupaciones sobre la privacidad y la confianza del usuario.",
+      "mitigacion": "Ser cauteloso con la información personal que se comparte con agentes de IA, especialmente aquellos que solicitan acceso a múltiples servicios. Investigar a fondo las políticas de privacidad antes de adoptar nuevas herramientas de IA."
+    },
+    {
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Market",
-      "titulo": "Retroceso de exportaciones alemanas frena optimismo económico",
-      "detalle": "El retroceso de las exportaciones de Alemania, la mayor economía de Europa, genera dudas sobre la solidez de la recuperación económica global. Esto podría impactar en los mercados financieros y la inversión.",
-      "mitigacion": "Revisar la exposición a mercados europeos en el portafolio de inversiones. Mantenerse informado sobre indicadores económicos globales."
+      "titulo": "Caída de la industria argentina: impacto en la economía local",
+      "detalle": "La industria argentina sufrió su mayor derrumbe mensual en 16 meses en julio, retrocediendo a niveles de mediados de 2024, con un impacto extendido a casi todas las divisiones industriales.",
+      "mitigacion": "Monitorear de cerca los indicadores económicos de Argentina y diversificar las inversiones para mitigar el riesgo de la volatilidad del mercado local. Evaluar el impacto de esta caída en los sectores relacionados con el trabajo de Guido."
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuYmFy",
+      "categoria": "Market",
+      "titulo": "Riesgo de las tasas de interés altas en los mercados",
+      "detalle": "Se menciona el riesgo real para los mercados de la frustración de Trump por las altas tasas de interés, lo que podría generar inestabilidad o cambios en la política económica.",
+      "mitigacion": "Mantenerse informado sobre las políticas monetarias y las declaraciones de figuras influyentes que puedan afectar las tasas de interés y los mercados globales. Ajustar la estrategia de inversión según las tendencias macroeconómicas."
     }
   ],
-  "conexiones": [],
+  "conexiones": [
+    {
+      "id": "meta-ai-agents-trust",
+      "titulo": "La confianza del usuario, un desafío clave para los agentes de IA",
+      "historias": [
+        "Meta lanza su agente de IA Muse, que busca acceso a datos sensibles de los usuarios, poniendo a prueba la confianza en la compañía.",
+        "Google presenta el programa Fairwind para defensa cibernética proactiva, buscando generar confianza en sus herramientas de seguridad."
+      ],
+      "conclusion": "Tanto Meta como Google están lanzando iniciativas de IA, pero la clave para su adopción masiva será la confianza del usuario, especialmente cuando se trata de acceso a datos personales o seguridad. La transparencia y la protección de datos serán fundamentales."
+    }
+  ],
   "noticias": [
     {
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Apple",
       "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/09/08/apple-to-announce-readiness-app/",
-      "tituloOriginal": "Apple to Introduce All-New 'Readiness' App Tomorrow",
-      "tituloLimpio": "Apple presentará una nueva app 'Readiness' mañana",
-      "resumen": "Apple planea anunciar una nueva app llamada 'Readiness' en su evento 'Surprise and Shine'. Esta app sería una variante de la app Vitals del Apple Watch, buscando competir con software de Whoop y Oura.",
-      "porQueImporta": "Guido, como usuario de Apple, esta noticia es relevante por el lanzamiento de una nueva app de bienestar que podría ofrecer funcionalidades avanzadas para el monitoreo de la salud y el rendimiento personal, similar a otras herramientas que ya existen en el mercado.",
-      "publicadoEn": "2026-09-08T15:55:52.000Z",
+      "url": "https://www.macrumors.com/how-to/watch-apple-september-9-iphone-event/",
+      "tituloOriginal": "How to Watch Apple's 'Surprise and Shine' September 9 Event",
+      "tituloLimpio": "Apple realizará un evento el 9 de septiembre para presentar nuevos productos",
+      "resumen": "Apple organizará un evento de transmisión en línea para el público y la prensa el miércoles 9 de septiembre. Se espera que la compañía anuncie nuevos modelos de iPhone 18 Pro y un nuevo iPhone plegable, junto con nuevos modelos de Apple Watch y potencialmente AirPods 5 y otros productos.",
+      "porQueImporta": "Guido, como usuario de Apple, este evento es clave para conocer los próximos lanzamientos de productos, especialmente los nuevos iPhones y Apple Watch, que podrían influir en futuras compras o actualizaciones de equipos.",
+      "publicadoEn": "2026-09-08T18:43:54.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "apple",
-        "app",
-        "bienestar",
-        "salud"
+        "evento",
+        "iphone",
+        "apple watch",
+        "lanzamiento"
       ],
       "tambienVistoEn": []
     },
@@ -176,20 +204,20 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/las-exportaciones-alemania-retroceden-primera-vez-cinco-meses-y-frenan-el-optimismo-n6319806",
-      "tituloOriginal": "Las exportaciones de Alemania retroceden por primera vez en cinco meses y frenan el optimismo",
-      "tituloLimpio": "Las exportaciones de Alemania retroceden por primera vez en cinco meses y frenan el optimismo",
-      "resumen": "El retroceso del 0,8% en julio superó las previsiones del mercado, arrastrado por la menor demanda de China y la zona euro. El mal dato reaviva las dudas sobre la solidez de la recuperación de la mayor economía del bloque europeo.",
-      "porQueImporta": "Esta noticia es importante para Guido por su interés en finanzas y mercados. El retroceso de las exportaciones de Alemania, una economía clave, puede indicar una desaceleración global que podría impactar en los mercados de inversión.",
-      "publicadoEn": "2026-09-08T14:22:00.000Z",
-      "imagen": "https://media.ambito.com/p/74c1a63d16515d4cdbc98287d41274ee/adjuntos/239/imagenes/043/628/0043628187/1200x675/smart/image-32.png",
+      "url": "https://www.ambito.com/economia/la-industria-sufrio-su-mayor-caida-mensual-16-meses-n6319994",
+      "tituloOriginal": "La industria sufrió en julio su mayor derrumbe en 16 meses y se acercó a mínimos de la era de Javier Milei",
+      "tituloLimpio": "La industria argentina sufrió en julio su mayor caída mensual en 16 meses",
+      "resumen": "Las series del INDEC retrocedieron a niveles de mediados de 2024. El retroceso fue extendido a casi todas las divisiones industriales.",
+      "porQueImporta": "Esta noticia es relevante para entender el panorama económico actual de Argentina, que puede impactar en el poder adquisitivo, el consumo y las oportunidades de negocio en el país.",
+      "publicadoEn": "2026-09-08T19:27:00.000Z",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
+        "argentina",
+        "industria",
         "economia",
-        "alemania",
-        "exportaciones",
-        "mercados"
+        "indec",
+        "caída"
       ],
       "tambienVistoEn": []
     },
@@ -197,19 +225,19 @@
       "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
       "categoria": "Marketing",
       "fuente": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/campbells-heats-up-digital-focus-amid-marketing-reformulation/829764/",
-      "tituloOriginal": "Campbell’s heats up digital focus amid marketing reformulation",
-      "tituloLimpio": "Campbell's aumenta su enfoque digital en medio de una reformulación de marketing",
-      "resumen": "Canales como redes sociales, influencers y e-commerce representarán el 85% de los presupuestos de medios de Campbell's, buscando adaptarse a los gustos modernos del consumidor.",
-      "porQueImporta": "Para Guido, que le interesa el marketing, esta noticia muestra una tendencia clara en la asignación de presupuestos hacia canales digitales, incluyendo influencers y e-commerce. Es un ejemplo de cómo las grandes marcas se adaptan a los nuevos hábitos de consumo.",
-      "publicadoEn": "2026-09-08T14:10:00.000Z",
+      "url": "https://www.marketingdive.com/news/modelo-hikes-marketing-spend-on-college-football-for-new-platform/829785/",
+      "tituloOriginal": "Modelo hikes marketing spend on college football for new platform",
+      "tituloLimpio": "Modelo aumenta su inversión en marketing para fútbol universitario con nueva plataforma",
+      "resumen": "La marca ha realizado inversiones significativas en deportes en los últimos años mientras intenta aumentar su presencia en el mercado de la cerveza masiva.",
+      "porQueImporta": "Para Guido, interesado en marketing, esta noticia muestra una estrategia de inversión en publicidad deportiva para expandir la presencia de una marca, lo que puede ofrecer insights sobre tendencias de marketing y posicionamiento.",
+      "publicadoEn": "2026-09-08T18:29:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "marketing",
-        "digital",
-        "influencers",
-        "e-commerce"
+        "inversión",
+        "publicidad",
+        "estrategia"
       ],
       "tambienVistoEn": []
     },
@@ -217,39 +245,20 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-      "tituloOriginal": "Mistral raises €3B as sovereign AI becomes big business",
-      "tituloLimpio": "Mistral recauda 3 mil millones de euros mientras la IA soberana se convierte en un gran negocio",
-      "resumen": "El laboratorio francés de IA Mistral recaudó 3 mil millones de euros en una ronda de financiación Serie D, liderada por Samsung, Scaleup Europe y PSG Equity, alcanzando una valoración de 21 mil millones de euros.",
-      "porQueImporta": "Esta noticia es clave para Guido por el interés en IA y finanzas. Muestra una inversión significativa en un actor importante de la IA, destacando el crecimiento del sector y el concepto de 'IA soberana', lo que podría influir en el panorama tecnológico y de inversión.",
-      "publicadoEn": "2026-09-08T14:17:48.000Z",
+      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "tituloOriginal": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "tituloLimpio": "Meta lanza su agente de IA Muse, buscando acceso a datos de usuarios",
+      "resumen": "El nuevo agente personal de IA de Meta, Muse, busca acceso al correo electrónico, calendarios, pagos y servicios de salud de los usuarios. Esto representa la mayor apuesta de IA de consumo de la compañía y una prueba de la confianza de los usuarios en Meta con sus datos.",
+      "porQueImporta": "Como interesado en IA aplicada, es fundamental conocer los nuevos lanzamientos de agentes de IA y sus implicaciones, especialmente en cuanto a privacidad y el uso de datos, que son temas críticos en el desarrollo de la IA.",
+      "publicadoEn": "2026-09-08T19:00:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
+        "meta",
         "ia",
-        "inversion",
-        "financiamiento",
-        "mistral"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "categoria": "AI",
-      "fuente": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
-      "tituloOriginal": "Google’s Atlas of the human genome could pave the way for new treatments",
-      "tituloLimpio": "El Atlas del genoma humano de Google podría abrir camino a nuevos tratamientos",
-      "resumen": "Google DeepMind presentó una herramienta de IA, AlphaGenome Atlas, que sus científicos afirman podría ayudar a entender el genoma humano y acelerar la investigación científica para nuevos tratamientos de enfermedades.",
-      "porQueImporta": "Guido, interesado en la IA aplicada, encontrará relevante esta noticia sobre cómo Google DeepMind utiliza la inteligencia artificial para avanzar en la comprensión del genoma humano, con el potencial de revolucionar la medicina y la investigación biológica.",
-      "publicadoEn": "2026-09-08T14:00:00.000Z",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "ia",
-        "google",
-        "genoma",
-        "investigacion"
+        "muse",
+        "agente ia",
+        "privacidad"
       ],
       "tambienVistoEn": []
     },
@@ -260,15 +269,163 @@
       "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
       "tituloOriginal": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
       "tituloLimpio": "Emprendedor de IA desarrolla agentes que pueden planificar para lo inesperado",
-      "resumen": "Danijar Hafner está desarrollando agentes que pueden planificar con anticipación para lo inesperado.",
-      "porQueImporta": "Esta noticia es interesante para Guido por su interés en la IA aplicada y la automatización. El desarrollo de agentes de IA con capacidad de planificación anticipada podría tener implicaciones en la eficiencia y resiliencia de sistemas automatizados.",
+      "resumen": "La startup de Danijar Hafner está en modo sigiloso y desarrolla agentes que pueden planificar con anticipación para lo inesperado.",
+      "porQueImporta": "Esta noticia es relevante para Guido por su interés en la IA aplicada, mostrando avances en el desarrollo de agentes inteligentes con capacidades de planificación avanzada, lo que podría tener aplicaciones en automatización y resolución de problemas complejos.",
       "publicadoEn": "2026-09-08T10:34:00.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "ia",
-        "automatizacion",
-        "agentes"
+        "agentes ia",
+        "planificación",
+        "emprendimiento"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/09/08/report-apple-watch-shipments-rise-14-in-q2-as-overall-market-drops/",
+      "tituloOriginal": "Report: Apple Watch shipments rise 14% in Q2 as overall market drops",
+      "tituloLimpio": "Los envíos de Apple Watch aumentaron un 14% en el segundo trimestre",
+      "resumen": "Un nuevo informe de Counterpoint Research muestra que Apple, Garmin y Huawei desafiaron una disminución general en los envíos de smartwatches en el segundo trimestre de 2026.",
+      "porQueImporta": "Para Guido, usuario de Apple, es interesante ver el rendimiento del Apple Watch en el mercado, lo que puede indicar tendencias de consumo y la fortaleza de la marca en el sector de wearables.",
+      "publicadoEn": "2026-09-08T19:39:43.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "apple watch",
+        "mercado",
+        "smartwatch"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/09/08/apple-tv-4k-may-get-siri-ai-thanks-to-the-a19-or-a19-pro-chip?utm_source=rss",
+      "tituloOriginal": "Apple TV 4K may get Siri AI, thanks to the A19 or A19 Pro chip",
+      "tituloLimpio": "Apple TV 4K podría integrar Siri AI gracias al chip A19 o A19 Pro",
+      "resumen": "Según un identificador de Apple filtrado, la próxima generación de Apple TV recibirá una actualización importante con el sistema en chip A19 o A19 Pro. Apple podría actualizar el Apple TV 4K con el chip A19 o A19 Pro.",
+      "porQueImporta": "Esta noticia es relevante para Guido por su interés en Apple y la IA. La integración de Siri AI en el Apple TV 4K con un chip más potente podría mejorar la experiencia de usuario y las capacidades de automatización en el hogar.",
+      "publicadoEn": "2026-09-08T18:35:42.000Z",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "apple tv",
+        "siri",
+        "ia",
+        "chip"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/news/logitech-releases-the-developer-focused-mx-keypad-for-ai-automation/",
+      "tituloOriginal": "Logitech Releases the Developer-Focused MX Keypad for AI Automation",
+      "tituloLimpio": "Logitech lanza el MX Keypad, un teclado enfocado en desarrolladores para automatización con IA",
+      "resumen": "Logitech presentó el MX Keypad. Es una parte del MX Creative Console existente de Logitech. Sin embargo, en lugar de incluir un teclado numérico de 3x3 con un dialpad, el MX Keypad es solo el teclado numérico por 99 dólares.",
+      "porQueImporta": "Para Guido, interesado en herramientas y automatización con IA, este teclado podría ser una adición útil para optimizar flujos de trabajo en retoque fotográfico o arte con IA, ofreciendo una interfaz dedicada para tareas específicas.",
+      "publicadoEn": "2026-09-08T15:42:42.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "logitech",
+        "herramientas",
+        "automatización",
+        "ia",
+        "desarrollo"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/09/08/copper-ceo-amar-kuchinad-departs-as-search-for-a-buyer-enters-a-fourth-month",
+      "tituloOriginal": "Copper CEO Amar Kuchinad departs as search for a buyer enters a fourth month",
+      "tituloLimpio": "El CEO de Copper, Amar Kuchinad, se va mientras la búsqueda de un comprador entra en su cuarto mes",
+      "resumen": "Kuchinad, el CEO de la firma de custodia de criptomonedas Copper desde 2024, ha dejado la compañía, según dos personas familiarizadas con el asunto.",
+      "porQueImporta": "Para Guido, interesado en inversiones, esta noticia es relevante para entender la dinámica del mercado de criptomonedas y las empresas que lo componen, especialmente en un contexto de búsqueda de comprador para una firma de custodia.",
+      "publicadoEn": "2026-09-08T15:23:46.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/bde2c5f424b0f4b56edfc76ae278cc3190749d62-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 96,
+      "personalScore": 100,
+      "tags": [
+        "criptomonedas",
+        "finanzas",
+        "mercado",
+        "empresa"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/bybit-expands-tradfi-push-with-100x-fx-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Bybit launches 24/7 perpetuals for major currency pairs",
+      "tituloLimpio": "Bybit lanza perpetuos 24/7 para los principales pares de divisas",
+      "resumen": "Bybit añadió perpetuos liquidados en USDT que rastrean EUR/USD, GBP/USD y USD/JPY, con operaciones 24/7 y apalancamiento de hasta 100x.",
+      "porQueImporta": "Esta noticia es relevante para Guido por su interés en finanzas y mercados. La expansión de Bybit en el trading de divisas con apalancamiento puede ofrecer nuevas oportunidades o riesgos en el mercado de derivados.",
+      "publicadoEn": "2026-09-08T18:51:08.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M214SKH0TJH9F4DEZTD531F1/hi-bond-follow-up-bybit-1.png",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "trading",
+        "divisas",
+        "criptomonedas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/infraestructura-energia-credito-claves-destrabar-inversion-empresarios-funcionarios_0_gnbejr4yCf.html",
+      "tituloOriginal": "Infraestructura, energía y crédito: las tres claves para destrabar la inversión según empresarios y funcionarios",
+      "tituloLimpio": "Infraestructura, energía y crédito: claves para destrabar la inversión en Argentina",
+      "resumen": "Rutas, trenes, puertos, energía y financiamiento son condiciones centrales para que la inversión privada pueda crecer. En el tercer encuentro de la séptima edición de Democracia y Desarrollo, se puso el foco en las obras que necesita la Argentina.",
+      "porQueImporta": "Para Guido, esta noticia es importante para entender las prioridades económicas de Argentina y las áreas donde se espera mayor inversión, lo que podría generar oportunidades de negocio o desarrollo en el país.",
+      "publicadoEn": "2026-09-08T18:54:09.000Z",
+      "imagen": "https://www.clarin.com/img/2026/09/08/faJdRdeWD_1200x630__1.jpg",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "economia",
+        "inversión",
+        "infraestructura",
+        "energía"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/09/08/dolar-hoy-en-vivo-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-martes-8-de-septiembre/",
+      "tituloOriginal": "Dólar hoy en vivo: a cuánto operaron todas las cotizaciones minuto a minuto este martes 8 de septiembre",
+      "tituloLimpio": "Dólar hoy en vivo: cotizaciones del martes 8 de septiembre",
+      "resumen": "El billete al público continuó ofrecido por cuarto día a $1.530 para la venta en el Banco Nación. El blue siguió operado a $1.545.",
+      "porQueImporta": "Como residente en Argentina, el valor del dólar es una información económica fundamental que afecta el poder adquisitivo, los costos de importación y la estabilidad financiera personal.",
+      "publicadoEn": "2026-09-08T19:28:30.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/MIPCSSOZ3JG6BJG6MP2EPIYMPM.jpg?auth=04097573f6be54a71ab02aa90989ca48c0062cea2328904c6fb269929b24c6f2&smart=true&width=4500&height=2999",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "dólar",
+        "economia",
+        "cotización"
       ],
       "tambienVistoEn": []
     },
@@ -276,20 +433,20 @@
       "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Politica",
-      "url": "https://www.infobae.com/politica/2026/09/08/el-gobierno-reactivo-el-reparto-de-fondos-para-tres-provincias-antes-del-debate-por-el-presupuesto-y-la-reforma-politica/",
-      "tituloOriginal": "El Gobierno reactivó el reparto de fondos para tres provincias antes del debate por el Presupuesto y la Reforma Política",
-      "tituloLimpio": "El Gobierno reactivó el reparto de fondos para tres provincias antes del debate por el Presupuesto y la Reforma Política",
-      "resumen": "La administración nacional distribuyó Aportes del Tesoro Nacional (ATN) a una región encabezada por un gobernador aliado y a dos más alejadas del oficialismo; son montos menores y por emergencias puntuales. La Nación no había realizado desembolsos por casi dos meses.",
-      "porQueImporta": "Para Guido, que vive en Argentina, esta noticia es relevante porque muestra movimientos políticos y económicos a nivel nacional, especialmente en relación con la distribución de fondos a provincias, lo que puede tener implicaciones en la economía local y el clima de negocios.",
-      "publicadoEn": "2026-09-08T16:10:48.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/ZA6ZBT7YPFG4HAYMTY2NEBIQNE.jpeg?auth=4983ce803e3dce51dac0a6533a1b3ee2c9bff70159776746682d6a634c2a6f53&smart=true&width=4160&height=2774",
-      "globalScore": 94,
+      "url": "https://www.infobae.com/politica/2026/09/08/tras-el-anuncio-de-la-base-naval-en-ushuaia-que-pasara-con-la-que-ya-funciona-en-punta-indio/",
+      "tituloOriginal": "Tras el anuncio de la base naval en Ushuaia, qué pasará con la que ya funciona en Punta Indio",
+      "tituloLimpio": "Tras el anuncio de la base naval en Ushuaia, se modernizará la de Punta Indio",
+      "resumen": "Las autoridades de la Armada aseguran que el establecimiento no se cerrará, sino que, por el contrario, pasará por un proceso de modernización, pero continuará operando en todo momento.",
+      "porQueImporta": "Esta noticia es relevante para entender las inversiones en infraestructura y defensa en Argentina, lo que puede tener implicaciones geopolíticas y económicas a nivel local.",
+      "publicadoEn": "2026-09-08T19:37:00.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/ZKT4D6ONBZD6RFWAHWKOM5HPBE.jpg?auth=07bcbce59c7aedf770995060898def84a436d2fe432a0025cdd0aa86b97bf8bc&smart=true&width=1835&height=1080",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
         "argentina",
-        "politica",
-        "economia",
-        "fondos"
+        "política",
+        "defensa",
+        "infraestructura"
       ],
       "tambienVistoEn": []
     },
@@ -297,26 +454,110 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/tecnologia/probamos-la-tablet-tcl-nxtpaper-11-plus-que-ofrece-distintas-experiencias-de-uso-en-una-misma-nid08092026/",
-      "tituloOriginal": "Probamos la tablet TCL Nxtpaper 11 Plus, que ofrece distintas experiencias de uso en una misma pantalla",
-      "tituloLimpio": "Se probó la tablet TCL Nxtpaper 11 Plus, que ofrece distintas experiencias de uso en una misma pantalla",
-      "resumen": "Se probó la tablet TCL Nxtpaper 11 Plus, que ofrece diferentes experiencias de uso en una misma pantalla. El mercado de tablets busca ocupar un lugar más amplio que el consumo de contenidos.",
-      "porQueImporta": "Guido, interesado en herramientas y tecnología, encontrará útil esta reseña de una tablet que busca diversificar sus usos más allá del consumo de medios, lo que podría indicar tendencias en el desarrollo de dispositivos para productividad y creatividad.",
-      "publicadoEn": "2026-09-08T15:56:05.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/5BSC63YPBFENXJWOLLZYM6SHXY.webp?auth=66a44d62ded29e18fa5941b4449398bf02fe805be600d728c61cbd1e1d2ebdb0&smart=true&width=1920&height=982",
+      "url": "https://www.lanacion.com.ar/economia/campo/marca-un-antes-y-un-despues-empieza-a-ordenar-en-el-pais-el-primer-tambo-robot-de-la-raza-jersey-nid08092026/",
+      "tituloOriginal": "“Marca un antes y un después”: empieza a ordeñar el primer tambo robot de la raza Jersey en el país",
+      "tituloLimpio": "Empieza a ordeñar el primer tambo robot de la raza Jersey en Argentina",
+      "resumen": "En María Juana, Santa Fe, la familia Dalmasso apuesta a un sistema automatizado para maximizar la producción.",
+      "porQueImporta": "Para Guido, interesado en automatización y herramientas, este es un ejemplo concreto de cómo la tecnología robotizada se aplica en sectores tradicionales en Argentina, mostrando el potencial de la eficiencia y la innovación.",
+      "publicadoEn": "2026-09-08T19:26:48.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/PSOTBZBGSNEIJCXVCZYIOLURDE.jpg?auth=d2e75ed9e333a57f7aa243d60e18d210c50feb1e60be501b6e06c9374f458c37&smart=true&width=3649&height=2736",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "tablet",
-        "tcl",
-        "tecnologia",
-        "herramientas"
+        "argentina",
+        "automatización",
+        "robotica",
+        "producción",
+        "campo"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Politica",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-desregulacion-avanza-dijo-el-presidente-nid08092026/",
+      "tituloOriginal": "Javier Milei, en VIVO: el Gobierno sancionó a otras 15 empresas y accionistas por operaciones en las islas Malvinas",
+      "tituloLimpio": "El Gobierno sancionó a 15 empresas y accionistas por operaciones en las Islas Malvinas",
+      "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios.",
+      "porQueImporta": "Esta noticia es relevante para entender las políticas del gobierno argentino y sus acciones en relación con las Islas Malvinas, lo que puede tener implicaciones económicas y políticas.",
+      "publicadoEn": "2026-09-08T19:22:26.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/NAPUZELYDNAF3CSTPGXJ6J6TRY.jpg?auth=2c2ca2f1bf1b7d2aecf1c332ef23454fddb39ec4e4614b88aa3391d7e359195a&smart=true&width=960&height=640",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "argentina",
+        "política",
+        "gobierno",
+        "malvinas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "fuente": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/kitchen-table-finances-intuit-on-ai-and-everyday-money-management/",
+      "tituloOriginal": "Kitchen Table Finances: Intuit on AI and Everyday Money Management",
+      "tituloLimpio": "Intuit sobre IA y gestión financiera diaria",
+      "resumen": "Mark Notarainni, de Intuit, habla sobre los tres elementos de marketing y tecnología que redefinen el empoderamiento financiero del consumidor.",
+      "porQueImporta": "Para Guido, interesado en marketing y IA, esta noticia ofrece una perspectiva sobre cómo la inteligencia artificial y la tecnología están transformando la gestión financiera y el marketing en este sector.",
+      "publicadoEn": "2026-09-08T14:47:27.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "marketing",
+        "ia",
+        "finanzas",
+        "tecnología"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cud3Nq",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.wsj.com/finance/currencies/japanese-yen-climbs-to-six-month-high-as-rate-outlooks-shift-df3980be?siteid=yhoof2&yptr=yahoo",
+      "tituloOriginal": "Yen Climbs to Six-Month High as Rate Outlooks Shift",
+      "tituloLimpio": "El yen sube a un máximo de seis meses por cambios en las perspectivas de tasas",
+      "resumen": "No se proporcionó un resumen detallado en el material original.",
+      "porQueImporta": "Para Guido, interesado en finanzas y mercados, el movimiento del yen es un indicador de cambios en las políticas monetarias globales y las expectativas de tasas de interés, lo que puede influir en las estrategias de inversión.",
+      "publicadoEn": "2026-09-07T10:34:00.000Z",
+      "imagen": "https://media.zenfs.com/en/wsj.com/352cc4be410f0dd62cb06437d84caa5d.jpg",
+      "globalScore": 82,
+      "personalScore": 92,
+      "tags": [
+        "finanzas",
+        "mercado",
+        "yen",
+        "tasas de interés"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuYmFy",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.barrons.com/articles/stock-markets-interest-rates-trump-92c39e4b?siteid=yhoof2&yptr=yahoo",
+      "tituloOriginal": "The Real Risk to Markets of Trump’s Frustration at High Interest Rates",
+      "tituloLimpio": "El riesgo real para los mercados por la frustración de Trump con las altas tasas de interés",
+      "resumen": "No se proporcionó un resumen detallado en el material original.",
+      "porQueImporta": "Esta noticia es relevante para Guido por su interés en finanzas y mercados. Las declaraciones de figuras políticas influyentes pueden generar volatilidad y afectar las expectativas sobre las tasas de interés y la economía global.",
+      "publicadoEn": "2026-09-07T10:32:00.000Z",
+      "imagen": "https://media.zenfs.com/en/Barrons.com/c5d9399f7ceae790d6f18552028c2ed8.jpg",
+      "globalScore": 82,
+      "personalScore": 92,
+      "tags": [
+        "finanzas",
+        "mercado",
+        "tasas de interés",
+        "política"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-09-08T16:16:05.161Z"
+    "generadoEn": "2026-09-08T19:44:53.253Z"
   }
 }
