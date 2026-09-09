@@ -1,206 +1,203 @@
 {
   "fecha": "2026-09-09",
-  "generadoEn": "2026-09-09T16:11:01.869Z",
+  "generadoEn": "2026-09-09T19:36:46.566Z",
   "actualizacion": "14:00",
-  "resumenEjecutivo": "Hoy, Apple celebra su evento 'Surprise and Shine' con lanzamientos importantes. En el ámbito de la IA, se debate sobre la superinteligencia y Amazon Prime Video lanza una tecnología de sincronización labial con IA. En Argentina, se discute el endeudamiento familiar y los salarios para ser clase media en CABA, mientras petroleras buscan inversiones en Wall Street para Vaca Muerta. También se destaca la visión de una ejecutiva de SAP sobre la transformación del trabajo por la IA.",
+  "resumenEjecutivo": "Apple lanzó una serie de videos para desarrolladores de su primer iPhone plegable, el iPhone Duo, cuya bisagra fue diseñada con IA. También ajustó los valores de trade-in, bajando los de iPhone y subiendo los de iPad y Mac. En Argentina, la producción minera tuvo su segunda caída mensual consecutiva y se proyecta un aumento moderado en la superficie de soja. La sesión en el Senado se cayó por desacuerdos sobre la ley de Biocombustibles.",
   "radarPersonal": [
     {
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "Evento de Apple 'Surprise and Shine' en vivo",
-      "resumen": "El evento de medios de Apple, 'Surprise and Shine', comienza hoy a las 10:00 am hora del Pacífico.",
+      "titulo": "Apple publica serie de videos para desarrolladores del iPhone Duo",
+      "resumen": "Apple lanzó una nueva playlist en YouTube para ayudar a los desarrolladores a preparar sus apps para el iPhone Duo, su primer iPhone plegable.",
       "categoria": "Apple",
       "fuentes": [
         "MacRumors"
       ],
       "urls": [
-        "https://www.macrumors.com/2026/09/09/september-2026-spoiler-free/"
+        "https://www.macrumors.com/2026/09/09/developer-video-series-for-iphone-duo/"
       ],
       "score": 100,
       "tags": [
         "apple",
-        "evento",
-        "lanzamiento"
+        "desarrolladores",
+        "iphone duo",
+        "plegable"
       ]
     },
     {
-      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
-      "titulo": "Preparativos en Apple Park para el evento del iPhone 18 Pro",
-      "resumen": "AppleInsider reporta desde Apple Park sobre la actividad 'Welcome Run' previa al lanzamiento del iPhone 18 Pro.",
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "La bisagra del nuevo teléfono plegable de Apple fue construida con IA",
+      "resumen": "Apple afirma que utilizó IA e impresión 3D en el proceso de fabricación de la bisagra de su esperado teléfono plegable.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/"
+      ],
+      "score": 100,
+      "tags": [
+        "apple",
+        "plegable",
+        "ia",
+        "fabricación"
+      ]
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "titulo": "Apple actualiza valores de trade-in y baja los pagos por iPhone",
+      "resumen": "Apple actualizó los valores de trade-in después de su evento, disminuyendo los pagos por iPhones y aumentándolos para iPads y la mayoría de las Macs.",
       "categoria": "Apple",
       "fuentes": [
-        "AppleInsider"
+        "9to5Mac"
       ],
       "urls": [
-        "https://appleinsider.com/articles/26/09/09/inside-apple-parks-welcome-run-ahead-of-the-iphone-18-pro-event?utm_source=rss"
+        "https://9to5mac.com/2026/09/09/apple-updates-trade-in-values-following-surprise-and-shine-event-lowers-iphone-payouts/"
       ],
       "score": 100,
       "tags": [
         "apple",
+        "trade-in",
         "iphone",
-        "evento"
+        "ipad",
+        "mac"
       ]
     },
     {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "titulo": "Amazon Prime Video lanza tecnología de sincronización labial con IA para doblajes",
-      "resumen": "Amazon Prime Video estrena una función con IA que alinea la boca de un actor con el audio doblado.",
-      "categoria": "AI",
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "La producción minera argentina registra su segunda caída mensual consecutiva",
+      "resumen": "En julio, el índice de producción industrial minero (IPI minero) subió 3,7% interanual, pero fue el dato más bajo desde febrero.",
+      "categoria": "Argentina",
       "fuentes": [
-        "The Verge AI"
+        "Ambito"
       ],
       "urls": [
-        "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing"
+        "https://www.ambito.com/economia/el-ipi-minero-registro-la-segunda-caida-mensual-consecutiva-y-nivel-interanual-fue-la-mas-baja-5-meses-n6320444"
       ],
       "score": 100,
       "tags": [
-        "amazon",
-        "prime video",
-        "ia",
-        "doblaje"
-      ]
-    },
-    {
-      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
-      "titulo": "Ejecutiva de SAP en Argentina revela cómo la IA transforma el trabajo",
-      "resumen": "Gina Vargiu-Breuer, del executive board de SAP, visitó Argentina y compartió detalles sobre la transformación del mundo laboral por la IA.",
-      "categoria": "AI",
-      "fuentes": [
-        "La Nacion Economia"
-      ],
-      "urls": [
-        "https://www.lanacion.com.ar/tecnologia/es-alemana-y-ejecutiva-de-un-gigante-visito-la-argentina-y-revelo-como-la-ia-esta-transformando-el-nid09092026/"
-      ],
-      "score": 100,
-      "tags": [
-        "ia",
-        "trabajo",
         "argentina",
-        "sap"
+        "minería",
+        "economía",
+        "producción"
       ]
     },
     {
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
-      "titulo": "Petroleras argentinas buscan dólares en Wall Street para Vaca Muerta",
-      "resumen": "Tecpetrol amplió una emisión por US$450 millones, y YPF buscará al menos otros US$500 millones en Wall Street.",
-      "categoria": "Finance",
+      "titulo": "Proyectan un incremento moderado de la superficie de soja en Argentina",
+      "resumen": "La Bolsa de Cereales proyecta un crecimiento del 1,2% en la superficie sembrada de soja, alcanzando 17 millones de hectáreas.",
+      "categoria": "Argentina",
       "fuentes": [
         "Clarin Economia"
       ],
       "urls": [
-        "https://www.clarin.com/energia-y-mineria/petroleras-argentinas-salen-wall-street-buscan-dolares-vaca-muerta_0_ohKAG1uqEq.html"
+        "https://www.clarin.com/rural/proyectan-incremento-moderado-superficie-soja-17-millones-hectareas_0_1iATG9qN8i.html"
       ],
       "score": 100,
       "tags": [
         "argentina",
-        "inversion",
-        "vaca muerta",
-        "petroleo"
+        "soja",
+        "agricultura",
+        "economía"
       ]
     }
   ],
   "loImportante": [
-    "Apple celebra su evento 'Surprise and Shine' con posibles nuevos lanzamientos.",
-    "La IA sigue avanzando con nuevas aplicaciones como la sincronización labial en videos y el debate sobre la superinteligencia.",
-    "En Argentina, se actualizan los valores de ingresos para ser clase media en CABA y se discute el endeudamiento familiar.",
-    "Empresas petroleras argentinas buscan financiamiento en Wall Street para proyectos en Vaca Muerta.",
-    "Logitech lanza un teclado numérico enfocado en la automatización con IA para desarrolladores."
+    "Apple está preparando el lanzamiento de su primer iPhone plegable, el iPhone Duo, con herramientas para desarrolladores y tecnología de IA en su fabricación.",
+    "La producción minera en Argentina muestra una desaceleración, con una segunda caída mensual consecutiva.",
+    "El mercado de la soja en Argentina proyecta un crecimiento moderado, impulsado por factores como la mejora de precios y la reducción de derechos de exportación.",
+    "La política interna argentina enfrenta desafíos, con la caída de una sesión en el Senado por desacuerdos en la ley de Biocombustibles.",
+    "Microsoft establece nuevas reglas de privacidad para el uso de IA en escuelas, buscando un equilibrio entre tecnología y seguridad estudiantil."
   ],
   "oportunidades": [
     {
-      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
-      "categoria": "Automation",
-      "titulo": "Logitech lanza teclado numérico MX Keypad para automatización con IA",
-      "detalle": "Logitech presentó el MX Keypad, un teclado numérico enfocado en desarrolladores para la automatización con IA.",
-      "acciones": [
-        "Investigar el MX Keypad de Logitech para flujos de trabajo de automatización con IA."
-      ]
-    },
-    {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "AI",
-      "titulo": "Nueva tecnología de IA de Amazon Prime Video para sincronización labial en doblajes",
-      "detalle": "Amazon Prime Video lanza una función de IA que alinea la boca de los actores con el audio doblado, mejorando la experiencia de contenido internacional.",
+      "titulo": "Desarrollo de apps para el iPhone plegable de Apple con IA",
+      "detalle": "Apple lanzó una serie de videos para desarrolladores para preparar apps para el iPhone Duo, su primer plegable, cuya bisagra fue construida con IA. Esto abre una oportunidad para explorar el desarrollo de aplicaciones que aprovechen las capacidades de los dispositivos plegables y la integración de IA en el diseño de hardware.",
       "acciones": [
-        "Analizar el impacto de la IA en la producción y localización de contenido audiovisual.",
-        "Explorar herramientas de IA similares para proyectos de retoque o arte con video."
+        "Investigar las guías de desarrollo de Apple para el iPhone Duo.",
+        "Explorar herramientas de IA para el diseño y optimización de interfaces de usuario en dispositivos plegables."
       ]
     },
     {
-      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
-      "categoria": "Investing",
-      "titulo": "Petroleras argentinas buscan inversión en Wall Street para Vaca Muerta",
-      "detalle": "Tecpetrol amplió una emisión por US$450 millones y YPF buscará otros US$500 millones, coincidiendo con un aumento del precio del petróleo.",
+      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
+      "categoria": "Marketing",
+      "titulo": "Campañas de marketing viral con transformaciones de imagen",
+      "detalle": "Caesars Sportsbook realizó una campaña viral con una transformación de imagen de una leyenda de la NFL. Esto demuestra el potencial de las campañas de marketing que utilizan cambios visuales impactantes y la participación de figuras públicas para generar conversación y visibilidad.",
       "acciones": [
-        "Monitorear el sector energético argentino y las oportunidades de inversión en Vaca Muerta a través de ETFs o acciones."
+        "Analizar la estrategia detrás de la campaña de Caesars para entender cómo generó viralidad.",
+        "Considerar la aplicación de técnicas de 'looksmaxxing' o transformaciones visuales en campañas de marketing para clientes de retoque fotográfico."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
-      "categoria": "AI",
-      "titulo": "Debate sobre los peligros de la superinteligencia artificial",
-      "detalle": "Empresas de IA hablan de la superinteligencia como inevitable, pero incidentes recientes demuestran los peligros de sistemas de IA más capaces que los humanos.",
-      "mitigacion": "Mantenerse informado sobre los avances y debates en seguridad de IA, y considerar las implicaciones éticas y de control en el desarrollo y uso de estas tecnologías."
-    },
-    {
-      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Market",
-      "titulo": "Casi 6 de cada 10 hogares argentinos se endeudan, con mora récord",
-      "detalle": "El 58,7% de las familias urbanas utiliza algún mecanismo de financiamiento, con un nivel estable en la última década a pesar del aumento de las dificultades de pago.",
-      "mitigacion": "Evaluar el impacto del endeudamiento y la mora en el consumo y la economía local al tomar decisiones de inversión o negocio en Argentina."
+      "titulo": "Disminución del valor de reventa de iPhones",
+      "detalle": "Apple bajó los valores de trade-in para iPhones, lo que podría afectar el ciclo de actualización de dispositivos y el valor residual de los equipos.",
+      "mitigacion": "Evaluar el impacto en la estrategia de compra y venta de equipos Apple, considerando la depreciación acelerada de iPhones."
     },
     {
-      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
-      "categoria": "Regulatory",
-      "titulo": "El Tesoro de EE.UU. sanciona centro de ciberestafas con criptomonedas",
-      "detalle": "La plataforma Xinbi, de habla china, es acusada de operar con transacciones de criptomonedas y ofrecer servicios a redes criminales.",
-      "mitigacion": "Ser cauteloso con las plataformas de criptomonedas y estar al tanto de las regulaciones y sanciones internacionales para evitar riesgos."
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "titulo": "Controversias en torno a los logros de la IA en matemáticas",
+      "detalle": "Un logro matemático de OpenAI generó controversia, lo que sugiere desafíos en la validación y aceptación de los avances de la IA en campos complejos.",
+      "mitigacion": "Mantenerse informado sobre las discusiones éticas y de validación en el campo de la IA, especialmente en aplicaciones de alto impacto."
     }
   ],
   "conexiones": [
     {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "titulo": "Controversia de OpenAI y el futuro de las matemáticas",
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "El iPhone plegable de Apple: desarrollo, tecnología y mercado",
       "historias": [
-        "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1"
+        "Apple publica serie de videos para desarrolladores del iPhone Duo",
+        "La bisagra del nuevo teléfono plegable de Apple fue construida con IA",
+        "Spigen crea protección para el iPhone 18 Pro y el iPhone Duo de Apple",
+        "Fechas de lanzamiento y características del evento 'Surprise and Shine' de Apple"
       ],
-      "conclusion": "La controversia de OpenAI sobre un hito matemático se relaciona con el debate más amplio sobre los peligros de la superinteligencia, sugiriendo que los avances en IA, incluso en campos como las matemáticas, pueden generar preocupaciones sobre el control y la seguridad de estos sistemas."
-    },
-    {
-      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
-      "titulo": "Avance legislativo en endeudamiento y discapacidad en Diputados",
-      "historias": [
-        "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
-        "infobae-economia-aHR0cHM6Ly93d3cuaW5m"
-      ],
-      "conclusion": "La oposición logró abrir la sesión en Diputados para debatir proyectos sobre endeudamiento y discapacidad, lo que se conecta con el informe sobre el alto nivel de endeudamiento de los hogares argentinos y la mora récord, mostrando una respuesta política a una problemática económica y social."
+      "conclusion": "El lanzamiento del iPhone Duo, el primer plegable de Apple, es un evento clave que integra innovación en hardware (bisagra con IA), software (kits para desarrolladores) y accesorios (Spigen). Este lanzamiento marca una nueva etapa para Apple en el mercado de dispositivos móviles, con implicaciones para el ecosistema de apps y la competencia."
     }
   ],
   "noticias": [
     {
-      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "categoria": "Apple",
-      "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/09/09/september-2026-spoiler-free/",
-      "tituloOriginal": "September 2026 Apple Event Spoiler-Free Video Stream",
-      "tituloLimpio": "Apple celebra su evento 'Surprise and Shine' hoy",
-      "resumen": "El evento de medios de Apple, 'Surprise and Shine', comienza hoy a las 10:00 am hora del Pacífico.",
-      "porQueImporta": "Es el evento principal de Apple, donde se esperan anuncios de nuevos productos que podrían impactar el mercado tecnológico y las herramientas de trabajo.",
-      "publicadoEn": "2026-09-09T16:00:18.000Z",
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+      "tituloOriginal": "Get ready for the game with new football features in Search",
+      "tituloLimpio": "Nuevas funciones de fútbol en la Búsqueda de Google",
+      "resumen": "Se pueden seguir partidos en vivo, explorar estadísticas detalladas y obtener recomendaciones personalizadas de fantasy directamente en la Búsqueda esta temporada.",
+      "porQueImporta": "Aunque es sobre fútbol, muestra cómo Google integra información en tiempo real y personalización en su buscador, algo relevante para entender tendencias en la experiencia de usuario y la entrega de contenido.",
+      "publicadoEn": "2026-09-09T16:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "september",
-        "2026",
+        "google",
+        "búsqueda",
+        "deportes",
+        "personalización"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/09/developer-video-series-for-iphone-duo/",
+      "tituloOriginal": "Apple Publishes Developer Video Series for iPhone Duo",
+      "tituloLimpio": "Apple publica serie de videos para desarrolladores del iPhone Duo",
+      "resumen": "Apple publicó una nueva playlist en YouTube para ayudar a los desarrolladores a preparar sus apps para el iPhone Duo, su primer iPhone plegable.",
+      "porQueImporta": "Es clave para Guido, ya que Apple está marcando el camino para el desarrollo de aplicaciones en un nuevo formato de hardware, lo que podría generar nuevas oportunidades en diseño y funcionalidad de apps.",
+      "publicadoEn": "2026-09-09T19:34:36.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
         "apple",
-        "event",
-        "spoiler-free",
-        "video",
-        "stream",
-        "surprise",
-        "shine",
-        "media"
+        "desarrolladores",
+        "iphone duo",
+        "plegable"
       ],
       "tambienVistoEn": []
     },
@@ -208,28 +205,19 @@
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Argentina",
       "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/salarios-cuanto-necesita-una-familia-ser-clase-media-caba-n6320290",
-      "tituloOriginal": "Salarios: cuánto necesita una familia para ser de clase media en CABA",
-      "tituloLimpio": "Salarios: cuánto necesita una familia para ser de clase media en CABA",
-      "resumen": "Los datos oficiales de la Ciudad Autónoma de Buenos Aires brindaron los valores actualizados de los ingresos mínimos para cada estrato social.",
-      "porQueImporta": "Información económica directa y relevante para la vida en Buenos Aires, útil para entender el poder adquisitivo y la situación financiera local.",
-      "publicadoEn": "2026-09-09T14:56:00.000Z",
-      "imagen": "https://media.ambito.com/p/7b7754baa408c08cf387432a053253c2/adjuntos/239/imagenes/041/907/0041907031/pesos-salarios-inflacion-paritarias.jpg",
+      "url": "https://www.ambito.com/economia/el-ipi-minero-registro-la-segunda-caida-mensual-consecutiva-y-nivel-interanual-fue-la-mas-baja-5-meses-n6320444",
+      "tituloOriginal": "La producción minera registró su segunda caída mensual consecutiva, y desaceleró mejora anual",
+      "tituloLimpio": "La producción minera argentina registra su segunda caída mensual consecutiva",
+      "resumen": "En julio, el índice de producción industrial minero (IPI minero) subió 3,7% interanual, pero fue el dato más bajo desde febrero.",
+      "porQueImporta": "Noticia económica relevante para Argentina, que indica una desaceleración en un sector clave de la economía. Puede influir en decisiones de inversión o en el panorama económico general del país.",
+      "publicadoEn": "2026-09-09T19:10:42.000Z",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "salarios",
-        "cuanto",
-        "necesita",
-        "familia",
-        "para",
-        "clase",
-        "media",
-        "caba",
-        "datos",
-        "oficiales",
-        "ciudad",
-        "autonoma"
+        "argentina",
+        "minería",
+        "economía",
+        "producción"
       ],
       "tambienVistoEn": []
     },
@@ -239,25 +227,17 @@
       "fuente": "Marketing Dive",
       "url": "https://www.marketingdive.com/news/caesars-gives-nfl-legend-a-looksmaxxing-makeover-in-sportsbook-ads/829915/",
       "tituloOriginal": "Caesars gives NFL legend a ‘looksmaxxing’ makeover in sportsbook ads",
-      "tituloLimpio": "Caesars le da a una leyenda de la NFL un cambio de imagen 'looksmaxxing' en anuncios de apuestas deportivas",
-      "resumen": "El exjugador de los Green Bay Packers, Clay Matthews, se volvió viral por un nuevo look que es parte de la campaña de la aplicación de apuestas deportivas.",
-      "porQueImporta": "Ejemplo de una campaña de marketing innovadora que utiliza la viralidad y el 'looksmaxxing' para promocionar una marca, relevante para profesionales del marketing.",
+      "tituloLimpio": "Caesars realiza un 'looksmaxxing' a leyenda de la NFL en anuncios de apuestas deportivas",
+      "resumen": "El exjugador de los Green Bay Packers, Clay Matthews, se volvió viral por un nuevo look que forma parte de la campaña de la app de apuestas deportivas.",
+      "porQueImporta": "Interesante ejemplo de marketing viral y cómo las marcas utilizan transformaciones de imagen para generar conversación y engagement, relevante para el interés de Guido en marketing y retoque fotográfico.",
       "publicadoEn": "2026-09-09T15:30:00.000Z",
       "globalScore": 96,
       "personalScore": 100,
       "tags": [
-        "caesars",
-        "gives",
-        "legend",
-        "looksmaxxing",
-        "makeover",
-        "sportsbook",
-        "former",
-        "green",
-        "packers",
-        "star",
-        "clay",
-        "matthews"
+        "marketing",
+        "viral",
+        "publicidad",
+        "retoque"
       ],
       "tambienVistoEn": []
     },
@@ -265,27 +245,20 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
-      "tituloOriginal": "Superintelligence is coming. Should we let it?",
-      "tituloLimpio": "Se debate si se debe permitir la llegada de la superinteligencia artificial",
-      "resumen": "Empresas de IA hablan de la superinteligencia como inevitable, pero incidentes recientes demuestran los peligros de sistemas de IA más capaces que los humanos.",
-      "porQueImporta": "Es un tema crucial para entender los riesgos y el futuro de la IA, especialmente para quienes trabajan con estas tecnologías.",
-      "publicadoEn": "2026-09-09T16:05:35.000Z",
+      "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+      "tituloOriginal": "The hinge for Apple’s new foldable phone was built with AI",
+      "tituloLimpio": "La bisagra del nuevo teléfono plegable de Apple fue construida con IA",
+      "resumen": "Apple afirma que utilizó IA e impresión 3D en el proceso de fabricación de la bisagra de su esperado teléfono plegable.",
+      "porQueImporta": "Combina el interés de Guido en Apple y la IA aplicada, mostrando cómo la inteligencia artificial se usa en el diseño y la producción de hardware avanzado.",
+      "publicadoEn": "2026-09-09T19:21:48.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "superintelligence",
-        "coming",
-        "should",
-        "companies",
-        "have",
-        "been",
-        "talking",
-        "about",
-        "superintelligent",
-        "like",
-        "inevitable",
-        "recent"
+        "apple",
+        "ia",
+        "hardware",
+        "plegable",
+        "fabricación"
       ],
       "tambienVistoEn": []
     },
@@ -293,24 +266,20 @@
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
       "fuente": "The Verge AI",
-      "url": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
-      "tituloOriginal": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
-      "tituloLimpio": "Amazon Prime Video lanza tecnología de IA para sincronización labial en doblajes",
-      "resumen": "Amazon Prime Video estrena una función con IA que alinea la boca de un actor con el audio doblado.",
-      "porQueImporta": "Demuestra una aplicación práctica y avanzada de la IA en la producción de contenido, mejorando la experiencia del usuario y abriendo nuevas posibilidades en el retoque y la localización de video.",
-      "publicadoEn": "2026-09-09T13:00:00.000Z",
+      "url": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
+      "tituloOriginal": "Microsoft has new AI privacy rules for schools",
+      "tituloLimpio": "Microsoft establece nuevas reglas de privacidad de IA para escuelas",
+      "resumen": "Microsoft acordó un conjunto de principios de seguridad y privacidad para la IA en las escuelas, una semana después de que dos grandes sistemas escolares prohibieran la IA para estudiantes.",
+      "porQueImporta": "Muestra la evolución de la regulación y las políticas en torno a la IA, especialmente en entornos sensibles como la educación. Es relevante para entender el impacto social y ético de la IA.",
+      "publicadoEn": "2026-09-09T17:07:48.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "amazon",
-        "prime",
-        "video",
-        "tech",
-        "matches",
-        "lips",
-        "dubbed",
-        "audio",
-        "launching"
+        "microsoft",
+        "ia",
+        "privacidad",
+        "educación",
+        "regulación"
       ],
       "tambienVistoEn": []
     },
@@ -320,23 +289,38 @@
       "fuente": "MIT Technology Review AI",
       "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
       "tituloOriginal": "What OpenAI’s latest controversy tells us about the future of math",
-      "tituloLimpio": "La controversia de OpenAI y el futuro de las matemáticas",
-      "resumen": "El último hito matemático de OpenAI se vio envuelto en controversia.",
-      "porQueImporta": "Refleja los desafíos y debates éticos en torno a los avances de la IA, incluso en campos fundamentales como las matemáticas, y sus implicaciones futuras.",
+      "tituloLimpio": "La última controversia de OpenAI y el futuro de las matemáticas",
+      "resumen": "Un reciente hito matemático de OpenAI se vio envuelto en controversia. La compañía anunció que sus agentes resolvieron uno de los Problemas del Milenio.",
+      "porQueImporta": "Destaca los avances y desafíos de la IA en campos complejos como las matemáticas, y las discusiones que surgen en torno a estos logros. Relevante para el interés de Guido en la IA aplicada.",
       "publicadoEn": "2026-09-09T03:10:08.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "what",
         "openai",
-        "latest",
-        "controversy",
-        "tells",
-        "about",
-        "future",
-        "math",
-        "mathematical",
-        "milestone"
+        "ia",
+        "matemáticas",
+        "controversia"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5mac.com/2026/09/09/apple-updates-trade-in-values-following-surprise-and-shine-event-lowers-iphone-payouts/",
+      "tituloOriginal": "Apple updates trade-in values following ‘Surprise and Shine’ event, lowers iPhone payouts",
+      "tituloLimpio": "Apple actualiza valores de trade-in y baja los pagos por iPhone",
+      "resumen": "Apple actualizó los valores de trade-in después de su evento, disminuyendo los pagos por iPhones y aumentándolos para iPads y la mayoría de las Macs.",
+      "porQueImporta": "Impacta directamente en el valor de reventa de los productos Apple, lo que puede influir en las decisiones de compra y actualización de equipos para Guido.",
+      "publicadoEn": "2026-09-09T19:26:43.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "trade-in",
+        "iphone",
+        "ipad",
+        "mac"
       ],
       "tambienVistoEn": []
     },
@@ -344,25 +328,85 @@
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
       "categoria": "Apple",
       "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/09/09/inside-apple-parks-welcome-run-ahead-of-the-iphone-18-pro-event?utm_source=rss",
-      "tituloOriginal": "Inside Apple Park's 'Welcome Run' ahead of the iPhone 18 Pro event",
-      "tituloLimpio": "Preparativos en Apple Park para el evento del iPhone 18 Pro",
-      "resumen": "AppleInsider reporta desde Apple Park sobre la actividad 'Welcome Run' previa al lanzamiento del iPhone 18 Pro.",
-      "porQueImporta": "Confirma la inminencia de lanzamientos importantes de Apple, como el iPhone 18 Pro, relevante para usuarios y profesionales del ecosistema Apple.",
-      "publicadoEn": "2026-09-09T14:47:31.000Z",
+      "url": "https://appleinsider.com/articles/26/09/09/spigen-built-protection-to-match-apples-premium-iphone-18-pro-iphone-duo?utm_source=rss",
+      "tituloOriginal": "Spigen built protection to match Apple's premium iPhone 18 Pro & iPhone Duo",
+      "tituloLimpio": "Spigen crea protección para el iPhone 18 Pro y el iPhone Duo de Apple",
+      "resumen": "Spigen aplica su experiencia de casi dos décadas protegiendo iPhones a la nueva línea iPhone 18 y al primer iPhone plegable de Apple.",
+      "porQueImporta": "Muestra cómo el ecosistema de accesorios se adapta rápidamente a los nuevos lanzamientos de Apple, un aspecto interesante para los usuarios de la marca.",
+      "publicadoEn": "2026-09-09T19:19:08.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "inside",
         "apple",
-        "park",
-        "welcome",
-        "ahead",
+        "accesorios",
         "iphone",
-        "event",
-        "appleinsider",
-        "andrew",
-        "hara"
+        "spigen",
+        "plegable"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacStories",
+      "url": "https://www.macstories.net/news/all-the-surprise-and-shine-release-dates-visualized/",
+      "tituloOriginal": "All the ‘Surprise and Shine’ Release Dates and Features, Visualized",
+      "tituloLimpio": "Fechas de lanzamiento y características del evento 'Surprise and Shine' de Apple",
+      "resumen": "En el evento 'Surprise and Shine', Apple anunció muchas fechas. La mayoría del nuevo hardware llega el 18 de septiembre, pero el iPhone Duo se lanza en octubre. Las actualizaciones de OS llegan el 14 de septiembre.",
+      "porQueImporta": "Proporciona un resumen de las fechas clave de lanzamiento de productos y actualizaciones de software de Apple, esencial para estar al tanto de las novedades de la marca.",
+      "publicadoEn": "2026-09-09T18:40:34.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "apple",
+        "lanzamientos",
+        "eventos",
+        "iphone",
+        "os"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Finance",
+      "fuente": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/09/09/robinhood-s-ceo-vlad-tenev-defends-stock-tokens-in-escalating-fight-with-amc-ceo",
+      "tituloOriginal": "Robinhood’s CEO Vlad Tenev fires back at AMC CEO in escalating fight over stock tokens",
+      "tituloLimpio": "El CEO de Robinhood defiende los tokens de acciones en disputa con el CEO de AMC",
+      "resumen": "El CEO de Robinhood, Vlad Tenev, dijo que las empresas públicas no deberían tener poder de veto sobre valores de terceros que hagan referencia a sus acciones.",
+      "porQueImporta": "Refleja una discusión importante en el mundo financiero sobre la tokenización de activos y el control corporativo, relevante para el interés de Guido en inversiones y mercados.",
+      "publicadoEn": "2026-09-09T16:11:07.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/777380e065809566f31e83f71a5eab0c67e97d87-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "globalScore": 92,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "robinhood",
+        "tokens",
+        "mercados",
+        "acciones"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
+      "categoria": "Finance",
+      "fuente": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/consensys-to-split-into-metamask-and-institutional-blockchain-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "Consensys to split into MetaMask and institutional blockchain company",
+      "tituloLimpio": "Consensys se dividirá en MetaMask y una empresa de blockchain institucional",
+      "resumen": "La reestructuración separará el negocio de consumo de MetaMask de los protocolos Ethereum y las operaciones de infraestructura blockchain institucional de Consensys.",
+      "porQueImporta": "Noticia relevante en el ecosistema blockchain y cripto, mostrando la evolución de grandes actores como Consensys y la especialización de sus unidades de negocio. Interesante para el panorama de inversiones.",
+      "publicadoEn": "2026-09-09T18:47:32.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23QBD87GQQKWH5JQGT142KQ/hi-crypto-loan-platforms-how-they-work-and-who-are-the-main-players-consensys.png",
+      "globalScore": 90,
+      "personalScore": 100,
+      "tags": [
+        "blockchain",
+        "cripto",
+        "metamask",
+        "ethereum",
+        "finanzas"
       ],
       "tambienVistoEn": []
     },
@@ -370,28 +414,20 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/energia-y-mineria/petroleras-argentinas-salen-wall-street-buscan-dolares-vaca-muerta_0_ohKAG1uqEq.html",
-      "tituloOriginal": "Petroleras argentinas salen a Wall Street y buscan dólares para Vaca Muerta",
-      "tituloLimpio": "Petroleras argentinas buscan dólares en Wall Street para Vaca Muerta",
-      "resumen": "Tecpetrol amplió una emisión por US$450 millones, y YPF buscará al menos otros US$500 millones en Wall Street.",
-      "porQueImporta": "Indica movimientos importantes en el sector energético argentino y oportunidades de inversión, con impacto en la economía nacional.",
-      "publicadoEn": "2026-09-09T15:33:39.000Z",
-      "imagen": "https://www.clarin.com/img/2026/08/19/6a1n88meJ_1200x630__1.jpg",
-      "globalScore": 98,
+      "url": "https://www.clarin.com/rural/proyectan-incremento-moderado-superficie-soja-17-millones-hectareas_0_1iATG9qN8i.html",
+      "tituloOriginal": "Proyectan un incremento moderado de la superficie de soja: 17 millones de hectáreas",
+      "tituloLimpio": "Proyectan un incremento moderado de la superficie de soja en Argentina",
+      "resumen": "La Bolsa de Cereales proyecta un crecimiento del 1,2% en la superficie sembrada, impulsado principalmente por el norte del área agrícola.",
+      "porQueImporta": "Noticia económica importante para Argentina, que muestra tendencias en el sector agrícola y puede influir en el panorama de inversiones y la economía del país.",
+      "publicadoEn": "2026-09-09T18:56:50.000Z",
+      "imagen": "https://www.clarin.com/img/2025/12/30/W4SaKT8dJ_1200x630__1.jpg",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "petroleras",
-        "argentinas",
-        "salen",
-        "wall",
-        "street",
-        "buscan",
-        "dolares",
-        "para",
-        "vaca",
-        "muerta",
-        "tecpetrol",
-        "amplio"
+        "argentina",
+        "soja",
+        "agricultura",
+        "economía"
       ],
       "tambienVistoEn": []
     },
@@ -399,27 +435,20 @@
       "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Politica",
-      "url": "https://www.clarin.com/politica/endeudamiento-discapacidad-oposicion-logro-abrir-sesion-avanza-acuerdo-debatir-votarlos-fin-mes_0_7hbAamiIix.html",
-      "tituloOriginal": "Endeudamiento y Discapacidad: se abrió la sesión y avanza un acuerdo para debatir y votarlos antes de fin de mes",
-      "tituloLimpio": "Endeudamiento y Discapacidad: se abrió la sesión y avanza un acuerdo para debatir y votarlos antes de fin de mes",
-      "resumen": "La Libertad Avanza al final no dio quórum. Estaban adentro del recinto pero parados cuando la sesión con 135 diputados en sus bancas.",
-      "porQueImporta": "Noticia política con impacto directo en temas sociales y económicos sensibles para Argentina.",
-      "publicadoEn": "2026-09-09T15:26:52.000Z",
-      "imagen": "https://www.clarin.com/img/2026/09/09/iMuL_0D-p_1200x630__1.jpg",
-      "globalScore": 90,
+      "url": "https://www.clarin.com/politica/acuerdo-aliados-cayo-sesion-senado-posterga-aprobacion-jueces-vinculados-chiqui-tapia_0_AvPYD1Rsh3.html",
+      "tituloOriginal": "Sin acuerdo con los aliados, se cayó la sesión en el Senado y se posterga la aprobación de jueces vinculados a \"Chiqui\" Tapia",
+      "tituloLimpio": "Sin acuerdo, se cayó la sesión en el Senado argentino y se posterga la aprobación de jueces",
+      "resumen": "Las diferencias giraron en torno a la nueva ley de Biocombustible. El oficialismo quiere sesionar la próxima semana con Banco Central, Inocencia Fiscal y Súper RIGI.",
+      "porQueImporta": "Refleja la dinámica política actual en Argentina y cómo los desacuerdos legislativos pueden afectar la agenda del gobierno y la aprobación de leyes importantes.",
+      "publicadoEn": "2026-09-09T18:52:10.000Z",
+      "imagen": "https://www.clarin.com/img/2026/08/07/LZOpS4clE_1200x630__1.jpg",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "endeudamiento",
-        "discapacidad",
-        "abrio",
-        "sesion",
-        "avanza",
-        "acuerdo",
-        "para",
-        "debatir",
-        "votarlos",
-        "antes",
-        "libertad"
+        "argentina",
+        "política",
+        "senado",
+        "leyes"
       ],
       "tambienVistoEn": []
     },
@@ -427,28 +456,20 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/09/09/casi-6-de-cada-10-hogares-se-endeudan-y-los-de-mayores-ingresos-son-los-que-mas-lo-hacen-que-hay-detras-de-la-mora-record/",
-      "tituloOriginal": "Casi 6 de cada 10 hogares se endeudan y los de mayores ingresos son los que más lo hacen: qué hay detrás de la mora récord",
-      "tituloLimpio": "Casi 6 de cada 10 hogares se endeudan y los de mayores ingresos son los que más lo hacen",
-      "resumen": "El 58,7% de las familias urbanas utiliza algún mecanismo de financiamiento, un nivel que se mantuvo estable en la última década pese al fuerte aumento de las dificultades de pago.",
-      "porQueImporta": "Muestra una tendencia preocupante en la economía familiar argentina, relevante para entender el consumo y la estabilidad financiera.",
-      "publicadoEn": "2026-09-09T16:03:37.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/X2ZGN2JDFRE4HJC7AIOSARBIRY.png?auth=0ff29d87c3c8a28343c836cecfeac45f5b736fa23f15f97c897d6d18eb35d20e&smart=true&width=2752&height=1536",
+      "url": "https://www.infobae.com/economia/2026/09/09/el-presidente-del-banco-central-revelo-que-paso-con-el-oro-que-estaba-en-la-boveda-de-la-entidad/",
+      "tituloOriginal": "El presidente del Banco Central reveló qué pasó con el oro que estaba en la bóveda de la entidad",
+      "tituloLimpio": "El presidente del Banco Central argentino reveló qué pasó con el oro de la bóveda",
+      "resumen": "En su defensa de la reforma monetaria, Santiago Bausili aseguró ante el Senado que todos los movimientos fueron auditados y documentados.",
+      "porQueImporta": "Noticia relevante para la economía argentina, que aborda la transparencia y gestión de las reservas del Banco Central, un tema de interés para inversores y ciudadanos.",
+      "publicadoEn": "2026-09-09T19:32:26.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/BC3BI7UIQ5EBHDOMTM3YXJG3WM.jpg?auth=96a4049ab14dc187df2f0e239f2fa57e7d5a0e35ed68ae571e5a219edc0faea8&smart=true&width=1920&height=1280",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "casi",
-        "cada",
-        "hogares",
-        "endeudan",
-        "mayores",
-        "ingresos",
-        "hacen",
-        "detras",
-        "mora",
-        "record",
-        "familias",
-        "urbanas"
+        "argentina",
+        "banco central",
+        "economía",
+        "oro"
       ],
       "tambienVistoEn": []
     },
@@ -456,28 +477,20 @@
       "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Politica",
-      "url": "https://www.infobae.com/politica/2026/09/09/diputados-en-vivo-ultimas-noticias-del-debate-sobre-endeudamiento-familiar-y-la-prorroga-de-emergencia-en-discapacidad/",
-      "tituloOriginal": "Diputados, en vivo: la oposición logró darle impulso a los proyectos de morosidad y Discapacidad",
-      "tituloLimpio": "Diputados: la oposición logró darle impulso a los proyectos de morosidad y Discapacidad",
-      "resumen": "Se aprobó el emplazamiento para que las comisiones avancen con las medidas. La votación terminó con 249 votos afirmativos, uno negativo y ninguna abstención.",
-      "porQueImporta": "Confirma el avance de proyectos legislativos importantes para la sociedad argentina, relacionados con el endeudamiento y la discapacidad.",
-      "publicadoEn": "2026-09-09T16:08:54.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/MKWESDTCFVHQXEDJT6PWG5PXVA.jpg?auth=a114e6b2217f48dd04a1aa1c32826add06e28111ecd905ff518a9f3545fd7e19&smart=true&width=4256&height=2832",
-      "globalScore": 90,
+      "url": "https://www.infobae.com/politica/2026/09/09/bioetanol-versus-biodiesel-el-trasfondo-de-la-guerra-empujada-por-azucareros-que-frustro-la-sesion-en-el-senado/",
+      "tituloOriginal": "Bioetanol versus biodiésel: el trasfondo de la guerra empujada por azucareros que frustró la sesión en el Senado",
+      "tituloLimpio": "Bioetanol versus biodiésel: la guerra que frustró la sesión en el Senado argentino",
+      "resumen": "Las provincias del norte pelearon por un nuevo régimen que los beneficia y fracturaron a varios bloques de forma horizontal.",
+      "porQueImporta": "Profundiza en las razones detrás de la caída de la sesión en el Senado, mostrando los intereses regionales y sectoriales que influyen en la política legislativa argentina.",
+      "publicadoEn": "2026-09-09T19:30:18.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/YV4VPXHQPBGFPJ6NVDCAH6S5NM.JPG?auth=34b173da1621900f4610c9f52b2fafa652353e0d3abc38b37b7513fa2431e2c3&smart=true&width=728&height=523",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "diputados",
-        "vivo",
-        "oposicion",
-        "logro",
-        "darle",
-        "impulso",
-        "proyectos",
-        "morosidad",
-        "discapacidad",
-        "aprobo",
-        "emplazamiento",
-        "para"
+        "argentina",
+        "política",
+        "biocombustibles",
+        "senado"
       ],
       "tambienVistoEn": []
     },
@@ -485,62 +498,26 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/tecnologia/es-alemana-y-ejecutiva-de-un-gigante-visito-la-argentina-y-revelo-como-la-ia-esta-transformando-el-nid09092026/",
-      "tituloOriginal": "Es alemana y ejecutiva de un gigante, visitó la Argentina y reveló cómo la IA está transformando el trabajo",
-      "tituloLimpio": "Ejecutiva de SAP en Argentina revela cómo la IA transforma el trabajo",
-      "resumen": "Gina Vargiu-Breuer, del executive board de SAP, visitó Argentina y compartió detalles sobre la transformación del mundo laboral por la IA.",
-      "porQueImporta": "Ofrece una perspectiva de alto nivel sobre el impacto de la IA en el ámbito laboral, relevante para profesionales y empresas en Argentina.",
-      "publicadoEn": "2026-09-09T16:04:30.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/NAFUQJY6PZC6TNMTKPHS7MTCVM.jpg?auth=4700d1e8545df4707bd4347babbe2316462f09e96100fa73ec603fc0dfc7a2d6&smart=true&width=2000&height=1333",
+      "url": "https://www.lanacion.com.ar/economia/bessent-defendio-el-uso-del-poder-financiero-de-eeuu-como-herramienta-de-politica-exterior-y-puso-de-nid09092026/",
+      "tituloOriginal": "Bessent defendió el uso del poder financiero de EE.UU. como herramienta de política exterior y puso de ejemplo a la Argentina",
+      "tituloLimpio": "Bessent defendió el uso del poder financiero de EE.UU. como herramienta de política exterior y puso de ejemplo a la Argentina",
+      "resumen": "El secretario del Tesoro, que la semana pasada se reunió con Caputo, elogió las “políticas sólidas” del Gobierno; dijo que el país era “el principal candidato” para aplicar su estrategia.",
+      "porQueImporta": "Muestra la visión de Estados Unidos sobre la política económica argentina y su rol en la estrategia financiera global, relevante para entender el contexto internacional de Argentina.",
+      "publicadoEn": "2026-09-09T19:22:48.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/MNS7GOCCGBCVJOVXTNFO5RB3WM.jpg?auth=a8d50f4d755e0e7517854cbeffe140b758255397783056b45d379647742ee0f6&smart=true&width=2000&height=1333",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "alemana",
-        "ejecutiva",
-        "gigante",
-        "visito",
         "argentina",
-        "revelo",
-        "como",
-        "esta",
-        "transformando",
-        "trabajo",
-        "gina",
-        "vargiu-breuer"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
-      "categoria": "Marketing",
-      "fuente": "Adweek",
-      "url": "https://www.adweek.com/agencies/publicis-really-didnt-have-to-choose-between-coke-and-pepsi/",
-      "tituloOriginal": "Publicis Really Didn’t Have to Choose Between Coke and Pepsi",
-      "tituloLimpio": "Publicis no tuvo que elegir entre Coca-Cola y Pepsi",
-      "resumen": "Las agencias parecen ser el único negocio aún sujeto a conflictos de interés.",
-      "porQueImporta": "Reflexión sobre la dinámica de las agencias de marketing y los conflictos de interés, relevante para entender el funcionamiento de la industria.",
-      "publicadoEn": "2026-09-09T11:37:02.000Z",
-      "globalScore": 90,
-      "personalScore": 100,
-      "tags": [
-        "publicis",
-        "really",
-        "didn",
-        "have",
-        "choose",
-        "between",
-        "coke",
-        "pepsi",
-        "agencies",
-        "seem",
-        "only",
-        "business"
+        "economía",
+        "política exterior",
+        "estados unidos"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-09-09T16:11:01.869Z"
+    "generadoEn": "2026-09-09T19:36:46.566Z"
   }
 }
