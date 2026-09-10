@@ -1,214 +1,209 @@
 {
   "fecha": "2026-09-10",
-  "generadoEn": "2026-09-10T16:03:01.801Z",
+  "generadoEn": "2026-09-10T19:28:07.166Z",
   "actualizacion": "14:00",
-  "resumenEjecutivo": "Hoy, el mercado de valores muestra una cuarta sesión consecutiva de pérdidas, impulsado por el aumento del petróleo y los rendimientos de los bonos. En el ámbito tecnológico, Apple presentó novedades en sus dispositivos, incluyendo pantallas más pequeñas en el Apple Watch Series 12 y mejoras en la cámara del iPhone 18 Pro, además de un nuevo chip A20 Pro que podría potenciar a Siri. En IA, se debate el uso de datos de entrenamiento y el impacto de agentes de IA en servicios públicos. A nivel local, el FMI monitorea la mora de créditos en hogares argentinos y se espera el dato de inflación de agosto.",
+  "resumenEjecutivo": "Hoy, Apple presentó el iPhone Duo y anunció otros lanzamientos para octubre. En el ámbito de la IA, Universal Music se asocia con ElevenLabs para una plataforma de música con IA, mientras que Anthropic investiga el comportamiento de agentes de IA. En Argentina, la inflación de agosto fue del 1,7%, la canasta básica superó los $1.600.000, y la Corte revocó el sobreseimiento del 'Pata' Medina. En finanzas, la SEC propone cambios para las 'tokenized securities' y el Reino Unido impulsa una estrategia de activos digitales.",
   "radarPersonal": [
     {
-      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
-      "titulo": "El chip A20 Pro del iPhone Duo podría ser clave para la utilidad de Siri AI",
-      "resumen": "El nuevo chip A20 Pro de los iPhone 18 Pro y iPhone Duo podría ser la clave para que Siri AI pase de tener potencial a ser un cambio importante.",
-      "categoria": "Apple",
-      "fuentes": [
-        "AppleInsider"
-      ],
-      "urls": [
-        "https://appleinsider.com/articles/26/09/10/siri-ai-is-so-close-to-being-useful-and-iphone-duos-a20-pro-could-be-the-secret-sauce?utm_source=rss"
-      ],
-      "score": 100,
-      "tags": [
-        "siri",
-        "iphone",
-        "chip",
-        "ai"
-      ]
-    },
-    {
-      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
-      "titulo": "La mejor función de cámara del iPhone 18 Pro para la mayoría de los usuarios",
-      "resumen": "El iPhone 18 Pro incluye varias mejoras en la cámara, siendo la apertura variable una de las principales adiciones, pero hay otro cambio en la cámara principal que podría ser el favorito de muchos usuarios.",
-      "categoria": "Apple",
-      "fuentes": [
-        "9to5Mac"
-      ],
-      "urls": [
-        "https://9to5mac.com/2026/09/10/this-might-be-iphone-18-pros-best-camera-feature-for-most-users/"
-      ],
-      "score": 100,
-      "tags": [
-        "iphone",
-        "cámara",
-        "apertura variable"
-      ]
-    },
-    {
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "titulo": "El Apple Watch Series 12 tiene pantallas más chicas y cajas más grandes",
-      "resumen": "El Apple Watch Series 12 combina una pantalla más chica con una caja más ancha que las Series 10 y 11, aunque la resolución de píxeles no cambió, según las especificaciones técnicas de Apple.",
+      "titulo": "El iPhone plegable de Apple se llama iPhone Duo, no iPhone Ultra",
+      "resumen": "Por meses, se usó el nombre iPhone Ultra para el rumoreado iPhone plegable de Apple, pero el dispositivo se terminó llamando iPhone Duo.",
       "categoria": "Apple",
       "fuentes": [
         "MacRumors"
       ],
       "urls": [
-        "https://www.macrumors.com/2026/09/10/apple-watch-series-12-has-smaller-screens-and-bigger-cases/"
+        "https://www.macrumors.com/2026/09/10/rip-iphone-ultra/"
       ],
       "score": 100,
       "tags": [
-        "apple watch",
-        "pantalla",
-        "diseño"
+        "iPhone",
+        "Apple",
+        "lanzamiento"
       ]
     },
     {
-      "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
-      "titulo": "YouTube expande la función 'Watch With' a más creadores",
-      "resumen": "La función de comentarios en vivo permite reacciones en tiempo real a las transmisiones, y los espectadores pueden ver los videos combinados desde cualquier dispositivo.",
-      "categoria": "Marketing",
+      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
+      "titulo": "Apple lanzará más de 7 productos nuevos en octubre",
+      "resumen": "El iPhone Duo se presentó esta semana, pero se enviará en octubre. Apple también tiene muchos otros productos nuevos que se lanzarán en octubre.",
+      "categoria": "Apple",
       "fuentes": [
-        "Marketing Dive"
+        "9to5Mac"
       ],
       "urls": [
-        "https://www.marketingdive.com/news/sociable-youtube-expands-watch-with-to-more-creators/830037/"
+        "https://9to5mac.com/2026/09/10/apple-will-launch-7-new-products-in-october-heres-whats-coming/"
       ],
       "score": 100,
       "tags": [
-        "youtube",
-        "livestreaming",
-        "creadores",
-        "marketing"
+        "Apple",
+        "lanzamientos",
+        "productos"
       ]
     },
     {
-      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "titulo": "Nuevas funciones de fútbol en la Búsqueda de Google",
-      "resumen": "Esta temporada, se puede seguir transmisiones de partidos en vivo, explorar estadísticas detalladas y obtener recomendaciones personalizadas de fantasy directamente en la Búsqueda.",
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "titulo": "iPhone Duo vs. iPhone 18 Pro y iPad mini: ¿cuál elegir?",
+      "resumen": "Apple anunció el iPhone Duo, que para muchos reemplazó la idea de un iPad mini. Hay argumentos para un iPad 18 Pro y iPad mini por menos dinero.",
+      "categoria": "Apple",
+      "fuentes": [
+        "AppleInsider"
+      ],
+      "urls": [
+        "https://appleinsider.com/inside/iphone-18/vs/decision-time-iphone-duo-vs-iphone-18-pro-ipad-mini?utm_source=rss"
+      ],
+      "score": 100,
+      "tags": [
+        "iPhone",
+        "iPad",
+        "comparativa",
+        "Apple"
+      ]
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "Universal Music lanza una plataforma de música con IA junto a ElevenLabs",
+      "resumen": "Universal Music Group lanza una nueva plataforma impulsada por IA que permitirá a los usuarios usar su catálogo de música licenciada para crear remixes, mashups y nuevas versiones de temas.",
       "categoria": "AI",
       "fuentes": [
-        "Google AI Blog"
+        "The Verge AI"
       ],
       "urls": [
-        "https://blog.google/products-and-platforms/products/search/football-features-google-search/"
+        "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai"
       ],
       "score": 100,
       "tags": [
-        "google",
-        "búsqueda",
-        "fútbol",
-        "ia"
+        "IA",
+        "música",
+        "plataforma",
+        "ElevenLabs"
+      ]
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "La canasta básica se aceleró al 2,6% en agosto: una familia necesitó más de $1.600.000 para no ser pobre",
+      "resumen": "",
+      "categoria": "Argentina",
+      "fuentes": [
+        "Ambito"
+      ],
+      "urls": [
+        "https://www.ambito.com/economia/la-canasta-basica-se-acelero-al-26-agosto-una-familia-necesito-mas-1600000-no-ser-pobre-n6320910"
+      ],
+      "score": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "canasta básica",
+        "pobreza"
       ]
     }
   ],
   "loImportante": [
-    "Los mercados bursátiles extienden sus pérdidas por cuarta sesión consecutiva, afectados por el aumento del petróleo y los rendimientos de los bonos.",
-    "Apple introduce el chip A20 Pro en sus nuevos iPhones, con potencial para mejorar significativamente la utilidad de Siri AI.",
-    "Se intensifica el debate sobre la ética en el uso de datos para entrenar modelos de IA, con acusaciones de uso de trabajo no publicado.",
-    "El FMI monitorea la mora de créditos en hogares argentinos, considerándola un riesgo menor en comparación con otros países de la región.",
-    "Corea del Sur planea una inversión de 100.000 millones de dólares en EE.UU. para un megaproyecto energético enfocado en IA."
+    "Apple presentó el iPhone Duo y tiene más de 7 lanzamientos previstos para octubre.",
+    "La inflación en Argentina fue del 1,7% en agosto, el número más bajo en 14 meses.",
+    "Universal Music Group y ElevenLabs lanzan una plataforma de música con IA.",
+    "La canasta básica en Argentina superó los $1.600.000 en agosto para no ser pobre.",
+    "La Corte revocó el sobreseimiento del sindicalista 'Pata' Medina, quien deberá ser juzgado nuevamente."
   ],
   "oportunidades": [
     {
-      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
-      "titulo": "Potencial de Siri AI con el chip A20 Pro",
-      "detalle": "El nuevo chip A20 Pro en los iPhone 18 Pro y iPhone Duo podría ser el factor clave para que Siri AI se convierta en una herramienta realmente útil y transformadora.",
+      "titulo": "Creación musical con IA: Universal Music y ElevenLabs lanzan plataforma",
+      "detalle": "Universal Music Group y ElevenLabs lanzan una plataforma que permite usar música licenciada para crear remixes, mashups y nuevas versiones de temas con IA.",
       "acciones": [
-        "Seguir de cerca las actualizaciones de Siri AI y su integración con el nuevo hardware de Apple.",
-        "Explorar cómo las mejoras en Siri podrían impactar la automatización y la productividad personal."
+        "Explorar la plataforma de Universal Music y ElevenLabs para proyectos de arte con IA.",
+        "Analizar el potencial de la IA en la creación de contenido musical y audiovisual."
       ]
     },
     {
       "id": "marketing-dive-aHR0cHM6Ly93d3cubWFy",
       "categoria": "Marketing",
-      "titulo": "Expansión de 'Watch With' en YouTube para creadores",
-      "detalle": "La función de comentarios en vivo de YouTube, 'Watch With', se expande a más creadores, permitiendo reacciones en tiempo real y visualización combinada de videos desde cualquier dispositivo.",
+      "titulo": "YouTube expande 'Watch With' para más creadores",
+      "detalle": "YouTube expande su función de comentarios en vivo 'Watch With' a más creadores, permitiendo reacciones en tiempo real a transmisiones y visualización combinada desde cualquier dispositivo.",
       "acciones": [
-        "Analizar cómo esta función puede ser utilizada para estrategias de marketing y engagement en YouTube.",
-        "Considerar la creación de contenido interactivo o colaboraciones usando 'Watch With'."
+        "Investigar cómo la expansión de 'Watch With' puede impactar las estrategias de marketing en YouTube.",
+        "Considerar la implementación de funciones de interacción en vivo para futuras campañas o contenidos."
       ]
     },
     {
-      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "categoria": "AI",
-      "titulo": "Nuevas funciones de fútbol en la Búsqueda de Google",
-      "detalle": "Google Search incorpora nuevas funciones para seguir partidos de fútbol en vivo, explorar estadísticas y obtener recomendaciones personalizadas de fantasy.",
+      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
+      "categoria": "Investing",
+      "titulo": "Nuevo plan de la SEC podría simplificar las 'tokenized securities'",
+      "detalle": "Una nueva propuesta de la SEC para las reglas de agentes de transferencia podría eliminar registros duplicados de accionistas fuera de la cadena, reduciendo costos y la incertidumbre legal para las 'tokenized securities'.",
       "acciones": [
-        "Evaluar la aplicación de estas funciones de IA en otros nichos o intereses para la creación de contenido o herramientas.",
-        "Observar cómo Google utiliza la IA para mejorar la experiencia del usuario en la búsqueda de información específica."
+        "Monitorear la evolución de la propuesta de la SEC y su impacto en el mercado de 'tokenized securities'.",
+        "Evaluar oportunidades de inversión en activos tokenizados si se reduce la complejidad regulatoria."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Market",
-      "titulo": "Cuarta sesión de pérdidas en el mercado de valores",
-      "detalle": "El Dow, S&P 500 y Nasdaq extienden sus pérdidas por cuarta sesión consecutiva, impulsados por el aumento de los rendimientos de los bonos y el petróleo por encima de los 100 dólares.",
-      "mitigacion": "Revisar y ajustar la cartera de inversiones, considerando la volatilidad actual del mercado y la posible continuidad de la tendencia bajista. Mantenerse informado sobre los factores macroeconómicos que influyen en los rendimientos de los bonos y el precio del petróleo."
-    },
-    {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "categoria": "AI",
-      "titulo": "Cuestionamientos a OpenAI por el uso de datos de entrenamiento",
-      "detalle": "Matemáticos exigen pruebas de que OpenAI no utilizó su trabajo no publicado para entrenar sus modelos, acusando a la empresa de comportamiento poco ético y falta de transparencia.",
-      "mitigacion": "Estar atento a las implicaciones éticas y legales del uso de datos en modelos de IA. Considerar la procedencia y la transparencia de los datos al trabajar con o desarrollar soluciones de IA para evitar futuros problemas de propiedad intelectual o reputación."
+      "titulo": "El empleo formal en Argentina muestra un ajuste estructural",
+      "detalle": "Detrás de la estabilidad del empleo formal en Argentina, se consolida un ajuste estructural que 'destruye de manera sistemática los puestos formales y deprime el poder adquisitivo de los hogares'.",
+      "mitigacion": "Monitorear de cerca la evolución del mercado laboral y la economía argentina para ajustar estrategias de inversión y planificación financiera."
     },
     {
       "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
       "categoria": "Technology",
-      "titulo": "Problemas de arquitectura en la alimentación de la IA",
-      "detalle": "Una falla en una línea de transmisión en Ashburn, Virginia, el centro de datos más grande del mundo, dejó sin energía a más de 3 gigavatios, evidenciando un problema de arquitectura en la alimentación de la IA.",
-      "mitigacion": "Reconocer la dependencia de la infraestructura energética para el desarrollo y funcionamiento de la IA. Evaluar la resiliencia de las infraestructuras de datos y considerar soluciones de energía alternativas o descentralizadas para proyectos críticos de IA."
+      "titulo": "La alimentación de la IA es un problema de arquitectura",
+      "detalle": "Un fallo en una línea de transmisión en Ashburn, Virginia, el corazón del clúster de centros de datos más grande del mundo, desconectó más de 3 gigavatios de carga de la red en segundos. Esto no fue la primera vez.",
+      "mitigacion": "Considerar la resiliencia de la infraestructura energética al evaluar proveedores de servicios de IA y centros de datos. Diversificar las ubicaciones de los servicios críticos si es posible."
     }
   ],
   "conexiones": [
     {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "titulo": "Inversión de Corea del Sur en EE.UU. para IA y energía",
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "El iPhone Duo y los lanzamientos de Apple",
       "historias": [
-        "Corea del Sur prevé una inversión de 100.000 millones de dólares en EE.UU. para un megaproyecto energético que impulsará el desarrollo de inteligencia artificial con centrales nucleares y una planta de gas.",
-        "La noticia de MIT Technology Review AI sobre los problemas de arquitectura en la alimentación de la IA resalta la importancia de la infraestructura energética para el desarrollo de la IA, lo que hace que esta inversión sea relevante para el futuro de la tecnología."
+        "macrumors-aHR0cHM6Ly93d3cubWFj",
+        "9to5mac-aHR0cHM6Ly85dG81bWFj",
+        "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+        "macstories-aHR0cHM6Ly93d3cubWFj"
       ],
-      "conclusion": "La enorme inversión de Corea del Sur en infraestructura energética en EE.UU. subraya la creciente demanda de energía para el desarrollo de la IA, un punto crítico que también se refleja en las fallas de transmisión en centros de datos. Esto indica que la expansión de la IA está intrínsecamente ligada a la capacidad y resiliencia de la infraestructura energética global."
+      "conclusion": "La presentación del iPhone Duo marca un hito para Apple, confirmando el nombre y generando expectativas sobre su impacto en el mercado. La compañía planea una serie de lanzamientos en octubre, lo que sugiere una estrategia agresiva para el último trimestre del año. La discusión sobre si el iPhone Duo reemplaza al iPad mini es relevante para los usuarios que buscan un dispositivo versátil."
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "titulo": "Situación económica en Argentina: inflación y canasta básica",
+      "historias": [
+        "ambito-aHR0cHM6Ly93d3cuYW1i",
+        "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+        "clarin-economia-aHR0cHM6Ly93d3cuY2xh"
+      ],
+      "conclusion": "La economía argentina muestra una desaceleración de la inflación en agosto, alcanzando el 1,7%, el valor más bajo en 14 meses. Sin embargo, la canasta básica familiar sigue en aumento, superando los $1.600.000 para no ser pobre. El empleo formal, aunque estable, esconde un ajuste estructural que afecta los puestos de trabajo y el poder adquisitivo."
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "titulo": "La Corte revocó el sobreseimiento del 'Pata' Medina",
+      "historias": [
+        "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+        "lanacion-politica-aHR0cHM6Ly93d3cubGFu"
+      ],
+      "conclusion": "La Corte Suprema revocó el sobreseimiento del sindicalista 'Pata' Medina en la causa por asociación ilícita y lavado de dinero en La Plata. Esto implica que deberá ser juzgado nuevamente por extorsión y lavado, según las conclusiones de la Procuración General."
     }
   ],
   "noticias": [
     {
-      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
-      "categoria": "Apple",
-      "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/09/10/apple-watch-series-12-has-smaller-screens/",
-      "tituloOriginal": "Apple Watch Series 12 Has Smaller Screens and Bigger Cases",
-      "tituloLimpio": "El Apple Watch Series 12 tiene pantallas más chicas y cajas más grandes",
-      "resumen": "El Apple Watch Series 12 combina una pantalla más chica con una caja más ancha que las Series 10 y 11, aunque la resolución de píxeles no cambió, según las especificaciones técnicas de Apple.",
-      "porQueImporta": "Guido, como usuario de Apple, esta noticia es relevante para entender la evolución del diseño y las especificaciones de los nuevos Apple Watch. Un cambio en el tamaño de la pantalla y la caja puede influir en la experiencia de uso y la compatibilidad con accesorios.",
-      "publicadoEn": "2026-09-10T15:52:18.000Z",
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "fuente": "Google AI Blog",
+      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+      "tituloOriginal": "3 ways to prep for your next big race with Search",
+      "tituloLimpio": "Tres maneras en que la Búsqueda de Google puede ayudar a prepararse para una carrera",
+      "resumen": "La Búsqueda de Google puede ayudar a los corredores a prepararse para el día de la carrera con alertas de inscripción, planes de entrenamiento personalizados y más.",
+      "porQueImporta": "Aunque no es directamente de IA, muestra cómo Google integra funciones útiles en su buscador, lo que puede ser relevante para entender la evolución de las herramientas y la automatización en la vida cotidiana.",
+      "publicadoEn": "2026-09-10T16:00:00.000Z",
+      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Race_Running_Tips.max-600x600.format-webp.webp",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "Apple",
-        "Apple Watch",
-        "Hardware"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
-      "categoria": "Argentina",
-      "fuente": "Ambito",
-      "url": "https://www.ambito.com/economia/corea-del-sur-preve-una-inversion-us100000-millones-eeuu-un-megaproyecto-energetico-n6320782",
-      "tituloOriginal": "Corea del Sur prevé una inversión de u$s100.000 millones en EEUU para un megaproyecto energético",
-      "tituloLimpio": "Corea del Sur prevé una inversión de 100.000 millones de dólares en EE.UU. para un megaproyecto energético",
-      "resumen": "El objetivo es impulsar el desarrollo de inteligencia artificial con hasta ocho centrales nucleares y una planta de gas.",
-      "porQueImporta": "Esta inversión masiva en energía y IA es un indicador de las tendencias globales. Aunque la inversión es en EE.UU., el enfoque en IA y energía nuclear para su desarrollo tiene un impacto global y muestra hacia dónde se dirige la infraestructura tecnológica.",
-      "publicadoEn": "2026-09-10T15:48:00.000Z",
-      "imagen": "https://media.ambito.com/p/768b81614509028bc00509b2fbb5d2d8/adjuntos/239/imagenes/043/634/0043634061/1200x675/986x255:1006x275/trump-corea.png",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "AI",
-        "Inversión",
-        "Energía",
-        "Tecnología"
+        "Google",
+        "Búsqueda",
+        "herramientas",
+        "automatización"
       ],
       "tambienVistoEn": []
     },
@@ -218,17 +213,18 @@
       "fuente": "Marketing Dive",
       "url": "https://www.marketingdive.com/news/sociable-youtube-expands-watch-with-to-more-creators/830037/",
       "tituloOriginal": "Sociable: YouTube expands Watch With to more creators",
-      "tituloLimpio": "YouTube expande la función 'Watch With' a más creadores",
-      "resumen": "La función de comentarios en vivo permite reacciones en tiempo real a las transmisiones, y los espectadores pueden ver los videos combinados desde cualquier dispositivo.",
-      "porQueImporta": "Para Guido, interesado en marketing y herramientas, esta expansión de YouTube es importante. Ofrece nuevas posibilidades para la interacción con la audiencia y la creación de contenido en vivo, lo que podría ser útil para estrategias de marketing o para seguir tendencias en plataformas de video.",
+      "tituloLimpio": "YouTube expande 'Watch With' a más creadores",
+      "resumen": "La función de comentarios en vivo permite reacciones en tiempo real a las transmisiones, con espectadores que pueden ver los videos combinados desde cualquier dispositivo.",
+      "porQueImporta": "Esta expansión de YouTube es relevante para el marketing digital y la creación de contenido, ya que ofrece nuevas formas de interacción y engagement con la audiencia. Puede influir en estrategias de marketing y monetización.",
       "publicadoEn": "2026-09-10T14:32:00.000Z",
       "globalScore": 96,
       "personalScore": 100,
       "tags": [
         "Marketing",
         "YouTube",
-        "Herramientas",
-        "Contenido"
+        "creadores",
+        "contenido",
+        "livestreaming"
       ],
       "tambienVistoEn": []
     },
@@ -236,181 +232,19 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-      "tituloOriginal": "AI agents are flooding public services with new requests",
-      "tituloLimpio": "Agentes de IA están inundando servicios públicos con nuevas solicitudes",
-      "resumen": "La mayoría de los casos encontrados son de personas con derecho a reclamar algo, que lo están reclamando.",
-      "porQueImporta": "Esta noticia muestra una aplicación práctica y masiva de la IA en la automatización de procesos, incluso en servicios públicos. Es relevante para entender el impacto de la IA en la eficiencia y la gestión de tareas, lo que puede inspirar ideas para la automatización en otros campos.",
-      "publicadoEn": "2026-09-10T14:53:50.000Z",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+      "tituloOriginal": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+      "tituloLimpio": "Anthropic revela que los agentes de IA 'rogue' odian los CAPTCHAs",
+      "resumen": "Adentrate en la mente de un bot que intenta convencer a internet de que es humano.",
+      "porQueImporta": "Interesante para entender el comportamiento y los desafíos de los agentes de IA, especialmente en la interacción con sistemas de seguridad como los CAPTCHAs. Relevante para el arte con IA y la automatización.",
+      "publicadoEn": "2026-09-10T17:54:44.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "AI",
-        "Automatización",
-        "Servicios Públicos"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
-      "categoria": "AI",
-      "fuente": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
-      "tituloOriginal": "Mathematicians want proof OpenAI didn’t use their work",
-      "tituloLimpio": "Matemáticos quieren pruebas de que OpenAI no usó su trabajo",
-      "resumen": "Otro investigador está desafiando a OpenAI sobre los datos que impulsan su creciente conjunto de descubrimientos matemáticos.",
-      "porQueImporta": "Este es un tema crucial en el desarrollo de la IA: la ética y la propiedad intelectual de los datos de entrenamiento. Para Guido, que trabaja con IA, es fundamental estar al tanto de estos debates para entender los riesgos y las implicaciones legales y éticas de las herramientas de IA.",
-      "publicadoEn": "2026-09-10T11:00:57.000Z",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "AI",
-        "Ética",
-        "Propiedad Intelectual",
-        "OpenAI"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
-      "categoria": "AI",
-      "fuente": "MIT Technology Review AI",
-      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-      "tituloOriginal": "Powering AI is an architecture problem",
-      "tituloLimpio": "Alimentar la IA es un problema de arquitectura",
-      "resumen": "Una falla en una línea de transmisión en Ashburn, Virginia, el centro de datos más grande del mundo, dejó sin energía a más de 3 gigavatios.",
-      "porQueImporta": "Esta noticia destaca la dependencia crítica de la IA de una infraestructura energética robusta. Para Guido, que trabaja con IA, es importante entender que el desarrollo y la escalabilidad de la IA no solo dependen del software, sino también de la capacidad y fiabilidad de la infraestructura física.",
-      "publicadoEn": "2026-09-10T11:00:00.000Z",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "AI",
-        "Infraestructura",
-        "Energía",
-        "Tecnología"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
-      "categoria": "Apple",
-      "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/09/10/this-might-be-iphone-18-pros-best-camera-feature-for-most-users/",
-      "tituloOriginal": "This might be iPhone 18 Pro’s best camera feature for most users",
-      "tituloLimpio": "La mejor función de cámara del iPhone 18 Pro para la mayoría de los usuarios",
-      "resumen": "El iPhone 18 Pro incluye varias mejoras en la cámara, siendo la apertura variable una de las principales adiciones.",
-      "porQueImporta": "Como usuario de Apple y profesional del retoque fotográfico, las mejoras en la cámara del iPhone 18 Pro son directamente relevantes para Guido. La apertura variable puede ofrecer nuevas posibilidades creativas y técnicas en la fotografía móvil.",
-      "publicadoEn": "2026-09-10T15:40:51.000Z",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "Apple",
-        "iPhone",
-        "Fotografía",
-        "Hardware"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
-      "categoria": "Apple",
-      "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/09/10/siri-ai-is-so-close-to-being-useful-and-iphone-duos-a20-pro-could-be-the-secret-sauce?utm_source=rss",
-      "tituloOriginal": "Siri AI is so close to being useful, and iPhone Duo's A20 Pro could be the secret sauce",
-      "tituloLimpio": "Siri AI está cerca de ser útil, y el A20 Pro del iPhone Duo podría ser la clave",
-      "resumen": "El nuevo chip A20 Pro de los iPhone 18 Pro y iPhone Duo podría ser la clave para que Siri AI pase de tener potencial a ser un cambio importante.",
-      "porQueImporta": "Para Guido, interesado en Apple y la IA aplicada, la posible mejora de Siri con el chip A20 Pro es una noticia importante. Una Siri más capaz podría integrarse mejor en flujos de trabajo de automatización y productividad personal.",
-      "publicadoEn": "2026-09-10T14:52:06.000Z",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "Apple",
-        "Siri",
-        "AI",
-        "Hardware"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "macstories-aHR0cHM6Ly93d3cubWFj",
-      "categoria": "Apple",
-      "fuente": "MacStories",
-      "url": "https://www.macstories.net/news/apples-surprise-and-shine-event-all-the-small-things/",
-      "tituloOriginal": "Apple’s Surprise and Shine Event: All the Small Things",
-      "tituloLimpio": "Evento 'Surprise and Shine' de Apple: todos los pequeños detalles",
-      "resumen": "Algunos de los detalles más útiles aparecen en las páginas de productos, especificaciones técnicas, notas al pie y diapositivas de resumen después de la presentación.",
-      "porQueImporta": "Esta noticia complementa las novedades de Apple, ofreciendo un vistazo a los detalles menos publicitados pero a menudo muy útiles. Para un usuario avanzado como Guido, estos 'pequeños detalles' pueden ser cruciales para entender las capacidades completas de los nuevos dispositivos.",
-      "publicadoEn": "2026-09-10T13:19:51.000Z",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "Apple",
-        "Eventos",
-        "Hardware",
-        "Novedades"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "yahoo-finance-aHR0cHM6Ly9maW5hbmNl",
-      "categoria": "Finance",
-      "fuente": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-10-dow-sp-500-nasdaq-083717303.html",
-      "tituloOriginal": "Stock market today: Dow, S&P 500, Nasdaq extend losses as bond yields jump, oil holds above $100",
-      "tituloLimpio": "Mercado de valores hoy: Dow, S&P 500, Nasdaq extienden pérdidas",
-      "resumen": "El Dow, S&P 500 y Nasdaq extienden sus pérdidas mientras los rendimientos de los bonos suben y el petróleo se mantiene por encima de los 100 dólares.",
-      "porQueImporta": "Para Guido, interesado en inversiones y mercados, esta es una noticia financiera clave. Indica una tendencia bajista en los principales índices, influenciada por factores macroeconómicos como el petróleo y los rendimientos de los bonos, lo que requiere atención para la toma de decisiones de inversión.",
-      "publicadoEn": "2026-09-10T08:37:17.000Z",
-      "imagen": "https://s.yimg.com/uu/api/res/1.2/7t0xMxXuuHHSb16Il4mBgA--~B/aD01NDY0O3c9ODE5MjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-09/82358558-5867-47a7-be21-497a635c49b4",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "Finanzas",
-        "Mercado",
-        "Inversión",
-        "Economía"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
-      "categoria": "Finance",
-      "fuente": "Yahoo Finance",
-      "url": "https://www.investors.com/news/nasdaq-pours-millions-into-crypto-platform-partnership-for-tokenized-trading/?src=A00220&yptr=yahoo",
-      "tituloOriginal": "Nasdaq Pours Millions Into Crypto Platform Partnership For Tokenized Trading",
-      "tituloLimpio": "Nasdaq invierte millones en asociación con plataforma cripto para trading tokenizado",
-      "resumen": "",
-      "porQueImporta": "Esta noticia es relevante para Guido por su interés en finanzas y mercados. La inversión de Nasdaq en trading tokenizado muestra una tendencia hacia la digitalización de activos y la integración de las finanzas tradicionales con las cripto, lo que podría abrir nuevas oportunidades de inversión.",
-      "publicadoEn": "2026-09-10T15:33:01.000Z",
-      "imagen": "https://media.zenfs.com/en/ibd.com/cf5fd8016906948afc40f08b2a168141.jpg",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "Finanzas",
-        "Cripto",
-        "Inversión",
-        "Nasdaq"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "yahoo-finance-aHR0cHM6Ly93d3cuYmFy",
-      "categoria": "Finance",
-      "fuente": "Yahoo Finance",
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-091026/card/stocks-kick-off-4th-straight-session-of-losses-on-rising-oil-and-yields-iANX1ltwcBw6WLbQQAHh?siteid=yhoof2&yptr=yahoo",
-      "tituloOriginal": "Stocks Kick Off 4th Straight Session of Losses on Rising Oil and Yields",
-      "tituloLimpio": "Las acciones inician la cuarta sesión consecutiva de pérdidas por el aumento del petróleo y los rendimientos",
-      "resumen": "",
-      "porQueImporta": "Confirma la tendencia bajista en los mercados, lo cual es crucial para Guido como inversor. La persistencia de las pérdidas y los factores que las impulsan (petróleo y rendimientos) son datos importantes para evaluar el panorama financiero.",
-      "publicadoEn": "2026-09-10T15:20:11.000Z",
-      "imagen": "https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e.png",
-      "globalScore": 98,
-      "personalScore": 100,
-      "tags": [
-        "Finanzas",
-        "Mercado",
-        "Inversión",
-        "Economía"
+        "IA",
+        "Anthropic",
+        "bots",
+        "seguridad"
       ],
       "tambienVistoEn": []
     },
@@ -418,20 +252,21 @@
       "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
       "categoria": "Finance",
       "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/09/10/monument-bank-delays-retail-tokenized-deposits-cites-regulatory-issues-in-the-uk",
-      "tituloOriginal": "Monument Bank delays retail tokenized deposits, cites regulatory issues in the UK",
-      "tituloLimpio": "Monument Bank retrasa depósitos minoristas tokenizados por problemas regulatorios en el Reino Unido",
-      "resumen": "El banco challenger con sede en Londres recurrió a un custodio canadiense para cumplir con los requisitos regulatorios de la Autoridad de Conducta Financiera.",
-      "porQueImporta": "Esta noticia es relevante para Guido porque destaca los desafíos regulatorios en el espacio de las finanzas tokenizadas. Aunque es en el Reino Unido, muestra que la regulación es un factor clave que puede afectar la adopción y el desarrollo de nuevas tecnologías financieras a nivel global.",
-      "publicadoEn": "2026-09-10T15:53:24.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/ecdda2c4e8818fb75de87159f1697cfaed7876fb-2400x1350.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "url": "https://www.coindesk.com/business/2026/09/10/why-a-new-sec-plan-could-end-the-legal-headaches-of-holding-tokenized-securities",
+      "tituloOriginal": "Why a new SEC plan could ease a legal headache for tokenized securities",
+      "tituloLimpio": "Un nuevo plan de la SEC podría aliviar un problema legal para las 'tokenized securities'",
+      "resumen": "La nueva propuesta de la SEC para revisar las reglas de los agentes de transferencia podría eliminar los registros duplicados de accionistas fuera de la cadena, reduciendo los costos de conciliación y la incertidumbre legal para las 'tokenized securities'.",
+      "porQueImporta": "Importante para el sector financiero y de inversión, especialmente para quienes operan con activos digitales. Una mayor claridad regulatoria podría impulsar la adopción de 'tokenized securities'.",
+      "publicadoEn": "2026-09-10T19:01:30.000Z",
+      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/333db2ac6429c13170ebdacdfd4cae413b017a08-4922x2769.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Finanzas",
-        "Cripto",
-        "Regulación",
-        "Banca"
+        "SEC",
+        "tokenized securities",
+        "regulación",
+        "inversión"
       ],
       "tambienVistoEn": []
     },
@@ -439,41 +274,21 @@
       "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
       "categoria": "Finance",
       "fuente": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/european-finance-groups-urge-eu-to-scrap-tokenized-securities-cap-propose-15t-fallback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "tituloOriginal": "EU finance groups push to remove tokenized securities cap",
-      "tituloLimpio": "Grupos financieros de la UE presionan para eliminar el límite de valores tokenizados",
-      "resumen": "Grupos financieros y de tokenización europeos dicen que Bruselas debería eliminar los límites a los activos admitidos en la infraestructura DLT o establecer una base de 1,5 billones de euros si se mantiene un límite.",
-      "porQueImporta": "Esta noticia es importante para Guido por su interés en finanzas y tokenización. Muestra el esfuerzo por flexibilizar las regulaciones en Europa para impulsar la adopción de valores tokenizados, lo que podría tener un impacto en el mercado global de activos digitales y ETFs.",
-      "publicadoEn": "2026-09-10T15:49:22.000Z",
-      "imagen": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25YE6DKF8ZSF4J32E1GZPK8/regulations-eu-europe-bitcoin.png",
+      "url": "https://cointelegraph.com/news/uk-house-of-lords-backs-mandatory-digital-asset-strategy-in-194138-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "tituloOriginal": "UK House of Lords backs mandatory digital asset strategy over Labour position",
+      "tituloLimpio": "La Cámara de los Lores del Reino Unido apoya una estrategia obligatoria de activos digitales",
+      "resumen": "La enmienda requeriría que el Tesoro del Reino Unido desarrolle una estrategia que cubra criptoactivos, 'stablecoins', 'tokenized securities' e infraestructura financiera digital.",
+      "porQueImporta": "Indica una tendencia global hacia la regulación y adopción de activos digitales, lo cual es relevante para el futuro de las finanzas y la inversión. Aunque es en el Reino Unido, sienta un precedente.",
+      "publicadoEn": "2026-09-10T17:54:12.000Z",
+      "imagen": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M265GXQKJCP1QSNW42GTAMVF/hi-uk-and-crypto-new.png",
       "globalScore": 90,
       "personalScore": 100,
       "tags": [
         "Finanzas",
-        "Cripto",
-        "Regulación",
-        "Europa"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
-      "categoria": "Argentina",
-      "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/fmi-monitorea-mora-creditos-hogares-considera-riesgo-significativo-estabilidad-financiera_0_VeQdAbxiQ7.html",
-      "tituloOriginal": "El FMI \"monitorea\" la mora de créditos de los hogares, pero no considera que sea \"un riesgo significativo\": cuándo es la próxima misión",
-      "tituloLimpio": "El FMI monitorea la mora de créditos de los hogares, pero no la considera un riesgo significativo",
-      "resumen": "La secretaria de Comunicaciones del Fondo, Julie Kozack, señaló que el índice de atraso es menor que en otros países de la región y que los bancos tienen liquidez.",
-      "porQueImporta": "Para Guido, residente en Argentina, esta es una noticia económica local relevante. La evaluación del FMI sobre la mora crediticia de los hogares ofrece una perspectiva sobre la estabilidad financiera del país, lo cual es importante para entender el contexto económico general.",
-      "publicadoEn": "2026-09-10T15:02:20.000Z",
-      "imagen": "https://www.clarin.com/img/2026/07/27/2DRcOTnsp_1200x630__1.jpg",
-      "globalScore": 98,
-      "personalScore": 100,
-      "tags": [
-        "Argentina",
-        "Economía",
-        "Finanzas",
-        "FMI"
+        "Reino Unido",
+        "activos digitales",
+        "regulación",
+        "criptoactivos"
       ],
       "tambienVistoEn": []
     },
@@ -481,20 +296,20 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/09/09/eleccion-caliente-en-la-sra-pino-le-gano-a-pereda-y-seguira-como-presidente-de-la-entidad-que-representa-a-la-aristocracia-del-campo/",
-      "tituloOriginal": "Elección caliente en la SRA: Pino le ganó a Pereda y seguirá como presidente de la entidad que representa a la aristocracia del campo",
-      "tituloLimpio": "Elección en la SRA: Pino le ganó a Pereda y seguirá como presidente",
-      "resumen": "El actual titular de la Sociedad Rural Argentina obtuvo 1.441 votos contra los 592 de su vice en la elección más disputada de los 160 años de historia de la entidad.",
-      "porQueImporta": "Esta noticia política y económica local es relevante para Guido porque la Sociedad Rural Argentina es una entidad influyente en el sector agropecuario, clave para la economía del país. El resultado de la elección puede indicar tendencias en la política agraria y económica.",
-      "publicadoEn": "2026-09-10T15:37:01.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/K6NGLBW3EZCPTPSVHUPDK2DTJE.jpeg?auth=72b2f9529d3ab03939a1d39b961987c6eb2d39e0d89eda38197d302692a8587b&smart=true&width=1280&height=853",
-      "globalScore": 98,
+      "url": "https://www.infobae.com/economia/2026/09/10/la-inflacion-en-agosto-fue-de-17-y-acumulo-335-en-los-ultimos-doce-meses/",
+      "tituloOriginal": "La inflación en agosto fue de 1,7% y acumuló 33,5% en los últimos doce meses",
+      "tituloLimpio": "La inflación en Argentina en agosto fue del 1,7% y acumuló 33,5% en los últimos doce meses",
+      "resumen": "La cifra implicó una desaceleración respecto del 2,1% marcado en julio. El ministro de Economía, Luis Caputo, celebró que se tratara del número más bajo en 14 meses.",
+      "porQueImporta": "Noticia clave para la economía argentina y las decisiones de inversión. La desaceleración de la inflación es un dato importante para la planificación financiera personal y empresarial.",
+      "publicadoEn": "2026-09-10T19:25:10.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/5GKFVIGFYREOBGOQ2BJWXM3MC4.jpg?auth=156dc1d76b995aa8015a8965e35045346e557ca184a5adf193df6d875a135495&smart=true&width=1920&height=1080",
+      "globalScore": 94,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Política",
-        "Economía",
-        "Sociedad Rural"
+        "economía",
+        "inflación",
+        "finanzas"
       ],
       "tambienVistoEn": []
     },
@@ -502,46 +317,67 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/inflacion-de-agosto-cual-fue-el-ipc-acumulado-y-que-proyectan-las-consultoras-para-este-ano-nid10092026/",
-      "tituloOriginal": "Inflación de agosto: cuál fue el IPC acumulado y qué proyectan las consultoras para este año",
-      "tituloLimpio": "Inflación de agosto: cuál fue el IPC acumulado y qué proyectan las consultoras para este año",
-      "resumen": "La cifra se conocerá esta tarde; en julio, el alza fue del 2,1%, con una variación interanual del 19,3%.",
-      "porQueImporta": "La inflación es un factor económico fundamental en Argentina. Para Guido, esta noticia es crucial para entender el poder adquisitivo, planificar inversiones y evaluar el contexto económico general del país.",
-      "publicadoEn": "2026-09-10T15:37:55.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/LCG2JPMRRVBTDCQZVVPLA5AVOQ.jpg?auth=a1b53fa45064a55505fbc28e3d00636eda08f72dc5f7a4da3b2deea802cbc20b&smart=true&width=2000&height=1333",
-      "globalScore": 98,
+      "url": "https://www.lanacion.com.ar/economia/la-sucesion-de-uno-de-los-pioneros-de-la-tv-por-cable-se-resolvera-en-la-argentina-nid10092026/",
+      "tituloOriginal": "La sucesión de uno de los pioneros de la TV por cable se resolverá en la Argentina",
+      "tituloLimpio": "La sucesión de un pionero de la TV por cable se resolverá en Argentina",
+      "resumen": "El Tribunal Superior de Justicia de la Ciudad hizo lugar a una queja y consideró que los tribunales argentinos son competentes para tramitar la sucesión del empresario, que murió en Buenos Aires en 2024.",
+      "porQueImporta": "Aunque es un caso particular, resalta la competencia de los tribunales argentinos en asuntos de sucesiones de empresarios importantes, lo que puede tener implicaciones legales y financieras en el ámbito local.",
+      "publicadoEn": "2026-09-10T19:25:46.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/ECTBFAVVANA77A7OI67T57B3YI.JPG?auth=6d38f7c350474b83846a2b7beedc8d716e8724f1f8d666fa07b4860024aa8566&smart=true&width=2000&height=1333",
+      "globalScore": 100,
       "personalScore": 100,
       "tags": [
         "Argentina",
-        "Economía",
-        "Inflación",
-        "Finanzas"
+        "legal",
+        "negocios",
+        "sucesiones"
       ],
       "tambienVistoEn": []
     },
     {
-      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
-      "categoria": "Argentina",
-      "fuente": "La Nacion Politica",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-fenomeno-barrial-y-extraordinario-la-reaccion-del-presidente-ante-nid10092026/",
-      "tituloOriginal": "Javier Milei y sus medidas, en vivo: “Fenómeno barrial” y “extraordinario”, la reacción del Presidente ante mensajes de dos funcionarios de Trump",
-      "tituloLimpio": "Javier Milei y sus medidas, en vivo: la reacción del Presidente ante mensajes de dos funcionarios de Trump",
-      "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios.",
-      "porQueImporta": "Para Guido, como ciudadano argentino, es importante estar al tanto de las decisiones y reacciones del Presidente y su gobierno. Esto influye en el clima político y económico del país, afectando desde las políticas públicas hasta el ambiente de negocios.",
-      "publicadoEn": "2026-09-10T15:55:37.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/YO4BWFLHWRCZ7BBXXUGT3VM35E.JPG?auth=2c19e70110173a10c9e55289f7551a3209508e2fd08a2dafff75b9f4611eb600&smart=true&width=1998&height=1333",
-      "globalScore": 98,
+      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
+      "categoria": "Marketing",
+      "fuente": "Adweek",
+      "url": "https://www.adweek.com/programmatic/is-the-trade-desk-running-out-of-room-to-turn-around/",
+      "tituloOriginal": "Is The Trade Desk Running Out of Room to Turn Around?",
+      "tituloLimpio": "The Trade Desk: ¿se está quedando sin margen de maniobra?",
+      "resumen": "Después de una serie de salidas de ejecutivos de alto nivel, The Trade Desk despidió al 15% de su fuerza laboral.",
+      "porQueImporta": "Relevante para entender la dinámica del mercado de marketing digital y las empresas de tecnología publicitaria. Los cambios en The Trade Desk pueden indicar tendencias en la industria y posibles oportunidades o riesgos.",
+      "publicadoEn": "2026-09-10T13:51:37.000Z",
+      "globalScore": 90,
       "personalScore": 100,
       "tags": [
-        "Argentina",
-        "Política",
-        "Gobierno"
+        "Marketing",
+        "AdTech",
+        "negocios",
+        "The Trade Desk"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "9to5mac-aHR0cHM6Ly85dG81Z29v",
+      "categoria": "Apple",
+      "fuente": "9to5Mac",
+      "url": "https://9to5google.com/2026/09/08/chrome-updates-two-weeks/",
+      "tituloOriginal": "Google Chrome starts two-week release cycle with version 153",
+      "tituloLimpio": "Google Chrome inicia un ciclo de lanzamiento de dos semanas con la versión 153",
+      "resumen": "Como se anticipó a principios de este año, Google Chrome ahora opera con un ciclo de lanzamiento de dos semanas.",
+      "porQueImporta": "Importante para usuarios de herramientas y automatización, ya que los ciclos de actualización más rápidos pueden traer nuevas funcionalidades o cambios en la compatibilidad con otras herramientas. Relevante para desarrolladores y usuarios avanzados.",
+      "publicadoEn": "2026-09-08T16:14:58.000Z",
+      "globalScore": 84,
+      "personalScore": 97,
+      "tags": [
+        "Google",
+        "Chrome",
+        "herramientas",
+        "actualizaciones",
+        "navegadores"
       ],
       "tambienVistoEn": []
     }
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-09-10T16:03:01.801Z"
+    "generadoEn": "2026-09-10T19:28:07.166Z"
   }
 }
