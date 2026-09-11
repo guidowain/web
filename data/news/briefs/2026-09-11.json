@@ -1,0 +1,385 @@
+{
+  "fecha": "2026-09-11",
+  "generadoEn": "2026-09-11T16:06:36.152Z",
+  "actualizacion": "14:00",
+  "resumenEjecutivo": "Apple lanzó los nuevos iPhone 18 Pro y el primer plegable, el iPhone Duo. En Argentina, la inflación de agosto habría superado el 1,7% con la nueva medición, los bonos suben y el riesgo país baja. Nvidia proyecta un crecimiento del 70% para el próximo año. Meta ajusta sus sugerencias de IA tras preguntas invasivas. Se imputó a \"Chiqui\" Tapia por enriquecimiento ilícito.",
+  "radarPersonal": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Apple anunció el iPhone 18 Pro y el iPhone Duo, su primer plegable",
+      "resumen": "Apple anunció el iPhone 18 Pro y su primer plegable, el iPhone Duo. El iPhone 18 Pro y iPhone 18 Pro Max tienen una Dynamic Island más chica y nuevos colores Glacier y Burg.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/09/11/the-macrumors-show-iphone-duo/"
+      ],
+      "score": 100,
+      "tags": [
+        "iPhone",
+        "lanzamiento",
+        "plegable"
+      ]
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "titulo": "La precisión del ritmo cardíaco del Apple Watch Series 12 frente a sus rivales",
+      "resumen": "Apple afirmó que el Apple Watch Series 12 tiene la mejor precisión de ritmo cardíaco entre los wearables. Un estudio muestra lo cerca que están algunos rivales bajo ciertas condiciones de prueba. El Apple Watch Series 12 incluye mejoras en las funciones de salud y el regreso de la carcasa de cerámica.",
+      "categoria": "Apple",
+      "fuentes": [
+        "AppleInsider"
+      ],
+      "urls": [
+        "https://appleinsider.com/articles/26/09/11/apple-watch-heart-rate-accuracy-vs-rivals-devil-is-in-the-details?utm_source=rss"
+      ],
+      "score": 100,
+      "tags": [
+        "Apple Watch",
+        "salud",
+        "precisión"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "titulo": "Jensen Huang explica el crecimiento del 70% de Nvidia para el próximo año",
+      "resumen": "Jensen Huang, de Nvidia, explica por qué la empresa crecerá un 70% el próximo año. Nvidia tiene participación en varios sectores y prevé otro año de abundancia, aunque Huang insiste en que sus acuerdos no son circulares.",
+      "categoria": "AI",
+      "fuentes": [
+        "TechCrunch AI"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/"
+      ],
+      "score": 100,
+      "tags": [
+        "Nvidia",
+        "crecimiento",
+        "IA"
+      ]
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "titulo": "Mila, la startup de IA para recordar y homenajear a seres queridos",
+      "resumen": "Una tragedia familiar fue la base para Mila, una startup que usa un biógrafo de IA para ayudar a las personas a armar sus historias familiares y homenajear a sus seres queridos.",
+      "categoria": "AI",
+      "fuentes": [
+        "La Nacion Economia"
+      ],
+      "urls": [
+        "https://www.lanacion.com.ar/tecnologia/una-tragedia-familiar-fue-la-base-para-mila-la-startup-para-recordar-y-homenajear-a-los-seres-nid11092026/"
+      ],
+      "score": 100,
+      "tags": [
+        "IA",
+        "startup",
+        "biografía"
+      ]
+    }
+  ],
+  "loImportante": [
+    "Apple lanzó el iPhone 18 Pro y su primer plegable, el iPhone Duo.",
+    "La inflación de agosto en Argentina habría superado el 1,7% con la nueva medición postergada por el Gobierno.",
+    "Nvidia proyecta un crecimiento del 70% para el próximo año, según su CEO Jensen Huang.",
+    "Meta está modificando las sugerencias de su chatbot de IA tras reportes de preguntas personales invasivas.",
+    "Los bonos argentinos suben y el riesgo país cae a su nivel mínimo en un mes."
+  ],
+  "oportunidades": [
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "AI",
+      "titulo": "Explorar el nicho de biógrafos de IA para historias personales",
+      "detalle": "La startup Mila surgió de una tragedia familiar para crear un biógrafo de IA que ayuda a reconstruir historias familiares. Esto demuestra un potencial para herramientas de IA que asistan en la creación de contenido personal y emotivo, un área donde Guido podría aplicar sus habilidades de retoque y arte con IA.",
+      "acciones": [
+        "Investigar herramientas de IA existentes para narrativas personales o biográficas.",
+        "Considerar cómo las habilidades de retoque y arte con IA podrían mejorar este tipo de productos o servicios.",
+        "Evaluar la demanda de servicios de creación de historias personales asistidos por IA en el mercado local."
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "titulo": "Riesgos de privacidad en chatbots de IA",
+      "detalle": "Meta está cambiando las sugerencias de su chatbot de IA después de que un video viral mostrara que hacía preguntas personales invasivas. Esto subraya los riesgos de privacidad y la necesidad de un diseño cuidadoso en las interacciones con IA, especialmente en herramientas que manejan información personal.",
+      "mitigacion": "Al desarrollar o usar herramientas de IA, priorizar la privacidad del usuario y la ética en el diseño de las interacciones. Implementar controles estrictos para evitar la recopilación o solicitud de información personal sensible. Mantenerse al tanto de las regulaciones de privacidad y las mejores prácticas en el desarrollo de IA."
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "Technology",
+      "titulo": "Problemas de infraestructura energética para centros de datos de IA",
+      "detalle": "La alimentación de la IA es un problema de arquitectura, con fallas en líneas de transmisión que han afectado grandes centros de datos en Virginia, el corazón del clúster de centros de datos más grande del mundo. Esto indica una vulnerabilidad en la infraestructura energética que soporta la creciente demanda de IA.",
+      "mitigacion": "Considerar la resiliencia de la infraestructura al planificar proyectos de IA que requieran alta capacidad de cómputo. Diversificar proveedores de servicios en la nube o ubicaciones geográficas para reducir la dependencia de un único punto de falla. Monitorear las tendencias en el desarrollo de infraestructura energética para IA."
+    }
+  ],
+  "conexiones": [],
+  "noticias": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "categoria": "Apple",
+      "fuente": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/11/the-macrumors-show-iphone-duo/",
+      "tituloOriginal": "The MacRumors Show: iPhone 18 Pro and iPhone Duo Announced!",
+      "tituloLimpio": "Apple anunció el iPhone 18 Pro y el iPhone Duo, su primer plegable",
+      "resumen": "Apple anunció el iPhone 18 Pro y su primer plegable, el iPhone Duo. El iPhone 18 Pro y iPhone 18 Pro Max tienen una Dynamic Island más chica y nuevos colores Glacier y Burg.",
+      "porQueImporta": "Es el lanzamiento de los nuevos modelos de iPhone, incluyendo el primer plegable de Apple, lo cual es relevante para el interés de Guido en Apple y las tendencias tecnológicas.",
+      "publicadoEn": "2026-09-11T16:05:01.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "iPhone",
+        "lanzamiento",
+        "plegable"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
+      "categoria": "Argentina",
+      "fuente": "Ambito",
+      "url": "https://www.ambito.com/economia/cual-habria-sido-el-dato-inflacion-agosto-la-nueva-medicion-que-el-gobierno-postergo-n6321242",
+      "tituloOriginal": "Cuál habría sido el dato de inflación de agosto con la nueva medición que el Gobierno postergó",
+      "tituloLimpio": "La inflación de agosto habría superado el 1,7% con la nueva medición postergada por el Gobierno",
+      "resumen": "Según estimaciones privadas, de haberse aplicado la canasta actualizada de la ENGHo, el IPC de agosto habría superado el 1,7% informado oficialmente por el Indec.",
+      "porQueImporta": "Impacta directamente en la economía argentina y en el poder adquisitivo, relevante para Guido como residente y para sus decisiones de inversión.",
+      "publicadoEn": "2026-09-11T15:53:00.000Z",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "inflación",
+        "economía"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
+      "categoria": "AI",
+      "fuente": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+      "tituloOriginal": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+      "tituloLimpio": "Jensen Huang explica el crecimiento del 70% de Nvidia para el próximo año",
+      "resumen": "Jensen Huang, de Nvidia, explica por qué la empresa crecerá un 70% el próximo año. Nvidia tiene participación en varios sectores y prevé otro año de abundancia.",
+      "porQueImporta": "Nvidia es un actor clave en el sector de IA, y su crecimiento proyectado es una señal importante para el mercado de tecnología y las inversiones en ETFs relacionados con IA.",
+      "publicadoEn": "2026-09-10T21:51:59.000Z",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "Nvidia",
+        "inversión",
+        "mercado"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "categoria": "AI",
+      "fuente": "The Verge AI",
+      "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+      "tituloOriginal": "Meta says it’s changing AI suggestions after posing invasive personal questions",
+      "tituloLimpio": "Meta cambia las sugerencias de su IA tras preguntas personales invasivas",
+      "resumen": "Meta está haciendo cambios a las sugerencias de su chatbot de IA después de que un video viral mostrara que hacía preguntas personales invasivas sobre las hijas de una mujer.",
+      "porQueImporta": "Destaca los desafíos éticos y de privacidad en el desarrollo de IA, un tema crucial para cualquier profesional que trabaje con esta tecnología.",
+      "publicadoEn": "2026-09-11T14:25:21.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "ética",
+        "privacidad",
+        "Meta"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "categoria": "AI",
+      "fuente": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+      "tituloOriginal": "Powering AI is an architecture problem",
+      "tituloLimpio": "La alimentación de la IA es un problema de arquitectura",
+      "resumen": "Una falla en una línea de transmisión en Ashburn, Virginia, el corazón del clúster de centros de datos más grande del mundo, desconectó más de 3 gigawatts de carga de la red en segundos. No fue la primera vez.",
+      "porQueImporta": "Destaca un desafío fundamental en la infraestructura para el desarrollo y escalado de la IA, relevante para entender las limitaciones y el futuro de la tecnología.",
+      "publicadoEn": "2026-09-10T11:00:00.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "infraestructura",
+        "tecnología"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
+      "categoria": "Apple",
+      "fuente": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/09/11/apple-watch-heart-rate-accuracy-vs-rivals-devil-is-in-the-details?utm_source=rss",
+      "tituloOriginal": "Apple Watch heart rate accuracy vs. rivals: devil is in the details",
+      "tituloLimpio": "La precisión del ritmo cardíaco del Apple Watch Series 12 frente a sus rivales",
+      "resumen": "Apple afirmó que el Apple Watch Series 12 tiene la mejor precisión de ritmo cardíaco entre los wearables. Un estudio muestra lo cerca que están algunos rivales bajo ciertas condiciones de prueba. El Apple Watch Series 12 incluye mejoras en las funciones de salud y el regreso de la carcasa de cerámica.",
+      "porQueImporta": "Interesante para Guido por su interés en Apple y las innovaciones en tecnología wearable y salud.",
+      "publicadoEn": "2026-09-11T15:35:44.000Z",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "Apple",
+        "Apple Watch",
+        "salud",
+        "wearables"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
+      "categoria": "Finance",
+      "fuente": "Yahoo Finance",
+      "url": "https://www.investors.com/research/investing-action-plan/federal-reserve-rate-hike-close-to-clarity-act-vote-salesforce-dreamforce/?src=A00220&yptr=yahoo",
+      "tituloOriginal": "Fed Rate Hike Close To A Lock; Clarity Act Vote Looms: Week Ahead",
+      "tituloLimpio": "La suba de tasas de la Fed está casi asegurada; se avecina votación de la Ley de Claridad",
+      "resumen": "La suba de tasas de la Reserva Federal está cerca de ser un hecho. Se avecina la votación de la Ley de Claridad.",
+      "porQueImporta": "Impacta en los mercados globales y las decisiones de inversión, incluyendo ETFs, relevante para el interés de Guido en finanzas.",
+      "publicadoEn": "2026-09-11T15:39:54.000Z",
+      "imagen": "https://media.zenfs.com/en/ibd.com/9921841ccca9cd2d4d0ea0d78790362b.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "finanzas",
+        "mercados",
+        "Fed",
+        "tasas de interés"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Economia",
+      "url": "https://www.clarin.com/economia/dolar-hoy-dolar-blue-vivo-cotiza-oficial-precio-paralelo-viernes-11-septiembre-minuto-minuto_0_GExePQlPBl.html",
+      "tituloOriginal": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 11 de septiembre, minuto a minuto",
+      "tituloLimpio": "Dólar hoy y dólar blue, EN VIVO: cotización oficial y precio paralelo este viernes 11 de septiembre",
+      "resumen": "Todas las cotizaciones del dólar durante la jornada del viernes 11 de septiembre.",
+      "porQueImporta": "Información esencial para cualquier residente en Argentina, afectando la economía diaria y las decisiones financieras.",
+      "publicadoEn": "2026-09-11T10:53:25.000Z",
+      "imagen": "https://www.clarin.com/img/2023/08/16/SQwT-gUML_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "dólar",
+        "economía"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Argentina",
+      "fuente": "Clarin Politica",
+      "url": "https://www.clarin.com/politica/comenzaron-investigar-chiqui-tapia-enriquecimiento-ilicito-ceamse_0_rkEzHYw2Qx.html",
+      "tituloOriginal": "Imputaron al \"Chiqui\" Tapia por enriquecimiento ilícito en el CEAMSE y ya lo investiga la Justicia",
+      "tituloLimpio": "Imputaron a \"Chiqui\" Tapia por enriquecimiento ilícito en el CEAMSE",
+      "resumen": "El fiscal Gerardo Pollicita requirió la imputación de \"Chiqui\" Tapia por enriquecimiento ilícito en el CEAMSE y pidió las primeras medidas de prueba al juez Ariel Lijo.",
+      "porQueImporta": "Noticia de interés general en Argentina, que puede tener implicaciones políticas y sociales.",
+      "publicadoEn": "2026-09-11T14:51:58.000Z",
+      "imagen": "https://www.clarin.com/img/2026/09/08/3Ubd_l2yC_1200x630__1.jpg",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "política",
+        "justicia"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Economia",
+      "url": "https://www.infobae.com/economia/2026/09/11/mercados-suben-los-bonos-argentinos-y-el-riesgo-pais-cae-su-nivel-minimo-en-un-mes/",
+      "tituloOriginal": "Mercados: suben los bonos argentinos y el riesgo país cae su nivel mínimo en un mes",
+      "tituloLimpio": "Mercados: suben los bonos argentinos y el riesgo país cae a su nivel mínimo en un mes",
+      "resumen": "Los títulos públicos ganan 0,2% en promedio y el indicador de JP Morgan cede a 486 unidades, un piso desde el 14 de agosto. El S&P Merval cae 0,6% y los ADR cotizan con tendencia dispar.",
+      "porQueImporta": "Noticia relevante para las inversiones en Argentina, mostrando un movimiento positivo en bonos y riesgo país.",
+      "publicadoEn": "2026-09-11T15:20:30.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/W7IN7RCEP5GMRKL57AV3DT2HWU.JPG?auth=b43d285151f0bc647dec2a1a4d6ce035fb2b36784a0cd0641a485a04a2ddc36b&smart=true&width=4838&height=3225",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "finanzas",
+        "bonos",
+        "riesgo país"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Argentina",
+      "fuente": "Infobae Politica",
+      "url": "https://www.infobae.com/politica/2026/09/11/la-economia-el-principal-problema-para-milei-dos-encuestas-muestran-un-fuerte-deterioro-en-las-expectativas/",
+      "tituloOriginal": "La economía, el principal problema para Milei: dos encuestas muestran un fuerte deterioro en las expectativas",
+      "tituloLimpio": "La economía, el principal problema para Milei: encuestas muestran deterioro en las expectativas",
+      "resumen": "Dos encuestas muestran un fuerte deterioro en las expectativas económicas, con una mayoría de consultados describiendo un empeoramiento de su situación material y anticipando un horizonte desfavorable para los próximos 12 meses.",
+      "porQueImporta": "Refleja la percepción pública sobre la situación económica en Argentina, relevante para el contexto general del país.",
+      "publicadoEn": "2026-09-11T14:57:04.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/4PTYZCU7ZBDODI7JGOBHCIAN2U.png?auth=694f393220b1e21d168e61f2906b8666c90cff7a9f51d254f3363a127ca50044&smart=true&width=2752&height=1536",
+      "globalScore": 94,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "economía",
+        "política",
+        "encuestas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Economia",
+      "url": "https://www.lanacion.com.ar/tecnologia/una-tragedia-familiar-fue-la-base-para-mila-la-startup-para-recordar-y-homenajear-a-los-seres-nid11092026/",
+      "tituloOriginal": "Una tragedia familiar fue la base para Mila, la startup para recordar y homenajear a los seres queridos",
+      "tituloLimpio": "Mila, la startup de IA para recordar y homenajear a seres queridos",
+      "resumen": "Una tragedia familiar fue la base para Mila, la startup que usa un biógrafo de IA para ayudar a las personas a armar sus historias familiares y agasajarlos.",
+      "porQueImporta": "Muestra una aplicación creativa y emotiva de la IA, relevante para el interés de Guido en el arte con IA y nuevas herramientas.",
+      "publicadoEn": "2026-09-11T16:04:22.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/32GG35G66VFWNIPVRA73FQY5LA.jpg?auth=9baa942d881a541133b7e122eae0850c37875afe4db1eacce61cf30104317e27&smart=true&width=1024&height=1024",
+      "globalScore": 100,
+      "personalScore": 100,
+      "tags": [
+        "IA",
+        "startup",
+        "arte con IA",
+        "herramientas"
+      ],
+      "tambienVistoEn": []
+    },
+    {
+      "id": "lanacion-politica-aHR0cHM6Ly93d3cubGFu",
+      "categoria": "Argentina",
+      "fuente": "La Nacion Politica",
+      "url": "https://www.lanacion.com.ar/politica/asi-son-helicopteros-uh-60l-blackhawk-que-el-gobierno-le-compraria-a-eeuu-nid11092026/",
+      "tituloOriginal": "Así son helicópteros UH-60L Blackhawk, que el Gobierno le compraría a EE.UU.",
+      "tituloLimpio": "Así son los helicópteros UH-60L Blackhawk que el Gobierno le compraría a EE.UU.",
+      "resumen": "Se trata de aviones que serán destinados al fortalecimiento de la defensa y a la atención de emergencias.",
+      "porQueImporta": "Noticia de interés general sobre adquisiciones militares y de seguridad en Argentina.",
+      "publicadoEn": "2026-09-11T15:53:21.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/ZJULATX2HRAZ7JY5UOT224KVLE.jpg?auth=f025997ca0be168ba1db0e57cda751ed7746acd6620450b777fe5e08f3a17853&smart=true&width=2000&height=1333",
+      "globalScore": 98,
+      "personalScore": 100,
+      "tags": [
+        "Argentina",
+        "gobierno",
+        "defensa"
+      ],
+      "tambienVistoEn": []
+    }
+  ],
+  "estado": {
+    "estado": "ok",
+    "generadoEn": "2026-09-11T16:06:36.152Z"
+  }
+}
