@@ -1,9 +1,29 @@
 {
   "fecha": "2026-09-12",
-  "generadoEn": "2026-09-12T15:13:59.117Z",
+  "generadoEn": "2026-09-12T18:58:21.781Z",
   "actualizacion": "14:00",
-  "resumenEjecutivo": "Hoy destacamos novedades en créditos hipotecarios UVA en CABA, la situación de la nafta por el aumento del petróleo, y el impacto de la IA en la publicidad. También, un análisis sobre la desigualdad global y el inicio de pre-órdenes del iPhone 18 Pro.",
+  "resumenEjecutivo": "Apple lanzó el iPhone Duo plegable, el iPhone 18 Pro, Apple Watch Series 12 y AirPods 5. En IA, Anthropic propone frenar el desarrollo y Google Search integra IA para planes de entrenamiento. En Argentina, el Banco Ciudad ofrece créditos hipotecarios UVA con tasa preferencial, mientras que el número de empresas sigue cayendo y se detectaron fallas en los controles de ANMAT. Los pagos con QR avanzan globalmente, pero en Latinoamérica aún son principalmente locales. Se estima que en cinco años el 95% de los autos en Argentina seguirán siendo de combustión.",
   "radarPersonal": [
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Apple presentó el iPhone Duo, iPhone 18 Pro, Apple Watch y AirPods",
+      "resumen": "Apple lanzó el iPhone Duo plegable, el iPhone 18 Pro y Pro Max, el Apple Watch Series 12 y Ultra 4, y los AirPods 5. El iPhone Duo estará disponible en un mes, el resto de los productos ya están a la venta.",
+      "categoria": "Apple",
+      "fuentes": [
+        "MacRumors"
+      ],
+      "urls": [
+        "https://www.macrumors.com/2026/09/12/top-stories-apple-event-recap-iphone-duo/"
+      ],
+      "score": 100,
+      "tags": [
+        "Apple",
+        "iPhone",
+        "Apple Watch",
+        "AirPods",
+        "lanzamiento"
+      ]
+    },
     {
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "titulo": "Créditos hipotecarios UVA: cómo acceder a la nueva tasa del 6,5% para comprar la primera vivienda en CABA",
@@ -17,182 +37,176 @@
       ],
       "score": 100,
       "tags": [
-        "creditos",
+        "créditos",
         "hipotecarios",
-        "uva",
-        "vivienda",
-        "caba"
+        "UVA",
+        "Banco Ciudad",
+        "CABA",
+        "vivienda"
       ]
     },
     {
-      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
-      "titulo": "¿Qué va a pasar con la nafta?: la escalada del precio global del petróleo pone en duda el alivio previsto para los surtidores locales",
-      "resumen": "El Brent superó los USD 100 el barril y acumula una suba del 30% desde agosto. El mecanismo que YPF usó para proteger los bolsillos de los consumidores ya no tiene margen, y la pregunta es cuánto tiempo más seguirán quietos los precios.",
-      "categoria": "Argentina",
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "El CEO de Anthropic dice que es hora de frenar el desarrollo de la IA",
+      "resumen": "El CEO de Anthropic, Dario Amodei, afirma que es momento de ralentizar el desarrollo de la IA y permitirá a evaluadores externos acceder a sus modelos para asegurar la adherencia a prácticas de seguridad.",
+      "categoria": "AI",
       "fuentes": [
-        "Infobae Economia"
+        "The Verge AI"
       ],
       "urls": [
-        "https://www.infobae.com/economia/2026/09/12/que-va-a-pasar-con-la-nafta-la-escalada-del-precio-global-del-petroleo-pone-en-duda-el-alivio-previsto-para-los-surtidores-locales/"
+        "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development"
       ],
       "score": 100,
       "tags": [
-        "nafta",
-        "petroleo",
-        "precios",
-        "argentina"
-      ]
-    },
-    {
-      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
-      "titulo": "Plataformas de compra de IA gestionarán el 27% del gasto publicitario en EE.UU. para 2030",
-      "resumen": "Un nuevo pronóstico de Madison & Wall predice que el mercado publicitario global alcanzará los 1.3 billones de dólares para fin de año.",
-      "categoria": "Marketing",
-      "fuentes": [
-        "Adweek"
-      ],
-      "urls": [
-        "https://www.adweek.com/agencies/ai-buying-platforms-will-manage-27-of-us-ad-spend-by-2030-report/"
-      ],
-      "score": 100,
-      "tags": [
-        "ia",
-        "publicidad",
-        "marketing",
-        "tendencia"
+        "IA",
+        "Anthropic",
+        "seguridad",
+        "desarrollo"
       ]
     },
     {
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
-      "titulo": "Según un experto mundial en desigualdad, la idea de que la riqueza se filtra al resto es una ilusión interesada",
-      "resumen": "Branko Milanovic habla del rol que jugó China, del cambio global y de la disrupción de la IA. Advierte que los instrumentos para reducir la desigualdad son bien conocidos: mejor educación, capacitación, subsidios. Pero que el principal obstáculo es su viabilidad política.",
+      "titulo": "Dinero sin fronteras: el avance del código QR redefine los pagos a nivel global",
+      "resumen": "Los pagos instantáneos crecen internacionalmente, aunque en América Latina funcionan principalmente dentro de cada país. El próximo paso es conectarlos sin debilitar la seguridad ni los controles.",
       "categoria": "Argentina",
       "fuentes": [
         "Clarin Economia"
       ],
       "urls": [
-        "https://www.clarin.com/economia/mayores-expertos-mundiales-desigualdad-creer-riqueza-filtra-resto-ilusion-interesada_0_uqgvNt67Jo.html"
+        "https://www.clarin.com/economia/dinero-fronteras-avance-codigo-qr-redefiniendo-pagos-nivel-global_0_hXsqRog4KX.html"
       ],
       "score": 100,
       "tags": [
-        "desigualdad",
-        "economia",
-        "ia",
-        "global"
+        "pagos",
+        "QR",
+        "global",
+        "Latinoamérica",
+        "finanzas"
       ]
     },
     {
-      "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
-      "titulo": "Los pedidos anticipados del iPhone 18 Pro tienen un comienzo sorprendentemente lento",
-      "resumen": "Ya sea por la economía, una mejor oferta de lo normal, el inminente iPhone Duo o la inusual apertura de pedidos anticipados de Apple un sábado, muy pocos modelos de iPhone 18 Pro muestran retrasos en el envío una hora después del inicio de los pedidos anticipados.",
-      "categoria": "Apple",
+      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "titulo": "La electrificación que no llega: estiman que en cinco años el 95% de los autos de Argentina seguirán siendo de combustión",
+      "resumen": "Según la asociación de concesionarios, los vehículos enchufables se multiplicarán 12 veces hasta 2031, pero el consumo de combustibles líquidos crecerá un 14,5 por ciento.",
+      "categoria": "Argentina",
       "fuentes": [
-        "AppleInsider"
+        "Infobae Economia"
       ],
       "urls": [
-        "https://appleinsider.com/articles/26/09/12/iphone-18-pro-pre-orders-off-to-a-surprisingly-slow-start?utm_source=rss"
+        "https://www.infobae.com/economia/2026/09/11/la-electrificacion-que-no-llega-estiman-que-en-cinco-anos-el-95-de-los-autos-de-argentina-seguiran-siendo-de-combustion/"
       ],
       "score": 100,
       "tags": [
-        "iphone",
-        "apple",
-        "pre-ordenes",
+        "autos",
+        "electrificación",
+        "Argentina",
+        "combustión",
         "mercado"
       ]
     }
   ],
   "loImportante": [
-    "El Banco Ciudad lanzó una nueva línea de créditos hipotecarios UVA con una tasa preferencial del 6,5% para la compra de primera vivienda en CABA, ofreciendo hasta $150 millones.",
-    "La escalada del precio global del petróleo Brent, superando los USD 100 el barril, pone en duda la estabilidad de los precios de la nafta en Argentina.",
-    "Se proyecta que las plataformas de compra de publicidad con IA gestionarán el 27% del gasto publicitario en EE.UU. para 2030, con un mercado global de 1.3 billones de dólares.",
-    "Un experto mundial en desigualdad afirma que la creencia de que la riqueza se filtra al resto es una 'ilusión interesada', destacando la IA como factor de disrupción.",
-    "Los pedidos anticipados del iPhone 18 Pro han tenido un comienzo lento, posiblemente debido a factores económicos o una mayor oferta."
+    "Apple lanzó el iPhone Duo plegable, el iPhone 18 Pro, Apple Watch Series 12 y AirPods 5, marcando una renovación importante en su línea de productos.",
+    "El Banco Ciudad ofrece créditos hipotecarios UVA con una tasa preferencial del 6,5% para la compra de la primera vivienda en CABA, una oportunidad relevante para el mercado inmobiliario local.",
+    "El CEO de Anthropic propone ralentizar el desarrollo de la IA para priorizar la seguridad, lo que podría influir en la dirección de la industria.",
+    "Los pagos con código QR avanzan globalmente, pero en América Latina aún falta integración transfronteriza, un desafío y oportunidad para el sector financiero.",
+    "Se estima que la electrificación del parque automotor en Argentina será lenta, con el 95% de los autos aún a combustión en cinco años, lo que impacta en la infraestructura y el consumo de combustibles."
   ],
   "oportunidades": [
     {
       "id": "ambito-aHR0cHM6Ly93d3cuYW1i",
       "categoria": "Investing",
-      "titulo": "Acceso a créditos hipotecarios UVA con tasa preferencial en CABA",
-      "detalle": "El Banco Ciudad ofrece una tasa del 6,5% para la compra de primera vivienda en CABA, con financiamiento de hasta $150 millones y un plazo de 25 años.",
+      "titulo": "Créditos hipotecarios UVA del Banco Ciudad con tasa preferencial",
+      "detalle": "El Banco Ciudad lanzó una tasa del 6,5% para créditos hipotecarios UVA para comprar la primera vivienda en CABA, financiando hasta $150 millones y el 75% del inmueble a 25 años.",
       "acciones": [
-        "Evaluar la posibilidad de acceder a esta línea de crédito para inversión inmobiliaria o vivienda propia en CABA."
+        "Evaluar la posibilidad de adquirir una propiedad en CABA con esta financiación.",
+        "Analizar el impacto de las tasas UVA en el largo plazo."
       ]
     },
     {
-      "id": "adweek-aHR0cHM6Ly93d3cuYWR3",
-      "categoria": "Marketing",
-      "titulo": "Crecimiento del mercado publicitario impulsado por IA",
-      "detalle": "Las plataformas de compra de IA gestionarán una parte significativa del gasto publicitario en los próximos años, indicando una tendencia fuerte en el sector.",
+      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
+      "categoria": "AI",
+      "titulo": "Google Search con IA para planes de entrenamiento personalizados",
+      "detalle": "Google Search puede ayudar a los corredores a prepararse para una carrera con alertas de inscripción y planes de entrenamiento personalizados.",
       "acciones": [
-        "Investigar herramientas y plataformas de IA para optimizar campañas de marketing y publicidad.",
-        "Considerar la especialización en marketing digital con IA para aprovechar esta tendencia."
+        "Explorar cómo esta funcionalidad de IA puede aplicarse a otros nichos o intereses.",
+        "Considerar la creación de contenido o herramientas que complementen estas funciones de IA."
+      ]
+    },
+    {
+      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
+      "categoria": "Marketing",
+      "titulo": "Avance global del código QR en pagos",
+      "detalle": "El código QR está redefiniendo los sistemas de pagos a nivel global, con un crecimiento de los pagos instantáneos. En América Latina, el desafío es la interconexión transfronteriza.",
+      "acciones": [
+        "Investigar oportunidades de negocio en la integración de pagos QR transfronterizos en Latinoamérica.",
+        "Desarrollar estrategias de marketing para servicios que utilicen pagos QR."
       ]
     }
   ],
   "riesgos": [
     {
-      "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
+      "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Market",
-      "titulo": "Aumento de precios de la nafta en Argentina",
-      "detalle": "La escalada del precio global del petróleo Brent a más de USD 100 el barril pone presión sobre los precios de los combustibles locales, que podrían dejar de estar quietos.",
-      "mitigacion": "Monitorear la evolución del precio del petróleo y planificar gastos de transporte. Evaluar alternativas de movilidad o eficiencia energética."
+      "titulo": "Caída continua del número de empresas en Argentina",
+      "detalle": "En junio, el número de empresas en Argentina volvió a caer, sumando 31.342 menos desde que asumió Javier Milei. La reducción fue de 9147 en el primer semestre y de 16.386 en un año.",
+      "mitigacion": "Monitorear de cerca el entorno económico y las políticas gubernamentales. Diversificar inversiones y buscar sectores con mayor resiliencia o crecimiento."
     },
     {
-      "id": "mit-ai-aHR0cHM6Ly93d3cudGVj",
+      "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
+      "categoria": "Regulatory",
+      "titulo": "Fallas graves en los controles de ANMAT en Argentina",
+      "detalle": "Un informe oficial detectó fallas graves en los controles de la ANMAT entre 2019 y 2024, con un 21,7% de establecimientos farmacéuticos sin control en más de cinco años, tras 90 muertes por fentanilo contaminado.",
+      "mitigacion": "Estar atento a posibles cambios regulatorios y de fiscalización en el sector de salud y productos controlados. Evaluar el impacto en la confianza del consumidor y la reputación de las instituciones."
+    },
+    {
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
-      "titulo": "Preocupaciones sobre el impacto existencial de la IA avanzada",
-      "detalle": "Empleados de laboratorios de IA líderes plantean la posibilidad de que la IA avanzada pueda destruir a la humanidad.",
-      "mitigacion": "Mantenerse informado sobre los debates éticos y de seguridad en el desarrollo de IA. Considerar las implicaciones a largo plazo de las tecnologías de IA en proyectos personales y profesionales."
+      "titulo": "Propuesta de frenar el desarrollo de la IA por seguridad",
+      "detalle": "El CEO de Anthropic sugiere ralentizar el desarrollo de la IA y permitir el acceso a evaluadores externos para garantizar la seguridad, lo que podría afectar el ritmo de innovación en el sector.",
+      "mitigacion": "Mantenerse informado sobre las discusiones y regulaciones en torno a la seguridad de la IA. Adaptar estrategias de desarrollo y aplicación de IA considerando posibles pausas o restricciones."
     }
   ],
   "conexiones": [
     {
-      "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
-      "titulo": "La IA como factor de disrupción en la desigualdad global",
+      "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
+      "titulo": "El debate sobre la seguridad y el ritmo de la IA",
       "historias": [
-        "Un experto mundial en desigualdad menciona la disrupción de la IA como un factor en el panorama económico global.",
-        "La noticia sobre la valoración de Mecka AI en casi 500 millones de dólares en un acuerdo liderado por Sequoia, en medio de la demanda de datos de entrenamiento para robots, muestra la rápida expansión y el valor económico de la IA.",
-        "La noticia sobre las plataformas de compra de IA gestionando el 27% del gasto publicitario en EE.UU. para 2030 subraya cómo la IA está transformando industrias clave."
+        "El CEO de Anthropic dice que es hora de frenar el desarrollo de la IA.",
+        "Anthropic CEO outlines plan to ‘pace the frontier’.",
+        "Roundtables: Could AI really kill us all?"
       ],
-      "conclusion": "La IA no solo está redefiniendo sectores como la publicidad y la robótica, sino que también es vista por expertos como un factor clave en la evolución de la desigualdad económica global, lo que sugiere un impacto profundo y multifacético en la sociedad y la economía."
+      "conclusion": "La preocupación por la seguridad y el ritmo del desarrollo de la IA es un tema central en la industria. Mientras algunos líderes proponen ralentizar el avance para asegurar prácticas seguras, otros debaten sobre la posibilidad real de riesgos existenciales. Esto sugiere un período de reflexión y posible regulación en el sector."
+    },
+    {
+      "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
+      "titulo": "Lanzamientos de Apple y su impacto en la experiencia del usuario",
+      "historias": [
+        "Apple presentó el iPhone Duo, iPhone 18 Pro, Apple Watch y AirPods.",
+        "Apple nailed iPhone Duo split screen, even as iPad multitasking feels convoluted.",
+        "iPhone 18 Pro vs iPhone 17 Pro: Flagships, compared."
+      ],
+      "conclusion": "Los recientes lanzamientos de Apple, incluyendo el iPhone Duo plegable y el iPhone 18 Pro, marcan una evolución en su hardware. Sin embargo, la experiencia de usuario, especialmente en funciones como la pantalla dividida, muestra que aún hay desafíos en la integración y optimización entre dispositivos, como se ve en la comparación con el iPad."
     }
   ],
   "noticias": [
     {
-      "id": "google-ai-blog-aHR0cHM6Ly9ibG9nLmdv",
-      "categoria": "AI",
-      "fuente": "Google AI Blog",
-      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-      "tituloOriginal": "3 ways to prep for your next big race with Search",
-      "tituloLimpio": "Tres maneras de prepararse para su próxima carrera con la búsqueda de Google",
-      "resumen": "La búsqueda puede ayudar a los corredores a prepararse para el día de la carrera con alertas de registro, planes de entrenamiento personalizados y más.",
-      "porQueImporta": "Aunque es una noticia general, muestra cómo la IA se aplica en herramientas cotidianas para la planificación y automatización, algo que Guido valora en su búsqueda de eficiencia.",
-      "publicadoEn": "2026-09-10T16:00:00.000Z",
-      "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Race_Running_Tips.max-600x600.format-webp.webp",
-      "globalScore": 100,
-      "personalScore": 100,
-      "tags": [
-        "ia",
-        "herramientas",
-        "automatizacion"
-      ],
-      "tambienVistoEn": []
-    },
-    {
       "id": "macrumors-aHR0cHM6Ly93d3cubWFj",
       "categoria": "Apple",
       "fuente": "MacRumors",
-      "url": "https://www.macrumors.com/2026/09/12/iphone-18-pro-max-pre-order-shipping-dates/",
-      "tituloOriginal": "Didn't Pre-Order iPhone 18 Pro Yet? Here's How Long the Wait is Now",
-      "tituloLimpio": "Si no pre-ordenó el iPhone 18 Pro, aquí está el tiempo de espera actual",
-      "resumen": "Los pedidos anticipados del iPhone 18 Pro y iPhone 18 Pro Max comenzaron hoy en EE.UU. y muchos otros países. Si aún no hizo un pedido anticipado en la tienda online de Apple, podría enfrentar una espera más larga ahora, dependiendo de la configuración deseada.",
-      "porQueImporta": "Guido es usuario de Apple, y aunque la noticia se centra en los tiempos de espera en otros mercados, le da una idea del interés y la disponibilidad global de los nuevos productos.",
-      "publicadoEn": "2026-09-12T13:48:45.000Z",
+      "url": "https://www.macrumors.com/2026/09/12/top-stories-apple-event-recap-iphone-duo/",
+      "tituloOriginal": "Top Stories: Apple Event Recap With iPhone Duo, iPhone 18 Pro, Apple Watch, and AirPods",
+      "tituloLimpio": "Apple presentó el iPhone Duo, iPhone 18 Pro, Apple Watch y AirPods",
+      "resumen": "Apple lanzó el iPhone Duo plegable, el iPhone 18 Pro y Pro Max, el Apple Watch Series 12 y Ultra 4, y los AirPods 5. El iPhone Duo estará disponible en un mes, el resto de los productos ya están a la venta.",
+      "porQueImporta": "Es el lanzamiento de productos clave de Apple, incluyendo el primer iPhone plegable, lo que puede redefinir el mercado de smartphones y wearables.",
+      "publicadoEn": "2026-09-12T16:00:12.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "apple",
-        "iphone",
+        "Apple",
+        "iPhone",
+        "Apple Watch",
+        "AirPods",
         "lanzamiento"
       ],
       "tambienVistoEn": []
@@ -205,15 +219,17 @@
       "tituloOriginal": "Créditos hipotecarios UVA: cómo acceder a la nueva tasa del 6,5% para comprar la primera vivienda en CABA",
       "tituloLimpio": "Créditos hipotecarios UVA: cómo acceder a la nueva tasa del 6,5% para comprar la primera vivienda en CABA",
       "resumen": "El Banco Ciudad lanzó una tasa preferencial del 6,5% para comprar propiedades en la Ciudad de Buenos Aires. Ofrece hasta $150 millones, un plazo máximo de 25 años y financia hasta el 75% del inmueble.",
-      "porQueImporta": "Noticia de alto impacto para Guido, que vive en Argentina. Ofrece una oportunidad concreta de inversión inmobiliaria o acceso a vivienda propia en CABA.",
+      "porQueImporta": "Es una oportunidad concreta para acceder a financiación para vivienda en Argentina, con condiciones específicas para CABA.",
       "publicadoEn": "2026-09-12T00:55:00.000Z",
       "imagen": "https://media.ambito.com/p/2867ffdcc68988a443f46868f8ec345e/adjuntos/239/imagenes/043/620/0043620586/1200x675/397x512:417x532/credito-hipotecario.jpg",
       "globalScore": 92,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "finanzas",
-        "inversion",
+        "créditos",
+        "hipotecarios",
+        "UVA",
+        "Banco Ciudad",
+        "CABA",
         "vivienda"
       ],
       "tambienVistoEn": []
@@ -222,19 +238,19 @@
       "id": "techcrunch-ai-aHR0cHM6Ly90ZWNoY3J1",
       "categoria": "AI",
       "fuente": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "tituloOriginal": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "tituloLimpio": "Mecka AI se acerca a una valoración de 500 millones de dólares en un acuerdo liderado por Sequoia, en medio de la demanda de datos de entrenamiento para robots",
-      "resumen": "La ronda para la startup de dos años se está concretando meses después de que Mecka anunciara su Serie A.",
-      "porQueImporta": "Muestra el dinamismo del mercado de IA y la inversión en startups que trabajan con datos de entrenamiento para robótica, un área relevante para el interés de Guido en IA aplicada.",
-      "publicadoEn": "2026-09-11T22:58:17.000Z",
-      "globalScore": 100,
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "tituloOriginal": "Anthropic CEO outlines plan to ‘pace the frontier’",
+      "tituloLimpio": "El CEO de Anthropic detalla su plan para 'marcar el ritmo de la frontera' de la IA",
+      "resumen": "El CEO de Anthropic detalla su plan para 'marcar el ritmo de la frontera'.",
+      "porQueImporta": "Indica una postura cautelosa de un actor importante en IA, lo que podría influir en el desarrollo y la regulación de la tecnología.",
+      "publicadoEn": "2026-09-12T15:52:11.000Z",
+      "globalScore": 96,
       "personalScore": 100,
       "tags": [
-        "ia",
-        "inversion",
-        "startups",
-        "robotica"
+        "IA",
+        "Anthropic",
+        "desarrollo",
+        "seguridad"
       ],
       "tambienVistoEn": []
     },
@@ -242,19 +258,19 @@
       "id": "the-verge-ai-aHR0cHM6Ly93d3cudGhl",
       "categoria": "AI",
       "fuente": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
-      "tituloOriginal": "Trump is giving data centers a pass to pollute",
-      "tituloLimpio": "Trump permite la contaminación de centros de datos",
-      "resumen": "El presidente Donald Trump está debilitando las regulaciones ambientales para acelerar la construcción de centros de datos de IA, lo que aumenta los riesgos para la salud de los estadounidenses, según exfuncionarios de la EPA.",
-      "porQueImporta": "Aunque es una noticia política de EE.UU., tiene un impacto global por la relación entre la infraestructura de IA y las políticas ambientales, lo que podría afectar el desarrollo y la percepción de la IA a gran escala.",
-      "publicadoEn": "2026-09-12T14:41:27.000Z",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+      "tituloOriginal": "Anthropic CEO says it’s time to pump the brakes on AI",
+      "tituloLimpio": "El CEO de Anthropic dice que es hora de frenar el desarrollo de la IA",
+      "resumen": "El CEO de Anthropic, Dario Amodei, afirma que es momento de ralentizar el desarrollo de la IA y permitirá a evaluadores externos acceder a sus modelos para asegurar la adherencia a prácticas de seguridad.",
+      "porQueImporta": "Refuerza la discusión sobre la ética y seguridad en el desarrollo de IA, con un impacto potencial en la velocidad de innovación y la confianza pública.",
+      "publicadoEn": "2026-09-12T16:23:40.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "ia",
-        "politica",
-        "medioambiente",
-        "tecnologia"
+        "IA",
+        "Anthropic",
+        "seguridad",
+        "desarrollo"
       ],
       "tambienVistoEn": []
     },
@@ -263,17 +279,17 @@
       "categoria": "AI",
       "fuente": "MIT Technology Review AI",
       "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-      "tituloOriginal": "Roundtables: AI’s apocalypse crisis",
-      "tituloLimpio": "Mesas redondas: la crisis del apocalipsis de la IA",
-      "resumen": "Empleados de los principales laboratorios de IA del mundo dicen que existe una posibilidad real de que la IA avanzada pueda destruir a la humanidad. ¿Tienen razón? ¿O es más alarmismo y exageración?",
-      "porQueImporta": "Aborda una de las discusiones más importantes sobre el futuro de la IA, relevante para Guido por su interés en el campo y las implicaciones éticas y existenciales de la tecnología.",
+      "tituloOriginal": "Roundtables: Could AI really kill us all?",
+      "tituloLimpio": "Mesas redondas: ¿Podría la IA realmente acabar con todos nosotros?",
+      "resumen": "Empleados de los principales laboratorios de IA del mundo afirman que existe una posibilidad real de que la IA avanzada pueda destruir a la humanidad. Se debate si esto es real o alarmismo.",
+      "porQueImporta": "Refleja la preocupación creciente dentro de la propia industria de IA sobre los riesgos existenciales, lo que podría llevar a mayores controles o cambios en la dirección de la investigación.",
       "publicadoEn": "2026-09-11T20:05:06.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "ia",
-        "etica",
-        "futuro",
+        "IA",
+        "riesgos",
+        "seguridad",
         "debate"
       ],
       "tambienVistoEn": []
@@ -282,19 +298,20 @@
       "id": "9to5mac-aHR0cHM6Ly85dG81bWFj",
       "categoria": "Apple",
       "fuente": "9to5Mac",
-      "url": "https://9to5mac.com/2026/09/12/apple-work-the-three-prongs-of-software-updates-in-the-ai-era/",
-      "tituloOriginal": "Apple @ Work: The three prongs of software updates in the AI era",
-      "tituloLimpio": "Apple @ Work: las tres ramas de las actualizaciones de software en la era de la IA",
-      "resumen": "Apple @ Work es presentado exclusivamente por Mosyle, la única plataforma unificada de Apple. Mosyle es la única solución que integra en una única plataforma de grado profesional todas las soluciones necesarias para implementar, administrar y proteger de manera fluida y automática los dispositivos Apple en el trabajo.",
-      "porQueImporta": "Relevante para Guido como usuario de Apple, ya que aborda cómo la IA está influyendo en las actualizaciones de software y la gestión de dispositivos Apple en entornos profesionales.",
-      "publicadoEn": "2026-09-12T13:33:00.000Z",
+      "url": "https://9to5mac.com/2026/09/12/apple-nailed-iphone-duo-split-screen-even-as-ipad-multitasking-feels-convoluted/",
+      "tituloOriginal": "Apple nailed iPhone Duo split screen, even as iPad multitasking feels convoluted",
+      "tituloLimpio": "Apple acertó con la pantalla dividida del iPhone Duo, aunque la multitarea del iPad se siente complicada",
+      "resumen": "Apple presentó su nueva línea de iPhone, incluyendo el iPhone Duo plegable. Aunque el Duo es un dispositivo fantástico, la multitarea del iPad aún se siente complicada.",
+      "porQueImporta": "Destaca la innovación de Apple en hardware plegable, pero también señala áreas de mejora en la experiencia de usuario de su ecosistema, relevante para usuarios de Apple.",
+      "publicadoEn": "2026-09-12T16:47:34.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "apple",
-        "ia",
-        "software",
-        "herramientas"
+        "Apple",
+        "iPhone Duo",
+        "iPad",
+        "multitarea",
+        "experiencia de usuario"
       ],
       "tambienVistoEn": []
     },
@@ -302,82 +319,20 @@
       "id": "appleinsider-aHR0cHM6Ly9hcHBsZWlu",
       "categoria": "Apple",
       "fuente": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/09/12/iphone-18-pro-pre-orders-off-to-a-surprisingly-slow-start?utm_source=rss",
-      "tituloOriginal": "iPhone 18 Pro pre-orders off to a surprisingly slow start",
-      "tituloLimpio": "Los pedidos anticipados del iPhone 18 Pro tienen un comienzo sorprendentemente lento",
-      "resumen": "Ya sea por la economía, una mejor oferta de lo normal, el inminente iPhone Duo o la inusual apertura de pedidos anticipados de Apple un sábado, muy pocos modelos de iPhone 18 Pro muestran retrasos en el envío una hora después del inicio de los pedidos anticipados.",
-      "porQueImporta": "Como usuario de Apple, a Guido le interesa el rendimiento comercial de los nuevos productos y las tendencias del mercado que esto puede indicar.",
-      "publicadoEn": "2026-09-12T13:04:18.000Z",
+      "url": "https://appleinsider.com/inside/iphone-18/vs/iphone-18-pro-vs-iphone-17-pro-flagships-compared?utm_source=rss",
+      "tituloOriginal": "iPhone 18 Pro vs iPhone 17 Pro: Flagships, compared",
+      "tituloLimpio": "iPhone 18 Pro vs iPhone 17 Pro: Comparación de los modelos insignia",
+      "resumen": "El iPhone 18 Pro llegó con un nuevo chip y mejoras en la cámara respecto al iPhone 17 Pro. Se comparan los modelos Pro de Apple con benchmarks.",
+      "porQueImporta": "Ofrece una comparación directa de los últimos modelos de iPhone, útil para quienes consideran actualizar su dispositivo o entender las mejoras tecnológicas de Apple.",
+      "publicadoEn": "2026-09-12T18:45:59.000Z",
       "globalScore": 100,
       "personalScore": 100,
       "tags": [
-        "apple",
-        "iphone",
-        "mercado",
-        "ventas"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "yahoo-finance-aHR0cHM6Ly93d3cuaW52",
-      "categoria": "Finance",
-      "fuente": "Yahoo Finance",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-100-oil-surging-yields-pressure-stocks-with-fed-rate-hike-seen-apple-leads-new-buys/?src=A00220&yptr=yahoo",
-      "tituloOriginal": "Dow Jones Futures: Fed Rate Hike Seen As Oil, Yields Pressure Stocks; Apple, Moderna Are New Buys",
-      "tituloLimpio": "Futuros del Dow Jones: se prevé un aumento de la tasa de la Fed mientras el petróleo y los rendimientos presionan las acciones; Apple y Moderna son nuevas compras",
-      "resumen": "",
-      "porQueImporta": "Noticia de finanzas que menciona a Apple y las tendencias del mercado, relevante para Guido por su interés en inversiones y el desempeño de empresas tecnológicas.",
-      "publicadoEn": "2026-09-12T12:48:22.000Z",
-      "imagen": "https://media.zenfs.com/en/ibd.com/aeed999e2b8d1085980dc851a132cdb0.jpg",
-      "globalScore": 98,
-      "personalScore": 100,
-      "tags": [
-        "finanzas",
-        "mercado",
-        "apple",
-        "inversion"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "coindesk-aHR0cHM6Ly93d3cuY29p",
-      "categoria": "Finance",
-      "fuente": "CoinDesk",
-      "url": "https://www.coindesk.com/opinion/2026/09/12/staked-ether-should-be-seen-as-the-benchmark-of-the-decentralized-economy",
-      "tituloOriginal": "Staked ether should be seen as the benchmark of the decentralized economy",
-      "tituloLimpio": "El ether apostado debería ser visto como el punto de referencia de la economía descentralizada",
-      "resumen": "El activo generador de rendimiento tiene un lugar especial en la cartera del inversor en activos digitales, argumenta Ryan Haczynski de GlobalStake.",
-      "porQueImporta": "Guido se interesa en inversiones, y el análisis de criptoactivos como el ether apostado ofrece una perspectiva sobre nuevas formas de inversión en la economía digital.",
-      "publicadoEn": "2026-09-12T14:00:00.000Z",
-      "imagen": "https://cdn.sanity.io/images/s3y3vcno/production/3f541ca1c4a292027ccea331a59077292160ec46-5700x3800.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "globalScore": 96,
-      "personalScore": 100,
-      "tags": [
-        "finanzas",
-        "criptomonedas",
-        "inversion",
-        "economia-digital"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "cointelegraph-aHR0cHM6Ly9jb2ludGVs",
-      "categoria": "Finance",
-      "fuente": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/india-launches-tokenized-bond-pilot-with-107m-issued?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "tituloOriginal": "India launches tokenized bond pilot with $107M issued",
-      "tituloLimpio": "India lanza un piloto de bonos tokenizados con 107 millones de dólares emitidos",
-      "resumen": "SEBI dijo que las fases posteriores de Demat 2.0 introducirán el comercio secundario y abrirán los bonos tokenizados a inversores minoristas.",
-      "porQueImporta": "Muestra una innovación en el mercado financiero global con la tokenización de bonos, una tendencia que podría tener implicaciones para las inversiones futuras.",
-      "publicadoEn": "2026-09-11T10:33:24.000Z",
-      "imagen": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27X18G5K0AARQBBJ0SYKFK0/regulations-india-crypto.jpg",
-      "globalScore": 82,
-      "personalScore": 100,
-      "tags": [
-        "finanzas",
-        "inversion",
-        "blockchain",
-        "innovacion"
+        "Apple",
+        "iPhone 18 Pro",
+        "iPhone 17 Pro",
+        "comparación",
+        "tecnología"
       ],
       "tambienVistoEn": []
     },
@@ -385,41 +340,21 @@
       "id": "clarin-economia-aHR0cHM6Ly93d3cuY2xh",
       "categoria": "Argentina",
       "fuente": "Clarin Economia",
-      "url": "https://www.clarin.com/economia/mayores-expertos-mundiales-desigualdad-creer-riqueza-filtra-resto-ilusion-interesada_0_uqgvNt67Jo.html",
-      "tituloOriginal": "Según uno de los mayores expertos mundiales en desigualdad, “creer que la riqueza se filtra al resto es una ilusión interesada”",
-      "tituloLimpio": "Según un experto mundial en desigualdad, la idea de que la riqueza se filtra al resto es una ilusión interesada",
-      "resumen": "Branko Milanovic habla del rol que jugó China, del cambio global y de la disrupción de la IA. Advierte que los instrumentos para reducir la desigualdad son bien conocidos: mejor educación, capacitación, subsidios. Pero que el principal obstáculo es su viabilidad política.",
-      "porQueImporta": "Ofrece una perspectiva crítica sobre la economía global y la desigualdad, con mención a la IA como factor de disrupción, relevante para entender el contexto socioeconómico.",
-      "publicadoEn": "2026-09-12T14:13:07.000Z",
-      "imagen": "https://www.clarin.com/img/2026/09/12/RQRidyR43_1200x630__1.jpg",
-      "globalScore": 94,
-      "personalScore": 100,
-      "tags": [
-        "argentina",
-        "economia",
-        "ia",
-        "desigualdad"
-      ],
-      "tambienVistoEn": []
-    },
-    {
-      "id": "clarin-politica-aHR0cHM6Ly93d3cuY2xh",
-      "categoria": "Argentina",
-      "fuente": "Clarin Politica",
-      "url": "https://www.clarin.com/politica/crece-guerra-pampa-mendoza-regalias-radicales-pampeanos-apoyan-gobernador-peronista-internas-petri-ucr-reclamo-us-680-millones_0_zX0CowCzsm.html",
-      "tituloOriginal": "Crece la guerra de La Pampa y Mendoza por las regalías: radicales pampeanos apoyan al gobernador peronista, internas con Petri en la UCR y reclamo de US$ 680 millones",
-      "tituloLimpio": "Crece la disputa entre La Pampa y Mendoza por las regalías: radicales pampeanos apoyan al gobernador peronista",
-      "resumen": "El gobierno de Milei le sacó a La Pampa el cobro de regalías por la represa mendocina de Los Nihuiles. Radicales y macristas pampeanos rechazan la medida, y piden diálogo con Nación.",
-      "porQueImporta": "Noticia política y económica de Argentina que refleja tensiones interprovinciales y el impacto de decisiones nacionales en las regiones.",
-      "publicadoEn": "2026-09-12T14:16:15.000Z",
-      "imagen": "https://www.clarin.com/img/2024/05/23/_m1JNwacA_1200x630__1.jpg",
+      "url": "https://www.clarin.com/economia/dinero-fronteras-avance-codigo-qr-redefiniendo-pagos-nivel-global_0_hXsqRog4KX.html",
+      "tituloOriginal": "Dinero sin fronteras: cómo el avance del código QR está redefiniendo el sistema de pagos a nivel global",
+      "tituloLimpio": "Dinero sin fronteras: el avance del código QR redefine los pagos a nivel global",
+      "resumen": "Los pagos instantáneos ganan terreno a nivel internacional, aunque en América Latina todavía funcionan principalmente dentro de cada país de la región. El próximo paso es conectarlas sin debilitar la seguridad ni los controles.",
+      "porQueImporta": "Muestra una tendencia global en pagos que impacta en Argentina y la región, con oportunidades y desafíos en la interconexión de sistemas.",
+      "publicadoEn": "2026-09-12T15:50:46.000Z",
+      "imagen": "https://www.clarin.com/img/2024/09/22/qmAxv_0TS_1200x630__1.jpg",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "politica",
-        "economia",
-        "regalias"
+        "pagos",
+        "QR",
+        "global",
+        "Latinoamérica",
+        "finanzas"
       ],
       "tambienVistoEn": []
     },
@@ -427,20 +362,21 @@
       "id": "infobae-economia-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Economia",
-      "url": "https://www.infobae.com/economia/2026/09/12/que-va-a-pasar-con-la-nafta-la-escalada-del-precio-global-del-petroleo-pone-en-duda-el-alivio-previsto-para-los-surtidores-locales/",
-      "tituloOriginal": "¿Qué va a pasar con la nafta?: la escalada del precio global del petróleo pone en duda el alivio previsto para los surtidores locales",
-      "tituloLimpio": "¿Qué va a pasar con la nafta?: la escalada del precio global del petróleo pone en duda el alivio previsto para los surtidores locales",
-      "resumen": "El Brent superó los USD 100 el barril y acumula una suba del 30% desde agosto. El mecanismo que YPF usó para proteger los bolsillos de los consumidores ya no tiene margen, y la pregunta es cuánto tiempo más seguirán quietos los precios.",
-      "porQueImporta": "Impacto directo en la economía personal de Guido y en el costo de vida en Argentina, debido al aumento del precio del petróleo.",
-      "publicadoEn": "2026-09-12T14:08:01.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/UWJ4XBTN5REAVBDHT3RNCBJ5ME.png?auth=5574301b92f33065e9c2133a5dba08de5621561f32316308d20493faa048870d&smart=true&width=2752&height=1536",
-      "globalScore": 90,
+      "url": "https://www.infobae.com/economia/2026/09/11/la-electrificacion-que-no-llega-estiman-que-en-cinco-anos-el-95-de-los-autos-de-argentina-seguiran-siendo-de-combustion/",
+      "tituloOriginal": "La electrificación que no llega: estiman que en cinco años el 95% de los autos de Argentina seguirán siendo de combustión",
+      "tituloLimpio": "La electrificación que no llega: estiman que en cinco años el 95% de los autos de Argentina seguirán siendo de combustión",
+      "resumen": "Según la asociación de concesionarios, los vehículos enchufables se multiplicarán 12 veces hasta 2031, pero el consumo de combustibles líquidos igual crecerá un 14,5 por ciento.",
+      "porQueImporta": "Proporciona una perspectiva sobre la transición energética en Argentina, relevante para inversiones en infraestructura y el sector automotriz.",
+      "publicadoEn": "2026-09-12T17:47:42.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/4V3QIBAPDNBILDKMPJDA4XAIJQ.jpg?auth=a057edaa5e24977c893d02319e1c88e5b76bfb84919d11d5a8690d9f2f9ae551&smart=true&width=1920&height=1080",
+      "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "economia",
-        "precios",
-        "energia"
+        "autos",
+        "electrificación",
+        "Argentina",
+        "combustión",
+        "mercado"
       ],
       "tambienVistoEn": []
     },
@@ -448,20 +384,21 @@
       "id": "infobae-politica-aHR0cHM6Ly93d3cuaW5m",
       "categoria": "Argentina",
       "fuente": "Infobae Politica",
-      "url": "https://www.infobae.com/politica/2026/09/12/en-la-zona-cero-de-la-base-naval-integrada-el-presupuesto-y-el-plan-para-reactivar-la-obra-en-medio-de-la-tension-por-malvinas/",
-      "tituloOriginal": "En la zona cero de la Base Naval Integrada: el presupuesto y el plan para reactivar la obra en medio de la tensión por Malvinas",
-      "tituloLimpio": "En la zona cero de la Base Naval Integrada: el presupuesto y el plan para reactivar la obra en medio de la tensión por Malvinas",
-      "resumen": "El plan contempla seis obras de infraestructura que comenzarán a principios de 2027, entre ellas un muelle capaz de recibir buques de gran porte y un polo logístico antártico. El Gobierno insiste en que la financiación será íntegramente argentina.",
-      "porQueImporta": "Noticia de infraestructura y política exterior argentina, relevante por el impacto en la soberanía y la economía nacional.",
-      "publicadoEn": "2026-09-12T14:38:20.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/YO5DIPJV65BGVAZOJFT6Z4KYA4.jpeg?auth=2dc8f4ace2cd142e78069ae170dc223c8754205ee150c2d6e46475488d4ba9b1&smart=true&width=1920&height=1080",
+      "url": "https://www.infobae.com/politica/2026/09/12/un-informe-oficial-detecto-fallas-graves-en-los-controles-de-la-anmat-tras-las-90-muertes-por-fentanilo-contaminado/",
+      "tituloOriginal": "Un informe oficial detectó fallas graves en los controles de la ANMAT tras las 90 muertes por fentanilo contaminado",
+      "tituloLimpio": "Un informe oficial detectó fallas graves en los controles de la ANMAT tras las 90 muertes por fentanilo contaminado",
+      "resumen": "Una auditoría concluyó que hubo debilidades de diseño e implementación en la fiscalización sanitaria entre 2019 y 2024. El 21,7% de los establecimientos farmacéuticos habilitados no habían sido controlados desde hacía más de cinco años.",
+      "porQueImporta": "Revela problemas estructurales en un organismo de control clave en Argentina, con implicaciones para la salud pública y la confianza en las instituciones.",
+      "publicadoEn": "2026-09-12T17:17:26.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/IAORTKPO7JF63CVD72CJFZB3SA.jpg?auth=0b4a5194336b903e9d1c0fbda6c17ff60835acc61a639ccfd6ccef86351576ae&smart=true&width=1900&height=1069",
       "globalScore": 98,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "politica",
-        "infraestructura",
-        "malvinas"
+        "ANMAT",
+        "salud",
+        "Argentina",
+        "regulación",
+        "fentanilo"
       ],
       "tambienVistoEn": []
     },
@@ -469,20 +406,21 @@
       "id": "lanacion-economia-aHR0cHM6Ly93d3cubGFu",
       "categoria": "Argentina",
       "fuente": "La Nacion Economia",
-      "url": "https://www.lanacion.com.ar/economia/casi-el-40-de-los-argentinos-de-entre-25-y-34-anos-no-logra-independizarse-nid12092026/",
-      "tituloOriginal": "Casi el 40% de los argentinos de entre 25 y 34 años no logra independizarse",
-      "tituloLimpio": "Casi el 40% de los argentinos de entre 25 y 34 años no logra independizarse",
-      "resumen": "Un informe privado detalló que 2,5 millones de jóvenes de 25 a 35 años no están emancipados; el 46% de ellos convive en hogares con déficit habitacional.",
-      "porQueImporta": "Refleja una problemática social y económica importante en Argentina, que puede influir en decisiones personales y de inversión a largo plazo.",
-      "publicadoEn": "2026-09-12T15:04:23.000Z",
-      "imagen": "https://resizer.glanacion.com/resizer/v2/DP4OQOFKB5A5NGUXODUEQ7636A.jpg?auth=ecb9ebcf792a4c06b81eff3e6fc8864022cf935881747482411d97b4ea46cddb&smart=true&width=5760&height=3840",
+      "url": "https://www.lanacion.com.ar/economia/en-junio-volvio-a-caer-el-numero-de-empresas-y-ya-son-31342-menos-desde-que-asumio-javier-milei-nid11092026/",
+      "tituloOriginal": "En junio volvió a caer el número de empresas y ya son 31.342 menos desde que asumió Javier Milei",
+      "tituloLimpio": "En junio volvió a caer el número de empresas y ya son 31.342 menos desde que asumió Javier Milei",
+      "resumen": "La reducción se profundizó durante el sexto mes del año, cuando se registraron 709 firmas menos que en mayo; la baja fue de 9147 en el primer semestre y de 16.386 en un año.",
+      "porQueImporta": "Indica una tendencia negativa en el sector empresarial argentino, relevante para el análisis económico y las decisiones de inversión.",
+      "publicadoEn": "2026-09-12T16:59:27.000Z",
+      "imagen": "https://resizer.glanacion.com/resizer/v2/VZTMVTT4QVHMPGR2745CBKBRIA.jpeg?auth=55d17011534f544e28333bb20cfee18549247b03505fbeb27ea262d319c53398&smart=true&width=1280&height=852",
       "globalScore": 94,
       "personalScore": 100,
       "tags": [
-        "argentina",
-        "sociedad",
-        "economia",
-        "vivienda"
+        "empresas",
+        "economía",
+        "Argentina",
+        "empleo",
+        "Milei"
       ],
       "tambienVistoEn": []
     },
@@ -492,16 +430,17 @@
       "fuente": "Adweek",
       "url": "https://www.adweek.com/agencies/ai-buying-platforms-will-manage-27-of-us-ad-spend-by-2030-report/",
       "tituloOriginal": "AI Buying Platforms Will Manage 27% of U.S. Ad Spend by 2030: Report",
-      "tituloLimpio": "Plataformas de compra de IA gestionarán el 27% del gasto publicitario en EE.UU. para 2030",
-      "resumen": "Un nuevo pronóstico de Madison & Wall predice que el mercado publicitario global alcanzará los 1.3 billones de dólares para fin de año.",
-      "porQueImporta": "Muestra una tendencia clara en el marketing y la publicidad, donde la IA jugará un rol dominante, relevante para Guido por su interés en marketing y automatización.",
+      "tituloLimpio": "Las plataformas de compra de IA gestionarán el 27% del gasto publicitario en EE. UU. para 2030",
+      "resumen": "Un nuevo pronóstico de Madison & Wall predice que el mercado publicitario global alcanzará los 1,3 billones de dólares para fin de año.",
+      "porQueImporta": "Muestra la creciente influencia de la IA en el marketing y la publicidad, una tendencia global que impactará en la eficiencia y estrategia de las campañas.",
       "publicadoEn": "2026-09-11T14:36:08.000Z",
       "globalScore": 82,
       "personalScore": 100,
       "tags": [
-        "marketing",
-        "ia",
+        "IA",
         "publicidad",
+        "marketing",
+        "gasto publicitario",
         "tendencia"
       ],
       "tambienVistoEn": []
@@ -509,6 +448,6 @@
   ],
   "estado": {
     "estado": "ok",
-    "generadoEn": "2026-09-12T15:13:59.117Z"
+    "generadoEn": "2026-09-12T18:58:21.781Z"
   }
 }
