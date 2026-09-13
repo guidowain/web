@@ -60,6 +60,8 @@ async function main() {
   assert.equal(response.status, 200)
   assert.equal((html.match(/>Original<\/a>/g) || []).length, original.noticias.length)
   assert.ok(response.headers.get('content-security-policy')?.includes('sha256-'))
+  assert.equal((html.match(/class="article-image"/g) || []).length, original.noticias.filter((n: {imagen?: unknown}) => n.imagen).length)
+  assert.ok(response.headers.get('content-security-policy')?.includes('img-src https:'))
   assert.equal((html.match(/data-feedback=/g) || []).length, original.noticias.length)
   const feedback = { id: 'test-feedback-local', edicion_id: original.edicion_id, noticia_id: original.noticias[0].id, valor: 'no_util', comentario: 'Quiero mayor desarrollo, sin repetir el titular.' }
   assert.equal((await fetch(base + '/api/brief/feedback')).status, 401)

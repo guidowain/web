@@ -17,3 +17,7 @@ Cada noticia tiene un globo de feedback: Sirvió/No sirvió y comentario opciona
 Las reglas fijas están en `/Users/wain/Documents/ai local/news/REGLAS.md`. El objetivo es diez minutos, hasta doce noticias y dos mil palabras, con resúmenes de 140–180 palabras cuando hay material suficiente. El RSS descubre noticias; Trafilatura extrae el artículo completo, DDGS busca cobertura pública alternativa cuando falta material y Ollama valida que sea el mismo acontecimiento. La redacción y la revisión reciben todo el artículo, nunca solamente sus primeros párrafos. Se conserva el enlace «Original» y se registran las fuentes consultadas.
 
 La lectura se vuelve a consultar al abrir, recuperar el foco y volver a la pantalla. Una edición archivada también puede marcarse como leída. Cuando no se pudo comprobar la sincronización, se ofrece «Comprobar lectura»; no se asume que está pendiente. La interfaz evita presentaciones, avisos de acceso y texto de relleno.
+
+La imagen principal se toma de los metadatos públicos de cada nota. Si falta o no carga, se busca cobertura relacionada y Ollama comprueba el contexto de la imagen. Solo se admiten URLs HTTPS públicas. La página carga las fotos inferiores al acercarse a ellas y reserva su proporción para evitar saltos; un fallo de carga no deja recuadros ni texto extra. Agregar imágenes a una edición publicada conserva su ID, noticias y estado de lectura.
+
+Prueba específica: `node --require ./scripts/brief-env.cjs ./node_modules/tsx/dist/cli.mjs scripts/test-brief-images.ts`.

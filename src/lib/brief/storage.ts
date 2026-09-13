@@ -1,12 +1,13 @@
 import { promises as fs } from 'fs'
 import path from 'path'
+import { isIP } from 'net'
 import { createCipheriv, createDecipheriv, createHash, randomBytes } from 'crypto'
 import { getFileFromGithub, updateFileFromGithub } from '@/lib/admin/githubContent'
 import seed from '@/content/briefSeed.json'
 
 export type Brief = {
   edicion_id: string; fecha: string; turno: 'manana' | 'tarde'; generado_en: string
-  noticias: { id: string; categoria: string; fuente: string; titulo: string; resumen: string; url: string; fuentes_resumen?: { nombre: string; url: string }[] }[]
+  noticias: { id: string; categoria: string; fuente: string; titulo: string; resumen: string; url: string; imagen?: { url: string; alt: string }; fuentes_resumen?: { nombre: string; url: string }[] }[]
 }
 export const validId = (value: unknown): value is string => typeof value === 'string' && /^[A-Za-z0-9_-]{1,100}$/.test(value)
 const latestPath = 'data/brief/latest.enc'
@@ -36,8 +37,15 @@ export function parseBrief(input: unknown): Brief {
       if (!s || typeof s.nombre !== 'string' || !s.nombre.trim() || s.nombre.length > 200 || typeof s.url !== 'string') return true
       try { const u = new URL(s.url); return !['http:', 'https:'].includes(u.protocol) || Boolean(u.username || u.password) } catch { return true }
     }))) throw new Error('Fuente inválida')
+    const image = item.imagen
+    if (image !== undefined) {
+      if (!image || typeof image.url !== 'string' || image.url.length > 4000 || typeof image.alt !== 'string' || image.alt.length > 300) throw new Error('Imagen inválida')
+      const u = new URL(image.url)
+      if (u.protocol !== 'https:' || u.username || u.password || (u.port && u.port !== '443') || isIP(u.hostname.replace(/[\[\]]/g, '')) || u.hostname === 'localhost' || u.hostname.endsWith('.localhost') || u.hostname.endsWith('.local')) throw new Error('Imagen inválida')
+    }
     return { id: item.id, categoria: item.categoria, fuente: item.fuente,
       titulo: item.titulo, resumen: item.resumen, url: item.url,
+      ...(image ? { imagen: { url: image.url, alt: image.alt } } : {}),
       ...(sources ? { fuentes_resumen: sources.map(s => ({ nombre: s.nombre, url: s.url })) } : {}) }
   })
   return { edicion_id: value.edicion_id, fecha: value.fecha, turno: value.turno,
@@ -102,16 +110,31 @@ export async function saveFeedback(record: Feedback) {
   })
 }
 
+function mergeImages(previous: Brief, incoming: Brief): Brief {
+  const editorial = (brief: Brief) => JSON.stringify({ ...brief, noticias: brief.noticias.map(({ imagen: _image, ...item }) => item) })
+  if (editorial(previous) !== editorial(incoming)) throw new Error('El ID ya pertenece a otra edición')
+  return parseBrief({ ...incoming, noticias: incoming.noticias.map((item, index) => {
+    const prior = previous.noticias[index].imagen
+    if (prior && item.imagen && JSON.stringify(prior) !== JSON.stringify(item.imagen)) throw new Error('La imagen ya está publicada')
+    return { ...item, ...(prior ? { imagen: prior } : {}) }
+  }) })
+}
+
 export async function publishBrief(brief: Brief) {
   const encoded = JSON.stringify(brief)
   await update(`data/brief/ediciones/${brief.edicion_id}.enc`, old => {
-    if (old && JSON.stringify(parseBrief(JSON.parse(decrypt(old)))) !== encoded) throw new Error('El ID ya pertenece a otra edición')
-    return old ? null : encrypt(encoded)
+    if (!old) return encrypt(encoded)
+    const prior = parseBrief(JSON.parse(decrypt(old)))
+    const next = JSON.stringify(mergeImages(prior, brief))
+    return JSON.stringify(prior) === next ? null : encrypt(next)
   })
   await update(latestPath, old => {
     if (old) {
       const prior = parseBrief(JSON.parse(decrypt(old)))
-      if (prior.edicion_id === brief.edicion_id) return null
+      if (prior.edicion_id === brief.edicion_id) {
+        const next = JSON.stringify(mergeImages(prior, brief))
+        return JSON.stringify(prior) === next ? null : encrypt(next)
+      }
       if (Date.parse(prior.generado_en) >= Date.parse(brief.generado_en)) throw new Error('La edición es anterior a la publicada')
     }
     return encrypt(encoded)

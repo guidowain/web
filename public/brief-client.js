@@ -1,3 +1,4 @@
+document.querySelectorAll('.article-image img').forEach(image=>{const hide=()=>image.closest('figure').hidden=true;image.addEventListener('error',hide);if(image.complete&&!image.naturalWidth)hide();});
 if(location.protocol==='file:') location.replace('http://127.0.0.1:8765/');
 document.querySelectorAll('[data-filter]').forEach(button=>button.addEventListener('click',()=>{
  document.querySelectorAll('[data-filter]').forEach(b=>b.setAttribute('aria-pressed',String(b===button)));
