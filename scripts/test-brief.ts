@@ -5,7 +5,8 @@ import { createScopedToken } from '../src/lib/admin/auth'
 import { decrypt, encrypt, parseBrief } from '../src/lib/brief/storage'
 
 async function main() {
-  const base = 'http://127.0.0.1:3000'
+  const base = process.env.BRIEF_TEST_BASE || 'http://127.0.0.1:3000'
+  assert.ok(/^http:\/\/127\.0\.0\.1:\d+$/.test(base), 'Las pruebas solo pueden escribir en el servidor local')
   const token = process.env.BRIEF_PUBLISH_TOKEN!
   const machine = { Authorization: `Bearer ${token}`, 'Content-Type': 'application/json' }
   let response = await fetch(base + '/brief', { redirect: 'manual' })
@@ -59,6 +60,16 @@ async function main() {
   assert.equal(response.status, 200)
   assert.equal((html.match(/>Original<\/a>/g) || []).length, original.noticias.length)
   assert.ok(response.headers.get('content-security-policy')?.includes('sha256-'))
+  assert.equal((html.match(/data-feedback=/g) || []).length, original.noticias.length)
+  const feedback = { id: 'test-feedback-local', edicion_id: original.edicion_id, noticia_id: original.noticias[0].id, valor: 'no_util', comentario: 'Quiero mayor desarrollo, sin repetir el titular.' }
+  assert.equal((await fetch(base + '/api/brief/feedback')).status, 401)
+  assert.equal((await fetch(base + '/api/brief/feedback', { method: 'POST', headers: { Cookie: cookie, Origin: 'https://other.example', 'Content-Type': 'application/json' }, body: JSON.stringify(feedback) })).status, 401)
+  for (let i = 0; i < 2; i++) assert.equal((await fetch(base + '/api/brief/feedback', { method: 'POST', headers: { Cookie: cookie, Origin: base, 'Content-Type': 'application/json' }, body: JSON.stringify(feedback) })).status, 200)
+  const received = await (await fetch(base + '/api/brief/feedback', { headers: machine })).json()
+  assert.equal(received.feedback.filter((f: {id: string}) => f.id === feedback.id).length, 1)
+  assert.equal(received.feedback.find((f: {id: string}) => f.id === feedback.id).titulo, original.noticias[0].titulo)
+  assert.ok(!(await readFile('data/brief/feedback.enc', 'utf8')).includes(feedback.comentario))
+  assert.equal((await fetch(base + '/api/brief/feedback', { method: 'POST', headers: machine, body: JSON.stringify({ ...feedback, id: 'bad-news-test', noticia_id: 'does-not-exist' }) })).status, 400)
   const rewritten = await new Promise<string>((resolve, reject) => {
     http.get(base + '/', { headers: { Cookie: cookie, Host: 'brief.guidowain.com' } }, res => {
       let text = ''; res.on('data', chunk => text += chunk); res.on('end', () => resolve(text))

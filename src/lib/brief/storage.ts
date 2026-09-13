@@ -6,7 +6,7 @@ import seed from '@/content/briefSeed.json'
 
 export type Brief = {
   edicion_id: string; fecha: string; turno: 'manana' | 'tarde'; generado_en: string
-  noticias: { id: string; categoria: string; fuente: string; titulo: string; resumen: string; url: string }[]
+  noticias: { id: string; categoria: string; fuente: string; titulo: string; resumen: string; url: string; fuentes_resumen?: { nombre: string; url: string }[] }[]
 }
 export const validId = (value: unknown): value is string => typeof value === 'string' && /^[A-Za-z0-9_-]{1,100}$/.test(value)
 const latestPath = 'data/brief/latest.enc'
@@ -31,8 +31,14 @@ export function parseBrief(input: unknown): Brief {
     }
     const url = new URL(item.url)
     if (!['http:', 'https:'].includes(url.protocol) || url.username || url.password) throw new Error('Enlace inválido')
+    const sources = item.fuentes_resumen
+    if (sources !== undefined && (!Array.isArray(sources) || sources.length > 3 || sources.some(s => {
+      if (!s || typeof s.nombre !== 'string' || !s.nombre.trim() || s.nombre.length > 200 || typeof s.url !== 'string') return true
+      try { const u = new URL(s.url); return !['http:', 'https:'].includes(u.protocol) || Boolean(u.username || u.password) } catch { return true }
+    }))) throw new Error('Fuente inválida')
     return { id: item.id, categoria: item.categoria, fuente: item.fuente,
-      titulo: item.titulo, resumen: item.resumen, url: item.url }
+      titulo: item.titulo, resumen: item.resumen, url: item.url,
+      ...(sources ? { fuentes_resumen: sources.map(s => ({ nombre: s.nombre, url: s.url })) } : {}) }
   })
   return { edicion_id: value.edicion_id, fecha: value.fecha, turno: value.turno,
     generado_en: value.generado_en, noticias }
@@ -48,21 +54,52 @@ async function read(file: string): Promise<string | null> {
   }
 }
 
+let localQueue: Promise<unknown> = Promise.resolve()
 async function update(file: string, transform: (old: string | null) => string | null) {
   if (process.env.VERCEL) return updateFileFromGithub(file, transform)
-  const next = transform(await read(file))
-  if (next === null) return
-  const output = localPath(file)
-  await fs.mkdir(path.dirname(output), { recursive: true })
-  const temp = output + '.' + randomBytes(8).toString('hex') + '.tmp'
-  await fs.writeFile(temp, next, { mode: 0o600 })
-  await fs.rename(temp, output)
+  const operation = localQueue.then(async () => {
+    const next = transform(await read(file))
+    if (next === null) return
+    const output = localPath(file)
+    await fs.mkdir(path.dirname(output), { recursive: true })
+    const temp = output + '.' + randomBytes(8).toString('hex') + '.tmp'
+    await fs.writeFile(temp, next, { mode: 0o600 })
+    await fs.rename(temp, output)
+  })
+  localQueue = operation.catch(() => {})
+  return operation
 }
 
 export async function loadBrief(): Promise<Brief | null> {
   let data = await read(latestPath)
   if (!data) data = seed.ciphertext || null
   return data ? parseBrief(JSON.parse(decrypt(data))) : null
+}
+
+export async function loadEdition(id: string): Promise<Brief | null> {
+  if (!validId(id)) return null
+  const latest = await loadBrief()
+  if (latest?.edicion_id === id) return latest
+  const data = await read(`data/brief/ediciones/${id}.enc`)
+  return data ? parseBrief(JSON.parse(decrypt(data))) : null
+}
+
+export type Feedback = { id: string; edicion_id: string; noticia_id: string; valor: 'util' | 'no_util'; comentario: string; creado_en: string; titulo: string; categoria: string; fuente: string; url: string }
+export async function loadFeedback(): Promise<Feedback[]> {
+  const data = await read('data/brief/feedback.enc')
+  return data ? JSON.parse(decrypt(data)) : []
+}
+export async function saveFeedback(record: Feedback) {
+  await update('data/brief/feedback.enc', old => {
+    const records: Feedback[] = old ? JSON.parse(decrypt(old)) : []
+    const prior = records.find(r => r.id === record.id)
+    if (prior) {
+      if (prior.edicion_id !== record.edicion_id || prior.noticia_id !== record.noticia_id || prior.valor !== record.valor || prior.comentario !== record.comentario) throw new Error('Feedback incompatible')
+      return null
+    }
+    if (records.length >= 5000) throw new Error('Registro lleno')
+    return encrypt(JSON.stringify([...records, record]))
+  })
 }
 
 export async function publishBrief(brief: Brief) {

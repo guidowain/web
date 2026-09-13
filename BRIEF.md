@@ -11,3 +11,9 @@ La API lee los datos directamente de GitHub: publicar una edición no requiere d
 `brief.guidowain.com` puede apuntar al mismo proyecto de Vercel. La raíz de ese host se reescribe a `/brief`; requiere configurar también su DNS. La URL inicial es `https://www.guidowain.com/brief`.
 
 Pruebas locales: cargar `.env.brief.local` con el preloader `scripts/brief-env.cjs`, iniciar Next en el puerto 3000 y ejecutar `node --require ./scripts/brief-env.cjs ./node_modules/tsx/dist/cli.mjs scripts/test-brief.ts`. Ese archivo de entorno contiene credenciales de prueba y se ignora en Git.
+
+Cada noticia tiene un globo de feedback: Sirvió/No sirvió y comentario opcional. `/api/brief/feedback` autentica al lector, valida la noticia contra su edición y cifra la opinión. El Mac recibe todos los comentarios pendientes antes de preparar una edición; Qwen3.6 27B los integra en `~/Library/Application Support/local-brief/news/intereses.md`, de hasta 450 palabras, y usa esa memoria en la selección. Si falla, conserva los comentarios pendientes. No se entrenan pesos del modelo.
+
+Las reglas fijas están en `/Users/wain/Documents/ai local/news/REGLAS.md`. El objetivo es diez minutos, hasta doce noticias y dos mil palabras, con resúmenes de 140–180 palabras cuando hay material suficiente. El RSS descubre noticias; Trafilatura extrae el artículo completo, DDGS busca cobertura pública alternativa cuando falta material y Ollama valida que sea el mismo acontecimiento. La redacción y la revisión reciben todo el artículo, nunca solamente sus primeros párrafos. Se conserva el enlace «Original» y se registran las fuentes consultadas.
+
+La lectura se vuelve a consultar al abrir, recuperar el foco y volver a la pantalla. Una edición archivada también puede marcarse como leída. Cuando no se pudo comprobar la sincronización, se ofrece «Comprobar lectura»; no se asume que está pendiente. La interfaz evita presentaciones, avisos de acceso y texto de relleno.

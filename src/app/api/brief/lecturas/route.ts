@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { publisher, reader, sameOrigin, smallJson } from '@/lib/brief/access'
-import { loadBrief, loadReads, markReads, validId } from '@/lib/brief/storage'
+import { loadEdition, loadReads, markReads, validId } from '@/lib/brief/storage'
 export const runtime = 'nodejs'
 export const dynamic = 'force-dynamic'
 
@@ -17,8 +17,7 @@ export async function POST(request: NextRequest) {
     const value = await smallJson(request, 40_000) as { ids?: unknown }
     if (!Array.isArray(value.ids) || value.ids.length > 300 || !value.ids.every(validId)) return NextResponse.json({ error: 'Lectura inválida' }, { status: 400 })
     if (!machine) {
-      const latest = await loadBrief()
-      if (value.ids.length !== 1 || value.ids[0] !== latest?.edicion_id) return NextResponse.json({ error: 'Edición desconocida' }, { status: 400 })
+      if (value.ids.length !== 1 || !await loadEdition(value.ids[0])) return NextResponse.json({ error: 'Edición desconocida' }, { status: 400 })
     }
     await markReads(value.ids)
     return NextResponse.json({ ok: true })
