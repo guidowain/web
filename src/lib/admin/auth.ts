@@ -89,23 +89,3 @@ export function checkAdminCredentials(password: string) {
   if (!validPass) return false
   return timingSafeEqual(password, validPass)
 }
-
-// ── Acceso a /news (PIN + WebAuthn) ──────────────────────────
-
-export const newsCookieName = 'news-token'
-const newsTokenMaxAgeMs = 1000 * 60 * 60 * 24 * 90
-
-export function checkNewsPin(pin: string) {
-  const expected = process.env.NEWS_PIN || '8790'
-  return timingSafeEqual(pin, expected)
-}
-
-export async function createNewsToken() {
-  return createScopedToken('news', newsTokenMaxAgeMs)
-}
-
-export async function verifyNewsToken(token: string | undefined) {
-  return Boolean(await readScopedToken(token, 'news'))
-}
-
-export const newsTokenMaxAgeSeconds = newsTokenMaxAgeMs / 1000

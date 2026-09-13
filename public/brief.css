@@ -1,0 +1,41 @@
+:root{--paper:#fdfdff;--ink:#1c1e28;--muted:#5e6173;--line:#d7dbe8;--accent:#5148cc;--tint:#f0efff}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font:17px/1.65 -apple-system,BlinkMacSystemFont,Arial,sans-serif}
+main{max-width:1100px;margin:auto;padding:32px 40px 60px}
+header{padding:0}
+.masthead{display:flex;justify-content:space-between;gap:16px;padding-bottom:18px;color:var(--muted);font-size:11px;letter-spacing:.09em;text-transform:uppercase}
+h1{font-size:72px;line-height:1;letter-spacing:-3.5px;margin:28px 0 24px;font-weight:750}
+.intro{max-width:790px;font-size:17px;line-height:1.65}
+.edition{display:flex;flex-wrap:wrap;gap:8px 22px;font-size:12px;color:var(--muted)}
+.executive{margin-top:14px}
+.executive summary{color:var(--accent);font-size:14px;font-weight:600}
+nav{display:flex;gap:4px 12px;flex-wrap:wrap;border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:8px 0;margin-bottom:28px}
+button{font:inherit;font-size:13px;min-height:44px;padding:8px 8px;border:0;border-bottom:2px solid transparent;border-radius:0;background:transparent;color:var(--muted);cursor:pointer}
+button[aria-pressed=true]{color:var(--accent);border-bottom-color:var(--accent);font-weight:650}
+button:hover{color:var(--accent)}
+:focus-visible{outline:3px solid var(--accent);outline-offset:4px}
+.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));column-gap:40px}
+article{border-top:1px solid var(--line);padding:24px 0 28px;overflow-wrap:anywhere}
+article.lead{grid-column:1/-1;border-top:0;border-left:4px solid var(--accent);background:var(--tint);padding:24px 28px;margin-bottom:24px}
+.meta{font-size:10px;color:var(--muted);text-transform:uppercase;letter-spacing:.07em;display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap}
+.lead .meta{color:var(--accent)}
+h2{font-size:27px;line-height:1.25;letter-spacing:-.6px;font-weight:650;margin:14px 0}
+.lead h2{font-size:34px;letter-spacing:-1px;max-width:860px}
+a{color:inherit;text-decoration:none}
+h2 a:hover{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:4px}
+p{margin:12px 0}
+.personal{font-size:14px;color:var(--muted);border-left:2px solid #aaa4ed;padding-left:12px;margin:18px 0}
+.personal b{color:var(--accent);display:block;font-size:10px;text-transform:uppercase;letter-spacing:.08em}
+.original{display:inline-block;color:var(--accent);font-size:13px;font-weight:600;min-height:44px;padding:10px 16px;border:1px solid var(--accent);border-radius:6px;margin-top:8px}
+.original:hover{background:var(--accent);color:white}
+summary{cursor:pointer;font-size:12px;min-height:44px;padding:10px 0;color:var(--muted)}
+details p{font-size:13px}
+.executive p{font-size:17px}
+footer{border-top:2px solid var(--ink);margin-top:20px;padding-top:20px;color:var(--muted);font-size:12px}
+.lectura{display:flex;align-items:center;gap:16px;margin-top:16px}
+.lectura button{border:1px solid var(--accent);border-radius:6px;color:var(--accent);padding:8px 14px}
+[hidden]{display:none!important}
+.empty{padding:24px 0}
+@media(max-width:700px){main{padding:22px}h1{font-size:48px;letter-spacing:-2.5px}.grid{grid-template-columns:1fr}.lead h2{font-size:29px}.masthead{font-size:10px;flex-wrap:wrap}.edition{gap:4px 16px}article.lead{padding:22px 20px}h2{font-size:26px}nav{gap:4px 8px}button{font-size:12px}}
+@media print{nav,details{display:none}main{padding:0}article{break-inside:avoid}body{background:white}h1{font-size:48px}}
+.brief-login{max-width:360px;margin:10vh auto}.brief-login h1{font-size:40px;letter-spacing:-1px}.brief-login label{display:block;font-size:14px}.brief-login input{display:block;width:100%;margin:8px 0 18px;padding:12px;font:inherit;color:var(--ink);background:white;border:1px solid var(--line);border-radius:6px}.brief-login button{background:var(--accent);color:white}.brief-login button:disabled{opacity:.5;cursor:wait}#estado{color:var(--accent);font-size:14px}.lectura a{color:var(--accent);text-decoration:underline}

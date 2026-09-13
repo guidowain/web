@@ -98,6 +98,32 @@ export async function getFileFromGithub(filePath: string) {
   return Buffer.from(data.content.replace(/\s/g, ''), 'base64')
 }
 
+// Actualización condicional por SHA: combina de nuevo si otro dispositivo escribió.
+export async function updateFileFromGithub(filePath: string, transform: (old: string | null) => string | null) {
+  const { repo, branch } = getGithubConfig()
+  const url = buildGithubContentsUrl(repo, filePath)
+  for (let attempt = 0; attempt < 3; attempt++) {
+    let prior: GithubContentResponse | null = null
+    try {
+      prior = await githubRequest<GithubContentResponse>(buildGithubContentsUrl(repo, filePath, branch), { cache: 'no-store' })
+    } catch (error) {
+      if (!String(error).includes('GitHub API error 404:')) throw error
+    }
+    const old = prior?.content ? Buffer.from(prior.content.replace(/\s/g, ''), 'base64').toString('utf8') : null
+    const next = transform(old)
+    if (next === null) return
+    try {
+      await githubRequest(url, { method: 'PUT', body: JSON.stringify({
+        message: `Update brief: ${filePath}`, branch,
+        content: Buffer.from(next).toString('base64'), ...(prior?.sha ? { sha: prior.sha } : {}),
+      }) })
+      return
+    } catch (error) {
+      if (attempt === 2 || !/GitHub API error (409|422):/.test(String(error))) throw error
+    }
+  }
+}
+
 type GithubDirEntry = {
   name: string
   type: string

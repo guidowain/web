@@ -1,0 +1,4 @@
+.env*
+.claude/
+*.tsbuildinfo
+scripts/brief-env.cjs

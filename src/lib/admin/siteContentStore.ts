@@ -62,5 +62,5 @@ export async function loadSiteContent() {
 }
 
 export function invalidateSiteContent() {
-  revalidateTag(siteContentTag)
+  revalidateTag(siteContentTag, 'max')
 }
