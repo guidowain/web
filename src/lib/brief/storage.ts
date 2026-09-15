@@ -22,7 +22,7 @@ export function parseBrief(input: unknown): Brief {
   const value = input as Brief
   if (!validId(value.edicion_id) || !/^\d{4}-\d{2}-\d{2}$/.test(value.fecha) ||
       !['manana', 'tarde'].includes(value.turno) || !Number.isFinite(Date.parse(value.generado_en)) ||
-      !Array.isArray(value.noticias) || value.noticias.length > 12) throw new Error('Edición inválida')
+      !Array.isArray(value.noticias) || value.noticias.length > 14) throw new Error('Edición inválida')
   const seen = new Set<string>()
   const noticias = value.noticias.map(item => {
     if (!item || !validId(item.id) || seen.has(item.id)) throw new Error('Noticia inválida')

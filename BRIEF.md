@@ -21,3 +21,7 @@ La lectura se vuelve a consultar al abrir, recuperar el foco y volver a la panta
 La imagen principal se toma de los metadatos públicos de cada nota. Si falta o no carga, se busca cobertura relacionada y Ollama comprueba el contexto de la imagen. Solo se admiten URLs HTTPS públicas. La página carga las fotos inferiores al acercarse a ellas y reserva su proporción para evitar saltos; un fallo de carga no deja recuadros ni texto extra. Agregar imágenes a una edición publicada conserva su ID, noticias y estado de lectura.
 
 Prueba específica: `node --require ./scripts/brief-env.cjs ./node_modules/tsx/dist/cli.mjs scripts/test-brief-images.ts`.
+
+La edición funciona como diario personal: busca 12–14 noticias cuando hay material sólido y admite hasta 14. El editor recibe fecha de publicación e historial de ocho ediciones, y exige que el hecho sea nuevo durante el día calendario de Buenos Aires. La selección prioriza novedad, magnitud, efecto en decisiones y utilidad profesional; aplica exclusiones fijas para cripto fuera de bitcoin/ETF/regulación, ANSES, cotizaciones minuto a minuto y nombramientos de marketing.
+
+La redacción sintetiza el artículo en 100–140 palabras, con el cambio central y 3–5 datos. Un borrador de más de 150 palabras, demasiado corto para una fuente extensa o con una secuencia literal de 14 palabras se reescribe una vez. La revisión de fidelidad también decide explícitamente si existe síntesis propia; de lo contrario descarta la nota.
