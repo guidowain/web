@@ -62,7 +62,10 @@ async function main() {
   assert.ok(response.headers.get('content-security-policy')?.includes('sha256-'))
   assert.equal((html.match(/class="article-image"/g) || []).length, original.noticias.filter((n: {imagen?: unknown}) => n.imagen).length)
   assert.ok(response.headers.get('content-security-policy')?.includes('img-src https:'))
-  assert.equal((html.match(/data-feedback=/g) || []).length, original.noticias.length)
+  assert.equal((html.match(/data-feedback=/g) || []).length, original.noticias.length * 2)
+  assert.equal((html.match(/data-value="util"/g) || []).length, original.noticias.length)
+  assert.equal((html.match(/data-value="no_util"/g) || []).length, original.noticias.length)
+  assert.match(html, /id="feedback-comment"[^>]*required/)
   const feedback = { id: 'test-feedback-local', edicion_id: original.edicion_id, noticia_id: original.noticias[0].id, valor: 'no_util', comentario: 'Quiero mayor desarrollo, sin repetir el titular.' }
   assert.equal((await fetch(base + '/api/brief/feedback')).status, 401)
   assert.equal((await fetch(base + '/api/brief/feedback', { method: 'POST', headers: { Cookie: cookie, Origin: 'https://other.example', 'Content-Type': 'application/json' }, body: JSON.stringify(feedback) })).status, 401)
