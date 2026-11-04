@@ -65,7 +65,7 @@ Una oración de hasta 220 caracteres con lo que el título no dice: la consecuen
 
 Entre 100 y 140 palabras, en uno o dos párrafos, escrito desde el artículo completo y nunca desde los primeros párrafos solamente.
 
-1. **Primera oración, el cambio central:** quién hizo qué, con el número principal. La web la destaca en negrita, así que tiene que poder leerse sola.
+1. **Primera oración, el cambio central:** quién hizo qué, con el número principal. Es lo primero que se lee y lo primero que se escucha: tiene que entenderse sola.
 2. **Contexto:** desde cuándo, comparado con qué.
 3. **Tres a cinco datos verificables:** cifras con unidad, fechas y nombres.
 4. **Qué sigue:** próxima fecha, decisión pendiente o disponibilidad.
