@@ -7,7 +7,7 @@ const toastEl=$('#toast');let toastTimer;
 function toast(text){toastEl.textContent=text;toastEl.classList.add('show');clearTimeout(toastTimer);toastTimer=setTimeout(()=>toastEl.classList.remove('show'),2600);}
 function savePrefs(){document.cookie=`brief-prefs=${root.dataset.theme}.${root.dataset.size}.${root.dataset.mode};path=/;max-age=31536000;samesite=lax${location.protocol==='https:'?';secure':''}`;}
 function syncThemeColor(){const dark=root.dataset.theme==='oscuro'||(root.dataset.theme==='auto'&&matchMedia('(prefers-color-scheme: dark)').matches);$$('meta[name=theme-color]').forEach(m=>m.content=dark?'#111216':'#fbfaf7');}
-syncThemeColor();
+syncThemeColor();matchMedia('(prefers-color-scheme: dark)').addEventListener?.('change',syncThemeColor);
 
 // Imágenes: un fallo no deja recuadros vacíos.
 $$('.article-image img').forEach(img=>{const hide=()=>img.closest('figure').hidden=true;img.addEventListener('error',hide);if(img.complete&&!img.naturalWidth)hide();});
@@ -20,11 +20,11 @@ const slides=()=>Array.from(flow.children).filter(el=>!el.hidden&&el.matches('.c
 let current=$('.cover');
 const una=()=>root.dataset.mode==='una';
 // Mientras dura un desplazamiento programado, el destino manda: los toques rápidos no se pierden.
-let navTarget=null,settleTimer;
+let navTarget=null,settleTimer,jumpUntil=0;
 function settle(delay){clearTimeout(settleTimer);settleTimer=setTimeout(()=>{navTarget=null;onScroll();},delay);}
 function goTo(el,smooth=true){if(!el)return;const behavior=smooth&&!reduce?'smooth':'auto';
  if(una()){const i=slides().indexOf(el);if(i>=0){navTarget=el;settle(behavior==='smooth'?700:80);flow.scrollTo({left:i*flow.clientWidth,behavior});}}
- else el.scrollIntoView({behavior,block:'start'});
+ else{if(behavior==='smooth')jumpUntil=Date.now()+1000;el.scrollIntoView({behavior,block:'start'});}
  setCurrent(el);}
 function go(delta){
  if(una()){const list=slides();goTo(list[Math.max(0,Math.min(list.length-1,list.indexOf(current)+delta))]);return;}
@@ -56,7 +56,7 @@ function updateProgress(){const n=stories.filter(s=>seen.has(s.dataset.id)).leng
  $('#avance').textContent=n===0?'':n===total?'Leíste todas las noticias.':`Leíste ${n} de ${total}.`;
  $('#empezar span').textContent=n===0?'Empezar a leer':n===total?'Volver a empezar':'Seguir leyendo';
  $('#fin-texto').textContent=n===total?`Leíste las ${total} noticias.`:`Leíste ${n} de ${total} noticias.`;}
-if('IntersectionObserver' in window){const io=new IntersectionObserver(entries=>entries.forEach(e=>{if(e.isIntersecting&&!una())markSeen(e.target.closest('.story').dataset.id)}),{rootMargin:'0px 0px -10% 0px'});
+if('IntersectionObserver' in window){const io=new IntersectionObserver(entries=>entries.forEach(e=>{if(e.isIntersecting&&!una()&&Date.now()>jumpUntil)markSeen(e.target.closest('.story').dataset.id)}),{rootMargin:'0px 0px -10% 0px'});
  stories.forEach(s=>io.observe($('.article-actions',s)));}
 const firstUnseen=()=>stories.find(s=>!s.hidden&&!seen.has(s.dataset.id))||stories.find(s=>!s.hidden);
 $('#empezar').addEventListener('click',()=>setMode('una',firstUnseen()));
@@ -140,7 +140,11 @@ $$('[data-share]').forEach(b=>b.addEventListener('click',async()=>{const url=b.d
  catch(e){if(e&&e.name!=='AbortError')toast('No se pudo compartir');}}));
 
 // ---- Lectura sincronizada y edición nueva ----
-const readButton=$('#marcar-leida'),readStatus=$('#lectura-estado');let readKnown=false,loading=false,alreadyRead=false;
+const readButton=$('#marcar-leida'),readStatus=$('#lectura-estado');let readKnown=false,loading=false,alreadyRead=false,hiddenAt=0;
+// Al volver a la app tras un rato largo, pasar directo a la edición nueva (iOS no tiene botón de recarga en modo app).
+document.addEventListener('visibilitychange',async()=>{if(document.hidden){hiddenAt=Date.now();return;}
+ if(!hiddenAt||Date.now()-hiddenAt<20*60000||app.dataset.latest!=='1'||listening)return;hiddenAt=0;
+ try{const r=await fetch('/api/brief/estado',{cache:'no-store'});if(!r.ok)return;const d=await r.json();if(d.ultima&&d.ultima.id!==editionId)location.replace('/brief');}catch{}});
 function showRead(){alreadyRead=true;readButton.hidden=true;readStatus.innerHTML='';readStatus.append(document.createTextNode('Edición leída'));app.classList.add('edition-read');}
 async function refreshState(){if(loading)return;loading=true;
  try{const r=await fetch('/api/brief/estado',{cache:'no-store'});
