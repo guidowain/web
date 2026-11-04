@@ -1,5 +1,5 @@
 import { NextRequest } from 'next/server'
-import { readScopedToken, verifyAdminToken } from '@/lib/admin/auth'
+import { createScopedToken, readScopedToken, verifyAdminToken } from '@/lib/admin/auth'
 import { createHash, timingSafeEqual } from 'crypto'
 
 export async function publisher(request: NextRequest) {
@@ -10,8 +10,24 @@ export async function publisher(request: NextRequest) {
 }
 
 export async function reader(request: NextRequest) {
-  return Boolean(await readScopedToken(request.cookies.get('brief-reader')?.value, 'brief-reader')) ||
-    await verifyAdminToken(request.cookies.get('admin-token')?.value)
+  return Boolean(await readerSession(request))
+}
+
+const readerMaxAge = 30 * 86400
+export async function readerSession(request: NextRequest): Promise<null | { renew: boolean }> {
+  const payload = await readScopedToken(request.cookies.get('brief-reader')?.value, 'brief-reader')
+  // Sesión deslizante: si se usa seguido, nunca vence.
+  if (payload) return { renew: payload.exp - Date.now() < (readerMaxAge - 86400) * 1000 }
+  return await verifyAdminToken(request.cookies.get('admin-token')?.value) ? { renew: false } : null
+}
+
+export async function readerCookie() {
+  const token = await createScopedToken('brief-reader', readerMaxAge * 1000)
+  return { name: 'brief-reader', value: token, options: { httpOnly: true, secure: process.env.NODE_ENV === 'production', sameSite: 'lax' as const, path: '/', maxAge: readerMaxAge } }
+}
+
+export function serializeCookie({ name, value, options }: Awaited<ReturnType<typeof readerCookie>>) {
+  return `${name}=${value}; Path=${options.path}; Max-Age=${options.maxAge}; HttpOnly; SameSite=Lax${options.secure ? '; Secure' : ''}`
 }
 
 export function sameOrigin(request: NextRequest) {

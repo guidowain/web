@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { checkAdminCredentials, createScopedToken } from '@/lib/admin/auth'
-import { sameOrigin, smallJson } from '@/lib/brief/access'
+import { checkAdminCredentials } from '@/lib/admin/auth'
+import { readerCookie, sameOrigin, smallJson } from '@/lib/brief/access'
 import { createHash, timingSafeEqual } from 'crypto'
 export const runtime = 'nodejs'
 export async function POST(request: NextRequest) {
@@ -11,9 +11,9 @@ export async function POST(request: NextRequest) {
     const pin = process.env.NEWS_PIN
     const pinMatches = Boolean(pin && timingSafeEqual(createHash('sha256').update(body.password).digest(), createHash('sha256').update(pin).digest()))
     if (!pinMatches && !checkAdminCredentials(body.password)) return NextResponse.json({ error: 'PIN incorrecto' }, { status: 401 })
-    const token = await createScopedToken('brief-reader', 30 * 86400_000)
+    const cookie = await readerCookie()
     const response = NextResponse.json({ ok: true })
-    response.cookies.set('brief-reader', token, { httpOnly: true, secure: process.env.NODE_ENV === 'production', sameSite: 'lax', path: '/', maxAge: 30 * 86400 })
+    response.cookies.set(cookie.name, cookie.value, cookie.options)
     return response
   } catch { return NextResponse.json({ error: 'No se pudo iniciar sesión' }, { status: 400 }) }
 }

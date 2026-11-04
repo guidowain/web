@@ -2,12 +2,19 @@ import { promises as fs } from 'fs'
 import path from 'path'
 import { isIP } from 'net'
 import { createCipheriv, createDecipheriv, createHash, randomBytes } from 'crypto'
-import { getFileFromGithub, updateFileFromGithub } from '@/lib/admin/githubContent'
+import { getFileFromGithub, listDirFromGithub, updateFileFromGithub } from '@/lib/admin/githubContent'
 import seed from '@/content/briefSeed.json'
 
+export type Noticia = {
+  id: string; categoria: string; fuente: string; titulo: string; resumen: string; url: string
+  imagen?: { url: string; alt: string }; fuentes_resumen?: { nombre: string; url: string }[]
+  // Campos editoriales opcionales: el publicador puede enviarlos o no.
+  bajada?: string; claves?: string[]; por_que_importa?: string; publicado_en?: string
+}
 export type Brief = {
   edicion_id: string; fecha: string; turno: 'manana' | 'tarde'; generado_en: string
-  noticias: { id: string; categoria: string; fuente: string; titulo: string; resumen: string; url: string; imagen?: { url: string; alt: string }; fuentes_resumen?: { nombre: string; url: string }[] }[]
+  resumen?: string; lo_importante?: string[]
+  noticias: Noticia[]
 }
 export const validId = (value: unknown): value is string => typeof value === 'string' && /^[A-Za-z0-9_-]{1,100}$/.test(value)
 const latestPath = 'data/brief/latest.enc'
@@ -15,6 +22,18 @@ const readsPath = 'data/brief/lecturas.enc'
 function localPath(file: string) {
   if (!file.startsWith('data/brief/') || file.includes('..')) throw new Error('Ruta inválida')
   return path.join(process.cwd(), 'data', 'brief', file.slice('data/brief/'.length))
+}
+
+function optionalText(value: unknown, max: number, label: string): string | undefined {
+  if (value === undefined || value === null || value === '') return undefined
+  if (typeof value !== 'string' || value.length > max) throw new Error(label + ' inválido')
+  return value.trim() || undefined
+}
+function optionalList(value: unknown, maxItems: number, maxLength: number, label: string): string[] | undefined {
+  if (value === undefined || value === null) return undefined
+  if (!Array.isArray(value) || value.length > maxItems) throw new Error(label + ' inválido')
+  const items = value.map(item => optionalText(item, maxLength, label)).filter((item): item is string => Boolean(item))
+  return items.length ? items : undefined
 }
 
 export function parseBrief(input: unknown): Brief {
@@ -43,13 +62,43 @@ export function parseBrief(input: unknown): Brief {
       const u = new URL(image.url)
       if (u.protocol !== 'https:' || u.username || u.password || (u.port && u.port !== '443') || isIP(u.hostname.replace(/[\[\]]/g, '')) || u.hostname === 'localhost' || u.hostname.endsWith('.localhost') || u.hostname.endsWith('.local')) throw new Error('Imagen inválida')
     }
+    const bajada = optionalText(item.bajada, 400, 'Bajada')
+    const claves = optionalList(item.claves, 6, 300, 'Claves')
+    const porQue = optionalText(item.por_que_importa, 600, 'Por qué importa')
+    const publicado = optionalText(item.publicado_en, 40, 'Fecha')
+    if (publicado && !Number.isFinite(Date.parse(publicado))) throw new Error('Fecha inválida')
     return { id: item.id, categoria: item.categoria, fuente: item.fuente,
       titulo: item.titulo, resumen: item.resumen, url: item.url,
       ...(image ? { imagen: { url: image.url, alt: image.alt } } : {}),
-      ...(sources ? { fuentes_resumen: sources.map(s => ({ nombre: s.nombre, url: s.url })) } : {}) }
+      ...(sources ? { fuentes_resumen: sources.map(s => ({ nombre: s.nombre, url: s.url })) } : {}),
+      ...(bajada ? { bajada } : {}), ...(claves ? { claves } : {}),
+      ...(porQue ? { por_que_importa: porQue } : {}), ...(publicado ? { publicado_en: publicado } : {}) }
   })
+  const resumen = optionalText(value.resumen, 1200, 'Resumen')
+  const loImportante = optionalList(value.lo_importante, 6, 300, 'Lo importante')
   return { edicion_id: value.edicion_id, fecha: value.fecha, turno: value.turno,
-    generado_en: value.generado_en, noticias }
+    generado_en: value.generado_en, ...(resumen ? { resumen } : {}),
+    ...(loImportante ? { lo_importante: loImportante } : {}), noticias }
+}
+
+// Los IDs del publicador codifican la hora local: 20261104-090004-269474.
+export function editionMoment(id: string): { fecha: string; hora: string; orden: string } | null {
+  const match = /^(\d{4})(\d{2})(\d{2})-(\d{2})(\d{2})(\d{2})/.exec(id)
+  if (!match) return null
+  return { fecha: `${match[1]}-${match[2]}-${match[3]}`, hora: `${match[4]}:${match[5]}`, orden: match.slice(1, 7).join('') }
+}
+
+export async function listEditions(): Promise<string[]> {
+  let names: string[]
+  try {
+    names = process.env.VERCEL ? await listDirFromGithub('data/brief/ediciones')
+      : await fs.readdir(path.join(process.cwd(), 'data', 'brief', 'ediciones'))
+  } catch (error) {
+    if ((error as NodeJS.ErrnoException).code === 'ENOENT' || String(error).includes('GitHub API error 404:')) return []
+    throw error
+  }
+  return names.filter(name => name.endsWith('.enc')).map(name => name.slice(0, -4)).filter(validId)
+    .sort((a, b) => (editionMoment(b)?.orden || b).localeCompare(editionMoment(a)?.orden || a))
 }
 
 async function read(file: string): Promise<string | null> {
