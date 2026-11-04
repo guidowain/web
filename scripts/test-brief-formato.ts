@@ -1,6 +1,7 @@
 import assert from 'node:assert/strict'
 import { editionMoment, parseBrief } from '../src/lib/brief/storage'
 import { parsePrefs } from '../src/lib/brief/render'
+import { revisarEdicion, revisarNoticia } from '../src/lib/brief/calidad'
 
 const base = { edicion_id: 'formato-test', fecha: '2026-11-04', turno: 'manana', generado_en: '2026-11-04T12:00:00Z',
   noticias: [{ id: 'n1', categoria: 'AI', fuente: 'Medio', titulo: 'Título', resumen: 'Resumen', url: 'https://example.org/a' }] }
@@ -32,4 +33,15 @@ assert.equal(editionMoment('otro-formato'), null)
 assert.deepEqual(parsePrefs('oscuro.2.una'), { tema: 'oscuro', tamano: 2, modo: 'una' })
 assert.deepEqual(parsePrefs('"><script>'), { tema: 'auto', tamano: 1, modo: 'lista' })
 assert.deepEqual(parsePrefs(undefined), { tema: 'auto', tamano: 1, modo: 'lista' })
-console.log('Formato: campos opcionales, compatibilidad, límites, fechas de edición y preferencias verificados.')
+// Revisión de calidad.
+const reglas = (titulo: string, resumen: string, extra = {}) => revisarNoticia({ ...base.noticias[0], titulo, resumen, ...extra }).map(a => a.regla)
+const prosa = 'El Banco Central redujo la tasa de política monetaria de 32% a 29% anual tras confirmar una inflación mensual de 1,9%. ' + 'La medida busca abaratar el crédito sin presionar sobre el tipo de cambio oficial, que cerró estable. '.repeat(5)
+assert.deepEqual(reglas('El BCRA bajó la tasa de referencia al 29% tras una inflación de 1,9%', prosa), [])
+assert.ok(reglas('Debate: ¿Podría la IA destruirnos a todos?', prosa).includes('titulo-pregunta'))
+assert.ok(reglas('Mercados: las bolsas negocian en rojo y cae el riesgo país en la rueda', prosa).includes('titulo-rotulo'))
+assert.ok(reglas('Dólar blue en vivo: cuánto cotiza este miércoles en la city porteña hoy', prosa).includes('titulo-vacio'))
+assert.ok(reglas('El BCRA bajó la tasa de referencia al 29% tras una inflación de 1,9%', 'Muy corto.').includes('resumen-extension'))
+assert.ok(reglas('El BCRA bajó la tasa de referencia al 29% tras una inflación de 1,9%', prosa, { por_que_importa: 'Es importante porque podría tener impacto.' }).includes('por-que-generico'))
+const dup = revisarEdicion(parseBrief({ ...base, noticias: [base.noticias[0], { ...base.noticias[0], id: 'n2' }] })).map(a => a.regla)
+assert.ok(dup.includes('url-repetida'))
+console.log('Formato: campos opcionales, compatibilidad, límites, fechas de edición, preferencias y revisión de calidad verificados.')

@@ -1,3 +1,3 @@
 {
-  "ignoreCommand": "git diff --quiet HEAD^ HEAD -- . ':(exclude)data'"
+  "ignoreCommand": "git diff --quiet HEAD^ HEAD -- . ':(exclude)data' ':(exclude)brief'"
 }

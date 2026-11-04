@@ -1,0 +1,123 @@
+{
+  "version": 1,
+  "actualizado": "2026-11-04",
+  "descripcion": "Fuentes del brief. El publicador del Mac lee este archivo desde GitHub (raw) y usa su copia local si no hay red. Editarlo en GitHub alcanza para sumar o quitar fuentes: no hace falta redesplegar el sitio.",
+  "verificacion": "Las URLs se armaron sin poder probarlas desde la nube. Antes de usarlas, correr en el Mac: npx tsx scripts/brief-verificar-fuentes.ts. Las que fallen se desactivan solas (ver brief/INTEGRACION.md).",
+  "reglas": {
+    "ventana_horas": 20,
+    "max_por_fuente": 2,
+    "max_noticias": 14,
+    "objetivo_noticias": [12, 14],
+    "peso": "Multiplica el puntaje editorial de cada candidata: 1.0 = fuente primaria o de referencia; 0.5 = útil para descubrir, requiere confirmar con otra fuente."
+  },
+  "categorias": {
+    "AI": { "etiqueta": "IA", "cupo": [2, 4], "foco": "Lanzamientos de modelos y herramientas que cambian el trabajo diario, regulación, seguridad, negocios de las grandes compañías de IA." },
+    "Argentina": { "etiqueta": "Argentina", "cupo": [2, 4], "foco": "Economía, dólar, inflación, tasas, decisiones de gobierno y leyes con efecto concreto en ingresos, ahorro o trabajo." },
+    "Finance": { "etiqueta": "Finanzas", "cupo": [1, 3], "foco": "Fed, tasas globales, Wall Street, ETF (SCHD, VOO, QQQ), bitcoin solo por ETF o regulación." },
+    "Apple": { "etiqueta": "Apple", "cupo": [1, 3], "foco": "Lanzamientos confirmados, sistemas operativos, herramientas pro (Mac, iPad, apps creativas). Rumores solo si son sólidos y con fecha." },
+    "Design": { "etiqueta": "Diseño", "cupo": [0, 2], "foco": "Fotografía, retoque, Photoshop, Lightroom, Capture One, Firefly, cámaras y herramientas creativas con IA." },
+    "Marketing": { "etiqueta": "Marketing", "cupo": [1, 2], "foco": "Publicidad digital, SEO, cambios en Google/Meta/TikTok, campañas con IA, medición." },
+    "Tools & Automation": { "etiqueta": "Herramientas", "cupo": [0, 2], "foco": "Automatización, productividad, herramientas para construir (Vercel, GitHub, Framer, Claude, Codex)." },
+    "Business": { "etiqueta": "Negocios", "cupo": [0, 2], "foco": "Startups, tecnología y negocios con efecto en la industria; Latinoamérica." },
+    "World": { "etiqueta": "Mundo", "cupo": [0, 2], "foco": "Solo hechos de magnitud global (guerras, elecciones clave, crisis) que cambian el contexto." }
+  },
+  "fuentes": [
+    { "id": "lanacion-economia", "nombre": "La Nación", "url": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/category/economia/?outputType=xml", "categoria": "Argentina", "idioma": "es", "peso": 1.0, "paywall": true },
+    { "id": "lanacion-politica", "nombre": "La Nación", "url": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/category/politica/?outputType=xml", "categoria": "Argentina", "idioma": "es", "peso": 0.8, "paywall": true },
+    { "id": "clarin-economia", "nombre": "Clarín", "url": "https://www.clarin.com/rss/economia/", "categoria": "Argentina", "idioma": "es", "peso": 0.9, "paywall": true },
+    { "id": "clarin-politica", "nombre": "Clarín", "url": "https://www.clarin.com/rss/politica/", "categoria": "Argentina", "idioma": "es", "peso": 0.7, "paywall": true },
+    { "id": "infobae-economia", "nombre": "Infobae", "url": "https://www.infobae.com/arc/outboundfeeds/rss/category/economia/?outputType=xml", "categoria": "Argentina", "idioma": "es", "peso": 0.9 },
+    { "id": "ambito-economia", "nombre": "Ámbito", "url": "https://www.ambito.com/rss/pages/economia.xml", "categoria": "Argentina", "idioma": "es", "peso": 0.9 },
+    { "id": "ambito-finanzas", "nombre": "Ámbito", "url": "https://www.ambito.com/rss/pages/finanzas.xml", "categoria": "Argentina", "idioma": "es", "peso": 0.8, "notas": "Excluir cotizaciones minuto a minuto." },
+    { "id": "cronista", "nombre": "El Cronista", "url": "https://www.cronista.com/arc/outboundfeeds/rss/?outputType=xml", "categoria": "Argentina", "idioma": "es", "peso": 0.8 },
+    { "id": "iprofesional", "nombre": "iProfesional", "url": "https://www.iprofesional.com/rss", "categoria": "Argentina", "idioma": "es", "peso": 0.6 },
+    { "id": "eldiarioar", "nombre": "elDiarioAR", "url": "https://www.eldiarioar.com/rss/", "categoria": "Argentina", "idioma": "es", "peso": 0.7 },
+    { "id": "chequeado", "nombre": "Chequeado", "url": "https://chequeado.com/feed/", "categoria": "Argentina", "idioma": "es", "peso": 0.6, "notas": "Útil para verificar cifras oficiales." },
+    { "id": "bloomberg-linea", "nombre": "Bloomberg Línea", "url": "https://www.bloomberglinea.com/arc/outboundfeeds/rss/?outputType=xml", "categoria": "Business", "idioma": "es", "peso": 0.8 },
+    { "id": "perfil-economia", "nombre": "Perfil", "url": "https://www.perfil.com/feed/economia", "categoria": "Argentina", "idioma": "es", "peso": 0.5 },
+
+    { "id": "fed", "nombre": "Reserva Federal", "url": "https://www.federalreserve.gov/feeds/press_all.xml", "categoria": "Finance", "idioma": "en", "peso": 1.0, "notas": "Fuente primaria: comunicados de política monetaria." },
+    { "id": "bloomberg-markets", "nombre": "Bloomberg", "url": "https://feeds.bloomberg.com/markets/news.rss", "categoria": "Finance", "idioma": "en", "peso": 1.0, "paywall": true },
+    { "id": "wsj-markets", "nombre": "The Wall Street Journal", "url": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain", "categoria": "Finance", "idioma": "en", "peso": 0.9, "paywall": true },
+    { "id": "ft", "nombre": "Financial Times", "url": "https://www.ft.com/rss/home", "categoria": "Finance", "idioma": "en", "peso": 0.9, "paywall": true },
+    { "id": "cnbc", "nombre": "CNBC", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114", "categoria": "Finance", "idioma": "en", "peso": 0.8 },
+    { "id": "sherwood", "nombre": "Sherwood News", "url": "https://sherwood.news/rss/", "categoria": "Finance", "idioma": "en", "peso": 0.8, "notas": "Fuente favorita del lector." },
+    { "id": "marketwatch", "nombre": "MarketWatch", "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories", "categoria": "Finance", "idioma": "en", "peso": 0.7 },
+    { "id": "economist-finance", "nombre": "The Economist", "url": "https://www.economist.com/finance-and-economics/rss.xml", "categoria": "Finance", "idioma": "en", "peso": 0.8, "paywall": true },
+    { "id": "yahoo-finance", "nombre": "Yahoo Finance", "url": "https://finance.yahoo.com/news/rssindex", "categoria": "Finance", "idioma": "en", "peso": 0.5 },
+
+    { "id": "openai", "nombre": "OpenAI", "url": "https://openai.com/news/rss.xml", "categoria": "AI", "idioma": "en", "peso": 1.0, "notas": "Fuente primaria." },
+    { "id": "deepmind", "nombre": "Google DeepMind", "url": "https://deepmind.google/blog/rss.xml", "categoria": "AI", "idioma": "en", "peso": 0.9 },
+    { "id": "google-ai", "nombre": "Google", "url": "https://blog.google/technology/ai/rss/", "categoria": "AI", "idioma": "en", "peso": 0.8 },
+    { "id": "verge-ai", "nombre": "The Verge", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "categoria": "AI", "idioma": "en", "peso": 0.9 },
+    { "id": "techcrunch-ai", "nombre": "TechCrunch", "url": "https://techcrunch.com/category/artificial-intelligence/feed/", "categoria": "AI", "idioma": "en", "peso": 0.8 },
+    { "id": "mit-tr-ai", "nombre": "MIT Technology Review", "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed", "categoria": "AI", "idioma": "en", "peso": 0.8 },
+    { "id": "ars-ai", "nombre": "Ars Technica", "url": "https://arstechnica.com/ai/feed/", "categoria": "AI", "idioma": "en", "peso": 0.8 },
+    { "id": "simonwillison", "nombre": "Simon Willison", "url": "https://simonwillison.net/atom/everything/", "categoria": "AI", "idioma": "en", "peso": 0.7, "notas": "Uso práctico de modelos y herramientas." },
+    { "id": "the-decoder", "nombre": "The Decoder", "url": "https://the-decoder.com/feed/", "categoria": "AI", "idioma": "en", "peso": 0.7 },
+    { "id": "huggingface", "nombre": "Hugging Face", "url": "https://huggingface.co/blog/feed.xml", "categoria": "AI", "idioma": "en", "peso": 0.6 },
+    { "id": "venturebeat-ai", "nombre": "VentureBeat", "url": "https://venturebeat.com/category/ai/feed/", "categoria": "AI", "idioma": "en", "peso": 0.5 },
+    { "id": "import-ai", "nombre": "Import AI", "url": "https://importai.substack.com/feed", "categoria": "AI", "idioma": "en", "peso": 0.5, "notas": "Semanal; útil para contexto." },
+    { "id": "latent-space", "nombre": "Latent Space", "url": "https://www.latent.space/feed", "categoria": "AI", "idioma": "en", "peso": 0.5 },
+
+    { "id": "apple-newsroom", "nombre": "Apple", "url": "https://www.apple.com/newsroom/rss-feed.rss", "categoria": "Apple", "idioma": "en", "peso": 1.0, "notas": "Fuente primaria." },
+    { "id": "macrumors", "nombre": "MacRumors", "url": "https://feeds.macrumors.com/MacRumors-All", "categoria": "Apple", "idioma": "en", "peso": 0.9 },
+    { "id": "9to5mac", "nombre": "9to5Mac", "url": "https://9to5mac.com/feed/", "categoria": "Apple", "idioma": "en", "peso": 0.9 },
+    { "id": "macstories", "nombre": "MacStories", "url": "https://www.macstories.net/feed/", "categoria": "Apple", "idioma": "en", "peso": 0.8 },
+    { "id": "appleinsider", "nombre": "AppleInsider", "url": "https://appleinsider.com/rss/news/", "categoria": "Apple", "idioma": "en", "peso": 0.7 },
+    { "id": "sixcolors", "nombre": "Six Colors", "url": "https://sixcolors.com/feed/", "categoria": "Apple", "idioma": "en", "peso": 0.7 },
+    { "id": "daringfireball", "nombre": "Daring Fireball", "url": "https://daringfireball.net/feeds/main", "categoria": "Apple", "idioma": "en", "peso": 0.6 },
+    { "id": "apple-developer", "nombre": "Apple Developer", "url": "https://developer.apple.com/news/rss/news.rss", "categoria": "Apple", "idioma": "en", "peso": 0.6, "verificada": "2026-11-04" },
+
+    { "id": "petapixel", "nombre": "PetaPixel", "url": "https://petapixel.com/feed/", "categoria": "Design", "idioma": "en", "peso": 0.9 },
+    { "id": "dpreview", "nombre": "DPReview", "url": "https://www.dpreview.com/feeds/news.xml", "categoria": "Design", "idioma": "en", "peso": 0.7 },
+    { "id": "fstoppers", "nombre": "Fstoppers", "url": "https://fstoppers.com/feed", "categoria": "Design", "idioma": "en", "peso": 0.6 },
+    { "id": "diyphotography", "nombre": "DIY Photography", "url": "https://www.diyphotography.net/feed/", "categoria": "Design", "idioma": "en", "peso": 0.5 },
+    { "id": "creativebloq", "nombre": "Creative Bloq", "url": "https://www.creativebloq.com/feeds.xml", "categoria": "Design", "idioma": "en", "peso": 0.5 },
+    { "id": "itsnicethat", "nombre": "It's Nice That", "url": "https://www.itsnicethat.com/rss", "categoria": "Design", "idioma": "en", "peso": 0.4 },
+
+    { "id": "marketingdive", "nombre": "Marketing Dive", "url": "https://www.marketingdive.com/feeds/news/", "categoria": "Marketing", "idioma": "en", "peso": 0.9 },
+    { "id": "searchengineland", "nombre": "Search Engine Land", "url": "https://searchengineland.com/feed", "categoria": "Marketing", "idioma": "en", "peso": 0.9 },
+    { "id": "google-ads", "nombre": "Google Ads", "url": "https://blog.google/products/ads-commerce/rss/", "categoria": "Marketing", "idioma": "en", "peso": 0.8, "notas": "Fuente primaria." },
+    { "id": "adweek", "nombre": "Adweek", "url": "https://www.adweek.com/feed/", "categoria": "Marketing", "idioma": "en", "peso": 0.7 },
+    { "id": "digiday", "nombre": "Digiday", "url": "https://digiday.com/feed/", "categoria": "Marketing", "idioma": "en", "peso": 0.7 },
+    { "id": "sej", "nombre": "Search Engine Journal", "url": "https://www.searchenginejournal.com/feed/", "categoria": "Marketing", "idioma": "en", "peso": 0.6 },
+    { "id": "socialmediatoday", "nombre": "Social Media Today", "url": "https://www.socialmediatoday.com/feeds/news/", "categoria": "Marketing", "idioma": "en", "peso": 0.6 },
+
+    { "id": "hn-front", "nombre": "Hacker News", "url": "https://hnrss.org/frontpage?points=250", "categoria": "Tools & Automation", "idioma": "en", "peso": 0.6, "notas": "Solo descubre: citar la fuente original del enlace." },
+    { "id": "github-changelog", "nombre": "GitHub", "url": "https://github.blog/changelog/feed/", "categoria": "Tools & Automation", "idioma": "en", "peso": 0.6 },
+    { "id": "vercel", "nombre": "Vercel", "url": "https://vercel.com/atom", "categoria": "Tools & Automation", "idioma": "en", "peso": 0.6 },
+    { "id": "zapier", "nombre": "Zapier", "url": "https://zapier.com/blog/feeds/latest/", "categoria": "Tools & Automation", "idioma": "en", "peso": 0.4 },
+    { "id": "producthunt", "nombre": "Product Hunt", "url": "https://www.producthunt.com/feed", "categoria": "Tools & Automation", "idioma": "en", "peso": 0.4 },
+
+    { "id": "bloomberg-tech", "nombre": "Bloomberg", "url": "https://feeds.bloomberg.com/technology/news.rss", "categoria": "Business", "idioma": "en", "peso": 0.8, "paywall": true },
+    { "id": "axios", "nombre": "Axios", "url": "https://api.axios.com/feed/", "categoria": "Business", "idioma": "en", "peso": 0.7 },
+    { "id": "techcrunch", "nombre": "TechCrunch", "url": "https://techcrunch.com/feed/", "categoria": "Business", "idioma": "en", "peso": 0.6 },
+    { "id": "restofworld", "nombre": "Rest of World", "url": "https://restofworld.org/feed/latest/", "categoria": "Business", "idioma": "en", "peso": 0.6 },
+    { "id": "platformer", "nombre": "Platformer", "url": "https://www.platformer.news/rss/", "categoria": "Business", "idioma": "en", "peso": 0.6 },
+    { "id": "nyt-tech", "nombre": "The New York Times", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml", "categoria": "Business", "idioma": "en", "peso": 0.6, "paywall": true },
+    { "id": "guardian-tech", "nombre": "The Guardian", "url": "https://www.theguardian.com/technology/rss", "categoria": "Business", "idioma": "en", "peso": 0.5 },
+
+    { "id": "bbc-mundo", "nombre": "BBC Mundo", "url": "https://feeds.bbci.co.uk/mundo/rss.xml", "categoria": "World", "idioma": "es", "peso": 0.8 },
+    { "id": "elpais-economia", "nombre": "El País", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia/portada", "categoria": "World", "idioma": "es", "peso": 0.6 }
+  ],
+  "busquedas": {
+    "descripcion": "Consultas de Google News para medios sin RSS. Los enlaces llegan como news.google.com/rss/articles/…: resolver la URL real antes de extraer el artículo y citar el medio original, nunca Google News.",
+    "lista": [
+      { "id": "reuters-mercados", "nombre": "Reuters", "url": "https://news.google.com/rss/search?q=site:reuters.com+(markets+OR+business)+when:1d&hl=en-US&gl=US&ceid=US:en", "categoria": "Finance", "peso": 0.9 },
+      { "id": "reuters-argentina", "nombre": "Reuters", "url": "https://news.google.com/rss/search?q=site:reuters.com+Argentina+when:2d&hl=en-US&gl=US&ceid=US:en", "categoria": "Argentina", "peso": 0.9 },
+      { "id": "anthropic", "nombre": "Anthropic", "url": "https://news.google.com/rss/search?q=Anthropic+Claude+when:2d&hl=en-US&gl=US&ceid=US:en", "categoria": "AI", "peso": 0.7 },
+      { "id": "adobe-creativo", "nombre": "Adobe", "url": "https://news.google.com/rss/search?q=(Photoshop+OR+Lightroom+OR+%22Adobe+Firefly%22)+when:3d&hl=en-US&gl=US&ceid=US:en", "categoria": "Design", "peso": 0.7 },
+      { "id": "ap-mundo", "nombre": "AP", "url": "https://news.google.com/rss/search?q=site:apnews.com+when:1d&hl=en-US&gl=US&ceid=US:en", "categoria": "World", "peso": 0.7 }
+    ]
+  },
+  "exclusiones": [
+    "Cripto fuera de bitcoin, ETF de bitcoin o regulación.",
+    "ANSES y trámites de cobro.",
+    "Cotizaciones minuto a minuto, «dólar hoy en vivo» y aperturas de mercado sin un hecho nuevo.",
+    "Nombramientos y movimientos de personal en agencias de marketing.",
+    "Podcasts, episodios y resúmenes semanales sin hecho nuevo («en el episodio de esta semana…»).",
+    "Notas de opinión, previas («se espera», «qué puede pasar») y rumores sin fecha ni fuente identificable.",
+    "Ofertas, descuentos y guías de compra."
+  ]
+}
