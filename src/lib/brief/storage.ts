@@ -188,6 +188,33 @@ export async function publishBrief(brief: Brief) {
     }
     return encrypt(encoded)
   })
+  // El índice es accesorio: si falla, la edición ya quedó publicada.
+  await addToIndex([indexEntry(brief)]).catch(() => {})
+}
+
+// Índice del archivo: titulares de cada edición, para no descifrar todas al listar.
+export type IndiceItem = { id: string; fecha: string; turno: Brief['turno']; total: number; titulares: string[] }
+const indexPath = 'data/brief/indice.enc'
+export const indexEntry = (brief: Brief): IndiceItem => ({ id: brief.edicion_id, fecha: brief.fecha, turno: brief.turno,
+  total: brief.noticias.length, titulares: brief.noticias.slice(0, 3).map(item => item.titulo) })
+export async function loadIndex(): Promise<IndiceItem[]> {
+  const data = await read(indexPath)
+  const list = data ? JSON.parse(decrypt(data)) : []
+  return Array.isArray(list) ? list.filter(item => item && validId(item.id) && Array.isArray(item.titulares)) : []
+}
+export async function addToIndex(items: IndiceItem[]) {
+  if (!items.length) return
+  await update(indexPath, old => {
+    const known = new Map<string, IndiceItem>((old ? JSON.parse(decrypt(old)) as IndiceItem[] : []).map(item => [item.id, item]))
+    let changed = false
+    for (const item of items) if (JSON.stringify(known.get(item.id)) !== JSON.stringify(item)) { known.set(item.id, item); changed = true }
+    return changed ? encrypt(JSON.stringify(Array.from(known.values()).slice(-800))) : null
+  })
+}
+export async function loadArchived(id: string): Promise<Brief | null> {
+  if (!validId(id)) return null
+  const data = await read(`data/brief/ediciones/${id}.enc`)
+  return data ? parseBrief(JSON.parse(decrypt(data))) : null
 }
 
 function stateKey() {

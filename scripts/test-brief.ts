@@ -84,6 +84,7 @@ async function main() {
   const archiveHtml = await archive.text()
   assert.match(archiveHtml, /Archivo/)
   assert.match(archiveHtml, /href="\/brief"/)
+  assert.match(archiveHtml, /class="edition-heads"><li>/, 'El archivo muestra titulares')
   const older = /href="\/brief\?e=([A-Za-z0-9_-]+)"/.exec(archiveHtml)?.[1]
   if (older) {
     const page = await fetch(base + '/brief?e=' + older, { headers: { Cookie: cookie } })

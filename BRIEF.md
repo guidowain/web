@@ -34,7 +34,7 @@ La portada muestra fecha, cantidad de noticias, minutos de lectura, «Lo importa
 
 **Escuchar** lee la edición con la voz del sistema (prefiere es-AR), noticia por noticia, con pausa, saltos, velocidad y avance automático. No usa servicios pagos. Ajustes: tema claro, oscuro o automático, tamaño de texto, voz y velocidad. Las preferencias visuales viajan en la cookie `brief-prefs`, así que la página llega con el tema correcto, sin parpadeo.
 
-`/brief/archivo` lista todas las ediciones por día, con su estado de lectura; `/brief?e=ID` abre una edición archivada con navegación a la anterior y a la siguiente. `/api/brief/estado` devuelve en una sola consulta la última edición y las leídas: el lector lo consulta cada minuto y avisa cuando hay una edición nueva. La sesión del lector se renueva sola al usarla; el PIN se vuelve a pedir solo tras 30 días sin abrir el brief.
+`/brief/archivo` lista todas las ediciones por día, con sus primeros titulares y su estado de lectura. Los titulares salen de `data/brief/indice.enc` (cifrado), que se actualiza al publicar; las ediciones anteriores se suman solas, de a 12 por visita al archivo; `/brief?e=ID` abre una edición archivada con navegación a la anterior y a la siguiente. `/api/brief/estado` devuelve en una sola consulta la última edición y las leídas: el lector lo consulta cada minuto y avisa cuando hay una edición nueva. La sesión del lector se renueva sola al usarla; el PIN se vuelve a pedir solo tras 30 días sin abrir el brief.
 
 El feedback negativo ofrece motivos rápidos que llegan como texto al Mac. Cada noticia se puede compartir.
 

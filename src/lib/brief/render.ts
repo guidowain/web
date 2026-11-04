@@ -1,7 +1,7 @@
 import { createHash } from 'crypto'
 import { readFileSync } from 'fs'
 import path from 'path'
-import { editionMoment, type Brief, type Noticia } from './storage'
+import { editionMoment, type Brief, type IndiceItem, type Noticia } from './storage'
 
 const esc = (value: string) => value.replace(/[&<>"']/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[char]!))
 const read = (file: string) => readFileSync(path.join(process.cwd(), 'public', file), 'utf8')
@@ -150,7 +150,7 @@ ${dialog}
   return documentResponse(body, `Brief · ${longDate(brief.fecha)}`, script, 200, context.prefs)
 }
 
-export function renderArchive(ids: string[], reads: string[], latestId: string | null, prefs: Prefs) {
+export function renderArchive(ids: string[], reads: string[], latestId: string | null, prefs: Prefs, index = new Map<string, IndiceItem>()) {
   const byDay = new Map<string, { id: string; hora: string }[]>()
   for (const id of ids) {
     const moment = editionMoment(id)
@@ -165,7 +165,10 @@ export function renderArchive(ids: string[], reads: string[], latestId: string |
     const name = Number.isFinite(hour) && edition.hora ? (hour < 12 ? 'Mañana' : 'Tarde') : 'Edición'
     const isRead = readSet.has(edition.id)
     const href = edition.id === latestId ? '/brief' : `/brief?e=${esc(edition.id)}`
-    return `<li><a class="edition${isRead ? ' read' : ''}" href="${href}"><span class="edition-name">${name}</span><span class="edition-hour">${esc(edition.hora)}</span>${edition.id === latestId ? '<span class="badge">Última</span>' : ''}<span class="edition-state">${isRead ? `${icon('check', 15)} Leída` : '<i class="dot unread"></i> Sin leer'}</span></a></li>`
+    const info = index.get(edition.id)
+    const shift = info ? (info.turno === 'manana' ? 'Mañana' : 'Tarde') : name
+    const heads = info?.titulares.length ? `<ul class="edition-heads">${info.titulares.slice(0, 2).map(title => `<li>${esc(title)}</li>`).join('')}</ul>` : ''
+    return `<li><a class="edition${isRead ? ' read' : ''}" href="${href}"><span class="edition-row"><span class="edition-name">${shift}</span><span class="edition-hour">${esc(edition.hora)}${info ? ` · ${info.total} noticias` : ''}</span>${edition.id === latestId ? '<span class="badge">Última</span>' : ''}<span class="edition-state">${isRead ? `${icon('check', 15)} Leída` : '<i class="dot unread"></i> Sin leer'}</span></span>${heads}</a></li>`
   }).join('')}</ul></li>`).join('')
   const body = `<div class="app archive-page"><header class="top"><a class="brand" href="/brief">Brief</a><span class="top-date">Archivo</span><div class="top-actions"><a class="icon-button" href="/brief" aria-label="Última edición">${icon('close')}</a></div></header><main class="archive"><h1>Archivo</h1><p class="edition-meta">${ids.length} ediciones · ${unread} sin leer</p>${ids.length ? `<ol class="days">${days}</ol>` : '<p class="empty">Todavía no hay ediciones archivadas.</p>'}</main></div>`
   return documentResponse(body, 'Brief · Archivo', '', 200, prefs)

@@ -2,7 +2,7 @@ import assert from 'node:assert/strict'
 import { mkdtemp, readFile, rm } from 'node:fs/promises'
 import { tmpdir } from 'node:os'
 import path from 'node:path'
-import { loadBrief, loadEdition, loadReads, markReads, parseBrief, publishBrief } from '../src/lib/brief/storage'
+import { loadBrief, loadEdition, loadIndex, loadReads, markReads, parseBrief, publishBrief } from '../src/lib/brief/storage'
 
 async function main() {
   const cwd = process.cwd(), folder = await mkdtemp(path.join(tmpdir(), 'brief-images-'))
@@ -16,6 +16,7 @@ async function main() {
     assert.deepEqual((await loadBrief())?.noticias[0].imagen, photo)
     assert.deepEqual((await loadEdition(brief.edicion_id))?.noticias[0].imagen, photo)
     assert.ok((await loadReads()).includes(brief.edicion_id), 'Agregar imágenes conserva la lectura')
+    assert.deepEqual((await loadIndex()).find(item => item.id === brief.edicion_id)?.titulares, ['Noticia'], 'Publicar actualiza el índice del archivo')
     const encrypted = await readFile('data/brief/latest.enc', 'utf8')
     await publishBrief(brief); await publishBrief(illustrated)
     assert.equal(await readFile('data/brief/latest.enc', 'utf8'), encrypted, 'Reintentos idempotentes, sin eliminar imágenes')
