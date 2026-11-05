@@ -34,7 +34,7 @@ La página abre directo en los artículos de la última edición: arriba solo un
 
 Ajustes: tema claro, oscuro o automático y tamaño de texto. Las preferencias viajan en la cookie `brief-prefs`, así que la página llega con el tema correcto, sin parpadeo. En pantallas anchas la lista va en dos columnas, con la primera noticia a todo el ancho.
 
-No hay archivo: `/brief` muestra siempre la última edición. `/api/brief/estado` devuelve en una sola consulta la última edición y las leídas; el lector lo consulta cada minuto y avisa cuando hay una edición nueva. La sesión del lector se renueva sola al usarla; el PIN se vuelve a pedir solo tras 30 días sin abrir el brief.
+No hay archivo: `/brief` muestra siempre la última edición y solo se guarda esa (`data/brief/latest.enc`); los pulgares y «Ya leí» valen para la edición vigente. `/api/brief/estado` devuelve en una sola consulta la última edición y las leídas; el lector lo consulta cada minuto y avisa cuando hay una edición nueva. La sesión del lector se renueva sola al usarla; el PIN se vuelve a pedir solo tras 30 días sin abrir el brief.
 
 El feedback negativo ofrece motivos rápidos que llegan como texto al Mac.
 

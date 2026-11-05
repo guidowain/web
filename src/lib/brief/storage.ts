@@ -115,10 +115,9 @@ export async function loadBrief(): Promise<Brief | null> {
 
 export async function loadEdition(id: string): Promise<Brief | null> {
   if (!validId(id)) return null
+  // Solo se guarda la edición vigente: no hay archivo.
   const latest = await loadBrief()
-  if (latest?.edicion_id === id) return latest
-  const data = await read(`data/brief/ediciones/${id}.enc`)
-  return data ? parseBrief(JSON.parse(decrypt(data))) : null
+  return latest?.edicion_id === id ? latest : null
 }
 
 export type Feedback = { id: string; edicion_id: string; noticia_id: string; valor: 'util' | 'no_util'; comentario: string; creado_en: string; titulo: string; categoria: string; fuente: string; url: string }
@@ -151,12 +150,6 @@ function mergeImages(previous: Brief, incoming: Brief): Brief {
 
 export async function publishBrief(brief: Brief) {
   const encoded = JSON.stringify(brief)
-  await update(`data/brief/ediciones/${brief.edicion_id}.enc`, old => {
-    if (!old) return encrypt(encoded)
-    const prior = parseBrief(JSON.parse(decrypt(old)))
-    const next = JSON.stringify(mergeImages(prior, brief))
-    return JSON.stringify(prior) === next ? null : encrypt(next)
-  })
   await update(latestPath, old => {
     if (old) {
       const prior = parseBrief(JSON.parse(decrypt(old)))
