@@ -9,8 +9,13 @@ type Resultado = { id: string; nombre: string; url: string; estado: 'ok' | 'viej
 
 const agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15'
 
+// Solo las fechas de cada nota: la del canal (lastBuildDate o pubDate del <channel>) puede ser de hoy en un feed abandonado.
+// Las fechas más de una hora en el futuro tampoco cuentan.
 function newest(xml: string) {
-  const dates = Array.from(xml.matchAll(/<(pubDate|updated|published|dc:date)>([^<]+)<\/\1>/g)).map(m => Date.parse(m[2].trim())).filter(Number.isFinite)
+  const entries = Array.from(xml.matchAll(/<(item|entry)[\s>][\s\S]*?<\/\1>/g)).map(m => m[0])
+  const dates = entries.flatMap(entry => Array.from(entry.matchAll(/<(pubDate|updated|published|dc:date)>([^<]+)<\/\1>/g)))
+    .map(m => Date.parse(m[2].replace('<![CDATA[', '').replace(']]>', '').trim()))
+    .filter(time => Number.isFinite(time) && time <= Date.now() + 36e5)
   return dates.length ? Math.max(...dates) : null
 }
 

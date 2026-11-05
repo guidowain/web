@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "actualizado": "2026-11-04",
+  "actualizado": "2026-11-05",
   "descripcion": "Fuentes del brief. El publicador del Mac lee este archivo desde GitHub (raw) y usa su copia local si no hay red. Editarlo en GitHub alcanza para sumar o quitar fuentes: no hace falta redesplegar el sitio.",
-  "verificacion": "Las URLs se armaron sin poder probarlas desde la nube. Antes de usarlas, correr en el Mac: npx tsx scripts/brief-verificar-fuentes.ts. Las que fallen se desactivan solas (ver brief/INTEGRACION.md).",
+  "verificacion": "Verificadas desde el Mac el 2026-11-05 con npx tsx scripts/brief-verificar-fuentes.ts (detrás de Netskope hace falta NODE_EXTRA_CA_CERTS). Las que fallen se saltean solas (ver brief/INTEGRACION.md).",
   "reglas": {
     "ventana_horas": 20,
     "max_por_fuente": 2,
@@ -30,21 +30,19 @@
     { "id": "ambito-economia", "nombre": "Ámbito", "url": "https://www.ambito.com/rss/pages/economia.xml", "categoria": "Argentina", "idioma": "es", "peso": 0.9 },
     { "id": "ambito-finanzas", "nombre": "Ámbito", "url": "https://www.ambito.com/rss/pages/finanzas.xml", "categoria": "Argentina", "idioma": "es", "peso": 0.8, "notas": "Excluir cotizaciones minuto a minuto." },
     { "id": "cronista", "nombre": "El Cronista", "url": "https://www.cronista.com/arc/outboundfeeds/rss/?outputType=xml", "categoria": "Argentina", "idioma": "es", "peso": 0.8 },
-    { "id": "iprofesional", "nombre": "iProfesional", "url": "https://www.iprofesional.com/rss", "categoria": "Argentina", "idioma": "es", "peso": 0.6 },
+    { "id": "iprofesional", "nombre": "iProfesional", "url": "https://www.iprofesional.com/rss/economia", "categoria": "Argentina", "idioma": "es", "peso": 0.6 },
     { "id": "eldiarioar", "nombre": "elDiarioAR", "url": "https://www.eldiarioar.com/rss/", "categoria": "Argentina", "idioma": "es", "peso": 0.7 },
     { "id": "chequeado", "nombre": "Chequeado", "url": "https://chequeado.com/feed/", "categoria": "Argentina", "idioma": "es", "peso": 0.6, "notas": "Útil para verificar cifras oficiales." },
     { "id": "bloomberg-linea", "nombre": "Bloomberg Línea", "url": "https://www.bloomberglinea.com/arc/outboundfeeds/rss/?outputType=xml", "categoria": "Business", "idioma": "es", "peso": 0.8 },
-    { "id": "perfil-economia", "nombre": "Perfil", "url": "https://www.perfil.com/feed/economia", "categoria": "Argentina", "idioma": "es", "peso": 0.5 },
+    { "id": "perfil-economia", "nombre": "Perfil", "url": "https://www.perfil.com/feed", "categoria": "Argentina", "idioma": "es", "peso": 0.5 },
 
     { "id": "fed", "nombre": "Reserva Federal", "url": "https://www.federalreserve.gov/feeds/press_all.xml", "categoria": "Finance", "idioma": "en", "peso": 1.0, "notas": "Fuente primaria: comunicados de política monetaria." },
     { "id": "bloomberg-markets", "nombre": "Bloomberg", "url": "https://feeds.bloomberg.com/markets/news.rss", "categoria": "Finance", "idioma": "en", "peso": 1.0, "paywall": true },
     { "id": "wsj-markets", "nombre": "The Wall Street Journal", "url": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain", "categoria": "Finance", "idioma": "en", "peso": 0.9, "paywall": true },
     { "id": "ft", "nombre": "Financial Times", "url": "https://www.ft.com/rss/home", "categoria": "Finance", "idioma": "en", "peso": 0.9, "paywall": true },
     { "id": "cnbc", "nombre": "CNBC", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114", "categoria": "Finance", "idioma": "en", "peso": 0.8 },
-    { "id": "sherwood", "nombre": "Sherwood News", "url": "https://sherwood.news/rss/", "categoria": "Finance", "idioma": "en", "peso": 0.8, "notas": "Fuente favorita del lector." },
     { "id": "marketwatch", "nombre": "MarketWatch", "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories", "categoria": "Finance", "idioma": "en", "peso": 0.7 },
     { "id": "economist-finance", "nombre": "The Economist", "url": "https://www.economist.com/finance-and-economics/rss.xml", "categoria": "Finance", "idioma": "en", "peso": 0.8, "paywall": true },
-    { "id": "yahoo-finance", "nombre": "Yahoo Finance", "url": "https://finance.yahoo.com/news/rssindex", "categoria": "Finance", "idioma": "en", "peso": 0.5 },
 
     { "id": "openai", "nombre": "OpenAI", "url": "https://openai.com/news/rss.xml", "categoria": "AI", "idioma": "en", "peso": 1.0, "notas": "Fuente primaria." },
     { "id": "deepmind", "nombre": "Google DeepMind", "url": "https://deepmind.google/blog/rss.xml", "categoria": "AI", "idioma": "en", "peso": 0.9 },
@@ -56,7 +54,6 @@
     { "id": "simonwillison", "nombre": "Simon Willison", "url": "https://simonwillison.net/atom/everything/", "categoria": "AI", "idioma": "en", "peso": 0.7, "notas": "Uso práctico de modelos y herramientas." },
     { "id": "the-decoder", "nombre": "The Decoder", "url": "https://the-decoder.com/feed/", "categoria": "AI", "idioma": "en", "peso": 0.7 },
     { "id": "huggingface", "nombre": "Hugging Face", "url": "https://huggingface.co/blog/feed.xml", "categoria": "AI", "idioma": "en", "peso": 0.6 },
-    { "id": "venturebeat-ai", "nombre": "VentureBeat", "url": "https://venturebeat.com/category/ai/feed/", "categoria": "AI", "idioma": "en", "peso": 0.5 },
     { "id": "import-ai", "nombre": "Import AI", "url": "https://importai.substack.com/feed", "categoria": "AI", "idioma": "en", "peso": 0.5, "notas": "Semanal; útil para contexto." },
     { "id": "latent-space", "nombre": "Latent Space", "url": "https://www.latent.space/feed", "categoria": "AI", "idioma": "en", "peso": 0.5 },
 
@@ -74,7 +71,7 @@
     { "id": "fstoppers", "nombre": "Fstoppers", "url": "https://fstoppers.com/feed", "categoria": "Design", "idioma": "en", "peso": 0.6 },
     { "id": "diyphotography", "nombre": "DIY Photography", "url": "https://www.diyphotography.net/feed/", "categoria": "Design", "idioma": "en", "peso": 0.5 },
     { "id": "creativebloq", "nombre": "Creative Bloq", "url": "https://www.creativebloq.com/feeds.xml", "categoria": "Design", "idioma": "en", "peso": 0.5 },
-    { "id": "itsnicethat", "nombre": "It's Nice That", "url": "https://www.itsnicethat.com/rss", "categoria": "Design", "idioma": "en", "peso": 0.4 },
+    { "id": "itsnicethat", "nombre": "It's Nice That", "url": "https://www.itsnicethat.com/articles.rss", "categoria": "Design", "idioma": "en", "peso": 0.4 },
 
     { "id": "marketingdive", "nombre": "Marketing Dive", "url": "https://www.marketingdive.com/feeds/news/", "categoria": "Marketing", "idioma": "en", "peso": 0.9 },
     { "id": "searchengineland", "nombre": "Search Engine Land", "url": "https://searchengineland.com/feed", "categoria": "Marketing", "idioma": "en", "peso": 0.9 },

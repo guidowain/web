@@ -8,7 +8,7 @@ Orden recomendado: 1 (fuentes) → 3 (revisión) → 2 (campos nuevos). Cada pas
 
 ## 1. Fuentes desde el repositorio
 
-`brief/fuentes.json` reúne 70 feeds RSS en 9 categorías (incluye Fotografía/Diseño y Mundo, que antes no existían), con pesos, cupos y exclusiones, más 5 búsquedas de Google News para medios sin RSS.
+`brief/fuentes.json` reúne 67 feeds RSS en 9 categorías (incluye Fotografía/Diseño y Mundo, que antes no existían), con pesos, cupos y exclusiones, más 5 búsquedas de Google News para medios sin RSS.
 
 **Leerlo en cada corrida**, con la copia local como respaldo:
 
