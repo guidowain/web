@@ -111,7 +111,6 @@ La API de publicación (`POST /api/brief/latest`) también devuelve los `avisos`
 
 - `GET /api/brief/estado` (con el token del publicador) devuelve `{ ultima: { id, generado_en }, leidas: [...] }` en una sola consulta.
 - El feedback incluye motivos rápidos («Ya lo sabía», «Título flojo», «Resumen flojo», «Repetida», «Error o fuente dudosa», «No me interesa»). Llegan como texto en `comentario`, así que el proceso actual de `intereses.md` los toma sin cambios. Conviene contarlos por motivo: si «Título flojo» se repite, revisar el prompt de títulos.
-- El lector escucha el brief con la voz del sistema. Los títulos con verbo y cifra se entienden mucho mejor en voz alta.
 
 ## 5. Pruebas
 

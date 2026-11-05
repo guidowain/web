@@ -2,7 +2,7 @@
 
 Guía para el generador del Mac (Ollama, Qwen). Convierte artículos completos en noticias que se leen en un minuto y dejan claro qué pasó, con qué números y por qué le importa a este lector.
 
-**El lector:** retocador fotográfico y creativo freelance en Buenos Aires. Usa Apple e IA a diario para trabajar, invierte en ETF (SCHD y similares) y sigue la economía argentina porque le afecta los ingresos y el ahorro. Lee el brief a las 9 y a las 17 en el iPhone, a veces escuchándolo.
+**El lector:** retocador fotográfico y creativo freelance en Buenos Aires. Usa Apple e IA a diario para trabajar, invierte en ETF (SCHD y similares) y sigue la economía argentina porque le afecta los ingresos y el ahorro. Lee el brief a las 9 y a las 17 en el iPhone.
 
 ---
 
@@ -65,7 +65,7 @@ Una oración de hasta 220 caracteres con lo que el título no dice: la consecuen
 
 Entre 100 y 140 palabras, en uno o dos párrafos, escrito desde el artículo completo y nunca desde los primeros párrafos solamente.
 
-1. **Primera oración, el cambio central:** quién hizo qué, con el número principal. Es lo primero que se lee y lo primero que se escucha: tiene que entenderse sola.
+1. **Primera oración, el cambio central:** quién hizo qué, con el número principal. Es lo primero que se lee: tiene que entenderse sola.
 2. **Contexto:** desde cuándo, comparado con qué.
 3. **Tres a cinco datos verificables:** cifras con unidad, fechas y nombres.
 4. **Qué sigue:** próxima fecha, decisión pendiente o disponibilidad.
@@ -79,7 +79,7 @@ Prohibido:
 
 ## 5. Claves (opcional)
 
-De dos a cuatro datos de hasta 120 caracteres cada uno, para leer de un vistazo o escuchar. Cada clave es un hecho con cifra o nombre, no una opinión. Si el resumen ya es claro y corto, se omiten.
+De dos a cuatro datos de hasta 120 caracteres cada uno, para leer de un vistazo. Cada clave es un hecho con cifra o nombre, no una opinión. Si el resumen ya es claro y corto, se omiten.
 
 ## 6. Por qué importa (opcional)
 

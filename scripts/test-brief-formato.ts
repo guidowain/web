@@ -1,5 +1,5 @@
 import assert from 'node:assert/strict'
-import { editionMoment, parseBrief } from '../src/lib/brief/storage'
+import { parseBrief } from '../src/lib/brief/storage'
 import { parsePrefs } from '../src/lib/brief/render'
 import { revisarEdicion, revisarNoticia } from '../src/lib/brief/calidad'
 
@@ -26,9 +26,6 @@ for (const bad of [{ bajada: 'x'.repeat(401) }, { claves: ['a', 'b', 'c', 'd', '
 }
 assert.throws(() => parseBrief({ ...base, lo_importante: Array(7).fill('x') }))
 assert.throws(() => parseBrief({ ...base, resumen: 'x'.repeat(1201) }))
-// IDs con fecha y hora.
-assert.deepEqual(editionMoment('20261104-090004-269474'), { fecha: '2026-11-04', hora: '09:00', orden: '20261104090004' })
-assert.equal(editionMoment('otro-formato'), null)
 // Preferencias: solo valores conocidos.
 assert.deepEqual(parsePrefs('oscuro.2.una'), { tema: 'oscuro', tamano: 2, modo: 'una' })
 assert.deepEqual(parsePrefs('"><script>'), { tema: 'auto', tamano: 1, modo: 'lista' })
@@ -44,4 +41,4 @@ assert.ok(reglas('El BCRA bajó la tasa de referencia al 29% tras una inflación
 assert.ok(reglas('El BCRA bajó la tasa de referencia al 29% tras una inflación de 1,9%', prosa, { por_que_importa: 'Es importante porque podría tener impacto.' }).includes('por-que-generico'))
 const dup = revisarEdicion(parseBrief({ ...base, noticias: [base.noticias[0], { ...base.noticias[0], id: 'n2' }] })).map(a => a.regla)
 assert.ok(dup.includes('url-repetida'))
-console.log('Formato: campos opcionales, compatibilidad, límites, fechas de edición, preferencias y revisión de calidad verificados.')
+console.log('Formato: campos opcionales, compatibilidad, límites, preferencias y revisión de calidad verificados.')

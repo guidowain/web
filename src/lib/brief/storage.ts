@@ -2,7 +2,7 @@ import { promises as fs } from 'fs'
 import path from 'path'
 import { isIP } from 'net'
 import { createCipheriv, createDecipheriv, createHash, randomBytes } from 'crypto'
-import { getFileFromGithub, listDirFromGithub, updateFileFromGithub } from '@/lib/admin/githubContent'
+import { getFileFromGithub, updateFileFromGithub } from '@/lib/admin/githubContent'
 import seed from '@/content/briefSeed.json'
 
 export type Noticia = {
@@ -79,26 +79,6 @@ export function parseBrief(input: unknown): Brief {
   return { edicion_id: value.edicion_id, fecha: value.fecha, turno: value.turno,
     generado_en: value.generado_en, ...(resumen ? { resumen } : {}),
     ...(loImportante ? { lo_importante: loImportante } : {}), noticias }
-}
-
-// Los IDs del publicador codifican la hora local: 20261104-090004-269474.
-export function editionMoment(id: string): { fecha: string; hora: string; orden: string } | null {
-  const match = /^(\d{4})(\d{2})(\d{2})-(\d{2})(\d{2})(\d{2})/.exec(id)
-  if (!match) return null
-  return { fecha: `${match[1]}-${match[2]}-${match[3]}`, hora: `${match[4]}:${match[5]}`, orden: match.slice(1, 7).join('') }
-}
-
-export async function listEditions(): Promise<string[]> {
-  let names: string[]
-  try {
-    names = process.env.VERCEL ? await listDirFromGithub('data/brief/ediciones')
-      : await fs.readdir(path.join(process.cwd(), 'data', 'brief', 'ediciones'))
-  } catch (error) {
-    if ((error as NodeJS.ErrnoException).code === 'ENOENT' || String(error).includes('GitHub API error 404:')) return []
-    throw error
-  }
-  return names.filter(name => name.endsWith('.enc')).map(name => name.slice(0, -4)).filter(validId)
-    .sort((a, b) => (editionMoment(b)?.orden || b).localeCompare(editionMoment(a)?.orden || a))
 }
 
 async function read(file: string): Promise<string | null> {
@@ -188,33 +168,6 @@ export async function publishBrief(brief: Brief) {
     }
     return encrypt(encoded)
   })
-  // El índice es accesorio: si falla, la edición ya quedó publicada.
-  await addToIndex([indexEntry(brief)]).catch(() => {})
-}
-
-// Índice del archivo: titulares de cada edición, para no descifrar todas al listar.
-export type IndiceItem = { id: string; fecha: string; turno: Brief['turno']; total: number; titulares: string[] }
-const indexPath = 'data/brief/indice.enc'
-export const indexEntry = (brief: Brief): IndiceItem => ({ id: brief.edicion_id, fecha: brief.fecha, turno: brief.turno,
-  total: brief.noticias.length, titulares: brief.noticias.slice(0, 3).map(item => item.titulo) })
-export async function loadIndex(): Promise<IndiceItem[]> {
-  const data = await read(indexPath)
-  const list = data ? JSON.parse(decrypt(data)) : []
-  return Array.isArray(list) ? list.filter(item => item && validId(item.id) && Array.isArray(item.titulares)) : []
-}
-export async function addToIndex(items: IndiceItem[]) {
-  if (!items.length) return
-  await update(indexPath, old => {
-    const known = new Map<string, IndiceItem>((old ? JSON.parse(decrypt(old)) as IndiceItem[] : []).map(item => [item.id, item]))
-    let changed = false
-    for (const item of items) if (JSON.stringify(known.get(item.id)) !== JSON.stringify(item)) { known.set(item.id, item); changed = true }
-    return changed ? encrypt(JSON.stringify(Array.from(known.values()).slice(-800))) : null
-  })
-}
-export async function loadArchived(id: string): Promise<Brief | null> {
-  if (!validId(id)) return null
-  const data = await read(`data/brief/ediciones/${id}.enc`)
-  return data ? parseBrief(JSON.parse(decrypt(data))) : null
 }
 
 function stateKey() {

@@ -66,7 +66,8 @@ async function main() {
   assert.match(html, /rel="manifest" href="\/brief\.webmanifest"/)
   assert.equal((html.match(/class="story/g) || []).length, original.noticias.length)
   assert.ok(!html.includes('data-jump='), 'Sin índice de titulares: los artículos van primero')
-  for (const id of ['modo', 'escuchar', 'ajustes', 'dock', 'marcar-leida', 'ajustes-dialog', 'probar-voz']) assert.match(html, new RegExp(`id="${id}"`))
+  for (const id of ['modo', 'ajustes', 'dock', 'marcar-leida', 'ajustes-dialog']) assert.match(html, new RegExp(`id="${id}"`))
+  for (const id of ['escuchar', 'dock-play', 'voz']) assert.ok(!html.includes(`id="${id}"`), 'Sin lectura en voz alta: ' + id)
   // Preferencias guardadas en cookie: el tema y el modo se aplican sin parpadeo.
   const themed = await (await fetch(base + '/brief', { headers: { Cookie: cookie + '; brief-prefs=oscuro.3.una' } })).text()
   assert.match(themed, /<html lang="es-AR" data-theme="oscuro" data-size="3" data-mode="una">/)
@@ -77,25 +78,9 @@ async function main() {
   const state = await (await fetch(base + '/api/brief/estado', { headers: { Cookie: cookie } })).json()
   assert.equal(state.ultima.id, original.edicion_id)
   assert.ok(state.leidas.includes(original.edicion_id))
-  // Archivo y ediciones anteriores.
-  assert.equal((await fetch(base + '/brief/archivo', { redirect: 'manual' })).status, 307)
-  const archive = await fetch(base + '/brief/archivo', { headers: { Cookie: cookie } })
-  assert.equal(archive.status, 200)
-  const archiveHtml = await archive.text()
-  assert.match(archiveHtml, /Archivo/)
-  assert.match(archiveHtml, /href="\/brief"/)
-  assert.match(archiveHtml, /class="edition-heads"><li>/, 'El archivo muestra titulares')
-  const older = /href="\/brief\?e=([A-Za-z0-9_-]+)"/.exec(archiveHtml)?.[1]
-  if (older) {
-    const page = await fetch(base + '/brief?e=' + older, { headers: { Cookie: cookie } })
-    assert.equal(page.status, 200)
-    const olderHtml = await page.text()
-    assert.match(olderHtml, new RegExp(`data-edition="${older}"`))
-    assert.match(olderHtml, /data-latest="0"/)
-    assert.match(olderHtml, /Edición archivada/)
-  }
-  assert.equal((await fetch(base + '/brief?e=no-existe', { headers: { Cookie: cookie } })).status, 404)
-  assert.equal((await fetch(base + '/brief?e=../../x', { headers: { Cookie: cookie } })).status, 200, 'Un ID inválido muestra la última edición')
+  // Sin archivo: solo existe la última edición.
+  assert.equal((await fetch(base + '/brief/archivo', { headers: { Cookie: cookie }, redirect: 'manual' })).status, 404)
+  assert.ok(!html.includes('/brief/archivo'), 'Sin enlaces al archivo')
   // Sesión deslizante: una cookie a punto de vencer se renueva al abrir el brief.
   const aging = await createScopedToken('brief-reader', 2 * 86400_000)
   const renewed = await fetch(base + '/brief', { headers: { Cookie: 'brief-reader=' + aging } })

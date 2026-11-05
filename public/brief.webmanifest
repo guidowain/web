@@ -10,12 +10,29 @@
   "background_color": "#fbfaf7",
   "theme_color": "#fbfaf7",
   "icons": [
-    { "src": "/brief-icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
-    { "src": "/brief-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
-    { "src": "/brief-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
-    { "src": "/brief-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
-  ],
-  "shortcuts": [
-    { "name": "Archivo", "short_name": "Archivo", "url": "/brief/archivo", "icons": [{ "src": "/brief-icon-192.png", "sizes": "192x192" }] }
+    {
+      "src": "/brief-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/brief-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/brief-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/brief-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
   ]
 }

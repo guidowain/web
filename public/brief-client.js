@@ -40,6 +40,12 @@ function onScroll(){if(ticking)return;ticking=true;requestAnimationFrame(()=>{ti
  const line=innerHeight*.35;let found=stories[0]||endEl;for(const el of slides()){if(el.getBoundingClientRect().top<=line)found=el;else break;}setCurrent(found);});}
 flow.addEventListener('scroll',onScroll,{passive:true});addEventListener('scroll',onScroll,{passive:true});
 addEventListener('resize',()=>{if(una())goTo(current,false);});
+$('#dock-prev').addEventListener('click',()=>go(-1));
+$('#dock-next').addEventListener('click',()=>go(1));
+function updateDock(){const isStory=current.classList.contains('story'),list=slides(),i=list.indexOf(current);
+ $('#dock-pos').textContent=isStory?`${Number(current.dataset.index)+1} de ${total}`:'Fin';
+ $('#dock-title').textContent=isStory?$('h2',current).textContent:'Fin de la edición';
+ $('#dock-prev').disabled=i<=0;$('#dock-next').disabled=i>=list.length-1;}
 
 // ---- Progreso de lectura (en el dispositivo) ----
 const seenKey='brief-seen:'+editionId;let seen=new Set();try{seen=new Set(JSON.parse(store.get(seenKey)||'[]'))}catch{}
@@ -53,79 +59,11 @@ updateProgress();
 // ---- Teclado ----
 addEventListener('keydown',e=>{if(e.metaKey||e.ctrlKey||e.altKey||e.target.closest('input,textarea,select,[contenteditable]')||$('dialog[open]'))return;
  const k=e.key.toLowerCase();
- if(k==='arrowright'||k==='j'){e.preventDefault();listening?skip(1):go(1);}
- else if(k==='arrowleft'||k==='k'){e.preventDefault();listening?skip(-1):go(-1);}
+ if(k==='arrowright'||k==='j'){e.preventDefault();go(1);}
+ else if(k==='arrowleft'||k==='k'){e.preventDefault();go(-1);}
  else if(k==='u')setMode(una()?'lista':'una');
- else if(k==='l')toggleListen();
  else if(k==='o'&&current.classList.contains('story'))window.open($('.original',current).href,'_blank','noopener');
  else if(k==='escape'&&una())setMode('lista');});
-
-// ---- Escuchar ----
-const synth=window.speechSynthesis;
-let listening=false,playing=false,queue=[],qi=0,reading=null,gen=0,wake=null,utter=null,startTimer=0,systemVoice=false;
-let rate=Number(store.get('brief-rate'))||1;
-const spanish=()=>synth?synth.getVoices().filter(v=>/^es([-_]|$)/i.test(v.lang)):[];
-// Solo voces instaladas: una voz «mejorada» sin descargar no suena en iOS.
-function voice(){if(systemVoice)return null;const chosen=store.get('brief-voice'),list=spanish(),local=list.filter(v=>v.localService!==false);
- return list.find(v=>v.name===chosen)||local.find(v=>/es[-_]AR/i.test(v.lang))||local.find(v=>/es[-_](419|US|MX)/i.test(v.lang))||local.find(v=>/es[-_]ES/i.test(v.lang))||local[0]||null;}
-// Se llama dentro del toque: iOS solo habilita la voz desde un gesto, y en modo «playback» suena aunque esté en silencio.
-function prepareAudio(){try{if(navigator.audioSession&&navigator.audioSession.type!=='playback')navigator.audioSession.type='playback';}catch{}if(synth.paused)synth.resume();}
-function utterance(text){const u=new SpeechSynthesisUtterance(text),v=voice();if(v)u.voice=v;u.lang=v?v.lang:'es-MX';u.rate=rate;u.volume=1;utter=u;return u;}
-function sentences(text){const out=[];(text.match(/[^.!?…]+[.!?…]+["»”)]*\s*|[^.!?…]+$/g)||[text]).forEach(s=>{s=s.trim();if(!s)return;
- if(out.length&&(out[out.length-1].length+s.length)<180)out[out.length-1]+=' '+s;else out.push(s);});return out;}
-function chunksFor(el,intro){const t=s=>($(s,el)?.textContent||'').trim(),parts=[];
- if(intro)parts.push(intro);
- parts.push(t('h2')+'.');
- if(t('.dek'))parts.push(...sentences(t('.dek')));
- $$('.body p',el).forEach(p=>parts.push(...sentences(p.textContent)));
- const keys=$$('.claves li',el).map(li=>li.textContent.trim());if(keys.length)parts.push(...keys);
- if(t('.why'))parts.push(...sentences(t('.why')));
- return parts;}
-function speakChunk(){const g=gen;
- if(qi>=queue.length){markSeen(reading.dataset.id);const next=stories[stories.indexOf(reading)+1];
-  if(next)startStory(next);else{stopListening();goTo(endEl);toast('Fin de la edición');}return;}
- const u=utterance(queue[qi]);let started=false;
- u.onstart=()=>{started=true;clearTimeout(startTimer);};
- u.onend=()=>{if(g!==gen)return;qi++;speakChunk();};
- u.onerror=e=>{if(g!==gen||e.error==='interrupted'||e.error==='canceled')return;failed();};
- synth.speak(u);
- clearTimeout(startTimer);startTimer=setTimeout(()=>{if(!started&&g===gen)failed();},3500);}
-// Si la voz elegida no arranca, se reintenta una vez con la voz del sistema.
-function failed(){clearTimeout(startTimer);
- if(!systemVoice){systemVoice=true;gen++;synth.cancel();setTimeout(speakChunk,150);return;}
- stopListening();toast('El iPhone no reprodujo la voz. Revisá el volumen y que no esté en silencio; en Ajustes podés probar otra voz.',6000);}
-function restart(){const busy=synth.speaking||synth.pending;gen++;if(busy)synth.cancel();const g=gen;
- // Tras cancelar, iOS a veces descarta lo que se pide en el mismo instante.
- if(busy)setTimeout(()=>{if(g===gen)speakChunk();},150);else speakChunk();}
-function startStory(el,intro){reading=el;queue=chunksFor(el,intro);qi=0;
- $$('.story.speaking').forEach(s=>s.classList.remove('speaking'));el.classList.add('speaking');goTo(el);
- listening=playing=true;app.classList.add('listening','playing');updateDock();lockScreen();restart();}
-function pause(){gen++;clearTimeout(startTimer);if(synth.speaking||synth.pending)synth.cancel();playing=false;app.classList.remove('playing');updateDock();}
-function resume(){if(!reading)return;prepareAudio();playing=true;app.classList.add('playing');updateDock();lockScreen();restart();}
-function stopListening(){gen++;clearTimeout(startTimer);if(synth&&(synth.speaking||synth.pending))synth.cancel();listening=playing=false;reading=null;app.classList.remove('listening','playing');$$('.story.speaking').forEach(s=>s.classList.remove('speaking'));updateDock();wake?.release?.().catch(()=>{});wake=null;}
-function skip(d){const next=stories[stories.indexOf(reading)+d];if(next)startStory(next);else if(d>0){stopListening();goTo(endEl);}}
-function startListening(){prepareAudio();
- const el=current.classList.contains('story')?current:firstUnseen();if(!el)return;
- startStory(el,el===stories[0]&&!seen.has(el.dataset.id)?app.dataset.intro:'');
- if(!store.get('brief-voz-aviso')){store.set('brief-voz-aviso','1');toast('Si no escuchás nada, revisá que el iPhone no esté en silencio.',4500);}}
-function toggleListen(){if(!synth){toast('Este navegador no puede leer en voz alta.');return;}if(!listening)startListening();else if(playing)pause();else resume();}
-async function lockScreen(){try{if(!wake&&navigator.wakeLock)wake=await navigator.wakeLock.request('screen');}catch{}}
-document.addEventListener('visibilitychange',()=>{if(!document.hidden&&playing){wake=null;lockScreen();}});
-if(!synth){$$('#escuchar,#dock-play,#probar-voz').forEach(b=>b.hidden=true);}
-else{synth.addEventListener?.('voiceschanged',fillVoices);$('#escuchar').addEventListener('click',toggleListen);addEventListener('pagehide',()=>synth.cancel());}
-const speeds=[1,1.15,1.3,1.5,0.9],fmt=r=>String(r).replace('.',',')+'×';
-function setRate(r){rate=r;store.set('brief-rate',String(r));$('#dock-speed').textContent=fmt(r);$('#velocidad').value=String(r);if(playing)restart();}
-$('#dock-speed').textContent=fmt(rate);
-$('#dock-speed').addEventListener('click',()=>setRate(speeds[(speeds.indexOf(rate)+1)%speeds.length]));
-$('#dock-play').addEventListener('click',toggleListen);
-$('#dock-prev').addEventListener('click',()=>listening?skip(-1):go(-1));
-$('#dock-next').addEventListener('click',()=>listening?skip(1):go(1));
-$('#dock-close').addEventListener('click',stopListening);
-function updateDock(){const el=listening&&reading?reading:current,isStory=el.classList.contains('story');
- $('#dock-pos').textContent=isStory?`${Number(el.dataset.index)+1} de ${total}`:'Fin';
- $('#dock-title').textContent=isStory?$('h2',el).textContent:'Fin de la edición';
- $('#dock-play').setAttribute('aria-label',playing?'Pausar':listening?'Seguir escuchando':'Escuchar');
- const list=slides();$('#dock-prev').disabled=!listening&&list.indexOf(current)<=0;$('#dock-next').disabled=!listening&&una()&&list.indexOf(current)>=list.length-1;}
 
 // ---- Lectura sincronizada y edición nueva ----
 const readButton=$('#marcar-leida'),readStatus=$('#lectura-estado');let readKnown=false,loading=false,alreadyRead=false,hiddenAt=0;
@@ -135,7 +73,7 @@ async function refreshState(){if(loading)return;loading=true;
   if(r.status===401){readButton.hidden=true;readStatus.innerHTML='<a href="/brief/login">Entrar para guardar lectura</a>';return;}
   if(!r.ok)throw Error();const data=await r.json();readKnown=true;
   if(data.leidas.includes(editionId))showRead();else if(!alreadyRead){readButton.hidden=false;readButton.textContent='Ya leí esta edición';readStatus.textContent='';}
-  if(app.dataset.latest==='1'&&data.ultima&&data.ultima.id!==editionId)$('#nueva').hidden=false;}
+  if(data.ultima&&data.ultima.id!==editionId)$('#nueva').hidden=false;}
  catch{if(!alreadyRead){readKnown=false;readButton.hidden=false;readButton.textContent='Comprobar lectura';readStatus.textContent=navigator.onLine?'No se pudo comprobar la lectura.':'Sin conexión.';}}
  finally{loading=false;}}
 readButton.addEventListener('click',async()=>{if(!readKnown){await refreshState();return;}readButton.disabled=true;
@@ -144,7 +82,7 @@ readButton.addEventListener('click',async()=>{if(!readKnown){await refreshState(
  catch{readStatus.textContent='Lectura no guardada. Reintentá.';}finally{readButton.disabled=false;}});
 // Al volver a la app tras un rato largo, pasar directo a la edición nueva (iOS no tiene botón de recarga en modo app).
 document.addEventListener('visibilitychange',async()=>{if(document.hidden){hiddenAt=Date.now();return;}
- if(!hiddenAt||Date.now()-hiddenAt<20*60000||app.dataset.latest!=='1'||listening)return;hiddenAt=0;
+ if(!hiddenAt||Date.now()-hiddenAt<20*60000)return;hiddenAt=0;
  try{const r=await fetch('/api/brief/estado',{cache:'no-store'});if(!r.ok)return;const d=await r.json();if(d.ultima&&d.ultima.id!==editionId)location.replace('/brief');}catch{}});
 addEventListener('pageshow',refreshState);addEventListener('focus',refreshState);
 document.addEventListener('visibilitychange',()=>{if(!document.hidden)refreshState();});
@@ -179,20 +117,12 @@ feedbackForm.addEventListener('submit',e=>{e.preventDefault();if(feedbackTarget)
 
 // ---- Ajustes ----
 const settings=$('#ajustes-dialog');
-function fillVoices(){const select=$('#voz'),chosen=store.get('brief-voice')||'';select.length=1;
- spanish().filter(v=>v.localService!==false).forEach(v=>{const o=new Option(`${v.name} (${v.lang})`,v.name);o.selected=v.name===chosen;select.add(o);});}
-$('#ajustes').addEventListener('click',()=>{$$('input[name=tema]').forEach(i=>i.checked=i.value===root.dataset.theme);$$('input[name=tamano]').forEach(i=>i.checked=i.value===root.dataset.size);
- fillVoices();$('#velocidad').value=String(rate);settings.showModal();});
+$('#ajustes').addEventListener('click',()=>{$$('input[name=tema]').forEach(i=>i.checked=i.value===root.dataset.theme);$$('input[name=tamano]').forEach(i=>i.checked=i.value===root.dataset.size);settings.showModal();});
 $('#ajustes-close').addEventListener('click',()=>settings.close());
 [feedbackDialog,settings].forEach(d=>d.addEventListener('click',e=>{if(e.target!==d||savingFeedback)return;const b=d.getBoundingClientRect();if(e.clientX<b.left||e.clientX>b.right||e.clientY<b.top||e.clientY>b.bottom)d.close();}));
 $('#ajustes-form').addEventListener('submit',e=>e.preventDefault());
 $$('input[name=tema]').forEach(i=>i.addEventListener('change',()=>{root.dataset.theme=i.value;savePrefs();syncThemeColor();}));
 $$('input[name=tamano]').forEach(i=>i.addEventListener('change',()=>{root.dataset.size=i.value;savePrefs();}));
-$('#voz').addEventListener('change',e=>{store.set('brief-voice',e.target.value);systemVoice=false;if(playing)restart();});
-$('#velocidad').addEventListener('change',e=>setRate(Number(e.target.value)));
-$('#probar-voz').addEventListener('click',()=>{if(!synth)return;prepareAudio();if(listening)pause();if(synth.speaking||synth.pending)synth.cancel();
- const u=utterance('Así suena el brief.');let ok=false;u.onstart=()=>{ok=true;};synth.speak(u);
- setTimeout(()=>{if(!ok)toast('Esta voz no arrancó. Elegí otra o revisá el modo silencio.',5000);},3000);});
 const standalone=matchMedia('(display-mode: standalone)').matches||navigator.standalone===true;let installEvent=null;
 if(!standalone&&/iphone|ipad|ipod/i.test(navigator.userAgent))$('#instalar').hidden=false;
 addEventListener('beforeinstallprompt',e=>{e.preventDefault();installEvent=e;$('#instalar').hidden=false;$('#instalar-texto').textContent='Abrí el brief como app.';$('#instalar-boton').hidden=false;});
