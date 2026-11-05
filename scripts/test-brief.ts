@@ -65,8 +65,8 @@ async function main() {
   assert.match(response.headers.get('content-security-policy') || '', /manifest-src 'self'/)
   assert.match(html, /rel="manifest" href="\/brief\.webmanifest"/)
   assert.equal((html.match(/class="story/g) || []).length, original.noticias.length)
-  assert.equal((html.match(/<li data-category=/g) || []).length, original.noticias.length, 'Índice con todos los titulares')
-  for (const id of ['modo', 'escuchar', 'ajustes', 'dock', 'empezar', 'marcar-leida', 'ajustes-dialog']) assert.match(html, new RegExp(`id="${id}"`))
+  assert.ok(!html.includes('data-jump='), 'Sin índice de titulares: los artículos van primero')
+  for (const id of ['modo', 'escuchar', 'ajustes', 'dock', 'marcar-leida', 'ajustes-dialog', 'probar-voz']) assert.match(html, new RegExp(`id="${id}"`))
   // Preferencias guardadas en cookie: el tema y el modo se aplican sin parpadeo.
   const themed = await (await fetch(base + '/brief', { headers: { Cookie: cookie + '; brief-prefs=oscuro.3.una' } })).text()
   assert.match(themed, /<html lang="es-AR" data-theme="oscuro" data-size="3" data-mode="una">/)

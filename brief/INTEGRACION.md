@@ -55,10 +55,10 @@ Todos son opcionales. La web los muestra cuando llegan y los ignora cuando está
 |---|---|---|---|
 | `bajada` | noticia | 400 caracteres (ideal ≤ 220) | Subtítulo gris bajo el título |
 | `claves` | noticia | hasta 6 (ideal 2 a 4), 300 caracteres c/u | Lista con marcadores |
-| `por_que_importa` | noticia | 600 caracteres (ideal ≤ 300) | Recuadro «Por qué importa» |
+| `por_que_importa` | noticia | 600 caracteres (ideal ≤ 300) | Párrafo «Por qué importa.» al final del resumen |
 | `publicado_en` | noticia | fecha ISO 8601 | «hace 3 h» junto a la fuente |
-| `lo_importante` | edición | hasta 6 frases, 300 caracteres c/u | Recuadro «Lo importante» en la portada |
-| `resumen` | edición | 1200 caracteres | Párrafo de apertura en la portada |
+| `lo_importante` | edición | hasta 6 frases, 300 caracteres c/u | Lista breve arriba de las noticias |
+| `resumen` | edición | 1200 caracteres | Párrafo breve arriba de las noticias |
 
 Ejemplo:
 
