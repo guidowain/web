@@ -19,13 +19,10 @@ async function handleAdmin(request: NextRequest) {
 }
 
 export async function proxy(request: NextRequest) {
-  if (request.headers.get('host')?.split(':')[0] === 'brief.guidowain.com' && request.nextUrl.pathname === '/') {
-    return NextResponse.rewrite(new URL('/brief', request.url))
-  }
   if (!request.nextUrl.pathname.startsWith('/admin')) return NextResponse.next()
   return handleAdmin(request)
 }
 
 export const config = {
-  matcher: ['/', '/admin/:path*'],
+  matcher: ['/admin/:path*'],
 }
